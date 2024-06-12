@@ -36,22 +36,25 @@ st.markdown(
         justify-content: center;
         align-items: center;
         width: 100%;
-        height: 50vh;  /* 뷰포트 높이를 채웁니다 */
+        height: 50vh; /* 뷰포트 높이를 채웁니다 */
     }
     .title {
         color: black;
         font-size: 24px;
         margin-top: 20px;
         font-weight: bold;
+        text-align: center;
     }
     .content {
         width: 70%;
-        margin-top: 20px;
+        /* margin-top: 20px; */
+        margin-bottom: 20px;
         text-align: center;
+        /*
         background-color: #D9D9D9;
         border-radius: 15px;
         box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-        padding: 20px;
+        padding: 20px; */
     }
     .content-title {
         color: black;
@@ -64,15 +67,14 @@ st.markdown(
         font-size: 16px;
         margin-top: 10px;
     }
-    .file-uploader {
-        margin-top: 20px;
-        width: 70%;
-        text-align: center;
-    }
-    .file-uploader label {
-        display: block;
-        margin: 0 auto;
+    [data-testid='stFileUploader'] {
         width: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    [data-testid='stFileUploaderDropzone'] {
+        width: 60%;
     }
     </style>
     """,
@@ -80,21 +82,16 @@ st.markdown(
 )
 
 # 정가운데 배치된 이미지 출력
-st.markdown(f'''
+with st.container(border=True):
+    st.markdown(f'''
     <div class="center">
         <img src="data:image/png;base64,{image_to_base64(image)}" width="500">
         <div class="title">Slack 과정 운영 데이터 분석</div>
         <div class="content">
-            <div class="content-title">운영 중이신 과정의 Slack 데이터(.json)를 추출하여 삽입해주세요.</div>
+            <div class="content-title">운영 중인 과정의 Slack 데이터(.json)를 추출하여 삽입해주세요.</div>
             <div class="content-title__sub">< 추출 방법 가이드(노션_링크) ></div>
         </div>
-    </div>
+    </div>    
     ''', unsafe_allow_html=True)
-
-# File uploader를 중앙에 배치
-st.markdown('<div class="file-uploader">', unsafe_allow_html=True)
-uploaded_files = st.file_uploader("", type=['json'], accept_multiple_files=True)
-st.markdown('</div>', unsafe_allow_html=True)
-
-# File uploader를 중앙에 배치
-# st.file_uploader("운영 중이신 과정의 Slack 데이터(.json)를 추출하여 삽입해주세요.", type=['json'], accept_multiple_files=True)
+    
+    uploaded_files = st.file_uploader("json_data", type=['json'], accept_multiple_files=True)
