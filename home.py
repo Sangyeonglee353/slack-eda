@@ -92,7 +92,7 @@ def main():
     with st.container(border=True):
         st.markdown(f'''
         <div class="center">
-            <img src="data:image/png;base64,{image_to_base64(image)}" width="500">
+            <img src="data:image/png;base64,{image_to_base64(image)}" width="500">s
             <div class="title">Slack 과정 운영 데이터 분석</div>
             <div class="content">
                 <div class="content-title">운영 중인 과정의 Slack 데이터(.json)를 추출하여 삽입해주세요.</div>
