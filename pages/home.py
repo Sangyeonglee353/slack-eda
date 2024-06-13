@@ -8,7 +8,7 @@ from wordcloud import WordCloud
 def main():
     # Set page config
     st.set_page_config(
-        page_title="Slack 운영 데이터 시각화 대시보드",
+        page_title="Slack Dashboard",
         layout="wide"
     )
 
@@ -101,18 +101,23 @@ def main():
         </div>    
         ''', unsafe_allow_html=True)
     
-    uploaded_file = st.file_uploader("json_data", type=['json'], accept_multiple_files=True)
+    uploaded_file = st.file_uploader("json_data", type=['json'], accept_multiple_files=False)
 
     # 업로드된 파일 처리 및 페이지 전환
-    if uploaded_file is not None:
-        if 'uploaded_data' not in st.session_state:
-            data = pd.read_json(uploaded_file)
-            df = pd.json_normalize(data)
+    if uploaded_file:
+        st.markdown(f'''<div class="title">There is File</div>''', unsafe_allow_html=True)
+        # st.switch_page('analysisResult')
+        # if 'uploaded_data' not in st.session_state:
+        data = pd.read_json(uploaded_file)
+        df = pd.json_normalize(data)
 
-            # 페이지 전환을 위해 세션 상태를 업데이트하고 리디렉션
-            st.session_state['uploaded_data'] = df
-            st.session_state['page'] = 'analysisResult'
-            st.experimental_rerun()
+        # 페이지 전환을 위해 세션 상태를 업데이트하고 리디렉션
+        st.session_state['uploaded_data'] = df
+        st.session_state['page'] = 'analysisResult'
+        st.switch_page('pages/analysisResult.py')
+        
+    else:
+        st.session_state['page'] = 'home'
 
 if __name__ == "__main__":
     main()
