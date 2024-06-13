@@ -3,6 +3,12 @@ import pandas as pd
 from PIL import Image
 
 def main():
+    # Set page config
+    st.set_page_config(
+        page_title="EDA Result",
+        layout="wide"
+    )
+
     st.title("Slack 운영 데이터 분석 결과")
 
     # sidebar

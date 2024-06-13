@@ -1,6 +1,6 @@
 import streamlit as st
-import home
-import analysisResult
+import pages.home as home
+import pages.analysisResult as analysisResult
 
 # 페이지를 세션 상태에서 관리
 if 'page' not in st.session_state:
