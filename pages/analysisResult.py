@@ -13,7 +13,7 @@ def main():
 
     # sidebar
     # 이미지 파일 불러오기
-    image = Image.open('assets\images\logo_slack.png')
+    image = Image.open('../assets/images/logo_slack.png')
 
     st.sidebar.image(image)
     st.sidebar.write("Slack Channels")
