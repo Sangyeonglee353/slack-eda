@@ -32,6 +32,7 @@ def main():
         <style>
         .stApp {
             background-color: white;
+            color: black;
         }
         .center {
             display: flex;
@@ -129,6 +130,7 @@ def main():
     #     st.switch_page('pages/analysisResult.py')
         
     # 폴더 가져오기
+    # folders > folder > channels > channel
     folders_path = "../data/"
     if folders_path:
         if os.path.exists(folders_path) and os.path.isdir(folders_path):
@@ -137,10 +139,11 @@ def main():
             if folders:
                 # st.write("폴더 내 파일 목록:")
                 st.write(folders)
-                channels_path = folders_path + folders[0]
-                channels = os.listdir(channels_path)
-                st.write(channels)
-
+                folder_path = folders_path + folders[0]
+                folder = os.listdir(folder_path)
+                st.write(folder)
+                
+                
             else:
                 st.write("폴더가 비어 있습니다.")
 
