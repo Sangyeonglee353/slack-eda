@@ -2,6 +2,7 @@ import streamlit as st
 import pandas as pd
 from PIL import Image
 import os
+import json
 
 def main():
     # Set page config
@@ -12,43 +13,50 @@ def main():
 
     st.title("Slack 운영 데이터 분석 결과")
 
-    # getData
-    # 폴더 가져오기
-    # folders > folder > channels > channel
-    folders_path = "../data/"
-    if folders_path:
-        if os.path.exists(folders_path) and os.path.isdir(folders_path):
-            # 폴더 내의 파일 목록을 가져오기
-            folders = os.listdir(folders_path)
-            if folders:
-                # st.write("폴더 내 파일 목록:")
-                st.write(folders)
-                folder_path = folders_path + folders[0]
-                folder = os.listdir(folder_path)
-                st.write(folder)
-                
-                
-            else:
-                st.write("폴더가 비어 있습니다.")
-
-    else:
-        st.session_state['page'] = 'analysisResult'
-
-
     # sidebar
     # 이미지 파일 불러오기
     image = Image.open('../assets/images/logo_slack_white.png')
 
     st.sidebar.image(image)
 
-    st.sidebar.selectbox(
-        "Select a BootCamp",
-        options= folders)
-    
-    st.sidebar.write("Channel list")
-    for i in folder:
-        st.sidebar.write(i)
-    
+    # getData
+    # 폴더 및 채널 가져오기
+    # folders > folder > channel > daily
+    folders_path = "../data/"
+    if os.path.exists(folders_path) and os.path.isdir(folders_path):
+        folders = os.listdir(folders_path)
+        selected_folder = st.sidebar.selectbox("Select a BootCamp", options=folders)
+        folder_path = os.path.join(folders_path, selected_folder)
+        channels = os.listdir(folder_path)
+        filtered_channels = [channel for channel in channels if 'json' not in channel]
+        # selected_channel = st.sidebar.radio("Channel list", options=filtered_channels)
+        # 버튼 클릭 이벤트 처리
+        for channel in filtered_channels:
+            if st.sidebar.button(channel):
+                st.session_state['selected_channel'] = channel
+
+    # 선택된 채널 로드
+    if 'selected_channel' in st.session_state:
+            channel_path = os.path.join(folder_path, st.session_state['selected_channel'])
+            if os.path.isdir(channel_path):
+                files = os.listdir(channel_path)
+                jsonDataList = []
+                fileNameList = []
+                for file_name in files:
+                    if file_name.endswith('.json'):
+                        file_path = os.path.join(channel_path, file_name)
+                        with open(file_path, 'r', encoding='utf-8') as file:
+                            data = json.load(file)
+                            # st.write(f"Data from {file_name}: {data}")
+                            convertFilename = file_name.replace(".json", "")
+                            jsonData = {"date": convertFilename, "value": data}
+                            jsonDataList.append(jsonData)
+                            fileNameList.append(convertFilename)
+                            fileNameList.sort()
+                st.write("success!")
+                st.write(fileNameList)
+            else:
+                st.error("선택한 채널의 데이터 파일이 존재하지 않습니다.")
 
     # Content / Row 1
     with st.container(border=True):
