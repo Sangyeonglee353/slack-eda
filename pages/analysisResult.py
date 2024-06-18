@@ -134,30 +134,32 @@ def main():
         with st.container(border=True):
             st.write("메시지 평균 응답 시간")
 
+            # Copy data
+            df2 = df
             # Convert timestamp fields to datetime
-            df['ts'] = pd.to_datetime(df['ts'].astype(float), unit='s')
-            df['thread_ts'] = pd.to_datetime(df['thread_ts'].astype(float), unit='s', errors='coerce')
+            df2['ts'] = pd.to_datetime(df2['ts'].astype(float), unit='s')
+            df2['thread_ts'] = pd.to_datetime(df2['thread_ts'].astype(float), unit='s', errors='coerce')
 
             # Filter messages that are replies in a thread
-            replies_df = df.dropna(subset=['thread_ts'])
+            replies_df2 = df2.dropna(subset=['thread_ts'])
 
             # # Find the first reply in each thread
             # first_replies = replies_df.sort_values(by='ts').groupby('thread_ts').first().reset_index()
 
             # Sort replies by thread_ts and ts to get the second reply in each thread
-            sorted_replies = replies_df.sort_values(by=['thread_ts', 'ts'])
+            sorted_replies = replies_df2.sort_values(by=['thread_ts', 'ts'])
             second_replies = sorted_replies.groupby('thread_ts').nth(1).reset_index()
 
             # Join first replies with their original messages
-            merged_df = pd.merge(second_replies, df, left_on='thread_ts', right_on='ts', suffixes=('_reply', '_original'))
+            merged_df2 = pd.merge(second_replies, df2, left_on='thread_ts', right_on='ts', suffixes=('_reply', '_original'))
 
             # Calculate response time in minutes, hour, day
-            merged_df['response_minute'] = (merged_df['ts_reply'] - merged_df['ts_original']).dt.total_seconds() / 60.0  # in minutes
-            merged_df['response_hour'] = merged_df['response_minute'] / 60.0  # in hour
-            merged_df['response_day'] = merged_df['response_hour'] / 24.0  # in day
+            merged_df2['response_minute'] = (merged_df2['ts_reply'] - merged_df2['ts_original']).dt.total_seconds() / 60.0  # in minutes
+            merged_df2['response_hour'] = merged_df2['response_minute'] / 60.0  # in hour
+            merged_df2['response_day'] = merged_df2['response_hour'] / 24.0  # in day
 
             # Calculate average response time in minutes
-            avg_response_minute = merged_df['response_minute'].mean()
+            avg_response_minute = merged_df2['response_minute'].mean()
             avg_response_hour = avg_response_minute / 60.0 # in hour
             avg_response_day = avg_response_hour / 24.0 # in day
 
@@ -166,6 +168,36 @@ def main():
     with col3:
         with st.container(border=True):
             st.write("메시지 평균 처리 시간")
+
+            # Copy data
+            df3 = df
+            # Convert timestamp fields to datetime
+            if not pd.api.types.is_datetime64_any_dtype(df3['ts']):
+                df3['ts'] = pd.to_datetime(df3['ts'].astype(float), unit='s')
+            if not pd.api.types.is_datetime64_any_dtype(df3['thread_ts']):
+                df3['thread_ts'] = pd.to_datetime(df3['thread_ts'].astype(float), unit='s', errors='coerce')
+
+            # Filter messages that are replies in a thread
+            replies_df3 = df3.dropna(subset=['thread_ts'])
+
+            # Sort replies by thread_ts and ts to get the last reply in each thread
+            sorted_replies = replies_df3.sort_values(by=['thread_ts', 'ts'])
+            last_replies = sorted_replies.groupby('thread_ts').last().reset_index()
+
+            # Join first replies with their original messages
+            merged_df3 = pd.merge(last_replies, df3, left_on='thread_ts', right_on='ts', suffixes=('_reply', '_original'))
+
+            # Calculate process time in minutes, hour, day
+            merged_df3['process_minute'] = (merged_df3['ts_reply'] - merged_df3['ts_original']).dt.total_seconds() / 60.0  # in minutes
+            merged_df3['process_hour'] = merged_df3['process_minute'] / 60.0  # in hour
+            merged_df3['process_day'] = merged_df3['process_hour'] / 24.0  # in day
+
+            # Calculate average process time in minutes
+            avg_process_minute = merged_df3['process_minute'].mean()
+            avg_process_hour = avg_process_minute / 60.0 # in hour
+            avg_process_day = avg_process_hour / 24.0 # in day
+
+            st.write(round(avg_process_day, 2), "일")
     
     # Content / Row 3
     col4, col5 = st.columns(2)
