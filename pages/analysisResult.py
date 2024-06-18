@@ -11,8 +11,9 @@ def main():
         layout="wide"
     )
 
-    st.title("Slack 운영 데이터 분석 결과")
+    st.title("운영 데이터 분석 결과")
 
+##############################################
     # sidebar
     # 이미지 파일 불러오기
     image = Image.open('../assets/images/logo_slack_white.png')
@@ -20,7 +21,7 @@ def main():
     st.sidebar.image(image)
 
     # getData
-    # 폴더 및 채널 가져오기
+    # 1. 폴더 및 채널 가져오기
     # folders > folder > channel > daily
     folders_path = "../data/"
     if os.path.exists(folders_path) and os.path.isdir(folders_path):
@@ -36,6 +37,9 @@ def main():
                 st.session_state['selected_channel'] = channel
 
     # 선택된 채널 로드
+    # Initialize an empty list to hold all messages
+    all_messages = [] # 이렇게 할 경우 모듈화 불가
+
     if 'selected_channel' in st.session_state:
             channel_path = os.path.join(folder_path, st.session_state['selected_channel'])
             if os.path.isdir(channel_path):
@@ -53,25 +57,111 @@ def main():
                             jsonDataList.append(jsonData)
                             fileNameList.append(convertFilename)
                             fileNameList.sort()
-                st.write("success!")
-                st.write(fileNameList)
+
+                            all_messages.extend(data) # Assuming each file contains a list of messages
+
+                # st.write("success!")
+                # st.write(fileNameList)
             else:
                 st.error("선택한 채널의 데이터 파일이 존재하지 않습니다.")
 
+    # 2. Data 가공_All_Message 
+    # 2-1. 결측치 데이터 확인
+    # Create a DataFrame from the messages
+    df = pd.DataFrame(all_messages)
+
+    # Check for missing 'ts' values
+    missing_ts_df = df[df['ts'].isnull()]
+
+    # 2-2. 결측치 데이터 제거
+    # Filter out rows with missing 'ts'
+    df = df.dropna(subset=['ts'])
+
+    # 2-3. Datatime 형식 변환
+    from datetime import datetime
+
+    # Convert timestamp to datetime and extract date
+    df['date'] = df['ts'].apply(lambda x: datetime.fromtimestamp(float(x)).strftime('%y/%m/%d'))
+    
+    # 3. 일별 메시지 수치화
+    # 3-1. 일별 메시지 계산
+    # Group by date and count messages
+    message_count = df['date'].value_counts().sort_index()
+
+    # Convert the result to a DataFrame
+    message_count_df = message_count.reset_index()
+    message_count_df.columns = ['Date', 'Message Count']
+
+    import plotly.express as px
+
+##############################################
     # Content / Row 1
     with st.container(border=True):
-       st.write("일별 데이터 전송량") 
+        # st.write("일별 데이터 전송량") 
 
+        # 4. Data-Visualization with Chart
+        # Plot the data using Plotly
+        fig = px.bar(message_count_df, x='Date', y='Message Count',
+                    labels={'Date': 'Date', 'Message Count': 'Number of Messages'},
+                    title='Number of Messages per Day in Slack')
+
+        # Update x-axis to show labels at specific intervals
+        fig.update_xaxes(
+            tickmode='array',
+            tickvals=message_count_df['Date'][::5],  # Show every 5th label
+            ticktext=message_count_df['Date'][::5].astype(str)  # Labels to show as strings
+        )
+
+        # Show the plot in Streamlit
+        st.plotly_chart(fig)
+
+##############################################
     # Content / Row 2
     col1, col2, col3 = st.columns(3)
 
     with col1:
         with st.container(border=True):
-            st.write("최대 전송량")
-    
+            # st.write("최대 전송량")
+            # # 최대 Message Count 검출
+            # max_message_count = message_count_df['Message Count'].max()
+            # max_message_count_date = message_count_df.loc[message_count_df['Message Count'].idxmax()]
+
+            st.write("메시지 평균 전송량")
+            avg_message_count = message_count_df['Message Count'].mean()
+            st.write(round(avg_message_count, 0), "건")
+
     with col2:
         with st.container(border=True):
             st.write("메시지 평균 응답 시간")
+
+            # Convert timestamp fields to datetime
+            df['ts'] = pd.to_datetime(df['ts'].astype(float), unit='s')
+            df['thread_ts'] = pd.to_datetime(df['thread_ts'].astype(float), unit='s', errors='coerce')
+
+            # Filter messages that are replies in a thread
+            replies_df = df.dropna(subset=['thread_ts'])
+
+            # # Find the first reply in each thread
+            # first_replies = replies_df.sort_values(by='ts').groupby('thread_ts').first().reset_index()
+
+            # Sort replies by thread_ts and ts to get the second reply in each thread
+            sorted_replies = replies_df.sort_values(by=['thread_ts', 'ts'])
+            second_replies = sorted_replies.groupby('thread_ts').nth(1).reset_index()
+
+            # Join first replies with their original messages
+            merged_df = pd.merge(second_replies, df, left_on='thread_ts', right_on='ts', suffixes=('_reply', '_original'))
+
+            # Calculate response time in minutes, hour, day
+            merged_df['response_minute'] = (merged_df['ts_reply'] - merged_df['ts_original']).dt.total_seconds() / 60.0  # in minutes
+            merged_df['response_hour'] = merged_df['response_minute'] / 60.0  # in hour
+            merged_df['response_day'] = merged_df['response_hour'] / 24.0  # in day
+
+            # Calculate average response time in minutes
+            avg_response_minute = merged_df['response_minute'].mean()
+            avg_response_hour = avg_response_minute / 60.0 # in hour
+            avg_response_day = avg_response_hour / 24.0 # in day
+
+            st.write(round(avg_response_day, 2), "일")
     
     with col3:
         with st.container(border=True):
