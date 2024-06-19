@@ -1,0 +1,55 @@
+[
+    {
+        "user": "U05V7H78DUM",
+        "type": "message",
+        "ts": "1703217589.332529",
+        "client_msg_id": "1e583ccd-118c-48db-98d7-ef6bc430ff7f",
+        "text": "<@U065TBUL5EE> 강사님 안녕하세요. 4조 조예람입니다! 다름아니라 1시 점심시간인데 기다리면 들어오시는걸까요 ..?",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "5ea65e4bfd4e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-12\/6024317246501_5ea65e4bfd4e925e65f9_72.png",
+            "first_name": "조예람",
+            "real_name": "조예람",
+            "display_name": "",
+            "team": "T05UGFFGL07",
+            "name": "dpfka4616",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1702973351.407489",
+        "parent_user_id": "U05VADPQPCL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "L5Mki",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U065TBUL5EE"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 강사님 안녕하세요. 4조 조예람입니다! 다름아니라 1시 점심시간인데 기다리면 들어오시는걸까요 ..?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U065TBUL5EE"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

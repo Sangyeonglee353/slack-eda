@@ -1,0 +1,149 @@
+[
+    {
+        "user": "U05V81G5ZDY",
+        "type": "message",
+        "ts": "1710920477.565079",
+        "client_msg_id": "9967c23a-4383-4945-b78b-643dc4c7edb6",
+        "text": "<@U060BLVQYHW> 특정한 오류로 확인되지 않는 이상 정정이 어렵습니다 ㅠㅠ",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "db1aceeb0d90",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5994058472162_db1aceeb0d9030c57e69_72.jpg",
+            "first_name": "김현우",
+            "real_name": "김현우",
+            "display_name": "FC 김현우 매니저",
+            "team": "T05UGFFGL07",
+            "name": "hyunwoo.kim",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1710842363.744359",
+        "parent_user_id": "U060BLVQYHW",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "r7ia1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U060BLVQYHW"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 특정한 오류로 확인되지 않는 이상 정정이 어렵습니다 ㅠㅠ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U060BLVQYHW",
+        "type": "message",
+        "ts": "1710923947.983199",
+        "client_msg_id": "f2551851-d239-4a25-993c-b9d36b552921",
+        "text": "<@U05V81G5ZDY> 알겠습니다 감사합니다",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "g6cb970458b5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6cb970458b5672091fa231bd078f93da.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+            "first_name": "Sang",
+            "real_name": "Sang Hyuk SEO",
+            "display_name": "서상혁",
+            "team": "T05UGFFGL07",
+            "name": "happer96",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1710842363.744359",
+        "parent_user_id": "U060BLVQYHW",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bilzI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05V81G5ZDY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 알겠습니다 감사합니다"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0606HAGLTB",
+        "type": "message",
+        "ts": "1710984197.908829",
+        "client_msg_id": "c1a54abf-678b-411b-92e0-1b0699d9c904",
+        "text": "<@U05UNC6FNK1> <@U05V81G5ZDY> 2024.03.20 예비군 훈련 참석 인정 신청합니다. 구글폼으로 출석대장과 교육 필증 제출했습니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "461e225fff0b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5991028764501_461e225fff0b7fa69542_72.png",
+            "first_name": "Hyeongsoo",
+            "real_name": "Hyeongsoo Kim",
+            "display_name": "김형수",
+            "team": "T05UGFFGL07",
+            "name": "oony97",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3U8wB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05UNC6FNK1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05V81G5ZDY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 2024.03.20 예비군 훈련 참석 인정 신청합니다. 구글폼으로 출석대장과 교육 필증 제출했습니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "military_helmet",
+                "users": [
+                    "U05V81G5ZDY"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

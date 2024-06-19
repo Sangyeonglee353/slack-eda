@@ -1,0 +1,431 @@
+[
+    {
+        "user": "U05V7H78DUM",
+        "type": "message",
+        "ts": "1697446457.824089",
+        "client_msg_id": "DDC1ABE3-E80E-48BE-BC4E-FA9534163901",
+        "text": "<@U05UNC6FNK1> <@U05V81G5ZDY> 안녕하세요, 급하게 병원에 다녀와야해서 7시 퇴실이 어려울 것 같습니다. 중간 출석까지는 참여 하였습니다. 이 경우 HRD-Net내에서 퇴실or외출 클릭후에 출석 인정 신청하면 되는걸까요 ? ",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "5ea65e4bfd4e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-12\/6024317246501_5ea65e4bfd4e925e65f9_72.png",
+            "first_name": "조예람",
+            "real_name": "조예람",
+            "display_name": "",
+            "team": "T05UGFFGL07",
+            "name": "dpfka4616",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697446457.824089",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1697446712.400879",
+        "reply_users": [
+            "U05V81G5ZDY"
+        ],
+        "replies": [
+            {
+                "user": "U05V81G5ZDY",
+                "ts": "1697446712.400879"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dmN9P",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05UNC6FNK1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05V81G5ZDY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 안녕하세요, 급하게 병원에 다녀와야해서 7시 퇴실이 어려울 것 같습니다. "
+                            },
+                            {
+                                "type": "text",
+                                "text": "중간"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "출석까지는"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "참여"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "하였습니다"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". 이 경우 HRD-Net"
+                            },
+                            {
+                                "type": "text",
+                                "text": "내"
+                            },
+                            {
+                                "type": "text",
+                                "text": "에서 퇴실or외출 클릭후에 "
+                            },
+                            {
+                                "type": "text",
+                                "text": "출석"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "인정"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 신청하면 되는걸까요 ? "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pill",
+                "users": [
+                    "U05V81G5ZDY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05V81G5ZDY",
+        "type": "message",
+        "ts": "1697446712.400879",
+        "client_msg_id": "e7783105-a59b-4d5d-b35f-a4a0113f713f",
+        "text": "안녕하세요 행정 매니저 김현우 입니다.\n\n7시 복귀가 어려우시면\n지금 QR체크하여 조퇴로 하시면 됩니다.\n이른 퇴실QR체크는 조퇴로 표시 됩니다!\n\n정정이 필요하시면 병원 다녀오셔서 공가신청으로 진행해주세요",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "db1aceeb0d90",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5994058472162_db1aceeb0d9030c57e69_72.jpg",
+            "first_name": "김현우",
+            "real_name": "김현우",
+            "display_name": "FC 김현우 매니저",
+            "team": "T05UGFFGL07",
+            "name": "hyunwoo.kim",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697446457.824089",
+        "parent_user_id": "U05V7H78DUM",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MApc4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "안녕하세요 행정 매니저 김현우 입니다.\n\n7시 복귀가 어려우시면\n지금 QR체크하여 조퇴로 하시면 됩니다.\n이른 퇴실QR체크는 조퇴로 표시 됩니다!\n\n정정이 필요하시면 병원 다녀오셔서 공가신청으로 진행해주세요"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U05V7H78DUM"
+                ],
+                "count": 1
+            },
+            {
+                "name": "woman-bowing::skin-tone-2",
+                "users": [
+                    "U05V7H78DUM"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05UUSA6G5V",
+        "type": "message",
+        "ts": "1697506110.237949",
+        "client_msg_id": "DB92E6BA-F3A3-439A-841B-AD1081D46C56",
+        "text": "<@U05UNC6FNK1>  <@U05V81G5ZDY>  어제 밤 개인적으로 dm드렸었는데 다시 여기 남깁니다 !\n외숙모 병간호 및 상을 치루게 될 예정이라 출결문의 남깁니다",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "d70a0a97cdfb",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/6008065411153_d70a0a97cdfb413f29fe_72.png",
+            "first_name": "ImSH",
+            "real_name": "ImSH",
+            "display_name": "임서현",
+            "team": "T05UGFFGL07",
+            "name": "dlatjgus0612",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697506110.237949",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1697587918.346769",
+        "reply_users": [
+            "U06061L4S64",
+            "U05V81G5ZDY"
+        ],
+        "replies": [
+            {
+                "user": "U06061L4S64",
+                "ts": "1697506452.794339"
+            },
+            {
+                "user": "U05V81G5ZDY",
+                "ts": "1697587918.346769"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "syaJt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05UNC6FNK1"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05V81G5ZDY"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  어제 밤 개인적으로 dm"
+                            },
+                            {
+                                "type": "text",
+                                "text": "드렸었는데"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "다시"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "여기"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "남깁니다"
+                            },
+                            {
+                                "type": "text",
+                                "text": " !\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "외숙모"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "병간호"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "및"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "상을"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "치루게"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "될"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "예정이라"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "출결문의"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "남깁니다"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U05UNC6FNK1"
+                ],
+                "count": 1
+            },
+            {
+                "name": "pray::skin-tone-2",
+                "users": [
+                    "U05V81G5ZDY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06061L4S64",
+        "type": "message",
+        "ts": "1697506452.794339",
+        "client_msg_id": "24582EC4-A01B-4FFE-BE48-C94B2064B5BE",
+        "text": "서현님 DM 드리겠습니다",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "9958a6e7ea98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5988755251283_9958a6e7ea98545615ca_72.png",
+            "first_name": "LM",
+            "real_name": "LM 박진영",
+            "display_name": "LM 박진영",
+            "team": "T05UGFFGL07",
+            "name": "pjy.fc.career",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697506110.237949",
+        "parent_user_id": "U05UUSA6G5V",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "M6\/Oy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "서현님"
+                            },
+                            {
+                                "type": "text",
+                                "text": " DM "
+                            },
+                            {
+                                "type": "text",
+                                "text": "드리겠습니다"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1::skin-tone-2",
+                "users": [
+                    "U05V81G5ZDY"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,98 @@
+[
+    {
+        "user": "U05V2GDNNLT",
+        "type": "message",
+        "ts": "1712894115.137829",
+        "client_msg_id": "60c2f234-0444-42f2-a0f2-ace23a4e3f9c",
+        "text": "오늘까지 신청 마감인 RAG 해커톤이 있네요.\n일주일가량 진행되니 관심있으신 분들은 참여해보셔도 좋을 것 같습니다.\n저 같은 경우에는 해커톤같은 Intensive한 과정에서 많이 배움을 얻어가더라고요!\n다들 많이들 배워가셨으면 좋겠습니다~\n<https:\/\/lablab.ai\/event\/advanced-rag-hackathon>",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "ea660e2b5663",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5988655146706_ea660e2b566324290d7b_72.png",
+            "first_name": "장성준",
+            "real_name": "장성준 (Jun)",
+            "display_name": "장성준 (Jun)",
+            "team": "T05UGFFGL07",
+            "name": "peinguin77",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/storage.googleapis.com\/lablab-static-eu\/images\/events\/cltegpyj8000p3b6rj4ur3dsk\/undefined_imageLink_0wape0zy6.jpg",
+                "image_width": 2400,
+                "image_height": 1256,
+                "image_bytes": 411021,
+                "from_url": "https:\/\/lablab.ai\/event\/advanced-rag-hackathon",
+                "service_icon": "https:\/\/lablab.ai\/favicon_new.png",
+                "id": 1,
+                "original_url": "https:\/\/lablab.ai\/event\/advanced-rag-hackathon",
+                "fallback": "Lab Lab: Advanced RAG Hackathon",
+                "text": ":female-technologist:Explore Vectara, the trusted platform for building innovative AI applications with advanced datasets.\n:rocket: One week of intensive online development with workshops and mentorship sessions! \n:trophy:15,000 USD prize pool (including 7,000 USD in cash) with special prizes from LlamaIndex, Unstructured, Vectara, and <http:\/\/Together.ai|Together.ai>\n:handshake: Opportunities for networking with developers and startup enthusiasts.\n:bulb: Create applications that help create a positive change in the world and drive impact!\n:sleuth_or_spy:Create Vectara account to be eligible for hackathon participation and fill out the application form to be accepted.",
+                "title": "Advanced RAG Hackathon",
+                "title_link": "https:\/\/lablab.ai\/event\/advanced-rag-hackathon",
+                "service_name": "Lab Lab"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pSauk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "오늘까지 신청 마감인 RAG 해커톤이 있네요.\n일주일가량 진행되니 관심있으신 분들은 참여해보셔도 좋을 것 같습니다.\n저 같은 경우에는 해커톤같은 Intensive한 과정에서 많이 배움을 얻어가더라고요!\n다들 많이들 배워가셨으면 좋겠습니다~\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/lablab.ai\/event\/advanced-rag-hackathon"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U05VAHXECP6",
+                    "U0600HN24UX"
+                ],
+                "count": 2
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U05VAHXECP6",
+                    "U065TBUL5EE",
+                    "U05V9N22ZUK",
+                    "U0600HN24UX",
+                    "U0600GGHJTC"
+                ],
+                "count": 5
+            },
+            {
+                "name": "muscle",
+                "users": [
+                    "U05VAHXECP6",
+                    "U0600HN24UX"
+                ],
+                "count": 2
+            },
+            {
+                "name": "party_blob-1",
+                "users": [
+                    "U05VAHXECP6",
+                    "U0600HN24UX"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

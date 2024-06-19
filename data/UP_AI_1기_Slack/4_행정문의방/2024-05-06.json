@@ -1,0 +1,207 @@
+[
+    {
+        "user": "U060D1KJECR",
+        "type": "message",
+        "ts": "1715043798.252599",
+        "client_msg_id": "42d7ee74-3c18-4e5e-bf95-e1890821d0d3",
+        "text": "<@U05V81G5ZDY> <@U05UNC6FNK1>\n안녕하세요. 24\/05\/07 (화요일) 면접으로 인해 휴가 사용입니다. 구글 폼 제출 완료했습니다!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "d024d71b810e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-06\/5993779835878_d024d71b810e837e9532_72.jpg",
+            "first_name": "이현진",
+            "real_name": "이현진",
+            "display_name": "이현진",
+            "team": "T05UGFFGL07",
+            "name": "jinintg",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1715043798.252599",
+        "reply_count": 4,
+        "reply_users_count": 2,
+        "latest_reply": "1715155031.753939",
+        "reply_users": [
+            "U05V81G5ZDY",
+            "U060D1KJECR"
+        ],
+        "replies": [
+            {
+                "user": "U05V81G5ZDY",
+                "ts": "1715133157.134529"
+            },
+            {
+                "user": "U060D1KJECR",
+                "ts": "1715133880.921219"
+            },
+            {
+                "user": "U05V81G5ZDY",
+                "ts": "1715143335.634549"
+            },
+            {
+                "user": "U060D1KJECR",
+                "ts": "1715155031.753939"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hOIkM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05V81G5ZDY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05UNC6FNK1"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n안녕하세요. 24\/05\/07 (화요일) 면접으로 인해 휴가 사용입니다. 구글 폼 제출 완료했습니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "necktie",
+                "users": [
+                    "U05V81G5ZDY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05UWVA90H4",
+        "type": "message",
+        "ts": "1715050710.581529",
+        "client_msg_id": "06d843a4-5575-4776-bae6-ce87edf8d37c",
+        "text": "<@U05V81G5ZDY> <@U05UNC6FNK1>\n안녕하세요 24\/05\/09(목요일) 휴가(가족행사) 사용으로 구글 폼 제출 완료했습니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "e039a582c034",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5983012631430_e039a582c03450d83dc6_72.png",
+            "first_name": "이준형",
+            "real_name": "이준형",
+            "display_name": "이준형",
+            "team": "T05UGFFGL07",
+            "name": "hewberryd8",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hFLTI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05V81G5ZDY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05UNC6FNK1"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n안녕하세요 24\/05\/09(목요일) 휴가(가족행사) 사용으로 구글 폼 제출 완료했습니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "beach_with_umbrella",
+                "users": [
+                    "U05V81G5ZDY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05VAU596PP",
+        "type": "message",
+        "ts": "1715057303.369179",
+        "client_msg_id": "7fec9e5e-2316-404b-b1f3-f3d1dcc9f28b",
+        "text": "<@U05UNC6FNK1> <@U05V81G5ZDY> 안녕하세요! LM님과 상담 후 5월 8일 수요일 휴가 사용으로 구글폼 제출하였습니다. 확인 부탁드립니다. 감사합니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "850d40cd33f4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5996957360085_850d40cd33f433747c40_72.png",
+            "first_name": "이소영B",
+            "real_name": "이소영B",
+            "display_name": "",
+            "team": "T05UGFFGL07",
+            "name": "sheep5450",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YAgqb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05UNC6FNK1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05V81G5ZDY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 안녕하세요! LM님과 상담 후 5월 8일 수요일 휴가 사용으로 구글폼 제출하였습니다. 확인 부탁드립니다. 감사합니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "beach_with_umbrella",
+                "users": [
+                    "U05V81G5ZDY"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

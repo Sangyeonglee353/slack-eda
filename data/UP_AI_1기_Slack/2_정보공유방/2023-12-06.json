@@ -1,0 +1,140 @@
+[
+    {
+        "user": "U065TBUL5EE",
+        "type": "message",
+        "ts": "1701883965.712169",
+        "client_msg_id": "cf09e074-c402-49d9-8673-b2ea444f1c48",
+        "text": "2시간전에 Google이 Gemini를 발표했습니다.\n공개된 것으로는 모든 task에서 GPT-4보다 좋은 성능을 보이네요!\n관심 있으신분들은 Google youtube channel이나 blog 참고하시면 좋을 것 같습니다 :)\n• <https:\/\/www.youtube.com\/watch?v=jV1vkHv4zq8>\n• <https:\/\/blog.google\/technology\/ai\/google-gemini-ai\/#introducing-gemini>",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "34f110a5edc4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-11-14\/6197301711475_34f110a5edc435398e63_72.png",
+            "first_name": "김용담",
+            "real_name": "김용담",
+            "display_name": "김용담 강사",
+            "team": "T05UGFFGL07",
+            "name": "codingiscoffee",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.youtube.com\/watch?v=jV1vkHv4zq8",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/jV1vkHv4zq8\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/jV1vkHv4zq8?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen title=\"Gemini: Google’s newest and most capable AI model\"><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=jV1vkHv4zq8",
+                "fallback": "YouTube Video: Gemini: Google’s newest and most capable AI model",
+                "title": "Gemini: Google’s newest and most capable AI model",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=jV1vkHv4zq8",
+                "author_name": "Google",
+                "author_link": "https:\/\/www.youtube.com\/@Google",
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/"
+            },
+            {
+                "image_url": "https:\/\/storage.googleapis.com\/gweb-uniblog-publish-prod\/images\/Gemini_SS.width-1300.jpg",
+                "image_width": 1300,
+                "image_height": 731,
+                "image_bytes": 52104,
+                "from_url": "https:\/\/blog.google\/technology\/ai\/google-gemini-ai\/#introducing-gemini",
+                "service_icon": "https:\/\/blog.google\/favicon.ico",
+                "ts": 1701849600,
+                "id": 2,
+                "original_url": "https:\/\/blog.google\/technology\/ai\/google-gemini-ai\/#introducing-gemini",
+                "fallback": "Google: Introducing Gemini: our largest and most capable AI model",
+                "text": "Gemini is our most capable and general model, built to be multimodal and optimized for three different sizes: Ultra, Pro and Nano.",
+                "title": "Introducing Gemini: our largest and most capable AI model",
+                "title_link": "https:\/\/blog.google\/technology\/ai\/google-gemini-ai\/#introducing-gemini",
+                "service_name": "Google"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nwX6q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "2시간전에 Google이 Gemini를 발표했습니다.\n공개된 것으로는 모든 task에서 GPT-4보다 좋은 성능을 보이네요!\n관심 있으신분들은 Google youtube channel이나 blog 참고하시면 좋을 것 같습니다 :)\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/www.youtube.com\/watch?v=jV1vkHv4zq8"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/blog.google\/technology\/ai\/google-gemini-ai\/#introducing-gemini"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U05UWVA90H4",
+                    "U060C67EYQ5",
+                    "U05UVE9DFSB",
+                    "U05V9LP47V0",
+                    "U05V4KZR3NW",
+                    "U05VAHXECP6",
+                    "U060LG0BT89"
+                ],
+                "count": 7
+            },
+            {
+                "name": "+1::skin-tone-2",
+                "users": [
+                    "U05UVV5CVQE"
+                ],
+                "count": 1
+            },
+            {
+                "name": "eyes",
+                "users": [
+                    "U05V9N22ZUK",
+                    "U05V7H78DUM"
+                ],
+                "count": 2
+            },
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U05V7H78DUM"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

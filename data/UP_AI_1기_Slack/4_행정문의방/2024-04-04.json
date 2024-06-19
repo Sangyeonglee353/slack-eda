@@ -1,0 +1,736 @@
+[
+    {
+        "subtype": "thread_broadcast",
+        "user": "U05VAHXECP6",
+        "thread_ts": "1711942269.846289",
+        "root": {
+            "user": "U05V81G5ZDY",
+            "type": "message",
+            "ts": "1711942269.846289",
+            "edited": {
+                "user": "U05V81G5ZDY",
+                "ts": "1711943028.000000"
+            },
+            "client_msg_id": "d2f443c0-2f96-44a0-ae74-ca98c1165117",
+            "text": "*<!channel>* 장려금 확인서 취합 확인 스레드\n\n안녕하세요 행정 매니저입니다!\n훈련 장려금 지급을 위한 확인서를 매 단위기간 마다 취합하게 되었습니다\n> 작성이 늦어질 수록 훈련 장려금이 지연 될 수 있습니다\n> 매 단위 기간마다 취합할 예정이니 도움 주시면 감사하겠습니다\n잠시 후 댓글 확인해주세요!",
+            "team": "T05UGFFGL07",
+            "thread_ts": "1711942269.846289",
+            "reply_count": 10,
+            "reply_users_count": 7,
+            "latest_reply": "1712636191.404859",
+            "reply_users": [
+                "U05V81G5ZDY",
+                "U05V9LP47V0",
+                "U05VAHXECP6",
+                "U060BLVQYHW",
+                "U0600GGHJTC",
+                "U05V4KZR3NW",
+                "U05V561TXUL"
+            ],
+            "replies": [
+                {
+                    "user": "U05V81G5ZDY",
+                    "ts": "1711952315.911809"
+                },
+                {
+                    "user": "U05V9LP47V0",
+                    "ts": "1712019441.187139"
+                },
+                {
+                    "user": "U05V81G5ZDY",
+                    "ts": "1712021830.926659"
+                },
+                {
+                    "user": "U05VAHXECP6",
+                    "ts": "1712225054.220999"
+                },
+                {
+                    "user": "U05V81G5ZDY",
+                    "ts": "1712295657.350589"
+                },
+                {
+                    "user": "U05V81G5ZDY",
+                    "ts": "1712628797.538159"
+                },
+                {
+                    "user": "U060BLVQYHW",
+                    "ts": "1712628996.644639"
+                },
+                {
+                    "user": "U0600GGHJTC",
+                    "ts": "1712629137.532569"
+                },
+                {
+                    "user": "U05V4KZR3NW",
+                    "ts": "1712630711.712879"
+                },
+                {
+                    "user": "U05V561TXUL",
+                    "ts": "1712636191.404859"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": true,
+            "last_read": "1712636191.404859",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "xA\/gO",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "broadcast",
+                                    "range": "channel",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " 장려금 확인서 취합 확인 스레드\n\n안녕하세요 행정 매니저입니다!\n훈련 장려금 지급을 위한 확인서를 매 단위기간 마다 취합하게 되었습니다\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_quote",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "작성이 늦어질 수록 훈련 장려금이 지연 될 수 있습니다\n매 단위 기간마다 취합할 예정이니 도움 주시면 감사하겠습니다"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\n잠시 후 댓글 확인해주세요!"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "type": "message",
+        "ts": "1712225054.220999",
+        "client_msg_id": "c91f029e-7c5d-4164-8fc4-509a3715bc80",
+        "text": "모든 인원이 서명을 완료하셔야 원활한 지급이 이뤄지므로 훈련장려금 서명 안하신분들 빠르게 진행 부탁드려요! 해당 내용을 읽으셨다면 오늘 중으로 필히 서명 부탁드립니다.",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SR+Oc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "모든 인원이 서명을 완료하셔야 원활한 지급이 이뤄지므로 훈련장려금 서명 안하신분들 빠르게 진행 부탁드려요! 해당 내용을 읽으셨다면 오늘 중으로 필히 서명 부탁드립니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U05V5B27DK7",
+                    "U05V379NETU",
+                    "U05V7H78DUM"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "user": "U05V379NETU",
+        "type": "message",
+        "ts": "1712277622.904559",
+        "client_msg_id": "1f8dcddd-a171-47e6-bc90-3d0cfa0163cf",
+        "text": "<@U05UNC6FNK1> <@U05V81G5ZDY>\n안녕하세요 매니저님!\nLM님과 상담 후 24\/04\/05 (금요일) 휴가 제출 폼 제출하였습니다.\n확인 부탁드리겠습니다. 감사합니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "ffacc530c1ba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/6012256954656_ffacc530c1baefd9bc1c_72.jpg",
+            "first_name": "신주용",
+            "real_name": "신주용",
+            "display_name": "신주용",
+            "team": "T05UGFFGL07",
+            "name": "robotshin1608",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7+R6y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05UNC6FNK1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05V81G5ZDY"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n안녕하세요 매니저님!\nLM님과 상담 후 24\/04\/05 (금요일) 휴가 제출 폼 제출하였습니다.\n확인 부탁드리겠습니다. 감사합니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "beach_with_umbrella",
+                "users": [
+                    "U05V81G5ZDY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "text": "안녕하세요 행정 매니저입니다\n\n장려금 확인서 *<https:\/\/docs.google.com\/document\/d\/1MFh9njXVxwV0XqaFXJMrYh7pbD2f18dG\/edit#heading=h.gjdgxs|[링크 확인해주세요!]>*\n*`아래 작성 방법 확인하여 내용과 다르다면 재작성 부탁드립니다`*\n> 작성 방법\n• 본인 이름에 맞게 작성해주세요\n• 청년수당, 구직수당 등 수급여부\n    ◦ *예) 국민취업지원제도*\n    ◦ *예) 실업급여*\n    ◦ *`금액 작성XX`*\n• *훈련 장려금 지급액*\n    ◦ *`빈칸!!! 공란입니다!!!`*\n• *서명*\n    ◦ *펜툴 또는 모바일 캡쳐를 통해 자필서명*\n        ▪︎ *펜툴 서명 - 이미지로 저장*\n        ▪︎ *삽입 - 그리기 - 새그림 - 저장한 파일 업로드*\n> 환수 동의서 작성요청 드립니다\n> *<아래 > 양식*\n> *성함과 생년월일*\n> *[근로사항 상세내용] 꼼꼼히 작성해주세요*\n• 장려금 확인서 -> 고용보험 가입여부 변동이 있다면 Y\/N 수정하여 진행해주세요\n    ◦ 고용보험 가입여부 가입(Y)로 확인 되는 분들만 작성\n• *환수 동의서 작성 후 저에게 DM으로 전달 해주세요(개인정보 때문!)*\n문의 내용은 편히 말씀 주시면 답변 드리겠습니다\n감사합니다",
+        "files": [
+            {
+                "id": "F06SXN1H799",
+                "created": 1712295651,
+                "timestamp": 1712295651,
+                "name": "(양식) UP_AI1 훈련장려금 환수 동의서.docx",
+                "title": "(양식) UP_AI1 훈련장려금 환수 동의서.docx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "filetype": "docx",
+                "pretty_type": "Word Document",
+                "user": "U05V81G5ZDY",
+                "user_team": "T05UGFFGL07",
+                "editable": false,
+                "size": 20858,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F06SXN1H799\/_________up_ai1_________________________________.docx?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F06SXN1H799\/download\/_________up_ai1_________________________________.docx?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "media_display_type": "unknown",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06SXN1H799-906854100e\/_________up_ai1__________________________________converted.pdf?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06SXN1H799-906854100e\/_________up_ai1__________________________________thumb_pdf.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_pdf_w": 909,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/fcupstageai1.slack.com\/files\/U05V81G5ZDY\/F06SXN1H799\/_________up_ai1_________________________________.docx",
+                "permalink_public": "https:\/\/slack-files.com\/T05UGFFGL07-F06SXN1H799-08cdc225b6",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U05V81G5ZDY",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FICWW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "안녕하세요 행정 매니저입니다\n\n장려금 확인서 "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/document\/d\/1MFh9njXVxwV0XqaFXJMrYh7pbD2f18dG\/edit#heading=h.gjdgxs",
+                                "text": "[링크 확인해주세요!]",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "아래 작성 방법 확인하여 내용과 다르다면 재작성 부탁드립니다",
+                                "style": {
+                                    "bold": true,
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "작성 방법"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "본인 이름에 맞게 작성해주세요"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "청년수당, 구직수당 등 수급여부"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "예) 국민취업지원제도",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "예) 실업급여",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "금액 작성XX",
+                                        "style": {
+                                            "bold": true,
+                                            "code": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "훈련 장려금 지급액",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "빈칸!!! 공란입니다!!!",
+                                        "style": {
+                                            "bold": true,
+                                            "code": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "서명",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "펜툴 또는 모바일 캡쳐를 통해 자필서명",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "펜툴 서명 - 이미지로 저장",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "삽입 - 그리기 - 새그림 - 저장한 파일 업로드",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 2,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "환수 동의서 작성요청 드립니다\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "<아래 > 양식",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "성함과 생년월일",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "[근로사항 상세내용] 꼼꼼히 작성해주세요",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "장려금 확인서 -> 고용보험 가입여부 변동이 있다면 Y\/N 수정하여 진행해주세요"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "고용보험 가입여부 가입(Y)로 확인 되는 분들만 작성"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "환수 동의서 작성 후 저에게 DM으로 전달 해주세요(개인정보 때문!)",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n문의 내용은 편히 말씀 주시면 답변 드리겠습니다\n감사합니다"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "subtype": "thread_broadcast",
+        "root": {
+            "user": "U05V81G5ZDY",
+            "type": "message",
+            "ts": "1711942269.846289",
+            "edited": {
+                "user": "U05V81G5ZDY",
+                "ts": "1711943028.000000"
+            },
+            "client_msg_id": "d2f443c0-2f96-44a0-ae74-ca98c1165117",
+            "text": "*<!channel>* 장려금 확인서 취합 확인 스레드\n\n안녕하세요 행정 매니저입니다!\n훈련 장려금 지급을 위한 확인서를 매 단위기간 마다 취합하게 되었습니다\n> 작성이 늦어질 수록 훈련 장려금이 지연 될 수 있습니다\n> 매 단위 기간마다 취합할 예정이니 도움 주시면 감사하겠습니다\n잠시 후 댓글 확인해주세요!",
+            "team": "T05UGFFGL07",
+            "thread_ts": "1711942269.846289",
+            "reply_count": 10,
+            "reply_users_count": 7,
+            "latest_reply": "1712636191.404859",
+            "reply_users": [
+                "U05V81G5ZDY",
+                "U05V9LP47V0",
+                "U05VAHXECP6",
+                "U060BLVQYHW",
+                "U0600GGHJTC",
+                "U05V4KZR3NW",
+                "U05V561TXUL"
+            ],
+            "replies": [
+                {
+                    "user": "U05V81G5ZDY",
+                    "ts": "1711952315.911809"
+                },
+                {
+                    "user": "U05V9LP47V0",
+                    "ts": "1712019441.187139"
+                },
+                {
+                    "user": "U05V81G5ZDY",
+                    "ts": "1712021830.926659"
+                },
+                {
+                    "user": "U05VAHXECP6",
+                    "ts": "1712225054.220999"
+                },
+                {
+                    "user": "U05V81G5ZDY",
+                    "ts": "1712295657.350589"
+                },
+                {
+                    "user": "U05V81G5ZDY",
+                    "ts": "1712628797.538159"
+                },
+                {
+                    "user": "U060BLVQYHW",
+                    "ts": "1712628996.644639"
+                },
+                {
+                    "user": "U0600GGHJTC",
+                    "ts": "1712629137.532569"
+                },
+                {
+                    "user": "U05V4KZR3NW",
+                    "ts": "1712630711.712879"
+                },
+                {
+                    "user": "U05V561TXUL",
+                    "ts": "1712636191.404859"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": true,
+            "last_read": "1712636191.404859",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "xA\/gO",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "broadcast",
+                                    "range": "channel",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " 장려금 확인서 취합 확인 스레드\n\n안녕하세요 행정 매니저입니다!\n훈련 장려금 지급을 위한 확인서를 매 단위기간 마다 취합하게 되었습니다\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_quote",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "작성이 늦어질 수록 훈련 장려금이 지연 될 수 있습니다\n매 단위 기간마다 취합할 예정이니 도움 주시면 감사하겠습니다"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\n잠시 후 댓글 확인해주세요!"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "type": "message",
+        "ts": "1712295657.350589",
+        "edited": {
+            "user": "U05V81G5ZDY",
+            "ts": "1712296402.000000"
+        },
+        "client_msg_id": "5631f29a-9784-4467-833c-bc2fa06ca7c4",
+        "thread_ts": "1711942269.846289",
+        "parent_user_id": "U05V81G5ZDY",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U05V5B27DK7",
+                    "U060LG0BT89"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

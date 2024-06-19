@@ -1,0 +1,90 @@
+[
+    {
+        "user": "U05V7V2AV8A",
+        "type": "message",
+        "ts": "1705651878.332329",
+        "client_msg_id": "308b96e2-4a41-4721-be81-90cb8d02769a",
+        "text": "감사합니다!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "28368614e02a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5987346071766_28368614e02abbfb71bd_72.png",
+            "first_name": "andrew",
+            "real_name": "andrew jang",
+            "display_name": "장준규",
+            "team": "T05UGFFGL07",
+            "name": "goldenbeluga",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1705562549.339489",
+        "parent_user_id": "U05V7V2AV8A",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4sMmL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "감사합니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05V7V2AV8A",
+        "type": "message",
+        "ts": "1705651981.639619",
+        "edited": {
+            "user": "U05V7V2AV8A",
+            "ts": "1706232126.000000"
+        },
+        "client_msg_id": "c621c7e2-c6d2-4918-8f6d-69767af5e241",
+        "text": "<@U06D18V7FNX> 오 좋은 인사이트네요 혹시 모델의 에러가 얼마나작고 큰지 보다 직관적으로 해석의 예시를 들어주실 수 있으실까요? 0주위나 1750(가정)이나 같아보여서요",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "28368614e02a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5987346071766_28368614e02abbfb71bd_72.png",
+            "first_name": "andrew",
+            "real_name": "andrew jang",
+            "display_name": "장준규",
+            "team": "T05UGFFGL07",
+            "name": "goldenbeluga",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1705563012.840909",
+        "parent_user_id": "U05V7V2AV8A",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QX9G4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06D18V7FNX"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 오 좋은 인사이트네요 혹시 모델의 에러가 얼마나작고 큰지 보다 직관적으로 해석의 예시를 들어주실 수 있으실까요? 0주위나 1750(가정)이나 같아보여서요"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,633 @@
+[
+    {
+        "user": "U05VAHXECP6",
+        "type": "message",
+        "ts": "1697009914.245299",
+        "client_msg_id": "7d36cc60-82da-45cb-a5c8-9b8b8064a5a8",
+        "text": "시간표와 온라인 강의 입과 과정 이름 문의 스레드",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "50abee101814",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-11\/6044824153712_50abee1018149e21919b_72.jpg",
+            "first_name": "이상영",
+            "real_name": "이상영",
+            "display_name": "FC 이상영 매니저",
+            "team": "T05UGFFGL07",
+            "name": "sangyeong.lee",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697009914.245299",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1697010590.498879",
+        "reply_users": [
+            "U05VAHXECP6",
+            "U060JMX5FK2"
+        ],
+        "replies": [
+            {
+                "user": "U05VAHXECP6",
+                "ts": "1697010296.244949"
+            },
+            {
+                "user": "U060JMX5FK2",
+                "ts": "1697010590.498879"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1697010590.498879",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "w+7mA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "시간표와 온라인 강의 입과 과정 이름 문의 스레드"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "안녕하세요. 균호님! <@U060JMX5FK2>\n문의 주신 내용 답변드립니다.\n\n현재 <https:\/\/docs.google.com\/spreadsheets\/d\/1jGWF0rth2GOmIqO4lcbR4a2wX1I-0AKr9iLMRepDsXM\/edit#gid=1495933852|시간표 >상에 표기된 이름은 `과목명`을 의미하며,\n해당 과목명은 <https:\/\/docs.google.com\/spreadsheets\/d\/1ypFcX5rHBUsAoYDUN3TmQClpGnR8wyoaUnBoV4hrZ-4\/edit#gid=1083356430|[패스트캠퍼스] Upstage AI Lab 1기 온라인 강의 수강안내 시트>의 `탭`과 일치합니다. 부가적으로, 수강하셔야 하는 온라인 강의의 명칭은 각 탭에 최상단에 표기되어있습니다.\n\n&gt; *첨부사진*\n• 시간표: 과목명\n• 온라인 강의 수강안내 시트: 탭명\n• 온라인 강의 수강안내 시트: 강의 명칭",
+        "files": [
+            {
+                "id": "F060MGTKTQA",
+                "created": 1697010204,
+                "timestamp": 1697010204,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U05VAHXECP6",
+                "user_team": "T05UGFFGL07",
+                "editable": false,
+                "size": 9278,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F060MGTKTQA\/image.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F060MGTKTQA\/download\/image.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F060MGTKTQA-9fd0ca7a55\/image_64.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F060MGTKTQA-9fd0ca7a55\/image_80.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F060MGTKTQA-9fd0ca7a55\/image_360.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_360_w": 322,
+                "thumb_360_h": 254,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F060MGTKTQA-9fd0ca7a55\/image_160.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "original_w": 322,
+                "original_h": 254,
+                "thumb_tiny": "AwAlADC6CxHQ00s+c7X+lTR\/6tfoKdQBDlvQ0bm96mqOgCPe\/Xa30p25vej56d2oCw6P\/Vr9BTqiX7i\/SlzzjBoHYkpm7AoplAC+af7tP3cdqiz7H8qWgQ5RhR9KXFA6CloGJim7fen0lADdvvRt96dRQI\/\/2Q==",
+                "permalink": "https:\/\/fcupstageai1.slack.com\/files\/U05VAHXECP6\/F060MGTKTQA\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T05UGFFGL07-F060MGTKTQA-61a3a0c116",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            },
+            {
+                "id": "F060ETC8MFY",
+                "created": 1697010213,
+                "timestamp": 1697010213,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U05VAHXECP6",
+                "user_team": "T05UGFFGL07",
+                "editable": false,
+                "size": 4849,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F060ETC8MFY\/image.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F060ETC8MFY\/download\/image.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F060ETC8MFY-35e6caf27f\/image_64.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F060ETC8MFY-35e6caf27f\/image_80.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F060ETC8MFY-35e6caf27f\/image_360.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_360_w": 355,
+                "thumb_360_h": 39,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F060ETC8MFY-35e6caf27f\/image_160.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "original_w": 355,
+                "original_h": 39,
+                "thumb_tiny": "AwAFADC85YOADjOaPm9f0of\/AFq\/jS1QgGe5oy2\/AIxgHpQKB\/rT\/uikxjufUflSjPc0UtID\/9k=",
+                "permalink": "https:\/\/fcupstageai1.slack.com\/files\/U05VAHXECP6\/F060ETC8MFY\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T05UGFFGL07-F060ETC8MFY-2bfc74234d",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            },
+            {
+                "id": "F061AGPP7HN",
+                "created": 1697010228,
+                "timestamp": 1697010228,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U05VAHXECP6",
+                "user_team": "T05UGFFGL07",
+                "editable": false,
+                "size": 6485,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F061AGPP7HN\/image.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F061AGPP7HN\/download\/image.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F061AGPP7HN-e22ff5bb63\/image_64.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F061AGPP7HN-e22ff5bb63\/image_80.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F061AGPP7HN-e22ff5bb63\/image_360.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_360_w": 360,
+                "thumb_360_h": 14,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F061AGPP7HN-e22ff5bb63\/image_480.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_480_w": 480,
+                "thumb_480_h": 19,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F061AGPP7HN-e22ff5bb63\/image_160.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F061AGPP7HN-e22ff5bb63\/image_720.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_720_w": 720,
+                "thumb_720_h": 28,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F061AGPP7HN-e22ff5bb63\/image_800.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_800_w": 800,
+                "thumb_800_h": 31,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F061AGPP7HN-e22ff5bb63\/image_960.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_960_w": 960,
+                "thumb_960_h": 37,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F061AGPP7HN-e22ff5bb63\/image_1024.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 40,
+                "original_w": 1362,
+                "original_h": 53,
+                "thumb_tiny": "AwABADCp\/CfrWpF\/qU\/3RWX\/AAn61qRf6lP90UAOplPplMQ8dKWkHSloGf\/Z",
+                "permalink": "https:\/\/fcupstageai1.slack.com\/files\/U05VAHXECP6\/F061AGPP7HN\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T05UGFFGL07-F061AGPP7HN-e2feae78bc",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U05VAHXECP6",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AGsGx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "안녕하세요. 균호님! "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U060JMX5FK2"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n문의 주신 내용 답변드립니다.\n\n현재 "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/spreadsheets\/d\/1jGWF0rth2GOmIqO4lcbR4a2wX1I-0AKr9iLMRepDsXM\/edit#gid=1495933852",
+                                "text": "시간표 "
+                            },
+                            {
+                                "type": "text",
+                                "text": "상에 표기된 이름은 "
+                            },
+                            {
+                                "type": "text",
+                                "text": "과목명",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "을 의미하며,\n해당 과목명은 "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/spreadsheets\/d\/1ypFcX5rHBUsAoYDUN3TmQClpGnR8wyoaUnBoV4hrZ-4\/edit#gid=1083356430",
+                                "text": "[패스트캠퍼스] Upstage AI Lab 1기 온라인 강의 수강안내 시트"
+                            },
+                            {
+                                "type": "text",
+                                "text": "의 "
+                            },
+                            {
+                                "type": "text",
+                                "text": "탭",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "과 일치합니다. 부가적으로, 수강하셔야 하는 온라인 강의의 명칭은 각 탭에 최상단에 표기되어있습니다.\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "첨부사진",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "시간표: 과목명"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "온라인 강의 수강안내 시트: 탭명"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "온라인 강의 수강안내 시트: 강의 명칭"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1697010296.244949",
+        "client_msg_id": "67a65e2d-3c18-4adf-8b96-6903524d6ed3",
+        "thread_ts": "1697009914.245299",
+        "parent_user_id": "U05VAHXECP6"
+    },
+    {
+        "user": "U060JMX5FK2",
+        "type": "message",
+        "ts": "1697010590.498879",
+        "client_msg_id": "0ef3c2af-d92d-4835-a0a2-eaad9bc3120a",
+        "text": "네 답변 감사드립니다!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "gfc7ecc6b1da",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fc7ecc6b1da3c3f7a37c07a405aa9e6a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "노균호",
+            "real_name": "노균호",
+            "display_name": "노균호",
+            "team": "T05UGFFGL07",
+            "name": "guno2633",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697009914.245299",
+        "parent_user_id": "U05VAHXECP6",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "o16Jd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "네 답변 감사드립니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U05VAHXECP6"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05VAHXECP6",
+        "type": "message",
+        "ts": "1697011563.468459",
+        "client_msg_id": "839d0b32-be95-49cf-9c90-cb1ca13e7ea6",
+        "text": "온라인 강의장 로그인 문의 스레드",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "50abee101814",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-11\/6044824153712_50abee1018149e21919b_72.jpg",
+            "first_name": "이상영",
+            "real_name": "이상영",
+            "display_name": "FC 이상영 매니저",
+            "team": "T05UGFFGL07",
+            "name": "sangyeong.lee",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697011563.468459",
+        "reply_count": 4,
+        "reply_users_count": 2,
+        "latest_reply": "1697012181.308919",
+        "reply_users": [
+            "U05VAHXECP6",
+            "U05UUUNAE5D"
+        ],
+        "replies": [
+            {
+                "user": "U05VAHXECP6",
+                "ts": "1697011845.172679"
+            },
+            {
+                "user": "U05UUUNAE5D",
+                "ts": "1697012050.802589"
+            },
+            {
+                "user": "U05VAHXECP6",
+                "ts": "1697012165.056109"
+            },
+            {
+                "user": "U05UUUNAE5D",
+                "ts": "1697012181.308919"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1697012181.308919",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ds+Eg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "온라인 강의장 로그인 문의 스레드"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05VAHXECP6",
+        "type": "message",
+        "ts": "1697011845.172679",
+        "client_msg_id": "519178a1-32c9-4b68-a2b2-ed812f304f1e",
+        "text": "안녕하세요. 성필님! <@U05UUUNAE5D>\n유선으로 문의 주신 내용 답변 드립니다.\n\n현재 초기 비밀번호: 12345678 로 온라인 강의장 접속이 가능한 것으로 확인이 되었는데요. 로그인 하실 때, `o*******00@naver.com 계정`으로 확인 부탁 드릴게요.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "50abee101814",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-11\/6044824153712_50abee1018149e21919b_72.jpg",
+            "first_name": "이상영",
+            "real_name": "이상영",
+            "display_name": "FC 이상영 매니저",
+            "team": "T05UGFFGL07",
+            "name": "sangyeong.lee",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697011563.468459",
+        "parent_user_id": "U05VAHXECP6",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "y\/w9G",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "안녕하세요. 성필님! "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05UUUNAE5D"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n유선으로 문의 주신 내용 답변 드립니다.\n\n현재 초기 비밀번호: 12345678 로 온라인 강의장 접속이 가능한 것으로 확인이 되었는데요. 로그인 하실 때, "
+                            },
+                            {
+                                "type": "text",
+                                "text": "o*******",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "00@naver.com",
+                                "style": {
+                                    "code": true,
+                                    "unlink": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " 계정",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "으로 확인 부탁 드릴게요."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05UUUNAE5D",
+        "type": "message",
+        "ts": "1697012050.802589",
+        "client_msg_id": "edb5dc44-c84e-4308-a60a-78b54258ca61",
+        "text": "네 감사합니다. 오늘은 온라인 강의 듣다 7시에 출첵하기만 하면 되나요?",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "32899ebdb4c2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5995423014227_32899ebdb4c26d670b69_72.png",
+            "first_name": "감성필SungFeelCalm",
+            "real_name": "감성필SungFeelCalm",
+            "display_name": "감성필",
+            "team": "T05UGFFGL07",
+            "name": "betterthingsarecoming",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697011563.468459",
+        "parent_user_id": "U05VAHXECP6",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Cj2mO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "네 감사합니다. 오늘은 온라인 강의 듣다 7시에 출첵하기만 하면 되나요?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05VAHXECP6",
+        "type": "message",
+        "ts": "1697012165.056109",
+        "client_msg_id": "48c470b3-6014-4dc2-bb5a-1e703546411a",
+        "text": "네 맞습니다. 해당 시간에 zoom 접속하셔서 출석체크 진행하시면 되겠습니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "50abee101814",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-11\/6044824153712_50abee1018149e21919b_72.jpg",
+            "first_name": "이상영",
+            "real_name": "이상영",
+            "display_name": "FC 이상영 매니저",
+            "team": "T05UGFFGL07",
+            "name": "sangyeong.lee",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697011563.468459",
+        "parent_user_id": "U05VAHXECP6",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LOK\/1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "네 맞습니다. 해당 시간에 zoom 접속하셔서 출석체크 진행하시면 되겠습니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05UUUNAE5D",
+        "type": "message",
+        "ts": "1697012181.308919",
+        "client_msg_id": "03989f0b-1a04-436b-bfd5-fc378c412e87",
+        "text": "네 감사합니다^^",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "32899ebdb4c2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5995423014227_32899ebdb4c26d670b69_72.png",
+            "first_name": "감성필SungFeelCalm",
+            "real_name": "감성필SungFeelCalm",
+            "display_name": "감성필",
+            "team": "T05UGFFGL07",
+            "name": "betterthingsarecoming",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697011563.468459",
+        "parent_user_id": "U05VAHXECP6",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pypPs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "네 감사합니다^^"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U05VAHXECP6"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

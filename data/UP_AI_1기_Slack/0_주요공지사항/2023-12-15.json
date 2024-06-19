@@ -1,0 +1,354 @@
+[
+    {
+        "text": "<!channel>\n안녕하세요. Upstage AI Lab 수강생 여러분~!\n금일 ML 프로젝트 발표 진행하시느라 모두 정말 고생 많으셨습니다.\n\n차주 업스테이지 온라인 강의 수강과 관련하여 시트 업데이트 해두었으니,\n확인 하시고 강의 수강 진행해주시면 되겠습니다.\n\n&gt; *온라인 강의 수강 안내 시트(업데이트 완료)*\n• (추가) <https:\/\/docs.google.com\/spreadsheets\/d\/1ypFcX5rHBUsAoYDUN3TmQClpGnR8wyoaUnBoV4hrZ-4\/edit#gid=1437986055&amp;range=A1:E1|목차 시트 추가>\n    ◦ 강의가 계속 추가됨에 따라 시트를 일일이 찾으시는 것이 불편하실 것 같아, 새로이 `Master(목차) 시트`를 추가하였습니다.\n    ◦ 해당 시트에 모두 링크를 걸어 두었으니, 원하시는 강의를 여기서 찾아가시면 되겠습니다.\n    ◦ 또한, 각 강의 안내 시트별 우측 상단에 `목차로 돌아가기`를 추가하여 목차로의 이동도 쉽게 하실 수 있도록 수정하였습니다.\n• (업데이트)\n    ◦ 필수 강의: <https:\/\/docs.google.com\/spreadsheets\/d\/1ypFcX5rHBUsAoYDUN3TmQClpGnR8wyoaUnBoV4hrZ-4\/edit#gid=1356939771&amp;range=B1:E1|[업스테이지] AI 기초학습: 딥러닝>\n    ◦ 선택 강의: <https:\/\/docs.google.com\/spreadsheets\/d\/1ypFcX5rHBUsAoYDUN3TmQClpGnR8wyoaUnBoV4hrZ-4\/edit#gid=1678580434&amp;range=B1:C1|Deep Learning>\n• 참고사항\n    ◦ 업스테이지 강의가 어떻게 구성되어 있는지, 어떤 의도를 가지고 각 챕터를 촬영하셨는지 상당히 자세한 `강의 소개서`를 전달 주셨습니다.\n    ◦ 모두들 본격적인 강의 시작 전 한번 읽어 보시고, 차주 본격적인 강의를 수강 하시면 좋겠습니다.\n    ◦ 정말 자세하게 안내를 해주셔서 강의 종료 이후 정리하는 차원에서도 활용할 수 있으니 참고하시기 바랍니다.\n    ◦ 해당 자료는 *온라인 강의 수강장* `강의 자료`에도 포함되어 있습니다.\n감사합니다.",
+        "files": [
+            {
+                "id": "F06AZSUMP16",
+                "created": 1702632217,
+                "timestamp": 1702632217,
+                "name": "[Deep Learning] 강의 소개서.pdf",
+                "title": "[Deep Learning] 강의 소개서.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U05VAHXECP6",
+                "user_team": "T05UGFFGL07",
+                "editable": false,
+                "size": 170284,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F06AZSUMP16\/_deep_learning__________________.pdf?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F06AZSUMP16\/download\/_deep_learning__________________.pdf?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "media_display_type": "unknown",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06AZSUMP16-1f09b7f6ae\/_deep_learning___________________thumb_pdf.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_pdf_w": 911,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/fcupstageai1.slack.com\/files\/U05VAHXECP6\/F06AZSUMP16\/_deep_learning__________________.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/T05UGFFGL07-F06AZSUMP16-9b41eae649",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            },
+            {
+                "id": "F06AB3YDB6E",
+                "created": 1702632221,
+                "timestamp": 1702632221,
+                "name": "[PyTorch] 강의 소개서.pdf",
+                "title": "[PyTorch] 강의 소개서.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U05VAHXECP6",
+                "user_team": "T05UGFFGL07",
+                "editable": false,
+                "size": 131168,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F06AB3YDB6E\/_pytorch__________________.pdf?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F06AB3YDB6E\/download\/_pytorch__________________.pdf?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "media_display_type": "unknown",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06AB3YDB6E-83571344ef\/_pytorch___________________thumb_pdf.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_pdf_w": 911,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/fcupstageai1.slack.com\/files\/U05VAHXECP6\/F06AB3YDB6E\/_pytorch__________________.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/T05UGFFGL07-F06AB3YDB6E-c9dd7f27c6",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U05VAHXECP6",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3EGfA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n안녕하세요. Upstage AI Lab 수강생 여러분~!\n금일 ML 프로젝트 발표 진행하시느라 모두 정말 고생 많으셨습니다.\n\n차주 업스테이지 온라인 강의 수강과 관련하여 시트 업데이트 해두었으니,\n확인 하시고 강의 수강 진행해주시면 되겠습니다.\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "온라인 강의 수강 안내 시트(업데이트 완료)",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "(추가) "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/docs.google.com\/spreadsheets\/d\/1ypFcX5rHBUsAoYDUN3TmQClpGnR8wyoaUnBoV4hrZ-4\/edit#gid=1437986055&range=A1:E1",
+                                        "text": "목차 시트 추가"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "강의가 계속 추가됨에 따라 시트를 일일이 찾으시는 것이 불편하실 것 같아, 새로이 "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "Master(목차) 시트",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "를 추가하였습니다."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "해당 시트에 모두 링크를 걸어 두었으니, 원하시는 강의를 여기서 찾아가시면 되겠습니다."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "또한, 각 강의 안내 시트별 우측 상단에 "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "목차로 돌아가기",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "를 추가하여 목차로의 이동도 쉽게 하실 수 있도록 수정하였습니다."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "(업데이트)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "필수 강의: "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/docs.google.com\/spreadsheets\/d\/1ypFcX5rHBUsAoYDUN3TmQClpGnR8wyoaUnBoV4hrZ-4\/edit#gid=1356939771&range=B1:E1",
+                                        "text": "[업스테이지] AI 기초학습: 딥러닝"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "선택 강의: "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/docs.google.com\/spreadsheets\/d\/1ypFcX5rHBUsAoYDUN3TmQClpGnR8wyoaUnBoV4hrZ-4\/edit#gid=1678580434&range=B1:C1",
+                                        "text": "Deep Learning"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "참고사항"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "업스테이지 강의가 어떻게 구성되어 있는지, 어떤 의도를 가지고 각 챕터를 촬영하셨는지 상당히 자세한 "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "강의 소개서",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "를 전달 주셨습니다."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "모두들 본격적인 강의 시작 전 한번 읽어 보시고, 차주 본격적인 강의를 수강 하시면 좋겠습니다."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "정말 자세하게 안내를 해주셔서 강의 종료 이후 정리하는 차원에서도 활용할 수 있으니 참고하시기 바랍니다."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "해당 자료는 "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "온라인 강의 수강장",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "강의 자료",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "에도 포함되어 있습니다."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n감사합니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1702632600.614779",
+        "client_msg_id": "7afb3db3-8f90-4f56-a974-92d5781c59fd",
+        "reactions": [
+            {
+                "name": "대답",
+                "users": [
+                    "U05V7H78DUM",
+                    "U060C67EYQ5"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

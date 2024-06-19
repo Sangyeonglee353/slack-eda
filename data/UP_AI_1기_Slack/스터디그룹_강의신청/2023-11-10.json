@@ -1,0 +1,316 @@
+[
+    {
+        "user": "U05VAHXECP6",
+        "type": "message",
+        "ts": "1699604148.603189",
+        "edited": {
+            "user": "U05VAHXECP6",
+            "ts": "1699604168.000000"
+        },
+        "client_msg_id": "7f9de664-be8d-4a2e-aad4-0068f4813a58",
+        "text": "<!channel>\n안녕하세요. Upstage AI Lab 수강생 여러분!\n스터디 그룹 강의 입과와 관련하여 몇 가지 안내 사항이 있어 공지 드립니다.\n\n패스트캠퍼스 부트캠프에서는 여러분의 학습을 돕고자\n스터디 그룹 별로 강의 신청을 받아 제공해드리고 있습니다.\n\n아래 내용 확인 후 수강 부탁 드립니다.\n\n1. *강의 입과 수*\n    a. 팀 별로 1-2개의 강의를 신청해주셨고, 우선 1개의 강의를 입과해드렸습니다.\n    b. 2개 이상의 강의를 신청해주신 팀에게는, 저희가 제공해드린 강의의 수강률을 확인한 후 추가 입과 해드릴 예정입니다.\n    c. 따라서 스터디 그룹에 포함된 모든 팀원분들께서 강의를 잘 들어주시면 됩니다.\n2. *온라인 강의장 링크 및 로그인 정보*\n    a. *강의장 링크* : <https:\/\/fastcampus.app\/account\/sign-in>\n    b. *로그인 정보*\n        i. *ID* : \"ai_\"+ \"기존 온라인 강의장 ID\"\n            1. ex)\n                a. 기존 온라인 강의장 ID : <mailto:goodstudent@gmail.com|goodstudent@gmail.com>\n                b. 그룹 스터디 온라인 강의장 ID : <mailto:ai_goodstudent@gmail.com|ai_goodstudent@gmail.com>\n        ii. *PW* : 12345678\n점점 날이 추워지고 있는데 건강 유의하시길 바라며,\n그룹 스터디를 잘 활용하셔서 알차게 강의 수강하시길 바랍니다.\n\n늘 여러분을 응원하고 있습니다.\n감사합니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "50abee101814",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-11\/6044824153712_50abee1018149e21919b_72.jpg",
+            "first_name": "이상영",
+            "real_name": "이상영",
+            "display_name": "FC 이상영 매니저",
+            "team": "T05UGFFGL07",
+            "name": "sangyeong.lee",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hv8kj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n안녕하세요. Upstage AI Lab 수강생 여러분!\n스터디 그룹 강의 입과와 관련하여 몇 가지 안내 사항이 있어 공지 드립니다.\n\n패스트캠퍼스 부트캠프에서는 여러분의 학습을 돕고자\n스터디 그룹 별로 강의 신청을 받아 제공해드리고 있습니다.\n\n아래 내용 확인 후 수강 부탁 드립니다.\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "강의 입과 수",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "팀 별로 1-2개의 강의를 신청해주셨고, 우선 1개의 강의를 입과해드렸습니다."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "2개 이상의 강의를 신청해주신 팀에게는, 저희가 제공해드린 강의의 수강률을 확인한 후 추가 입과 해드릴 예정입니다."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "따라서 스터디 그룹에 포함된 모든 팀원분들께서 강의를 잘 들어주시면 됩니다."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "온라인 강의장 링크 및 로그인 정보",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "offset": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "강의장 링크",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " : "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/fastcampus.app\/account\/sign-in"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "로그인 정보",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "ID ",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ": \"ai_\"+ \"기존 온라인 강의장 ID\""
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 2,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "ex)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 3,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "기존 온라인 강의장 ID : "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "mailto:goodstudent@gmail.com",
+                                        "text": "goodstudent@gmail.com"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "그룹 스터디 온라인 강의장 ID : "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "mailto:ai_goodstudent@gmail.com",
+                                        "text": "ai_goodstudent@gmail.com"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 4,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "PW ",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ": 12345678"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 2,
+                        "offset": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n점점 날이 추워지고 있는데 건강 유의하시길 바라며,\n그룹 스터디를 잘 활용하셔서 알차게 강의 수강하시길 바랍니다.\n\n늘 여러분을 응원하고 있습니다.\n감사합니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "대답",
+                "users": [
+                    "U05V379NETU",
+                    "U060H4V0Q5S",
+                    "U05V2T62KUJ",
+                    "U05UNMQ4LP9",
+                    "U05UN7M2GKZ",
+                    "U05V2PMAVNE",
+                    "U05UUUNAE5D",
+                    "U05V4KZR3NW",
+                    "U060BLVQYHW"
+                ],
+                "count": 9
+            },
+            {
+                "name": "ne",
+                "users": [
+                    "U05UT0JG4BZ",
+                    "U05V5B27DK7",
+                    "U05VB9FA6MS",
+                    "U060D1KJECR",
+                    "U05V9N22ZUK",
+                    "U05V7H78DUM",
+                    "U060BLVQYHW"
+                ],
+                "count": 7
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U05VBQMH3D3",
+                    "U0600GGHJTC",
+                    "U05V7H78DUM",
+                    "U05V4KZR3NW",
+                    "U060BLVQYHW"
+                ],
+                "count": 5
+            }
+        ]
+    }
+]

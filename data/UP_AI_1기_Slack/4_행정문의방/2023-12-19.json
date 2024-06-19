@@ -1,0 +1,95 @@
+[
+    {
+        "user": "U05UWVA90H4",
+        "type": "message",
+        "ts": "1703033954.726369",
+        "client_msg_id": "e8a82391-e30d-417c-aa67-9f42e389f3a4",
+        "text": "안녕하세요 매니저님 제가 어제 휴가였는데 현재 앱에는 어제 일자가 결석으로 떠도 상관없는거죠?",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "e039a582c034",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5983012631430_e039a582c03450d83dc6_72.png",
+            "first_name": "이준형",
+            "real_name": "이준형",
+            "display_name": "이준형",
+            "team": "T05UGFFGL07",
+            "name": "hewberryd8",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1702269515.777849",
+        "parent_user_id": "U05UWVA90H4",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CrA5m",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "안녕하세요 매니저님 제가 어제 휴가였는데 현재 앱에는 어제 일자가 결석으로 떠도 상관없는거죠?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "U05V81G5ZDY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05V81G5ZDY",
+        "type": "message",
+        "ts": "1703037403.985959",
+        "client_msg_id": "deed6c84-49b8-4a1c-969f-7eb1e4bbc399",
+        "text": "<@U05UWVA90H4> 안녕하세요 준형님!\n\n휴가 등 모든 정정에 반영에는 2-3주 정도 소요됩니다!\n따라서 현재는 결석으로 확인 되는게 맞습니다\n\n12\/19 휴가 신청되어 보고 올린 상태입니다\n감사합니다!!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "db1aceeb0d90",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5994058472162_db1aceeb0d9030c57e69_72.jpg",
+            "first_name": "김현우",
+            "real_name": "김현우",
+            "display_name": "FC 김현우 매니저",
+            "team": "T05UGFFGL07",
+            "name": "hyunwoo.kim",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1702269515.777849",
+        "parent_user_id": "U05UWVA90H4",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yhDjw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05UWVA90H4"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 안녕하세요 준형님!\n\n휴가 등 모든 정정에 반영에는 2-3주 정도 소요됩니다!\n따라서 현재는 결석으로 확인 되는게 맞습니다\n\n12\/19 휴가 신청되어 보고 올린 상태입니다\n감사합니다!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,144 @@
+[
+    {
+        "user": "U060JMX5FK2",
+        "type": "message",
+        "ts": "1703592031.792349",
+        "client_msg_id": "139512e3-3c86-4838-b449-f81fe968c346",
+        "text": "<@U05UNC6FNK1> <@U05V81G5ZDY>\n안녕하세요 매니저님! LM님과 상담 후 12월 27일(수요일) 휴가 사용으로 구글폼 제출하였습니다. 확인 부탁드리겠습니다. 감사합니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "gfc7ecc6b1da",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fc7ecc6b1da3c3f7a37c07a405aa9e6a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "노균호",
+            "real_name": "노균호",
+            "display_name": "노균호",
+            "team": "T05UGFFGL07",
+            "name": "guno2633",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VNQ+I",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05UNC6FNK1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05V81G5ZDY"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n안녕하세요 매니저님! LM님과 상담 후 12월 27일(수요일) 휴가 사용으로 구글폼 제출하였습니다. 확인 부탁드리겠습니다. 감사합니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "beach_with_umbrella",
+                "users": [
+                    "U05V81G5ZDY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05UW74NJ0N",
+        "type": "message",
+        "ts": "1703656770.583079",
+        "client_msg_id": "0cffbe37-dc15-4943-a656-ead6a4cf2b54",
+        "text": "<@U05UNC6FNK1> <@U05V81G5ZDY>\n안녕하세요. 제가 내일배움카드 실업자 전형으로 교육에 참여를 했는데요,\n1일부터 회사에 다니게 돼서 재직자 신분이 되게 됐습니다.\n\n고용센터에 문의 결과, 별다른 조치가 필요 없다고는 하시는데요,\n교육을 계속 들으려면 혹시 패스트캠퍼스에 제가 별도로 제출해야 하는 서류가 있을까요?",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "gf4e3c8b4c9e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/f4e3c8b4c9eebf87b0a9a7969b1a5c6a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+            "first_name": "우승현",
+            "real_name": "우승현",
+            "display_name": "우승현",
+            "team": "T05UGFFGL07",
+            "name": "fromwsh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1703656770.583079",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1703725491.131529",
+        "reply_users": [
+            "U05UNC6FNK1",
+            "U05UW74NJ0N"
+        ],
+        "replies": [
+            {
+                "user": "U05UNC6FNK1",
+                "ts": "1703718253.946129"
+            },
+            {
+                "user": "U05UW74NJ0N",
+                "ts": "1703725200.492259"
+            },
+            {
+                "user": "U05UNC6FNK1",
+                "ts": "1703725491.131529"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OkvYJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05UNC6FNK1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05V81G5ZDY"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n안녕하세요. 제가 내일배움카드 실업자 전형으로 교육에 참여를 했는데요,\n1일부터 회사에 다니게 돼서 재직자 신분이 되게 됐습니다.\n\n고용센터에 문의 결과, 별다른 조치가 필요 없다고는 하시는데요,\n교육을 계속 들으려면 혹시 패스트캠퍼스에 제가 별도로 제출해야 하는 서류가 있을까요?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "U05UNC6FNK1"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

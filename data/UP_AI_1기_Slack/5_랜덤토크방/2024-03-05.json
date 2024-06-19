@@ -1,0 +1,200 @@
+[
+    {
+        "user": "U060C67EYQ5",
+        "type": "message",
+        "ts": "1709691204.299779",
+        "client_msg_id": "18f8b740-5f8b-478f-a136-f2d938c705a0",
+        "text": "&gt; *<https:\/\/www.fnnews.com\/news\/202402111902549163|'말 하는 차' 시대 개막...\"AI·LLM, 탑재 경쟁 가열\">*\n요즘 온디바이스 AI가 핫하던데 진짜 범블비가 등장하네요. :car:\n\n• *`BMW`* *아마존*과 손잡고 운전자의 비서 역할을 할 생성AI '*알렉사*'를 탑재할 예정\n• *`폭스바겐`* 올해 당장 2·4분기부터 *챗GPT*를 탑재하겠다고 예고\n업스테이지도 최근에 LG 그램, 폴라리스 오피스와 온디바이스 협력을 하고 있는데, '온디바이스 AI' 관련 쉽게 읽어보기 좋은 아티클도 하나 공유해봅니다!\n\n&gt; *<https:\/\/ko.upstage.ai\/feed\/insight\/on-device-ai|'온디바이스 AI'를 살펴보세요: 인터넷과 클라우드가 필요 없는 AI>*",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "831ed525b276",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-11-14\/6192884585138_831ed525b276222009d0_72.png",
+            "first_name": "업스테이지",
+            "real_name": "업스테이지 김의겸(Dave)",
+            "display_name": "UP 김의겸(Dave) 매니저",
+            "team": "T05UGFFGL07",
+            "name": "euigyum",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.fnnews.com\/news\/202402111902549163",
+                "ts": 1707638400,
+                "image_url": "https:\/\/image.fnnews.com\/resource\/media\/image\/2024\/01\/11\/202401111055530035_l.jpg",
+                "image_width": 800,
+                "image_height": 533,
+                "image_bytes": 114878,
+                "service_icon": "https:\/\/www.fnnews.com\/resources\/images\/icon2020\/favicon_16x16_j4i_icon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.fnnews.com\/news\/202402111902549163",
+                "fallback": "파이낸셜뉴스: '말 하는 차' 시대 개막...\"AI·LLM, 탑재 경쟁 가열\" [FN 모빌리티]",
+                "text": "[파이낸셜뉴스] '말하는 차' 시대가 열린다. 올해 자동차 업계가 CES 2024에서 제시한 핵심 사업 구상 중 하나다. 독일 완성차 3사는 이미 목표 시점을 선언했다. 이미 인포테인먼트 기술 고도화를 위한 빅테크와의 짝짓기도 마쳤다. 거대언어모델(LLM)을 통한 음성인식 고도화가 자동차사들에게 시급한 과제가 되고 ..",
+                "title": "'말 하는 차' 시대 개막...\"AI·LLM, 탑재 경쟁 가열\" [FN 모빌리티]",
+                "title_link": "https:\/\/www.fnnews.com\/news\/202402111902549163",
+                "service_name": "파이낸셜뉴스"
+            },
+            {
+                "from_url": "https:\/\/ko.upstage.ai\/feed\/insight\/on-device-ai",
+                "service_icon": "https:\/\/images.squarespace-cdn.com\/content\/v1\/659384103b38c97cdaf368bd\/b2796c32-4cd9-45de-8ac9-4cf3026c48ce\/favicon.ico?format=100w",
+                "id": 2,
+                "original_url": "https:\/\/ko.upstage.ai\/feed\/insight\/on-device-ai",
+                "fallback": "Upstage: ‘온디바이스 AI’: 인터넷과 클라우드가 필요 없는 손안의 AI 시대 - Upstage",
+                "text": "온디바이스 AI는 최고의 제품과 서비스 경험을 제공하기 위한 핵심 동력으로 주목받고 있습니다. 온디바이스 AI의 적용으로 변화하는 비즈니스의 혁신 사례와 장점에 대해 알아보세요.",
+                "title": "‘온디바이스 AI’: 인터넷과 클라우드가 필요 없는 손안의 AI 시대 - Upstage",
+                "title_link": "https:\/\/ko.upstage.ai\/feed\/insight\/on-device-ai",
+                "service_name": "Upstage"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kFRi0",
+                "elements": [
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.fnnews.com\/news\/202402111902549163",
+                                "text": "'말 하는 차' 시대 개막...\"AI·LLM, 탑재 경쟁 가열\"",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n요즘 온디바이스 AI가 핫하던데 진짜 범블비가 등장하네요. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "car",
+                                "unicode": "1f697"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "BMW",
+                                        "style": {
+                                            "bold": true,
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "아마존",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "과 손잡고 운전자의 비서 역할을 할 생성AI '"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "알렉사",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "'를 탑재할 예정"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "폭스바겐",
+                                        "style": {
+                                            "bold": true,
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " 올해 당장 2·4분기부터 "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "챗GPT",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "를 탑재하겠다고 예고"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n업스테이지도 최근에 LG 그램, 폴라리스 오피스와 온디바이스 협력을 하고 있는데, '온디바이스 AI' 관련 쉽게 읽어보기 좋은 아티클도 하나 공유해봅니다!\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/ko.upstage.ai\/feed\/insight\/on-device-ai",
+                                "text": "'온디바이스 AI'를 살펴보세요: 인터넷과 클라우드가 필요 없는 AI",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "귀여운박수",
+                "users": [
+                    "U05UNMQ4LP9",
+                    "U05VAHXECP6",
+                    "U05V2T62KUJ",
+                    "U05V4KZR3NW"
+                ],
+                "count": 4
+            }
+        ]
+    }
+]

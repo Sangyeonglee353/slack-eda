@@ -1,0 +1,626 @@
+[
+    {
+        "text": "<@U06P0H0V3UY> 안녕하세요~\n`[NLP Advanced] (2-3) 자연어 처리 Pipeline 이해하기`\n에서 질문 있습니다.\nnum_labels를 할당했는데 train때 print해보면 반영되지 않는 이유가 궁금합니다.",
+        "files": [
+            {
+                "id": "F06NW9R4L3W",
+                "created": 1710118898,
+                "timestamp": 1710118898,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U05V7V2AV8A",
+                "user_team": "T05UGFFGL07",
+                "editable": false,
+                "size": 312963,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F06NW9R4L3W\/image.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F06NW9R4L3W\/download\/image.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06NW9R4L3W-81c4eaeaac\/image_64.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06NW9R4L3W-81c4eaeaac\/image_80.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06NW9R4L3W-81c4eaeaac\/image_360.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_360_w": 360,
+                "thumb_360_h": 240,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06NW9R4L3W-81c4eaeaac\/image_480.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_480_w": 480,
+                "thumb_480_h": 320,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06NW9R4L3W-81c4eaeaac\/image_160.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06NW9R4L3W-81c4eaeaac\/image_720.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_720_w": 720,
+                "thumb_720_h": 480,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06NW9R4L3W-81c4eaeaac\/image_800.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_800_w": 800,
+                "thumb_800_h": 533,
+                "original_w": 834,
+                "original_h": 556,
+                "thumb_tiny": "AwAgADDQUYzyTk5+lGfelFJke\/50AGfegZPejj0P50ZHuPxoAXmjn2pOPX9aOPX9aAFFJxjqfypRR9RQA3I9\/wAqXIx3o7fdpQB6CgABHvRmlooA\/9k=",
+                "permalink": "https:\/\/fcupstageai1.slack.com\/files\/U05V7V2AV8A\/F06NW9R4L3W\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T05UGFFGL07-F06NW9R4L3W-778b24eba8",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            },
+            {
+                "id": "F06NQU3J9FF",
+                "created": 1710118918,
+                "timestamp": 1710118918,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U05V7V2AV8A",
+                "user_team": "T05UGFFGL07",
+                "editable": false,
+                "size": 282115,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F06NQU3J9FF\/image.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F06NQU3J9FF\/download\/image.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06NQU3J9FF-7e5be77701\/image_64.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06NQU3J9FF-7e5be77701\/image_80.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06NQU3J9FF-7e5be77701\/image_360.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_360_w": 360,
+                "thumb_360_h": 326,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06NQU3J9FF-7e5be77701\/image_480.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_480_w": 480,
+                "thumb_480_h": 435,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06NQU3J9FF-7e5be77701\/image_160.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "original_w": 657,
+                "original_h": 595,
+                "thumb_tiny": "AwArADDRAzkZPFIMA9z9RT6ZQA6gc02jtgYoAdijFAwABkUtABTKfTKAAGge\/SjmlyRQAo6cilpuT\/kUoyaAFpnHtT6KAGdu1KuD0p1FACcH0paQADOKWgD\/2Q==",
+                "permalink": "https:\/\/fcupstageai1.slack.com\/files\/U05V7V2AV8A\/F06NQU3J9FF\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T05UGFFGL07-F06NQU3J9FF-c7bd3638fe",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U05V7V2AV8A",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EXDwP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06P0H0V3UY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 안녕하세요~\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "[NLP Advanced] (2-3) 자연어 처리 Pipeline 이해하기",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n에서 질문 있습니다.\nnum_labels를 할당했는데 train때 print해보면 반영되지 않는 이유가 궁금합니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1710119163.187989",
+        "client_msg_id": "8952beae-002a-45ba-be2d-417d12c9e181",
+        "thread_ts": "1710119163.187989",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1710121037.781619",
+        "reply_users": [
+            "U06P0H0V3UY",
+            "U05V7V2AV8A"
+        ],
+        "replies": [
+            {
+                "user": "U06P0H0V3UY",
+                "ts": "1710120335.718569"
+            },
+            {
+                "user": "U05V7V2AV8A",
+                "ts": "1710121037.781619"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U05VADPQPCL",
+                    "U06P0H0V3UY"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U06P0H0V3UY",
+        "type": "message",
+        "ts": "1710120335.718569",
+        "client_msg_id": "6deb0eb5-d94f-43ba-bb26-8010e45ea212",
+        "text": "<@U05V7V2AV8A> 안녕하세요 준규님!\n\nconfig 가 많기에 print 시에 모든 config 를 출력해주지 않아서 안보일뿐입니다.\n\nmodel_config 에 대해서 model_config.num_labels 로 한번 출력해보시면 잘 할당된걸 확인하실 수 있습니다~",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "f953974a59ed",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-07\/6762308887044_f953974a59edb3df3dc4_72.png",
+            "first_name": "이종혁",
+            "real_name": "이종혁 멘토",
+            "display_name": "이종혁 멘토",
+            "team": "T05UGFFGL07",
+            "name": "jonhyuk0922",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1710119163.187989",
+        "parent_user_id": "U05V7V2AV8A",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EeEqG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05V7V2AV8A"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 안녕하세요 준규님!\n\nconfig 가 많기에 print 시에 모든 config 를 출력해주지 않아서 안보일뿐입니다.\n\nmodel_config 에 대해서 model_config.num_labels 로 한번 출력해보시면 잘 할당된걸 확인하실 수 있습니다~"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05V7V2AV8A",
+        "type": "message",
+        "ts": "1710121037.781619",
+        "client_msg_id": "f7c382f6-a765-4387-bc51-cdc567900719",
+        "text": "아항 보통 많을 때 ...으로 표시되던데 찍어보니깐 나오네요~ 감사합니다!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "28368614e02a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5987346071766_28368614e02abbfb71bd_72.png",
+            "first_name": "andrew",
+            "real_name": "andrew jang",
+            "display_name": "장준규",
+            "team": "T05UGFFGL07",
+            "name": "goldenbeluga",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1710119163.187989",
+        "parent_user_id": "U05V7V2AV8A",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OkibX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "아항 보통 많을 때 ...으로 표시되던데 찍어보니깐 나오네요~ 감사합니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "<@U06P0H0V3UY> 멘토님~\ndataset한 번 찍어보려고 여러단계 종속?을 지나왔는데\nq1. 이런 흐름을 보여주는 도구는 없을까요? 하나씩 일일이 찾아서 되감기?했거든요 ㅠ\nq2. 강의 코드에는 dataset보는 방법이 train() 돌아야 보이던데 train까지 가기전에 찍어보는 방법이 없나요?",
+        "files": [
+            {
+                "id": "F06PGS9MX16",
+                "created": 1710124658,
+                "timestamp": 1710124658,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U05V7V2AV8A",
+                "user_team": "T05UGFFGL07",
+                "editable": false,
+                "size": 175538,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F06PGS9MX16\/image.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F06PGS9MX16\/download\/image.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06PGS9MX16-3a4503b3ce\/image_64.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06PGS9MX16-3a4503b3ce\/image_80.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06PGS9MX16-3a4503b3ce\/image_360.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_360_w": 360,
+                "thumb_360_h": 149,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06PGS9MX16-3a4503b3ce\/image_480.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_480_w": 480,
+                "thumb_480_h": 198,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06PGS9MX16-3a4503b3ce\/image_160.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06PGS9MX16-3a4503b3ce\/image_720.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_720_w": 720,
+                "thumb_720_h": 297,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06PGS9MX16-3a4503b3ce\/image_800.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_800_w": 800,
+                "thumb_800_h": 330,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06PGS9MX16-3a4503b3ce\/image_960.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_960_w": 960,
+                "thumb_960_h": 396,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06PGS9MX16-3a4503b3ce\/image_1024.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 423,
+                "original_w": 1759,
+                "original_h": 726,
+                "thumb_tiny": "AwATADCoOlFNGPyo4OetADsD0pMD0NIOaTHuKAFwPejj1oA96Np9aAAfxUi9\/pSj+KkXv9KAFXrSEkE0q9aaetAEgo7fhSDtSnp+FAH\/2Q==",
+                "permalink": "https:\/\/fcupstageai1.slack.com\/files\/U05V7V2AV8A\/F06PGS9MX16\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T05UGFFGL07-F06PGS9MX16-881c3ba332",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U05V7V2AV8A",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WFPNu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06P0H0V3UY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 멘토님~\ndataset한 번 찍어보려고 여러단계 종속?을 지나왔는데\nq1. 이런 흐름을 보여주는 도구는 없을까요? 하나씩 일일이 찾아서 되감기?했거든요 ㅠ\nq2. 강의 코드에는 dataset보는 방법이 train() 돌아야 보이던데 train까지 가기전에 찍어보는 방법이 없나요?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1710124939.129419",
+        "edited": {
+            "user": "U05V7V2AV8A",
+            "ts": "1710125303.000000"
+        },
+        "client_msg_id": "2fc5f0e4-afd4-46f1-b86b-c53f108e2d90",
+        "thread_ts": "1710124939.129419",
+        "reply_count": 8,
+        "reply_users_count": 2,
+        "latest_reply": "1710294451.309729",
+        "reply_users": [
+            "U06P0H0V3UY",
+            "U05V7V2AV8A"
+        ],
+        "replies": [
+            {
+                "user": "U06P0H0V3UY",
+                "ts": "1710126722.583489"
+            },
+            {
+                "user": "U06P0H0V3UY",
+                "ts": "1710126794.705819"
+            },
+            {
+                "user": "U05V7V2AV8A",
+                "ts": "1710127987.915659"
+            },
+            {
+                "user": "U06P0H0V3UY",
+                "ts": "1710133328.535199"
+            },
+            {
+                "user": "U05V7V2AV8A",
+                "ts": "1710205215.228689"
+            },
+            {
+                "user": "U06P0H0V3UY",
+                "ts": "1710227734.329919"
+            },
+            {
+                "user": "U05V7V2AV8A",
+                "ts": "1710291938.882159"
+            },
+            {
+                "user": "U06P0H0V3UY",
+                "ts": "1710294451.309729"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U06P0H0V3UY"
+                ],
+                "count": 1
+            },
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U06P0H0V3UY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06P0H0V3UY",
+        "type": "message",
+        "ts": "1710126722.583489",
+        "client_msg_id": "d357913a-4cc2-4848-bd83-ca0e01e665c2",
+        "text": "q1. 아무래도 이런 질문이 나오게된 상황에는, 준규님이 직접 데이터를 구축하신게 아니라 타인이 구축한 데이터셋을 보려니 발생한 상황으로 보입니다! 저도 타인이 구축한 데이터셋 같은 경우는 class 도 다르고 형태도 다를 수 밖에 없기때문에 직접 찍어보는 편입니다.\n\n예를 들어 허깅페이스 datasets 라는 라이브러리는 apache arrow 라는 형태의 클래스로 데이터를 저장합니다. (이유는 한번 찾아보시는 거 추천) 이 경우는 pandas dataframe 과 비슷하나 또 형태가 다르기에 찍어보는 형태도 다를 수 밖에 없어 일률적인 처리보단 직접 확인해보는 걸 추천드려요\n\n혹 반복되는 패턴을 찾으셨다면 직접 모듈을 만들어두셨다가 쓰시는 것도 방법입니다!\n\n<@U05V7V2AV8A>",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "f953974a59ed",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-07\/6762308887044_f953974a59edb3df3dc4_72.png",
+            "first_name": "이종혁",
+            "real_name": "이종혁 멘토",
+            "display_name": "이종혁 멘토",
+            "team": "T05UGFFGL07",
+            "name": "jonhyuk0922",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1710124939.129419",
+        "parent_user_id": "U05V7V2AV8A",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kuv74",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "q1. 아무래도 이런 질문이 나오게된 상황에는, 준규님이 직접 데이터를 구축하신게 아니라 타인이 구축한 데이터셋을 보려니 발생한 상황으로 보입니다! 저도 타인이 구축한 데이터셋 같은 경우는 class 도 다르고 형태도 다를 수 밖에 없기때문에 직접 찍어보는 편입니다.\n\n예를 들어 허깅페이스 datasets 라는 라이브러리는 apache arrow 라는 형태의 클래스로 데이터를 저장합니다. (이유는 한번 찾아보시는 거 추천) 이 경우는 pandas dataframe 과 비슷하나 또 형태가 다르기에 찍어보는 형태도 다를 수 밖에 없어 일률적인 처리보단 직접 확인해보는 걸 추천드려요\n\n혹 반복되는 패턴을 찾으셨다면 직접 모듈을 만들어두셨다가 쓰시는 것도 방법입니다!\n\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05V7V2AV8A"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06P0H0V3UY",
+        "type": "message",
+        "ts": "1710126794.705819",
+        "client_msg_id": "e36efe17-d480-4625-a35b-763818b948ce",
+        "text": "q2. train() 을 돌려서 데이터가 보이게되는 건, 그 안에 구현된 어딘가에서 데이터셋을 출력하는 코드가 있기 때문입니다.\n\n해당 부분을 찾아서 직접 출력해보시는 방법이 있습니다~ 한번 시도해보시고 안되면 질문주시면 더 자세히 힌트드릴게요! :slightly_smiling_face:\n<@U05V7V2AV8A>",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "f953974a59ed",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-07\/6762308887044_f953974a59edb3df3dc4_72.png",
+            "first_name": "이종혁",
+            "real_name": "이종혁 멘토",
+            "display_name": "이종혁 멘토",
+            "team": "T05UGFFGL07",
+            "name": "jonhyuk0922",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1710124939.129419",
+        "parent_user_id": "U05V7V2AV8A",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4epgA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "q2. train() 을 돌려서 데이터가 보이게되는 건, 그 안에 구현된 어딘가에서 데이터셋을 출력하는 코드가 있기 때문입니다.\n\n해당 부분을 찾아서 직접 출력해보시는 방법이 있습니다~ 한번 시도해보시고 안되면 질문주시면 더 자세히 힌트드릴게요! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05V7V2AV8A"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "<@U06P0H0V3UY> 답변 감사합니다 멘토님~\n제가 질문을 잘못한 거 같아요 ㅠ\nq1은 아래 그래프 같은 거 있으면 news_dataset출력할 때 해당하는 코드만 딱 가져와서 볼 수 있을 거 같아서요. 이런 도구가 없나 싶어서요\nq2은 train 안에 prepare_dataset 함수 돌면서 dataset이 출력되는데 train 실행하면서 dataset 부분에서 잠깐 멈춰놓고 dataset 탐색을 하고 싶어서요. 구글링해보면 디버깅 뭐시기라 나오는데 ㅠ 잘모르겠네요",
+        "files": [
+            {
+                "id": "F06NU3D22JX",
+                "created": 1710127797,
+                "timestamp": 1710127797,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U05V7V2AV8A",
+                "user_team": "T05UGFFGL07",
+                "editable": false,
+                "size": 112091,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F06NU3D22JX\/image.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F06NU3D22JX\/download\/image.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06NU3D22JX-0314b856a8\/image_64.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06NU3D22JX-0314b856a8\/image_80.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06NU3D22JX-0314b856a8\/image_360.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_360_w": 340,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06NU3D22JX-0314b856a8\/image_480.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_480_w": 453,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06NU3D22JX-0314b856a8\/image_160.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06NU3D22JX-0314b856a8\/image_720.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_720_w": 680,
+                "thumb_720_h": 720,
+                "original_w": 699,
+                "original_h": 740,
+                "thumb_tiny": "AwAwAC3TqBkYuSFJH++RU9RMHUE7z9AuaaEwidFXllHP9\/NSZBGQcioVIA+ZGY\/7lTD7vAxQwQm72p1N2ZI5p1IZDIu5jmJj75ppRlw0aAZ\/vMasUjdPxp3FYiKBjlsg+xNAiUn5SfzNSBsZz1zSAg\/xEUXYWQ0wqORnj\/aNS01mG0jNOoAKhkTB43HPP38YqamscHrjihAyJGdcgLnPq+amU5UHGKaDn+Ij64py\/dFDBC0UUUhn\/9k=",
+                "permalink": "https:\/\/fcupstageai1.slack.com\/files\/U05V7V2AV8A\/F06NU3D22JX\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T05UGFFGL07-F06NU3D22JX-fb843aa6b5",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U05V7V2AV8A",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+Qg5y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06P0H0V3UY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 답변 감사합니다 멘토님~\n제가 질문을 잘못한 거 같아요 ㅠ\nq1은 아래 그래프 같은 거 있으면 news_dataset출력할 때 해당하는 코드만 딱 가져와서 볼 수 있을 거 같아서요. 이런 도구가 없나 싶어서요\nq2은 train 안에 prepare_dataset 함수 돌면서 dataset이 출력되는데 train 실행하면서 dataset 부분에서 잠깐 멈춰놓고 dataset 탐색을 하고 싶어서요. 구글링해보면 디버깅 뭐시기라 나오는데 ㅠ 잘모르겠네요"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1710127987.915659",
+        "edited": {
+            "user": "U05V7V2AV8A",
+            "ts": "1710128012.000000"
+        },
+        "client_msg_id": "3a10c60a-352f-47c9-90f6-7cc47386ffe4",
+        "thread_ts": "1710124939.129419",
+        "parent_user_id": "U05V7V2AV8A"
+    },
+    {
+        "user": "U06P0H0V3UY",
+        "type": "message",
+        "ts": "1710133328.535199",
+        "edited": {
+            "user": "U06P0H0V3UY",
+            "ts": "1710133425.000000"
+        },
+        "client_msg_id": "833D366C-AE6E-43E3-B329-476386FED7D7",
+        "text": "q1 질문이 그림과 같이 모듈들을 시각화해서 볼때 해당되는 파트 코드만 보고싶다로 이해했습니다. 이미 이 기능은 vscode 에서 확인하실 수 있으실텐데, \n\n저는 질문과 별개로, 코드를 읽으실때 “네비게이팅” 기능 사용 추천드립니다 커맨드나 컨트롤 누르시고 해당 함수 클릭하시면 거기로 연결됩니다. \n\nq2. 는 “vs-code 디버거 사용하는 방법”을 검색해보시길 추천드립니다. 다만 디버거를 사용하더라도 실행되던 중간에 멈춰서 해당 파트를 확인할 수 있는지는 잘 모르겠습니다!! 그냥 코드를 긁어와서 확인해보세요!  <@U05V7V2AV8A> ",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "f953974a59ed",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-07\/6762308887044_f953974a59edb3df3dc4_72.png",
+            "first_name": "이종혁",
+            "real_name": "이종혁 멘토",
+            "display_name": "이종혁 멘토",
+            "team": "T05UGFFGL07",
+            "name": "jonhyuk0922",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1710124939.129419",
+        "parent_user_id": "U05V7V2AV8A",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6HsHK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "q1 질문이 그림과 같이 모듈들을 시각화해서 볼때 해당되는 파트 코드만 보고싶다로 이해했습니다. 이미 이 기능은 vscode 에서 확인하실 수 있으실텐데, \n\n저는 질문과 별개로, 코드를 읽으실때 “네비게이팅” 기능 사용 추천드립니다 커맨드나 컨트롤 누르시고 해당 함수 클릭하시면 거기로 연결됩니다. \n\nq2. 는 “vs-code 디버거 사용하는 방법”을 검색해보시길 추천드립니다. 다만 디버거를 사용하더라도 실행되던 중간에 멈춰서 해당 파트를 확인할 수 있는지는 잘 모르겠습니다!! 그냥 코드를 긁어와서 확인해보세요!  "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05V7V2AV8A"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

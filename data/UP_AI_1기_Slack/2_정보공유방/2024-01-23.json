@@ -1,0 +1,231 @@
+[
+    {
+        "user": "U060H4V0Q5S",
+        "type": "message",
+        "ts": "1706004160.755879",
+        "client_msg_id": "d692becc-6d7d-49fd-b062-c23fa598fbbf",
+        "text": "신청 되었는지 확인 가능한가요?",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "3d85b1738502",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-09\/6000180384871_3d85b1738502fdcd6aa2_72.png",
+            "first_name": "진성준",
+            "real_name": "진성준",
+            "display_name": "진성준",
+            "team": "T05UGFFGL07",
+            "name": "usniz300",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1704935148.435999",
+        "parent_user_id": "U05VAHXECP6",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4mH6Y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "신청 되었는지 확인 가능한가요?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U05VAHXECP6"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U065TBUL5EE",
+        "type": "message",
+        "ts": "1706065837.400159",
+        "client_msg_id": "87025820-52e9-4d4e-b1b5-bbf757a208ca",
+        "text": "뉴스기사 <https:\/\/naver.me\/5sm4wlXb>\n서비스 퀵링크 <https:\/\/brandchat.naver.com\/nike>",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "34f110a5edc4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-11-14\/6197301711475_34f110a5edc435398e63_72.png",
+            "first_name": "김용담",
+            "real_name": "김용담",
+            "display_name": "김용담 강사",
+            "team": "T05UGFFGL07",
+            "name": "codingiscoffee",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/imgnews.pstatic.net\/image\/011\/2024\/01\/24\/0004290601_001_20240124105601020.png?type=w800",
+                "image_width": 640,
+                "image_height": 587,
+                "image_bytes": 307985,
+                "from_url": "https:\/\/naver.me\/5sm4wlXb",
+                "service_icon": "https:\/\/ssl.pstatic.net\/static.news\/image\/news\/m\/2018\/favicon\/06\/android_legacy_xxxhpdi_192x192.png",
+                "id": 1,
+                "original_url": "https:\/\/naver.me\/5sm4wlXb",
+                "fallback": "[단독] 'AI가 나이키 직원처럼 소개'...네이버, 브랜드챗 첫선",
+                "text": "네이버가 초거대 인공지능(AI) ‘하이퍼클로바X’ 기반의 광고 상품 ‘브랜드 챗’(Brand chat)’을 선보였다. ‘하이퍼클로바X’와 광고를 접목한 ‘클로바 포 애드(Clova for AD)’의 첫 상품을 공개한",
+                "title": "[단독] 'AI가 나이키 직원처럼 소개'...네이버, 브랜드챗 첫선",
+                "title_link": "https:\/\/naver.me\/5sm4wlXb",
+                "service_name": "n.news.naver.com"
+            },
+            {
+                "from_url": "https:\/\/brandchat.naver.com\/nike",
+                "service_icon": "https:\/\/s.pstatic.net\/static\/www\/u\/2014\/0328\/mma_20432863.png",
+                "thumb_url": "https:\/\/s.pstatic.net\/static\/www\/mobile\/edit\/2016\/0705\/mobile_212852414260.png",
+                "thumb_width": 270,
+                "thumb_height": 270,
+                "id": 2,
+                "original_url": "https:\/\/brandchat.naver.com\/nike",
+                "fallback": "CLOVA for AD - Nike",
+                "text": "생성형 AI 기술 기반의 네이버 CLOVA for AD의 Nike 브랜드챗",
+                "title": "CLOVA for AD - Nike",
+                "title_link": "https:\/\/brandchat.naver.com\/nike",
+                "service_name": "brandchat.naver.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/xx+V",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "뉴스기사 "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/naver.me\/5sm4wlXb"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n서비스 퀵링크 "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/brandchat.naver.com\/nike"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U05V9N22ZUK",
+                    "U05V5B88ULD",
+                    "U05V379NETU",
+                    "U05V2T62KUJ",
+                    "U05UN7M2GKZ",
+                    "U0600GGHJTC",
+                    "U060C67EYQ5"
+                ],
+                "count": 7
+            }
+        ]
+    },
+    {
+        "user": "U05VAHXECP6",
+        "type": "message",
+        "ts": "1706074104.912329",
+        "client_msg_id": "3f8448ca-e1ac-4e32-8157-4ab9f9910430",
+        "text": "<@U060H4V0Q5S> 성준님! 정상 신청 확인 되었습니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "50abee101814",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-11\/6044824153712_50abee1018149e21919b_72.jpg",
+            "first_name": "이상영",
+            "real_name": "이상영",
+            "display_name": "FC 이상영 매니저",
+            "team": "T05UGFFGL07",
+            "name": "sangyeong.lee",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1704935148.435999",
+        "parent_user_id": "U05VAHXECP6",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ht2pl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U060H4V0Q5S"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 성준님! 정상 신청 확인 되었습니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U060H4V0Q5S",
+        "type": "message",
+        "ts": "1706074131.145419",
+        "client_msg_id": "e5499231-94f3-42f3-9052-b76e17dc30bf",
+        "text": "예, 감사합니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "3d85b1738502",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-09\/6000180384871_3d85b1738502fdcd6aa2_72.png",
+            "first_name": "진성준",
+            "real_name": "진성준",
+            "display_name": "진성준",
+            "team": "T05UGFFGL07",
+            "name": "usniz300",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1704935148.435999",
+        "parent_user_id": "U05VAHXECP6",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6PrWl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "예, 감사합니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

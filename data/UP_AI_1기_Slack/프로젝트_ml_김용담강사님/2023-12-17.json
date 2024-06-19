@@ -1,0 +1,53 @@
+[
+    {
+        "user": "U05V9LP47V0",
+        "type": "message",
+        "ts": "1702867795.204479",
+        "client_msg_id": "33c12727-42d1-498b-a158-d39142389630",
+        "text": "<@U065TBUL5EE>\n\n강사님.\n피처를 빼고 추가하는 절차에 대해서 알고 싶습니다.\n하이퍼파라매터 선정은 알겠는데, 피처 추가와 삭제 부분에 대한 평가 부분에 대해서 알고 싶습니다.\n감사합니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "54d9ef7119e7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-06\/5993912366662_54d9ef7119e784b29212_72.jpg",
+            "first_name": "문정의",
+            "real_name": "문정의",
+            "display_name": "문정의",
+            "team": "T05UGFFGL07",
+            "name": "axa301",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "giR+y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U065TBUL5EE"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n강사님.\n피처를 빼고 추가하는 절차에 대해서 알고 싶습니다.\n하이퍼파라매터 선정은 알겠는데, 피처 추가와 삭제 부분에 대한 평가 부분에 대해서 알고 싶습니다.\n감사합니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "smiling_face_with_tear",
+                "users": [
+                    "U065TBUL5EE"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,465 @@
+[
+    {
+        "user": "U06061L4S64",
+        "type": "message",
+        "ts": "1700046000.350129",
+        "client_msg_id": "e7f44466-6533-4b80-9c16-c58a0078194d",
+        "text": ":tada:*[ 블로그 작성 이벤트 ]*\n안녕하세요. 여러분!\n금일 프로젝트 발표까지 진행하느라 수고 많으셨습니다.\n프로젝트 진행 내용을 블로그에 기록해두면 추후 취업 준비에 큰 도움이 되기도 하고, 학습 내용을 회고하는 데도 좋습니다.\n\n그래서 여러분을 위해 준비한 작은 이벤트가 있습니다. 바로 블로그 작성 이벤트입니다!\n블로그에 프로젝트 회고를 작성해주신 분들 중 내용과 양을 바탕으로 1등~3등을 정하여 풍성한 기프티콘을 드리려고 합니다!\n\n아래 내용 확인 후 진행 부탁드립니다.\n많은 참여 부탁드려요!\n\n:yum: *1st 이벤트 주제 : EDA 프로젝트 회고 작성* :yum:\n\n&gt; • *블로그 운영의 목적*\n&gt;     ◦ *포트폴리오로 활용*\n&gt;     ◦ *지식\/경험 콘텐츠화 :* 경험하는 모든 것을 ‘콘텐츠’로 빚어냄으로써 나만의 지식백과를 만들 수 있습니다.\n&gt;     ◦ *퍼스널 브랜딩 :* 나만의 콘텐츠로 가치를 높여, 나 그 자체로 1인 기업이 될 수 있습니다.\n&gt; \n&gt; • *작성 기한* : 11월 19일(일)\n&gt; • *시상 내역* : EDA 프로젝트 회고 작성을 가장 잘 써주신 분께 기프티콘 지급 예정입니다!`많은 참여부탁드립니다.`\n&gt; • *블로그 링크 제출* : <https:\/\/www.notion.so\/d0901fde6a5e4bbc9fdcc39992cb0c6a?pvs=4|노션페이지(개발 블로그 모음)>",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "9958a6e7ea98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5988755251283_9958a6e7ea98545615ca_72.png",
+            "first_name": "LM",
+            "real_name": "LM 박진영",
+            "display_name": "LM 박진영",
+            "team": "T05UGFFGL07",
+            "name": "pjy.fc.career",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+itp1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "tada",
+                                "unicode": "1f389"
+                            },
+                            {
+                                "type": "text",
+                                "text": "[ 블로그 작성 이벤트 ]",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n안녕하세요. 여러분!\n금일 프로젝트 발표까지 진행하느라 수고 많으셨습니다.\n프로젝트 진행 내용을 블로그에 기록해두면 추후 취업 준비에 큰 도움이 되기도 하고, 학습 내용을 회고하는 데도 좋습니다.\n\n그래서 여러분을 위해 준비한 작은 이벤트가 있습니다. 바로 블로그 작성 이벤트입니다!\n블로그에 프로젝트 회고를 작성해주신 분들 중 내용과 양을 바탕으로 1등~3등을 정하여 풍성한 기프티콘을 드리려고 합니다!\n\n아래 내용 확인 후 진행 부탁드립니다.\n많은 참여 부탁드려요!\n\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "yum",
+                                "unicode": "1f60b"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "1st 이벤트 주제 : EDA 프로젝트 회고 작성 ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "yum",
+                                "unicode": "1f60b"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "블로그 운영의 목적",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 1
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "포트폴리오로 활용",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "지식\/경험 콘텐츠화 :",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " 경험하는 모든 것을 ‘콘텐츠’로 빚어냄으로써 나만의 지식백과를 만들 수 있습니다."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "퍼스널 브랜딩 :",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " 나만의 콘텐츠로 가치를 높여, 나 그 자체로 1인 기업이 될 수 있습니다."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 1
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": []
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "작성 기한",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " : 11월 19일(일)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "시상 내역",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " : EDA 프로젝트 회고 작성을 가장 잘 써주신 분께 기프티콘 지급 예정입니다!"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "많은 참여부탁드립니다.",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "블로그 링크 제출",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " : "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/www.notion.so\/d0901fde6a5e4bbc9fdcc39992cb0c6a?pvs=4",
+                                        "text": "노션페이지(개발 블로그 모음)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 1
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "meow_noddies",
+                "users": [
+                    "U05V2PMAVNE",
+                    "U05V4KZR3NW",
+                    "U05UNMQ4LP9",
+                    "U05V2P37518",
+                    "U05V7H78DUM",
+                    "U05V9LP47V0",
+                    "U05VC7EEY5Q"
+                ],
+                "count": 7
+            },
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U05V5B27DK7",
+                    "U0600GGHJTC"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U05VAHXECP6",
+        "type": "message",
+        "ts": "1700101796.864969",
+        "edited": {
+            "user": "U05VAHXECP6",
+            "ts": "1700102301.000000"
+        },
+        "client_msg_id": "f6e14c4e-f9ab-45eb-9e85-7fa2f19429a9",
+        "text": "<!here>\n안녕하세요. Upstage AI Lab 수강생 여러분!\n금일 17시부터 *커리어캠프 OT `[필수참석]`*가 예정되어 있는데요.\n\n다들 이게 무얼하는 시간인가? 궁금증을 가지고 계실 것 같아요.\n본 과정 OT에서 말씀드린 바와 같이 모든 과정이 끝나고, 취업 준비를 하는 것이 아닌\n과정 중간에 미리미리 취업 준비를 위한 커리어 서비스를 제공하고자 합니다.\n\n자세한 내용은 이여진 컨설턴트님께서 설명해주실 예정이며,\n아래의 강의 자료를 참고 부탁 드립니다.\n> *<https:\/\/drive.google.com\/open?id=1zn4la3I0OhTcht8V6Z8p1XqofWqDDR6r&usp=drive_copy\n> |커리어 캠프 OT_강의 자료>*\n감사합니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "50abee101814",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-11\/6044824153712_50abee1018149e21919b_72.jpg",
+            "first_name": "이상영",
+            "real_name": "이상영",
+            "display_name": "FC 이상영 매니저",
+            "team": "T05UGFFGL07",
+            "name": "sangyeong.lee",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wBKVf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n안녕하세요. Upstage AI Lab 수강생 여러분!\n금일 17시부터 "
+                            },
+                            {
+                                "type": "text",
+                                "text": "커리어캠프 OT ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "[필수참석]",
+                                "style": {
+                                    "bold": true,
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "가 예정되어 있는데요.\n\n다들 이게 무얼하는 시간인가? 궁금증을 가지고 계실 것 같아요.\n본 과정 OT에서 말씀드린 바와 같이 모든 과정이 끝나고, 취업 준비를 하는 것이 아닌\n과정 중간에 미리미리 취업 준비를 위한 커리어 서비스를 제공하고자 합니다.\n\n자세한 내용은 이여진 컨설턴트님께서 설명해주실 예정이며,\n아래의 강의 자료를 참고 부탁 드립니다.\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/drive.google.com\/open?id=1zn4la3I0OhTcht8V6Z8p1XqofWqDDR6r&usp=drive_copy\n",
+                                "text": "커리어 캠프 OT_강의 자료",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n감사합니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U05UWVA90H4",
+                    "U060TBSJ7DF",
+                    "U05V9N22ZUK",
+                    "U05UNMQ4LP9"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "text": "*<!here>*\n\n기존에 QR이 바뀌어서 공지드립니다.:exclamation:\n오늘 퇴실부터는 새로운 QR로 찍어주시면 됩니다.\n기존 QR은 찍히지 않으니 주의해주세요!!\n`새로운 QR 첨부드립니다.`",
+        "files": [
+            {
+                "id": "F065WDKRV4M",
+                "created": 1700104996,
+                "timestamp": 1700104996,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U06061L4S64",
+                "user_team": "T05UGFFGL07",
+                "editable": false,
+                "size": 97515,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F065WDKRV4M\/image.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F065WDKRV4M\/download\/image.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F065WDKRV4M-e31ba67fa7\/image_64.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F065WDKRV4M-e31ba67fa7\/image_80.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F065WDKRV4M-e31ba67fa7\/image_360.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_360_w": 360,
+                "thumb_360_h": 318,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F065WDKRV4M-e31ba67fa7\/image_480.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_480_w": 480,
+                "thumb_480_h": 424,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F065WDKRV4M-e31ba67fa7\/image_160.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F065WDKRV4M-e31ba67fa7\/image_720.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_720_w": 720,
+                "thumb_720_h": 636,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F065WDKRV4M-e31ba67fa7\/image_800.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_800_w": 800,
+                "thumb_800_h": 707,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F065WDKRV4M-e31ba67fa7\/image_960.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_960_w": 960,
+                "thumb_960_h": 849,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F065WDKRV4M-e31ba67fa7\/image_1024.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 905,
+                "original_w": 1258,
+                "original_h": 1112,
+                "thumb_tiny": "AwAqADDTNRfaI\/74qQ9qztoUjc2MjnOcAD2oAv8AmoGC7l3HtmkWZGXcrKR65qiItgVZAW7cn7wGcUoOEZVwARjIOOOn8u\/40AXDcRg4LipFO4ZHQ8is3HClSTzxtJPP171oRDEaj0UUAOPas5ozG3CqZB83Azk+v0\/wzWie1ZwVFEg2jO75iM4bv1\/OgBJCSA7lPvc5HApygRofnBQjnjk9\/wCh4\/CoyoKhvmORjbtwR+HTpT\/K+Rh8wKr84Hbjj\/I70ALECyZ3PgsegwCc\/wD1+KvRDCKCMYUcVmqziBCjDcvLNnnA4OR\/npWlFwi9Pujp0oAce1Z6Ry7hlXxx0HPvzWg3Sm0AUprdjghHZto3Z7ke+aVI5DIz+Tt3AAFucH6flVyigCp5EsakEF8D5cdOvP8A9aricAfQUlOWgD\/\/2Q==",
+                "permalink": "https:\/\/fcupstageai1.slack.com\/files\/U06061L4S64\/F065WDKRV4M\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T05UGFFGL07-F065WDKRV4M-308d36895a",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U06061L4S64",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xEcVk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "here",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n기존에 QR이 바뀌어서 공지드립니다."
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "exclamation",
+                                "unicode": "2757"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n오늘 퇴실부터는 새로운 QR로 찍어주시면 됩니다.\n기존 QR은 찍히지 않으니 주의해주세요!!\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "새로운 QR 첨부드립니다.",
+                                "style": {
+                                    "code": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1700105000.242819",
+        "client_msg_id": "558af5ba-54f2-4f24-8a5f-9426c7aef826",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U060LG0BT89",
+                    "U05V2P37518",
+                    "U05UN7M2GKZ",
+                    "U05V5B27DK7",
+                    "U05V7H78DUM",
+                    "U05V2T62KUJ",
+                    "U05V379NETU",
+                    "U0600GGHJTC",
+                    "U05VDDP88BW",
+                    "U05V9N22ZUK"
+                ],
+                "count": 10
+            }
+        ]
+    }
+]

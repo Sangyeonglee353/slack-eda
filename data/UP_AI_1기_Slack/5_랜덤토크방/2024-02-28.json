@@ -1,0 +1,88 @@
+[
+    {
+        "user": "U060C67EYQ5",
+        "type": "message",
+        "ts": "1709123176.513639",
+        "client_msg_id": "8BF7803E-5901-4C79-9EFC-A7E9D1D5C1BD",
+        "text": "두둥..!\n\n<https:\/\/n.news.naver.com\/mnews\/article\/421\/0007381396?sid=1|https:\/\/n.news.naver.com\/mnews\/article\/421\/0007381396?sid=1>",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "831ed525b276",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-11-14\/6192884585138_831ed525b276222009d0_72.png",
+            "first_name": "업스테이지",
+            "real_name": "업스테이지 김의겸(Dave)",
+            "display_name": "UP 김의겸(Dave) 매니저",
+            "team": "T05UGFFGL07",
+            "name": "euigyum",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/imgnews.pstatic.net\/image\/421\/2024\/02\/28\/0007381396_001_20240228180107170.jpg?type=w800",
+                "image_width": 800,
+                "image_height": 534,
+                "image_bytes": 91067,
+                "from_url": "https:\/\/n.news.naver.com\/mnews\/article\/421\/0007381396?sid=1",
+                "service_icon": "https:\/\/ssl.pstatic.net\/static.news\/image\/news\/m\/2018\/favicon\/06\/android_legacy_xxxhpdi_192x192.png",
+                "id": 1,
+                "original_url": "https:\/\/n.news.naver.com\/mnews\/article\/421\/0007381396?sid=1",
+                "fallback": "저커버그 \"한국서 라마2 잘나가나요\"…업스테이지와 언어모델 협력 강화",
+                "text": "마크 저커버그 메타 최고경영자(CEO)가 28일 강남 메타 코리아에서 1시간가량 국내 XR 및 인공지능(AI) 업체 등과 기술 협력을 논의했다. XR 콘텐츠 개발뿐 아니라 방한의 다른 목적인 자사 대규모 언어모델(L",
+                "title": "저커버그 \"한국서 라마2 잘나가나요\"…업스테이지와 언어모델 협력 강화",
+                "title_link": "https:\/\/n.news.naver.com\/mnews\/article\/421\/0007381396?sid=1",
+                "service_name": "n.news.naver.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2lQBq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "두둥"
+                            },
+                            {
+                                "type": "text",
+                                "text": "..!\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/n.news.naver.com\/mnews\/article\/421\/0007381396?sid=1",
+                                "text": "https:\/\/n.news.naver.com\/mnews\/article\/421\/0007381396?sid=1"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "party_blob-1",
+                "users": [
+                    "U05V2PMAVNE",
+                    "U065TBUL5EE",
+                    "U05UN5DQ423",
+                    "U05V2T62KUJ",
+                    "U05V7H78DUM",
+                    "U05VAHXECP6"
+                ],
+                "count": 6
+            },
+            {
+                "name": "meow_noddies",
+                "users": [
+                    "U05V5B27DK7",
+                    "U05VAHXECP6"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

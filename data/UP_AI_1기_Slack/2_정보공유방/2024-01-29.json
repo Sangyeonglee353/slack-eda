@@ -1,0 +1,88 @@
+[
+    {
+        "user": "U05UWVA90H4",
+        "type": "message",
+        "ts": "1706522770.947979",
+        "client_msg_id": "64f01a41-2917-4d62-b432-b1f5178f08a5",
+        "text": "이번 강의 중에 고전 컴퓨터 비전 부분에서 나오는 Sobel-Kernel에 대해서 쉽게 설명 되어 있어 공유드립니다!\n<https:\/\/velog.io\/@olxtar\/Sobel-Kernel>",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "e039a582c034",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5983012631430_e039a582c03450d83dc6_72.png",
+            "first_name": "이준형",
+            "real_name": "이준형",
+            "display_name": "이준형",
+            "team": "T05UGFFGL07",
+            "name": "hewberryd8",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/velog.velcdn.com\/images\/olxtar\/post\/2c363b11-44d2-4773-9c4b-9f1ef6b6b0d5\/image.png",
+                "image_width": 300,
+                "image_height": 225,
+                "image_bytes": 99727,
+                "from_url": "https:\/\/velog.io\/@olxtar\/Sobel-Kernel",
+                "service_icon": "https:\/\/static.velog.io\/favicons\/apple-icon-152x152.png",
+                "id": 1,
+                "original_url": "https:\/\/velog.io\/@olxtar\/Sobel-Kernel",
+                "fallback": "Filter 그리고 Sobel Kernel",
+                "text": "Sobel operator,kernel,filter \/ discrete differenation, 차분, 임계값(Threshold), Striding, Padding, Output matrix size 공식 등 \/ cv2.Sobel",
+                "title": "Filter 그리고 Sobel Kernel",
+                "title_link": "https:\/\/velog.io\/@olxtar\/Sobel-Kernel",
+                "service_name": "velog.io"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jiL0h",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "이번 강의 중에 고전 컴퓨터 비전 부분에서 나오는 Sobel-Kernel에 대해서 쉽게 설명 되어 있어 공유드립니다!\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/velog.io\/@olxtar\/Sobel-Kernel"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "face_holding_back_tears",
+                "users": [
+                    "U05V2P37518",
+                    "U05V379NETU",
+                    "U05UZLEM04V"
+                ],
+                "count": 3
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U05V1KVNK0E",
+                    "U05UZLEM04V"
+                ],
+                "count": 2
+            },
+            {
+                "name": "star-struck",
+                "users": [
+                    "U05V5B27DK7",
+                    "U05UZLEM04V"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

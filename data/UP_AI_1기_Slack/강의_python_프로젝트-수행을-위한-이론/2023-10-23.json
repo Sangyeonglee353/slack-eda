@@ -1,0 +1,360 @@
+[
+    {
+        "user": "U05UNMQ4LP9",
+        "type": "message",
+        "ts": "1698048362.979559",
+        "edited": {
+            "user": "U05UNMQ4LP9",
+            "ts": "1698048388.000000"
+        },
+        "client_msg_id": "f1c21458-f56f-4789-8e05-fe25f11cf3fa",
+        "text": "강사님이 말씀하신 learning curve!\n<https:\/\/namu.wiki\/w\/%ED%95%99%EC%8A%B5%20%EA%B3%A1%EC%84%A0>",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "eef278e1672b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5974738227319_eef278e1672b038da8b1_72.jpg",
+            "first_name": "김윤겸",
+            "real_name": "김윤겸",
+            "display_name": "김윤겸",
+            "team": "T05UGFFGL07",
+            "name": "dbsrua110525",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wx\/JU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "강사님이 말씀하신 learning curve!\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/namu.wiki\/w\/%ED%95%99%EC%8A%B5%20%EA%B3%A1%EC%84%A0"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U060BLVQYHW",
+                    "U05VAHXECP6",
+                    "U05V379NETU"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "user": "U05UWVA90H4",
+        "type": "message",
+        "ts": "1698050408.799789",
+        "client_msg_id": "d426fb4f-f247-4357-bfc1-0ab4c1872803",
+        "text": "`code . 했을 때 vs코드 안열리는 이슈`\n\n관련 블로그 내용이에요!\n<https:\/\/www.freecodecamp.org\/korean\/news\/how-to-open-visual-studio-code-from-your-terminal\/>",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "e039a582c034",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5983012631430_e039a582c03450d83dc6_72.png",
+            "first_name": "이준형",
+            "real_name": "이준형",
+            "display_name": "이준형",
+            "team": "T05UGFFGL07",
+            "name": "hewberryd8",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/www.freecodecamp.org\/korean\/news\/content\/images\/2022\/07\/68747470733a2f2f7777772e66726565636f646563616d702e6f72672f6e6577732f636f6e74656e742f696d616765732f73697a652f77323030302f323032322f30312f636f64652e6a7067.jpg",
+                "image_width": 1280,
+                "image_height": 718,
+                "image_bytes": 138902,
+                "from_url": "https:\/\/www.freecodecamp.org\/korean\/news\/how-to-open-visual-studio-code-from-your-terminal\/",
+                "service_icon": "https:\/\/cdn.freecodecamp.org\/universal\/favicons\/favicon.ico",
+                "ts": 1658983837,
+                "id": 1,
+                "original_url": "https:\/\/www.freecodecamp.org\/korean\/news\/how-to-open-visual-studio-code-from-your-terminal\/",
+                "fallback": "freeCodeCamp.org: 터미널에서 Visual Studio Code 실행하기",
+                "text": "이번 튜토리얼에서는 Mac 터미널에서 VS Code 텍스트 편집기(Visual Studio Code)를 여는 방법을 다룹니다. 터미널에서 텍스트 편집기를 열면 빠르고 쉽게 새 프로젝트를 열고 코딩을 시작할 수 있습니다. VS Code 다운로드 &amp; 실행하기 먼저 VS Code를 실행합니다. 만약 VS Code를 아직 설치하지 않았다면 여기 [<https:\/\/code.visualstudio.com\/>] 에서 다운로드할 수 있습니다. 많은 이들의 사랑을",
+                "title": "터미널에서 Visual Studio Code 실행하기",
+                "title_link": "https:\/\/www.freecodecamp.org\/korean\/news\/how-to-open-visual-studio-code-from-your-terminal\/",
+                "service_name": "freeCodeCamp.org",
+                "fields": [
+                    {
+                        "value": "Boyeon Ihn",
+                        "title": "Written by",
+                        "short": true
+                    },
+                    {
+                        "value": "VSCode",
+                        "title": "Filed under",
+                        "short": true
+                    }
+                ]
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5Qnei",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "code . 했을 때 vs코드 안열리는 이슈",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n관련 블로그 내용이에요!\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.freecodecamp.org\/korean\/news\/how-to-open-visual-studio-code-from-your-terminal\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06061L4S64",
+        "type": "message",
+        "ts": "1698050613.980679",
+        "client_msg_id": "f6a491c2-ba26-4710-9a5b-7686d5b9a9b4",
+        "text": "설치 안되는 분들은 파이썬 이미 깔려있는 경우가 많을 텐데 아래 명령어로 poweshell 에서 하시면 됩니다.\n(Invoke-WebRequest -Uri <https:\/\/install.python-poetry.org> -UseBasicParsing).Content | python -",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "9958a6e7ea98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5988755251283_9958a6e7ea98545615ca_72.png",
+            "first_name": "LM",
+            "real_name": "LM 박진영",
+            "display_name": "LM 박진영",
+            "team": "T05UGFFGL07",
+            "name": "pjy.fc.career",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lkpuw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "설치 안되는 분들은 파이썬 이미 깔려있는 경우가 많을 텐데 아래 명령어로 poweshell 에서 하시면 됩니다.\n(Invoke-WebRequest -Uri "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/install.python-poetry.org"
+                            },
+                            {
+                                "type": "text",
+                                "text": " -UseBasicParsing).Content | python -"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05V9N22ZUK",
+        "type": "message",
+        "ts": "1698051803.861059",
+        "client_msg_id": "2a79ddbc-a5fd-470a-ad30-682d186a3544",
+        "text": "윈도우에서 poetry shell 진입 오류시 참고하면 됩니다. 저는 여기 나온 내용에 추가로 현재 유저에대한 허용만 하는 옵션 -Scope CurrentUser로 해결했습니다. <https:\/\/oyeahhh.tistory.com\/170>",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "0698995c863f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5998310079844_0698995c863fed7643f0_72.png",
+            "first_name": "TaeHan",
+            "real_name": "TaeHan Kim",
+            "display_name": "김태한",
+            "team": "T05UGFFGL07",
+            "name": "kthnineone",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/img1.daumcdn.net\/thumb\/R800x0\/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+                "image_width": 800,
+                "image_height": 800,
+                "image_bytes": 7474,
+                "from_url": "https:\/\/oyeahhh.tistory.com\/170",
+                "service_icon": "https:\/\/t1.daumcdn.net\/tistory_admin\/top_v2\/tistory-apple-touch-favicon.png",
+                "ts": 1608736129,
+                "id": 1,
+                "original_url": "https:\/\/oyeahhh.tistory.com\/170",
+                "fallback": "류기노트: [PowerShell]  Error: 이 시스템에서 스크립트를 실행할 수 없으므로 ...",
+                "text": "발생 예전부터 VS Code의 powershell에서 스크립트 실행시 동작하지 않았다. 그냥 저냥 Git Bash를 사용하며 어떻게 다른 방법으로 해결하고 지나갔는데 eslint --init을 진행할 수 없어서 (git bash 는 대화형을 지원하지 않는다) powershell로 진행하려다 문제가 발생했고 겸사 겸사 해결했다. Error 이 시스템에서 스크립트를 실행할 수 없으므로 ... 파일을 로드할 수 없습니다. 자세한 내용은 about_Execution_Policies(<https:\/\/go.microsoft.com\/fwlink\/?LinkID=135170>)를 참조하십시오. + CategoryInfo : 보안 오류: (:) [], PSSecurityException + FullyQualifiedError..",
+                "title": "[PowerShell]  Error: 이 시스템에서 스크립트를 실행할 수 없으므로 ...",
+                "title_link": "https:\/\/oyeahhh.tistory.com\/170",
+                "service_name": "류기노트"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "n8TD0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "윈도우에서 poetry shell 진입 오류시 참고하면 됩니다. 저는 여기 나온 내용에 추가로 현재 유저에대한 허용만 하는 옵션 -Scope CurrentUser로 해결했습니다. "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/oyeahhh.tistory.com\/170"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1::skin-tone-2",
+                "users": [
+                    "U05V2HL22M9"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U05UVV5CVQE",
+                    "U060D1KJECR",
+                    "U05V379NETU"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "user": "U06061L4S64",
+        "type": "message",
+        "ts": "1698054166.439169",
+        "client_msg_id": "33f546fe-f324-403e-8ecf-f333affdefc5",
+        "text": "보안오류에 관한 내용입니다!\n저도 같은 오류였는데 아래 블로그와 마소 페이지에서 해결했습니다.\n\n<https:\/\/infinitt.tistory.com\/43>\n\n <https:\/\/learn.microsoft.com\/ko-kr\/powershell\/module\/microsoft.powershell.core\/about\/about_execution_policies?view=powershell-7.3>",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "9958a6e7ea98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5988755251283_9958a6e7ea98545615ca_72.png",
+            "first_name": "LM",
+            "real_name": "LM 박진영",
+            "display_name": "LM 박진영",
+            "team": "T05UGFFGL07",
+            "name": "pjy.fc.career",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/infinitt.tistory.com\/43",
+                "ts": 1575729793,
+                "image_url": "https:\/\/img1.daumcdn.net\/thumb\/R800x0\/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fco0QX6%2FbtqAjMlSEIj%2FTMkVvcvMVjKxlRm83tIJfk%2Fimg.png",
+                "image_width": 800,
+                "image_height": 809,
+                "image_bytes": 142533,
+                "service_icon": "https:\/\/t1.daumcdn.net\/tistory_admin\/top_v2\/tistory-apple-touch-favicon.png",
+                "id": 1,
+                "original_url": "https:\/\/infinitt.tistory.com\/43",
+                "fallback": "newmon: 파이썬 가상환경 보안 에러, 보안 오류 about_Execution_Policies PSSecurityException",
+                "text": "노트북을 사게되어서 새롭게 가상환경을 설정하려고 하는데, 보안오류가 발생하였다. .\\activate.ps1 : 이 시스템에서 스크립트를 실행할 수 없으므로 C:\\Users\\20170218\\Desktop\\temp\\naver_stock\\venv\\Scripts\\ac tivate.ps1 파일을 로드할 수 없습니다. 자세한 내용은 about_Execution_Policies(<https:\/\/go.microsoft.com\/fwlink\/?LinkID=13> 5170)를 참조하십시오. 위치 줄:1 문자:1 + .\\activate.ps1 + ~~~~~~~~~~~~~~ + CategoryInfo : 보안 오류: (:) [], PSSecurityException + FullyQualifiedErrorId : Unauthoriz..",
+                "title": "파이썬 가상환경 보안 에러, 보안 오류 about_Execution_Policies PSSecurityException",
+                "title_link": "https:\/\/infinitt.tistory.com\/43",
+                "service_name": "newmon"
+            },
+            {
+                "from_url": "https:\/\/learn.microsoft.com\/ko-kr\/powershell\/module\/microsoft.powershell.core\/about\/about_execution_policies?view=powershell-7.3",
+                "service_icon": "https:\/\/learn.microsoft.com\/favicon.ico",
+                "thumb_url": "https:\/\/learn.microsoft.com\/media\/logos\/logo-powershell-social.png",
+                "thumb_width": 128,
+                "thumb_height": 128,
+                "id": 2,
+                "original_url": "https:\/\/learn.microsoft.com\/ko-kr\/powershell\/module\/microsoft.powershell.core\/about\/about_execution_policies?view=powershell-7.3",
+                "fallback": "실행 정책 정보 - PowerShell",
+                "text": "PowerShell 실행 정책을 설명하고 이를 관리하는 방법을 설명합니다.",
+                "title": "실행 정책 정보 - PowerShell",
+                "title_link": "https:\/\/learn.microsoft.com\/ko-kr\/powershell\/module\/microsoft.powershell.core\/about\/about_execution_policies?view=powershell-7.3",
+                "service_name": "learn.microsoft.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8zfjA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "보안오류에 관한 내용입니다!\n저도 같은 오류였는데 아래 블로그와 마소 페이지에서 해결했습니다.\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/infinitt.tistory.com\/43"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/learn.microsoft.com\/ko-kr\/powershell\/module\/microsoft.powershell.core\/about\/about_execution_policies?view=powershell-7.3"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1::skin-tone-2",
+                "users": [
+                    "U05V2HL22M9"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U05V379NETU"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

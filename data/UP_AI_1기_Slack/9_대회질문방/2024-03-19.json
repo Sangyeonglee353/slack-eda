@@ -1,0 +1,64 @@
+[
+    {
+        "user": "U05V2P37518",
+        "type": "message",
+        "ts": "1710917400.208499",
+        "client_msg_id": "9eb1ba1e-7606-44cd-a3a7-5e155e94beed",
+        "text": "<@U0608EG7YEA> 안녕하세요 Upstage에서 제공해준 서버를 사용하다가 갑자기 초기화되신 분들의 대부분이 디스크 저장 공간이 부족하여 서버가 내려갔다고 하셨는데,  원래 모든 서버들에서 저장 공간이 초과될 때 단순 연결이 끊기는 것이 아니라 초기화 되는 것인지 아니면 ai stages에서 서버를 구성한 방식으로 인해 초과시 아예 초기화되는 것인지 궁금합니다!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "cc6bb0a6327a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5988791489650_cc6bb0a6327a06ec59ab_72.png",
+            "first_name": "배창현",
+            "real_name": "배창현",
+            "display_name": "",
+            "team": "T05UGFFGL07",
+            "name": "bae951753",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1710917400.208499",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1710921419.019129",
+        "reply_users": [
+            "U0608EG7YEA",
+            "U05V2P37518"
+        ],
+        "replies": [
+            {
+                "user": "U0608EG7YEA",
+                "ts": "1710918342.444169"
+            },
+            {
+                "user": "U05V2P37518",
+                "ts": "1710921419.019129"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KRcD6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0608EG7YEA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 안녕하세요 Upstage에서 제공해준 서버를 사용하다가 갑자기 초기화되신 분들의 대부분이 디스크 저장 공간이 부족하여 서버가 내려갔다고 하셨는데,  원래 모든 서버들에서 저장 공간이 초과될 때 단순 연결이 끊기는 것이 아니라 초기화 되는 것인지 아니면 ai stages에서 서버를 구성한 방식으로 인해 초과시 아예 초기화되는 것인지 궁금합니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

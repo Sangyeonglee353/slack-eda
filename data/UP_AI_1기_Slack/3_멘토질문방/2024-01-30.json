@@ -1,0 +1,274 @@
+[
+    {
+        "subtype": "thread_broadcast",
+        "user": "U06FFSA059B",
+        "thread_ts": "1706600340.323619",
+        "root": {
+            "text": "<@U06FFSA059B>\n안녕하세요 멘토님! CNN 불러오기 파트 실습중에 궁금한것이 생겨 질문 드립니다!\n모델의 출력 결과를 보면 클래스에 대한 예측은 AlexNet, VGG, ResNet 세 모델 모두 잘 예측하지만 출력값에서 ResNet 모델이 다른 두 모델에 비해 상당히 작은 예측값으로 예측하는 것을 볼 수 있습니다.\nResNet 모델의 출력값이 상대적으로 작게 나타나는 이유가 궁금합니다!",
+            "files": [
+                {
+                    "id": "F06GA633EH2",
+                    "created": 1706600284,
+                    "timestamp": 1706600284,
+                    "name": "스크린샷 2024-01-30 오후 4.27.33.png",
+                    "title": "스크린샷 2024-01-30 오후 4.27.33.png",
+                    "mimetype": "image\/png",
+                    "filetype": "png",
+                    "pretty_type": "PNG",
+                    "user": "U0606QGQYE5",
+                    "user_team": "T05UGFFGL07",
+                    "editable": false,
+                    "size": 255362,
+                    "mode": "hosted",
+                    "is_external": false,
+                    "external_type": "",
+                    "is_public": true,
+                    "public_url_shared": false,
+                    "display_as_bot": false,
+                    "username": "",
+                    "url_private": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F06GA633EH2\/_______________________________2024-01-30______________4.27.33.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                    "url_private_download": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F06GA633EH2\/download\/_______________________________2024-01-30______________4.27.33.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                    "media_display_type": "unknown",
+                    "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06GA633EH2-c8b2ce8a10\/_______________________________2024-01-30______________4.27.33_64.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                    "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06GA633EH2-c8b2ce8a10\/_______________________________2024-01-30______________4.27.33_80.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                    "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06GA633EH2-c8b2ce8a10\/_______________________________2024-01-30______________4.27.33_360.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                    "thumb_360_w": 360,
+                    "thumb_360_h": 308,
+                    "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06GA633EH2-c8b2ce8a10\/_______________________________2024-01-30______________4.27.33_480.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                    "thumb_480_w": 480,
+                    "thumb_480_h": 410,
+                    "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06GA633EH2-c8b2ce8a10\/_______________________________2024-01-30______________4.27.33_160.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                    "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06GA633EH2-c8b2ce8a10\/_______________________________2024-01-30______________4.27.33_720.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                    "thumb_720_w": 720,
+                    "thumb_720_h": 615,
+                    "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06GA633EH2-c8b2ce8a10\/_______________________________2024-01-30______________4.27.33_800.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                    "thumb_800_w": 800,
+                    "thumb_800_h": 683,
+                    "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06GA633EH2-c8b2ce8a10\/_______________________________2024-01-30______________4.27.33_960.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                    "thumb_960_w": 960,
+                    "thumb_960_h": 820,
+                    "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06GA633EH2-c8b2ce8a10\/_______________________________2024-01-30______________4.27.33_1024.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                    "thumb_1024_w": 1024,
+                    "thumb_1024_h": 875,
+                    "original_w": 1304,
+                    "original_h": 1114,
+                    "thumb_tiny": "AwApADCkKX8KTmlz7UAH4Un4Uufak\/CgA\/Oij8KMUAPHajigdqO9MBp60lKevFJQAUUUUAOHbmlx70g7UvegBuKSlPU0lABRRRQB\/9k=",
+                    "permalink": "https:\/\/fcupstageai1.slack.com\/files\/U0606QGQYE5\/F06GA633EH2\/_______________________________2024-01-30______________4.27.33.png",
+                    "permalink_public": "https:\/\/slack-files.com\/T05UGFFGL07-F06GA633EH2-5b8ec65d4f",
+                    "is_starred": false,
+                    "has_rich_preview": false,
+                    "file_access": "visible"
+                }
+            ],
+            "upload": false,
+            "user": "U0606QGQYE5",
+            "display_as_bot": false,
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "ldB0N",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "user",
+                                    "user_id": "U06FFSA059B"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n안녕하세요 멘토님! CNN 불러오기 파트 실습중에 궁금한것이 생겨 질문 드립니다!\n모델의 출력 결과를 보면 클래스에 대한 예측은 AlexNet, VGG, ResNet 세 모델 모두 잘 예측하지만 출력값에서 ResNet 모델이 다른 두 모델에 비해 상당히 작은 예측값으로 예측하는 것을 볼 수 있습니다.\nResNet 모델의 출력값이 상대적으로 작게 나타나는 이유가 궁금합니다!"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "type": "message",
+            "ts": "1706600340.323619",
+            "client_msg_id": "cc066e66-dccb-40ab-8a9c-280218d3f16a",
+            "thread_ts": "1706600340.323619",
+            "reply_count": 2,
+            "reply_users_count": 2,
+            "latest_reply": "1706606043.150329",
+            "reply_users": [
+                "U06FFSA059B",
+                "U0606QGQYE5"
+            ],
+            "replies": [
+                {
+                    "user": "U06FFSA059B",
+                    "ts": "1706604873.938909"
+                },
+                {
+                    "user": "U0606QGQYE5",
+                    "ts": "1706606043.150329"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false
+        },
+        "type": "message",
+        "ts": "1706604873.938909",
+        "edited": {
+            "user": "U06FFSA059B",
+            "ts": "1706605718.000000"
+        },
+        "client_msg_id": "a01f9958-c7cf-42fe-9114-68a89b94b585",
+        "text": "안녕하세요, 영훈님!\n`4-5강. CNN 불러오기` 실습 코드에 대한 질문 답변드립니다.\n\n우선 위와 같은 문제는 pretrained weight과 실습 코드에서 사용한 preprocessing (=transform 과정) 간의 차이에 의해서 발생한 것으로 예상됩니다.\n\n같은 데이터셋으로 학습했다 하더라도 다양한 transform 환경에서 학습되었을 수 있습니다. 예를 들어서, resizing을 할 때 어떤 방식으로 했는지 (NEAREST, BILINEAR, CUBIC...) 그리고 crop을 어떤 방식으로 진행했는지, normalize 값은 어떻게 설정해 두었는지 등의 옵션들과 같이 *학습과 테스트 간의 preprocessing에 차이*가 있을 경우 학습때보다 성능이 많이 떨어질 수 있습니다.\n\n따라서 일부 pretrained weight의 경우 이를 방지하고자 inference 시에 어떤 preprocessing을 적용하면 좋은지 제공해 주고 있는데요!\n예를 들어 아래 코드에서는 실습에서 사용했던 것과 같은 이미지를 resnet50의 pretrained weight에서 사용했던 방식으로 preprocessing을 변경하여 진행했을 때 세 모델의 결과가 이전과 어떻게 달라지는지 확인해 볼 수 있습니다.\n\n```!pip install validators\n!pip install gdown==4.6.3 -q\n!gdown '1GmbdIn0lDZOOU0ym86GULUHGmhPZWEKz' -O dog.jpg\n\nalexnet = torch.hub.load('pytorch\/vision', 'alexnet', weights = 'AlexNet_Weights.DEFAULT').eval().to(device)\nvgg19 = torch.hub.load('pytorch\/vision', 'vgg19', weights = 'VGG19_Weights.DEFAULT').eval().to(device)\nresnet50 = torch.hub.load('NVIDIA\/DeepLearningExamples:torchhub', 'nvidia_resnet50', pretrained=True).eval().to(device)\nutils = torch.hub.load('NVIDIA\/DeepLearningExamples:torchhub', 'nvidia_convnets_processing_utils')\n\nim_tensor = utils.prepare_input_from_uri('..\/content\/dog.jpg').to(device)\n\nwith torch.no_grad():\n    output_alexnet = alexnet(im_tensor.float())\n    output_vgg19 = vgg19(im_tensor.float())\n    output_resnet50 = resnet50(im_tensor.float())\n\n# ImageNet label 1000 개에 대한 confidence score\nprint(\"Output of AlexNet:\", output_alexnet.shape)\nprint(\"Output of VGG19:\", output_vgg19.shape)\nprint(\"Output of resnet50:\", output_resnet50.shape)\n\n# softmax를 취해 확률 값으로 변환합니다\nprob_alexnet = torch.nn.functional.softmax(output_alexnet[0], dim=0)\nprob_vgg19 = torch.nn.functional.softmax(output_vgg19[0], dim=0)\nprob_resnet50 = torch.nn.functional.softmax(output_resnet50[0], dim=0)\n\n# softmax 결과 가장 높은 확률을 가지는 5개의 class 출력합니다\nprob = {'alexnet':prob_alexnet, 'vgg19':prob_vgg19, 'resnet50':prob_resnet50}\n\nfor model_name in list(prob.keys()):\n    top5_prob, top5_classes = torch.topk(prob[model_name], 5)\n    print(f'====== {model_name} =====')\n    for i in range(top5_prob.size(0)):\n        print(f'Class: {classes[top5_classes[i]]}, Score {top5_prob[i].item():.4f}')```\n위 코드에 대한 실행 결과는 아래와 같습니다.\n```====== alexnet =====\nClass: Pomeranian, Score 0.3153\nClass: papillon, Score 0.1861\nClass: Pekinese, Score 0.1396\nClass: Pembroke, Score 0.1149\nClass: Blenheim spaniel, Score 0.0398\n====== vgg19 =====\nClass: Pembroke, Score 0.7402\nClass: Cardigan, Score 0.1000\nClass: Pomeranian, Score 0.0190\nClass: golden retriever, Score 0.0174\nClass: Pekinese, Score 0.0165\n====== resnet50 =====\nClass: Pembroke, Score 0.8672\nClass: Cardigan, Score 0.0865\nClass: Saint Bernard, Score 0.0010\nClass: Great Pyrenees, Score 0.0006\nClass: electric ray, Score 0.0003```\n이처럼 같은 이미지에 같은 모델이라 하더라도 어떤 preprocessing을 거쳤느냐에 따라서 성능 차이가 확연한 것을 보실 수 있는데요,\n아마 기존 실습 코드에서 주어졌던 transform 함수의 경우 alexnet과 vgg19 모델의 pretrained weight과는 비슷했지만, resnet50의 pretrained weight과는 차이가 있어 성능 격차가 발생한 것으로 예상됩니다.\n이러한 insight를 기반으로 preprocessing transform에 대한 감각을 익혀보는 것도 좋을 것 같습니다!\n\n아주 좋은 질문인 것 같아 전체 방에도 공유하도록 하겠습니다!",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cQykO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "안녕하세요, 영훈님!\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "4-5강. CNN 불러오기",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " 실습 코드에 대한 질문 답변드립니다.\n\n우선 위와 같은 문제는 pretrained weight과 실습 코드에서 사용한 preprocessing (=transform 과정) 간의 차이에 의해서 발생한 것으로 예상됩니다.\n\n같은 데이터셋으로 학습했다 하더라도 다양한 transform 환경에서 학습되었을 수 있습니다. 예를 들어서, resizing을 할 때 어떤 방식으로 했는지 (NEAREST, BILINEAR, CUBIC...) 그리고 crop을 어떤 방식으로 진행했는지, normalize 값은 어떻게 설정해 두었는지 등의 옵션들과 같이 "
+                            },
+                            {
+                                "type": "text",
+                                "text": "학습과 테스트 간의 preprocessing에 차이",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "가 있을 경우 학습때보다 성능이 많이 떨어질 수 있습니다.\n\n따라서 일부 pretrained weight의 경우 이를 방지하고자 inference 시에 어떤 preprocessing을 적용하면 좋은지 제공해 주고 있는데요!\n예를 들어 아래 코드에서는 실습에서 사용했던 것과 같은 이미지를 resnet50의 pretrained weight에서 사용했던 방식으로 preprocessing을 변경하여 진행했을 때 세 모델의 결과가 이전과 어떻게 달라지는지 확인해 볼 수 있습니다.\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "!pip install validators\n!pip install gdown==4.6.3 -q\n!gdown '1GmbdIn0lDZOOU0ym86GULUHGmhPZWEKz' -O dog.jpg\n\nalexnet = torch.hub.load('pytorch\/vision', 'alexnet', weights = 'AlexNet_Weights.DEFAULT').eval().to(device)\nvgg19 = torch.hub.load('pytorch\/vision', 'vgg19', weights = 'VGG19_Weights.DEFAULT').eval().to(device)\nresnet50 = torch.hub.load('NVIDIA\/DeepLearningExamples:torchhub', 'nvidia_resnet50', pretrained=True).eval().to(device)\nutils = torch.hub.load('NVIDIA\/DeepLearningExamples:torchhub', 'nvidia_convnets_processing_utils')\n\nim_tensor = utils.prepare_input_from_uri('..\/content\/dog.jpg').to(device)\n\nwith torch.no_grad():\n    output_alexnet = alexnet(im_tensor.float())\n    output_vgg19 = vgg19(im_tensor.float())\n    output_resnet50 = resnet50(im_tensor.float())\n\n# ImageNet label 1000 개에 대한 confidence score\nprint(\"Output of AlexNet:\", output_alexnet.shape)\nprint(\"Output of VGG19:\", output_vgg19.shape)\nprint(\"Output of resnet50:\", output_resnet50.shape)\n\n# softmax를 취해 확률 값으로 변환합니다\nprob_alexnet = torch.nn.functional.softmax(output_alexnet[0], dim=0)\nprob_vgg19 = torch.nn.functional.softmax(output_vgg19[0], dim=0)\nprob_resnet50 = torch.nn.functional.softmax(output_resnet50[0], dim=0)\n\n# softmax 결과 가장 높은 확률을 가지는 5개의 class 출력합니다\nprob = {'alexnet':prob_alexnet, 'vgg19':prob_vgg19, 'resnet50':prob_resnet50}\n\nfor model_name in list(prob.keys()):\n    top5_prob, top5_classes = torch.topk(prob[model_name], 5)\n    print(f'====== {model_name} =====')\n    for i in range(top5_prob.size(0)):\n        print(f'Class: {classes[top5_classes[i]]}, Score {top5_prob[i].item():.4f}')"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n위 코드에 대한 실행 결과는 아래와 같습니다.\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "====== alexnet =====\nClass: Pomeranian, Score 0.3153\nClass: papillon, Score 0.1861\nClass: Pekinese, Score 0.1396\nClass: Pembroke, Score 0.1149\nClass: Blenheim spaniel, Score 0.0398\n====== vgg19 =====\nClass: Pembroke, Score 0.7402\nClass: Cardigan, Score 0.1000\nClass: Pomeranian, Score 0.0190\nClass: golden retriever, Score 0.0174\nClass: Pekinese, Score 0.0165\n====== resnet50 =====\nClass: Pembroke, Score 0.8672\nClass: Cardigan, Score 0.0865\nClass: Saint Bernard, Score 0.0010\nClass: Great Pyrenees, Score 0.0006\nClass: electric ray, Score 0.0003"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n이처럼 같은 이미지에 같은 모델이라 하더라도 어떤 preprocessing을 거쳤느냐에 따라서 성능 차이가 확연한 것을 보실 수 있는데요,\n아마 기존 실습 코드에서 주어졌던 transform 함수의 경우 alexnet과 vgg19 모델의 pretrained weight과는 비슷했지만, resnet50의 pretrained weight과는 차이가 있어 성능 격차가 발생한 것으로 예상됩니다.\n이러한 insight를 기반으로 preprocessing transform에 대한 감각을 익혀보는 것도 좋을 것 같습니다!\n\n아주 좋은 질문인 것 같아 전체 방에도 공유하도록 하겠습니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "sparkles",
+                "users": [
+                    "U060C67EYQ5",
+                    "U05VADPQPCL"
+                ],
+                "count": 2
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U060BLVQYHW",
+                    "U05UN6NTN8P",
+                    "U05UWVA90H4",
+                    "U0606QGQYE5",
+                    "U05VADPQPCL",
+                    "U065TBUL5EE",
+                    "U05V2T62KUJ",
+                    "U05V7H78DUM"
+                ],
+                "count": 8
+            }
+        ]
+    },
+    {
+        "user": "U0606QGQYE5",
+        "type": "message",
+        "ts": "1706606043.150329",
+        "client_msg_id": "9da05fad-13b8-4129-98fa-e69079698195",
+        "text": "상세한 설명 감사합니다 멘토님!! :귀여운박수:",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "fb29f448e9a8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5979692591367_fb29f448e9a843cfbd44_72.jpg",
+            "first_name": "이영훈",
+            "real_name": "이영훈",
+            "display_name": "이영훈",
+            "team": "T05UGFFGL07",
+            "name": "leeanghoo2",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1706600340.323619",
+        "parent_user_id": "U0606QGQYE5",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0llu2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "상세한 설명 감사합니다 멘토님!! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "귀여운박수"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U06FFSA059B"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

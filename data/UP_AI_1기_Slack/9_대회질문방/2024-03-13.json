@@ -1,0 +1,391 @@
+[
+    {
+        "user": "U0600HN24UX",
+        "type": "message",
+        "ts": "1710320010.567659",
+        "client_msg_id": "7bc821e6-60dc-4efb-85e7-5ed57e431f5a",
+        "text": "넵 살펴보고 바로 답변 드리겠습니다~!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "870936fe2b80",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-10\/6008807848774_870936fe2b80088211c2_72.jpg",
+            "first_name": "업스테이지",
+            "real_name": "업스테이지 완다",
+            "display_name": "업스테이지 완다",
+            "team": "T05UGFFGL07",
+            "name": "suwankim",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1710312951.839519",
+        "parent_user_id": "U05V4KZR3NW",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "onYR9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "넵 살펴보고 바로 답변 드리겠습니다~!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0600HN24UX",
+        "type": "message",
+        "ts": "1710320352.141229",
+        "client_msg_id": "111a6b95-7b11-4b86-8ff9-b3e6b4e9fd78",
+        "text": "<@U05V4KZR3NW> 혹시 해당 파일 어디서 전달받으셨는 지 알 수 있을까요?",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "870936fe2b80",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-10\/6008807848774_870936fe2b80088211c2_72.jpg",
+            "first_name": "업스테이지",
+            "real_name": "업스테이지 완다",
+            "display_name": "업스테이지 완다",
+            "team": "T05UGFFGL07",
+            "name": "suwankim",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1710312951.839519",
+        "parent_user_id": "U05V4KZR3NW",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6n11u",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05V4KZR3NW"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 혹시 해당 파일 어디서 전달받으셨는 지 알 수 있을까요?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05V4KZR3NW",
+        "type": "message",
+        "ts": "1710320423.294229",
+        "client_msg_id": "519bdf76-c290-47ff-ba0a-080624142d47",
+        "text": "<@U0600HN24UX> ai stages 대회 &gt; 데이터 &gt; 학습데이터 개요 부분의 'EDA'에 연결되어있는 링크에서 확인할 수 있었습니다!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "8c77944bd304",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-20\/6082246066801_8c77944bd304e2d01432_72.jpg",
+            "first_name": "남영진",
+            "real_name": "남영진",
+            "display_name": "남영진",
+            "team": "T05UGFFGL07",
+            "name": "studyingnam",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1710312951.839519",
+        "parent_user_id": "U05V4KZR3NW",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "skKvs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0600HN24UX"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ai stages 대회 > 데이터 > 학습데이터 개요 부분의 'EDA'에 연결되어있는 링크에서 확인할 수 있었습니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "이 부분입니다",
+        "files": [
+            {
+                "id": "F06PYDYK1Q8",
+                "created": 1710320435,
+                "timestamp": 1710320435,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U05V4KZR3NW",
+                "user_team": "T05UGFFGL07",
+                "editable": false,
+                "size": 23722,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F06PYDYK1Q8\/image.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F06PYDYK1Q8\/download\/image.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06PYDYK1Q8-e78554c7e0\/image_64.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06PYDYK1Q8-e78554c7e0\/image_80.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06PYDYK1Q8-e78554c7e0\/image_360.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_360_w": 360,
+                "thumb_360_h": 52,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06PYDYK1Q8-e78554c7e0\/image_480.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_480_w": 480,
+                "thumb_480_h": 69,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06PYDYK1Q8-e78554c7e0\/image_160.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06PYDYK1Q8-e78554c7e0\/image_720.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_720_w": 720,
+                "thumb_720_h": 104,
+                "original_w": 772,
+                "original_h": 111,
+                "thumb_tiny": "AwAGADDRxljRt96UfeNLQAmD60YPrS0UAJg+tAB7mlooA\/\/Z",
+                "permalink": "https:\/\/fcupstageai1.slack.com\/files\/U05V4KZR3NW\/F06PYDYK1Q8\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T05UGFFGL07-F06PYDYK1Q8-2fcc1230bc",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U05V4KZR3NW",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MGlSV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "이 부분입니다"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1710320446.407599",
+        "client_msg_id": "c2171e9c-db93-4ec6-ae29-4b726d4912c6",
+        "thread_ts": "1710312951.839519",
+        "parent_user_id": "U05V4KZR3NW",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U0600HN24UX"
+                ],
+                "count": 1
+            },
+            {
+                "name": "pray",
+                "users": [
+                    "U0600HN24UX"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U0600HN24UX",
+        "type": "message",
+        "ts": "1710322229.814569",
+        "client_msg_id": "1e5130f1-5018-4b33-b1d3-39bb5defb3c1",
+        "text": "<@U05V4KZR3NW> 영진님, 해당 파일은 비공개 데이터셋으로 전달드리기 어려울 것 같습니다. 수정된 파일 전달 드립니다.\n• 코드 : <https:\/\/drive.google.com\/file\/d\/1fUG-yl_Y28rFuOrqYWU3jivoUNrta08K\/view?usp=sharing|링크>\n    ◦ <https:\/\/next.stages.ai\/competitions\/|Stages> 내 에도 파일 수정해두었으니 참고 부탁드립니다.\n감사합니다 :slightly_smiling_face:",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "870936fe2b80",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-10\/6008807848774_870936fe2b80088211c2_72.jpg",
+            "first_name": "업스테이지",
+            "real_name": "업스테이지 완다",
+            "display_name": "업스테이지 완다",
+            "team": "T05UGFFGL07",
+            "name": "suwankim",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1710312951.839519",
+        "parent_user_id": "U05V4KZR3NW",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/bMBf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05V4KZR3NW"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 영진님, 해당 파일은 비공개 데이터셋으로 전달드리기 어려울 것 같습니다. 수정된 파일 전달 드립니다.\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "코드 : "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/drive.google.com\/file\/d\/1fUG-yl_Y28rFuOrqYWU3jivoUNrta08K\/view?usp=sharing",
+                                        "text": "링크"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/next.stages.ai\/competitions\/",
+                                        "text": "Stages"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " 내 에도 파일 수정해두었으니 참고 부탁드립니다."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "감사합니다 "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "대답",
+                "users": [
+                    "U05V4KZR3NW"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05V4KZR3NW",
+        "type": "message",
+        "ts": "1710323613.525169",
+        "client_msg_id": "67CFAB57-AE1A-431F-A345-5939CDCABA44",
+        "text": "넵 답변 감사드립니다!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "8c77944bd304",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-20\/6082246066801_8c77944bd304e2d01432_72.jpg",
+            "first_name": "남영진",
+            "real_name": "남영진",
+            "display_name": "남영진",
+            "team": "T05UGFFGL07",
+            "name": "studyingnam",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1710312951.839519",
+        "parent_user_id": "U05V4KZR3NW",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZdalI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "넵"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "답변"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "감사드립니다"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

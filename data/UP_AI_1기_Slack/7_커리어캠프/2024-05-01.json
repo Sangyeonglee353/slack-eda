@@ -1,0 +1,116 @@
+[
+    {
+        "user": "U05VAHXECP6",
+        "type": "message",
+        "ts": "1714631401.833129",
+        "edited": {
+            "user": "U05VAHXECP6",
+            "ts": "1714631557.000000"
+        },
+        "client_msg_id": "bf5fe7af-ebf6-4431-9227-d659b2f1da61",
+        "text": "<!channel>\n안녕하세요. Upstage AI Lab 1기 수강생 여러분!\n지난 <https:\/\/fcupstageai1.slack.com\/archives\/C065W985NMB\/p1713258598933619|4\/16(화) 커리어 캠프 채널 공지사항>을 통해 모의 면접 지원자를 받았었는데요.\n안타깝게도 지원자가 없어, 해당 특강은 진행하지 못하게 되었습니다.\n\n특강으로 전환도 고려를 해보았으나, 여러분도 아시다시피 수강생분들과 소통하는 '모의 면접'이 주된 내용으로 준비했던 터라\n강사님들도 진행이 힘들다고 하셔서 이와 같은 결론에 도달하게 되었습니다.\n\n비록 모의 면접 특강 (5\/8, 5\/9) 일정은 취소 되었지만,\n5\/7(화) 김다현 강사님의 취업 특강은 기존과 같이 진행될 예정이니\n부디 해당 특강을 통해 `현직자 분이 전달해주시는 보다 현실적인 조언`을 많이 얻어가셨으면 좋겠습니다.\n\n> *업스테이지 김다현 강사님 현직자 특강*\n• 특강 주제: 취업 특강\n• 진행 일시: 5\/7(화) 19:00 ~ 21:00",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "50abee101814",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-11\/6044824153712_50abee1018149e21919b_72.jpg",
+            "first_name": "이상영",
+            "real_name": "이상영",
+            "display_name": "FC 이상영 매니저",
+            "team": "T05UGFFGL07",
+            "name": "sangyeong.lee",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pZgk4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n안녕하세요. Upstage AI Lab 1기 수강생 여러분!\n지난 "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/fcupstageai1.slack.com\/archives\/C065W985NMB\/p1713258598933619",
+                                "text": "4\/16(화) 커리어 캠프 채널 공지사항"
+                            },
+                            {
+                                "type": "text",
+                                "text": "을 통해 모의 면접 지원자를 받았었는데요.\n안타깝게도 지원자가 없어, 해당 특강은 진행하지 못하게 되었습니다.\n\n특강으로 전환도 고려를 해보았으나, 여러분도 아시다시피 수강생분들과 소통하는 '모의 면접'이 주된 내용으로 준비했던 터라\n강사님들도 진행이 힘들다고 하셔서 이와 같은 결론에 도달하게 되었습니다.\n\n비록 모의 면접 특강 (5\/8, 5\/9) 일정은 취소 되었지만,\n5\/7(화) 김다현 강사님의 취업 특강은 기존과 같이 진행될 예정이니\n부디 해당 특강을 통해 "
+                            },
+                            {
+                                "type": "text",
+                                "text": "현직자 분이 전달해주시는 보다 현실적인 조언",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "을 많이 얻어가셨으면 좋겠습니다.\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "업스테이지 김다현 강사님 현직자 특강",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "특강 주제: 취업 특강"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "진행 일시: 5\/7(화) 19:00 ~ 21:00"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U05V9N22ZUK",
+                    "U0600GGHJTC"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

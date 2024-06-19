@@ -1,0 +1,238 @@
+[
+    {
+        "user": "U05V9N22ZUK",
+        "type": "message",
+        "ts": "1702367304.880829",
+        "edited": {
+            "user": "U05V9N22ZUK",
+            "ts": "1702367320.000000"
+        },
+        "client_msg_id": "b45d1c74-58d0-4c84-aa18-b9cadd347728",
+        "text": "기술 블로그 쓸 때 강의 영상 자료 캡쳐랑 강의 PPT나 PDF 자료 둘 다 하나의 포스트에 2장 이상을 올리면 안되는건가요??",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "0698995c863f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5998310079844_0698995c863fed7643f0_72.png",
+            "first_name": "TaeHan",
+            "real_name": "TaeHan Kim",
+            "display_name": "김태한",
+            "team": "T05UGFFGL07",
+            "name": "kthnineone",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1702367304.880829",
+        "reply_count": 4,
+        "reply_users_count": 2,
+        "latest_reply": "1702429091.889149",
+        "reply_users": [
+            "U05VAHXECP6",
+            "U05V9N22ZUK"
+        ],
+        "replies": [
+            {
+                "user": "U05VAHXECP6",
+                "ts": "1702367796.350399"
+            },
+            {
+                "user": "U05V9N22ZUK",
+                "ts": "1702370164.385469"
+            },
+            {
+                "user": "U05VAHXECP6",
+                "ts": "1702427770.486389"
+            },
+            {
+                "user": "U05V9N22ZUK",
+                "ts": "1702429091.889149"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1702429091.889149",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Fj+bi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "기술 블로그 쓸 때 강의 영상 자료 캡쳐랑 강의 PPT나 PDF 자료 둘 다 하나의 포스트에 2장 이상을 올리면 안되는건가요??"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U05VAHXECP6"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05VAHXECP6",
+        "type": "message",
+        "ts": "1702367796.350399",
+        "edited": {
+            "user": "U05VAHXECP6",
+            "ts": "1702370640.000000"
+        },
+        "client_msg_id": "bd4eca41-c544-4349-8cea-ef811254a741",
+        "text": "안녕하세요. 태한님!\n문의 주신 사항에 대하여 답변 드립니다.\n\n1. *강의 영상 자료 캡처*\n    ◦ 캡처 가능하시구요. 강의 자료는 강사님들께서 매우 민감하게 생각하시는 부분이어서 3장 이상 업로드는 불가합니다.\n    ◦ 출처를 꼭 남겨주세요.\n2. *강의 PPT나 PDF 업로드*\n    ◦ 저작권 문제로 파일 자체를 업로드하는 것은 불가합니다.\n    ◦ 향후 저작권으로 인해 문제가 발생하실 수 있어요. :smiling_face_with_tear:\n추가 문의사항이 있으시면 언제든 문의 주세요.\n감사합니다. :+1:",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "50abee101814",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-11\/6044824153712_50abee1018149e21919b_72.jpg",
+            "first_name": "이상영",
+            "real_name": "이상영",
+            "display_name": "FC 이상영 매니저",
+            "team": "T05UGFFGL07",
+            "name": "sangyeong.lee",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1702367304.880829",
+        "parent_user_id": "U05V9N22ZUK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UB31o",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "안녕하세요. 태한님!\n문의 주신 사항에 대하여 답변 드립니다.\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "강의 영상 자료 캡처",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "캡처 가능하시구요. 강의 자료는 강사님들께서 매우 민감하게 생각하시는 부분이어서 3장 이상 업로드는 불가합니다."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "출처를 꼭 남겨주세요."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "강의 PPT나 PDF 업로드",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "offset": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "저작권 문제로 파일 자체를 업로드하는 것은 불가합니다."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "향후 저작권으로 인해 문제가 발생하실 수 있어요. "
+                                    },
+                                    {
+                                        "type": "emoji",
+                                        "name": "smiling_face_with_tear",
+                                        "unicode": "1f972"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n추가 문의사항이 있으시면 언제든 문의 주세요.\n감사합니다. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "+1",
+                                "unicode": "1f44d"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,188 @@
+[
+    {
+        "user": "U05V561TXUL",
+        "type": "message",
+        "ts": "1701680877.136399",
+        "client_msg_id": "7c7059ab-d0c9-438b-bc7f-9c88fde62e5d",
+        "text": "12\/5 강의장 이용 신청합니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "b4604568d88f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-08\/6448187852305_b4604568d88f0ae3e9b1_72.png",
+            "first_name": "최장원",
+            "real_name": "최장원",
+            "display_name": "",
+            "team": "T05UGFFGL07",
+            "name": "cjw7378",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1701680877.136399",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1701736113.263829",
+        "reply_users": [
+            "U05V561TXUL",
+            "U065TBUL5EE"
+        ],
+        "replies": [
+            {
+                "user": "U05V561TXUL",
+                "ts": "1701735748.711479"
+            },
+            {
+                "user": "U065TBUL5EE",
+                "ts": "1701736113.263829"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/5T8j",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "12\/5 강의장 이용 신청합니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U05VADPQPCL",
+                    "U065TBUL5EE"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U05V561TXUL",
+        "type": "message",
+        "ts": "1701735748.711479",
+        "client_msg_id": "f66492b6-222b-4576-97f1-6a47102e8336",
+        "text": "<@U065TBUL5EE> 헉 빠른 쾌차를 빌겠습니다.. 저도 혹시 모르니 오프라인 안 나가고 집에서 듣겠습니다",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "b4604568d88f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-08\/6448187852305_b4604568d88f0ae3e9b1_72.png",
+            "first_name": "최장원",
+            "real_name": "최장원",
+            "display_name": "",
+            "team": "T05UGFFGL07",
+            "name": "cjw7378",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1701680877.136399",
+        "parent_user_id": "U05V561TXUL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PnSh0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U065TBUL5EE"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 헉 빠른 쾌차를 빌겠습니다.. 저도 혹시 모르니 오프라인 안 나가고 집에서 듣겠습니다"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U065TBUL5EE"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U065TBUL5EE",
+        "type": "message",
+        "ts": "1701736113.263829",
+        "client_msg_id": "3225D74B-6D07-420B-A7F8-426D65FD1D56",
+        "text": "네네ㅜㅜ 흑흑 죄송해요",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "34f110a5edc4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-11-14\/6197301711475_34f110a5edc435398e63_72.png",
+            "first_name": "김용담",
+            "real_name": "김용담",
+            "display_name": "김용담 강사",
+            "team": "T05UGFFGL07",
+            "name": "codingiscoffee",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1701680877.136399",
+        "parent_user_id": "U05V561TXUL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "58JOJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "네네"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ㅜㅜ "
+                            },
+                            {
+                                "type": "text",
+                                "text": "흑흑"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "죄송해요"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "muscle",
+                "users": [
+                    "U05V561TXUL"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

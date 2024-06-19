@@ -1,0 +1,1342 @@
+[
+    {
+        "user": "U05V2HL22M9",
+        "type": "message",
+        "ts": "1698800301.582329",
+        "client_msg_id": "015c3529-3881-4228-a7ad-65a7a9c37fde",
+        "text": "안녕하세요. 어제 입, 퇴실 QR 및 스샷 모두 찍었는데도 불구하고 10\/31 자로 결석 처리가 되어 있습니다. 확인 부탁드리겠습니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "1dcddf110806",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5996462649172_1dcddf110806f3a037a7_72.png",
+            "first_name": "김도연",
+            "real_name": "김도연",
+            "display_name": "김도연",
+            "team": "T05UGFFGL07",
+            "name": "lottie_eve",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698800301.582329",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1698800775.382049",
+        "reply_users": [
+            "U05V81G5ZDY",
+            "U05V2HL22M9"
+        ],
+        "replies": [
+            {
+                "user": "U05V81G5ZDY",
+                "ts": "1698800391.408709"
+            },
+            {
+                "user": "U05V2HL22M9",
+                "ts": "1698800775.382049"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bs8wy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "안녕하세요. 어제 입, 퇴실 QR 및 스샷 모두 찍었는데도 불구하고 10\/31 자로 결석 처리가 되어 있습니다. 확인 부탁드리겠습니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "U05V81G5ZDY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05V81G5ZDY",
+        "type": "message",
+        "ts": "1698800391.408709",
+        "edited": {
+            "user": "U05V81G5ZDY",
+            "ts": "1698800401.000000"
+        },
+        "client_msg_id": "bbbb3b8a-d7e3-45be-b43d-2846e497b9b6",
+        "text": "<@U05V2HL22M9> 안녕하세요 행정 매니저 김현우입니다.\n\n10\/31 일자 퇴실 QR 미체크된 것으로 확인되어 결석으로 나타납니다.\n다음 부터 QR 체크 후 모바일 HRD로 출결 확인 꼭꼭 부탁드립니다.\n감사합니다!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "db1aceeb0d90",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5994058472162_db1aceeb0d9030c57e69_72.jpg",
+            "first_name": "김현우",
+            "real_name": "김현우",
+            "display_name": "FC 김현우 매니저",
+            "team": "T05UGFFGL07",
+            "name": "hyunwoo.kim",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698800301.582329",
+        "parent_user_id": "U05V2HL22M9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "apS8A",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05V2HL22M9"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 안녕하세요 행정 매니저 김현우입니다.\n\n10\/31 일자 퇴실 QR 미체크된 것으로 확인되어 결석으로 나타납니다.\n다음 부터 QR 체크 후 모바일 HRD로 출결 확인 꼭꼭 부탁드립니다.\n감사합니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "ne",
+                "users": [
+                    "U060D1KJECR",
+                    "U05V2HL22M9"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U05VC7EEY5Q",
+        "type": "message",
+        "ts": "1698800543.433339",
+        "client_msg_id": "14b930e6-3c74-4f1d-80f6-5efe954dc5bf",
+        "text": "이전에 수강생 공유 드라이브에 접근할 수 있었는데 오늘 다시 들어가려 시도하니 엑세스 권한이 사라졌습니다. 다시한번 접근 권한 부탁드리겠습니다. 구글 아이디 <mailto:kangs7777@gmail.com|kangs7777@gmail.com> 입니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "41b3eab94662",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-06\/6000541892291_41b3eab946625ecd1c69_72.jpg",
+            "first_name": "강승현",
+            "real_name": "강승현",
+            "display_name": "강승현",
+            "team": "T05UGFFGL07",
+            "name": "kangs7777",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698800543.433339",
+        "reply_count": 4,
+        "reply_users_count": 3,
+        "latest_reply": "1698813875.387569",
+        "reply_users": [
+            "U05V81G5ZDY",
+            "U05VC7EEY5Q",
+            "U05VAHXECP6"
+        ],
+        "replies": [
+            {
+                "user": "U05V81G5ZDY",
+                "ts": "1698803230.529679"
+            },
+            {
+                "user": "U05VC7EEY5Q",
+                "ts": "1698809802.395729"
+            },
+            {
+                "user": "U05VAHXECP6",
+                "ts": "1698810139.351559"
+            },
+            {
+                "user": "U05VC7EEY5Q",
+                "ts": "1698813875.387569"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1698813875.387569",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "y+77s",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "이전에 수강생 공유 드라이브에 접근할 수 있었는데 오늘 다시 들어가려 시도하니 엑세스 권한이 사라졌습니다. 다시한번 접근 권한 부탁드리겠습니다. 구글 아이디 "
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:kangs7777@gmail.com",
+                                "text": "kangs7777@gmail.com"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 입니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U060D1KJECR",
+        "type": "message",
+        "ts": "1698800544.935079",
+        "client_msg_id": "a9cbe0b1-dab7-4303-87ea-4929b348be91",
+        "text": "안녕하세요 저도 어제 입실 퇴실 QR을 모두 찍었음에도 10\/31 일자가 결석으로 처리되어 있습니다 저도 확인해주시면 감사하겠습니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "d024d71b810e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-06\/5993779835878_d024d71b810e837e9532_72.jpg",
+            "first_name": "이현진",
+            "real_name": "이현진",
+            "display_name": "이현진",
+            "team": "T05UGFFGL07",
+            "name": "jinintg",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698800544.935079",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1698800649.230989",
+        "reply_users": [
+            "U05V81G5ZDY"
+        ],
+        "replies": [
+            {
+                "user": "U05V81G5ZDY",
+                "ts": "1698800649.230989"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FJJae",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "안녕하세요 저도 어제 입실 퇴실 QR을 모두 찍었음에도 10\/31 일자가 결석으로 처리되어 있습니다 저도 확인해주시면 감사하겠습니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "U05V81G5ZDY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05V81G5ZDY",
+        "type": "message",
+        "ts": "1698800649.230989",
+        "edited": {
+            "user": "U05V81G5ZDY",
+            "ts": "1698800999.000000"
+        },
+        "client_msg_id": "219ac752-34e1-4067-8514-3a4f32dcb315",
+        "text": "<@U060D1KJECR> 안녕하세요 행정 매니저 김현우입니다.\n\n같은 이유로 확인됩니다.\n10\/31 일자 퇴실 QR 미체크된 것으로 확인되어 결석으로 나타납니다.\n다음 부터 QR 체크 후 *모바일 HRD로 출결이 되었는지 확인* 꼭꼭 부탁드립니다.\n감사합니다!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "db1aceeb0d90",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5994058472162_db1aceeb0d9030c57e69_72.jpg",
+            "first_name": "김현우",
+            "real_name": "김현우",
+            "display_name": "FC 김현우 매니저",
+            "team": "T05UGFFGL07",
+            "name": "hyunwoo.kim",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698800544.935079",
+        "parent_user_id": "U060D1KJECR",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "w71XM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U060D1KJECR"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 안녕하세요 행정 매니저 김현우입니다.\n\n같은 이유로 확인됩니다.\n10\/31 일자 퇴실 QR 미체크된 것으로 확인되어 결석으로 나타납니다.\n다음 부터 QR 체크 후 "
+                            },
+                            {
+                                "type": "text",
+                                "text": "모바일 HRD로 출결이 되었는지 확인",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " 꼭꼭 부탁드립니다.\n감사합니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05V2HL22M9",
+        "type": "message",
+        "ts": "1698800775.382049",
+        "client_msg_id": "f508efb2-24bd-4a90-8585-5eb0ce964d6c",
+        "text": "앗,, 넵 ! 알겠습니다 !",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "1dcddf110806",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5996462649172_1dcddf110806f3a037a7_72.png",
+            "first_name": "김도연",
+            "real_name": "김도연",
+            "display_name": "김도연",
+            "team": "T05UGFFGL07",
+            "name": "lottie_eve",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698800301.582329",
+        "parent_user_id": "U05V2HL22M9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6Dter",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "앗,, 넵 ! 알겠습니다 !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05VDDP88BW",
+        "type": "message",
+        "ts": "1698800775.845349",
+        "client_msg_id": "d4de0e87-3e0b-4faa-9e0f-65c82d605112",
+        "text": "10.31일 줌으로 출석체크와 qr체크를 했는데 결석으로 처리 되어 있습니다. 혹시 확인 가능할까요? <@U05V81G5ZDY>",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "93e49b6c0efe",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5982481102183_93e49b6c0efe4c3dd628_72.png",
+            "first_name": "Harvey",
+            "real_name": "Harvey Lee",
+            "display_name": "이예재",
+            "team": "T05UGFFGL07",
+            "name": "dpwo3013",
+            "is_restricted": true,
+            "is_ultra_restricted": true
+        },
+        "thread_ts": "1698800775.845349",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1698801014.821279",
+        "reply_users": [
+            "U05V81G5ZDY",
+            "U05VDDP88BW"
+        ],
+        "replies": [
+            {
+                "user": "U05V81G5ZDY",
+                "ts": "1698800988.283549"
+            },
+            {
+                "user": "U05VDDP88BW",
+                "ts": "1698801014.821279"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UmgMD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "10.31일 줌으로 출석체크와 qr체크를 했는데 결석으로 처리 되어 있습니다. 혹시 확인 가능할까요? "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05V81G5ZDY"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "U05V81G5ZDY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05V81G5ZDY",
+        "type": "message",
+        "ts": "1698800988.283549",
+        "client_msg_id": "5d6c18f7-ca04-4174-b1e2-913e9453cf50",
+        "text": "<@U05VDDP88BW> 안녕하세요 행정 매니저 김현우입니다.\n\n같은 이유로 확인됩니다.\n10\/31 일자 퇴실 QR 미체크된 것으로 확인되어 결석으로 나타납니다.\n다음 부터 QR 체크 후 *모바일 HRD로 출결 되었는지 확인* 꼭꼭 부탁드립니다.\n감사합니다!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "db1aceeb0d90",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5994058472162_db1aceeb0d9030c57e69_72.jpg",
+            "first_name": "김현우",
+            "real_name": "김현우",
+            "display_name": "FC 김현우 매니저",
+            "team": "T05UGFFGL07",
+            "name": "hyunwoo.kim",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698800775.845349",
+        "parent_user_id": "U05VDDP88BW",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "d+ry2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05VDDP88BW"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 안녕하세요 행정 매니저 김현우입니다.\n\n같은 이유로 확인됩니다.\n10\/31 일자 퇴실 QR 미체크된 것으로 확인되어 결석으로 나타납니다.\n다음 부터 QR 체크 후 "
+                            },
+                            {
+                                "type": "text",
+                                "text": "모바일 HRD로 출결 되었는지 확인",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " 꼭꼭 부탁드립니다.\n감사합니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05VDDP88BW",
+        "type": "message",
+        "ts": "1698801014.821279",
+        "client_msg_id": "6cadb5fb-1804-4652-acd3-eaf437a10f72",
+        "text": "네 알겠습니다 감사합니다!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "93e49b6c0efe",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5982481102183_93e49b6c0efe4c3dd628_72.png",
+            "first_name": "Harvey",
+            "real_name": "Harvey Lee",
+            "display_name": "이예재",
+            "team": "T05UGFFGL07",
+            "name": "dpwo3013",
+            "is_restricted": true,
+            "is_ultra_restricted": true
+        },
+        "thread_ts": "1698800775.845349",
+        "parent_user_id": "U05VDDP88BW",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KZ2r3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "네 알겠습니다 감사합니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05UZPKCGBZ",
+        "type": "message",
+        "ts": "1698802610.283179",
+        "client_msg_id": "19f1f01a-e96f-4145-b805-934e8b51232a",
+        "text": "안녕하세요 박진영 LM님께 구글드라이브 액세스 관련해서 DM 드렸는데 확인 한 번 부탁드리겠습니다! <@U05V81G5ZDY> <@U05UNC6FNK1> <@U06061L4S64>",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "g7a29d5e361b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/7a29d5e361b7041b56d931895892ab2b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+            "first_name": "윤혜주",
+            "real_name": "윤혜주",
+            "display_name": "",
+            "team": "T05UGFFGL07",
+            "name": "megan000629",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698802610.283179",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1698804233.007629",
+        "reply_users": [
+            "U05V81G5ZDY",
+            "U05VAHXECP6"
+        ],
+        "replies": [
+            {
+                "user": "U05V81G5ZDY",
+                "ts": "1698803238.891559"
+            },
+            {
+                "user": "U05VAHXECP6",
+                "ts": "1698804233.007629"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1698804233.007629",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1N\/ZR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "안녕하세요 박진영 LM님께 구글드라이브 액세스 관련해서 DM 드렸는데 확인 한 번 부탁드리겠습니다! "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05V81G5ZDY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05UNC6FNK1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06061L4S64"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U05VAHXECP6"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05V81G5ZDY",
+        "type": "message",
+        "ts": "1698803230.529679",
+        "client_msg_id": "98f763b2-a146-49a4-b59e-97a1c076029f",
+        "text": "<@U06061L4S64> <@U05VAHXECP6> 매니저님들 확인 부탁드립니다",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "db1aceeb0d90",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5994058472162_db1aceeb0d9030c57e69_72.jpg",
+            "first_name": "김현우",
+            "real_name": "김현우",
+            "display_name": "FC 김현우 매니저",
+            "team": "T05UGFFGL07",
+            "name": "hyunwoo.kim",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698800543.433339",
+        "parent_user_id": "U05VC7EEY5Q",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EWVwO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06061L4S64"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05VAHXECP6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 매니저님들 확인 부탁드립니다"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05V81G5ZDY",
+        "type": "message",
+        "ts": "1698803238.891559",
+        "client_msg_id": "2c785f4d-06cd-4544-8956-d5f2b43e11b1",
+        "text": "<@U05VAHXECP6> 확인 부탁드립니다!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "db1aceeb0d90",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5994058472162_db1aceeb0d9030c57e69_72.jpg",
+            "first_name": "김현우",
+            "real_name": "김현우",
+            "display_name": "FC 김현우 매니저",
+            "team": "T05UGFFGL07",
+            "name": "hyunwoo.kim",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698802610.283179",
+        "parent_user_id": "U05UZPKCGBZ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eW5Ua",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05VAHXECP6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 확인 부탁드립니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05VAHXECP6",
+        "type": "message",
+        "ts": "1698804233.007629",
+        "client_msg_id": "d6d4f40d-169c-45dc-8094-04e57691f56a",
+        "text": "혜주님 권한 수정 드렸습니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "50abee101814",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-11\/6044824153712_50abee1018149e21919b_72.jpg",
+            "first_name": "이상영",
+            "real_name": "이상영",
+            "display_name": "FC 이상영 매니저",
+            "team": "T05UGFFGL07",
+            "name": "sangyeong.lee",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698802610.283179",
+        "parent_user_id": "U05UZPKCGBZ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "L3ZrA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "혜주님 권한 수정 드렸습니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1::skin-tone-2",
+                "users": [
+                    "U05UNC6FNK1",
+                    "U05V81G5ZDY"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U05VC7EEY5Q",
+        "type": "message",
+        "ts": "1698809802.395729",
+        "client_msg_id": "e69b26d1-dfa4-4416-9bc0-a98f890304a3",
+        "text": "구글 드라이브 엑세스 관련해서 확인 부탁드립니다! <@U06061L4S64> <@U05VAHXECP6>",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "41b3eab94662",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-06\/6000541892291_41b3eab946625ecd1c69_72.jpg",
+            "first_name": "강승현",
+            "real_name": "강승현",
+            "display_name": "강승현",
+            "team": "T05UGFFGL07",
+            "name": "kangs7777",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698800543.433339",
+        "parent_user_id": "U05VC7EEY5Q",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HtBfM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "구글 드라이브 엑세스 관련해서 확인 부탁드립니다! "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06061L4S64"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05VAHXECP6"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U05VAHXECP6"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05VAHXECP6",
+        "type": "message",
+        "ts": "1698810139.351559",
+        "client_msg_id": "2c02cbd0-93df-4fd4-969e-6a4b9cc66f8d",
+        "text": "승현님! 액세스 권한 수정 드렸습니다. 확인 부탁드려요.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "50abee101814",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-11\/6044824153712_50abee1018149e21919b_72.jpg",
+            "first_name": "이상영",
+            "real_name": "이상영",
+            "display_name": "FC 이상영 매니저",
+            "team": "T05UGFFGL07",
+            "name": "sangyeong.lee",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698800543.433339",
+        "parent_user_id": "U05VC7EEY5Q",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jE6S5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "승현님! 액세스 권한 수정 드렸습니다. 확인 부탁드려요."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05VC7EEY5Q",
+        "type": "message",
+        "ts": "1698813875.387569",
+        "client_msg_id": "1941f9a6-98ca-47a5-8a83-78cf7fe15c91",
+        "text": "감사합니다!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "41b3eab94662",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-06\/6000541892291_41b3eab946625ecd1c69_72.jpg",
+            "first_name": "강승현",
+            "real_name": "강승현",
+            "display_name": "강승현",
+            "team": "T05UGFFGL07",
+            "name": "kangs7777",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698800543.433339",
+        "parent_user_id": "U05VC7EEY5Q",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4sMmL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "감사합니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U05VAHXECP6"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U0606QGQYE5",
+        "type": "message",
+        "ts": "1698814674.800939",
+        "client_msg_id": "6681ff74-fdde-4936-b352-bd38925391c0",
+        "text": "줌 출석체크와 QR체크 모두 한 것 같은데 결석으로 되어 있습니다. 혹시 10월 31일자 출석체크 확인 가능할까요?",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "fb29f448e9a8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5979692591367_fb29f448e9a843cfbd44_72.jpg",
+            "first_name": "이영훈",
+            "real_name": "이영훈",
+            "display_name": "이영훈",
+            "team": "T05UGFFGL07",
+            "name": "leeanghoo2",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698814674.800939",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1698815043.476399",
+        "reply_users": [
+            "U05V81G5ZDY"
+        ],
+        "replies": [
+            {
+                "user": "U05V81G5ZDY",
+                "ts": "1698815043.476399"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XjWHa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "줌 출석체크와 QR체크 모두 한 것 같은데 결석으로 되어 있습니다. 혹시 10월 31일자 출석체크 확인 가능할까요?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "U05V81G5ZDY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05V81G5ZDY",
+        "type": "message",
+        "ts": "1698815043.476399",
+        "client_msg_id": "63412660-01f0-4f8d-b496-6b51dcc8e82a",
+        "text": "<@U0606QGQYE5> 안녕하세요 행정 매니저 김현우입니다.\n\n금일 연락주신 수강생분들과 같은 이유로 확인됩니다.\n10\/31 일자 퇴실 QR 미체크된 것으로 확인되어 결석으로 나타납니다.\n다음 부터 QR 체크 후 *모바일 HRD로 출결 되었는지 확인* 꼭꼭 부탁드립니다.\n감사합니다!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "db1aceeb0d90",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5994058472162_db1aceeb0d9030c57e69_72.jpg",
+            "first_name": "김현우",
+            "real_name": "김현우",
+            "display_name": "FC 김현우 매니저",
+            "team": "T05UGFFGL07",
+            "name": "hyunwoo.kim",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698814674.800939",
+        "parent_user_id": "U0606QGQYE5",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ukxvg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0606QGQYE5"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 안녕하세요 행정 매니저 김현우입니다.\n\n금일 연락주신 수강생분들과 같은 이유로 확인됩니다.\n10\/31 일자 퇴실 QR 미체크된 것으로 확인되어 결석으로 나타납니다.\n다음 부터 QR 체크 후 "
+                            },
+                            {
+                                "type": "text",
+                                "text": "모바일 HRD로 출결 되었는지 확인",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " 꼭꼭 부탁드립니다.\n감사합니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U061N4T7L8G",
+        "type": "message",
+        "ts": "1698815848.937589",
+        "client_msg_id": "e4b18aa1-f6b9-4c24-b351-cadc23169de9",
+        "text": "<@U05VAHXECP6> <@U05V81G5ZDY> 안녕하세요. 오전에 코로나 확진으로 격리 생활하고 있습니다. A형 독감인줄 알았는데, 확진됐네요.. 오전에 병원다녀오고, 수업 듣던 사무실에 갈 수도 없고, 집에 있을 수도 없어서, 방 구하고 환경 세팅해두느라고 오전 수업에는 참여를 못했습니다. QR 출석만 하고, 줌 사진은 카메라가 안켜져서 못찍었습니다. 부득이하게 오전 수업을 못들었는데, 어떻게 처리 되는건가요? 외출로 처리되나요??",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "7e78e3eb3b0f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-17\/6050758972500_7e78e3eb3b0f4a3a1efd_72.png",
+            "first_name": "최기훈",
+            "real_name": "최기훈",
+            "display_name": "최기훈",
+            "team": "T05UGFFGL07",
+            "name": "azilang2",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698815848.937589",
+        "reply_count": 4,
+        "reply_users_count": 2,
+        "latest_reply": "1700010869.053829",
+        "reply_users": [
+            "U05V81G5ZDY",
+            "U061N4T7L8G"
+        ],
+        "replies": [
+            {
+                "user": "U05V81G5ZDY",
+                "ts": "1698816081.414929"
+            },
+            {
+                "user": "U061N4T7L8G",
+                "ts": "1698816194.274629"
+            },
+            {
+                "user": "U05V81G5ZDY",
+                "ts": "1698816303.179809"
+            },
+            {
+                "user": "U05V81G5ZDY",
+                "ts": "1700010869.053829"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1700010869.053829",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hoHeN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05VAHXECP6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05V81G5ZDY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 안녕하세요. 오전에 코로나 확진으로 격리 생활하고 있습니다. A형 독감인줄 알았는데, 확진됐네요.. 오전에 병원다녀오고, 수업 듣던 사무실에 갈 수도 없고, 집에 있을 수도 없어서, 방 구하고 환경 세팅해두느라고 오전 수업에는 참여를 못했습니다. QR 출석만 하고, 줌 사진은 카메라가 안켜져서 못찍었습니다. 부득이하게 오전 수업을 못들었는데, 어떻게 처리 되는건가요? 외출로 처리되나요??"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pill",
+                "users": [
+                    "U05V81G5ZDY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05V81G5ZDY",
+        "type": "message",
+        "ts": "1698816081.414929",
+        "client_msg_id": "06629957-4879-41ed-a531-9870b4efcc39",
+        "text": "<@U061N4T7L8G> 안녕하세요 행정매니저 김현우입니다.\n\n코로나로 고생이 많으십니다... ㅠㅠ\n금일 코로나 양성 판정을 받으셨으면 *양성판정 확인서 또는 진료확인서로* 질병공가로 신청하시면 공가로 확인하겠습니다!\n• 코로나 공가 지침 변경으로 일반 질병과 동일하게 적용됩니다.\n공가 신청 안내 스레드로 절차 밟아주세요!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "db1aceeb0d90",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5994058472162_db1aceeb0d9030c57e69_72.jpg",
+            "first_name": "김현우",
+            "real_name": "김현우",
+            "display_name": "FC 김현우 매니저",
+            "team": "T05UGFFGL07",
+            "name": "hyunwoo.kim",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698815848.937589",
+        "parent_user_id": "U061N4T7L8G",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "j9FDb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U061N4T7L8G"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 안녕하세요 행정매니저 김현우입니다.\n\n코로나로 고생이 많으십니다... ㅠㅠ\n금일 코로나 양성 판정을 받으셨으면 "
+                            },
+                            {
+                                "type": "text",
+                                "text": "양성판정 확인서 또는 진료확인서로 ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "질병공가로 신청하시면 공가로 확인하겠습니다!\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "코로나 공가 지침 변경으로 일반 질병과 동일하게 적용됩니다."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n공가 신청 안내 스레드로 절차 밟아주세요!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U061N4T7L8G",
+        "type": "message",
+        "ts": "1698816194.274629",
+        "client_msg_id": "91B63BC5-15BE-4EF2-ACFA-AF962893A9BE",
+        "text": "진료 확인서를 안받았는데, 차주에 받아서 제출해도 될까요?",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "7e78e3eb3b0f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-17\/6050758972500_7e78e3eb3b0f4a3a1efd_72.png",
+            "first_name": "최기훈",
+            "real_name": "최기훈",
+            "display_name": "최기훈",
+            "team": "T05UGFFGL07",
+            "name": "azilang2",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698815848.937589",
+        "parent_user_id": "U061N4T7L8G",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RNtlj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "진료"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "확인서를"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "안받았는데"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", "
+                            },
+                            {
+                                "type": "text",
+                                "text": "차주에"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "받아서"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "제출해도"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "될까요"
+                            },
+                            {
+                                "type": "text",
+                                "text": "?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "U05V81G5ZDY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05V81G5ZDY",
+        "type": "message",
+        "ts": "1698816303.179809",
+        "client_msg_id": "fa8ef4f2-2686-4056-904a-bf16031f5c55",
+        "text": "넵 알겠습니다!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "db1aceeb0d90",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5994058472162_db1aceeb0d9030c57e69_72.jpg",
+            "first_name": "김현우",
+            "real_name": "김현우",
+            "display_name": "FC 김현우 매니저",
+            "team": "T05UGFFGL07",
+            "name": "hyunwoo.kim",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698815848.937589",
+        "parent_user_id": "U061N4T7L8G",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "S8jKI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "넵 알겠습니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

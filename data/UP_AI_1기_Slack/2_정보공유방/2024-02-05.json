@@ -1,0 +1,74 @@
+[
+    {
+        "user": "U065TBUL5EE",
+        "type": "message",
+        "ts": "1707190959.588459",
+        "client_msg_id": "cfe9bba8-c7b1-4a32-b308-99be7d7765ac",
+        "text": "<https:\/\/www.nvidia.com\/ko-kr\/gtc\/?ncid=ref-inor-890914>",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "34f110a5edc4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-11-14\/6197301711475_34f110a5edc435398e63_72.png",
+            "first_name": "김용담",
+            "real_name": "김용담",
+            "display_name": "김용담 강사",
+            "team": "T05UGFFGL07",
+            "name": "codingiscoffee",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/www.nvidia.com\/content\/dam\/en-zz\/Solutions\/gtc\/social-image\/gtc24-spring-web-homepage-phase1-og-r10.jpg",
+                "image_width": 1200,
+                "image_height": 630,
+                "image_bytes": 195363,
+                "from_url": "https:\/\/www.nvidia.com\/ko-kr\/gtc\/?ncid=ref-inor-890914",
+                "service_icon": "https:\/\/www.nvidia.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.nvidia.com\/ko-kr\/gtc\/?ncid=ref-inor-890914",
+                "fallback": "NVIDIA: GTC 2024 - 세계 최고의 AI 컨퍼런스",
+                "text": "AI 시대를 위한 컨퍼런스에 참여하세요.",
+                "title": "GTC 2024 - 세계 최고의 AI 컨퍼런스",
+                "title_link": "https:\/\/www.nvidia.com\/ko-kr\/gtc\/?ncid=ref-inor-890914",
+                "service_name": "NVIDIA"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nUj6b",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.nvidia.com\/ko-kr\/gtc\/?ncid=ref-inor-890914"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U05V9N22ZUK",
+                    "U05V2T62KUJ"
+                ],
+                "count": 2
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U05V5B27DK7"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

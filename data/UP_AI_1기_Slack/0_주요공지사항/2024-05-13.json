@@ -1,0 +1,224 @@
+[
+    {
+        "user": "U05UN6NTN8P",
+        "type": "message",
+        "ts": "1715651140.034539",
+        "client_msg_id": "0b540503-dcb9-4bba-87ab-360573ce06e8",
+        "text": "매니저님, 영문 수료증을 받지 못했는데 아직 발송 전인가요?",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "2e60b3be8cc5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5988792399218_2e60b3be8cc5d061fdca_72.jpg",
+            "first_name": "이소영",
+            "real_name": "이소영",
+            "display_name": "이소영A",
+            "team": "T05UGFFGL07",
+            "name": "sycj427",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1715333527.723469",
+        "parent_user_id": "U05VAHXECP6",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BbcGv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "매니저님, 영문 수료증을 받지 못했는데 아직 발송 전인가요?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U05VAHXECP6"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05VAHXECP6",
+        "type": "message",
+        "ts": "1715651774.651639",
+        "client_msg_id": "8c7c9eff-b697-498d-95af-1830490829c0",
+        "text": "<@U05UN6NTN8P> 안녕하세요. 소영님! 어제부로 발송을 마쳤는데요. 제가 바로 담당자 분께 확인하여, 말씀드리겠습니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "50abee101814",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-11\/6044824153712_50abee1018149e21919b_72.jpg",
+            "first_name": "이상영",
+            "real_name": "이상영",
+            "display_name": "FC 이상영 매니저",
+            "team": "T05UGFFGL07",
+            "name": "sangyeong.lee",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1715333527.723469",
+        "parent_user_id": "U05VAHXECP6",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ud59g",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05UN6NTN8P"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 안녕하세요. 소영님! 어제부로 발송을 마쳤는데요. 제가 바로 담당자 분께 확인하여, 말씀드리겠습니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05VAHXECP6",
+        "type": "message",
+        "ts": "1715654445.307359",
+        "client_msg_id": "33c97253-6abb-4c35-8816-41f84db49e1e",
+        "text": "<@U05UN6NTN8P> 안녕하세요. 소영님! 담당자분이 누락한 것으로 확인 하였습니다. 현재 누락 건에 대한 재발송 완료하였으니, 확인 부탁드리겠습니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "50abee101814",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-11\/6044824153712_50abee1018149e21919b_72.jpg",
+            "first_name": "이상영",
+            "real_name": "이상영",
+            "display_name": "FC 이상영 매니저",
+            "team": "T05UGFFGL07",
+            "name": "sangyeong.lee",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1715333527.723469",
+        "parent_user_id": "U05VAHXECP6",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KS78n",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05UN6NTN8P"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 안녕하세요. 소영님! 담당자분이 누락한 것으로 확인 하였습니다. 현재 누락 건에 대한 재발송 완료하였으니, 확인 부탁드리겠습니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U05UN6NTN8P"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05UN6NTN8P",
+        "type": "message",
+        "ts": "1715654672.713549",
+        "client_msg_id": "7D0FEAFF-DBDB-41F4-971B-7D2887BDEC1F",
+        "text": "<@U05VAHXECP6> 확인했습니다. 감사합니다!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "2e60b3be8cc5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5988792399218_2e60b3be8cc5d061fdca_72.jpg",
+            "first_name": "이소영",
+            "real_name": "이소영",
+            "display_name": "이소영A",
+            "team": "T05UGFFGL07",
+            "name": "sycj427",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1715333527.723469",
+        "parent_user_id": "U05VAHXECP6",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/RTXf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05VAHXECP6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "확인했습니다"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". "
+                            },
+                            {
+                                "type": "text",
+                                "text": "감사합니다"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U05VAHXECP6"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U05VAHXECP6"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

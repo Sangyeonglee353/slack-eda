@@ -1,0 +1,204 @@
+[
+    {
+        "user": "U060BLVQYHW",
+        "type": "message",
+        "ts": "1700805468.550169",
+        "edited": {
+            "user": "U060BLVQYHW",
+            "ts": "1700805720.000000"
+        },
+        "client_msg_id": "2c674ba3-ecff-42cc-b1a7-cb2d5a1fc1d6",
+        "text": "<@U05VADPQPCL> 안녕하세요. 강의 듣다가 깜빡하고 오늘 2시 중간 출결 스크린샷을 찍지 못했습니다. 혹시 제가 어떻게 해야할까요?",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "g6cb970458b5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6cb970458b5672091fa231bd078f93da.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+            "first_name": "Sang",
+            "real_name": "Sang Hyuk SEO",
+            "display_name": "서상혁",
+            "team": "T05UGFFGL07",
+            "name": "happer96",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1700805468.550169",
+        "reply_count": 4,
+        "reply_users_count": 2,
+        "latest_reply": "1700812845.725929",
+        "reply_users": [
+            "U05VADPQPCL",
+            "U060BLVQYHW"
+        ],
+        "replies": [
+            {
+                "user": "U05VADPQPCL",
+                "ts": "1700806652.014119"
+            },
+            {
+                "user": "U060BLVQYHW",
+                "ts": "1700806716.764989"
+            },
+            {
+                "user": "U05VADPQPCL",
+                "ts": "1700806735.220989"
+            },
+            {
+                "user": "U060BLVQYHW",
+                "ts": "1700812845.725929"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "svTW3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05VADPQPCL"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 안녕하세요. 강의 듣다가 깜빡하고 오늘 2시 중간 출결 스크린샷을 찍지 못했습니다. 혹시 제가 어떻게 해야할까요?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05VADPQPCL",
+        "type": "message",
+        "ts": "1700806652.014119",
+        "edited": {
+            "user": "U05VADPQPCL",
+            "ts": "1700806666.000000"
+        },
+        "client_msg_id": "32d81c8f-7101-43fe-9110-4966626f426f",
+        "text": "안녕하세요 상혁님\n이미 시간이 많이 지나 스크린샷 미진행으로 패캠 내부 출석은 외출(지각과 동일)로 처리 됩니다.\n다음부턴 공지 잘 확인 부탁 드리며 정해진 시간에 접속 부탁 드리겠습니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "07e7ca00b8f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5991092857253_07e7ca00b8f0d0b13ba1_72.png",
+            "first_name": "패스트캠퍼스박기준",
+            "real_name": "패스트캠퍼스박기준",
+            "display_name": "LM 박기준",
+            "team": "T05UGFFGL07",
+            "name": "pgj.fc.career",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1700805468.550169",
+        "parent_user_id": "U060BLVQYHW",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UoXuf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "안녕하세요 상혁님\n이미 시간이 많이 지나 스크린샷 미진행으로 패캠 내부 출석은 외출(지각과 동일)로 처리 됩니다.\n다음부턴 공지 잘 확인 부탁 드리며 정해진 시간에 접속 부탁 드리겠습니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U060BLVQYHW",
+        "type": "message",
+        "ts": "1700806716.764989",
+        "client_msg_id": "4bd4c0d7-62de-49d4-b37d-07a668a1c002",
+        "text": "<@U05VADPQPCL> 넵 알겠습니다. 그럼 퇴실은 오늘 강의 후 스크린샷 촬영후 HRD로 QR 체크하면될까요?",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "g6cb970458b5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6cb970458b5672091fa231bd078f93da.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+            "first_name": "Sang",
+            "real_name": "Sang Hyuk SEO",
+            "display_name": "서상혁",
+            "team": "T05UGFFGL07",
+            "name": "happer96",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1700805468.550169",
+        "parent_user_id": "U060BLVQYHW",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qP+FI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05VADPQPCL"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 넵 알겠습니다. 그럼 퇴실은 오늘 강의 후 스크린샷 촬영후 HRD로 QR 체크하면될까요?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05VADPQPCL",
+        "type": "message",
+        "ts": "1700806735.220989",
+        "client_msg_id": "96eed20d-dc3a-459d-b0c5-eddcfcb7240a",
+        "text": "네 동일하게 진행해주시면 됩니다!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "07e7ca00b8f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5991092857253_07e7ca00b8f0d0b13ba1_72.png",
+            "first_name": "패스트캠퍼스박기준",
+            "real_name": "패스트캠퍼스박기준",
+            "display_name": "LM 박기준",
+            "team": "T05UGFFGL07",
+            "name": "pgj.fc.career",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1700805468.550169",
+        "parent_user_id": "U060BLVQYHW",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "33VN9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "네 동일하게 진행해주시면 됩니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

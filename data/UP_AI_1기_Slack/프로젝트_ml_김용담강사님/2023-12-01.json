@@ -1,0 +1,371 @@
+[
+    {
+        "user": "U05VADPQPCL",
+        "type": "message",
+        "ts": "1701423633.052389",
+        "edited": {
+            "user": "U05VADPQPCL",
+            "ts": "1701827962.000000"
+        },
+        "client_msg_id": "7bb17002-0b11-4d7e-9f55-678d020a58e4",
+        "text": "*<!channel> [ML 프로젝트 공지]*\n• *프로젝트 기간 : 12월 4일(월) ~ 12월 14일(목)*\n• *<https:\/\/codingiscoffee.notion.site\/UPSTAGE-AI-LAB-01-ML-PJT-List-up-e3f9a56db78448e2bbd9fcdf4fa833d4|프로젝트 주제 노션 바로가기>*\n• *<https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLScRFI1qdHUXCr3AoQXloEZmAVQ0Ipf8ZStJ6BnacZUsltirYw\/viewform?usp=sf_link|프로젝트 주제 선택 설문 조사 바로가기>*\n    ◦ *기한 : ~ 12월 4일 월요일 오전 10시*\n    ◦ *제출 기한 이후 주제 변경은 불가 합니다. 주말 동안 신중하게 고민해보시고 결정해주시길 바랍니다!!!*\n    ◦ 월요일 오전 실시간 강의 이후 팀 편성표 공지 및 팀 채널 생성 해드리겠습니다.\n• *<https:\/\/quickest-asterisk-75d.notion.site\/ML-0f76e81e952749d69a0bf855ad39fd24?pvs=4|ML 프로젝트 노션 바로가기>*\n    ◦ *팀 편성 결과를 바탕으로 팀 노션 제작 부탁 드립니다.*\n    ◦ EDA 프로젝트 때와 같이 오른쪽 상단 페이지 편집 누른 후 템플릿 복제하셔서 작성하시면 됩니다!!\n        ▪︎  1차 아이데이션 작성 : 12월 6일\n        ▪︎  2차 아이데이션 작성 : 12월 11일\n        ▪︎  3차 아이데이션 작성 : 12월 14일\n• *<https:\/\/drive.google.com\/drive\/folders\/1SyeHo6BgpOJedebx7Uj8jJbJR-ason35?usp=sharing|프로젝트 결과물 제출 공유 드라이브 바로가기>*\n    ◦ 각 조 별로 폴더 생성하시고 제출 바랍니다.\n    ◦ *제출 기한 : ~12월 14일 23시 59분*\n    ◦ *제출 물 : 개인 코드 파일(.ipynb), 팀 발표자료(.ppt)*\n• *<https:\/\/drive.google.com\/drive\/folders\/1lwsyXuPDBVaTIWF0TqwbqtKC9TATD7Aa?usp=sharing|프로젝트 팀 별 공유 드라이브 바로가기>*\n    ◦ 각 조 별로 폴더 생성하시고 파일 공유 하시면 됩니다!\n이외 궁금하신 점이 있다면 언제든지 질문 부탁 드리겠습니다!!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "07e7ca00b8f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5991092857253_07e7ca00b8f0d0b13ba1_72.png",
+            "first_name": "패스트캠퍼스박기준",
+            "real_name": "패스트캠퍼스박기준",
+            "display_name": "LM 박기준",
+            "team": "T05UGFFGL07",
+            "name": "pgj.fc.career",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1701423633.052389",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1701827974.952909",
+        "reply_users": [
+            "U05UNMQ4LP9",
+            "U05VADPQPCL"
+        ],
+        "replies": [
+            {
+                "user": "U05UNMQ4LP9",
+                "ts": "1701827872.946249"
+            },
+            {
+                "user": "U05VADPQPCL",
+                "ts": "1701827974.952909"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pYLKh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " [ML 프로젝트 공지]",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "프로젝트 기간 : 12월 4일(월) ~ 12월 14일(목)",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/codingiscoffee.notion.site\/UPSTAGE-AI-LAB-01-ML-PJT-List-up-e3f9a56db78448e2bbd9fcdf4fa833d4",
+                                        "text": "프로젝트 주제 노션 바로가기",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLScRFI1qdHUXCr3AoQXloEZmAVQ0Ipf8ZStJ6BnacZUsltirYw\/viewform?usp=sf_link",
+                                        "text": "프로젝트 주제 선택 설문 조사 바로가기",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "기한 : ~ 12월 4일 월요일 오전 10시",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "제출 기한 이후 주제 변경은 불가 합니다. 주말 동안 신중하게 고민해보시고 결정해주시길 바랍니다!!!",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "월요일 오전 실시간 강의 이후 팀 편성표 공지 및 팀 채널 생성 해드리겠습니다."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/quickest-asterisk-75d.notion.site\/ML-0f76e81e952749d69a0bf855ad39fd24?pvs=4",
+                                        "text": "ML 프로젝트 노션 바로가기",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "팀 편성 결과를 바탕으로 팀 노션 제작 부탁 드립니다.",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "EDA 프로젝트 때와 같이 오른쪽 상단 페이지 편집 누른 후 템플릿 복제하셔서 작성하시면 됩니다!!"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": " 1차 아이데이션 작성 : 12월 6일"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": " 2차 아이데이션 작성 : 12월 11일"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": " 3차 아이데이션 작성 : 12월 14일"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 2,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/drive.google.com\/drive\/folders\/1SyeHo6BgpOJedebx7Uj8jJbJR-ason35?usp=sharing",
+                                        "text": "프로젝트 결과물 제출 공유 드라이브 바로가기",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "각 조 별로 폴더 생성하시고 제출 바랍니다."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "제출 기한 : ~12월 14일 23시 59분",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "제출 물 : 개인 코드 파일(.ipynb), 팀 발표자료(.ppt)",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/drive.google.com\/drive\/folders\/1lwsyXuPDBVaTIWF0TqwbqtKC9TATD7Aa?usp=sharing",
+                                        "text": "프로젝트 팀 별 공유 드라이브 바로가기",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "각 조 별로 폴더 생성하시고 파일 공유 하시면 됩니다!"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n이외 궁금하신 점이 있다면 언제든지 질문 부탁 드리겠습니다!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U05V9N22ZUK",
+                    "U05V5B27DK7",
+                    "U060TBSJ7DF",
+                    "U05V7H78DUM"
+                ],
+                "count": 4
+            }
+        ]
+    }
+]

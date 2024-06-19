@@ -1,0 +1,482 @@
+[
+    {
+        "user": "U060VSK7ELC",
+        "type": "message",
+        "ts": "1699578656.661499",
+        "client_msg_id": "472a96ae-aef8-4134-a7f5-ab2d2c6b372a",
+        "text": "<!here>\n여러분 금일은 질문 or 피드백 필요한 조에 방문할 수 있도록 하겠습니다 :slightly_smiling_face:\n쓰레드에 조 남겨주시면 방문할게요.\n\n+월요일부터는 다시 1조부터 로테이션으로 방문하겠습니다.\n+발표가 다음 주 수요일에 있기 때문에 늦어도 주말에는 PPT 작업도 들어가셔야 합니다. 자료정리하는데도 시간 많이걸립니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "4eedaa4888b6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-11\/6027355735027_4eedaa4888b662413f7b_72.jpg",
+            "first_name": "김인섭",
+            "real_name": "김인섭 강사",
+            "display_name": "김인섭 강사",
+            "team": "T05UGFFGL07",
+            "name": "inseop0813",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1699578656.661499",
+        "reply_count": 6,
+        "reply_users_count": 6,
+        "latest_reply": "1699588397.814929",
+        "reply_users": [
+            "U060D1KJECR",
+            "U05V4KZR3NW",
+            "U05UWVA90H4",
+            "U05UZLEM04V",
+            "U05V379NETU",
+            "U060VSK7ELC"
+        ],
+        "replies": [
+            {
+                "user": "U060D1KJECR",
+                "ts": "1699578791.149169"
+            },
+            {
+                "user": "U05V4KZR3NW",
+                "ts": "1699578896.756589"
+            },
+            {
+                "user": "U05UWVA90H4",
+                "ts": "1699578979.781429"
+            },
+            {
+                "user": "U05UZLEM04V",
+                "ts": "1699579792.033169"
+            },
+            {
+                "user": "U05V379NETU",
+                "ts": "1699583863.420419"
+            },
+            {
+                "user": "U060VSK7ELC",
+                "ts": "1699588397.814929"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "R2PoR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n여러분 금일은 질문 or 피드백 필요한 조에 방문할 수 있도록 하겠습니다 "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n쓰레드에 조 남겨주시면 방문할게요.\n\n+월요일부터는 다시 1조부터 로테이션으로 방문하겠습니다.\n+발표가 다음 주 수요일에 있기 때문에 늦어도 주말에는 PPT 작업도 들어가셔야 합니다. 자료정리하는데도 시간 많이걸립니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U060LG0BT89",
+                    "U060H4V0Q5S",
+                    "U0600GGHJTC",
+                    "U05V379NETU"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "user": "U060D1KJECR",
+        "type": "message",
+        "ts": "1699578791.149169",
+        "client_msg_id": "0656f232-4a89-4b41-b997-93a9ee3aaf82",
+        "text": "12조 부탁드리겠습니다",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "d024d71b810e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-06\/5993779835878_d024d71b810e837e9532_72.jpg",
+            "first_name": "이현진",
+            "real_name": "이현진",
+            "display_name": "이현진",
+            "team": "T05UGFFGL07",
+            "name": "jinintg",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1699578656.661499",
+        "parent_user_id": "U060VSK7ELC",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fcwoS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "12조 부탁드리겠습니다"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U060VSK7ELC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05V4KZR3NW",
+        "type": "message",
+        "ts": "1699578896.756589",
+        "client_msg_id": "a704b704-83f0-45c8-8f36-7d7ef956ebf5",
+        "text": "14조 부탁드리겠습니다!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "8c77944bd304",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-20\/6082246066801_8c77944bd304e2d01432_72.jpg",
+            "first_name": "남영진",
+            "real_name": "남영진",
+            "display_name": "남영진",
+            "team": "T05UGFFGL07",
+            "name": "studyingnam",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1699578656.661499",
+        "parent_user_id": "U060VSK7ELC",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QfQB8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "14조 부탁드리겠습니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U060VSK7ELC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05UWVA90H4",
+        "type": "message",
+        "ts": "1699578979.781429",
+        "client_msg_id": "8e1c2e1d-3f65-48a6-9ca0-b04b46ebcbf9",
+        "text": "13조 부탁드리겠습니다",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "e039a582c034",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5983012631430_e039a582c03450d83dc6_72.png",
+            "first_name": "이준형",
+            "real_name": "이준형",
+            "display_name": "이준형",
+            "team": "T05UGFFGL07",
+            "name": "hewberryd8",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1699578656.661499",
+        "parent_user_id": "U060VSK7ELC",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QnV+0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "13조 부탁드리겠습니다"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U060VSK7ELC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05UZLEM04V",
+        "type": "message",
+        "ts": "1699579792.033169",
+        "client_msg_id": "e9c3dd82-6db1-458f-995d-90384f072767",
+        "text": "3조 부탁드립니다",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "25547f3149f8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5988678123971_25547f3149f87fd234ca_72.jpg",
+            "first_name": "권혁찬",
+            "real_name": "권혁찬",
+            "display_name": "권혁찬",
+            "team": "T05UGFFGL07",
+            "name": "gurcks2",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1699578656.661499",
+        "parent_user_id": "U060VSK7ELC",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BiTP5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "3조 부탁드립니다"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U060VSK7ELC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05V379NETU",
+        "type": "message",
+        "ts": "1699583863.420419",
+        "client_msg_id": "e8e8cde1-37b2-4499-a5b4-5ac44fe7d1c0",
+        "text": "15조 부탁드립니다!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "ffacc530c1ba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/6012256954656_ffacc530c1baefd9bc1c_72.jpg",
+            "first_name": "신주용",
+            "real_name": "신주용",
+            "display_name": "신주용",
+            "team": "T05UGFFGL07",
+            "name": "robotshin1608",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1699578656.661499",
+        "parent_user_id": "U060VSK7ELC",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2fppL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "15조 부탁드립니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U060VSK7ELC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "subtype": "thread_broadcast",
+        "user": "U060VSK7ELC",
+        "thread_ts": "1699578656.661499",
+        "root": {
+            "user": "U060VSK7ELC",
+            "type": "message",
+            "ts": "1699578656.661499",
+            "client_msg_id": "472a96ae-aef8-4134-a7f5-ab2d2c6b372a",
+            "text": "<!here>\n여러분 금일은 질문 or 피드백 필요한 조에 방문할 수 있도록 하겠습니다 :slightly_smiling_face:\n쓰레드에 조 남겨주시면 방문할게요.\n\n+월요일부터는 다시 1조부터 로테이션으로 방문하겠습니다.\n+발표가 다음 주 수요일에 있기 때문에 늦어도 주말에는 PPT 작업도 들어가셔야 합니다. 자료정리하는데도 시간 많이걸립니다.",
+            "team": "T05UGFFGL07",
+            "thread_ts": "1699578656.661499",
+            "reply_count": 6,
+            "reply_users_count": 6,
+            "latest_reply": "1699588397.814929",
+            "reply_users": [
+                "U060D1KJECR",
+                "U05V4KZR3NW",
+                "U05UWVA90H4",
+                "U05UZLEM04V",
+                "U05V379NETU",
+                "U060VSK7ELC"
+            ],
+            "replies": [
+                {
+                    "user": "U060D1KJECR",
+                    "ts": "1699578791.149169"
+                },
+                {
+                    "user": "U05V4KZR3NW",
+                    "ts": "1699578896.756589"
+                },
+                {
+                    "user": "U05UWVA90H4",
+                    "ts": "1699578979.781429"
+                },
+                {
+                    "user": "U05UZLEM04V",
+                    "ts": "1699579792.033169"
+                },
+                {
+                    "user": "U05V379NETU",
+                    "ts": "1699583863.420419"
+                },
+                {
+                    "user": "U060VSK7ELC",
+                    "ts": "1699588397.814929"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false,
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "R2PoR",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "broadcast",
+                                    "range": "here"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n여러분 금일은 질문 or 피드백 필요한 조에 방문할 수 있도록 하겠습니다 "
+                                },
+                                {
+                                    "type": "emoji",
+                                    "name": "slightly_smiling_face",
+                                    "unicode": "1f642"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n쓰레드에 조 남겨주시면 방문할게요.\n\n+월요일부터는 다시 1조부터 로테이션으로 방문하겠습니다.\n+발표가 다음 주 수요일에 있기 때문에 늦어도 주말에는 PPT 작업도 들어가셔야 합니다. 자료정리하는데도 시간 많이걸립니다."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "type": "message",
+        "ts": "1699588397.814929",
+        "client_msg_id": "af5d6ddd-5d67-4522-882a-1e3369173734",
+        "text": "모두 완료! :slightly_smiling_face:\n주말 잘 보내시고, 다음 주에 뵐게요 여러분.",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tG\/f5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "모두 완료! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n주말 잘 보내시고, 다음 주에 뵐게요 여러분."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "대답",
+                "users": [
+                    "U05V5B27DK7",
+                    "U05V2HL22M9",
+                    "U05UWVA90H4",
+                    "U05UZLEM04V",
+                    "U0600GGHJTC",
+                    "U05V4KZR3NW",
+                    "U05UT0JG4BZ",
+                    "U05V2T62KUJ",
+                    "U05V7H78DUM",
+                    "U05UW1S4KQE",
+                    "U05V561TXUL"
+                ],
+                "count": 11
+            }
+        ]
+    }
+]

@@ -1,0 +1,371 @@
+[
+    {
+        "user": "U05VAHXECP6",
+        "type": "message",
+        "ts": "1705890185.102859",
+        "edited": {
+            "user": "U05VAHXECP6",
+            "ts": "1705890617.000000"
+        },
+        "client_msg_id": "a9294e63-e65f-4ed5-b731-e3e5ca79c251",
+        "text": "<!channel>\n> *240122(월) 구두 공지 내용 정리*\n1. ML 경진대회 종료일: 1\/25(목) 19시\n2. 그룹 스터디 세미나(w. 김용담 강사님)\n    ◦ 1\/26(금) 14:00 ~ 19:00\n3. 경진대회 제출물 제출 기한 (`제출 필수`)\n    ◦ 1\/26(금) 오전 11시 마감(2개 모두에요)\n        ▪︎ 팀별 발표 자료\n        ▪︎ 팀별 보고서(readme.md)\n    ◦ 1\/31(수) 오전 11시 마감\n        ▪︎ 개인별 보고서(학습 블로그)\n    ◦ 참고사항\n        ▪︎ 어떤 것을 써야할 지 모르겠다면, <https:\/\/fcupstageai1.slack.com\/archives\/C05UU79AD4M\/p1705299482652009|해당 공지>에서 Fast-Up Report 가이드를 참고해보세요.\n4. 대회 전담 멘토링 시작\n    ◦ `이다은, 정재원 멘토`님이 팀별 채널에 입장하여 계십니다.\n    ◦ 기존 비대면 질의응답 + 실시간 질의응답(1시간) 까지 가능하니, 자유롭게 논의와 미팅을 진행해주세요.\n5. 팀편성 변동 사항 :sirens:\n    ◦ 여러분의 요청에 따라, 팀편성을 최소화하는 방향으로 결정되었습니다.\n    ◦ *ML 모듈 팀으로 CV, NLP 모듈까지 쭈욱 이어질 예정이니, 더욱 의욕을 가지고 팀 활동에 임해주세요.*\n        ▪︎ 다만, 각 모듈 종료 시 상호 평가를 통해 일부 인원의 재배치는 이뤄질 예정입니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "50abee101814",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-11\/6044824153712_50abee1018149e21919b_72.jpg",
+            "first_name": "이상영",
+            "real_name": "이상영",
+            "display_name": "FC 이상영 매니저",
+            "team": "T05UGFFGL07",
+            "name": "sangyeong.lee",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZuyTd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "240122(월) 구두 공지 내용 정리",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "ML 경진대회 종료일: 1\/25(목) 19시"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "그룹 스터디 세미나(w. 김용담 강사님)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "1\/26(금) 14:00 ~ 19:00"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "경진대회 제출물 제출 기한 ("
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "제출 필수",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ")"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "offset": 2,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "1\/26(금) 오전 11시 마감(2개 모두에요)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "팀별 발표 자료"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "팀별 보고서(readme.md)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 2,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "1\/31(수) 오전 11시 마감"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "개인별 보고서(학습 블로그)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 2,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "참고사항"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "어떤 것을 써야할 지 모르겠다면, "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/fcupstageai1.slack.com\/archives\/C05UU79AD4M\/p1705299482652009",
+                                        "text": "해당 공지"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "에서 Fast-Up Report 가이드를 참고해보세요."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 2,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "대회 전담 멘토링 시작"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "offset": 3,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "이다은, 정재원 멘토",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "님이 팀별 채널에 입장하여 계십니다."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "기존 비대면 질의응답 + 실시간 질의응답(1시간) 까지 가능하니, 자유롭게 논의와 미팅을 진행해주세요."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "팀편성 변동 사항 "
+                                    },
+                                    {
+                                        "type": "emoji",
+                                        "name": "sirens"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "offset": 4,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "여러분의 요청에 따라, 팀편성을 최소화하는 방향으로 결정되었습니다."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "ML 모듈 팀으로 CV, NLP 모듈까지 쭈욱 이어질 예정이니, 더욱 의욕을 가지고 팀 활동에 임해주세요.",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "다만, 각 모듈 종료 시 상호 평가를 통해 일부 인원의 재배치는 이뤄질 예정입니다."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 2,
+                        "border": 0
+                    }
+                ]
+            }
+        ]
+    }
+]

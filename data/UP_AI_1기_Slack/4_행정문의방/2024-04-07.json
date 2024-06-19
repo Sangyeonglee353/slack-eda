@@ -1,0 +1,284 @@
+[
+    {
+        "user": "U05UNC6FNK1",
+        "type": "message",
+        "ts": "1712531884.381859",
+        "client_msg_id": "68dea143-d158-4bf8-accb-61dc77442c4a",
+        "text": "네 준호님 확인했습니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "260d154ea1e2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5979526758263_260d154ea1e2177fd001_72.jpg",
+            "first_name": "FC",
+            "real_name": "FC 하시안 매니저",
+            "display_name": "FC 하시안 매니저",
+            "team": "T05UGFFGL07",
+            "name": "xianha",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1711945283.611179",
+        "parent_user_id": "U060LG0BT89",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NBkO0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "네 준호님 확인했습니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05V81G5ZDY",
+        "type": "message",
+        "ts": "1712537133.772849",
+        "client_msg_id": "77fc669f-43ab-4c6e-bc6e-f516fe0a47fb",
+        "text": "<@U05UNC6FNK1> 안녕하세요 시안 매니저님\n• 고용보험 임의가입 자영업자\n    ◦ 훈련 지원금 대상에 포함되는지 확인여부 문의 드립니다!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "db1aceeb0d90",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5994058472162_db1aceeb0d9030c57e69_72.jpg",
+            "first_name": "김현우",
+            "real_name": "김현우",
+            "display_name": "FC 김현우 매니저",
+            "team": "T05UGFFGL07",
+            "name": "hyunwoo.kim",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712311365.460929",
+        "parent_user_id": "U05V81G5ZDY",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "m+F2a",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05UNC6FNK1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 안녕하세요 시안 매니저님\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "고용보험 임의가입 자영업자"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "훈련 지원금 대상에 포함되는지 확인여부 문의 드립니다!"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "U05UNC6FNK1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05UNC6FNK1",
+        "type": "message",
+        "ts": "1712540942.790339",
+        "edited": {
+            "user": "U05UNC6FNK1",
+            "ts": "1712540983.000000"
+        },
+        "client_msg_id": "9bc190ac-26b5-4085-8c89-042c7fc313f8",
+        "text": "<@U05UN6NTN8P> 대부분 미포함입니다. 다만, 포함되시는 분들 있어 작성이 필요합니다..",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "260d154ea1e2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5979526758263_260d154ea1e2177fd001_72.jpg",
+            "first_name": "FC",
+            "real_name": "FC 하시안 매니저",
+            "display_name": "FC 하시안 매니저",
+            "team": "T05UGFFGL07",
+            "name": "xianha",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712311365.460929",
+        "parent_user_id": "U05V81G5ZDY",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "U8Jld",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05UN6NTN8P"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 대부분 미포함입니다. 다만, 포함되시는 분들 있어 작성이 필요합니다.."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "U05UN6NTN8P"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05UNC6FNK1",
+        "type": "message",
+        "ts": "1712558340.137649",
+        "client_msg_id": "c326cb62-6bea-4fcf-9a05-517df8f90242",
+        "text": "<!channel> 훈련장려금 신청 지연 안내\n훈련장려금 신청이 지연됨을 사전에 안내드립니다.\n장려금확인서 및 환수동의서가 빠르게 취합되고, 출결이슈가 없는 과정부터 순차적으로 신청됩니다.\n\n신청후에는 공지로 안내드리며, 해당내용문의는 <#C05V0H8H3GC|4_행정문의방> 에서 새 스레드로 문의주시길 바랍니다.\n\n[ 사유 ]\n• 장려금 확인서 및 환수동의서 취합안됨\n• 일부 수강생의 공가\/병가 등의 서류 제출안됨\n• 일부 수강생의 수업미참여임에도 QR체크 진행 \n",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "260d154ea1e2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5979526758263_260d154ea1e2177fd001_72.jpg",
+            "first_name": "FC",
+            "real_name": "FC 하시안 매니저",
+            "display_name": "FC 하시안 매니저",
+            "team": "T05UGFFGL07",
+            "name": "xianha",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dq5LS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 훈련장려금 신청 지연 안내\n훈련장려금 신청이 지연됨을 사전에 안내드립니다.\n장려금확인서 및 환수동의서가 빠르게 취합되고, 출결이슈가 없는 과정부터 순차적으로 신청됩니다.\n\n신청후에는 공지로 안내드리며, 해당내용문의는 "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C05V0H8H3GC"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 에서 새 스레드로 문의주시길 바랍니다.\n\n[ 사유 ]\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "장려금 확인서 및 환수동의서 취합안됨"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "일부 수강생의 공가\/병가 등의 서류 제출안됨"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "일부 수강생의 수업미참여임에도 QR체크 진행 "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U05V5B27DK7"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,216 @@
+[
+    {
+        "user": "U06LQ0F0YA3",
+        "type": "message",
+        "ts": "1709793784.462809",
+        "client_msg_id": "19f1cf6f-4cff-4279-ba8e-6c7e6670e85e",
+        "text": "안녕하세요! Upstage AI Lab 수강생 여러분~!\n현재 질의응답 멘토를 담당하고있는 `이승윤 멘토`입니다.\n마지막 날에 앞서, 여러분의 자연어 처리 강좌의 수강에 있어서 더욱 도움을 드릴 수 있을만한 사이트들이나 아티클 몇 가지를 소개해 드리고자 합니다. 큰 부담없이 살펴보실 수 있도록 여러가지를 준비했습니다. 흥미로운 주제들이 있다면 이에 맞추어 읽어보시면 좋을 것 같습니다. 부디 여러분의 로드맵에 작은 도움이 되시기를 바랍니다!\n\n*1. Tokenizer - <https:\/\/huggingface.co\/docs\/transformers\/tokenizer_summary> (한글 버전: <https:\/\/huffon.github.io\/2020\/07\/05\/tokenizers\/>)*\n토크나이저는 언어모델의 vocab을 형성하는 아주 중요한 역할을 합니다.\n어떤 토큰화 방법을 쓰는가에 따라 언어모델이 문장이나 단어에 대해 파악하는 의미가 달라지고, 이는 곧 성능의 변화로 이어집니다.\n언어모델은 학습한 코퍼스에 따라 고유의 토크나이저를 가지는 경우가 많습니다. 그 과정에서 토큰화에 적용하는 여러 알고리즘들이 있는데요. 여기서는 대표적인 토크나이저들을 설명하며 체계적으로 정리하고 있습니다.\n\n\n*2. OpenAI API Usecase - <https:\/\/openai.com\/customer-stories>*\nLLM은 실생활 뿐만 아니라, 특히 비즈니스 쪽에서도 많은 유즈케이스들이 발생하고 있습니다.\n이를 위해 새로운 서비스의 출시나 더 나은 서비스로의 개선또한 이루어지고 있고, 실제로 그 역할은 매우 큽니다.\n여기서는 OpenAI에서 제공하는 여러 LLM들의 API를 이용해 어떤 서비스에 활용하고 있는지를 세계 각 회사들 별로 설명합니다.\n\n\n*3. Prompt Engineering Techniques - <https:\/\/www.promptingguide.ai\/techniques>*\n프롬프팅은 LLM의 활용에 있어서 매우 중요한 요소입니다. 어떤 프롬프트 혹은 어떤 프롬프팅 테크닉을 사용하느냐에 따라 모델의 생성분포는 크게 달라집니다.\n이에 따라 23년도부터 많은 프롬프팅 방법들이 연구를 통해 여러 논문들에 소개되었는데요.\n여기서는 이러한 프롬프팅 방법들을 설명과 예시와 함께 풍부하게 제공하고 있습니다.\n실제로 GPT를 활용하시거나 API를 사용하실 때, 어떤 프롬프팅 테크닉이 연구되었고 방법론들이 있는지 살펴보실 때 실제 예제들과 함께 논문들을 함께 살펴보실 수 있어 유용하게 활용하실 수 있습니다.\n\n\n*4. A Survey of Large Language Models - <https:\/\/arxiv.org\/abs\/2303.18223>*\n해당 논문은 LLM에 관한 전반적인 히스토리와 종류, 방향 등의 종합적인 정보들을 포함하고 있습니다.\n특히 해당 논문에서는 LLM의 사전학습, 미세조정, 활용 및 평가에 초점을 맞춥니다.\n현재 LLM과 관련된 많은 연구들에서 인용하고있는 논문이니, 한번 시간을 내어 읽어보시면 좋을 듯 싶습니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "1f0e7ab41c31",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-28\/6741364411616_1f0e7ab41c31454e099e_72.png",
+            "first_name": "이승윤",
+            "real_name": "이승윤",
+            "display_name": "이승윤_멘토",
+            "team": "T05UGFFGL07",
+            "name": "dltmddbs100",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.promptingguide.ai\/techniques",
+                "id": 4,
+                "original_url": "https:\/\/www.promptingguide.ai\/techniques",
+                "fallback": "Prompting Techniques – Nextra",
+                "text": "A Comprehensive Overview of Prompt Engineering",
+                "title": "Prompting Techniques – Nextra",
+                "title_link": "https:\/\/www.promptingguide.ai\/techniques",
+                "service_name": "promptingguide.ai"
+            },
+            {
+                "from_url": "https:\/\/arxiv.org\/abs\/2303.18223",
+                "service_icon": "https:\/\/arxiv.org\/static\/browse\/0.3.4\/images\/icons\/apple-touch-icon.png",
+                "thumb_url": "https:\/\/arxiv.org\/static\/browse\/0.3.4\/images\/arxiv-logo-fb.png",
+                "thumb_width": 1200,
+                "thumb_height": 700,
+                "id": 5,
+                "original_url": "https:\/\/arxiv.org\/abs\/2303.18223",
+                "fallback": "arXiv.org: A Survey of Large Language Models",
+                "text": "Language is essentially a complex, intricate system of human expressions governed by grammatical rules. It poses a significant challenge to develop capable AI algorithms for comprehending and grasping a language. As a major approach, language modeling has been widely studied for language understanding and generation in the past two decades, evolving from statistical language models to neural language models. Recently, pre-trained language models (PLMs) have been proposed by pre-training Transformer models over large-scale corpora, showing strong capabilities in solving various NLP tasks. Since researchers have found that model scaling can lead to performance improvement, they further study the scaling effect by increasing the model size to an even larger size. Interestingly, when the parameter scale exceeds a certain level, these enlarged language models not only achieve a significant performance improvement but also show some special abilities that are not present in small-scale language models. To discriminate the difference in parameter scale, the research community has coined the term large language models (LLM) for the PLMs of significant size. Recently, the research on LLMs has been largely advanced by both academia and industry, and a remarkable progress is the launch of ChatGPT, which has attracted widespread attention from society. The technical evolution of LLMs has been making an important impact on the entire AI community, which would revolutionize the way how we develop and use AI algorithms. In this survey, we review the recent advances of LLMs by introducing the background, key findings, and mainstream techniques. In particular, we focus on four major aspects of LLMs, namely pre-training, adaptation tuning, utilization, and capacity evaluation. Besides, we also summarize the available resources for developing LLMs and discuss the remaining issues for future directions.",
+                "title": "A Survey of Large Language Models",
+                "title_link": "https:\/\/arxiv.org\/abs\/2303.18223",
+                "service_name": "arXiv.org"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZhhWe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "안녕하세요! Upstage AI Lab 수강생 여러분~!\n현재 질의응답 멘토를 담당하고있는 "
+                            },
+                            {
+                                "type": "text",
+                                "text": "이승윤 멘토",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "입니다.\n마지막 날에 앞서, 여러분의 자연어 처리 강좌의 수강에 있어서 더욱 도움을 드릴 수 있을만한 사이트들이나 아티클 몇 가지를 소개해 드리고자 합니다. 큰 부담없이 살펴보실 수 있도록 여러가지를 준비했습니다. 흥미로운 주제들이 있다면 이에 맞추어 읽어보시면 좋을 것 같습니다. 부디 여러분의 로드맵에 작은 도움이 되시기를 바랍니다!\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "1. Tokenizer - ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/huggingface.co\/docs\/transformers\/tokenizer_summary",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " (한글 버전: ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/huffon.github.io\/2020\/07\/05\/tokenizers\/",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ")",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n토크나이저는 언어모델의 vocab을 형성하는 아주 중요한 역할을 합니다.\n어떤 토큰화 방법을 쓰는가에 따라 언어모델이 문장이나 단어에 대해 파악하는 의미가 달라지고, 이는 곧 성능의 변화로 이어집니다.\n언어모델은 학습한 코퍼스에 따라 고유의 토크나이저를 가지는 경우가 많습니다. 그 과정에서 토큰화에 적용하는 여러 알고리즘들이 있는데요. 여기서는 대표적인 토크나이저들을 설명하며 체계적으로 정리하고 있습니다.\n\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "2. OpenAI API Usecase - ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/openai.com\/customer-stories",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nLLM은 실생활 뿐만 아니라, 특히 비즈니스 쪽에서도 많은 유즈케이스들이 발생하고 있습니다.\n이를 위해 새로운 서비스의 출시나 더 나은 서비스로의 개선또한 이루어지고 있고, 실제로 그 역할은 매우 큽니다.\n여기서는 OpenAI에서 제공하는 여러 LLM들의 API를 이용해 어떤 서비스에 활용하고 있는지를 세계 각 회사들 별로 설명합니다.\n\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "3. Prompt Engineering Techniques - ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.promptingguide.ai\/techniques",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n프롬프팅은 LLM의 활용에 있어서 매우 중요한 요소입니다. 어떤 프롬프트 혹은 어떤 프롬프팅 테크닉을 사용하느냐에 따라 모델의 생성분포는 크게 달라집니다.\n이에 따라 23년도부터 많은 프롬프팅 방법들이 연구를 통해 여러 논문들에 소개되었는데요.\n여기서는 이러한 프롬프팅 방법들을 설명과 예시와 함께 풍부하게 제공하고 있습니다.\n실제로 GPT를 활용하시거나 API를 사용하실 때, 어떤 프롬프팅 테크닉이 연구되었고 방법론들이 있는지 살펴보실 때 실제 예제들과 함께 논문들을 함께 살펴보실 수 있어 유용하게 활용하실 수 있습니다.\n\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "4. A Survey of Large Language Models - ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/arxiv.org\/abs\/2303.18223",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n해당 논문은 LLM에 관한 전반적인 히스토리와 종류, 방향 등의 종합적인 정보들을 포함하고 있습니다.\n특히 해당 논문에서는 LLM의 사전학습, 미세조정, 활용 및 평가에 초점을 맞춥니다.\n현재 LLM과 관련된 많은 연구들에서 인용하고있는 논문이니, 한번 시간을 내어 읽어보시면 좋을 듯 싶습니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0600HN24UX",
+                    "U05V2T62KUJ",
+                    "U060D1KJECR",
+                    "U05VAHXECP6",
+                    "U05VADPQPCL",
+                    "U05V9N22ZUK",
+                    "U060C67EYQ5",
+                    "U0600GGHJTC",
+                    "U06P0H0V3UY"
+                ],
+                "count": 9
+            },
+            {
+                "name": "meow_noddies",
+                "users": [
+                    "U05V2PMAVNE",
+                    "U05VAHXECP6",
+                    "U05VADPQPCL",
+                    "U060C67EYQ5",
+                    "U06P0H0V3UY"
+                ],
+                "count": 5
+            },
+            {
+                "name": "sparkles",
+                "users": [
+                    "U05VAHXECP6",
+                    "U05VADPQPCL",
+                    "U060C67EYQ5",
+                    "U06P0H0V3UY"
+                ],
+                "count": 4
+            },
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U05V7H78DUM",
+                    "U060C67EYQ5"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

@@ -1,0 +1,298 @@
+[
+    {
+        "user": "U05V7V2AV8A",
+        "type": "message",
+        "ts": "1705566482.334939",
+        "client_msg_id": "a8ee218a-3866-444c-b9bc-770c0300c664",
+        "text": "std는 1로 잘 나오는데 평균만 저렇게 나와서요 <@U06A5A0Q4PM>",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "28368614e02a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5987346071766_28368614e02abbfb71bd_72.png",
+            "first_name": "andrew",
+            "real_name": "andrew jang",
+            "display_name": "장준규",
+            "team": "T05UGFFGL07",
+            "name": "goldenbeluga",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1705562549.339489",
+        "parent_user_id": "U05V7V2AV8A",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NDGFo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "std는 1로 잘 나오는데 평균만 저렇게 나와서요 "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06A5A0Q4PM"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06A5A0Q4PM",
+        "type": "message",
+        "ts": "1705568524.315169",
+        "client_msg_id": "300d0b54-b183-4e71-8fcc-238e5eba0ae5",
+        "text": "말씀해주신 문제에서 분산과 평균은 관련이 없구요. 어떤 계산을 하는 과정에서 부동소수점 오차가 발생하는 것이므로, 현재 주어진 자료의 평균을 계산하는 과정에서 부동 소수점 오차가 누적되는구나 라고 생각하면 됩니다.\n다른 자료에서는 분산에서만 오차가 생길 수도 있고, 매번 다를 수 있습니다.\n제가 자료를 보지 못해 정확하게는 알 수 없지만,  추정하기로는 부동소수점 문제 자체가 누적 오차로부터 발생하는 것이므로 자료가 많은 경우 하나씩 더해지며 오차가 누적될 것이고, 평균을 계산하는 과정에서 모든 값의 합을 구해야하기 때문에 평균을 계산하는 과정에서 오차가 더 크게 발생했을 것이라고 생각할 수 있겠습니다. 그리고 그러한 오차가 현재 사용한 자료에서 많이 발생한 것이구요.\n아래 자료가 도움이 될 것으로 보입니다.\n<https:\/\/tcpschool.com\/cpp\/cpp_datatype_floatingPointNumber|https:\/\/tcpschool.com\/cpp\/cpp_datatype_floatingPointNumber>",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "g38fcfae5b9e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/38fcfae5b9ea7884bff301af052034aa.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "성예닮",
+            "real_name": "성예닮",
+            "display_name": "성예닮 멘토",
+            "team": "T05UGFFGL07",
+            "name": "mybirth0407",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1705562549.339489",
+        "parent_user_id": "U05V7V2AV8A",
+        "attachments": [
+            {
+                "image_url": "http:\/\/tcpschool.com\/img\/tcpschool_og_logo.png",
+                "image_width": 800,
+                "image_height": 800,
+                "image_bytes": 16337,
+                "from_url": "https:\/\/tcpschool.com\/cpp\/cpp_datatype_floatingPointNumber",
+                "id": 1,
+                "original_url": "https:\/\/tcpschool.com\/cpp\/cpp_datatype_floatingPointNumber",
+                "fallback": "코딩교육 티씨피스쿨",
+                "text": "4차산업혁명, 코딩교육, 소프트웨어교육, 코딩기초, SW코딩, 기초코딩부터 자바 파이썬 등",
+                "title": "코딩교육 티씨피스쿨",
+                "title_link": "https:\/\/tcpschool.com\/cpp\/cpp_datatype_floatingPointNumber",
+                "service_name": "tcpschool.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MQHKv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "말씀해주신 문제에서 분산과 평균은 관련이 없구요. 어떤 계산을 하는 과정에서 부동소수점 오차가 발생하는 것이므로, 현재 주어진 자료의 평균을 계산하는 과정에서 부동 소수점 오차가 누적되는구나 라고 생각하면 됩니다.\n다른 자료에서는 분산에서만 오차가 생길 수도 있고, 매번 다를 수 있습니다.\n제가 자료를 보지 못해 정확하게는 알 수 없지만,  추정하기로는 부동소수점 문제 자체가 누적 오차로부터 발생하는 것이므로 자료가 많은 경우 하나씩 더해지며 오차가 누적될 것이고, 평균을 계산하는 과정에서 모든 값의 합을 구해야하기 때문에 평균을 계산하는 과정에서 오차가 더 크게 발생했을 것이라고 생각할 수 있겠습니다. 그리고 그러한 오차가 현재 사용한 자료에서 많이 발생한 것이구요.\n아래 자료가 도움이 될 것으로 보입니다.\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/tcpschool.com\/cpp\/cpp_datatype_floatingPointNumber",
+                                "text": "https:\/\/tcpschool.com\/cpp\/cpp_datatype_floatingPointNumber"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U06D18V7FNX"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05V7V2AV8A",
+        "type": "message",
+        "ts": "1705570241.844419",
+        "client_msg_id": "8698ab4e-bde8-4d5b-a12e-86f099d00551",
+        "text": "std도 평균에서 구해지는거니깐 누적오차가 생길 거 같아요\n위에 표처럼 딱 1로 떨어져서 나오는게 이상한 거 같아요...",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "28368614e02a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5987346071766_28368614e02abbfb71bd_72.png",
+            "first_name": "andrew",
+            "real_name": "andrew jang",
+            "display_name": "장준규",
+            "team": "T05UGFFGL07",
+            "name": "goldenbeluga",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1705562549.339489",
+        "parent_user_id": "U05V7V2AV8A",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "v51c9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "std도 평균에서 구해지는거니깐 누적오차가 생길 거 같아요\n위에 표처럼 딱 1로 떨어져서 나오는게 이상한 거 같아요..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06A5A0Q4PM",
+        "type": "message",
+        "ts": "1705571687.370719",
+        "client_msg_id": "f6503ece-4e91-4cb2-89fb-6abcd5854b96",
+        "text": "누적 오차가 생길것 같다고 느끼는 것은 합의되지 않은 생각이므로, 때론 위험한 추정일 수 있구요. 우리가 계산의 도구로 활용하는 기계에서는 무시할 수 있는 수준이라 판단되어 절삭하여 표현된 것입니다.\n\n표준 편차에서 1.0이라고 보이는 것이 실제 1이 아니구요. 1 + 0.0000000000000000000125 이런 값일 텐데, 소수부의 부동소수점 오류를 기계에서 무시할 수 있는 수준이므로 우리에게 표기해줄 때 1로 표기한 것입니다.\n평균도 마찬가지로 이러한 값으로, 0 + 000000...2893... 이런 식으로 표현 되어 위와 같이 아주 작은 수로 표기된 겁니다. 다만, 이 경우는 무시하지 않고 표기해야 할 수준인 것으로 프로그래밍 되어있는 것입니다.\n\n많은 분야에서 이러한 부동소수점 오차가 발생하지만, 특히 기계 학습 , 대용량 컴퓨팅 등에서 자주 발생하므로 주의가 필요하지만, 현재 단계에서는 크게 고려하지 않아도 된다고만 말씀드리고 싶습니다~",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "g38fcfae5b9e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/38fcfae5b9ea7884bff301af052034aa.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "성예닮",
+            "real_name": "성예닮",
+            "display_name": "성예닮 멘토",
+            "team": "T05UGFFGL07",
+            "name": "mybirth0407",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1705562549.339489",
+        "parent_user_id": "U05V7V2AV8A",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xjxkw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "누적 오차가 생길것 같다고 느끼는 것은 합의되지 않은 생각이므로, 때론 위험한 추정일 수 있구요. 우리가 계산의 도구로 활용하는 기계에서는 무시할 수 있는 수준이라 판단되어 절삭하여 표현된 것입니다.\n\n표준 편차에서 1.0이라고 보이는 것이 실제 1이 아니구요. 1 + 0.0000000000000000000125 이런 값일 텐데, 소수부의 부동소수점 오류를 기계에서 무시할 수 있는 수준이므로 우리에게 표기해줄 때 1로 표기한 것입니다.\n평균도 마찬가지로 이러한 값으로, 0 + 000000...2893... 이런 식으로 표현 되어 위와 같이 아주 작은 수로 표기된 겁니다. 다만, 이 경우는 무시하지 않고 표기해야 할 수준인 것으로 프로그래밍 되어있는 것입니다.\n\n많은 분야에서 이러한 부동소수점 오차가 발생하지만, 특히 기계 학습 , 대용량 컴퓨팅 등에서 자주 발생하므로 주의가 필요하지만, 현재 단계에서는 크게 고려하지 않아도 된다고만 말씀드리고 싶습니다~"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U06D18V7FNX",
+                    "U05UN5DQ423",
+                    "U05V7V2AV8A"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "user": "U06D18V7FNX",
+        "type": "message",
+        "ts": "1705634114.222619",
+        "client_msg_id": "ac105b45-d1ff-4d40-a323-0aa7453e9313",
+        "text": "안녕하세요 준규님. 회귀 모델에 Y (target) 값에 표준화를 적용시키는 경우가 있는데, 이는 학습의 효율을 향상 (모델의 일반화, 수렴 속도 등)시키는 데 도움이 되기 때문이라고 생각해주시면 될 것 같습니다.\n그 외에도 평가 metric (MSE)을 계산할 때에도 모든 값이 평균인 0 주위에 분포하게 되면 모델의 에러가 얼마나 작고 큰지 보다 직관적으로 해석이 가능하다는 장점도 있습니다.\n요약하자면, Y의 표준화가 필수는 아니지만 크고 작은 장점들이 존재하는 경우가 있어, 태스크나 데이터셋, 또 모델의 종류에 따라 적용시키는 경우가 있습니다. 해당 실습 자료에서 표준화 과정 없는 세팅에서도 실험을 진행해 보시고, 차이점을 관찰해 보시면 도움이 될 것 같습니다:)",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "9629c53873da",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-15\/6465589074966_9629c53873da699b1d6f_72.jpg",
+            "first_name": "Jaein",
+            "real_name": "Jaein Kim",
+            "display_name": "김재인 멘토",
+            "team": "T05UGFFGL07",
+            "name": "jaeink.seoul",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1705563012.840909",
+        "parent_user_id": "U05V7V2AV8A",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nbqKB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "안녕하세요 준규님. 회귀 모델에 Y (target) 값에 표준화를 적용시키는 경우가 있는데, 이는 학습의 효율을 향상 (모델의 일반화, 수렴 속도 등)시키는 데 도움이 되기 때문이라고 생각해주시면 될 것 같습니다.\n그 외에도 평가 metric (MSE)을 계산할 때에도 모든 값이 평균인 0 주위에 분포하게 되면 모델의 에러가 얼마나 작고 큰지 보다 직관적으로 해석이 가능하다는 장점도 있습니다.\n요약하자면, Y의 표준화가 필수는 아니지만 크고 작은 장점들이 존재하는 경우가 있어, 태스크나 데이터셋, 또 모델의 종류에 따라 적용시키는 경우가 있습니다. 해당 실습 자료에서 표준화 과정 없는 세팅에서도 실험을 진행해 보시고, 차이점을 관찰해 보시면 도움이 될 것 같습니다:)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06D18V7FNX",
+        "type": "message",
+        "ts": "1705634542.644749",
+        "client_msg_id": "45ebd602-f6a2-4f51-bf4a-2cd042084acd",
+        "text": "예리한 질문을 주신 것 같네요! 말씀하신대로 매우 작은 숫자이긴 하지만 평균이 0으로 딱 떨어지지 않아서 의아하실 수 있을 것 같습니다. 이 현상은 컴퓨터가 소수에 대한 계산을 완벽하게 표현하지 못하는 한계라고 생각해 주시면 되는데, 누적 오차를 걱정하실 정도의 소숫점 단위 (e-16 등..)가 아닙니다.\n표준편차가 1로 잘 나오는 이유는 표준화 과정에서 이미 각 값에서 평균을 뺀 뒤 그 결과를 표준편차로 나누어 조정한 것이기 때문에 소수점 오차의 영향을 거의 받지 않는다고 생각해주시면 좋을 것 같습니다.\n위 예닮 멘토님께서 자료와 함께 좋은 설명들을 이미 해주셨는데요, 추가적으로 궁금한 사항은 이어서 질문 남겨주시기 바랍니다:)",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "9629c53873da",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-15\/6465589074966_9629c53873da699b1d6f_72.jpg",
+            "first_name": "Jaein",
+            "real_name": "Jaein Kim",
+            "display_name": "김재인 멘토",
+            "team": "T05UGFFGL07",
+            "name": "jaeink.seoul",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1705562549.339489",
+        "parent_user_id": "U05V7V2AV8A",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qXXcd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "예리한 질문을 주신 것 같네요! 말씀하신대로 매우 작은 숫자이긴 하지만 평균이 0으로 딱 떨어지지 않아서 의아하실 수 있을 것 같습니다. 이 현상은 컴퓨터가 소수에 대한 계산을 완벽하게 표현하지 못하는 한계라고 생각해 주시면 되는데, 누적 오차를 걱정하실 정도의 소숫점 단위 (e-16 등..)가 아닙니다.\n표준편차가 1로 잘 나오는 이유는 표준화 과정에서 이미 각 값에서 평균을 뺀 뒤 그 결과를 표준편차로 나누어 조정한 것이기 때문에 소수점 오차의 영향을 거의 받지 않는다고 생각해주시면 좋을 것 같습니다.\n위 예닮 멘토님께서 자료와 함께 좋은 설명들을 이미 해주셨는데요, 추가적으로 궁금한 사항은 이어서 질문 남겨주시기 바랍니다:)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U05UN5DQ423",
+                    "U060C67EYQ5",
+                    "U05V7V2AV8A"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

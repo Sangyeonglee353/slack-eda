@@ -1,0 +1,1068 @@
+[
+    {
+        "user": "U05VADPQPCL",
+        "type": "message",
+        "ts": "1714633206.765419",
+        "edited": {
+            "user": "U05VADPQPCL",
+            "ts": "1714718962.000000"
+        },
+        "client_msg_id": "ee4e5ceb-5dd9-4059-b93d-7c986708030c",
+        "text": "<!channel>\n*AI 실전 학습 경진대회 세미나 안내*\n\n안녕하세요 Upstagea AI Lab 1기 여러분!!\n드디어 마지막 경진대회가 끝이 났습니다.\n약 한 달이라는 긴 시간 동안 경진대회를 진행하였는데, 이번 경진 대회를 통해 많은 것을 얻으셨길 바랍니다.\n경진대회가 끝나 마지막 세미나도 진행되는데 관련하여 아래 안내 드리니 확인하시고 발표 준비 부탁 드립니다!\n이번 세미나에서는 Upstage 강사님들께서 출강하셔 직접 피드백을 해주신다고 하시니 세미나를 통해 많은 인사이트 얻어가시길 바랍니다!\n\n> *AI 실전 학습 경진대회 세미나 안내*\n• 세미나 일정: *5\/3(금) 14:00 ~ 19:00 (5H)*\n• *세미나 발표 Time LIne*\n    ◦ 14:00 ~ 14:10 \/ 발표회 Intro(PM)\n    ◦ :technologist: *RecSys 피드백 담당: 김현우 강사님*\n        ▪︎ 14:10 ~ 14:40 \/ RecSys 2조 발표 & 피드백\n        ▪︎ 14:40 ~ 15:10 \/ *`휴식시간`*\n    ◦ :technologist: *Information Retrieval 피드백 담당: 배재경 강사님*\n        ▪︎ 15:10 ~ 15:30 \/ IR 1조 발표 & 피드백\n        ▪︎ 15:30 ~ 15:50 \/ IR 2조 발표 & 피드백\n        ▪︎ 15:50 ~ 16:10 \/ IR 3조 발표 & 피드백\n        ▪︎ 16:10 ~ 16:30 \/ IR 4조 발표 & 피드백\n        ▪︎ 16:30 ~ 16:50 \/ *`휴식시간`*\n    ◦ :technologist: *OCR 피드백 담당: 김다현 강사님*\n        ▪︎ 16:50 ~ 17:20 \/ OCR 1조 발표 & 피드백\n        ▪︎ 17:20 ~ 17:50 \/ OCR 3조 발표 & 피드백 \n        ▪︎ 17:50 ~ 18:10 \/ *`휴식시간`*\n    ◦ :technologist: *Anomaly Detection 피드백 담당: 송원호 강사님*\n        ▪︎ 18:10 ~ 18:30 \/ AD 3조 발표 & 피드백\n이외에도 궁금하신 사항이 있으시다면 해당 스레드 댓글 혹은 <#C0606642LHW|1_운영질문방> 에 질문 부탁 드립니다. :pray:",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "07e7ca00b8f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5991092857253_07e7ca00b8f0d0b13ba1_72.png",
+            "first_name": "패스트캠퍼스박기준",
+            "real_name": "패스트캠퍼스박기준",
+            "display_name": "LM 박기준",
+            "team": "T05UGFFGL07",
+            "name": "pgj.fc.career",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EPjMu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "AI 실전 학습 경진대회 세미나 안내",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n안녕하세요 Upstagea AI Lab 1기 여러분!!\n드디어 마지막 경진대회가 끝이 났습니다.\n약 한 달이라는 긴 시간 동안 경진대회를 진행하였는데, 이번 경진 대회를 통해 많은 것을 얻으셨길 바랍니다.\n경진대회가 끝나 마지막 세미나도 진행되는데 관련하여 아래 안내 드리니 확인하시고 발표 준비 부탁 드립니다!\n이번 세미나에서는 Upstage 강사님들께서 출강하셔 직접 피드백을 해주신다고 하시니 세미나를 통해 많은 인사이트 얻어가시길 바랍니다!\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "AI 실전 학습 경진대회 세미나 안내",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "세미나 일정: "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "5\/3(금) 14:00 ~ 19:00 (5H)",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "세미나 발표 Time LIne",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "14:00 ~ 14:10 \/ 발표회 Intro(PM)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "emoji",
+                                        "name": "technologist",
+                                        "unicode": "1f9d1-200d-1f4bb",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " RecSys 피드백 담당: 김현우 강사님",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "14:10 ~ 14:40 \/ RecSys 2조 발표 & 피드백"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "14:40 ~ 15:10 \/ "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "휴식시간",
+                                        "style": {
+                                            "bold": true,
+                                            "code": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 2,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "emoji",
+                                        "name": "technologist",
+                                        "unicode": "1f9d1-200d-1f4bb",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " Information Retrieval 피드백 담당: 배재경 강사님",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "15:10 ~ 15:30 \/ IR 1조 발표 & 피드백"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "15:30 ~ 15:50 \/ IR 2조 발표 & 피드백"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "15:50 ~ 16:10 \/ IR 3조 발표 & 피드백"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "16:10 ~ 16:30 \/ IR 4조 발표 & 피드백"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "16:30 ~ 16:50 \/ "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "휴식시간",
+                                        "style": {
+                                            "bold": true,
+                                            "code": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 2,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "emoji",
+                                        "name": "technologist",
+                                        "unicode": "1f9d1-200d-1f4bb",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " OCR 피드백 담당: 김다현 강사님",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "16:50 ~ 17:20 \/ OCR 1조 발표 & 피드백"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "17:20 ~ 17:50 \/ OCR 3조 발표 & 피드백 "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "17:50 ~ 18:10 \/ "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "휴식시간",
+                                        "style": {
+                                            "bold": true,
+                                            "code": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 2,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "emoji",
+                                        "name": "technologist",
+                                        "unicode": "1f9d1-200d-1f4bb",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " Anomaly Detection 피드백 담당: 송원호 강사님",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "18:10 ~ 18:30 \/ AD 3조 발표 & 피드백"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 2,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n이외에도 궁금하신 사항이 있으시다면 해당 스레드 댓글 혹은 "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C0606642LHW"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 에 질문 부탁 드립니다. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U05V4KZR3NW",
+                    "U05UN7M2GKZ",
+                    "U05V379NETU",
+                    "U05V9N22ZUK",
+                    "U065TBUL5EE",
+                    "U05V2T62KUJ"
+                ],
+                "count": 6
+            }
+        ]
+    },
+    {
+        "user": "U05VADPQPCL",
+        "type": "message",
+        "ts": "1714635001.008769",
+        "client_msg_id": "37cedbbc-832a-4f24-a51b-31ee53d209e8",
+        "text": "<!channel>\n*Upstage AI Lab 1기 수료식 롤링 페이퍼*\n\n안녕하세요. Upstage AI Lab 1기 여러분!!\n\n이제 다음 주 금요일이면 저희 과정의 수료식이 진행 됩니다.\n마지막인 만큼 7개월 동안 함께한 동료분들에게 응원의 말 나누는 건 어떤가요?!\n\n온라인이다 보니 소통의 한계가 있었지만 프로젝트, 경진대회, 피어세션 등 서로 많은 얘기들을 나누셨을 거라고 생각합니다.\n함께 7개월이라는 긴 시간을 함께 과정을 진행하고, 수료 이후 취업\/진학 등의 힘들고 고된 길을 나아가는 동료들을 위해\n그리고 나 스스로를 위하기도 하는 응원의 메시지를 남길 수 있도록 롤링 페이퍼를 작성하고자 합니다.\n\n&gt; *롤링 페이퍼 작성 안내*\n• <https:\/\/forms.gle\/Jsyr2Mz8Pxije8n9A|Upstage AI Lab 1기 롤링페이퍼 작성하기>\n• 익명으로 진행하니, 부담 없이 남겨주세요.\n",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "07e7ca00b8f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5991092857253_07e7ca00b8f0d0b13ba1_72.png",
+            "first_name": "패스트캠퍼스박기준",
+            "real_name": "패스트캠퍼스박기준",
+            "display_name": "LM 박기준",
+            "team": "T05UGFFGL07",
+            "name": "pgj.fc.career",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "p8e1Q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Upstage AI Lab 1기 수료식 롤링 페이퍼",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n안녕하세요. Upstage AI Lab 1기 여러분!!\n\n이제 다음 주 금요일이면 저희 과정의 수료식이 진행 됩니다.\n마지막인 만큼 7개월 동안 함께한 동료분들에게 응원의 말 나누는 건 어떤가요?!\n\n온라인이다 보니 소통의 한계가 있었지만 프로젝트, 경진대회, 피어세션 등 서로 많은 얘기들을 나누셨을 거라고 생각합니다.\n함께 7개월이라는 긴 시간을 함께 과정을 진행하고, 수료 이후 취업\/진학 등의 힘들고 고된 길을 나아가는 동료들을 위해\n그리고 나 스스로를 위하기도 하는 응원의 메시지를 남길 수 있도록 롤링 페이퍼를 작성하고자 합니다.\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "롤링 페이퍼 작성 안내",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/forms.gle\/Jsyr2Mz8Pxije8n9A",
+                                        "text": "Upstage AI Lab 1기 롤링페이퍼 작성하기"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "익명으로 진행하니, 부담 없이 남겨주세요."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U05UW74NJ0N",
+                    "U05V9LP47V0",
+                    "U0600GGHJTC",
+                    "U05V5B27DK7",
+                    "U0608EG7YEA",
+                    "U05V4KZR3NW",
+                    "U065TBUL5EE",
+                    "U05V2T62KUJ"
+                ],
+                "count": 8
+            }
+        ]
+    },
+    {
+        "user": "U05VADPQPCL",
+        "type": "message",
+        "ts": "1714636713.244219",
+        "client_msg_id": "6c30e2db-e440-484e-99ff-9e5e6d0758da",
+        "text": "<!channel>\n:computer: *노트북 반납 안내*\n안녕하세요 Upstage AI Lab 1기 여러분!!\n이전에 대여 진행했었던 노트북 반납에 관한 안내를 아래 드리니 참고하시고 일정에 맞춰 반납 부탁 드립니다!\n\n&gt; *노트북 반납 일정 및 장소*\n• 일정: 5월 7일(화) ~ 5월 17일(금) 오전 10시~오후 19시\n• 장소: 서울특별시 강남구 강남대로 364(미왕빌딩) 10A Office\n&gt;  *반납 시 유의사항*\n• 미왕빌딩 엘리베이터가 많이 혼잡합니다. 방문 시 짝수 층 엘리베이터를 사용해주세요.\n• 반납 담당자는 박기준 매니저 입니다. 10층 방문 후 <@U05VADPQPCL> 매니저를 호출해주시기 바랍니다.\n• 기한 내 노트북 미반납 시, 추가 요금이 청구될 수 있습니다. 기한을 지켜주세요.\n기타 문의 사항은 해당 스레드 댓글 혹은  #1_운영질문방에 남겨주시기 바랍니다 :pray:",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "07e7ca00b8f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5991092857253_07e7ca00b8f0d0b13ba1_72.png",
+            "first_name": "패스트캠퍼스박기준",
+            "real_name": "패스트캠퍼스박기준",
+            "display_name": "LM 박기준",
+            "team": "T05UGFFGL07",
+            "name": "pgj.fc.career",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1714636713.244219",
+        "reply_count": 18,
+        "reply_users_count": 9,
+        "latest_reply": "1715911233.642939",
+        "reply_users": [
+            "U05V2HL22M9",
+            "U05VADPQPCL",
+            "U06022Z2TED",
+            "U05V2T62KUJ",
+            "U05VB9FA6MS",
+            "U05V7V2AV8A",
+            "U05VC7EEY5Q",
+            "U0600C60ZK4",
+            "U05UVV5CVQE"
+        ],
+        "replies": [
+            {
+                "user": "U05V2HL22M9",
+                "ts": "1715307586.657579"
+            },
+            {
+                "user": "U05VADPQPCL",
+                "ts": "1715307734.772829"
+            },
+            {
+                "user": "U05V2HL22M9",
+                "ts": "1715307779.093369"
+            },
+            {
+                "user": "U05VADPQPCL",
+                "ts": "1715307804.148929"
+            },
+            {
+                "user": "U05V2HL22M9",
+                "ts": "1715312679.791339"
+            },
+            {
+                "user": "U06022Z2TED",
+                "ts": "1715566719.076199"
+            },
+            {
+                "user": "U05V2T62KUJ",
+                "ts": "1715827761.835729"
+            },
+            {
+                "user": "U05VB9FA6MS",
+                "ts": "1715830756.049999"
+            },
+            {
+                "user": "U05VADPQPCL",
+                "ts": "1715834450.809579"
+            },
+            {
+                "user": "U05VB9FA6MS",
+                "ts": "1715834486.760029"
+            },
+            {
+                "user": "U05VADPQPCL",
+                "ts": "1715834565.119969"
+            },
+            {
+                "user": "U05V7V2AV8A",
+                "ts": "1715835709.155069"
+            },
+            {
+                "user": "U05VC7EEY5Q",
+                "ts": "1715837954.839689"
+            },
+            {
+                "user": "U05VC7EEY5Q",
+                "ts": "1715841078.805079"
+            },
+            {
+                "user": "U0600C60ZK4",
+                "ts": "1715841379.116929"
+            },
+            {
+                "user": "U05UVV5CVQE",
+                "ts": "1715842039.697339"
+            },
+            {
+                "user": "U05UVV5CVQE",
+                "ts": "1715908038.563249"
+            },
+            {
+                "user": "U0600C60ZK4",
+                "ts": "1715911233.642939"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "K0sX6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "computer",
+                                "unicode": "1f4bb",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " 노트북 반납 안내",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n안녕하세요 Upstage AI Lab 1기 여러분!!\n이전에 대여 진행했었던 노트북 반납에 관한 안내를 아래 드리니 참고하시고 일정에 맞춰 반납 부탁 드립니다!\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "노트북 반납 일정 및 장소",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "일정: 5월 7일(화) ~ 5월 17일(금) 오전 10시~오후 19시"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "장소: 서울특별시 강남구 강남대로 364(미왕빌딩) 10A Office"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": " 반납 시 유의사항",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "미왕빌딩 엘리베이터가 많이 혼잡합니다. 방문 시 짝수 층 엘리베이터를 사용해주세요."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "반납 담당자는 박기준 매니저 입니다. 10층 방문 후 "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U05VADPQPCL"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " 매니저를 호출해주시기 바랍니다."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "기한 내 노트북 미반납 시, 추가 요금이 청구될 수 있습니다. 기한을 지켜주세요."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n기타 문의 사항은 해당 스레드 댓글 혹은  #1_운영질문방에 남겨주시기 바랍니다 "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05VAHXECP6",
+        "type": "message",
+        "ts": "1714698000.271799",
+        "client_msg_id": "27e64488-ac21-4510-a971-41fd4811bf48",
+        "text": "<!channel>\n안녕하세요. Upstage AI Lab 1기 수강생 여러분!\n좋은 아침입니다! :smiling_face_with_3_hearts:\n금일 벌써 마지막 세미나입니다. 지금까지 정말 수고 많으셨습니다.\n먼 길 달려오느라 힘드셨죠? 이제 곧 수료가 다가오고 있는데요.\n\n여러분이 7개월 동안 열심히 노력한 결과물로, 수료증을 발급해드리려 합니다.\n국문 PDF 수료증은 수료하신 모든 분들에게 발급해드리지만,\n*영문 PDF*은 신청하신 분들에게만 발급되니,\n아래 내용 잘 확인하시고 *05\/07(화) 13:00*까지 설문지 제출해주세요!\n\n------------------------------------------------------\n\n:pencil2: *PDF 영문 수료증 수요 조사 안내* :pencil2:\n\n1. *PDF 수료증은 전원 발급됩니다.*\n    ◦ 단, 국문으로 발급되는 것이 기본이므로 영문 버전이 필요하신 분들은 설문폼에 작성해주세요.\n2. *수료증 신청 기한*\n    ◦ 05\/07(화) 13:00\n        ▪︎ 신청 기한 이후에 접수되는 건들은 그 어떠한 이유로도 영문 수료증 발급해드리지 않습니다.\n3. *신청 구글 폼* : <https:\/\/docs.google.com\/forms\/d\/15Nw8Dmv3xWrnp8WIQBfKW7jA0YZL5ptinvOfsgGNYaI\/edit|[패스트캠퍼스] Upstage AI Lab 1기 - 영문 수료증 수요 조사>\n--------------------------------------------------------\n\n오늘도 좋은 하루 보내시길 바랍니다. 감사합니다!  :heart_eyes_cat:",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "50abee101814",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-11\/6044824153712_50abee1018149e21919b_72.jpg",
+            "first_name": "이상영",
+            "real_name": "이상영",
+            "display_name": "FC 이상영 매니저",
+            "team": "T05UGFFGL07",
+            "name": "sangyeong.lee",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1714698000.271799",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1715072133.766279",
+        "reply_users": [
+            "U05V4KZR3NW",
+            "U05VAHXECP6"
+        ],
+        "replies": [
+            {
+                "user": "U05V4KZR3NW",
+                "ts": "1714749535.955969"
+            },
+            {
+                "user": "U05VAHXECP6",
+                "ts": "1715072133.766279"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1715072133.766279",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TE8gi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n안녕하세요. Upstage AI Lab 1기 수강생 여러분!\n좋은 아침입니다! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smiling_face_with_3_hearts",
+                                "unicode": "1f970"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n금일 벌써 마지막 세미나입니다. 지금까지 정말 수고 많으셨습니다.\n먼 길 달려오느라 힘드셨죠? 이제 곧 수료가 다가오고 있는데요.\n\n여러분이 7개월 동안 열심히 노력한 결과물로, 수료증을 발급해드리려 합니다.\n국문 PDF 수료증은 수료하신 모든 분들에게 발급해드리지만,\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "영문 PDF",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "은 신청하신 분들에게만 발급되니,\n아래 내용 잘 확인하시고 "
+                            },
+                            {
+                                "type": "text",
+                                "text": "05\/07(화) 13:00",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "까지 설문지 제출해주세요!\n\n------------------------------------------------------\n\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pencil2",
+                                "unicode": "270f-fe0f",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " PDF 영문 수료증 수요 조사 안내 ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pencil2",
+                                "unicode": "270f-fe0f",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "PDF 수료증은 전원 발급됩니다.",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "단, 국문으로 발급되는 것이 기본이므로 영문 버전이 필요하신 분들은 설문폼에 작성해주세요."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "수료증 신청 기한",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "offset": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "05\/07(화) 13:00"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "신청 기한 이후에 접수되는 건들은 그 어떠한 이유로도 영문 수료증 발급해드리지 않습니다."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 2,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "신청 구글 폼",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " : "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/docs.google.com\/forms\/d\/15Nw8Dmv3xWrnp8WIQBfKW7jA0YZL5ptinvOfsgGNYaI\/edit",
+                                        "text": "[패스트캠퍼스] Upstage AI Lab 1기 - 영문 수료증 수요 조사"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "offset": 2,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n--------------------------------------------------------\n\n오늘도 좋은 하루 보내시길 바랍니다. 감사합니다!  "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "heart_eyes_cat",
+                                "unicode": "1f63b"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U05UW74NJ0N",
+                    "U05V9LP47V0",
+                    "U0600GGHJTC",
+                    "U05VC7EEY5Q"
+                ],
+                "count": 4
+            }
+        ]
+    }
+]

@@ -1,0 +1,137 @@
+[
+    {
+        "user": "U060LG0BT89",
+        "type": "message",
+        "ts": "1709773054.926489",
+        "client_msg_id": "e99c6b47-5fe3-4ecd-8309-8870b3de9837",
+        "text": "<@U05V81G5ZDY> <@U05UNC6FNK1> 예비군 훈련 일정 공유드립니다. 김준호 \/ 2024-03-07 ~ 2024-03-07 \/ 작계훈련 (1차) 훈련 예정입니다. 관련 서류는 안내해주신대로 작계 훈련이 끝나고 구글폼으로 재제출하겠습니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "g273c76b80b5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/273c76b80b5c013cab6c608d10041dd4.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "김준호",
+            "real_name": "김준호",
+            "display_name": "",
+            "team": "T05UGFFGL07",
+            "name": "demyank88",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1709773054.926489",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1709892047.223019",
+        "reply_users": [
+            "U05VADPQPCL"
+        ],
+        "replies": [
+            {
+                "user": "U05VADPQPCL",
+                "ts": "1709892047.223019"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cQbrW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05V81G5ZDY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05UNC6FNK1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 예비군 훈련 일정 공유드립니다. 김준호 \/ 2024-03-07 ~ 2024-03-07 \/ 작계훈련 (1차) 훈련 예정입니다. 관련 서류는 안내해주신대로 작계 훈련이 끝나고 구글폼으로 재제출하겠습니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "military_helmet",
+                "users": [
+                    "U05V81G5ZDY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U060D1KJECR",
+        "type": "message",
+        "ts": "1709774315.507519",
+        "client_msg_id": "e7d2aa44-d30f-45fe-86fb-6a4a1fb5e546",
+        "text": "<@U05UNC6FNK1> <@U05V81G5ZDY>\n안녕하세요 매니저님, 24년 3월 6일 예비군 훈련에 대한 출석대장과 증빙서류 구글폼으로 제출했습니다.\n확인해주시면 감사하겠습니다. 감사합니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "d024d71b810e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-06\/5993779835878_d024d71b810e837e9532_72.jpg",
+            "first_name": "이현진",
+            "real_name": "이현진",
+            "display_name": "이현진",
+            "team": "T05UGFFGL07",
+            "name": "jinintg",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1709520738.866459",
+        "parent_user_id": "U060D1KJECR",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xAVnK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05UNC6FNK1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05V81G5ZDY"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n안녕하세요 매니저님, 24년 3월 6일 예비군 훈련에 대한 출석대장과 증빙서류 구글폼으로 제출했습니다.\n확인해주시면 감사하겠습니다. 감사합니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands::skin-tone-2",
+                "users": [
+                    "U05V81G5ZDY"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

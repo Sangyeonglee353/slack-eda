@@ -1,0 +1,270 @@
+[
+    {
+        "user": "U060BLVQYHW",
+        "type": "message",
+        "ts": "1706155330.129439",
+        "client_msg_id": "4d4d05d5-4393-4252-aaa2-26ef07f39bf1",
+        "text": "<@U05V81G5ZDY> <@U05UNC6FNK1>\n대상 : 국민취업지원 서류\n필요한 기간 : 23년 12월 25일 ~ 24년 01월 24일\n필요 서류 : 출석부\n이메일 : <mailto:happer96@gmail.com|happer96@gmail.com>\n연락처 : 01062273648\n\n안녕하세요 해당 서류 신청합니다.\n감사합니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "g6cb970458b5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6cb970458b5672091fa231bd078f93da.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+            "first_name": "Sang",
+            "real_name": "Sang Hyuk SEO",
+            "display_name": "서상혁",
+            "team": "T05UGFFGL07",
+            "name": "happer96",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1706155330.129439",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1706156416.462229",
+        "reply_users": [
+            "U05V81G5ZDY",
+            "U060BLVQYHW"
+        ],
+        "replies": [
+            {
+                "user": "U05V81G5ZDY",
+                "ts": "1706155594.292579"
+            },
+            {
+                "user": "U060BLVQYHW",
+                "ts": "1706156416.462229"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KHpMY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05V81G5ZDY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05UNC6FNK1"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n대상 : 국민취업지원 서류\n필요한 기간 : 23년 12월 25일 ~ 24년 01월 24일\n필요 서류 : 출석부\n이메일 : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:happer96@gmail.com",
+                                "text": "happer96@gmail.com"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n연락처 : 01062273648\n\n안녕하세요 해당 서류 신청합니다.\n감사합니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "U05V81G5ZDY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "text": "출석부 전달 드립니다!",
+        "files": [
+            {
+                "id": "F06FERJ2HB7",
+                "created": 1706155589,
+                "timestamp": 1706155589,
+                "name": "20240125130621644.pdf",
+                "title": "20240125130621644.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U05V81G5ZDY",
+                "user_team": "T05UGFFGL07",
+                "editable": false,
+                "size": 78941,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F06FERJ2HB7\/20240125130621644.pdf?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F06FERJ2HB7\/download\/20240125130621644.pdf?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "media_display_type": "unknown",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06FERJ2HB7-9ce8a4e79b\/20240125130621644_thumb_pdf.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_pdf_w": 1286,
+                "thumb_pdf_h": 909,
+                "permalink": "https:\/\/fcupstageai1.slack.com\/files\/U05V81G5ZDY\/F06FERJ2HB7\/20240125130621644.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/T05UGFFGL07-F06FERJ2HB7-ce5844bf60",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U05V81G5ZDY",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9iMRh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "출석부 전달 드립니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1706155594.292579",
+        "client_msg_id": "33970618-ba12-4008-b199-059d2b9eff31",
+        "thread_ts": "1706155330.129439",
+        "parent_user_id": "U060BLVQYHW"
+    },
+    {
+        "user": "U060BLVQYHW",
+        "type": "message",
+        "ts": "1706156416.462229",
+        "client_msg_id": "116c6887-4277-4c36-94af-2c671c30eede",
+        "text": "<@U05V81G5ZDY> 감사합니다!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "g6cb970458b5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6cb970458b5672091fa231bd078f93da.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+            "first_name": "Sang",
+            "real_name": "Sang Hyuk SEO",
+            "display_name": "서상혁",
+            "team": "T05UGFFGL07",
+            "name": "happer96",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1706155330.129439",
+        "parent_user_id": "U060BLVQYHW",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sdfMI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05V81G5ZDY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 감사합니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U060J3NGX08",
+        "type": "message",
+        "ts": "1706169570.898979",
+        "client_msg_id": "40887c17-cc27-4841-889a-2efba65b279c",
+        "text": "<@U05V81G5ZDY> <@U05UNC6FNK1>\n안녕하세요. LM님과 상담 후 24년 1월 26일 금요일 휴가 제출 폼 제출하였습니다. 확인 부탁드리겠습니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "gbc825ac18ac",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/bc825ac18ac18fdb67a86751711cbdba.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "조서영",
+            "real_name": "조서영",
+            "display_name": "조서영",
+            "team": "T05UGFFGL07",
+            "name": "pink495sy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1706169570.898979",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1706169634.597909",
+        "reply_users": [
+            "U060J3NGX08"
+        ],
+        "replies": [
+            {
+                "user": "U060J3NGX08",
+                "ts": "1706169634.597909"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6f\/0t",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05V81G5ZDY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05UNC6FNK1"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n안녕하세요. LM님과 상담 후 24년 1월 26일 금요일 휴가 제출 폼 제출하였습니다. 확인 부탁드리겠습니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "beach_with_umbrella",
+                "users": [
+                    "U05V81G5ZDY"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

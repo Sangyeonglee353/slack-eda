@@ -1,0 +1,247 @@
+[
+    {
+        "user": "U05VADPQPCL",
+        "type": "message",
+        "ts": "1704254764.764219",
+        "client_msg_id": "31e25b19-ace9-4951-8bdf-b38e399b1a58",
+        "text": "• *강의 자료 드라이브*\n    ◦ <https:\/\/drive.google.com\/drive\/folders\/1UaT7sXuAJSimiNoWsyyXlKbt-ZrCupG3?usp=sharing>\n• *이준희 강사님께 질문 구글 문서*\n    ◦ <https:\/\/docs.google.com\/document\/d\/1DJPxSaLZ0Np3JYXZd1pJ_3QxRSm2fm5P9SY3wc8XpWk\/edit?usp=sharing>",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "07e7ca00b8f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5991092857253_07e7ca00b8f0d0b13ba1_72.png",
+            "first_name": "패스트캠퍼스박기준",
+            "real_name": "패스트캠퍼스박기준",
+            "display_name": "LM 박기준",
+            "team": "T05UGFFGL07",
+            "name": "pgj.fc.career",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9SoDj",
+                "elements": [
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "강의 자료 드라이브",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/drive.google.com\/drive\/folders\/1UaT7sXuAJSimiNoWsyyXlKbt-ZrCupG3?usp=sharing"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "이준희 강사님께 질문 구글 문서",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/docs.google.com\/document\/d\/1DJPxSaLZ0Np3JYXZd1pJ_3QxRSm2fm5P9SY3wc8XpWk\/edit?usp=sharing"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05UNMQ4LP9",
+        "type": "message",
+        "ts": "1704263534.836659",
+        "client_msg_id": "c7b8a82a-e370-4bba-89ca-de527023c2ef",
+        "text": "줌 화면이 잘 안나와서 재접속 했는데 참여 수락 바랍니다",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "eef278e1672b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5974738227319_eef278e1672b038da8b1_72.jpg",
+            "first_name": "김윤겸",
+            "real_name": "김윤겸",
+            "display_name": "김윤겸",
+            "team": "T05UGFFGL07",
+            "name": "dbsrua110525",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1704263534.836659",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1704263586.893059",
+        "reply_users": [
+            "U05VADPQPCL"
+        ],
+        "replies": [
+            {
+                "user": "U05VADPQPCL",
+                "ts": "1704263586.893059"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BOmEd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "줌 화면이 잘 안나와서 재접속 했는데 참여 수락 바랍니다"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05VADPQPCL",
+        "type": "message",
+        "ts": "1704263586.893059",
+        "client_msg_id": "6744fe8b-a247-4943-9761-05f640835b64",
+        "text": "&gt; • 회의 참여 링크 | <https:\/\/us06web.zoom.us\/j\/89875678259?pwd=80bCVUCPuvkqdjxG2pxiy8MibuBxg0.1|줌 링크>\n&gt; • 회의 ID : 898 7567 8259\n&gt; • 비밀번호 : 2023\n해당 링크로 접속해주시길 바랍니다!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "07e7ca00b8f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5991092857253_07e7ca00b8f0d0b13ba1_72.png",
+            "first_name": "패스트캠퍼스박기준",
+            "real_name": "패스트캠퍼스박기준",
+            "display_name": "LM 박기준",
+            "team": "T05UGFFGL07",
+            "name": "pgj.fc.career",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1704263534.836659",
+        "parent_user_id": "U05UNMQ4LP9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "q7Euj",
+                "elements": [
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "회의 참여 링크 | "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/us06web.zoom.us\/j\/89875678259?pwd=80bCVUCPuvkqdjxG2pxiy8MibuBxg0.1",
+                                        "text": "줌 링크"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "회의 ID : 898 7567 8259"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "비밀번호 : 2023"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 1
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "해당 링크로 접속해주시길 바랍니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U05UNMQ4LP9"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

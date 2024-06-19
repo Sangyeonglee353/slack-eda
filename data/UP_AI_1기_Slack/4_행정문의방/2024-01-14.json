@@ -1,0 +1,46 @@
+[
+    {
+        "user": "U05V81G5ZDY",
+        "type": "message",
+        "ts": "1705284905.257919",
+        "client_msg_id": "1d1b7343-4e7c-4d15-b2e5-4c8abe19428d",
+        "text": "<@U05UN6NTN8P> 안녕하세요 행정 매니저입니다!\n\n12\/27일자 휴가 구글폼 제출 주신 부분이 확인되지 않아서 연락 드립니다!\n\n구글폼 설문 작성 다시 부탁드립니다\n감사합니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "db1aceeb0d90",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5994058472162_db1aceeb0d9030c57e69_72.jpg",
+            "first_name": "김현우",
+            "real_name": "김현우",
+            "display_name": "FC 김현우 매니저",
+            "team": "T05UGFFGL07",
+            "name": "hyunwoo.kim",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1703558022.063749",
+        "parent_user_id": "U05UN6NTN8P",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vvP\/d",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05UN6NTN8P"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 안녕하세요 행정 매니저입니다!\n\n12\/27일자 휴가 구글폼 제출 주신 부분이 확인되지 않아서 연락 드립니다!\n\n구글폼 설문 작성 다시 부탁드립니다\n감사합니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

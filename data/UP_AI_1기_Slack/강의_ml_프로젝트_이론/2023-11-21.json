@@ -1,0 +1,553 @@
+[
+    {
+        "user": "U05V9N22ZUK",
+        "type": "message",
+        "ts": "1700557310.671619",
+        "client_msg_id": "c620b21c-9045-49a1-9832-3bdf8c8de60d",
+        "text": "Decision Tree Regression 관련해서 질문있습니다.\nRegression의 경우도 카테고리가 있다면 그걸 기준으로 휴리스틱 밸류로 잡을 수 있을것 같습니다.\n그런데 sklearn 예시를 보니까 실수값만 있어도 regressor가 나오던데, 이런 경우는 휴리스틱 밸류를 어떻게 잡나요??",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "0698995c863f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5998310079844_0698995c863fed7643f0_72.png",
+            "first_name": "TaeHan",
+            "real_name": "TaeHan Kim",
+            "display_name": "김태한",
+            "team": "T05UGFFGL07",
+            "name": "kthnineone",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1700557310.671619",
+        "reply_count": 6,
+        "reply_users_count": 2,
+        "latest_reply": "1700565767.685369",
+        "reply_users": [
+            "U065TBUL5EE",
+            "U05V9N22ZUK"
+        ],
+        "replies": [
+            {
+                "user": "U065TBUL5EE",
+                "ts": "1700561486.540259"
+            },
+            {
+                "user": "U05V9N22ZUK",
+                "ts": "1700562886.617779"
+            },
+            {
+                "user": "U065TBUL5EE",
+                "ts": "1700564404.966119"
+            },
+            {
+                "user": "U065TBUL5EE",
+                "ts": "1700565421.348479"
+            },
+            {
+                "user": "U065TBUL5EE",
+                "ts": "1700565581.414309"
+            },
+            {
+                "user": "U05V9N22ZUK",
+                "ts": "1700565767.685369"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iEl7R",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Decision Tree Regression 관련해서 질문있습니다.\nRegression의 경우도 카테고리가 있다면 그걸 기준으로 휴리스틱 밸류로 잡을 수 있을것 같습니다.\n그런데 sklearn 예시를 보니까 실수값만 있어도 regressor가 나오던데, 이런 경우는 휴리스틱 밸류를 어떻게 잡나요??"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U05V7V2AV8A",
+                    "U05UN6NTN8P"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "text": "<!channel>\n11\/21 진행한 필기 교안 공유드립니다! 복습시 사용하세요 :slightly_smiling_face:\n저희는 내일 오후 5시에 또 뵙겠습니다!! 행복한 저녁 되세요 :raised_hands:",
+        "files": [
+            {
+                "id": "F066GJW85TQ",
+                "created": 1700560565,
+                "timestamp": 1700560565,
+                "name": "[UPSTAGE AI LAB-01]Machine Learning Workflow_20231121.pdf",
+                "title": "[UPSTAGE AI LAB-01]Machine Learning Workflow_20231121.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U065TBUL5EE",
+                "user_team": "T05UGFFGL07",
+                "editable": false,
+                "size": 13929614,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F066GJW85TQ\/_upstage_ai_lab-01_machine_learning_workflow_20231121.pdf?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F066GJW85TQ\/download\/_upstage_ai_lab-01_machine_learning_workflow_20231121.pdf?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "media_display_type": "unknown",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F066GJW85TQ-591c692199\/_upstage_ai_lab-01_machine_learning_workflow_20231121_thumb_pdf.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_pdf_w": 1210,
+                "thumb_pdf_h": 682,
+                "permalink": "https:\/\/fcupstageai1.slack.com\/files\/U065TBUL5EE\/F066GJW85TQ\/_upstage_ai_lab-01_machine_learning_workflow_20231121.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/T05UGFFGL07-F066GJW85TQ-f8cf35ef2b",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U065TBUL5EE",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "24SCs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n11\/21 진행한 필기 교안 공유드립니다! 복습시 사용하세요 "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n저희는 내일 오후 5시에 또 뵙겠습니다!! 행복한 저녁 되세요 "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "raised_hands",
+                                "unicode": "1f64c"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1700560592.986059",
+        "client_msg_id": "452cb939-fc33-42c4-ad7e-2a3d6f8a7d5f",
+        "reactions": [
+            {
+                "name": "+1::skin-tone-2",
+                "users": [
+                    "U05UT0JG4BZ"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U060BLVQYHW",
+                    "U05VC7EEY5Q",
+                    "U05VDDP88BW",
+                    "U060LG0BT89",
+                    "U05V7H78DUM",
+                    "U05UNMQ4LP9",
+                    "U0600GGHJTC",
+                    "U05V5B27DK7",
+                    "U05V379NETU"
+                ],
+                "count": 9
+            }
+        ]
+    },
+    {
+        "user": "U065TBUL5EE",
+        "type": "message",
+        "ts": "1700561486.540259",
+        "client_msg_id": "9796821a-a736-48fc-b537-7898cb86eb1e",
+        "text": "질문 자체를 이해못해서.. 몇가지 질문을 드려봅니다.\n1. heuristic value가 무엇을 의미하나요?\n2. Regressor의 target value는 정수, 실수 당연히 모두 가능합니다. 혹시 ordinal value를 예측하는 문제 같은 것을 고려하고 계신가요?",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "34f110a5edc4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-11-14\/6197301711475_34f110a5edc435398e63_72.png",
+            "first_name": "김용담",
+            "real_name": "김용담",
+            "display_name": "김용담 강사",
+            "team": "T05UGFFGL07",
+            "name": "codingiscoffee",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1700557310.671619",
+        "parent_user_id": "U05V9N22ZUK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4NmgC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "질문 자체를 이해못해서.. 몇가지 질문을 드려봅니다.\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "heuristic value가 무엇을 의미하나요?"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Regressor의 target value는 정수, 실수 당연히 모두 가능합니다. 혹시 ordinal value를 예측하는 문제 같은 것을 고려하고 계신가요?"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "보다 자세하게 풀어서 다시 질문하겠습니다.\n\n강사님의 \"한 번에 끝내는 데이터 사이언스\" 온라인 강의 중에서 Decision Tree 강의 듣다가 다음 슬라이드 내용을 보고 Classificiation이 아니라 Regresison을 할 때는 어떻게 트리 분할의 기준값을 설정하는지 궁금해져서 질문드렸습니다.\n\n1. 제가 말한 휴리스틱 밸류는 트리에서 나누게 되는 기준값에 대한 휴리스틱 밸류를 의미합니다. 수업을 듣고 제가 이해한 바로는, \"실수 범위 내에서 무작위로 하기엔 너무 많으니 그 기준값을 Income 파트에 대해 정렬한 다음, 쭉 내려가다가 Ownership이 바뀌는 부분에서 그 사이값을 기준값으로 선정한다\"였습니다. 이를 기준으로 값들을 나눠서 Gini 계수를 계산하고, 여러 휴리스틱 밸류들 중에서 가장 지니 계수가 낮아지는 값을 선택하고 트리를 나눈다고 하셨습니다.  Regression도 Classification처럼 Income의 실수 값과 Ownership의 카테고리 값이 있다면 같은 방식으로 기준 값을 휴리스틱 값으로 두고 나눌 수 있다는 것으로 이해했습니다. \n2. 그런데 sklearn의 Decision Trees의 Regression은 X = [[0, 0], [2, 2]], y = [0.5, 2.5]처럼 모든 값들이 실수값인데도 Decision Tree 빌딩이 가능한듯합니다. 이렇게 모두 실수 값일 때는 기준값을 어떻게 설정하고 트리를 나누는지 궁금했습니다.",
+        "files": [
+            {
+                "id": "F0668SNK70X",
+                "created": 1700562343,
+                "timestamp": 1700562343,
+                "name": "Decision_Tree_Ask_1.PNG",
+                "title": "Decision_Tree_Ask_1.PNG",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U05V9N22ZUK",
+                "user_team": "T05UGFFGL07",
+                "editable": false,
+                "size": 62494,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F0668SNK70X\/decision_tree_ask_1.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F0668SNK70X\/download\/decision_tree_ask_1.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F0668SNK70X-c18767e25e\/decision_tree_ask_1_64.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F0668SNK70X-c18767e25e\/decision_tree_ask_1_80.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F0668SNK70X-c18767e25e\/decision_tree_ask_1_360.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_360_w": 360,
+                "thumb_360_h": 319,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F0668SNK70X-c18767e25e\/decision_tree_ask_1_480.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_480_w": 480,
+                "thumb_480_h": 426,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F0668SNK70X-c18767e25e\/decision_tree_ask_1_160.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "original_w": 495,
+                "original_h": 439,
+                "thumb_tiny": "AwAqADDRb13YFIBno+acR14pqAbBxQAhwDgvg0uMcs3FDAbhxS4HpQAgKk8Nn8afTQBjpS55xzQAh78Ui42jinEdaao+QUDA43ClGKaw+dacBQAg+7Sj73AFIBxT6AEJA60mVHAOBSkA9RSYHoKBCZBwf6Uu4ev6UbRzwKNo9BQAAgcZ\/SlDA96FAHQUtAH\/2Q==",
+                "permalink": "https:\/\/fcupstageai1.slack.com\/files\/U05V9N22ZUK\/F0668SNK70X\/decision_tree_ask_1.png",
+                "permalink_public": "https:\/\/slack-files.com\/T05UGFFGL07-F0668SNK70X-073ddd5c8d",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U05V9N22ZUK",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZKRJA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "보다 자세하게 풀어서 다시 질문하겠습니다.\n\n강사님의 \"한 번에 끝내는 데이터 사이언스\" 온라인 강의 중에서 Decision Tree 강의 듣다가 다음 슬라이드 내용을 보고 Classificiation이 아니라 Regresison을 할 때는 어떻게 트리 분할의 기준값을 설정하는지 궁금해져서 질문드렸습니다.\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "제가 말한 휴리스틱 밸류는 트리에서 나누게 되는 기준값에 대한 휴리스틱 밸류를 의미합니다. 수업을 듣고 제가 이해한 바로는, \"실수 범위 내에서 무작위로 하기엔 너무 많으니 그 기준값을 Income 파트에 대해 정렬한 다음, 쭉 내려가다가 Ownership이 바뀌는 부분에서 그 사이값을 기준값으로 선정한다\"였습니다. 이를 기준으로 값들을 나눠서 Gini 계수를 계산하고, 여러 휴리스틱 밸류들 중에서 가장 지니 계수가 낮아지는 값을 선택하고 트리를 나눈다고 하셨습니다.  Regression도 Classification처럼 Income의 실수 값과 Ownership의 카테고리 값이 있다면 같은 방식으로 기준 값을 휴리스틱 값으로 두고 나눌 수 있다는 것으로 이해했습니다. "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "그런데 sklearn의 Decision Trees의 Regression은 X = [[0, 0], [2, 2]], y = [0.5, 2.5]처럼 모든 값들이 실수값인데도 Decision Tree 빌딩이 가능한듯합니다. 이렇게 모두 실수 값일 때는 기준값을 어떻게 설정하고 트리를 나누는지 궁금했습니다."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1700562886.617779",
+        "client_msg_id": "b603431c-0cf0-4613-8f2d-96d931da16f1",
+        "thread_ts": "1700557310.671619",
+        "parent_user_id": "U05V9N22ZUK"
+    },
+    {
+        "user": "U065TBUL5EE",
+        "type": "message",
+        "ts": "1700564404.966119",
+        "client_msg_id": "f65f2418-0f46-4d7d-b787-f9e7528a9788",
+        "text": "<@U05V9N22ZUK> 자세한 질문 감사드립니다!\n제가 이제 질문을 완전히 이해했습니다. 회귀 모델의 경우에는 heuristic하게 하기 위해서 bucket이라는 개념을 사용하거나, quartile 단위로 자르는 식의 방법을 사용합니다. 말씀하신대로 target value가 바뀌는 지점 같은 것을 정의할 수 없기 때문입니다.\n\n제가 알기론 scikit-learn의 DecisionTreeRegressor의 경우 모든 feature에 대해서 가능한 모든 경우의 수를 계산해서 최적의 criterion을 만족하는 값을 best split으로 정하는 것으로 알고 있습니다!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "34f110a5edc4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-11-14\/6197301711475_34f110a5edc435398e63_72.png",
+            "first_name": "김용담",
+            "real_name": "김용담",
+            "display_name": "김용담 강사",
+            "team": "T05UGFFGL07",
+            "name": "codingiscoffee",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1700557310.671619",
+        "parent_user_id": "U05V9N22ZUK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "V5kGF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05V9N22ZUK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 자세한 질문 감사드립니다!\n제가 이제 질문을 완전히 이해했습니다. 회귀 모델의 경우에는 heuristic하게 하기 위해서 bucket이라는 개념을 사용하거나, quartile 단위로 자르는 식의 방법을 사용합니다. 말씀하신대로 target value가 바뀌는 지점 같은 것을 정의할 수 없기 때문입니다.\n\n제가 알기론 scikit-learn의 DecisionTreeRegressor의 경우 모든 feature에 대해서 가능한 모든 경우의 수를 계산해서 최적의 criterion을 만족하는 값을 best split으로 정하는 것으로 알고 있습니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U065TBUL5EE",
+        "type": "message",
+        "ts": "1700565421.348479",
+        "client_msg_id": "8914abda-8c9a-4445-b306-11f2cf8f9759",
+        "text": "<https:\/\/github.com\/scikit-learn\/scikit-learn\/blob\/3f89022fa04d293152f1d32fbc2a5bdaaf2df364\/sklearn\/tree\/_splitter.pyx#L49>",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "34f110a5edc4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-11-14\/6197301711475_34f110a5edc435398e63_72.png",
+            "first_name": "김용담",
+            "real_name": "김용담",
+            "display_name": "김용담 강사",
+            "team": "T05UGFFGL07",
+            "name": "codingiscoffee",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1700557310.671619",
+        "parent_user_id": "U05V9N22ZUK",
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "color": "24292f",
+                "bot_id": "B064NLR870C",
+                "app_unfurl_url": "https:\/\/github.com\/scikit-learn\/scikit-learn\/blob\/3f89022fa04d293152f1d32fbc2a5bdaaf2df364\/sklearn\/tree\/_splitter.pyx#L49",
+                "is_app_unfurl": true,
+                "app_id": "A01BP7R4KNY",
+                "fallback": "<https:\/\/github.com\/scikit-learn\/scikit-learn\/blob\/3f89022fa04d293152f1d32fbc2a5bdaaf2df364\/sklearn\/tree\/_splitter.pyx | _splitter.pyx>",
+                "text": "```\ncdef class Splitter:\n```",
+                "title": "<https:\/\/github.com\/scikit-learn\/scikit-learn\/blob\/3f89022fa04d293152f1d32fbc2a5bdaaf2df364\/sklearn\/tree\/_splitter.pyx | _splitter.pyx>",
+                "footer": "<https:\/\/github.com\/scikit-learn\/scikit-learn|scikit-learn\/scikit-learn>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fx+CE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/scikit-learn\/scikit-learn\/blob\/3f89022fa04d293152f1d32fbc2a5bdaaf2df364\/sklearn\/tree\/_splitter.pyx#L49"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U065TBUL5EE",
+        "type": "message",
+        "ts": "1700565581.414309",
+        "client_msg_id": "947dd661-9f77-4b5e-8b83-0661362d1dcc",
+        "text": "scikit-learn을 열심히 뒤져서, DecisionTreeRegressor의 Splitter algorithm 코드 구현체를 살펴보았습니다. 굉장히 복잡하게 구현되어 있긴한데, best_split을 고르는 파트만 보니 데이터의 모든 feature를 기준으로 모든 데이터를 기준으로 나눠서 보는 것 같습니다. 이 때 더 이상 볼 필요가 없는 조건들(e.g. 나누는 기준 왼쪽으로 min_samples_leaf 이하의 데이터가 있는 경우, min_purity_threshold를 만족하지 못하는 경우)등을 제외하면서 속도를 올리는 방식을 취하고 있네요.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "34f110a5edc4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-11-14\/6197301711475_34f110a5edc435398e63_72.png",
+            "first_name": "김용담",
+            "real_name": "김용담",
+            "display_name": "김용담 강사",
+            "team": "T05UGFFGL07",
+            "name": "codingiscoffee",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1700557310.671619",
+        "parent_user_id": "U05V9N22ZUK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7q1PA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "scikit-learn을 열심히 뒤져서, DecisionTreeRegressor의 Splitter algorithm 코드 구현체를 살펴보았습니다. 굉장히 복잡하게 구현되어 있긴한데, best_split을 고르는 파트만 보니 데이터의 모든 feature를 기준으로 모든 데이터를 기준으로 나눠서 보는 것 같습니다. 이 때 더 이상 볼 필요가 없는 조건들(e.g. 나누는 기준 왼쪽으로 min_samples_leaf 이하의 데이터가 있는 경우, min_purity_threshold를 만족하지 못하는 경우)등을 제외하면서 속도를 올리는 방식을 취하고 있네요."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05V9N22ZUK",
+        "type": "message",
+        "ts": "1700565767.685369",
+        "client_msg_id": "e8c9f54c-16f5-4a85-b220-3ffcacc5831d",
+        "text": "<@U065TBUL5EE> 답변 감사드립니다. 확실히 분류 보다는 복잡하군요. bucket, quantile, 그리고 splitter 코드 좀 더 자세히 살펴보겠습니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "0698995c863f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5998310079844_0698995c863fed7643f0_72.png",
+            "first_name": "TaeHan",
+            "real_name": "TaeHan Kim",
+            "display_name": "김태한",
+            "team": "T05UGFFGL07",
+            "name": "kthnineone",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1700557310.671619",
+        "parent_user_id": "U05V9N22ZUK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HSmbo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U065TBUL5EE"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 답변 감사드립니다. 확실히 분류 보다는 복잡하군요. bucket, quantile, 그리고 splitter 코드 좀 더 자세히 살펴보겠습니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U065TBUL5EE"
+                ],
+                "count": 1
+            },
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U065TBUL5EE"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

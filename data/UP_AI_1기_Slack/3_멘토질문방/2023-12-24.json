@@ -1,0 +1,235 @@
+[
+    {
+        "user": "U06A5A0Q4PM",
+        "type": "message",
+        "ts": "1703421777.984639",
+        "edited": {
+            "user": "U06A5A0Q4PM",
+            "ts": "1703645380.000000"
+        },
+        "client_msg_id": "192dbd35-91f0-49cf-9965-18e79d34dea5",
+        "text": "안녕하세요, 수강생 여러분.\n금주 Deep learning & Pytorch 강의의 멘토를 맡은 성예닮입니다.\n\n온라인 강의로 변경되면서 어려움이 많으실텐데, 질문이 많지는 않네요. 좋은 강의에 수강생분께서 열심히 공부해주셔서 잘 이해하고 계신거라 생각합니다.\n우리 수업 이외에 고민해보면 좋을만한 내용들을 공유합니다. 수업의 진도와 100% 일치하지는 않지만, AI를 공부한다면 한번쯤 고민해보고 답할 수 있으면 도움이 많이 될 것입니다. 아래 문항들을 충분히 대답할 수 있다면, 딥 러닝 기초에 대해 내가 잘 이해하고 있다는 척도가 될 수 있겠습니다.\n\n1. 딥 러닝의 \"훈련\"은 실제로 어떤 수학적 과정을 수행하는 것인지 설명해주세요.\n2. Dropout의 \"정확한 동작\"은 어떻게 수행되는지 설명해주세요. (일부 노드를 끊는다 = 오답)\n3. LSTM의 구조에 대해 설명해주세요. 그리고 LSTM의 요소 중 어떤 요소가 Sigmoid 함수를, Tanh 함수를 쓰는지 그 이유와 함께 설명해주세요.\n4. L2 regularization과 Step size의 관계에 대해 설명해주세요.\n5. Convolution 연산만으로 (Flatten, Linear 없이) 분류기를 만들 수 있을까요?\n6. 데이터 증강 기술을 한개만 사용할 수 있다면 어떤 것을 사용하실 건가요? 이유에 대해서도 설명해주세요.\n7. 엔트로이, 크로스 엔트로피, KL 발산, 상호 정보량에 대해 설명하고 각각의 차이에 대해 설명해주세요.\n8. 기계 학습에서 많은 경우 가능도 (Likelihood)가 아닌 로그 가능도를 구하는데 그 이유에 대해 설명해주세요.\n9. 벡터간의 유사도를 구하는 방법을 아는 대로 말해주세요.\n10. 활성화 함수를 아는 대로 말해주세요.\n11. 확률과 가능도의 차이를 기계 학습 분야에서의 예시로 말해주세요.\n12. 부트스트랩핑과 배깅에 대해 설명해주세요.\n13. 확률 분포의 거리를 계산하는 방법에 대해 아는 대로 말해주세요.\n14. 기계 학습 문제에서 사용되는 손실 함수들과 평가 지표에 대해 아는 대로 말해주세요.\n15. 왜 CPU보다 GPU에서 딥 러닝을 수행하는 경우가 많은지 아는 대로 설명해주세요.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "g38fcfae5b9e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/38fcfae5b9ea7884bff301af052034aa.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "성예닮",
+            "real_name": "성예닮",
+            "display_name": "성예닮 멘토",
+            "team": "T05UGFFGL07",
+            "name": "mybirth0407",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DwXis",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "안녕하세요, 수강생 여러분.\n금주 Deep learning & Pytorch 강의의 멘토를 맡은 성예닮입니다.\n\n온라인 강의로 변경되면서 어려움이 많으실텐데, 질문이 많지는 않네요. 좋은 강의에 수강생분께서 열심히 공부해주셔서 잘 이해하고 계신거라 생각합니다.\n우리 수업 이외에 고민해보면 좋을만한 내용들을 공유합니다. 수업의 진도와 100% 일치하지는 않지만, AI를 공부한다면 한번쯤 고민해보고 답할 수 있으면 도움이 많이 될 것입니다. 아래 문항들을 충분히 대답할 수 있다면, 딥 러닝 기초에 대해 내가 잘 이해하고 있다는 척도가 될 수 있겠습니다.\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "딥 러닝의 \"훈련\"은 실제로 어떤 수학적 과정을 수행하는 것인지 설명해주세요."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Dropout의 \"정확한 동작\"은 어떻게 수행되는지 설명해주세요. (일부 노드를 끊는다 = 오답)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "LSTM의 구조에 대해 설명해주세요. 그리고 LSTM의 요소 중 어떤 요소가 Sigmoid 함수를, Tanh 함수를 쓰는지 그 이유와 함께 설명해주세요."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "L2 regularization과 Step size의 관계에 대해 설명해주세요."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Convolution 연산만으로 (Flatten, Linear 없이) 분류기를 만들 수 있을까요?"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "데이터 증강 기술을 한개만 사용할 수 있다면 어떤 것을 사용하실 건가요? 이유에 대해서도 설명해주세요."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "엔트로이, 크로스 엔트로피, KL 발산, 상호 정보량에 대해 설명하고 각각의 차이에 대해 설명해주세요."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "기계 학습에서 많은 경우 가능도 (Likelihood)가 아닌 로그 가능도를 구하는데 그 이유에 대해 설명해주세요."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "벡터간의 유사도를 구하는 방법을 아는 대로 말해주세요."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "활성화 함수를 아는 대로 말해주세요."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "확률과 가능도의 차이를 기계 학습 분야에서의 예시로 말해주세요."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "부트스트랩핑과 배깅에 대해 설명해주세요."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "확률 분포의 거리를 계산하는 방법에 대해 아는 대로 말해주세요."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "기계 학습 문제에서 사용되는 손실 함수들과 평가 지표에 대해 아는 대로 말해주세요."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "왜 CPU보다 GPU에서 딥 러닝을 수행하는 경우가 많은지 아는 대로 설명해주세요."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "offset": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U065TBUL5EE",
+                    "U060C67EYQ5",
+                    "U05VBQMH3D3",
+                    "U05V9N22ZUK",
+                    "U05VAHXECP6",
+                    "U05V7H78DUM",
+                    "U05VADPQPCL",
+                    "U05V379NETU",
+                    "U05VCCSHKHR",
+                    "U0606QGQYE5",
+                    "U0600BP2J9H",
+                    "U060BLVQYHW",
+                    "U05V2T62KUJ",
+                    "U05V4KZR3NW",
+                    "U0600GGHJTC",
+                    "U05UN7M2GKZ",
+                    "U05V5H1T24V"
+                ],
+                "count": 17
+            },
+            {
+                "name": "meow_noddies",
+                "users": [
+                    "U05V2PMAVNE",
+                    "U05V7H78DUM",
+                    "U05VADPQPCL",
+                    "U0600BP2J9H",
+                    "U060BLVQYHW",
+                    "U05V4KZR3NW",
+                    "U060C67EYQ5",
+                    "U05UN7M2GKZ",
+                    "U05UVV5CVQE"
+                ],
+                "count": 9
+            },
+            {
+                "name": "+1::skin-tone-2",
+                "users": [
+                    "U05UVV5CVQE"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

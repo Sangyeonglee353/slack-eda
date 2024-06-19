@@ -1,0 +1,218 @@
+[
+    {
+        "user": "U05VAHXECP6",
+        "type": "message",
+        "ts": "1707181990.596919",
+        "client_msg_id": "8cb68c38-98af-4528-8e31-e9c36e2a15ba",
+        "text": "<@U05VADPQPCL> 기준 매니저님! 어플 작동 오류로, 출결 정정 요청 접수받아 진행해주세요.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "50abee101814",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-11\/6044824153712_50abee1018149e21919b_72.jpg",
+            "first_name": "이상영",
+            "real_name": "이상영",
+            "display_name": "FC 이상영 매니저",
+            "team": "T05UGFFGL07",
+            "name": "sangyeong.lee",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1707095406.707619",
+        "parent_user_id": "U05UW1S4KQE",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ebr5W",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05VADPQPCL"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 기준 매니저님! 어플 작동 오류로, 출결 정정 요청 접수받아 진행해주세요."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "안녕하세요 재민님\n출결 정정의 경우 입\/퇴실 스크린샷이 모두 있어야 가능한데\n어제 퇴실 스크린샷 진행 시간에 자리에 부재셔서 정정을 못해드리는 상황입니다.",
+        "files": [
+            {
+                "id": "F06HBQG6F6W",
+                "created": 1707182748,
+                "timestamp": 1707182748,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U05VADPQPCL",
+                "user_team": "T05UGFFGL07",
+                "editable": false,
+                "size": 2815054,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F06HBQG6F6W\/image.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F06HBQG6F6W\/download\/image.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06HBQG6F6W-4c4017c6bb\/image_64.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06HBQG6F6W-4c4017c6bb\/image_80.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06HBQG6F6W-4c4017c6bb\/image_360.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_360_w": 360,
+                "thumb_360_h": 203,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06HBQG6F6W-4c4017c6bb\/image_480.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_480_w": 480,
+                "thumb_480_h": 270,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06HBQG6F6W-4c4017c6bb\/image_160.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06HBQG6F6W-4c4017c6bb\/image_720.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_720_w": 720,
+                "thumb_720_h": 405,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06HBQG6F6W-4c4017c6bb\/image_800.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_800_w": 800,
+                "thumb_800_h": 450,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06HBQG6F6W-4c4017c6bb\/image_960.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_960_w": 960,
+                "thumb_960_h": 540,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06HBQG6F6W-4c4017c6bb\/image_1024.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 576,
+                "original_w": 1920,
+                "original_h": 1080,
+                "thumb_tiny": "AwAbADCrEXdsb2\/A1K6bScSSHHvToYo1b5Z85HOBStKUwIwTkYJYUAQSo+8BGdlx9454p8UTGMNucE9cVNEH8o7yVz1UdKNzxNsVjjoDihgIsOGG6WTpWkCOOazjOgTBkJYjp6GtBQODQBiQMFfLEjjtViOWMhlZ8A8D2qAKPSoz1NFguWrmfnZGwKhc59TRHKGVTI\/P8qq0UCLIjgJOXPPOc961VJx1rB6VYF3Pj\/WGgLn\/2Q==",
+                "permalink": "https:\/\/fcupstageai1.slack.com\/files\/U05VADPQPCL\/F06HBQG6F6W\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T05UGFFGL07-F06HBQG6F6W-01b5468328",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U05VADPQPCL",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tbRQe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "안녕하세요 재민님\n출결 정정의 경우 입\/퇴실 스크린샷이 모두 있어야 가능한데\n어제 퇴실 스크린샷 진행 시간에 자리에 부재셔서 정정을 못해드리는 상황입니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1707182768.399549",
+        "client_msg_id": "38cdda0f-c3f7-4f4a-a999-d6283b1493c6",
+        "thread_ts": "1707095406.707619",
+        "parent_user_id": "U05UW1S4KQE"
+    },
+    {
+        "user": "U05UW1S4KQE",
+        "type": "message",
+        "ts": "1707184654.623249",
+        "client_msg_id": "005495b9-45f6-42af-8fe2-5a3eb389469f",
+        "text": "아 어제 잠깐 화장실 갔다왔는데 끝까지 있긴있었는데 아쉽네요.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "8e2a5064517a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5982083144710_8e2a5064517a40846596_72.jpg",
+            "first_name": "이재민",
+            "real_name": "이재민",
+            "display_name": "이재민",
+            "team": "T05UGFFGL07",
+            "name": "jaeminstar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1707095406.707619",
+        "parent_user_id": "U05UW1S4KQE",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/cV4L",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "아 어제 잠깐 화장실 갔다왔는데 끝까지 있긴있었는데 아쉽네요."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05UW1S4KQE",
+        "type": "message",
+        "ts": "1707184673.733059",
+        "client_msg_id": "e1416119-760e-47ff-8917-91178161051f",
+        "text": "딱 스샷 찍을때 자리를 비웠나 보군요. 알겠습니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "8e2a5064517a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5982083144710_8e2a5064517a40846596_72.jpg",
+            "first_name": "이재민",
+            "real_name": "이재민",
+            "display_name": "이재민",
+            "team": "T05UGFFGL07",
+            "name": "jaeminstar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1707095406.707619",
+        "parent_user_id": "U05UW1S4KQE",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EShZ5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "딱 스샷 찍을때 자리를 비웠나 보군요. 알겠습니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "sob",
+                "users": [
+                    "U05VADPQPCL"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

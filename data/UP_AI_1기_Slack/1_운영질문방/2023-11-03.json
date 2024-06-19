@@ -1,0 +1,140 @@
+[
+    {
+        "user": "U05V2P37518",
+        "type": "message",
+        "ts": "1699057770.632709",
+        "client_msg_id": "E0988577-2547-4E9E-A9AA-90FB3D69B7B6",
+        "text": "멘토링관련설문은 조원들끼리 알아서 대표자를 정한후 제출하면 되는걸까요? 근데 링크가 접속이 안됩니자",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "cc6bb0a6327a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5988791489650_cc6bb0a6327a06ec59ab_72.png",
+            "first_name": "배창현",
+            "real_name": "배창현",
+            "display_name": "",
+            "team": "T05UGFFGL07",
+            "name": "bae951753",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1699057770.632709",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1699229723.270729",
+        "reply_users": [
+            "U05UYAVRTSR",
+            "U05V2P37518"
+        ],
+        "replies": [
+            {
+                "user": "U05UYAVRTSR",
+                "ts": "1699229561.592749"
+            },
+            {
+                "user": "U05V2P37518",
+                "ts": "1699229723.270729"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kU424",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "멘토링관련설문은"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "조원들끼리"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "알아서"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "대표자를"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "정한후"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "제출하면"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "되는걸까요"
+                            },
+                            {
+                                "type": "text",
+                                "text": "? "
+                            },
+                            {
+                                "type": "text",
+                                "text": "근데"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "링크가"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "접속이"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "안됩니자"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,673 @@
+[
+    {
+        "user": "U05UWAPP5CN",
+        "type": "message",
+        "ts": "1699348902.483359",
+        "client_msg_id": "2739d912-11e7-42f4-a34f-c04679addf7e",
+        "text": "<@U05UNC6FNK1> <@U05V81G5ZDY> 내일 휴가 신청서 제출하였습니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "e188c4e803ab",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-11\/6013661876550_e188c4e803abd9be0399_72.png",
+            "first_name": "빙현진",
+            "real_name": "빙현진",
+            "display_name": "빙현진",
+            "team": "T05UGFFGL07",
+            "name": "hyunjin.bing",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1699348902.483359",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1699489837.777019",
+        "reply_users": [
+            "U05V81G5ZDY"
+        ],
+        "replies": [
+            {
+                "user": "U05V81G5ZDY",
+                "ts": "1699489837.777019"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OGKA+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05UNC6FNK1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05V81G5ZDY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 내일 휴가 신청서 제출하였습니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "beach_with_umbrella",
+                "users": [
+                    "U05V81G5ZDY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05UUUNAE5D",
+        "type": "message",
+        "ts": "1699351538.988949",
+        "client_msg_id": "2277aca1-188d-4564-a685-ae8fc83f22c9",
+        "text": "오늘 스크린샷 찍으려고 6시 59분에 대기하고 있다가 7시에 들어가야겠다 생각하고 있었는데 정확히 6시 59분에 줌창이 닫혀버렸어요. 그래서 스크린샷을 못 찍었습니다. QR체크는 정상적으로 했구요. 박진영 LM님께는 7:00에 59분에 창이 닫혀서 들어갈 수 없었다는 메시지 남겼습니다. 확인 부탁드립니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "32899ebdb4c2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5995423014227_32899ebdb4c26d670b69_72.png",
+            "first_name": "감성필SungFeelCalm",
+            "real_name": "감성필SungFeelCalm",
+            "display_name": "감성필",
+            "team": "T05UGFFGL07",
+            "name": "betterthingsarecoming",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1699351538.988949",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1699399956.796269",
+        "reply_users": [
+            "U05V7H78DUM",
+            "U05UNC6FNK1"
+        ],
+        "replies": [
+            {
+                "user": "U05V7H78DUM",
+                "ts": "1699351567.655419"
+            },
+            {
+                "user": "U05UNC6FNK1",
+                "ts": "1699399956.796269"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "j7aAE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "오늘 스크린샷 찍으려고 6시 59분에 대기하고 있다가 7시에 들어가야겠다 생각하고 있었는데 정확히 6시 59분에 줌창이 닫혀버렸어요. 그래서 스크린샷을 못 찍었습니다. QR체크는 정상적으로 했구요. 박진영 LM님께는 7:00에 59분에 창이 닫혀서 들어갈 수 없었다는 메시지 남겼습니다. 확인 부탁드립니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "U05UNC6FNK1",
+                    "U05UUUNAE5D"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U05V7H78DUM",
+        "type": "message",
+        "ts": "1699351567.655419",
+        "client_msg_id": "c427921f-b9f8-4a8f-b9ab-592f423cd4b5",
+        "text": "저도 같은 사유로 스크린샷 참여 못하였습니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "5ea65e4bfd4e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-12\/6024317246501_5ea65e4bfd4e925e65f9_72.png",
+            "first_name": "조예람",
+            "real_name": "조예람",
+            "display_name": "",
+            "team": "T05UGFFGL07",
+            "name": "dpfka4616",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1699351538.988949",
+        "parent_user_id": "U05UUUNAE5D",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cZTI8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "저도 같은 사유로 스크린샷 참여 못하였습니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05UNC6FNK1",
+        "type": "message",
+        "ts": "1699399956.796269",
+        "client_msg_id": "6dec5918-8f51-478c-9ab6-b8ee5d8ef4dc",
+        "text": "네 확인했습니다! 이후에는 꼭 스크린샷에 늦지 않게 참여해주시길 바랍니다.\ncc. <@U05V81G5ZDY> <@U06061L4S64>",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "260d154ea1e2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5979526758263_260d154ea1e2177fd001_72.jpg",
+            "first_name": "FC",
+            "real_name": "FC 하시안 매니저",
+            "display_name": "FC 하시안 매니저",
+            "team": "T05UGFFGL07",
+            "name": "xianha",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1699351538.988949",
+        "parent_user_id": "U05UUUNAE5D",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0lMVp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "네 확인했습니다! 이후에는 꼭 스크린샷에 늦지 않게 참여해주시길 바랍니다.\ncc. "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05V81G5ZDY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06061L4S64"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "대답",
+                "users": [
+                    "U05V7H78DUM",
+                    "U05V81G5ZDY",
+                    "U05UUUNAE5D"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "user": "U060LG0BT89",
+        "type": "message",
+        "ts": "1699404184.054359",
+        "client_msg_id": "6ce449e6-f8bd-4dd8-b48b-78359fe3c61c",
+        "text": "<@U05V81G5ZDY> <@U06061L4S64> 출석의 경우 9시 50분 전에 찍어도 상관없나요? 예를들어, 9시 30분에 QR이 올라오는데 그 쯤 찍어도 되는지 궁금합니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "g273c76b80b5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/273c76b80b5c013cab6c608d10041dd4.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "김준호",
+            "real_name": "김준호",
+            "display_name": "",
+            "team": "T05UGFFGL07",
+            "name": "demyank88",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1699404184.054359",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1699404720.945519",
+        "reply_users": [
+            "U05V81G5ZDY"
+        ],
+        "replies": [
+            {
+                "user": "U05V81G5ZDY",
+                "ts": "1699404720.945519"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "P+yZ1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05V81G5ZDY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06061L4S64"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 출석의 경우 9시 50분 전에 찍어도 상관없나요? 예를들어, 9시 30분에 QR이 올라오는데 그 쯤 찍어도 되는지 궁금합니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "U05V81G5ZDY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05V81G5ZDY",
+        "type": "message",
+        "ts": "1699404720.945519",
+        "client_msg_id": "16122bff-520a-4718-9691-ce93bea3a0b5",
+        "text": "<@U060LG0BT89> 출결 정시각 앞뒤 10분으로는 상관 없지만 가급적 줌입실 또는 스샷 참여와 함께 진행해주세요!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "db1aceeb0d90",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5994058472162_db1aceeb0d9030c57e69_72.jpg",
+            "first_name": "김현우",
+            "real_name": "김현우",
+            "display_name": "FC 김현우 매니저",
+            "team": "T05UGFFGL07",
+            "name": "hyunwoo.kim",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1699404184.054359",
+        "parent_user_id": "U060LG0BT89",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ojpsi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U060LG0BT89"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 출결 정시각 앞뒤 10분으로는 상관 없지만 가급적 줌입실 또는 스샷 참여와 함께 진행해주세요!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U060LG0BT89"
+                ],
+                "count": 1
+            },
+            {
+                "name": "eyes",
+                "users": [
+                    "U060LG0BT89"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06022Z2TED",
+        "type": "message",
+        "ts": "1699425234.492459",
+        "client_msg_id": "0ae7addc-170a-4d1e-89c9-ff8e6c45ef90",
+        "text": "<@U05UNC6FNK1> <@U05V81G5ZDY>\n\n*대상 : 국민 취업 지원 서류*\n*필요한 기간 : 10_월 11일 ~ 11월 10일_*\n*필요 서류 : 출석부*\n*이메일 : <mailto:leah8735@gmail.co|leah8735@gmail.co>*m\n*연락처 : 01087353586*",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "d62be7ca993c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5991921924404_d62be7ca993c5be99966_72.png",
+            "first_name": "ha",
+            "real_name": "ha ha",
+            "display_name": "김하연",
+            "team": "T05UGFFGL07",
+            "name": "leah8735",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1699425234.492459",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1699428012.715759",
+        "reply_users": [
+            "U05V81G5ZDY",
+            "U06022Z2TED",
+            "U05UNC6FNK1"
+        ],
+        "replies": [
+            {
+                "user": "U05V81G5ZDY",
+                "ts": "1699427744.287459"
+            },
+            {
+                "user": "U06022Z2TED",
+                "ts": "1699427872.665499"
+            },
+            {
+                "user": "U05UNC6FNK1",
+                "ts": "1699428012.715759"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mnEt1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05UNC6FNK1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05V81G5ZDY"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "대상 : 국민 취업 지원 서류",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "필요한 기간 : 10",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "월 11일 ~ 11월 10일",
+                                "style": {
+                                    "bold": true,
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "필요 서류 : 출석부",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "이메일 : ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:leah8735@gmail.co",
+                                "text": "leah8735@gmail.co",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "m\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "연락처 : 01087353586",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U05V81G5ZDY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05V81G5ZDY",
+        "type": "message",
+        "ts": "1699427744.287459",
+        "client_msg_id": "1db56f8e-b6f8-4d4e-9990-3714c88f3647",
+        "text": "<@U06022Z2TED> 안녕하세요 행정 매니저입니다.\n금일 11\/8일로 11\/10일은 미래일자로 출석부 발부가 안됩니다!\n해당일자에 재요청 주세요\n추가로 11\/10일 요청 시 해당일자 출결 반영은 익일 처리되어 결석으로 나타나는점 확인해주세요",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "db1aceeb0d90",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5994058472162_db1aceeb0d9030c57e69_72.jpg",
+            "first_name": "김현우",
+            "real_name": "김현우",
+            "display_name": "FC 김현우 매니저",
+            "team": "T05UGFFGL07",
+            "name": "hyunwoo.kim",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1699425234.492459",
+        "parent_user_id": "U06022Z2TED",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AZmnD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06022Z2TED"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 안녕하세요 행정 매니저입니다.\n금일 11\/8일로 11\/10일은 미래일자로 출석부 발부가 안됩니다!\n해당일자에 재요청 주세요\n추가로 11\/10일 요청 시 해당일자 출결 반영은 익일 처리되어 결석으로 나타나는점 확인해주세요"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06022Z2TED",
+        "type": "message",
+        "ts": "1699427872.665499",
+        "edited": {
+            "user": "U06022Z2TED",
+            "ts": "1699427925.000000"
+        },
+        "client_msg_id": "8c8654a2-8936-49f7-97e9-623b8d0593ee",
+        "text": "<@U05V81G5ZDY> 결석처리는 무방한데 10일까지 발부받으려면 무조건 내일부터 가능한건가요?",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "d62be7ca993c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5991921924404_d62be7ca993c5be99966_72.png",
+            "first_name": "ha",
+            "real_name": "ha ha",
+            "display_name": "김하연",
+            "team": "T05UGFFGL07",
+            "name": "leah8735",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1699425234.492459",
+        "parent_user_id": "U06022Z2TED",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Gg31W",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05V81G5ZDY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 결석처리는 무방한데 10일까지 발부받으려면 무조건 내일부터 가능한건가요?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05UNC6FNK1",
+        "type": "message",
+        "ts": "1699428012.715759",
+        "client_msg_id": "eac7f981-838c-4054-b6b3-e1049431425e",
+        "text": "하연님 미래일자가 안되기 때문에 당일 or 익일로 발급가능으로 확인하시길 바랍니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "260d154ea1e2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5979526758263_260d154ea1e2177fd001_72.jpg",
+            "first_name": "FC",
+            "real_name": "FC 하시안 매니저",
+            "display_name": "FC 하시안 매니저",
+            "team": "T05UGFFGL07",
+            "name": "xianha",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1699425234.492459",
+        "parent_user_id": "U06022Z2TED",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JgI6K",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "하연님 미래일자가 안되기 때문에 당일 or 익일로 발급가능으로 확인하시길 바랍니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U06022Z2TED"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

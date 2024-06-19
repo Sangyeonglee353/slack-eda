@@ -1,0 +1,97 @@
+[
+    {
+        "user": "U05VADPQPCL",
+        "type": "message",
+        "ts": "1714731072.766569",
+        "client_msg_id": "e5029a08-fe18-49bd-a2b8-9b23d5311f05",
+        "text": "<!channel>\nIR 4조에서 진행한 방법론에 관해 작성 된 노션 공유 드립니다!\n\n• <https:\/\/junnei.notion.site\/Advanced-RAG-with-Reranker-d49b6d29907f4f18985aa2691b332f9a|AI 실전 학습 경진대회 세미나 - IR 4조>",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "07e7ca00b8f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5991092857253_07e7ca00b8f0d0b13ba1_72.png",
+            "first_name": "패스트캠퍼스박기준",
+            "real_name": "패스트캠퍼스박기준",
+            "display_name": "LM 박기준",
+            "team": "T05UGFFGL07",
+            "name": "pgj.fc.career",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/junnei.notion.site\/images\/meta\/notion-wordmark.png",
+                "image_width": 1200,
+                "image_height": 630,
+                "image_bytes": 12884,
+                "from_url": "https:\/\/junnei.notion.site\/Advanced-RAG-with-Reranker-d49b6d29907f4f18985aa2691b332f9a",
+                "service_icon": "https:\/\/junnei.notion.site\/images\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/junnei.notion.site\/Advanced-RAG-with-Reranker-d49b6d29907f4f18985aa2691b332f9a",
+                "fallback": "App on Notion: Advanced RAG with Reranker | Notion",
+                "text": "이번 대회는 Information Retrieval 대회로,",
+                "title": "Advanced RAG with Reranker | Notion",
+                "title_link": "https:\/\/junnei.notion.site\/Advanced-RAG-with-Reranker-d49b6d29907f4f18985aa2691b332f9a",
+                "service_name": "App on Notion"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/PBTh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nIR 4조에서 진행한 방법론에 관해 작성 된 노션 공유 드립니다!\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/junnei.notion.site\/Advanced-RAG-with-Reranker-d49b6d29907f4f18985aa2691b332f9a",
+                                        "text": "AI 실전 학습 경진대회 세미나 - IR 4조"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U05V9N22ZUK",
+                    "U05V4KZR3NW",
+                    "U05V2GDNNLT",
+                    "U05V7H78DUM",
+                    "U05UN5DQ423",
+                    "U060LG0BT89",
+                    "U05VC7EEY5Q",
+                    "U05V2T62KUJ",
+                    "U06T9DJLS6Q",
+                    "U05UNMQ4LP9"
+                ],
+                "count": 10
+            }
+        ]
+    }
+]

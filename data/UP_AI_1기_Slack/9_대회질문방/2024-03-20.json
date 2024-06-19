@@ -1,0 +1,105 @@
+[
+    {
+        "user": "U0608EG7YEA",
+        "type": "message",
+        "ts": "1710918342.444169",
+        "client_msg_id": "ea4237b9-03ae-4ce2-99ae-a288a60d925f",
+        "text": "안녕하세요 창현님! 정확한 사항은 Stages 이슈 문의 게시판에 글 남겨주시면 정확한 답변을 받으실 수 있을듯 합니다. :slightly_smiling_face:\n\n제가 알기로는 저장공간이 초과되면 할당된 서버는 자동으로 종료&amp;반납 처리되는 것으로 알고 있습니다. Stages 에서 서버를 구성한 방식이라서 문제가 되는 것이 아니라 일반적으로 서버를 사용했을때  발생하는 문제로 알고 있습니다. 이 때문에 서버 내 저장 공간은 항상 유의해서 (미사용 파일 상시 삭제) 사용해야 하는 것으로 알고 있긴 합니다 :slightly_smiling_face:",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "542e7e1dec67",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-12\/6028220315186_542e7e1dec6721784df9_72.png",
+            "first_name": "업스테이지",
+            "real_name": "업스테이지 크리스",
+            "display_name": "업스테이지 크리스",
+            "team": "T05UGFFGL07",
+            "name": "chris",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1710917400.208499",
+        "parent_user_id": "U05V2P37518",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "q8Uso",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "안녕하세요 창현님! 정확한 사항은 Stages 이슈 문의 게시판에 글 남겨주시면 정확한 답변을 받으실 수 있을듯 합니다. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n제가 알기로는 저장공간이 초과되면 할당된 서버는 자동으로 종료&반납 처리되는 것으로 알고 있습니다. Stages 에서 서버를 구성한 방식이라서 문제가 되는 것이 아니라 일반적으로 서버를 사용했을때  발생하는 문제로 알고 있습니다. 이 때문에 서버 내 저장 공간은 항상 유의해서 (미사용 파일 상시 삭제) 사용해야 하는 것으로 알고 있긴 합니다 "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05V2P37518",
+        "type": "message",
+        "ts": "1710921419.019129",
+        "client_msg_id": "9c89cd03-26a9-413e-8553-ab89d83dee2c",
+        "text": "아하 감사합니다!!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "cc6bb0a6327a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5988791489650_cc6bb0a6327a06ec59ab_72.png",
+            "first_name": "배창현",
+            "real_name": "배창현",
+            "display_name": "",
+            "team": "T05UGFFGL07",
+            "name": "bae951753",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1710917400.208499",
+        "parent_user_id": "U05V2P37518",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JASwA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "아하 감사합니다!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0608EG7YEA"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

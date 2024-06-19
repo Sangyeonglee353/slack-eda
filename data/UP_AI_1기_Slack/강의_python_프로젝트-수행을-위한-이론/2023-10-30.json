@@ -1,0 +1,1069 @@
+[
+    {
+        "text": "금일 진행한 코드 공유드립니다 :slightly_smiling_face:",
+        "files": [
+            {
+                "id": "F063CBK3UH0",
+                "created": 1698659196,
+                "timestamp": 1698659196,
+                "name": "geo_weather.py",
+                "title": "geo_weather.py",
+                "mimetype": "text\/plain",
+                "filetype": "python",
+                "pretty_type": "Python",
+                "user": "U060VSK7ELC",
+                "user_team": "T05UGFFGL07",
+                "editable": true,
+                "size": 1089,
+                "mode": "snippet",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F063CBK3UH0\/geo_weather.py?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F063CBK3UH0\/download\/geo_weather.py?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "permalink": "https:\/\/fcupstageai1.slack.com\/files\/U060VSK7ELC\/F063CBK3UH0\/geo_weather.py",
+                "permalink_public": "https:\/\/slack-files.com\/T05UGFFGL07-F063CBK3UH0-a6f7d2c6d9",
+                "edit_link": "https:\/\/fcupstageai1.slack.com\/files\/U060VSK7ELC\/F063CBK3UH0\/geo_weather.py\/edit",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U060VSK7ELC",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LBun1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "금일 진행한 코드 공유드립니다 "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1698659224.704709",
+        "client_msg_id": "e7ebb163-a6e4-4bae-8d05-f034193452c4",
+        "thread_ts": "1698659224.704709",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1698668552.800229",
+        "reply_users": [
+            "U06061L4S64",
+            "U060VSK7ELC"
+        ],
+        "replies": [
+            {
+                "user": "U06061L4S64",
+                "ts": "1698659276.743749"
+            },
+            {
+                "user": "U060VSK7ELC",
+                "ts": "1698668552.800229"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U05V9N22ZUK",
+                    "U05V379NETU",
+                    "U06061L4S64",
+                    "U05UNMQ4LP9",
+                    "U05V2T62KUJ",
+                    "U05V5B27DK7",
+                    "U05V9LP47V0",
+                    "U05V7H78DUM",
+                    "U0600GGHJTC"
+                ],
+                "count": 9
+            },
+            {
+                "name": "+1::skin-tone-2",
+                "users": [
+                    "U05UT0JG4BZ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06061L4S64",
+        "type": "message",
+        "ts": "1698659276.743749",
+        "client_msg_id": "9d37206e-6b7b-4091-8a20-070e5610aa1e",
+        "text": "강사님 혹시 srt 진행한 쥬피터 파일도 부탁드립니다!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "9958a6e7ea98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5988755251283_9958a6e7ea98545615ca_72.png",
+            "first_name": "LM",
+            "real_name": "LM 박진영",
+            "display_name": "LM 박진영",
+            "team": "T05UGFFGL07",
+            "name": "pjy.fc.career",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698659224.704709",
+        "parent_user_id": "U060VSK7ELC",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4T5Vn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "강사님 혹시 srt 진행한 쥬피터 파일도 부탁드립니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U05V7V2AV8A"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05V9N22ZUK",
+        "type": "message",
+        "ts": "1698668087.804839",
+        "client_msg_id": "c13bdbc9-1673-4d66-87c4-1d4fcceb449b",
+        "text": "[ poetry를 이용해서 가상환경 내보내고 가져오는 기능 질문 ]\n\n강사님께서 poetry를 이용하면, 누구나 어떤 사람이 설정한 가상환경을 동일하게 사용한다고 하셨습니다. 가령 A라는 가상 환경을 만든 다음에 이를 내보내고 가져와서 설치하는 절차는 구체적으로 어떻게 진행되나요?\n\n인터넷을 찾아봤는데 이해가 안되어서 질문드립니다.\n우선 poetry build는 실행하면 \"No file\/folder found for package 가상환경이름\"의 메시지가 나오고 실행이 안됩니다.\n\npoetry export는 poetry.lock 파일을 requirements.txt 형식으로 내보내는 기능인 것으로 이해해서 강사님께서 말하신 내용은 아닌거 같구요.\n\n혹시 그냥 해당 프로젝트(혹은 가상환경)이 있는 폴더를 zip 등의 압축파일로 만들고 다른 사람이 그걸 받아서 풀어서 사용하면 되는건가요???",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "0698995c863f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5998310079844_0698995c863fed7643f0_72.png",
+            "first_name": "TaeHan",
+            "real_name": "TaeHan Kim",
+            "display_name": "김태한",
+            "team": "T05UGFFGL07",
+            "name": "kthnineone",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698668087.804839",
+        "reply_count": 7,
+        "reply_users_count": 2,
+        "latest_reply": "1698670026.289489",
+        "reply_users": [
+            "U060VSK7ELC",
+            "U05V9N22ZUK"
+        ],
+        "replies": [
+            {
+                "user": "U060VSK7ELC",
+                "ts": "1698668300.861379"
+            },
+            {
+                "user": "U060VSK7ELC",
+                "ts": "1698668314.051599"
+            },
+            {
+                "user": "U060VSK7ELC",
+                "ts": "1698668415.984359"
+            },
+            {
+                "user": "U060VSK7ELC",
+                "ts": "1698668419.601939"
+            },
+            {
+                "user": "U05V9N22ZUK",
+                "ts": "1698668619.955979"
+            },
+            {
+                "user": "U060VSK7ELC",
+                "ts": "1698669737.379099"
+            },
+            {
+                "user": "U05V9N22ZUK",
+                "ts": "1698670026.289489"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "02Zxy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "[ poetry를 이용해서 가상환경 내보내고 가져오는 기능 질문 ]\n\n강사님께서 poetry를 이용하면, 누구나 어떤 사람이 설정한 가상환경을 동일하게 사용한다고 하셨습니다. 가령 A라는 가상 환경을 만든 다음에 이를 내보내고 가져와서 설치하는 절차는 구체적으로 어떻게 진행되나요?\n\n인터넷을 찾아봤는데 이해가 안되어서 질문드립니다.\n우선 poetry build는 실행하면 \"No file\/folder found for package 가상환경이름\"의 메시지가 나오고 실행이 안됩니다.\n\npoetry export는 poetry.lock 파일을 requirements.txt 형식으로 내보내는 기능인 것으로 이해해서 강사님께서 말하신 내용은 아닌거 같구요.\n\n혹시 그냥 해당 프로젝트(혹은 가상환경)이 있는 폴더를 zip 등의 압축파일로 만들고 다른 사람이 그걸 받아서 풀어서 사용하면 되는건가요???"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U06061L4S64"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U060VSK7ELC",
+        "type": "message",
+        "ts": "1698668300.861379",
+        "client_msg_id": "0deba1c0-76e7-4f09-b0c3-2fbfaffbcd59",
+        "text": "poetry lock 파일이 있는 폴더에서\n`poetry install`\n하면 poetry lock과 똑같은 환경의 가상환경이 구축됩니다 :slightly_smiling_face:",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "4eedaa4888b6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-11\/6027355735027_4eedaa4888b662413f7b_72.jpg",
+            "first_name": "김인섭",
+            "real_name": "김인섭 강사",
+            "display_name": "김인섭 강사",
+            "team": "T05UGFFGL07",
+            "name": "inseop0813",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698668087.804839",
+        "parent_user_id": "U05V9N22ZUK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nyOO5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "poetry lock 파일이 있는 폴더에서\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "poetry install",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n하면 poetry lock과 똑같은 환경의 가상환경이 구축됩니다 "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U060VSK7ELC",
+        "type": "message",
+        "ts": "1698668314.051599",
+        "client_msg_id": "a9a9f8ea-57c7-4929-8e34-49c57764bd0e",
+        "text": "단순히 알집을 푼다고 되는건 아니구요! :slightly_smiling_face:",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "4eedaa4888b6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-11\/6027355735027_4eedaa4888b662413f7b_72.jpg",
+            "first_name": "김인섭",
+            "real_name": "김인섭 강사",
+            "display_name": "김인섭 강사",
+            "team": "T05UGFFGL07",
+            "name": "inseop0813",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698668087.804839",
+        "parent_user_id": "U05V9N22ZUK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xXN4j",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "단순히 알집을 푼다고 되는건 아니구요! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "추가로 build 명령어는 build 이후 배포를 위해 사용되는 것입니다.",
+        "files": [
+            {
+                "id": "F0636DQFMN2",
+                "created": 1698668409,
+                "timestamp": 1698668409,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U060VSK7ELC",
+                "user_team": "T05UGFFGL07",
+                "editable": false,
+                "size": 82661,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F0636DQFMN2\/image.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F0636DQFMN2\/download\/image.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F0636DQFMN2-d4f57ebf8c\/image_64.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F0636DQFMN2-d4f57ebf8c\/image_80.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F0636DQFMN2-d4f57ebf8c\/image_360.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_360_w": 360,
+                "thumb_360_h": 182,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F0636DQFMN2-d4f57ebf8c\/image_480.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_480_w": 480,
+                "thumb_480_h": 242,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F0636DQFMN2-d4f57ebf8c\/image_160.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F0636DQFMN2-d4f57ebf8c\/image_720.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_720_w": 720,
+                "thumb_720_h": 363,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F0636DQFMN2-d4f57ebf8c\/image_800.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_800_w": 800,
+                "thumb_800_h": 404,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F0636DQFMN2-d4f57ebf8c\/image_960.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_960_w": 960,
+                "thumb_960_h": 485,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F0636DQFMN2-d4f57ebf8c\/image_1024.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 517,
+                "original_w": 1147,
+                "original_h": 579,
+                "thumb_tiny": "AwAYADDTpMnPSs24vZkndF24U4GVqL+0J\/8AY\/75p2Fc2KKyor+dpUU7MFgD8tSXd5NFcMibdox1FFh3NAk+lLWR9vuP9j\/vmgahPkfc\/wC+aLCuPuLSZ55HVMgnIORUf2Gf+4PzFa56UlFxmXFZTrKjFBgMCeRUl3azSXLuiAqcc5HpWiOlHai4GP8AYrj\/AJ5j8xQLG4yP3Y6\/3hWvSjpRcVj\/2Q==",
+                "permalink": "https:\/\/fcupstageai1.slack.com\/files\/U060VSK7ELC\/F0636DQFMN2\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T05UGFFGL07-F0636DQFMN2-a1c7f31272",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U060VSK7ELC",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "B1N7y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "추가로 build 명령어는 build 이후 배포를 위해 사용되는 것입니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1698668415.984359",
+        "client_msg_id": "75630045-ee3a-444c-9180-8873c82f57eb",
+        "thread_ts": "1698668087.804839",
+        "parent_user_id": "U05V9N22ZUK"
+    },
+    {
+        "user": "U060VSK7ELC",
+        "type": "message",
+        "ts": "1698668419.601939",
+        "client_msg_id": "910412fc-172b-4649-86c1-451494176abe",
+        "text": "Poetry - Python dependency management and packaging made easy (<http:\/\/python-poetry.org|python-poetry.org><https:\/\/python-poetry.org\/|)>",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "4eedaa4888b6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-11\/6027355735027_4eedaa4888b662413f7b_72.jpg",
+            "first_name": "김인섭",
+            "real_name": "김인섭 강사",
+            "display_name": "김인섭 강사",
+            "team": "T05UGFFGL07",
+            "name": "inseop0813",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698668087.804839",
+        "parent_user_id": "U05V9N22ZUK",
+        "attachments": [
+            {
+                "from_url": "https:\/\/python-poetry.org\/",
+                "service_icon": "https:\/\/python-poetry.org\/images\/favicon-origami-32.png",
+                "id": 1,
+                "original_url": "https:\/\/python-poetry.org\/",
+                "fallback": "Poetry - Python dependency management and packaging made easy",
+                "text": "Python dependency management and packaging made easy",
+                "title": "Poetry - Python dependency management and packaging made easy",
+                "title_link": "https:\/\/python-poetry.org\/",
+                "service_name": "python-poetry.org"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CsHGi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Poetry - Python dependency management and packaging made easy ("
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/python-poetry.org",
+                                "text": "python-poetry.org"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/python-poetry.org\/",
+                                "text": ")"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "",
+        "files": [
+            {
+                "id": "F063RNB9S8Z",
+                "created": 1698668539,
+                "timestamp": 1698668539,
+                "name": "srt.ipynb",
+                "title": "srt.ipynb",
+                "mimetype": "application\/octet-stream",
+                "filetype": "binary",
+                "pretty_type": "Binary",
+                "user": "U060VSK7ELC",
+                "user_team": "T05UGFFGL07",
+                "editable": false,
+                "size": 60265,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F063RNB9S8Z\/srt.ipynb?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F063RNB9S8Z\/download\/srt.ipynb?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "media_display_type": "unknown",
+                "permalink": "https:\/\/fcupstageai1.slack.com\/files\/U060VSK7ELC\/F063RNB9S8Z\/srt.ipynb",
+                "permalink_public": "https:\/\/slack-files.com\/T05UGFFGL07-F063RNB9S8Z-18c1a943da",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U060VSK7ELC",
+        "display_as_bot": false,
+        "type": "message",
+        "ts": "1698668552.800229",
+        "client_msg_id": "70eb9883-e8fc-4fd0-b682-5b20ef19a964",
+        "thread_ts": "1698659224.704709",
+        "parent_user_id": "U060VSK7ELC",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U06061L4S64"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05V9N22ZUK",
+        "type": "message",
+        "ts": "1698668619.955979",
+        "client_msg_id": "89abeb19-d696-47b8-beac-a31365d22822",
+        "text": "답변 감사합니다. 그러면 상대한테 lock 파일만 넘겨주면 작동 한다고 봐도 되나요?",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "0698995c863f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5998310079844_0698995c863fed7643f0_72.png",
+            "first_name": "TaeHan",
+            "real_name": "TaeHan Kim",
+            "display_name": "김태한",
+            "team": "T05UGFFGL07",
+            "name": "kthnineone",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698668087.804839",
+        "parent_user_id": "U05V9N22ZUK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vPu6A",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "답변 감사합니다. 그러면 상대한테 lock 파일만 넘겨주면 작동 한다고 봐도 되나요?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U060VSK7ELC",
+        "type": "message",
+        "ts": "1698669737.379099",
+        "edited": {
+            "user": "U060VSK7ELC",
+            "ts": "1698669943.000000"
+        },
+        "client_msg_id": "b760133c-86b4-4213-8b61-53dc66f29c05",
+        "text": "정확히 말하면 pyproject.toml과 poetry.lock입니다.\n다만, 말씀주신 것처럼 로컬 환경이 아닌 외부의 타인과 환경 공유 및  파이썬 가상 환경 구축시에는 아래의 명령어를 통해 requirements.txt 파일도 함께 전달해야해요~!\n`poetry export --output requirements.txt --without-hashes`\n\n이후 poetry install  :slightly_smiling_face:\n물론 위에서 말씀드린 poetry 관련이 두 파일만 있어도 되구요. 이때는 이슈가 있을 수 있는데 관련 내용은 찾아보시면 될 것 같습니다!!\n홧팅!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "4eedaa4888b6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-11\/6027355735027_4eedaa4888b662413f7b_72.jpg",
+            "first_name": "김인섭",
+            "real_name": "김인섭 강사",
+            "display_name": "김인섭 강사",
+            "team": "T05UGFFGL07",
+            "name": "inseop0813",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698668087.804839",
+        "parent_user_id": "U05V9N22ZUK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fHuky",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "정확히 말하면 pyproject.toml과 poetry.lock입니다.\n다만, 말씀주신 것처럼 로컬 환경이 아닌 외부의 타인과 환경 공유 및  파이썬 가상 환경 구축시에는 아래의 명령어를 통해 requirements.txt 파일도 함께 전달해야해요~!\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "poetry export --output requirements.txt --without-hashes",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n이후 poetry install  "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n물론 위에서 말씀드린 poetry 관련이 두 파일만 있어도 되구요. 이때는 이슈가 있을 수 있는데 관련 내용은 찾아보시면 될 것 같습니다!!\n홧팅!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U05V9N22ZUK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05V9N22ZUK",
+        "type": "message",
+        "ts": "1698670026.289489",
+        "client_msg_id": "d646f264-eb61-4de4-8fd2-c7221ac22e5c",
+        "text": "답변 감사드립니다!!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "0698995c863f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5998310079844_0698995c863fed7643f0_72.png",
+            "first_name": "TaeHan",
+            "real_name": "TaeHan Kim",
+            "display_name": "김태한",
+            "team": "T05UGFFGL07",
+            "name": "kthnineone",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698668087.804839",
+        "parent_user_id": "U05V9N22ZUK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qU0aK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "답변 감사드립니다!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U060VSK7ELC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05V7V2AV8A",
+        "type": "message",
+        "ts": "1698673497.319809",
+        "client_msg_id": "fe9b89ed-6195-456b-b3e4-c7cce2c655eb",
+        "text": "[ jsp(?)에서 링크가 바뀌지 않는 문제점 ]\n<https:\/\/www.horsepia.com\/hp\/pa\/cc\/CC0010C_001.do?page=001\/CC0010C.jsp>\n여기에서 제목과 링크를 가져오고 싶습니다.\n제목은 다르게 가져와 지는데 링크는 전부 똑같은 링크를 가져오게 되네요. 어떤 문제점이 있는 걸까요? 조언을 구해봅니다~\n<https:\/\/www.horsepia.com\/hp\/pa\/cc\/CC0010C\/view.do?cms=001\/1195420_1429.jsp>",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "28368614e02a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5987346071766_28368614e02abbfb71bd_72.png",
+            "first_name": "andrew",
+            "real_name": "andrew jang",
+            "display_name": "장준규",
+            "team": "T05UGFFGL07",
+            "name": "goldenbeluga",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698673497.319809",
+        "reply_count": 5,
+        "reply_users_count": 3,
+        "latest_reply": "1698714170.718479",
+        "reply_users": [
+            "U05V7V2AV8A",
+            "U05V7H78DUM",
+            "U060VSK7ELC"
+        ],
+        "replies": [
+            {
+                "user": "U05V7V2AV8A",
+                "ts": "1698673801.749649"
+            },
+            {
+                "user": "U05V7H78DUM",
+                "ts": "1698677074.705709"
+            },
+            {
+                "user": "U060VSK7ELC",
+                "ts": "1698710313.820349"
+            },
+            {
+                "user": "U05V7V2AV8A",
+                "ts": "1698711579.607809"
+            },
+            {
+                "user": "U060VSK7ELC",
+                "ts": "1698714170.718479"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tDoTv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "[ jsp(?)에서 링크가 바뀌지 않는 문제점 ]\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.horsepia.com\/hp\/pa\/cc\/CC0010C_001.do?page=001\/CC0010C.jsp"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n여기에서 제목과 링크를 가져오고 싶습니다.\n제목은 다르게 가져와 지는데 링크는 전부 똑같은 링크를 가져오게 되네요. 어떤 문제점이 있는 걸까요? 조언을 구해봅니다~\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.horsepia.com\/hp\/pa\/cc\/CC0010C\/view.do?cms=001\/1195420_1429.jsp"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "",
+        "files": [
+            {
+                "id": "F0642JAMELQ",
+                "created": 1698673799,
+                "timestamp": 1698673799,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U05V7V2AV8A",
+                "user_team": "T05UGFFGL07",
+                "editable": false,
+                "size": 134648,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F0642JAMELQ\/image.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F0642JAMELQ\/download\/image.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F0642JAMELQ-43e5e742a0\/image_64.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F0642JAMELQ-43e5e742a0\/image_80.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F0642JAMELQ-43e5e742a0\/image_360.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_360_w": 360,
+                "thumb_360_h": 154,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F0642JAMELQ-43e5e742a0\/image_480.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_480_w": 480,
+                "thumb_480_h": 205,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F0642JAMELQ-43e5e742a0\/image_160.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F0642JAMELQ-43e5e742a0\/image_720.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_720_w": 720,
+                "thumb_720_h": 308,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F0642JAMELQ-43e5e742a0\/image_800.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_800_w": 800,
+                "thumb_800_h": 342,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F0642JAMELQ-43e5e742a0\/image_960.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_960_w": 960,
+                "thumb_960_h": 410,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F0642JAMELQ-43e5e742a0\/image_1024.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 437,
+                "original_w": 1358,
+                "original_h": 580,
+                "thumb_tiny": "AwAUADC9zvODinZb1Wk\/jbjNLj\/Y\/WgBfmPQigbu+KTH+x+tA\/3T+dADvm9B+dHPoPzpuB\/dNKMehoAaBuds9qdt9zTU++9PoAMH1NGD6mlooATB\/vGjn1NLSUAf\/9k=",
+                "permalink": "https:\/\/fcupstageai1.slack.com\/files\/U05V7V2AV8A\/F0642JAMELQ\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T05UGFFGL07-F0642JAMELQ-4f9509ecfd",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U05V7V2AV8A",
+        "display_as_bot": false,
+        "type": "message",
+        "ts": "1698673801.749649",
+        "client_msg_id": "b3a7351d-11a4-43eb-96d0-561ff310d562",
+        "thread_ts": "1698673497.319809",
+        "parent_user_id": "U05V7V2AV8A"
+    },
+    {
+        "user": "U05V7H78DUM",
+        "type": "message",
+        "ts": "1698677074.705709",
+        "client_msg_id": "68aed61d-6042-4f31-b852-2642ea27ca57",
+        "text": "안녕하세요 준규님! 지나가다 댓글 남깁니다(?) _1429 앞의 값 보시면 다 제대로 들어간 것 같습니다 ..!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "5ea65e4bfd4e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-12\/6024317246501_5ea65e4bfd4e925e65f9_72.png",
+            "first_name": "조예람",
+            "real_name": "조예람",
+            "display_name": "",
+            "team": "T05UGFFGL07",
+            "name": "dpfka4616",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698673497.319809",
+        "parent_user_id": "U05V7V2AV8A",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "U36Ob",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "안녕하세요 준규님! 지나가다 댓글 남깁니다(?) _1429 앞의 값 보시면 다 제대로 들어간 것 같습니다 ..!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "smiling_face_with_3_hearts",
+                "users": [
+                    "U060VSK7ELC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U060VSK7ELC",
+        "type": "message",
+        "ts": "1698710313.820349",
+        "client_msg_id": "d280ed38-66ab-4552-a502-5f805b9023e4",
+        "text": "ㅎㅎㅎ넵 링크가 다르네요~!! :slightly_smiling_face:",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "4eedaa4888b6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-11\/6027355735027_4eedaa4888b662413f7b_72.jpg",
+            "first_name": "김인섭",
+            "real_name": "김인섭 강사",
+            "display_name": "김인섭 강사",
+            "team": "T05UGFFGL07",
+            "name": "inseop0813",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698673497.319809",
+        "parent_user_id": "U05V7V2AV8A",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZUS06",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ㅎㅎㅎ넵 링크가 다르네요~!! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05V7V2AV8A",
+        "type": "message",
+        "ts": "1698711579.607809",
+        "client_msg_id": "fcffbbdb-89b7-434a-b030-837201706965",
+        "text": "헉... 어제 분명히 다 같았는데 ㅠㅠ 한 참동안 저걸로... 시간 보냈는데 억울하네요 ㅋㅋㅋㅋㅋㅋ :laughing: \n<@U05V7H78DUM>감사합니다...",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "28368614e02a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5987346071766_28368614e02abbfb71bd_72.png",
+            "first_name": "andrew",
+            "real_name": "andrew jang",
+            "display_name": "장준규",
+            "team": "T05UGFFGL07",
+            "name": "goldenbeluga",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698673497.319809",
+        "parent_user_id": "U05V7V2AV8A",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0rRNq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "헉... 어제 분명히 다 같았는데 ㅠㅠ 한 참동안 저걸로... 시간 보냈는데 억울하네요 ㅋㅋㅋㅋㅋㅋ "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "laughing",
+                                "unicode": "1f606"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05V7H78DUM"
+                            },
+                            {
+                                "type": "text",
+                                "text": "감사합니다..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "fb-like",
+                "users": [
+                    "U05V7H78DUM"
+                ],
+                "count": 1
+            },
+            {
+                "name": "grinning",
+                "users": [
+                    "U060VSK7ELC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U060VSK7ELC",
+        "type": "message",
+        "ts": "1698714170.718479",
+        "client_msg_id": "e592869e-9d56-4eff-8a07-488826fd5644",
+        "text": "원래 코딩이 그런겁니다(?)!! ㅎㅎㅎ 화이팅!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "4eedaa4888b6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-11\/6027355735027_4eedaa4888b662413f7b_72.jpg",
+            "first_name": "김인섭",
+            "real_name": "김인섭 강사",
+            "display_name": "김인섭 강사",
+            "team": "T05UGFFGL07",
+            "name": "inseop0813",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698673497.319809",
+        "parent_user_id": "U05V7V2AV8A",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iAuXG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "원래 코딩이 그런겁니다(?)!! ㅎㅎㅎ 화이팅!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "melting_face",
+                "users": [
+                    "U05V7V2AV8A"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

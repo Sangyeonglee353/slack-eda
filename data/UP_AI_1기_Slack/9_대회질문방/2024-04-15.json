@@ -1,0 +1,348 @@
+[
+    {
+        "user": "U05UVE9DFSB",
+        "type": "message",
+        "ts": "1713174635.824879",
+        "client_msg_id": "b23317d1-0b8a-4696-a175-d509be6be27a",
+        "text": "<@U0608EG7YEA> 안녕하세요 제 실수로 저와 팀원들이 팀 병합을 하지 못하였는데 혹시 팀 병합 기간을 오늘 저녁까지로 연장해주실 수 있을까요..? 죄송합니다..",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "9c70723d095f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5981485524487_9c70723d095f99e86fcc_72.png",
+            "first_name": "김채원",
+            "real_name": "김채원",
+            "display_name": "김채원",
+            "team": "T05UGFFGL07",
+            "name": "kcw050608",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1713174635.824879",
+        "reply_count": 9,
+        "reply_users_count": 4,
+        "latest_reply": "1713761053.273269",
+        "reply_users": [
+            "U0608EG7YEA",
+            "U05UVE9DFSB",
+            "U05UW74NJ0N",
+            "U05V9LP47V0"
+        ],
+        "replies": [
+            {
+                "user": "U0608EG7YEA",
+                "ts": "1713185706.826589"
+            },
+            {
+                "user": "U05UVE9DFSB",
+                "ts": "1713233010.828569"
+            },
+            {
+                "user": "U05UW74NJ0N",
+                "ts": "1713243287.347009"
+            },
+            {
+                "user": "U0608EG7YEA",
+                "ts": "1713250098.985219"
+            },
+            {
+                "user": "U0608EG7YEA",
+                "ts": "1713317362.662849"
+            },
+            {
+                "user": "U0608EG7YEA",
+                "ts": "1713317479.474059"
+            },
+            {
+                "user": "U05V9LP47V0",
+                "ts": "1713687715.860219"
+            },
+            {
+                "user": "U0608EG7YEA",
+                "ts": "1713747795.551489"
+            },
+            {
+                "user": "U05V9LP47V0",
+                "ts": "1713761053.273269"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6zrn5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0608EG7YEA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 안녕하세요 제 실수로 저와 팀원들이 팀 병합을 하지 못하였는데 혹시 팀 병합 기간을 오늘 저녁까지로 연장해주실 수 있을까요..? 죄송합니다.."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0608EG7YEA",
+        "type": "message",
+        "ts": "1713185706.826589",
+        "client_msg_id": "0c7a7f9b-66d4-4bc5-b447-1caba2957f1f",
+        "text": "내일 오후 한시까지로 연장해두었습니다. 기한 내에 결성 꼭 부탁드립니다 :pray:",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "542e7e1dec67",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-12\/6028220315186_542e7e1dec6721784df9_72.png",
+            "first_name": "업스테이지",
+            "real_name": "업스테이지 크리스",
+            "display_name": "업스테이지 크리스",
+            "team": "T05UGFFGL07",
+            "name": "chris",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1713174635.824879",
+        "parent_user_id": "U05UVE9DFSB",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Jujq7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "내일 오후 한시까지로 연장해두었습니다. 기한 내에 결성 꼭 부탁드립니다 "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "대답",
+                "users": [
+                    "U05UVE9DFSB"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05UVE9DFSB",
+        "type": "message",
+        "ts": "1713233010.828569",
+        "client_msg_id": "35DFF9B1-50B0-438F-BC51-BC3197F93DE9",
+        "text": "감사합니다!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "9c70723d095f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5981485524487_9c70723d095f99e86fcc_72.png",
+            "first_name": "김채원",
+            "real_name": "김채원",
+            "display_name": "김채원",
+            "team": "T05UGFFGL07",
+            "name": "kcw050608",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1713174635.824879",
+        "parent_user_id": "U05UVE9DFSB",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ok6Qb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "감사합니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0608EG7YEA",
+        "type": "message",
+        "ts": "1713233244.675689",
+        "client_msg_id": "a548807f-1821-4246-8048-8372a7393db7",
+        "text": "개발팀에서 답변 주신 것으로 확인했습니다 :slightly_smiling_face:",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "542e7e1dec67",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-12\/6028220315186_542e7e1dec6721784df9_72.png",
+            "first_name": "업스테이지",
+            "real_name": "업스테이지 크리스",
+            "display_name": "업스테이지 크리스",
+            "team": "T05UGFFGL07",
+            "name": "chris",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1713147858.401819",
+        "parent_user_id": "U05UN5DQ423",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pR3SH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "개발팀에서 답변 주신 것으로 확인했습니다 "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U05UN5DQ423"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05UW74NJ0N",
+        "type": "message",
+        "ts": "1713243287.347009",
+        "edited": {
+            "user": "U05UW74NJ0N",
+            "ts": "1713243396.000000"
+        },
+        "client_msg_id": "f7d63e0f-577a-4f69-b8aa-8fa68d5d90c8",
+        "text": "<@U0608EG7YEA>  \n안녕하세요. ocr-2 팀도 병합이 안됐습니다. 죄송합니다. 초대하기 가능하게 부탁좀 드립니다. :pray:",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "gf4e3c8b4c9e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/f4e3c8b4c9eebf87b0a9a7969b1a5c6a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+            "first_name": "우승현",
+            "real_name": "우승현",
+            "display_name": "우승현",
+            "team": "T05UGFFGL07",
+            "name": "fromwsh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1713174635.824879",
+        "parent_user_id": "U05UVE9DFSB",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gODn3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0608EG7YEA"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  \n안녕하세요. ocr-2 팀도 병합이 안됐습니다. 죄송합니다. 초대하기 가능하게 부탁좀 드립니다. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0608EG7YEA",
+        "type": "message",
+        "ts": "1713250098.985219",
+        "client_msg_id": "05dfb3c4-bbef-4847-a027-22bca5aa98a9",
+        "text": "<@U05UW74NJ0N> 내일 오전 11시까지 연장해두었습니다. 댓글 확인하시는 대로 병합 후 말씀 부탁드립니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "542e7e1dec67",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-12\/6028220315186_542e7e1dec6721784df9_72.png",
+            "first_name": "업스테이지",
+            "real_name": "업스테이지 크리스",
+            "display_name": "업스테이지 크리스",
+            "team": "T05UGFFGL07",
+            "name": "chris",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1713174635.824879",
+        "parent_user_id": "U05UVE9DFSB",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "o56OU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05UW74NJ0N"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 내일 오전 11시까지 연장해두었습니다. 댓글 확인하시는 대로 병합 후 말씀 부탁드립니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U05UW74NJ0N"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

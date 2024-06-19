@@ -1,0 +1,151 @@
+[
+    {
+        "user": "U05VADPQPCL",
+        "type": "message",
+        "ts": "1713493736.317279",
+        "client_msg_id": "355efce2-796a-44f2-9123-973fc250560f",
+        "text": "<!channel>\n*외부 경진대회 수상 이력 조사 안내*\n안녕하세요 Upstage AI Lab 1기 수강생 여러분!!\n\nUpstage AI Lab 1기 과정 기간 중 참여한 외부 경진대회 수상 이력을 공유해주시면 감사드리겠습니다!\n수료 점수 및 공유해주신 이력을 토대로 우수 수료생을 선발할 예정이니 꼭 공유 부탁 드립니다.\n\n*ML 프로젝트 진행하시면서 수상하신 이력도 공유 가능합니다!*\n\n&gt; *우수 수료생 혜택*\n• 추후 공개 :fire:\n&gt; *외부 경진대회 수상 이력 조사*\n• <https:\/\/forms.gle\/WXoQswpphSchheW58|외부 경진대회 수상 이력 조사 제출 폼 바로가기>\n• *제출 기한 : 4\/22(월) 13시까지*",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "07e7ca00b8f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5991092857253_07e7ca00b8f0d0b13ba1_72.png",
+            "first_name": "패스트캠퍼스박기준",
+            "real_name": "패스트캠퍼스박기준",
+            "display_name": "LM 박기준",
+            "team": "T05UGFFGL07",
+            "name": "pgj.fc.career",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pWqpU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "외부 경진대회 수상 이력 조사 안내",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n안녕하세요 Upstage AI Lab 1기 수강생 여러분!!\n\nUpstage AI Lab 1기 과정 기간 중 참여한 외부 경진대회 수상 이력을 공유해주시면 감사드리겠습니다!\n수료 점수 및 공유해주신 이력을 토대로 우수 수료생을 선발할 예정이니 꼭 공유 부탁 드립니다.\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ML 프로젝트 진행하시면서 수상하신 이력도 공유 가능합니다!",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "우수 수료생 혜택",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "추후 공개 "
+                                    },
+                                    {
+                                        "type": "emoji",
+                                        "name": "fire",
+                                        "unicode": "1f525"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "외부 경진대회 수상 이력 조사",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/forms.gle\/WXoQswpphSchheW58",
+                                        "text": "외부 경진대회 수상 이력 조사 제출 폼 바로가기"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "제출 기한 : 4\/22(월) 13시까지",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ]
+    }
+]

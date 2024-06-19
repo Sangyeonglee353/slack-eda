@@ -1,0 +1,177 @@
+[
+    {
+        "user": "U0600C60ZK4",
+        "type": "message",
+        "ts": "1709167183.933049",
+        "client_msg_id": "11952A42-0402-4494-94D3-5875BEDD8730",
+        "text": "<@U05UNC6FNK1> <@U05V81G5ZDY>\n안녕하세요 매니저님. 2024.3.4(월요일) 예비군 참석 출석인정 신청드립니다. 관련 서류는 훈련 끝나고 구글폼으로 제출하겠습니다.  확인 부탁드리겠습니다. 감사합니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "87175e1bc0c1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/6000414092562_87175e1bc0c1a87a6752_72.jpg",
+            "first_name": "official",
+            "real_name": "official",
+            "display_name": "정다슬",
+            "team": "T05UGFFGL07",
+            "name": "anyone158911",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1709167183.933049",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1709856713.291779",
+        "reply_users": [
+            "U0600C60ZK4"
+        ],
+        "replies": [
+            {
+                "user": "U0600C60ZK4",
+                "ts": "1709856713.291779"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OjazO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05UNC6FNK1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05V81G5ZDY"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "안녕하세요 매니저님"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "2024.3.4("
+                            },
+                            {
+                                "type": "text",
+                                "text": "월요일"
+                            },
+                            {
+                                "type": "text",
+                                "text": ") "
+                            },
+                            {
+                                "type": "text",
+                                "text": "예비군"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "참석"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "출석인정"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "신청드립니다"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". "
+                            },
+                            {
+                                "type": "text",
+                                "text": "관련"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "서류는"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "훈련"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 끝"
+                            },
+                            {
+                                "type": "text",
+                                "text": "나고"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "구글폼으로"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 제출하겠습니다. "
+                            },
+                            {
+                                "type": "text",
+                                "text": " 확인 부탁드리겠습니다. 감사합니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "military_helmet",
+                "users": [
+                    "U05V81G5ZDY",
+                    "U05UNC6FNK1"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

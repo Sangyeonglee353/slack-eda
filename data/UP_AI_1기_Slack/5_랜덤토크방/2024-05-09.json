@@ -1,0 +1,241 @@
+[
+    {
+        "user": "U05V9N22ZUK",
+        "type": "message",
+        "ts": "1715313144.723679",
+        "edited": {
+            "user": "U05V9N22ZUK",
+            "ts": "1715314979.000000"
+        },
+        "client_msg_id": "6d4ec9ef-9ee7-4ed3-9f89-b8f912a0b766",
+        "text": "*스터디 그룹 모집*\n\n안녕하세요 이제 과정도 끝나가는데 더 공부하고자 스터디 그룹을 모집합니다.\n여기 슬랙은 6월 5일에 Pro 플랜이 만료된다고 해서 디스코드 채널을 새로 만들었습니다.\n게임, 스터디, 업무 등에서 쓰이는 메신저앱 인데 스터디 하실 분들은 들어와주세요.\n\n기본적으로 AI 관련 주제들; ML, DL, CV, NLP 등을 다루지만\n코딩테스트나 대회 참여 등도 가능합니다.\n주제와 세부사항은 참여자들끼리 논의해서 정하면 될듯합니다.\n\n그리고 어떤 주제나 대회를 가지고 공부하거나 시간을 투자하기엔 어렵지만,\n생활패턴의 유지는 하고 싶은 분들을 위한 출석체크 스터디도 고려하고 있습니다.\n\n부담없이 들어와주세요.\n\n<https:\/\/discord.gg\/H87qZBMY|https:\/\/discord.gg\/H87qZBMY>",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "0698995c863f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5998310079844_0698995c863fed7643f0_72.png",
+            "first_name": "TaeHan",
+            "real_name": "TaeHan Kim",
+            "display_name": "김태한",
+            "team": "T05UGFFGL07",
+            "name": "kthnineone",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1715313144.723679",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1715314288.407529",
+        "reply_users": [
+            "U05VAHXECP6",
+            "U05V9N22ZUK"
+        ],
+        "replies": [
+            {
+                "user": "U05VAHXECP6",
+                "ts": "1715314225.542979"
+            },
+            {
+                "user": "U05V9N22ZUK",
+                "ts": "1715314288.407529"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1715314288.407529",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zuMwK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "스터디 그룹 모집",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n안녕하세요 이제 과정도 끝나가는데 더 공부하고자 스터디 그룹을 모집합니다.\n여기 슬랙은 6월 5일에 Pro 플랜이 만료된다고 해서 디스코드 채널을 새로 만들었습니다.\n게임, 스터디, 업무 등에서 쓰이는 메신저앱 인데 스터디 하실 분들은 들어와주세요.\n\n기본적으로 AI 관련 주제들; ML, DL, CV, NLP 등을 다루지만\n코딩테스트나 대회 참여 등도 가능합니다.\n주제와 세부사항은 참여자들끼리 논의해서 정하면 될듯합니다.\n\n그리고 어떤 주제나 대회를 가지고 공부하거나 시간을 투자하기엔 어렵지만,\n생활패턴의 유지는 하고 싶은 분들을 위한 출석체크 스터디도 고려하고 있습니다.\n\n부담없이 들어와주세요.\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/discord.gg\/H87qZBMY",
+                                "text": "https:\/\/discord.gg\/H87qZBMY"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U05VADPQPCL",
+                    "U05V379NETU",
+                    "U05UN7M2GKZ",
+                    "U05VAHXECP6",
+                    "U05V4KZR3NW",
+                    "U05UN6NTN8P",
+                    "U05UN5DQ423"
+                ],
+                "count": 7
+            }
+        ]
+    },
+    {
+        "user": "U05VAHXECP6",
+        "type": "message",
+        "ts": "1715314225.542979",
+        "client_msg_id": "b2992291-1a5c-4346-82b7-00b4dc8dc882",
+        "text": "<@U05V9N22ZUK> 안녕하세요. 태한님!\n슬랙이 6월 5일에 만료된다고 나오시는 군요.\n해당 내용은 저희 슬랙 Pro 플랜에 관련된 사항이며, 슬랙 무료 플랜으로는 계속 유지될 예정이라는 점 참고 부탁 드리겠습니다! :grinning:",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "50abee101814",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-11\/6044824153712_50abee1018149e21919b_72.jpg",
+            "first_name": "이상영",
+            "real_name": "이상영",
+            "display_name": "FC 이상영 매니저",
+            "team": "T05UGFFGL07",
+            "name": "sangyeong.lee",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1715313144.723679",
+        "parent_user_id": "U05V9N22ZUK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7iAtE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05V9N22ZUK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 안녕하세요. 태한님!\n슬랙이 6월 5일에 만료된다고 나오시는 군요.\n해당 내용은 저희 슬랙 Pro 플랜에 관련된 사항이며, 슬랙 무료 플랜으로는 계속 유지될 예정이라는 점 참고 부탁 드리겠습니다! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "grinning",
+                                "unicode": "1f600"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05V9N22ZUK",
+        "type": "message",
+        "ts": "1715314288.407529",
+        "client_msg_id": "e62115eb-7bec-4740-a214-500bd2b7f04e",
+        "text": "<@U05VAHXECP6> 정정 감사드립니다!!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "0698995c863f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5998310079844_0698995c863fed7643f0_72.png",
+            "first_name": "TaeHan",
+            "real_name": "TaeHan Kim",
+            "display_name": "김태한",
+            "team": "T05UGFFGL07",
+            "name": "kthnineone",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1715313144.723679",
+        "parent_user_id": "U05V9N22ZUK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "K7q5I",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05VAHXECP6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 정정 감사드립니다!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "muscle",
+                "users": [
+                    "U05VAHXECP6"
+                ],
+                "count": 1
+            },
+            {
+                "name": "man-gesturing-ok",
+                "users": [
+                    "U05VAHXECP6"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U060LG0BT89",
+        "type": "message",
+        "ts": "1715316533.394689",
+        "client_msg_id": "a4a2d742-3468-4925-9a52-51975e486db5",
+        "text": "다시보니 멋지네요. 경험담 궁금합니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "g273c76b80b5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/273c76b80b5c013cab6c608d10041dd4.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "김준호",
+            "real_name": "김준호",
+            "display_name": "",
+            "team": "T05UGFFGL07",
+            "name": "demyank88",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712634455.309089",
+        "parent_user_id": "U05VBQMH3D3",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "csNQA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "다시보니 멋지네요. 경험담 궁금합니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

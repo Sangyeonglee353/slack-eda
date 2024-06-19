@@ -1,0 +1,98 @@
+[
+    {
+        "text": "<!channel>\n오늘 진행한 강의교안입니다!\nLinear Regression에 관련된 과제는 내일 오전에 살포시 놓고 가겠습니다ㅎㅎ (colab link)\n오늘도 고생 많으셨고, 내일 오후 5시에 뵙겠습니다!",
+        "files": [
+            {
+                "id": "F066VRK27NW",
+                "created": 1700646939,
+                "timestamp": 1700646939,
+                "name": "[UPSTAGE AI LAB-01]Machine Learning Workflow_20231122.pdf",
+                "title": "[UPSTAGE AI LAB-01]Machine Learning Workflow_20231122.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U065TBUL5EE",
+                "user_team": "T05UGFFGL07",
+                "editable": false,
+                "size": 14657029,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F066VRK27NW\/_upstage_ai_lab-01_machine_learning_workflow_20231122.pdf?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F066VRK27NW\/download\/_upstage_ai_lab-01_machine_learning_workflow_20231122.pdf?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "media_display_type": "unknown",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F066VRK27NW-cbb9926a07\/_upstage_ai_lab-01_machine_learning_workflow_20231122_thumb_pdf.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_pdf_w": 1210,
+                "thumb_pdf_h": 682,
+                "permalink": "https:\/\/fcupstageai1.slack.com\/files\/U065TBUL5EE\/F066VRK27NW\/_upstage_ai_lab-01_machine_learning_workflow_20231122.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/T05UGFFGL07-F066VRK27NW-17dc96be52",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U065TBUL5EE",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+nk5P",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n오늘 진행한 강의교안입니다!\nLinear Regression에 관련된 과제는 내일 오전에 살포시 놓고 가겠습니다ㅎㅎ (colab link)\n오늘도 고생 많으셨고, 내일 오후 5시에 뵙겠습니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1700646977.901769",
+        "client_msg_id": "10e9f5f1-72cf-4150-9587-ff93d1904070",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U05V9N22ZUK",
+                    "U060TBSJ7DF",
+                    "U05VDDP88BW",
+                    "U05UN6NTN8P",
+                    "U05UW1S4KQE",
+                    "U05UUUNAE5D"
+                ],
+                "count": 6
+            },
+            {
+                "name": "meow_noddies",
+                "users": [
+                    "U05VADPQPCL",
+                    "U060TBSJ7DF",
+                    "U05UT0JG4BZ"
+                ],
+                "count": 3
+            },
+            {
+                "name": "ne",
+                "users": [
+                    "U05V5B27DK7",
+                    "U0600GGHJTC",
+                    "U05V2T62KUJ"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

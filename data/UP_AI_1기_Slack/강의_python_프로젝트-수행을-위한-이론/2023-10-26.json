@@ -1,0 +1,540 @@
+[
+    {
+        "user": "U05V9N22ZUK",
+        "type": "message",
+        "ts": "1698313783.183019",
+        "client_msg_id": "2d5fba69-e3b4-4116-8871-7ef0c9bc5f6d",
+        "text": "Flask Internel Server Error <https:\/\/chunggaeguri.tistory.com\/entry\/Flask-Error-Internal-Server-Error>",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "0698995c863f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5998310079844_0698995c863fed7643f0_72.png",
+            "first_name": "TaeHan",
+            "real_name": "TaeHan Kim",
+            "display_name": "김태한",
+            "team": "T05UGFFGL07",
+            "name": "kthnineone",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/img1.daumcdn.net\/thumb\/R800x0\/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2F17dpv%2Fbtq6p0IrheU%2FMSu6VkFdmnhyx6vtO3dDf0%2Fimg.png",
+                "image_width": 800,
+                "image_height": 557,
+                "image_bytes": 91793,
+                "from_url": "https:\/\/chunggaeguri.tistory.com\/entry\/Flask-Error-Internal-Server-Error",
+                "service_icon": "https:\/\/t1.daumcdn.net\/tistory_admin\/top_v2\/tistory-apple-touch-favicon.png",
+                "ts": 1622714381,
+                "id": 1,
+                "original_url": "https:\/\/chunggaeguri.tistory.com\/entry\/Flask-Error-Internal-Server-Error",
+                "fallback": "취미와 밥줄사이: [ Flask ] Error: Internal Server Error",
+                "text": "INTRODUCTION Flask 프레임워크에 대한 사용법에 익히는 중 발생한 에러였다. 내가 작성한 html 파일을 render_template() 함수를 통해서 웹에 표시하고자 하였다. 그러나 다음과 같은 에러가 웹 화면에 표시가 되었다. CONTENT 코드 실행시 다음과 같은 에러가 발생하였다. 에러의 원인은 경로 문제였다. render_template( ) 함수에 인자로 들어가는 파일이 templates라는 디렉토리에 있지 않아 발생하는 에러였다. myhome.html 파일을 templates 디렉토리로 옮기기 문제가 해결 되었다. CONCLUSION REFERENCE <https:\/\/codingslime.tistory.com\/26> [Error] Flask 500 Internal Server Err..",
+                "title": "[ Flask ] Error: Internal Server Error",
+                "title_link": "https:\/\/chunggaeguri.tistory.com\/entry\/Flask-Error-Internal-Server-Error",
+                "service_name": "취미와 밥줄사이"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "e82in",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Flask Internel Server Error "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/chunggaeguri.tistory.com\/entry\/Flask-Error-Internal-Server-Error"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "<@U060VSK7ELC>이런 창을 어떻게 잡아내야할까요? 대기자 숫자가 다 끝나면 예매를 하게 해야할 거 같은데요 ㅠ",
+        "files": [
+            {
+                "id": "F062VEZ373Q",
+                "created": 1698378250,
+                "timestamp": 1698378250,
+                "name": "Screenshot_20231027_124335.jpg",
+                "title": "Screenshot_20231027_124335.jpg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U05V7V2AV8A",
+                "user_team": "T05UGFFGL07",
+                "editable": false,
+                "size": 93823,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F062VEZ373Q\/screenshot_20231027_124335.jpg?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F062VEZ373Q\/download\/screenshot_20231027_124335.jpg?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F062VEZ373Q-91b359757b\/screenshot_20231027_124335_64.jpg?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F062VEZ373Q-91b359757b\/screenshot_20231027_124335_80.jpg?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F062VEZ373Q-91b359757b\/screenshot_20231027_124335_360.jpg?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_360_w": 171,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F062VEZ373Q-91b359757b\/screenshot_20231027_124335_480.jpg?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_480_w": 227,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F062VEZ373Q-91b359757b\/screenshot_20231027_124335_160.jpg?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F062VEZ373Q-91b359757b\/screenshot_20231027_124335_720.jpg?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_720_w": 341,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F062VEZ373Q-91b359757b\/screenshot_20231027_124335_800.jpg?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1689,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F062VEZ373Q-91b359757b\/screenshot_20231027_124335_960.jpg?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_960_w": 455,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F062VEZ373Q-91b359757b\/screenshot_20231027_124335_1024.jpg?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_1024_w": 485,
+                "thumb_1024_h": 1024,
+                "original_w": 1080,
+                "original_h": 2280,
+                "thumb_tiny": "AwAwABZn2Of+6v5ij7JLjgDn3FafUdcUnryfzqrk8pmmzm\/uj8xSfYpvQf8AfValGaLhyjsgdxRuHqKacE9DQD2wakodkGikB7c0tABRSc5PvRzx7UALRSDr7UtAH\/\/Z",
+                "permalink": "https:\/\/fcupstageai1.slack.com\/files\/U05V7V2AV8A\/F062VEZ373Q\/screenshot_20231027_124335.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T05UGFFGL07-F062VEZ373Q-72c29be4e8",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U05V7V2AV8A",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9eqRQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U060VSK7ELC"
+                            },
+                            {
+                                "type": "text",
+                                "text": "이런 창을 어떻게 잡아내야할까요? 대기자 숫자가 다 끝나면 예매를 하게 해야할 거 같은데요 ㅠ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1698378285.678949",
+        "client_msg_id": "77df7f23-78ab-43ba-9988-b713171d4419",
+        "thread_ts": "1698378285.678949",
+        "reply_count": 6,
+        "reply_users_count": 2,
+        "latest_reply": "1698387536.858279",
+        "reply_users": [
+            "U060VSK7ELC",
+            "U05V7V2AV8A"
+        ],
+        "replies": [
+            {
+                "user": "U060VSK7ELC",
+                "ts": "1698381444.165809"
+            },
+            {
+                "user": "U060VSK7ELC",
+                "ts": "1698381447.726159"
+            },
+            {
+                "user": "U060VSK7ELC",
+                "ts": "1698381451.786449"
+            },
+            {
+                "user": "U05V7V2AV8A",
+                "ts": "1698381798.205509"
+            },
+            {
+                "user": "U060VSK7ELC",
+                "ts": "1698386238.267929"
+            },
+            {
+                "user": "U05V7V2AV8A",
+                "ts": "1698387536.858279"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "user": "U060VSK7ELC",
+        "type": "message",
+        "ts": "1698381444.165809",
+        "client_msg_id": "a002931e-8ff7-4964-bdad-5070051390cc",
+        "text": "대기가 끝나고 코드를 돌리면 되겠죠!? :slightly_smiling_face:",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "4eedaa4888b6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-11\/6027355735027_4eedaa4888b662413f7b_72.jpg",
+            "first_name": "김인섭",
+            "real_name": "김인섭 강사",
+            "display_name": "김인섭 강사",
+            "team": "T05UGFFGL07",
+            "name": "inseop0813",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698378285.678949",
+        "parent_user_id": "U05V7V2AV8A",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bYpBn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "대기가 끝나고 코드를 돌리면 되겠죠!? "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U060VSK7ELC",
+        "type": "message",
+        "ts": "1698381447.726159",
+        "client_msg_id": "260ee7bd-bef7-4b76-afe2-3887aa64fe8b",
+        "text": "그리고 저건 앱 화면!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "4eedaa4888b6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-11\/6027355735027_4eedaa4888b662413f7b_72.jpg",
+            "first_name": "김인섭",
+            "real_name": "김인섭 강사",
+            "display_name": "김인섭 강사",
+            "team": "T05UGFFGL07",
+            "name": "inseop0813",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698378285.678949",
+        "parent_user_id": "U05V7V2AV8A",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rb+QL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "그리고 저건 앱 화면!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U060VSK7ELC",
+        "type": "message",
+        "ts": "1698381451.786449",
+        "client_msg_id": "78ebfef0-6501-498e-976e-c3c83ab788f9",
+        "text": "홈페이지는 또 달라요!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "4eedaa4888b6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-11\/6027355735027_4eedaa4888b662413f7b_72.jpg",
+            "first_name": "김인섭",
+            "real_name": "김인섭 강사",
+            "display_name": "김인섭 강사",
+            "team": "T05UGFFGL07",
+            "name": "inseop0813",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698378285.678949",
+        "parent_user_id": "U05V7V2AV8A",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "q4nPR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "홈페이지는 또 달라요!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05V7V2AV8A",
+        "type": "message",
+        "ts": "1698381798.205509",
+        "client_msg_id": "582a8352-24ef-4f36-9122-910d4397e0a8",
+        "text": "끝난 거를 파악해야 다른 분들보다 빨리 예약을 할 수 있을 거 같아서요",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "28368614e02a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5987346071766_28368614e02abbfb71bd_72.png",
+            "first_name": "andrew",
+            "real_name": "andrew jang",
+            "display_name": "장준규",
+            "team": "T05UGFFGL07",
+            "name": "goldenbeluga",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698378285.678949",
+        "parent_user_id": "U05V7V2AV8A",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yKi7O",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "끝난 거를 파악해야 다른 분들보다 빨리 예약을 할 수 있을 거 같아서요"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "thread_broadcast",
+        "user": "U060VSK7ELC",
+        "thread_ts": "1698378285.678949",
+        "root": {
+            "text": "<@U060VSK7ELC>이런 창을 어떻게 잡아내야할까요? 대기자 숫자가 다 끝나면 예매를 하게 해야할 거 같은데요 ㅠ",
+            "files": [
+                {
+                    "id": "F062VEZ373Q",
+                    "created": 1698378250,
+                    "timestamp": 1698378250,
+                    "name": "Screenshot_20231027_124335.jpg",
+                    "title": "Screenshot_20231027_124335.jpg",
+                    "mimetype": "image\/jpeg",
+                    "filetype": "jpg",
+                    "pretty_type": "JPEG",
+                    "user": "U05V7V2AV8A",
+                    "user_team": "T05UGFFGL07",
+                    "editable": false,
+                    "size": 93823,
+                    "mode": "hosted",
+                    "is_external": false,
+                    "external_type": "",
+                    "is_public": true,
+                    "public_url_shared": false,
+                    "display_as_bot": false,
+                    "username": "",
+                    "url_private": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F062VEZ373Q\/screenshot_20231027_124335.jpg?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                    "url_private_download": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F062VEZ373Q\/download\/screenshot_20231027_124335.jpg?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                    "media_display_type": "unknown",
+                    "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F062VEZ373Q-91b359757b\/screenshot_20231027_124335_64.jpg?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                    "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F062VEZ373Q-91b359757b\/screenshot_20231027_124335_80.jpg?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                    "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F062VEZ373Q-91b359757b\/screenshot_20231027_124335_360.jpg?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                    "thumb_360_w": 171,
+                    "thumb_360_h": 360,
+                    "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F062VEZ373Q-91b359757b\/screenshot_20231027_124335_480.jpg?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                    "thumb_480_w": 227,
+                    "thumb_480_h": 480,
+                    "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F062VEZ373Q-91b359757b\/screenshot_20231027_124335_160.jpg?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                    "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F062VEZ373Q-91b359757b\/screenshot_20231027_124335_720.jpg?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                    "thumb_720_w": 341,
+                    "thumb_720_h": 720,
+                    "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F062VEZ373Q-91b359757b\/screenshot_20231027_124335_800.jpg?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                    "thumb_800_w": 800,
+                    "thumb_800_h": 1689,
+                    "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F062VEZ373Q-91b359757b\/screenshot_20231027_124335_960.jpg?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                    "thumb_960_w": 455,
+                    "thumb_960_h": 960,
+                    "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F062VEZ373Q-91b359757b\/screenshot_20231027_124335_1024.jpg?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                    "thumb_1024_w": 485,
+                    "thumb_1024_h": 1024,
+                    "original_w": 1080,
+                    "original_h": 2280,
+                    "thumb_tiny": "AwAwABZn2Of+6v5ij7JLjgDn3FafUdcUnryfzqrk8pmmzm\/uj8xSfYpvQf8AfValGaLhyjsgdxRuHqKacE9DQD2wakodkGikB7c0tABRSc5PvRzx7UALRSDr7UtAH\/\/Z",
+                    "permalink": "https:\/\/fcupstageai1.slack.com\/files\/U05V7V2AV8A\/F062VEZ373Q\/screenshot_20231027_124335.jpg",
+                    "permalink_public": "https:\/\/slack-files.com\/T05UGFFGL07-F062VEZ373Q-72c29be4e8",
+                    "is_starred": false,
+                    "has_rich_preview": false,
+                    "file_access": "visible"
+                }
+            ],
+            "upload": false,
+            "user": "U05V7V2AV8A",
+            "display_as_bot": false,
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "9eqRQ",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "user",
+                                    "user_id": "U060VSK7ELC"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "이런 창을 어떻게 잡아내야할까요? 대기자 숫자가 다 끝나면 예매를 하게 해야할 거 같은데요 ㅠ"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "type": "message",
+            "ts": "1698378285.678949",
+            "client_msg_id": "77df7f23-78ab-43ba-9988-b713171d4419",
+            "thread_ts": "1698378285.678949",
+            "reply_count": 6,
+            "reply_users_count": 2,
+            "latest_reply": "1698387536.858279",
+            "reply_users": [
+                "U060VSK7ELC",
+                "U05V7V2AV8A"
+            ],
+            "replies": [
+                {
+                    "user": "U060VSK7ELC",
+                    "ts": "1698381444.165809"
+                },
+                {
+                    "user": "U060VSK7ELC",
+                    "ts": "1698381447.726159"
+                },
+                {
+                    "user": "U060VSK7ELC",
+                    "ts": "1698381451.786449"
+                },
+                {
+                    "user": "U05V7V2AV8A",
+                    "ts": "1698381798.205509"
+                },
+                {
+                    "user": "U060VSK7ELC",
+                    "ts": "1698386238.267929"
+                },
+                {
+                    "user": "U05V7V2AV8A",
+                    "ts": "1698387536.858279"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false
+        },
+        "type": "message",
+        "ts": "1698386238.267929",
+        "client_msg_id": "d982dcae-79d1-4bbe-bf13-5fdbcd8ee120",
+        "text": "대기창에 있는 요소 xpath를 가져와서\ntry, except를 활용해볼 수 있지 않을까요!?",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LRqI9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "대기창에 있는 요소 xpath를 가져와서\ntry, except를 활용해볼 수 있지 않을까요!?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05V7V2AV8A",
+        "type": "message",
+        "ts": "1698387536.858279",
+        "client_msg_id": "fe3a3326-c79a-46c1-81b6-87e134c2c904",
+        "text": "ㅋㅋ하려고하니깐 안뜨네요 뜰 때 도전해보겠습니다! 창 전체에 대해서 xpath도 존재하나보군요:+1:",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "28368614e02a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5987346071766_28368614e02abbfb71bd_72.png",
+            "first_name": "andrew",
+            "real_name": "andrew jang",
+            "display_name": "장준규",
+            "team": "T05UGFFGL07",
+            "name": "goldenbeluga",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698378285.678949",
+        "parent_user_id": "U05V7V2AV8A",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jHZs0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ㅋㅋ하려고하니깐 안뜨네요 뜰 때 도전해보겠습니다! 창 전체에 대해서 xpath도 존재하나보군요"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "+1",
+                                "unicode": "1f44d"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

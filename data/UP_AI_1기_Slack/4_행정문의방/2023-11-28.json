@@ -1,0 +1,158 @@
+[
+    {
+        "user": "U05UWVA90H4",
+        "type": "message",
+        "ts": "1701164322.784159",
+        "client_msg_id": "09dbbc75-1c50-475d-b39a-35bcaf89ab8c",
+        "text": "<@U05UNC6FNK1> 안녕하세요 매니저님\n&gt; *_따라서 시작 10분전_, 19시 퇴실시 19시 10분까지만 QR 체크 가능*, 이외 불가로 확인해주시길 바라며, 단순 미체크는 QR 정정이 아니오니, LM님 안내 시각에 꼭 QR을 진행해주시길 바랍니다.\n*시작 10분전까지만 QR 체크 가능이라고 공지주셨는데 아래에는 시작 10분까지 정상출결이라고 적혀있어서요.*\n```이외 기존과 동일, 시작 10분까지 정상출결, 퇴실  10분전까지 정상퇴실```\nQR체크 가능 시간 &amp; 정상출결 가능 시간 모두 9시 50분 ~ 10시 10분까지라는 말씀이신가요?",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "e039a582c034",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5983012631430_e039a582c03450d83dc6_72.png",
+            "first_name": "이준형",
+            "real_name": "이준형",
+            "display_name": "이준형",
+            "team": "T05UGFFGL07",
+            "name": "hewberryd8",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1701150306.717099",
+        "parent_user_id": "U05UNC6FNK1",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zawsb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05UNC6FNK1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 안녕하세요 매니저님\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "따라서 시작 10분전",
+                                "style": {
+                                    "bold": true,
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ", 19시 퇴실시 19시 10분까지만 QR 체크 가능",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ", 이외 불가로 확인해주시길 바라며, 단순 미체크는 QR 정정이 아니오니, LM님 안내 시각에 꼭 QR을 진행해주시길 바랍니다."
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "시작 10분전까지만 QR 체크 가능이라고 공지주셨는데 아래에는 시작 10분까지 정상출결이라고 적혀있어서요.",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "이외 기존과 동일, 시작 10분까지 정상출결, 퇴실  10분전까지 정상퇴실"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nQR체크 가능 시간 & 정상출결 가능 시간 모두 9시 50분 ~ 10시 10분까지라는 말씀이신가요?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05UWVA90H4",
+        "type": "message",
+        "ts": "1701165668.789829",
+        "client_msg_id": "677b0fb9-4922-4334-97cf-6ad5484fd6a1",
+        "text": "기준님께서 친절하게 설명주셨어요! 가능한걸로 이해했습니다. 기준님 감사합니다~!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "e039a582c034",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5983012631430_e039a582c03450d83dc6_72.png",
+            "first_name": "이준형",
+            "real_name": "이준형",
+            "display_name": "이준형",
+            "team": "T05UGFFGL07",
+            "name": "hewberryd8",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1701150306.717099",
+        "parent_user_id": "U05UNC6FNK1",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Cm+Fn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "기준님께서 친절하게 설명주셨어요! 가능한걸로 이해했습니다. 기준님 감사합니다~!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands::skin-tone-2",
+                "users": [
+                    "U05UNC6FNK1"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

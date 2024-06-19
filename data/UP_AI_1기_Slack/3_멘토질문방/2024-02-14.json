@@ -1,0 +1,104 @@
+[
+    {
+        "user": "U05VBQMH3D3",
+        "type": "message",
+        "ts": "1707952473.753619",
+        "client_msg_id": "4b256532-a3ae-4848-8e5a-57ced13cbd6c",
+        "text": "안녕하세요 몇가지 질문드리고 싶습니다.\n\nX = np.zeros((len(indexes),128,256,4),dtype='float32')\n\nimg = self.specs[row.spec_id][r:r+300,k*100:(k+1)*100].T\nimg = np.clip(img,np.exp(-4),np.exp(8))\nimg = np.log(img)\n\nX[j,14:-14,:,k] = img[:,22:-22]\n\n128x256으로 학습하는 코드인데요.\n1. 이 코드에서는 아니고 보통 클립을 적용하는 기준이 궁금합니다.\n2. e의 8승이 2980이고, 로그를 씌우면 값이 크게 감소하는데 데이터의 특성과 학습목적에 따라다르겠지만,\n로그는 너무 크게 왜곡되지 않나 싶기도 한데 루트등 다른 완만한 방법과 비교했을땐 어떤 의미, 효과가 있는지 궁금합니다.\n3. 100x300이미지를 256으로 커팅하고(인접부분은 유사하니 제외?) 128에서 [14:-14]로만 적용했는데\n여기서 패딩?을 해준건 단순히 사이즈를 맞추기 위함일까요?",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "16da4e28d6c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/6003210685524_16da4e28d6c4ea33bae5_72.png",
+            "first_name": "HB",
+            "real_name": "HB",
+            "display_name": "엄효범",
+            "team": "T05UGFFGL07",
+            "name": "swema86",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1707952473.753619",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1707960248.969979",
+        "reply_users": [
+            "U05VADPQPCL"
+        ],
+        "replies": [
+            {
+                "user": "U05VADPQPCL",
+                "ts": "1707960248.969979"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HYaZt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "안녕하세요 몇가지 질문드리고 싶습니다.\n\nX = np.zeros((len(indexes),128,256,4),dtype='float32')\n\nimg = self.specs[row.spec_id][r:r+300,k*100:(k+1)*100].T\nimg = np.clip(img,np.exp(-4),np.exp(8))\nimg = np.log(img)\n\nX[j,14:-14,:,k] = img[:,22:-22]\n\n128x256으로 학습하는 코드인데요.\n1. 이 코드에서는 아니고 보통 클립을 적용하는 기준이 궁금합니다.\n2. e의 8승이 2980이고, 로그를 씌우면 값이 크게 감소하는데 데이터의 특성과 학습목적에 따라다르겠지만,\n로그는 너무 크게 왜곡되지 않나 싶기도 한데 루트등 다른 완만한 방법과 비교했을땐 어떤 의미, 효과가 있는지 궁금합니다.\n3. 100x300이미지를 256으로 커팅하고(인접부분은 유사하니 제외?) 128에서 [14:-14]로만 적용했는데\n여기서 패딩?을 해준건 단순히 사이즈를 맞추기 위함일까요?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U05VADPQPCL"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05VADPQPCL",
+        "type": "message",
+        "ts": "1707960248.969979",
+        "client_msg_id": "8e15841b-6824-4474-869f-ed257c1df014",
+        "text": "안녕하세요 효범님\n현재 멘토 질문방의 멘토님은 멘토링 기한이 끝나셔 계시지 않습니다.\n각 팀 채널에 멘토님이 계시니 팀 채널에서 멘토님 태깅 후 진행해주시길 바랍니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "07e7ca00b8f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5991092857253_07e7ca00b8f0d0b13ba1_72.png",
+            "first_name": "패스트캠퍼스박기준",
+            "real_name": "패스트캠퍼스박기준",
+            "display_name": "LM 박기준",
+            "team": "T05UGFFGL07",
+            "name": "pgj.fc.career",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1707952473.753619",
+        "parent_user_id": "U05VBQMH3D3",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sM5hd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "안녕하세요 효범님\n현재 멘토 질문방의 멘토님은 멘토링 기한이 끝나셔 계시지 않습니다.\n각 팀 채널에 멘토님이 계시니 팀 채널에서 멘토님 태깅 후 진행해주시길 바랍니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

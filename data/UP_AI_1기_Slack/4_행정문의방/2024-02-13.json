@@ -1,0 +1,249 @@
+[
+    {
+        "user": "U05VAU596PP",
+        "type": "message",
+        "ts": "1707814210.680339",
+        "client_msg_id": "3f8d1b73-6830-402a-a375-5df12a1f797d",
+        "text": "<@U05UNC6FNK1> <@U05V81G5ZDY> 안녕하세요. 2월 14일(수) 면접 일정으로 인해 수업 참여가 어려울 것 같습니다.\n추후에 출석 대장과 면접 확인서 제출하겠습니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "850d40cd33f4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5996957360085_850d40cd33f433747c40_72.png",
+            "first_name": "이소영B",
+            "real_name": "이소영B",
+            "display_name": "",
+            "team": "T05UGFFGL07",
+            "name": "sheep5450",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1707814210.680339",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1707969290.166269",
+        "reply_users": [
+            "U05VAU596PP"
+        ],
+        "replies": [
+            {
+                "user": "U05VAU596PP",
+                "ts": "1707969290.166269"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Tq3bb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05UNC6FNK1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05V81G5ZDY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 안녕하세요. 2월 14일(수) 면접 일정으로 인해 수업 참여가 어려울 것 같습니다.\n추후에 출석 대장과 면접 확인서 제출하겠습니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "necktie",
+                "users": [
+                    "U05V81G5ZDY",
+                    "U05V5B27DK7"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U05V5B88ULD",
+        "type": "message",
+        "ts": "1707872490.860209",
+        "client_msg_id": "7b8d7a51-7223-4ee6-a0c4-fbafee8dea1f",
+        "text": "<@U05UNC6FNK1> <@U05V81G5ZDY>\n\n대상 : ADB\n필요한 기간 : 10월 3일 ~ 2월 14일\n필요 서류 : 수강 증명서\n이메일 : <mailto:rache.sy.jun@gmail.com|rache.sy.jun@gmail.com>\n연락처 : 01097495516\n감사합니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "80cc6894efa6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/6017299669088_80cc6894efa66060bc9e_72.png",
+            "first_name": "전수연",
+            "real_name": "전수연",
+            "display_name": "전수연",
+            "team": "T05UGFFGL07",
+            "name": "rachel.sy.jun",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1707872490.860209",
+        "reply_count": 3,
+        "reply_users_count": 1,
+        "latest_reply": "1707954413.622119",
+        "reply_users": [
+            "U05UNC6FNK1"
+        ],
+        "replies": [
+            {
+                "user": "U05UNC6FNK1",
+                "ts": "1707873150.254819"
+            },
+            {
+                "user": "U05UNC6FNK1",
+                "ts": "1707873163.769749"
+            },
+            {
+                "user": "U05UNC6FNK1",
+                "ts": "1707954413.622119"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xKuLk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05UNC6FNK1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05V81G5ZDY"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n대상 : ADB\n필요한 기간 : 10월 3일 ~ 2월 14일\n필요 서류 : 수강 증명서\n이메일 : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:rache.sy.jun@gmail.com",
+                                "text": "rache.sy.jun@gmail.com",
+                                "unsafe": true
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n연락처 : 01097495516\n감사합니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "U05UNC6FNK1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05UNC6FNK1",
+        "type": "message",
+        "ts": "1707873150.254819",
+        "client_msg_id": "e344d862-0ee1-46a7-9e10-8f48843c8f0c",
+        "text": "수연님 요청하신 영문 증명서는 참가확인서로 발급 가능한데 괜찮을까요?",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "260d154ea1e2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5979526758263_260d154ea1e2177fd001_72.jpg",
+            "first_name": "FC",
+            "real_name": "FC 하시안 매니저",
+            "display_name": "FC 하시안 매니저",
+            "team": "T05UGFFGL07",
+            "name": "xianha",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1707872490.860209",
+        "parent_user_id": "U05V5B88ULD",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hqvLY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "수연님 요청하신 영문 증명서는 참가확인서로 발급 가능한데 괜찮을까요?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05UNC6FNK1",
+        "type": "message",
+        "ts": "1707873163.769749",
+        "client_msg_id": "4467ce7b-5c74-4cbf-b3f7-0399b083a9ad",
+        "text": "괜찮다면 영문명(생년월일)을 남겨주세요",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "260d154ea1e2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5979526758263_260d154ea1e2177fd001_72.jpg",
+            "first_name": "FC",
+            "real_name": "FC 하시안 매니저",
+            "display_name": "FC 하시안 매니저",
+            "team": "T05UGFFGL07",
+            "name": "xianha",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1707872490.860209",
+        "parent_user_id": "U05V5B88ULD",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "peiOS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "괜찮다면 영문명(생년월일)을 남겨주세요"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

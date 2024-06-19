@@ -1,0 +1,51 @@
+[
+    {
+        "user": "U05UNC6FNK1",
+        "type": "message",
+        "ts": "1697882546.375619",
+        "client_msg_id": "ed5350c0-118c-4f5e-b188-61254b8e7850",
+        "text": "미선발 처리 완료 드렸습니다 주말 잘보내세요",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "260d154ea1e2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5979526758263_260d154ea1e2177fd001_72.jpg",
+            "first_name": "FC",
+            "real_name": "FC 하시안 매니저",
+            "display_name": "FC 하시안 매니저",
+            "team": "T05UGFFGL07",
+            "name": "xianha",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697786318.735849",
+        "parent_user_id": "U05UUSA6G5V",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2a6qh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "미선발 처리 완료 드렸습니다 주말 잘보내세요"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U05UUSA6G5V"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

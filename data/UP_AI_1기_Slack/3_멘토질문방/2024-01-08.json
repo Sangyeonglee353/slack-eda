@@ -1,0 +1,632 @@
+[
+    {
+        "user": "U05VBQMH3D3",
+        "type": "message",
+        "ts": "1704772709.755739",
+        "client_msg_id": "5c09280c-8704-4c7f-bfd5-e12803376733",
+        "text": "안녕하세요!\n조금 번거로운 질문일수도 있는데요. 시멘틱 세그멘테이션 모델을 사용하려고 합니다.\n<https:\/\/github.com\/bytedance\/Next-ViT?tab=readme-ov-file>\nTraining\nTo train Semantic FPN 80k with Next-ViT-S backbone using 8 gpus, run:\n```cd segmentation\/\nPORT=29501 bash dist_train.sh configs\/fpn_512_nextvit_small_80k.py 8```\n깃헙에는 이렇게 설명되어 있습니다.\n\n<https:\/\/github.com\/bytedance\/Next-ViT\/tree\/922e771ae6028b9d956e2622a984459a50aa63d4\/segmentation|segmentation>\/nextvit.py 안의\nclass NextViT(nn.Module):\n    def __init__(self, stem_chs, depths, path_dropout, attn_drop=0, drop=0, num_classes=1000,\n                 strides=[1, 2, 2, 2], sr_ratios=[8, 4, 2, 1], head_dim=32, mix_block_ratio=0.75,\n                 use_checkpoint=False, resume='', with_extra_norm=True, frozen_stages=-1,\n                 norm_eval=False, norm_cfg=None,\n 이 클래스를 가져와서 출력등을 조금 변형시켜 모델을 학습시키면 될까요?",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "16da4e28d6c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/6003210685524_16da4e28d6c4ea33bae5_72.png",
+            "first_name": "HB",
+            "real_name": "HB",
+            "display_name": "엄효범",
+            "team": "T05UGFFGL07",
+            "name": "swema86",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1704772709.755739",
+        "reply_count": 5,
+        "reply_users_count": 3,
+        "latest_reply": "1704777080.520999",
+        "reply_users": [
+            "U05VADPQPCL",
+            "U06CBFKNBFF",
+            "U05VBQMH3D3"
+        ],
+        "replies": [
+            {
+                "user": "U05VADPQPCL",
+                "ts": "1704774777.934709"
+            },
+            {
+                "user": "U06CBFKNBFF",
+                "ts": "1704775297.625589"
+            },
+            {
+                "user": "U05VBQMH3D3",
+                "ts": "1704775433.645319"
+            },
+            {
+                "user": "U06CBFKNBFF",
+                "ts": "1704776973.494389"
+            },
+            {
+                "user": "U05VBQMH3D3",
+                "ts": "1704777080.520999"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Aw5O0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "안녕하세요!\n조금 번거로운 질문일수도 있는데요. 시멘틱 세그멘테이션 모델을 사용하려고 합니다.\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/bytedance\/Next-ViT?tab=readme-ov-file"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nTraining\nTo train Semantic FPN 80k with Next-ViT-S backbone using 8 gpus, run:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "cd segmentation\/\nPORT=29501 bash dist_train.sh configs\/fpn_512_nextvit_small_80k.py 8"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "깃헙에는 이렇게 설명되어 있습니다.\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/bytedance\/Next-ViT\/tree\/922e771ae6028b9d956e2622a984459a50aa63d4\/segmentation",
+                                "text": "segmentation"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\/nextvit.py 안의\nclass NextViT(nn.Module):\n    def __init__(self, stem_chs, depths, path_dropout, attn_drop=0, drop=0, num_classes=1000,\n                 strides=[1, 2, 2, 2], sr_ratios=[8, 4, 2, 1], head_dim=32, mix_block_ratio=0.75,\n                 use_checkpoint=False, resume='', with_extra_norm=True, frozen_stages=-1,\n                 norm_eval=False, norm_cfg=None,\n 이 클래스를 가져와서 출력등을 조금 변형시켜 모델을 학습시키면 될까요?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05VADPQPCL",
+        "type": "message",
+        "ts": "1704774777.934709",
+        "client_msg_id": "9861a0e4-cc59-44cc-bee3-981614984053",
+        "text": "<@U06CBFKNBFF> 멘토님 해당 글 확인 부탁드립니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "07e7ca00b8f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5991092857253_07e7ca00b8f0d0b13ba1_72.png",
+            "first_name": "패스트캠퍼스박기준",
+            "real_name": "패스트캠퍼스박기준",
+            "display_name": "LM 박기준",
+            "team": "T05UGFFGL07",
+            "name": "pgj.fc.career",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1704772709.755739",
+        "parent_user_id": "U05VBQMH3D3",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "m2rrV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06CBFKNBFF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 멘토님 해당 글 확인 부탁드립니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05VADPQPCL",
+        "type": "message",
+        "ts": "1704774885.004769",
+        "client_msg_id": "2bd92b10-dba3-472b-a469-2b7d4f9e0251",
+        "text": "*<!here>*\n안녕하세요. Upstage AI Lab 수강생 여러분~!\n폭설 예보로 눈이 많이 내린다고 하는데 밖에 다니실 때 항상 조심하시길 바랍니다!\n금주 Machine Learning Basic 멘토링 진행해 주실 `오영석 멘토`님께서 채널에 들어와 계십니다.\n&gt; *Machine Learning Basic 멘토링*\n• 멘토링 기간: 24.1.8(월) ~ 24.1.12(금)\n[업스테이지] 온라인 강의를 학습하면서 궁금한 사항이 있다면 편히 이 곳에 질문해주세요! :muscle::muscle:\n(질문하실 땐 멘토님이 바로 확인하실 수 있도록 `@오영석 멘토` 태깅해주는 센스를 발휘해주세요.)",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "07e7ca00b8f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5991092857253_07e7ca00b8f0d0b13ba1_72.png",
+            "first_name": "패스트캠퍼스박기준",
+            "real_name": "패스트캠퍼스박기준",
+            "display_name": "LM 박기준",
+            "team": "T05UGFFGL07",
+            "name": "pgj.fc.career",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SBtKm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "here",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n안녕하세요. Upstage AI Lab 수강생 여러분~!\n폭설 예보로 눈이 많이 내린다고 하는데 밖에 다니실 때 항상 조심하시길 바랍니다!\n금주 Machine Learning Basic 멘토링 진행해 주실 "
+                            },
+                            {
+                                "type": "text",
+                                "text": "오영석 멘토",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "님께서 채널에 들어와 계십니다.\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Machine Learning Basic 멘토링",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "멘토링 기간: 24.1.8(월) ~ 24.1.12(금)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n[업스테이지] 온라인 강의를 학습하면서 궁금한 사항이 있다면 편히 이 곳에 질문해주세요! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "muscle",
+                                "unicode": "1f4aa"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "muscle",
+                                "unicode": "1f4aa"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n(질문하실 땐 멘토님이 바로 확인하실 수 있도록 "
+                            },
+                            {
+                                "type": "text",
+                                "text": "@오영석 멘토",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " 태깅해주는 센스를 발휘해주세요.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "bow",
+                "users": [
+                    "U060LG0BT89",
+                    "U05V7H78DUM"
+                ],
+                "count": 2
+            },
+            {
+                "name": "ne",
+                "users": [
+                    "U060LG0BT89",
+                    "U05V2T62KUJ",
+                    "U05V7H78DUM"
+                ],
+                "count": 3
+            },
+            {
+                "name": "meow_noddies",
+                "users": [
+                    "U05V7H78DUM"
+                ],
+                "count": 1
+            },
+            {
+                "name": "bow::skin-tone-2",
+                "users": [
+                    "U05UVV5CVQE"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06CBFKNBFF",
+        "type": "message",
+        "ts": "1704775297.625589",
+        "client_msg_id": "883791c8-68d6-48a4-b46f-79ea7695e658",
+        "text": "효범님, 안녕하세요! ML Basic 멘토 오영석입니다. 제가 해당 분야의 멘토는 아니었어서, 효범님께서 어떤 맥락에서 변형을하여 모델을 학습시키고자하시는지 자세히 알 수 있을까요?",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "32f60cec5575",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-11\/6458065814370_32f60cec5575d4041168_72.jpg",
+            "first_name": "오영석",
+            "real_name": "오영석 멘토",
+            "display_name": "",
+            "team": "T05UGFFGL07",
+            "name": "ailecturer415",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1704772709.755739",
+        "parent_user_id": "U05VBQMH3D3",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HJJ2U",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "효범님, 안녕하세요! ML Basic 멘토 오영석입니다. 제가 해당 분야의 멘토는 아니었어서, 효범님께서 어떤 맥락에서 변형을하여 모델을 학습시키고자하시는지 자세히 알 수 있을까요?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05VBQMH3D3",
+        "type": "message",
+        "ts": "1704775433.645319",
+        "client_msg_id": "cc24e7c5-1732-4232-84d1-5b765e4d745d",
+        "text": "resnet, ViT등 일반적인 모델은 timm에서 간단하게 불러올 수 있는데 그냥 timm에 없는 NextViT모델을 사용하려는데 어려움을 겪고 있습니다. 특별한 변형의 목적을 가진건 아니고 성능향상을 위해서 최신 모델인 NextViT를 사용해보려고 합니다",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "16da4e28d6c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/6003210685524_16da4e28d6c4ea33bae5_72.png",
+            "first_name": "HB",
+            "real_name": "HB",
+            "display_name": "엄효범",
+            "team": "T05UGFFGL07",
+            "name": "swema86",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1704772709.755739",
+        "parent_user_id": "U05VBQMH3D3",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hFwvR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "resnet, ViT등 일반적인 모델은 timm에서 간단하게 불러올 수 있는데 그냥 timm에 없는 NextViT모델을 사용하려는데 어려움을 겪고 있습니다. 특별한 변형의 목적을 가진건 아니고 성능향상을 위해서 최신 모델인 NextViT를 사용해보려고 합니다"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06CBFKNBFF",
+        "type": "message",
+        "ts": "1704775658.323129",
+        "edited": {
+            "user": "U06CBFKNBFF",
+            "ts": "1704777188.000000"
+        },
+        "client_msg_id": "02b59a54-66eb-4525-9e2f-1ace686799b7",
+        "text": "안녕하세요. ML Basic 강의의 멘토를 맡은 오영석이라고 합니다.\n\n제 간단한 소개를 드리면 현재 고려대 대학원에서 인공지능 수학 분야를 연구하고 있고, 고려사이버대학교 미래학부에서 외래교수로 근무하고 있습니다.\n\nML Basic을 공부하시면서, 아래의 주제들을 추가로 고민해보신다면 해당 강의를 심도있게 학습하시는데 도움이되실 것입니다:\n\n[Chapter 1-2] 머신러닝이란?, 모델과 데이터\n\n• 인공지능, 머신러닝, 딥러닝에 대하여 조작적 정의를 내리는 것을 목표로 합니다.\n\n참고 영상: 요슈아 벤지오 - AI는 어떻게 생각하는가? 1강 딥 러닝의 탄생 (EBS 가입 후 무료 시청)\n\n<https:\/\/home.ebs.co.kr\/greatminds\/vodReplay\/vodReplayView?courseId=40023168&stepId=60023845&lectId=60211597|https:\/\/home.ebs.co.kr\/greatminds\/vodReplay\/vodReplayView?courseId=40023168&stepId=60023845&lectId=60211597>\n\n• 비정형 데이터를 정형 데이터로 임베딩하는 방법이 무엇인지 학습하는 것을 목표로 합니다.\n\n참고 문헌: 딥러닝을 이용한 자연어 처리 입문 04. 카운트 기반의 단어 표현(Count based word Representation) <https:\/\/wikidocs.net\/24557|https:\/\/wikidocs.net\/24557>\n\n[Chapter 3-4] 지도학습 방법론, 비지도 학습\n\n• 회귀 문제와 관련하여 회귀 모델과 비용함수, 경사하강법에 대한 수학적 표현을 추가적으로 학습하는 것을 목표로 합니다.\n\n참고 영상: boostcourse 인공지능(AI) 기초 다지기 경사하강법(순한맛) <https:\/\/www.boostcourse.org\/ai100\/lecture\/739179?isDesc=false|https:\/\/www.boostcourse.org\/ai100\/lecture\/739179?isDesc=false>\n\nboostcourse 인공지능(AI) 기초 다지기 경사하강법(매운맛) <https:\/\/www.boostcourse.org\/ai100\/lecture\/739180?isDesc=false|https:\/\/www.boostcourse.org\/ai100\/lecture\/739180?isDesc=false>\n\n[Chapter 5-6] 추천시스템과 시계열 데이터 처리, 모델의 평가와 개선\n\n• 정량평가 지표와 그 활용법에 대한 수학적 표현을 추가적으로 학습하는 것을 목표로 합니다.\n\n참고 자료: <https:\/\/bhcboy100.medium.com\/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EB%B6%84%EB%A5%98-%ED%8F%89%EA%B0%80%EC%A7%80%ED%91%9C-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-%EC%A0%95%ED%99%95%EB%8F%84-%EC%A0%95%EB%B0%80%EB%8F%84-%EC%9E%AC%ED%98%84%EC%9C%A8-f1-%EC%8A%A4%EC%BD%94%EC%96%B4-6bf91535a01a|https:\/\/bhcboy100.medium.com\/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EB%B6%84%EB%A5%98-%ED%8F%89%EA%B0%80%EC%A7%80%ED%91%9C-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-%EC%A0%95%ED%99%95%EB%8F%84-%EC%A0%95%EB%B0%80%EB%8F%84-%EC%9E%AC%ED%98%84%EC%9C%A8-f1-%EC%8A%A4%EC%BD%94%EC%96%B4-6bf91535a01a>\n\n• 혼동행렬과 관련하여 1종 오류와 2종 오류가 무엇인지 이해하는 것을 목표로 합니다.\n\n참고 자료: <https:\/\/velog.io\/@iguv\/1%EC%A2%85-%EC%98%A4%EB%A5%98-2%EC%A2%85-%EC%98%A4%EB%A5%98-Confusion-Matrix|https:\/\/velog.io\/@iguv\/1%EC%A2%85-%EC%98%A4%EB%A5%98-2%EC%A2%85-%EC%98%A4%EB%A5%98-Confusion-Matrix>\n\n감사합니다:relaxed:",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "32f60cec5575",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-11\/6458065814370_32f60cec5575d4041168_72.jpg",
+            "first_name": "오영석",
+            "real_name": "오영석 멘토",
+            "display_name": "",
+            "team": "T05UGFFGL07",
+            "name": "ailecturer415",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1geGL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "안녕하세요. ML Basic 강의의 멘토를 맡은 오영석이라고 합니다.\n\n제 간단한 소개를 드리면 현재 고려대 대학원에서 인공지능 수학 분야를 연구하고 있고, 고려사이버대학교 미래학부에서 외래교수로 근무하고 있습니다.\n\nML Basic을 공부하시면서, 아래의 주제들을 추가로 고민해보신다면 해당 강의를 심도있게 학습하시는데 도움이되실 것입니다:\n\n[Chapter 1-2] 머신러닝이란?, 모델과 데이터\n\n• 인공지능, 머신러닝, 딥러닝에 대하여 조작적 정의를 내리는 것을 목표로 합니다.\n\n참고 영상: 요슈아 벤지오 - AI는 어떻게 생각하는가? 1강 딥 러닝의 탄생 (EBS 가입 후 무료 시청)\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/home.ebs.co.kr\/greatminds\/vodReplay\/vodReplayView?courseId=40023168&stepId=60023845&lectId=60211597",
+                                "text": "https:\/\/home.ebs.co.kr\/greatminds\/vodReplay\/vodReplayView?courseId=40023168&stepId=60023845&lectId=60211597"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n• 비정형 데이터를 정형 데이터로 임베딩하는 방법이 무엇인지 학습하는 것을 목표로 합니다.\n\n참고 문헌: 딥러닝을 이용한 자연어 처리 입문 04. 카운트 기반의 단어 표현(Count based word Representation) "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/wikidocs.net\/24557",
+                                "text": "https:\/\/wikidocs.net\/24557"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n[Chapter 3-4] 지도학습 방법론, 비지도 학습\n\n• 회귀 문제와 관련하여 회귀 모델과 비용함수, 경사하강법에 대한 수학적 표현을 추가적으로 학습하는 것을 목표로 합니다.\n\n참고 영상: boostcourse 인공지능(AI) 기초 다지기 경사하강법(순한맛) "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.boostcourse.org\/ai100\/lecture\/739179?isDesc=false",
+                                "text": "https:\/\/www.boostcourse.org\/ai100\/lecture\/739179?isDesc=false"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nboostcourse 인공지능(AI) 기초 다지기 경사하강법(매운맛) "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.boostcourse.org\/ai100\/lecture\/739180?isDesc=false",
+                                "text": "https:\/\/www.boostcourse.org\/ai100\/lecture\/739180?isDesc=false"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n[Chapter 5-6] 추천시스템과 시계열 데이터 처리, 모델의 평가와 개선\n\n• 정량평가 지표와 그 활용법에 대한 수학적 표현을 추가적으로 학습하는 것을 목표로 합니다.\n\n참고 자료: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/bhcboy100.medium.com\/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EB%B6%84%EB%A5%98-%ED%8F%89%EA%B0%80%EC%A7%80%ED%91%9C-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-%EC%A0%95%ED%99%95%EB%8F%84-%EC%A0%95%EB%B0%80%EB%8F%84-%EC%9E%AC%ED%98%84%EC%9C%A8-f1-%EC%8A%A4%EC%BD%94%EC%96%B4-6bf91535a01a",
+                                "text": "https:\/\/bhcboy100.medium.com\/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EB%B6%84%EB%A5%98-%ED%8F%89%EA%B0%80%EC%A7%80%ED%91%9C-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-%EC%A0%95%ED%99%95%EB%8F%84-%EC%A0%95%EB%B0%80%EB%8F%84-%EC%9E%AC%ED%98%84%EC%9C%A8-f1-%EC%8A%A4%EC%BD%94%EC%96%B4-6bf91535a01a"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n• 혼동행렬과 관련하여 1종 오류와 2종 오류가 무엇인지 이해하는 것을 목표로 합니다.\n\n참고 자료: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/velog.io\/@iguv\/1%EC%A2%85-%EC%98%A4%EB%A5%98-2%EC%A2%85-%EC%98%A4%EB%A5%98-Confusion-Matrix",
+                                "text": "https:\/\/velog.io\/@iguv\/1%EC%A2%85-%EC%98%A4%EB%A5%98-2%EC%A2%85-%EC%98%A4%EB%A5%98-Confusion-Matrix"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n감사합니다"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "relaxed",
+                                "unicode": "263a-fe0f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U05V9N22ZUK",
+                    "U05V5H1T24V",
+                    "U05VAHXECP6",
+                    "U065TBUL5EE",
+                    "U05V5B27DK7",
+                    "U05V7H78DUM",
+                    "U05V561TXUL",
+                    "U05V4KZR3NW",
+                    "U05UN5DQ423",
+                    "U05UN6NTN8P",
+                    "U060BLVQYHW",
+                    "U05V379NETU",
+                    "U05UW1S4KQE",
+                    "U060C67EYQ5"
+                ],
+                "count": 14
+            },
+            {
+                "name": "saluting_face",
+                "users": [
+                    "U05V7H78DUM",
+                    "U05V4KZR3NW",
+                    "U05UVV5CVQE",
+                    "U060BLVQYHW",
+                    "U060C67EYQ5"
+                ],
+                "count": 5
+            },
+            {
+                "name": "+1::skin-tone-2",
+                "users": [
+                    "U05UVV5CVQE"
+                ],
+                "count": 1
+            },
+            {
+                "name": "meow_noddies",
+                "users": [
+                    "U05V2PMAVNE",
+                    "U060C67EYQ5"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U06CBFKNBFF",
+        "type": "message",
+        "ts": "1704776973.494389",
+        "client_msg_id": "eb35642b-7521-4078-950f-d436465f8834",
+        "text": "해당 문제는 저도 고민을 해봐야할 듯 하네요:joy: 저도 올려주신 깃헙 한 번 살펴보고 좋은 아이디어가 있으면 말씀드릴 수 있도록 하겠습니다. 감사합니다 :)",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "32f60cec5575",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-11\/6458065814370_32f60cec5575d4041168_72.jpg",
+            "first_name": "오영석",
+            "real_name": "오영석 멘토",
+            "display_name": "",
+            "team": "T05UGFFGL07",
+            "name": "ailecturer415",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1704772709.755739",
+        "parent_user_id": "U05VBQMH3D3",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/aw4Z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "해당 문제는 저도 고민을 해봐야할 듯 하네요"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "joy",
+                                "unicode": "1f602"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 저도 올려주신 깃헙 한 번 살펴보고 좋은 아이디어가 있으면 말씀드릴 수 있도록 하겠습니다. 감사합니다 :)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05VBQMH3D3",
+        "type": "message",
+        "ts": "1704777080.520999",
+        "client_msg_id": "ff03d44c-1eb4-4cec-a90a-4b3bfb0d815e",
+        "text": "지인들과 셋이서 며칠전부터 계속 삽질하고 있습니다...ㅎㅎ 오류뜨고 해결하고 오류뜨고 어찌어찌 해결하고... 지금은 MMCV버젼이 안맞아서 이거 해결하는 중입니다",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "16da4e28d6c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/6003210685524_16da4e28d6c4ea33bae5_72.png",
+            "first_name": "HB",
+            "real_name": "HB",
+            "display_name": "엄효범",
+            "team": "T05UGFFGL07",
+            "name": "swema86",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1704772709.755739",
+        "parent_user_id": "U05VBQMH3D3",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2kqAF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "지인들과 셋이서 며칠전부터 계속 삽질하고 있습니다...ㅎㅎ 오류뜨고 해결하고 오류뜨고 어찌어찌 해결하고... 지금은 MMCV버젼이 안맞아서 이거 해결하는 중입니다"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U06CBFKNBFF"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

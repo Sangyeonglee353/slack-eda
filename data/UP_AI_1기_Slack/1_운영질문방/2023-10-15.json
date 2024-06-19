@@ -1,0 +1,559 @@
+[
+    {
+        "user": "U060LG0BT89",
+        "type": "message",
+        "ts": "1697422235.562859",
+        "client_msg_id": "16b46c11-8aff-4f1a-b6a0-17054832998c",
+        "text": "금일 점심시간은 예정대로 진행되나요?",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "g273c76b80b5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/273c76b80b5c013cab6c608d10041dd4.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "김준호",
+            "real_name": "김준호",
+            "display_name": "",
+            "team": "T05UGFFGL07",
+            "name": "demyank88",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "k90\/2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "금일 점심시간은 예정대로 진행되나요?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U06061L4S64"
+                ],
+                "count": 1
+            },
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U06061L4S64"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05V9LP47V0",
+        "type": "message",
+        "ts": "1697425264.000319",
+        "client_msg_id": "e717b472-f6a5-4e02-918b-71cbf12a21eb",
+        "text": "이번주 필수 온라인 강의가 아직 등록되지 않았는거 맞나요?",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "54d9ef7119e7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-06\/5993912366662_54d9ef7119e784b29212_72.jpg",
+            "first_name": "문정의",
+            "real_name": "문정의",
+            "display_name": "문정의",
+            "team": "T05UGFFGL07",
+            "name": "axa301",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697425264.000319",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1697427800.194739",
+        "reply_users": [
+            "U05UYAVRTSR"
+        ],
+        "replies": [
+            {
+                "user": "U05UYAVRTSR",
+                "ts": "1697427800.194739"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JMhiw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "이번주 필수 온라인 강의가 아직 등록되지 않았는거 맞나요?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05UYAVRTSR",
+        "type": "message",
+        "ts": "1697427800.194739",
+        "client_msg_id": "30b7ede8-11f5-4744-9b4d-9653baf1e105",
+        "text": "네 맞습니다. 현재 입과는 완료되었으며, 금일 중으로 시트 업데이트 예정입니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "g6e6ee900c48",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e6ee900c48c19701d150f52a69af64a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "김수현",
+            "real_name": "김수현",
+            "display_name": "FC 김수현 매니저",
+            "team": "T05UGFFGL07",
+            "name": "suhyunkim",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697425264.000319",
+        "parent_user_id": "U05V9LP47V0",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TxpiU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "네 맞습니다. 현재 입과는 완료되었으며, 금일 중으로 시트 업데이트 예정입니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U060LG0BT89",
+        "type": "message",
+        "ts": "1697433437.363849",
+        "client_msg_id": "578b0eec-696d-4e3b-b3fc-d8e4e577aec3",
+        "text": "훈련 단위가 1개월이고 마지막 회차에 수강평 쓴다고 하는데 교육 시간표에서 해당 시점이 시각화로 나타나있나요? 혹은 어떻게 알 수 있는지 문의드립니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "g273c76b80b5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/273c76b80b5c013cab6c608d10041dd4.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "김준호",
+            "real_name": "김준호",
+            "display_name": "",
+            "team": "T05UGFFGL07",
+            "name": "demyank88",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697433437.363849",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1697433523.693539",
+        "reply_users": [
+            "U05UYAVRTSR",
+            "U060LG0BT89"
+        ],
+        "replies": [
+            {
+                "user": "U05UYAVRTSR",
+                "ts": "1697433489.301349"
+            },
+            {
+                "user": "U060LG0BT89",
+                "ts": "1697433523.693539"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "46zXS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "훈련 단위가 1개월이고 마지막 회차에 수강평 쓴다고 하는데 교육 시간표에서 해당 시점이 시각화로 나타나있나요? 혹은 어떻게 알 수 있는지 문의드립니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05UYAVRTSR",
+        "type": "message",
+        "ts": "1697433489.301349",
+        "client_msg_id": "ecb486ec-8e46-4ffc-9801-5c0eca2e5137",
+        "text": "훈련 단위는 1개월이며, 10\/10 개강이므로 매달 10일부터 다음달 9일까지가 단위 기간입니다.\n마지막 회차는 수료일 바로 직후라고 생각해주시면 됩니다 :slightly_smiling_face:",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "g6e6ee900c48",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e6ee900c48c19701d150f52a69af64a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "김수현",
+            "real_name": "김수현",
+            "display_name": "FC 김수현 매니저",
+            "team": "T05UGFFGL07",
+            "name": "suhyunkim",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697433437.363849",
+        "parent_user_id": "U060LG0BT89",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zS2AG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "훈련 단위는 1개월이며, 10\/10 개강이므로 매달 10일부터 다음달 9일까지가 단위 기간입니다.\n마지막 회차는 수료일 바로 직후라고 생각해주시면 됩니다 "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U06061L4S64"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U060LG0BT89",
+        "type": "message",
+        "ts": "1697433523.693539",
+        "client_msg_id": "1c0a8a54-4532-4001-8cfd-56c94da8ca0a",
+        "text": "아하 내년 5월 10일 말하시는거군요 알겠습니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "g273c76b80b5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/273c76b80b5c013cab6c608d10041dd4.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "김준호",
+            "real_name": "김준호",
+            "display_name": "",
+            "team": "T05UGFFGL07",
+            "name": "demyank88",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697433437.363849",
+        "parent_user_id": "U060LG0BT89",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "P639u",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "아하 내년 5월 10일 말하시는거군요 알겠습니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "thumbsup_all",
+                "users": [
+                    "U05UYAVRTSR",
+                    "U060LG0BT89"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U05UNMQ4LP9",
+        "type": "message",
+        "ts": "1697435453.184089",
+        "client_msg_id": "d797782d-3cb6-4df8-bc96-552fa2babc30",
+        "text": "저희 줌 강의가 녹화 중이던데 따로 활용되는 곳이 있나요? 녹화 제공은 안되는걸로 알고 있습니다만 아리송하네요.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "eef278e1672b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5974738227319_eef278e1672b038da8b1_72.jpg",
+            "first_name": "김윤겸",
+            "real_name": "김윤겸",
+            "display_name": "김윤겸",
+            "team": "T05UGFFGL07",
+            "name": "dbsrua110525",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697435453.184089",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1697436140.325539",
+        "reply_users": [
+            "U05UYAVRTSR"
+        ],
+        "replies": [
+            {
+                "user": "U05UYAVRTSR",
+                "ts": "1697436140.325539"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gJMz9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "저희 줌 강의가 녹화 중이던데 따로 활용되는 곳이 있나요? 녹화 제공은 안되는걸로 알고 있습니다만 아리송하네요."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05UYAVRTSR",
+        "type": "message",
+        "ts": "1697436140.325539",
+        "client_msg_id": "ff4ec56f-2c37-4e78-9164-b2ea992fb694",
+        "text": "안녕하세요 윤겸님. 해당 강의는 추후 강의 디벨롭을 위해 내부 아카이빙 용도로 녹화되고 있습니다. 수강생분들의 이름\/얼굴이 나오지 않도록 발표 화면 녹화만 진행중인 점 참고 부탁드립니다 :slightly_smiling_face:",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "g6e6ee900c48",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e6ee900c48c19701d150f52a69af64a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "김수현",
+            "real_name": "김수현",
+            "display_name": "FC 김수현 매니저",
+            "team": "T05UGFFGL07",
+            "name": "suhyunkim",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697435453.184089",
+        "parent_user_id": "U05UNMQ4LP9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fWpX6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "안녕하세요 윤겸님. 해당 강의는 추후 강의 디벨롭을 위해 내부 아카이빙 용도로 녹화되고 있습니다. 수강생분들의 이름\/얼굴이 나오지 않도록 발표 화면 녹화만 진행중인 점 참고 부탁드립니다 "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0600C60ZK4",
+        "type": "message",
+        "ts": "1697436254.444359",
+        "client_msg_id": "c8aef44e-41bd-48e9-bb53-cce971a36e3f",
+        "text": "이번주 필수 온라인 강의 시트 업데이트 된건가요?",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "87175e1bc0c1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/6000414092562_87175e1bc0c1a87a6752_72.jpg",
+            "first_name": "official",
+            "real_name": "official",
+            "display_name": "정다슬",
+            "team": "T05UGFFGL07",
+            "name": "anyone158911",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697436254.444359",
+        "reply_count": 2,
+        "reply_users_count": 1,
+        "latest_reply": "1697436574.146859",
+        "reply_users": [
+            "U05UYAVRTSR"
+        ],
+        "replies": [
+            {
+                "user": "U05UYAVRTSR",
+                "ts": "1697436314.871979"
+            },
+            {
+                "user": "U05UYAVRTSR",
+                "ts": "1697436574.146859"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "psKRu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "이번주 필수 온라인 강의 시트 업데이트 된건가요?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U05V5B27DK7"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05UYAVRTSR",
+        "type": "message",
+        "ts": "1697436314.871979",
+        "client_msg_id": "02e03043-6fa8-4d1a-9cea-9f6f3b787118",
+        "text": "현재 입과는 완료되었으며, 금일 중으로 시트 업데이트 예정입니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "g6e6ee900c48",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e6ee900c48c19701d150f52a69af64a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "김수현",
+            "real_name": "김수현",
+            "display_name": "FC 김수현 매니저",
+            "team": "T05UGFFGL07",
+            "name": "suhyunkim",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697436254.444359",
+        "parent_user_id": "U0600C60ZK4",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vdonI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "현재 입과는 완료되었으며, 금일 중으로 시트 업데이트 예정입니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05UYAVRTSR",
+        "type": "message",
+        "ts": "1697436574.146859",
+        "edited": {
+            "user": "U05UYAVRTSR",
+            "ts": "1697436579.000000"
+        },
+        "client_msg_id": "226d0dbb-5da3-4a07-a3a5-a27723fb9d9b",
+        "text": "업데이트 완료 후 공지드릴게요 :)",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "g6e6ee900c48",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e6ee900c48c19701d150f52a69af64a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "김수현",
+            "real_name": "김수현",
+            "display_name": "FC 김수현 매니저",
+            "team": "T05UGFFGL07",
+            "name": "suhyunkim",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697436254.444359",
+        "parent_user_id": "U0600C60ZK4",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KLIF1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "업데이트 완료 후 공지드릴게요 :)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

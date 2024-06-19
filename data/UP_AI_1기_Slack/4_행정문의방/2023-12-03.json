@@ -1,0 +1,767 @@
+[
+    {
+        "user": "U060TBSJ7DF",
+        "type": "message",
+        "ts": "1701654698.246469",
+        "client_msg_id": "7c83f15c-b1cd-43ab-9cf5-03d7d5d9dbf3",
+        "text": "<@U05UNC6FNK1> <@U05V81G5ZDY>\n안녕하세요 매니저님!\nLM 박기준 님과 상담 후 12월 08일 휴가 사용으로 구글폼 제출 완료하였습니다. 확인 부탁드리겠습니다!\n추가적으로 제출해야 할 서류나 수정사항이 필요하면 말씀주세요! 감사합니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "c265f80d1cf6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-10\/6000233533575_c265f80d1cf6a20e4d32_72.jpg",
+            "first_name": "조성운",
+            "real_name": "조성운",
+            "display_name": "",
+            "team": "T05UGFFGL07",
+            "name": "jodory9524",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7xT86",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05UNC6FNK1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05V81G5ZDY"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n안녕하세요 매니저님!\nLM 박기준 님과 상담 후 12월 08일 휴가 사용으로 구글폼 제출 완료하였습니다. 확인 부탁드리겠습니다!\n추가적으로 제출해야 할 서류나 수정사항이 필요하면 말씀주세요! 감사합니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "beach_with_umbrella",
+                "users": [
+                    "U05V81G5ZDY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U060TBSJ7DF",
+        "type": "message",
+        "ts": "1701654704.523649",
+        "client_msg_id": "54ca3073-f072-4a54-88c2-2fd1ce59942a",
+        "text": "<@U05UNC6FNK1> <@U05V81G5ZDY>\n안녕하세요 매니저님!\nLM 박기준 님과 상담 후 12월 15일 휴가 사용으로 구글폼 제출 완료하였습니다. 확인 부탁드리겠습니다!\n추가적으로 제출해야 할 서류나 수정사항이 필요하면 말씀주세요! 감사합니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "c265f80d1cf6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-10\/6000233533575_c265f80d1cf6a20e4d32_72.jpg",
+            "first_name": "조성운",
+            "real_name": "조성운",
+            "display_name": "",
+            "team": "T05UGFFGL07",
+            "name": "jodory9524",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "37gw5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05UNC6FNK1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05V81G5ZDY"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n안녕하세요 매니저님!\nLM 박기준 님과 상담 후 12월 15일 휴가 사용으로 구글폼 제출 완료하였습니다. 확인 부탁드리겠습니다!\n추가적으로 제출해야 할 서류나 수정사항이 필요하면 말씀주세요! 감사합니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "beach_with_umbrella",
+                "users": [
+                    "U05V81G5ZDY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "subtype": "thread_broadcast",
+        "user": "U05UN5DQ423",
+        "thread_ts": "1700201220.947259",
+        "root": {
+            "user": "U05UN5DQ423",
+            "type": "message",
+            "ts": "1700201220.947259",
+            "client_msg_id": "81d3f5bb-5257-4e5b-9546-71414a192c52",
+            "text": "<@U05UNC6FNK1> <@U05V81G5ZDY> \n\n안녕하세요 예비군 훈련 일정 사전 공유드립니다.\n박성우 \/ 2023년 12월 1일 09:00-18:00\n훈련 이후 교육필증 및 출석대장 구글폼 설문 제출하겠습니다.",
+            "team": "T05UGFFGL07",
+            "thread_ts": "1700201220.947259",
+            "reply_count": 2,
+            "reply_users_count": 1,
+            "latest_reply": "1701660692.736009",
+            "reply_users": [
+                "U05UN5DQ423"
+            ],
+            "replies": [
+                {
+                    "user": "U05UN5DQ423",
+                    "ts": "1701654755.210989"
+                },
+                {
+                    "user": "U05UN5DQ423",
+                    "ts": "1701660692.736009"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false,
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "m6U+0",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "user",
+                                    "user_id": "U05UNC6FNK1"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " "
+                                },
+                                {
+                                    "type": "user",
+                                    "user_id": "U05V81G5ZDY"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " \n\n안녕하세요 예비군 훈련 일정 사전 공유드립니다.\n박성우 \/ 2023년 12월 1일 09:00-18:00\n훈련 이후 교육필증 및 출석대장 구글폼 설문 제출하겠습니다."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "type": "message",
+        "ts": "1701654755.210989",
+        "client_msg_id": "c61c606d-d038-44e9-92f6-ca27f4144e25",
+        "text": "<@U05V81G5ZDY> <@U05UNC6FNK1> 안녕하세요! 예비군 출석인정에 필요한 교육필증과 출석대장을 구글폼에 첨부하여 제출하였습니다. 확인해주시면 감사하겠습니다 :)",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JldEC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05V81G5ZDY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05UNC6FNK1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 안녕하세요! 예비군 출석인정에 필요한 교육필증과 출석대장을 구글폼에 첨부하여 제출하였습니다. 확인해주시면 감사하겠습니다 :)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "military_helmet",
+                "users": [
+                    "U05V81G5ZDY",
+                    "U05UN5DQ423"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "text": "여러분~ QR 체크 관련하여 재안내 드립니다.\n지난주 까지 위처럼 진행했으나, 업데이트 이후, 제한시간이 유동적으로 변화된 것으로 확인했습니다.:cry:\n\n• 출결 시각 전 후 10분 -> 유동적 변경\n• HRD에 문의했으나, 정확한 시각 안내 어렵다는 답변\nQR이 훈련장려금과 수료에 영향을 미치기 때문에 여러번 안내드리는 점 양해해주시길 바라며,\n_HRD-NET 업데이트 상 시각의 변동은 상시로 진행및 *변경*될 것으로 보여,_ *LM님 안내에 따라 꼭 체크해주시길 부탁드립니다.* \n\n관련문의는 <#C05V0H8H3GC|4_행정문의방>  채널로 <@U05V81G5ZDY> <@U05UNC6FNK1> 님께 문의해주세요~\n\n참고) QR 체크 확인 방법\n```경로: HRD-net -> 나의정보 -> 나의 훈련 -> 출석보기에서 입\/퇴실 시간이 확인 \n- QR 체크 후 시각이 안뜨는 경우, 재시도\n- 체크 안됨으로 인한 QR 정정 - 해당QR 화면 캡쳐 후, 스샷+대장과 함께 제출 필요```",
+        "files": [
+            {
+                "id": "F0687TB42KY",
+                "created": 1701654914,
+                "timestamp": 1701654914,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U05UNC6FNK1",
+                "user_team": "T05UGFFGL07",
+                "editable": false,
+                "size": 16767,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F0687TB42KY\/image.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F0687TB42KY\/download\/image.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F0687TB42KY-2110c21a9e\/image_64.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F0687TB42KY-2110c21a9e\/image_80.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F0687TB42KY-2110c21a9e\/image_360.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_360_w": 360,
+                "thumb_360_h": 139,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F0687TB42KY-2110c21a9e\/image_480.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_480_w": 480,
+                "thumb_480_h": 185,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F0687TB42KY-2110c21a9e\/image_160.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F0687TB42KY-2110c21a9e\/image_720.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_720_w": 720,
+                "thumb_720_h": 278,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F0687TB42KY-2110c21a9e\/image_800.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_800_w": 800,
+                "thumb_800_h": 309,
+                "original_w": 800,
+                "original_h": 309,
+                "thumb_tiny": "AwASADDQ70DnpRjJ4GaUAjoKAFGe4o\/4DRz6\/pRz6\/pQAfhR+FHPrS0AFFFFABRRRQAUUUUAf\/\/Z",
+                "permalink": "https:\/\/fcupstageai1.slack.com\/files\/U05UNC6FNK1\/F0687TB42KY\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T05UGFFGL07-F0687TB42KY-1bdebf4fbf",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U05UNC6FNK1",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1MV0\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "여러분~ QR 체크 관련하여 재안내 드립니다.\n지난주 까지 위처럼 진행했으나, 업데이트 이후, 제한시간이 유동적으로 변화된 것으로 확인했습니다."
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "cry",
+                                "unicode": "1f622"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "출결 시각 전 후 10분 -> 유동적 변경"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "HRD에 문의했으나, 정확한 시각 안내 어렵다는 답변"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nQR이 훈련장려금과 수료에 영향을 미치기 때문에 여러번 안내드리는 점 양해해주시길 바라며,\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "HRD-NET 업데이트 상 시각의 변동은 상시로 진행및 ",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "변경",
+                                "style": {
+                                    "bold": true,
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "될 것으로 보여,",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "LM님 안내에 따라 꼭 체크해주시길 부탁드립니다. ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n관련문의는 "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C05V0H8H3GC"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  채널로 "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05V81G5ZDY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05UNC6FNK1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 님께 문의해주세요~\n\n참고) QR 체크 확인 방법\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "경로: HRD-net -> 나의정보 -> 나의 훈련 -> 출석보기에서 입\/퇴실 시간이 확인 \n- QR 체크 후 시각이 안뜨는 경우, 재시도\n- 체크 안됨으로 인한 QR 정정 - 해당QR 화면 캡쳐 후, 스샷+대장과 함께 제출 필요"
+                            }
+                        ],
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1701654924.125519",
+        "edited": {
+            "user": "U05UNC6FNK1",
+            "ts": "1701655220.000000"
+        },
+        "client_msg_id": "24b5524a-d0d7-4d40-aae9-af9342985f97",
+        "thread_ts": "1701150306.717099",
+        "parent_user_id": "U05UNC6FNK1"
+    },
+    {
+        "user": "U05UWVA90H4",
+        "type": "message",
+        "ts": "1701656420.066599",
+        "client_msg_id": "a50312f7-30f5-432b-a89d-0b285db856b5",
+        "text": "안녕하세요 <@U05UNC6FNK1> 매니저님 #행정문의방으로 전송 안되고 쓰레드로만 발송된것 같아요",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "e039a582c034",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5983012631430_e039a582c03450d83dc6_72.png",
+            "first_name": "이준형",
+            "real_name": "이준형",
+            "display_name": "이준형",
+            "team": "T05UGFFGL07",
+            "name": "hewberryd8",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1701150306.717099",
+        "parent_user_id": "U05UNC6FNK1",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nENzD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "안녕하세요 "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05UNC6FNK1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 매니저님 #행정문의방으로 전송 안되고 쓰레드로만 발송된것 같아요"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05UNC6FNK1",
+        "type": "message",
+        "ts": "1701656461.794149",
+        "client_msg_id": "663d308d-7065-4378-a563-3660a739d9b0",
+        "text": "네 준형님 기존 공지에 추가로 작성되어 스레드로 추가된 게 맞습니다",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "260d154ea1e2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5979526758263_260d154ea1e2177fd001_72.jpg",
+            "first_name": "FC",
+            "real_name": "FC 하시안 매니저",
+            "display_name": "FC 하시안 매니저",
+            "team": "T05UGFFGL07",
+            "name": "xianha",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1701150306.717099",
+        "parent_user_id": "U05UNC6FNK1",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZlMVh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "네 준형님 기존 공지에 추가로 작성되어 스레드로 추가된 게 맞습니다"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "thread_broadcast",
+        "user": "U05UN5DQ423",
+        "thread_ts": "1700201220.947259",
+        "root": {
+            "user": "U05UN5DQ423",
+            "type": "message",
+            "ts": "1700201220.947259",
+            "client_msg_id": "81d3f5bb-5257-4e5b-9546-71414a192c52",
+            "text": "<@U05UNC6FNK1> <@U05V81G5ZDY> \n\n안녕하세요 예비군 훈련 일정 사전 공유드립니다.\n박성우 \/ 2023년 12월 1일 09:00-18:00\n훈련 이후 교육필증 및 출석대장 구글폼 설문 제출하겠습니다.",
+            "team": "T05UGFFGL07",
+            "thread_ts": "1700201220.947259",
+            "reply_count": 2,
+            "reply_users_count": 1,
+            "latest_reply": "1701660692.736009",
+            "reply_users": [
+                "U05UN5DQ423"
+            ],
+            "replies": [
+                {
+                    "user": "U05UN5DQ423",
+                    "ts": "1701654755.210989"
+                },
+                {
+                    "user": "U05UN5DQ423",
+                    "ts": "1701660692.736009"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false,
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "m6U+0",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "user",
+                                    "user_id": "U05UNC6FNK1"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " "
+                                },
+                                {
+                                    "type": "user",
+                                    "user_id": "U05V81G5ZDY"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " \n\n안녕하세요 예비군 훈련 일정 사전 공유드립니다.\n박성우 \/ 2023년 12월 1일 09:00-18:00\n훈련 이후 교육필증 및 출석대장 구글폼 설문 제출하겠습니다."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "type": "message",
+        "ts": "1701660692.736009",
+        "client_msg_id": "f99a1070-c721-4640-aa12-69bfe8bf6a3d",
+        "text": "관련 서류 수정 제출하였습니다! 확인부탁드립니다.",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "I8lJd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "관련 서류 수정 제출하였습니다! 확인부탁드립니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05V2P37518",
+        "type": "message",
+        "ts": "1701660971.968819",
+        "client_msg_id": "924f26cd-7cf7-4d6f-a012-8112876f2077",
+        "text": "<@U05UNC6FNK1> <@U05V81G5ZDY>\n안녕하세요 매니저님!\nLM 박기준 님과 상담 후 12월 13일 휴가 사용으로 구글폼 제출 완료하였습니다. 확인 부탁드리겠습니다!\n추가적으로 제출해야 할 서류나 수정사항이 필요하면 말씀주세요! 감사합니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "cc6bb0a6327a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5988791489650_cc6bb0a6327a06ec59ab_72.png",
+            "first_name": "배창현",
+            "real_name": "배창현",
+            "display_name": "",
+            "team": "T05UGFFGL07",
+            "name": "bae951753",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hKtNB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05UNC6FNK1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05V81G5ZDY"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n안녕하세요 매니저님!\nLM 박기준 님과 상담 후 12월 13일 휴가 사용으로 구글폼 제출 완료하였습니다. 확인 부탁드리겠습니다!\n추가적으로 제출해야 할 서류나 수정사항이 필요하면 말씀주세요! 감사합니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "beach_with_umbrella",
+                "users": [
+                    "U05V81G5ZDY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06022Z2TED",
+        "type": "message",
+        "ts": "1701666509.254979",
+        "client_msg_id": "291d20d5-bf89-4195-a49e-b4ebb3eeda43",
+        "text": "<@U05UNC6FNK1> <@U05V81G5ZDY>\n안녕하세요. LM님과 상담 후 12월 7일 목요일 휴가 사용으로 구글폼 제출하였습니다. 확인 부탁드립니다. 감사합니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "d62be7ca993c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5991921924404_d62be7ca993c5be99966_72.png",
+            "first_name": "ha",
+            "real_name": "ha ha",
+            "display_name": "김하연",
+            "team": "T05UGFFGL07",
+            "name": "leah8735",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lFbiA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05UNC6FNK1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05V81G5ZDY"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n안녕하세요. LM님과 상담 후 12월 7일 목요일 휴가 사용으로 구글폼 제출하였습니다. 확인 부탁드립니다. 감사합니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "beach_with_umbrella",
+                "users": [
+                    "U05V81G5ZDY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05UUUNAE5D",
+        "type": "message",
+        "ts": "1701675899.417599",
+        "client_msg_id": "04fb39ad-214f-4f20-b784-26e36f62b688",
+        "text": "<@U05UNC6FNK1>\n <@U05V81G5ZDY>\n안녕하세요, 매니져님, 박기준 LM님과 상담 후 12월 8일 금요일 휴가 사용으로 구글폼 제출하였습니다. 확인 부탁드립니다. 감사합니다!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "32899ebdb4c2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5995423014227_32899ebdb4c26d670b69_72.png",
+            "first_name": "감성필SungFeelCalm",
+            "real_name": "감성필SungFeelCalm",
+            "display_name": "감성필",
+            "team": "T05UGFFGL07",
+            "name": "betterthingsarecoming",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fb74R",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05UNC6FNK1"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05V81G5ZDY"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n안녕하세요, 매니져님, 박기준 LM님과 상담 후 12월 8일 금요일 휴가 사용으로 구글폼 제출하였습니다. 확인 부탁드립니다. 감사합니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "beach_with_umbrella",
+                "users": [
+                    "U05V81G5ZDY"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

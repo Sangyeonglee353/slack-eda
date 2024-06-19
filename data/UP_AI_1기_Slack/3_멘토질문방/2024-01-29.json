@@ -1,0 +1,123 @@
+[
+    {
+        "text": "<@U06FFSA059B>\n안녕하세요 멘토님! CNN 불러오기 파트 실습중에 궁금한것이 생겨 질문 드립니다!\n모델의 출력 결과를 보면 클래스에 대한 예측은 AlexNet, VGG, ResNet 세 모델 모두 잘 예측하지만 출력값에서 ResNet 모델이 다른 두 모델에 비해 상당히 작은 예측값으로 예측하는 것을 볼 수 있습니다.\nResNet 모델의 출력값이 상대적으로 작게 나타나는 이유가 궁금합니다!",
+        "files": [
+            {
+                "id": "F06GA633EH2",
+                "created": 1706600284,
+                "timestamp": 1706600284,
+                "name": "스크린샷 2024-01-30 오후 4.27.33.png",
+                "title": "스크린샷 2024-01-30 오후 4.27.33.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U0606QGQYE5",
+                "user_team": "T05UGFFGL07",
+                "editable": false,
+                "size": 255362,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F06GA633EH2\/_______________________________2024-01-30______________4.27.33.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F06GA633EH2\/download\/_______________________________2024-01-30______________4.27.33.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06GA633EH2-c8b2ce8a10\/_______________________________2024-01-30______________4.27.33_64.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06GA633EH2-c8b2ce8a10\/_______________________________2024-01-30______________4.27.33_80.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06GA633EH2-c8b2ce8a10\/_______________________________2024-01-30______________4.27.33_360.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_360_w": 360,
+                "thumb_360_h": 308,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06GA633EH2-c8b2ce8a10\/_______________________________2024-01-30______________4.27.33_480.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_480_w": 480,
+                "thumb_480_h": 410,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06GA633EH2-c8b2ce8a10\/_______________________________2024-01-30______________4.27.33_160.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06GA633EH2-c8b2ce8a10\/_______________________________2024-01-30______________4.27.33_720.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_720_w": 720,
+                "thumb_720_h": 615,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06GA633EH2-c8b2ce8a10\/_______________________________2024-01-30______________4.27.33_800.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_800_w": 800,
+                "thumb_800_h": 683,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06GA633EH2-c8b2ce8a10\/_______________________________2024-01-30______________4.27.33_960.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_960_w": 960,
+                "thumb_960_h": 820,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06GA633EH2-c8b2ce8a10\/_______________________________2024-01-30______________4.27.33_1024.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 875,
+                "original_w": 1304,
+                "original_h": 1114,
+                "thumb_tiny": "AwApADCkKX8KTmlz7UAH4Un4Uufak\/CgA\/Oij8KMUAPHajigdqO9MBp60lKevFJQAUUUUAOHbmlx70g7UvegBuKSlPU0lABRRRQB\/9k=",
+                "permalink": "https:\/\/fcupstageai1.slack.com\/files\/U0606QGQYE5\/F06GA633EH2\/_______________________________2024-01-30______________4.27.33.png",
+                "permalink_public": "https:\/\/slack-files.com\/T05UGFFGL07-F06GA633EH2-5b8ec65d4f",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U0606QGQYE5",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ldB0N",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06FFSA059B"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n안녕하세요 멘토님! CNN 불러오기 파트 실습중에 궁금한것이 생겨 질문 드립니다!\n모델의 출력 결과를 보면 클래스에 대한 예측은 AlexNet, VGG, ResNet 세 모델 모두 잘 예측하지만 출력값에서 ResNet 모델이 다른 두 모델에 비해 상당히 작은 예측값으로 예측하는 것을 볼 수 있습니다.\nResNet 모델의 출력값이 상대적으로 작게 나타나는 이유가 궁금합니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1706600340.323619",
+        "client_msg_id": "cc066e66-dccb-40ab-8a9c-280218d3f16a",
+        "thread_ts": "1706600340.323619",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1706606043.150329",
+        "reply_users": [
+            "U06FFSA059B",
+            "U0606QGQYE5"
+        ],
+        "replies": [
+            {
+                "user": "U06FFSA059B",
+                "ts": "1706604873.938909"
+            },
+            {
+                "user": "U0606QGQYE5",
+                "ts": "1706606043.150329"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U06FFSA059B"
+                ],
+                "count": 1
+            },
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U06FFSA059B"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

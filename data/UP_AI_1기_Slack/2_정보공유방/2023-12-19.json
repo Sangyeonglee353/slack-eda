@@ -1,0 +1,98 @@
+[
+    {
+        "user": "U060C67EYQ5",
+        "type": "message",
+        "ts": "1702980107.894389",
+        "client_msg_id": "b2e324c2-4881-424f-8c65-240edb86db2b",
+        "text": "<!here> 오늘(19일) 김윤기 강사님 LLM 관련 특강 중 공유해주신 '추천시스템 관련 논문' 공유해봅니다 :)\n\n&gt; [Q] \"새롭게 만든 Solution은 기존의 Batch Serving 방식에서 만들어진 모델인데,\n&gt; 이 모델을 새로운 Solution에 맞게 모델을 바꾸지 않고 사용할 수 있게 했던 방법론을 조금 설명해주실 수 있나요?\"\n&gt; [A] 아래 논문들 확인해보시면, 도움이 되실 듯 합니다!\n- Deep &amp; Cross Network for Ad Click Predictions\n- Deep interest network for click-through rate prediction\n- Deep Multi-Interest Network for Click-through Rate Prediction\n- Deep Multifaceted Transformers for Multi-objective Rank-ing in Large-Scale E-commerce Recommender Systems",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "831ed525b276",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-11-14\/6192884585138_831ed525b276222009d0_72.png",
+            "first_name": "업스테이지",
+            "real_name": "업스테이지 김의겸(Dave)",
+            "display_name": "UP 김의겸(Dave) 매니저",
+            "team": "T05UGFFGL07",
+            "name": "euigyum",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yTMoV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 오늘(19일) 김윤기 강사님 LLM 관련 특강 중 공유해주신 '추천시스템 관련 논문' 공유해봅니다 :)\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "[Q] \"새롭게 만든 Solution은 기존의 Batch Serving 방식에서 만들어진 모델인데,\n이 모델을 새로운 Solution에 맞게 모델을 바꾸지 않고 사용할 수 있게 했던 방법론을 조금 설명해주실 수 있나요?\""
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "[A] 아래 논문들 확인해보시면, 도움이 되실 듯 합니다!"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "- Deep & Cross Network for Ad Click Predictions\n- Deep interest network for click-through rate prediction\n- Deep Multi-Interest Network for Click-through Rate Prediction\n- Deep Multifaceted Transformers for Multi-objective Rank-ing in Large-Scale E-commerce Recommender Systems"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U05V9N22ZUK",
+                    "U05V379NETU",
+                    "U05V4KZR3NW",
+                    "U05VADPQPCL",
+                    "U05V7H78DUM",
+                    "U05UVE9DFSB",
+                    "U05V5B27DK7",
+                    "U0600GGHJTC",
+                    "U060BLVQYHW",
+                    "U05V87YA1CJ"
+                ],
+                "count": 10
+            }
+        ]
+    }
+]

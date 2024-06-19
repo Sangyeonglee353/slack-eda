@@ -1,0 +1,649 @@
+[
+    {
+        "user": "U0608EG7YEA",
+        "type": "message",
+        "ts": "1712884400.827699",
+        "edited": {
+            "user": "U0608EG7YEA",
+            "ts": "1713322843.000000"
+        },
+        "client_msg_id": "fdb6aa28-2151-4332-b09e-6d41ff383026",
+        "text": "• OCR 1 : ~강승현~ ~김창희~ ~문정의~\n• OCR 2 : ~우승현~ ~이재민~ ~`송현지`~ ~배창현~\n• OCR 3 : ~서재현~ ~진성준~ ~이현진~\n• Information Retrieval 1 : ~가상민~ ~김도연~ ~서상혁~ ~이소영A~\n• Information Retrieval 2 : ~김소현~ ~김준호~ ~김태한~ ~최장원~\n• Information Retrieval 3 : ~김하연~ ~김윤겸~ ~김영천~ ~이소영B~ ~남영진~\n• Information Retrieval 4 : ~`김형수`~ ~장준규~ ~이준형~ ~장성준~ ~기원선~\n• Recsys Basic 1 : `김승호` ~장은혁~ `전수연`\n• Recsys Basic 2 : ~박성우~ ~윤수인~ ~조예람~ ~노균호~\n• Anomaly Detection 1 : ~신주용~ `엄효범` ~`이명진`~\n• Anomaly Detection 2 : ~정다슬~ ~이영훈~ ~김채원~\n• Anomaly Detection 3 : ~김다운~ ~신동혁~ ~장호준~\n<@U05VCCSHKHR> <@U0606HAGLTB> <@U05V0106JDT> <@U05V5B88ULD> <@U05VBQMH3D3> <@U05V1KVNK0E>\n서버 아직 할당 안받으신 것으로 확인됩니다. 할당 완료되시면 댓글로 말씀 부탁드려요!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "542e7e1dec67",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-12\/6028220315186_542e7e1dec6721784df9_72.png",
+            "first_name": "업스테이지",
+            "real_name": "업스테이지 크리스",
+            "display_name": "업스테이지 크리스",
+            "team": "T05UGFFGL07",
+            "name": "chris",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712552401.443239",
+        "parent_user_id": "U05VAHXECP6",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HjD72",
+                "elements": [
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "OCR 1 : "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "강승현",
+                                        "style": {
+                                            "strike": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "김창희",
+                                        "style": {
+                                            "strike": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "문정의",
+                                        "style": {
+                                            "strike": true
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "OCR 2 : "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "우승현",
+                                        "style": {
+                                            "strike": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "이재민",
+                                        "style": {
+                                            "strike": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "송현지",
+                                        "style": {
+                                            "strike": true,
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "배창현",
+                                        "style": {
+                                            "strike": true
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "OCR 3 : "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "서재현",
+                                        "style": {
+                                            "strike": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "진성준",
+                                        "style": {
+                                            "strike": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "이현진",
+                                        "style": {
+                                            "strike": true
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Information Retrieval 1 : "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "가상민",
+                                        "style": {
+                                            "strike": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "김도연",
+                                        "style": {
+                                            "strike": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "서상혁",
+                                        "style": {
+                                            "strike": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "이소영A",
+                                        "style": {
+                                            "strike": true
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Information Retrieval 2 : "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "김소현",
+                                        "style": {
+                                            "strike": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "김준호",
+                                        "style": {
+                                            "strike": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "김태한",
+                                        "style": {
+                                            "strike": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "최장원",
+                                        "style": {
+                                            "strike": true
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Information Retrieval 3 : "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "김하연",
+                                        "style": {
+                                            "strike": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "김윤겸",
+                                        "style": {
+                                            "strike": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "김영천",
+                                        "style": {
+                                            "strike": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "이소영B",
+                                        "style": {
+                                            "strike": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "남영진",
+                                        "style": {
+                                            "strike": true
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Information Retrieval 4 : "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "김형수",
+                                        "style": {
+                                            "strike": true,
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "장준규",
+                                        "style": {
+                                            "strike": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "이준형",
+                                        "style": {
+                                            "strike": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "장성준",
+                                        "style": {
+                                            "strike": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "기원선",
+                                        "style": {
+                                            "strike": true
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Recsys Basic 1 : "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "김승호",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "장은혁",
+                                        "style": {
+                                            "strike": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "전수연",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Recsys Basic 2 : "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "박성우",
+                                        "style": {
+                                            "strike": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "윤수인",
+                                        "style": {
+                                            "strike": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "조예람",
+                                        "style": {
+                                            "strike": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "노균호",
+                                        "style": {
+                                            "strike": true
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Anomaly Detection 1 : "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "신주용",
+                                        "style": {
+                                            "strike": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "엄효범",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "이명진",
+                                        "style": {
+                                            "strike": true,
+                                            "code": true
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Anomaly Detection 2 : "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "정다슬",
+                                        "style": {
+                                            "strike": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "이영훈",
+                                        "style": {
+                                            "strike": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "김채원",
+                                        "style": {
+                                            "strike": true
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Anomaly Detection 3 : "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "김다운",
+                                        "style": {
+                                            "strike": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "신동혁",
+                                        "style": {
+                                            "strike": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "장호준",
+                                        "style": {
+                                            "strike": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05VCCSHKHR"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0606HAGLTB"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05V0106JDT"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05V5B88ULD"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05VBQMH3D3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05V1KVNK0E"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n서버 아직 할당 안받으신 것으로 확인됩니다. 할당 완료되시면 댓글로 말씀 부탁드려요!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

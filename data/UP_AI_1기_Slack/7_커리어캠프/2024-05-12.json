@@ -1,0 +1,149 @@
+[
+    {
+        "user": "U071V329LVD",
+        "type": "message",
+        "ts": "1715558939.528989",
+        "client_msg_id": "9d0b89f1-18a6-403e-b574-0e9e2eb973ca",
+        "text": "*<!channel>* \n*[1:1 첨삭상담 신청 공지]*\nUpstage AI Lab 1기 수료생 여러분 안녕하세요!:woman-raising-hand:\n어제부터 날씨가 정말 화창하고 좋네요:herb:\n\n5.17(이번주 금요일)까지 신청 기간인 *1:1 첨삭상담* 잊지 않으셨죠?\n업계 현직자로 계신 멘토님들께 일대일로 첨삭상담을\n받아볼 수 있는 기회를 꼭 누리셨으면 좋겠습니다!\n\n• *<https:\/\/forms.gle\/74QcjUqYRhqxundk7|1:1 첨삭상담 참여신청서>*\n위 링크에서 신청서를 제출하시면 개별DM으로 예약페이지 전송해드립니다.\n이번주 금요일까지 신청기한 마감이니 서류 준비해서 바로 신청 해주세요!\n\n그럼 오늘도 활기찬 하루 되세요!:runner:",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "7126b09d12fa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-13\/7098347063462_7126b09d12fa60e1a30d_72.png",
+            "first_name": "유정미",
+            "real_name": "유정미 매니저",
+            "display_name": "유정미 매니저",
+            "team": "T05UGFFGL07",
+            "name": "jeongmi.yoo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1715558939.528989",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1715930320.061779",
+        "reply_users": [
+            "U05V4KZR3NW",
+            "U071V329LVD"
+        ],
+        "replies": [
+            {
+                "user": "U05V4KZR3NW",
+                "ts": "1715930126.953959"
+            },
+            {
+                "user": "U071V329LVD",
+                "ts": "1715930320.061779"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1GG5i",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "[1:1 첨삭상담 신청 공지]",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nUpstage AI Lab 1기 수료생 여러분 안녕하세요!"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-raising-hand",
+                                "unicode": "1f64b-200d-2640-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n어제부터 날씨가 정말 화창하고 좋네요"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "herb",
+                                "unicode": "1f33f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n5.17(이번주 금요일)까지 신청 기간인 "
+                            },
+                            {
+                                "type": "text",
+                                "text": "1:1 첨삭상담",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " 잊지 않으셨죠?\n업계 현직자로 계신 멘토님들께 일대일로 첨삭상담을\n받아볼 수 있는 기회를 꼭 누리셨으면 좋겠습니다!\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/forms.gle\/74QcjUqYRhqxundk7",
+                                        "text": "1:1 첨삭상담 참여신청서",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "위 링크에서 신청서를 제출하시면 개별DM으로 예약페이지 전송해드립니다.\n이번주 금요일까지 신청기한 마감이니 서류 준비해서 바로 신청 해주세요!\n\n그럼 오늘도 활기찬 하루 되세요!"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "runner",
+                                "unicode": "1f3c3"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

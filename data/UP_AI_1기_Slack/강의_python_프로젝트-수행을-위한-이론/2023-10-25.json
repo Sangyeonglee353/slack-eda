@@ -1,0 +1,276 @@
+[
+    {
+        "user": "U06061L4S64",
+        "type": "message",
+        "ts": "1698221898.356579",
+        "client_msg_id": "b3be1e35-d5c9-43cc-ae54-cc70001a7475",
+        "text": "강사님 추천 <https:\/\/youtu.be\/mNL7MYnnvVI?si=nO6YPEV1Yl4H6OCX|youtube 링크>",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "9958a6e7ea98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5988755251283_9958a6e7ea98545615ca_72.png",
+            "first_name": "LM",
+            "real_name": "LM 박진영",
+            "display_name": "LM 박진영",
+            "team": "T05UGFFGL07",
+            "name": "pjy.fc.career",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/youtu.be\/mNL7MYnnvVI?si=nO6YPEV1Yl4H6OCX",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/mNL7MYnnvVI\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/mNL7MYnnvVI?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen title=\"백엔드에서 머신러닝 엔지니어 커리어 전환\"><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "id": 1,
+                "original_url": "https:\/\/youtu.be\/mNL7MYnnvVI?si=nO6YPEV1Yl4H6OCX",
+                "fallback": "YouTube Video: 백엔드에서 머신러닝 엔지니어 커리어 전환",
+                "title": "백엔드에서 머신러닝 엔지니어 커리어 전환",
+                "title_link": "https:\/\/youtu.be\/mNL7MYnnvVI?si=nO6YPEV1Yl4H6OCX",
+                "author_name": "AI Holic",
+                "author_link": "https:\/\/www.youtube.com\/@ChrissSong",
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IEd7I",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "강사님 추천 "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/youtu.be\/mNL7MYnnvVI?si=nO6YPEV1Yl4H6OCX",
+                                "text": "youtube 링크"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U05UWVA90H4",
+                    "U05V379NETU"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U06061L4S64",
+        "type": "message",
+        "ts": "1698222834.763179",
+        "client_msg_id": "562edce4-f83e-435e-954c-c5fc9d9236a7",
+        "text": "vsc extention - tabnine (자동완성)",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "9958a6e7ea98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5988755251283_9958a6e7ea98545615ca_72.png",
+            "first_name": "LM",
+            "real_name": "LM 박진영",
+            "display_name": "LM 박진영",
+            "team": "T05UGFFGL07",
+            "name": "pjy.fc.career",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ssfu0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "vsc extention - tabnine (자동완성)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05V379NETU",
+        "type": "message",
+        "ts": "1698225892.212789",
+        "client_msg_id": "d04141b6-8447-4906-8e07-2f43ec0e3049",
+        "text": "poetry config --list\npoetry config virtualenvs.create true --local\npoetry config virtualenvs.in-project true --local\npoetry config --list\npoetry shell\n\n하니까 잘 만들어지네요! 감사합니다",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "ffacc530c1ba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/6012256954656_ffacc530c1baefd9bc1c_72.jpg",
+            "first_name": "신주용",
+            "real_name": "신주용",
+            "display_name": "신주용",
+            "team": "T05UGFFGL07",
+            "name": "robotshin1608",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698195427.927199",
+        "parent_user_id": "U05V2T62KUJ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "m4tSG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "poetry config --list\npoetry config virtualenvs.create true --local\npoetry config virtualenvs.in-project true --local\npoetry config --list\npoetry shell\n\n하니까 잘 만들어지네요! 감사합니다"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06061L4S64",
+        "type": "message",
+        "ts": "1698226040.412239",
+        "client_msg_id": "777887be-f48d-4998-9922-d59485cfd499",
+        "text": "• 코드 공유 (놓치신분들 참고 부탁드립니다.)\n```import speech_recognition as sr\n\n# 음성 인식 객체 생성\n\nrecognizer = sr.Recognizer()\n\nwith sr.Microphone() as source:\n    print(\"Say something...\")\n    recognizer.adjust_for_ambient_noise(source)\n    audio = recognizer.listen(source)\n    print(audio)\n\ntry:\n    recognizer.recognize_google(audio)\nexcept Exception as e:\n    print(\"Failed to recognize - \", e)\n\n# Flask -&gt; API```",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "9958a6e7ea98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5988755251283_9958a6e7ea98545615ca_72.png",
+            "first_name": "LM",
+            "real_name": "LM 박진영",
+            "display_name": "LM 박진영",
+            "team": "T05UGFFGL07",
+            "name": "pjy.fc.career",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PQEef",
+                "elements": [
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "코드 공유 (놓치신분들 참고 부탁드립니다.)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "import speech_recognition as sr\n\n# 음성 인식 객체 생성\n\nrecognizer = sr.Recognizer()\n\nwith sr.Microphone() as source:\n    print(\"Say something...\")\n    recognizer.adjust_for_ambient_noise(source)\n    audio = recognizer.listen(source)\n    print(audio)\n\ntry:\n    recognizer.recognize_google(audio)\nexcept Exception as e:\n    print(\"Failed to recognize - \", e)\n\n# Flask -> API"
+                            }
+                        ],
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U05V379NETU",
+                    "U05VDDP88BW"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U06061L4S64",
+        "type": "message",
+        "ts": "1698226718.950589",
+        "client_msg_id": "4685f2cc-2616-4e66-bd51-0419a7672b20",
+        "text": "• flask 코드 공유\n```from flask import Flask\n\napp = Flask(__name__)\n\n@app.route(\"\/\")\ndef hello_world():\n    return \"&lt;h1&gt;Hello, World!&lt;\/h1&gt;\"\n\n@app.route(\"\/&lt;username&gt;\")\ndef hell_user(username):\n    return f\"&lt;h1&gt;Hello, {username}!&lt;\/h1&gt;\"\n\n@app.route(\"\/feed\/&lt;int:feed_id&gt;\")\ndef show_feed(feed_id):\n    return f\"&lt;h1&gt;FeedID : {feed_id}&lt;\/h1&gt;\"\n\n\nif __name__ == \"__main__\":\n    app.run()```",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "9958a6e7ea98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5988755251283_9958a6e7ea98545615ca_72.png",
+            "first_name": "LM",
+            "real_name": "LM 박진영",
+            "display_name": "LM 박진영",
+            "team": "T05UGFFGL07",
+            "name": "pjy.fc.career",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "v+3ZJ",
+                "elements": [
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "flask 코드 공유"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "from flask import Flask\n\napp = Flask(__name__)\n\n@app.route(\"\/\")\ndef hello_world():\n    return \"<h1>Hello, World!<\/h1>\"\n\n@app.route(\"\/<username>\")\ndef hell_user(username):\n    return f\"<h1>Hello, {username}!<\/h1>\"\n\n@app.route(\"\/feed\/<int:feed_id>\")\ndef show_feed(feed_id):\n    return f\"<h1>FeedID : {feed_id}<\/h1>\"\n\n\nif __name__ == \"__main__\":\n    app.run()"
+                            }
+                        ],
+                        "border": 0
+                    }
+                ]
+            }
+        ]
+    }
+]

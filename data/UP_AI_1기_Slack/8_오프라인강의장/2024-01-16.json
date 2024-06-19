@@ -1,0 +1,162 @@
+[
+    {
+        "user": "U05VADPQPCL",
+        "type": "message",
+        "ts": "1705397370.218179",
+        "client_msg_id": "fc94b9d5-02b3-443f-9740-a6ac448e3360",
+        "text": "<!channel>\n&gt; *ML 경진대회 기간 강의장 이용 안내*\n• 주소 : 서울특별시 강남구 강남대로 364 미왕빌딩 10층\n• 강의장: *10B*\n• 비밀번호 : 없음\n• 이용 기간: *1\/22(월) ~ 1\/26(금)*\n• *이용 시간: 09:00 ~ 18:00*\n    ◦ *18:00 이후 다른 강의가 예정되어 있으니 참고해주세요.*",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "07e7ca00b8f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5991092857253_07e7ca00b8f0d0b13ba1_72.png",
+            "first_name": "패스트캠퍼스박기준",
+            "real_name": "패스트캠퍼스박기준",
+            "display_name": "LM 박기준",
+            "team": "T05UGFFGL07",
+            "name": "pgj.fc.career",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Zwf6l",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ML 경진대회 기간 강의장 이용 안내",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "주소 : 서울특별시 강남구 강남대로 364 미왕빌딩 10층"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "강의장: "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "10B",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "비밀번호 : 없음"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "이용 기간:"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " 1\/22(월) ~ 1\/26(금)",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "이용 시간: 09:00 ~ 18:00",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "18:00 이후 다른 강의가 예정되어 있으니 참고해주세요.",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U05V561TXUL",
+                    "U05V5B27DK7",
+                    "U065TBUL5EE",
+                    "U060H4V0Q5S",
+                    "U05UNMQ4LP9",
+                    "U0600GGHJTC",
+                    "U05V2P37518",
+                    "U05V2HL22M9"
+                ],
+                "count": 8
+            }
+        ]
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "user": "U065TBUL5EE",
+        "type": "message",
+        "ts": "1700820020.934009",
+        "edited": {
+            "user": "U065TBUL5EE",
+            "ts": "1700831785.000000"
+        },
+        "client_msg_id": "2a9649c3-46e1-47bd-9250-2edd08e34bec",
+        "text": "<!channel>\n오늘 진행한 실습코드 공유드립니다 (위의 링크와 같음)\n• 코드링크 : <https:\/\/drive.google.com\/file\/d\/1TO6yvXi2Y1kIk0lNnNZUeQDwSLONaUGn\/view?usp=sharing>\n질문은 언제든지 환영입니다!! 머신러닝과 관련된 주제라면 가급적 채널에 남겨서 다같이 토의(?)해보도록 해요 :slightly_smiling_face:\n행복한 주말 보내시고, ~다음주 월요일 오전 10시에 뵙겠습니다!!~\n*다음주 화요일 오전 10시에 뵙겠습니다!!*",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "34f110a5edc4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-11-14\/6197301711475_34f110a5edc435398e63_72.png",
+            "first_name": "김용담",
+            "real_name": "김용담",
+            "display_name": "김용담 강사",
+            "team": "T05UGFFGL07",
+            "name": "codingiscoffee",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HCRgg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n오늘 진행한 실습코드 공유드립니다 (위의 링크와 같음)\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "코드링크 : "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/drive.google.com\/file\/d\/1TO6yvXi2Y1kIk0lNnNZUeQDwSLONaUGn\/view?usp=sharing"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n질문은 언제든지 환영입니다!! 머신러닝과 관련된 주제라면 가급적 채널에 남겨서 다같이 토의(?)해보도록 해요 "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n행복한 주말 보내시고, "
+                            },
+                            {
+                                "type": "text",
+                                "text": "다음주 월요일 오전 10시에 뵙겠습니다!!",
+                                "style": {
+                                    "strike": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "다음주 화요일 오전 10시에 뵙겠습니다!!",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U05V7H78DUM",
+                    "U05UVE9DFSB",
+                    "U05V5B27DK7",
+                    "U05V2HL22M9",
+                    "U05V9N22ZUK",
+                    "U05UN6NTN8P",
+                    "U05V2T62KUJ",
+                    "U0600GGHJTC",
+                    "U05UUUNAE5D"
+                ],
+                "count": 9
+            }
+        ]
+    }
+]

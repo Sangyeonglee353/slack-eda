@@ -1,0 +1,1372 @@
+[
+    {
+        "user": "U06061L4S64",
+        "type": "message",
+        "ts": "1699863603.498019",
+        "client_msg_id": "08db72a5-9214-4aec-a45c-1db41663d892",
+        "text": "<!here>\n[프로젝트 발표 공지]\n• 약간의 시간 변동이 있어서 재확인 부탁드리겠습니다!:saluting_face:\n• <https:\/\/docs.google.com\/spreadsheets\/d\/1HrRvtfn9VDwAXu-ysOUAO_Jd_ttc69Av-T8q9tG7PD0\/edit?usp=sharing|발표 순서 참고 시트>\n",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "9958a6e7ea98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5988755251283_9958a6e7ea98545615ca_72.png",
+            "first_name": "LM",
+            "real_name": "LM 박진영",
+            "display_name": "LM 박진영",
+            "team": "T05UGFFGL07",
+            "name": "pjy.fc.career",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IqNA4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n[프로젝트 발표 공지]\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "약간의 시간 변동이 있어서 재확인 부탁드리겠습니다!"
+                                    },
+                                    {
+                                        "type": "emoji",
+                                        "name": "saluting_face",
+                                        "unicode": "1fae1"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/docs.google.com\/spreadsheets\/d\/1HrRvtfn9VDwAXu-ysOUAO_Jd_ttc69Av-T8q9tG7PD0\/edit?usp=sharing",
+                                        "text": "발표 순서 참고 시트"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U060LG0BT89",
+                    "U05V5H1T24V",
+                    "U05V379NETU",
+                    "U05UT0JG4BZ",
+                    "U060TBSJ7DF",
+                    "U05UNMQ4LP9",
+                    "U060D1KJECR",
+                    "U0600GGHJTC",
+                    "U05UVV5CVQE"
+                ],
+                "count": 9
+            }
+        ]
+    },
+    {
+        "text": "*<!here>*\n수강생 여러분!\n오늘 하루도 고생많으셨습니다! :hugging_face:\n\n&gt;  :mega: *QR 체크* :mega:\n&gt; • *출석 방법*\n&gt;     ◦ *정각 5분 전후로* QR체크 하시면 됩니다! 꼭 지켜주세요!!\n&gt;     ◦ *지정 시간 외에 QR 체크 시 지각 또는 결석* 으로 처리됩니다!\n&gt; • *입실 QR 체크 시간 : 09:55 ~ 10:05*\n&gt; • *퇴실 QR 체크 시간 : 18:55 ~ 19:05*\n\n\n\n\n:camera_with_flash:  *줌 스크린샷 출석* :camera_with_flash:\n&gt; • *꼭 본인 한글 이름으로 이름 설정해주세요!!*\n&gt; • *스크린샷 시각*\n&gt;     ◦ *입실 : 10:00*\n&gt;     ◦ *중간 : 14:00*\n&gt;     ◦ *퇴실 : 18:50~19:00*",
+        "files": [
+            {
+                "id": "F063FSPNVRD",
+                "created": 1698886802,
+                "timestamp": 1698886802,
+                "name": "스크린샷 2023-10-10 오후 2.17.21.png",
+                "title": "스크린샷 2023-10-10 오후 2.17.21.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U06061L4S64",
+                "user_team": "T05UGFFGL07",
+                "editable": false,
+                "size": 109741,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F063FSPNVRD\/_______________________________2023-10-10______________2.17.21.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F063FSPNVRD\/download\/_______________________________2023-10-10______________2.17.21.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F063FSPNVRD-4b91f1ac13\/_______________________________2023-10-10______________2.17.21_64.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F063FSPNVRD-4b91f1ac13\/_______________________________2023-10-10______________2.17.21_80.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F063FSPNVRD-4b91f1ac13\/_______________________________2023-10-10______________2.17.21_360.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_360_w": 360,
+                "thumb_360_h": 323,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F063FSPNVRD-4b91f1ac13\/_______________________________2023-10-10______________2.17.21_480.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_480_w": 480,
+                "thumb_480_h": 431,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F063FSPNVRD-4b91f1ac13\/_______________________________2023-10-10______________2.17.21_160.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F063FSPNVRD-4b91f1ac13\/_______________________________2023-10-10______________2.17.21_720.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_720_w": 720,
+                "thumb_720_h": 646,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F063FSPNVRD-4b91f1ac13\/_______________________________2023-10-10______________2.17.21_800.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_800_w": 800,
+                "thumb_800_h": 718,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F063FSPNVRD-4b91f1ac13\/_______________________________2023-10-10______________2.17.21_960.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_960_w": 960,
+                "thumb_960_h": 862,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F063FSPNVRD-4b91f1ac13\/_______________________________2023-10-10______________2.17.21_1024.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 919,
+                "original_w": 1172,
+                "original_h": 1052,
+                "thumb_tiny": "AwArADDQlfy0LHJA7CoRdjJBUjGedynGBn1p9yP3D84wM1UWNcZIA3k\/Lg5JI+vvQBYju0kI2hwCCdxGBgU+SdU\/vN6be59KpRBJJpIwQMg9hgAHt+n15zRv5Jm24XlN3PT8P50AWmucPt2NnOPvKMn8\/epo38xFYZwwzzWeWRsTE5CsCWZD8p4681fgG2FBnOFFACXABhcN0xzVNyY1UREKcZCjt9auzDMbj1HpmqDqY1XzEYFVBLjtjp2NADWxDb\/N\/qicAL369\/r1+gox8rzOhkUuBtHBI9xSyAGAfIWZATuGMcjrj8u3FSBZBEAmFXHBxkevUc\/nQA0SIhUPDsZSepwD\/wDX6VfiACKAMAKO2KoJJ+6d33M5QkEr29cf4evNaCHcqnjkdjkUAR3QzA\/GeB\/OqSZRywVCQWKhVI4wevFaLHBpMn1oApnd5so2kFF+XHXHt26fjzUccTyE5LD+EoFwQPfsa0Mn1oyfWgChHFO4UBih6Htxkcg+vGOa0EyQM8HHNJk+tKvOaAP\/2Q==",
+                "permalink": "https:\/\/fcupstageai1.slack.com\/files\/U06061L4S64\/F063FSPNVRD\/_______________________________2023-10-10______________2.17.21.png",
+                "permalink_public": "https:\/\/slack-files.com\/T05UGFFGL07-F063FSPNVRD-d56b794408",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U06061L4S64",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "B3d+I",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "here",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n수강생 여러분!\n오늘 하루도 고생많으셨습니다! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "hugging_face",
+                                "unicode": "1f917"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "mega",
+                                "unicode": "1f4e3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "QR 체크 ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "mega",
+                                "unicode": "1f4e3",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "출석 방법",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 1
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "정각 5분 전후로",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " QR체크 하시면 됩니다! 꼭 지켜주세요!!"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "지정 시간 외에 QR 체크 시 지각 또는 결석 ",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "으로 처리됩니다!"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 1
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "입실 QR 체크 시간 : 09:55 ~ 10:05",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "퇴실 QR 체크 시간 : 18:55 ~ 19:05",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 1
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n\n\n\n\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "camera_with_flash",
+                                "unicode": "1f4f8",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "  줌 스크린샷 출석 ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "camera_with_flash",
+                                "unicode": "1f4f8",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "꼭 본인 한글 이름으로 이름 설정해주세요!!",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "스크린샷 시각",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 1
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "입실 : 10:00",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "중간 : 14:00",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "퇴실 : 18:50~19:00",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 1
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1699869300.531059",
+        "client_msg_id": "a2a2c756-b670-48a2-9f82-5a4011579399"
+    },
+    {
+        "text": "*<!here>*\n*[11.14 (화) 입실 QR체크]*\n*안녕하세요 수강생 여러분!!*\n*시간에 맞춰 줌 회의장에 입장 부탁 드립니다!*\n\n&gt; :art: *QR 체크* :art:\n&gt; • *출석 방법*\n&gt;     ◦ *정각 5분 전후로 QR체크 하시면 됩니다! 꼭 지켜주세요!!*\n&gt;     ◦ *지정 시간 외에 QR 체크 시 지각 또는 결석 으로 처리됩니다!*\n&gt; • *입실 QR 체크 시간 : 09:55 ~ 10:05*\n&gt; • *퇴실 QR 체크 시간 : 18:55 ~ 19:05*\n&gt; :camera_with_flash:  *줌 스크린샷 출석*  :camera_with_flash:\n&gt; • *꼭 본인 한글 이름으로 이름 설정해주세요!!*\n&gt; • *스크린샷 시각*\n&gt;     ◦ *입실 : 10:00*\n&gt;     ◦ *중간 : 14:00*\n&gt;     ◦ *퇴실 : 18:50~19:00*\n• :balloon: *ZOOM 안내*\n&gt;     ◦ 회의 참여 링크 | <https:\/\/us06web.zoom.us\/j\/86794964677?pwd=1TE5CxuaiKtKxbe6wj1tYJW6rXauyj.1|줌 링크>\n&gt;     ◦ 회의 ID | 867 9496 4677\n&gt;     ◦ 암호 |  2023\n\n\n:fire: *오늘의 시간표* :fire:\n• Time Table\n    ◦ *10:00 ~ 13:00* Python 프로젝트 : EDA 실시간 강의(김인섭 강사님)\n    ◦ *14:00 ~ 19:00* Python 프로젝트 : EDA 온라인 강의(김인섭 강사님)",
+        "files": [
+            {
+                "id": "F063FSPNVRD",
+                "created": 1698886802,
+                "timestamp": 1698886802,
+                "name": "스크린샷 2023-10-10 오후 2.17.21.png",
+                "title": "스크린샷 2023-10-10 오후 2.17.21.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U06061L4S64",
+                "user_team": "T05UGFFGL07",
+                "editable": false,
+                "size": 109741,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F063FSPNVRD\/_______________________________2023-10-10______________2.17.21.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F063FSPNVRD\/download\/_______________________________2023-10-10______________2.17.21.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F063FSPNVRD-4b91f1ac13\/_______________________________2023-10-10______________2.17.21_64.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F063FSPNVRD-4b91f1ac13\/_______________________________2023-10-10______________2.17.21_80.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F063FSPNVRD-4b91f1ac13\/_______________________________2023-10-10______________2.17.21_360.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_360_w": 360,
+                "thumb_360_h": 323,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F063FSPNVRD-4b91f1ac13\/_______________________________2023-10-10______________2.17.21_480.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_480_w": 480,
+                "thumb_480_h": 431,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F063FSPNVRD-4b91f1ac13\/_______________________________2023-10-10______________2.17.21_160.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F063FSPNVRD-4b91f1ac13\/_______________________________2023-10-10______________2.17.21_720.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_720_w": 720,
+                "thumb_720_h": 646,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F063FSPNVRD-4b91f1ac13\/_______________________________2023-10-10______________2.17.21_800.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_800_w": 800,
+                "thumb_800_h": 718,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F063FSPNVRD-4b91f1ac13\/_______________________________2023-10-10______________2.17.21_960.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_960_w": 960,
+                "thumb_960_h": 862,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F063FSPNVRD-4b91f1ac13\/_______________________________2023-10-10______________2.17.21_1024.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 919,
+                "original_w": 1172,
+                "original_h": 1052,
+                "thumb_tiny": "AwArADDQlfy0LHJA7CoRdjJBUjGedynGBn1p9yP3D84wM1UWNcZIA3k\/Lg5JI+vvQBYju0kI2hwCCdxGBgU+SdU\/vN6be59KpRBJJpIwQMg9hgAHt+n15zRv5Jm24XlN3PT8P50AWmucPt2NnOPvKMn8\/epo38xFYZwwzzWeWRsTE5CsCWZD8p4681fgG2FBnOFFACXABhcN0xzVNyY1UREKcZCjt9auzDMbj1HpmqDqY1XzEYFVBLjtjp2NADWxDb\/N\/qicAL369\/r1+gox8rzOhkUuBtHBI9xSyAGAfIWZATuGMcjrj8u3FSBZBEAmFXHBxkevUc\/nQA0SIhUPDsZSepwD\/wDX6VfiACKAMAKO2KoJJ+6d33M5QkEr29cf4evNaCHcqnjkdjkUAR3QzA\/GeB\/OqSZRywVCQWKhVI4wevFaLHBpMn1oApnd5so2kFF+XHXHt26fjzUccTyE5LD+EoFwQPfsa0Mn1oyfWgChHFO4UBih6Htxkcg+vGOa0EyQM8HHNJk+tKvOaAP\/2Q==",
+                "permalink": "https:\/\/fcupstageai1.slack.com\/files\/U06061L4S64\/F063FSPNVRD\/_______________________________2023-10-10______________2.17.21.png",
+                "permalink_public": "https:\/\/slack-files.com\/T05UGFFGL07-F063FSPNVRD-d56b794408",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U06061L4S64",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Eu\/n3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "here",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "[11.14 (화) 입실 QR체크]",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "안녕하세요 수강생 여러분!!",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "시간에 맞춰 줌 회의장에 입장 부탁 드립니다!",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "art",
+                                "unicode": "1f3a8"
+                            },
+                            {
+                                "type": "text",
+                                "text": " QR 체크 ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "art",
+                                "unicode": "1f3a8"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "출석 방법",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 1
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "정각 5분 전후로 QR체크 하시면 됩니다! 꼭 지켜주세요!!",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "지정 시간 외에 QR 체크 시 지각 또는 결석 으로 처리됩니다!",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 1
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "입실 QR 체크 시간 : 09:55 ~ 10:05",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "퇴실 QR 체크 시간 : 18:55 ~ 19:05",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 1
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "camera_with_flash",
+                                "unicode": "1f4f8"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  줌 스크린샷 출석  ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "camera_with_flash",
+                                "unicode": "1f4f8"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "꼭 본인 한글 이름으로 이름 설정해주세요!!",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "스크린샷 시각",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 1
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "입실 : 10:00",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "중간 : 14:00",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "퇴실 : 18:50~19:00",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 1
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "emoji",
+                                        "name": "balloon",
+                                        "unicode": "1f388"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " ZOOM 안내",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "회의 참여 링크 | "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/us06web.zoom.us\/j\/86794964677?pwd=1TE5CxuaiKtKxbe6wj1tYJW6rXauyj.1",
+                                        "text": "줌 링크"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "회의 ID | 867 9496 4677"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "암호 |  2023"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 1
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n\n\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fire",
+                                "unicode": "1f525"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 오늘의 시간표 ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fire",
+                                "unicode": "1f525"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Time Table"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "10:00 ~ 13:00",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " Python 프로젝트 : EDA 실시간 강의(김인섭 강사님)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "14:00 ~ 19:00",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " Python 프로젝트 : EDA 온라인 강의(김인섭 강사님)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1699921800.377219",
+        "client_msg_id": "61b6264a-a4d8-4061-badb-2f1a62f9357c",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U05UNMQ4LP9",
+                    "U0600GGHJTC",
+                    "U05V9N22ZUK",
+                    "U060LG0BT89"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "user": "U06061L4S64",
+        "type": "message",
+        "ts": "1699924689.768039",
+        "edited": {
+            "user": "U06061L4S64",
+            "ts": "1699924791.000000"
+        },
+        "client_msg_id": "c674e3ac-8db5-4c23-a1b3-d1d030c83983",
+        "text": "<!here>\n13일 저녁 퇴실 QR 문제로 퇴실 체크 못하신분들 스레드 , 이모지 체크 부탁드려요!\n12:00 까지 마감",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "9958a6e7ea98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5988755251283_9958a6e7ea98545615ca_72.png",
+            "first_name": "LM",
+            "real_name": "LM 박진영",
+            "display_name": "LM 박진영",
+            "team": "T05UGFFGL07",
+            "name": "pjy.fc.career",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bGhFL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n13일 저녁 퇴실 QR 문제로 퇴실 체크 못하신분들 스레드 , 이모지 체크 부탁드려요!\n12:00 까지 마감"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U06061L4S64",
+                    "U060LG0BT89",
+                    "U05UW74NJ0N"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "user": "U06061L4S64",
+        "type": "message",
+        "ts": "1699937700.181949",
+        "client_msg_id": "8bee3300-f153-4042-b6a2-2a921e36c896",
+        "text": "*<!here>*\n*[11.14 (화) 중간 출결]*\n\n:camera_with_flash:  *줌 스크린샷 출석* :camera_with_flash:\n&gt; • *꼭 본인 한글 이름으로 이름 설정해주세요!!*\n&gt; • *스크린샷 시각*\n&gt;     ◦ *입실 : 10:00*\n&gt;     ◦ *중간 : 14:00*\n&gt;     ◦ *퇴실 : 18:50~19:00*\n\n\n\n\n\n\n:eyes:  *[줌 강의장 안내]*:eyes:\n&gt; :balloon: *ZOOM 안내*\n&gt;     ◦ 회의 참여 링크 | <https:\/\/us06web.zoom.us\/j\/86794964677?pwd=1TE5CxuaiKtKxbe6wj1tYJW6rXauyj.1|줌 링크>\n&gt;     ◦ 회의 ID | 867 9496 4677\n&gt;     ◦ 암호 |  2023",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "9958a6e7ea98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5988755251283_9958a6e7ea98545615ca_72.png",
+            "first_name": "LM",
+            "real_name": "LM 박진영",
+            "display_name": "LM 박진영",
+            "team": "T05UGFFGL07",
+            "name": "pjy.fc.career",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8noAR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "here",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "[11.14 (화) 중간 출결]",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "camera_with_flash",
+                                "unicode": "1f4f8",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "  줌 스크린샷 출석 ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "camera_with_flash",
+                                "unicode": "1f4f8",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "꼭 본인 한글 이름으로 이름 설정해주세요!!",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "스크린샷 시각",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 1
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "입실 : 10:00",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "중간 : 14:00",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "퇴실 : 18:50~19:00",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 1
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n\n\n\n\n\n\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "eyes",
+                                "unicode": "1f440"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  "
+                            },
+                            {
+                                "type": "text",
+                                "text": "[줌 강의장 안내]",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "eyes",
+                                "unicode": "1f440",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "balloon",
+                                "unicode": "1f388"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ZOOM 안내",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "회의 참여 링크 | "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/us06web.zoom.us\/j\/86794964677?pwd=1TE5CxuaiKtKxbe6wj1tYJW6rXauyj.1",
+                                        "text": "줌 링크"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "회의 ID | 867 9496 4677"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "암호 |  2023"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06061L4S64",
+        "type": "message",
+        "ts": "1699945467.819529",
+        "client_msg_id": "260f0258-51b2-4f38-b81e-2f5b59508605",
+        "text": ":fire:[ 프로젝트 제출 마감 공지 ]:fire:\n• 마감 일 : 2023-11-14(화) 23시 59분까지\n    ◦ <https:\/\/www.notion.so\/Python-EDA-6be2931151d2405e9afe471c6c489eed?pvs=4|참고 노션>\n• 우선 마감 시간 23시 59분 전에 제출완료해주시고 내일 발표전까지 수정사항이 있으시면 수정 후 꼭 재업로드 부탁드립니다.`우선 제출해주세요!`",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "9958a6e7ea98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5988755251283_9958a6e7ea98545615ca_72.png",
+            "first_name": "LM",
+            "real_name": "LM 박진영",
+            "display_name": "LM 박진영",
+            "team": "T05UGFFGL07",
+            "name": "pjy.fc.career",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BDuQU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "fire",
+                                "unicode": "1f525"
+                            },
+                            {
+                                "type": "text",
+                                "text": "[ 프로젝트 제출 마감 공지 ]"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fire",
+                                "unicode": "1f525"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "마감 일 : 2023-11-14(화) 23시 59분까지"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/www.notion.so\/Python-EDA-6be2931151d2405e9afe471c6c489eed?pvs=4",
+                                        "text": "참고 노션"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "우선 마감 시간 23시 59분 전에 제출완료해주시고 내일 발표전까지 수정사항이 있으시면 수정 후 꼭 재업로드 부탁드립니다."
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "우선 제출해주세요!",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U05UT0JG4BZ",
+                    "U060H4V0Q5S",
+                    "U0606HAGLTB",
+                    "U05UW74NJ0N",
+                    "U05V379NETU"
+                ],
+                "count": 5
+            }
+        ]
+    }
+]

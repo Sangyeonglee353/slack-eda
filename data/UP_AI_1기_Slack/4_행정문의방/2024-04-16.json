@@ -1,0 +1,742 @@
+[
+    {
+        "user": "U05VAHXECP6",
+        "type": "message",
+        "ts": "1713263541.987719",
+        "client_msg_id": "60d28771-8cbc-4259-824a-29cdf7439598",
+        "text": "안녕하세요. 재현님!\n현우 매니저님이 너무 바쁘셔서, 미처 확인을 못하신 것 같네요.\n해당 인원들에 대해서는 내일 오전 중으로 확인 후 유선 연락 진행하겠습니다. :pray:",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "50abee101814",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-11\/6044824153712_50abee1018149e21919b_72.jpg",
+            "first_name": "이상영",
+            "real_name": "이상영",
+            "display_name": "FC 이상영 매니저",
+            "team": "T05UGFFGL07",
+            "name": "sangyeong.lee",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1713249735.532709",
+        "parent_user_id": "U05V5H1T24V",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zi9Nl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "안녕하세요. 재현님!\n현우 매니저님이 너무 바쁘셔서, 미처 확인을 못하신 것 같네요.\n해당 인원들에 대해서는 내일 오전 중으로 확인 후 유선 연락 진행하겠습니다. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05V5H1T24V",
+        "type": "message",
+        "ts": "1713263564.968089",
+        "client_msg_id": "91b2c708-bfa3-4725-a7ee-e6d11d49b5e1",
+        "text": "감사합니다 !",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "7c6706ce6504",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5987883585126_7c6706ce65044c7fba85_72.png",
+            "first_name": "서재현",
+            "real_name": "서재현",
+            "display_name": "서재현",
+            "team": "T05UGFFGL07",
+            "name": "jaehyeon4037",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1713249735.532709",
+        "parent_user_id": "U05V5H1T24V",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Mrhn8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "감사합니다 !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05V5H1T24V",
+        "type": "message",
+        "ts": "1713264109.557759",
+        "edited": {
+            "user": "U05V5H1T24V",
+            "ts": "1713264122.000000"
+        },
+        "client_msg_id": "e2b09618-b722-4f8a-a0bf-cf2bcc800a17",
+        "text": "<@U05VAHXECP6>\n혹시 실례가 안된다면, 내일 확인하시고 신청이 연기되는 이유에 대해 한번 더 공지 부탁드리겠습니다 !",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "7c6706ce6504",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5987883585126_7c6706ce65044c7fba85_72.png",
+            "first_name": "서재현",
+            "real_name": "서재현",
+            "display_name": "서재현",
+            "team": "T05UGFFGL07",
+            "name": "jaehyeon4037",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1713249735.532709",
+        "parent_user_id": "U05V5H1T24V",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7pMQ\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05VAHXECP6"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n혹시 실례가 안된다면, 내일 확인하시고 신청이 연기되는 이유에 대해 한번 더 공지 부탁드리겠습니다 !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U05VAHXECP6"
+                ],
+                "count": 1
+            },
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "U05V81G5ZDY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05V81G5ZDY",
+        "type": "message",
+        "ts": "1713317831.636669",
+        "client_msg_id": "d5e7a85d-83fc-4623-9ca5-3ea8f97da0ec",
+        "text": "<!channel> [ 훈련장려금 지연 ]\n안녕하세요 행정 매니저 김현우 입니다\n\n먼저 훈련장려금이 지연되고 있는 점 사과하고 말씀 올립니다\n어제 연락 주신 재현님 질문에도 빠른 답변 드리지 못해서 죄송합니다\n\n*4월 초 진행한 훈련장려금 확인서 3월차 취합은 완료 되었습니다*\n규정이 바뀌면서 타과정에 더 미뤄진 장려금 지급부터 순차적으로 확인 중에 있습니다\n저의 리마인드에 따라 주셔서 빠른 취합이 될 수 있도록 도와주셔서 수강생 분들께는 감사드리고 있습니다\n\n*신청이 연기 되고 있는 이유*는 한번에 처리 어려운 점! 센터에서도 바뀐 규정에 따른 꼼꼼한 확인이 진행되어 다소 시간이 걸리는 점이 쌓이고 쌓여 수강생분들이 불편함을 느낄 정도로 연기가 된 것 같습니다\n센터와 장려금 소통 중이신 하시안 매니저님께서도 신경을 많이 써주고 계십니다\n과정 운영과 수강생분들 소통에 힘써주시는 상영매니저님과 기준매니저님도 많이 도와주시고 계셔서 감사할 따름입니다\n\n&gt; *이후 신청 예정상황*\n• 빠르게 진행 될 경우 금주 신청이 들어갈 예정입니다 차주까지는 장려금 신청이 완료 될 예정입니다\n• 신청 완료 후 2주 뒤 지급됩니다!\n<https:\/\/fcupstageai1.slack.com\/archives\/C05V0H8H3GC\/p1712558340137649|[훈련 장려금 신청 지연 안내]> 3가지 사유 확인하여 빠른 신청을 위해 수강생 여러분들의 도움도 필요합니다\n[ 사유 ]\n• 장려금 확인서 및 환수동의서 취합안됨\n• 일부 수강생의 공가\/병가 등의 서류 제출안됨\n• 일부 수강생의 수업미참여임에도 QR체크 진행\n명확한 답변이 아니라 이후에도 불편할 수강생분들이 계시겠지만\n그럼에도 행정으로는 늘 도움 드릴 수 있는 매니저가 되려고 더 노력하겠습니다\n\n감사합니다.\n행정 매니저 드림",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "db1aceeb0d90",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5994058472162_db1aceeb0d9030c57e69_72.jpg",
+            "first_name": "김현우",
+            "real_name": "김현우",
+            "display_name": "FC 김현우 매니저",
+            "team": "T05UGFFGL07",
+            "name": "hyunwoo.kim",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1713317831.636669",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1713318464.733779",
+        "reply_users": [
+            "U05V5H1T24V",
+            "U05V81G5ZDY"
+        ],
+        "replies": [
+            {
+                "user": "U05V5H1T24V",
+                "ts": "1713318101.408659"
+            },
+            {
+                "user": "U05V81G5ZDY",
+                "ts": "1713318426.612199"
+            },
+            {
+                "user": "U05V5H1T24V",
+                "ts": "1713318464.733779"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ueHf1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " [ 훈련장려금 지연 ]\n안녕하세요 행정 매니저 김현우 입니다\n\n먼저 훈련장려금이 지연되고 있는 점 사과하고 말씀 올립니다\n어제 연락 주신 재현님 질문에도 빠른 답변 드리지 못해서 죄송합니다\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "4월 초 진행한 훈련장려금 확인서 3월차 취합은 완료 되었습니다",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n규정이 바뀌면서 타과정에 더 미뤄진 장려금 지급부터 순차적으로 확인 중에 있습니다\n저의 리마인드에 따라 주셔서 빠른 취합이 될 수 있도록 도와주셔서 수강생 분들께는 감사드리고 있습니다\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "신청이 연기 되고 있는 이유",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "는 한번에 처리 어려운 점! 센터에서도 바뀐 규정에 따른 꼼꼼한 확인이 진행되어 다소 시간이 걸리는 점이 쌓이고 쌓여 수강생분들이 불편함을 느낄 정도로 연기가 된 것 같습니다\n센터와 장려금 소통 중이신 하시안 매니저님께서도 신경을 많이 써주고 계십니다\n과정 운영과 수강생분들 소통에 힘써주시는 상영매니저님과 기준매니저님도 많이 도와주시고 계셔서 감사할 따름입니다\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "이후 신청 예정상황",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "빠르게 진행 될 경우 금주 신청이 들어갈 예정입니다 차주까지는 장려금 신청이 완료 될 예정입니다"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "신청 완료 후 2주 뒤 지급됩니다!"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/fcupstageai1.slack.com\/archives\/C05V0H8H3GC\/p1712558340137649",
+                                "text": "[훈련 장려금 신청 지연 안내]"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 3가지 사유 확인하여 빠른 신청을 위해 수강생 여러분들의 도움도 필요합니다\n[ 사유 ]\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "장려금 확인서 및 환수동의서 취합안됨"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "일부 수강생의 공가\/병가 등의 서류 제출안됨"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "일부 수강생의 수업미참여임에도 QR체크 진행"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n명확한 답변이 아니라 이후에도 불편할 수강생분들이 계시겠지만\n그럼에도 행정으로는 늘 도움 드릴 수 있는 매니저가 되려고 더 노력하겠습니다\n\n감사합니다.\n행정 매니저 드림"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U05UW74NJ0N",
+                    "U060C67EYQ5",
+                    "U05V5H1T24V",
+                    "U05V9N22ZUK"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "user": "U05V5H1T24V",
+        "type": "message",
+        "ts": "1713318101.408659",
+        "client_msg_id": "9C87E780-A801-4088-A5C9-886F0419CF00",
+        "text": "많이 바쁘실텐데 질문에 대한 상세한 답변 감사드립니다.\n그럼 과정이 끝난 후에도 장려금 신청이 될 수도 있을까요? 아니면 과정 끝나기 전까지 지급되지 않은 차수에 대해 장려금 신청이 완료 될까요? ",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "7c6706ce6504",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5987883585126_7c6706ce65044c7fba85_72.png",
+            "first_name": "서재현",
+            "real_name": "서재현",
+            "display_name": "서재현",
+            "team": "T05UGFFGL07",
+            "name": "jaehyeon4037",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1713317831.636669",
+        "parent_user_id": "U05V81G5ZDY",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TmLl7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "많이"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "바쁘실텐데"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "질문에"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "대한"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "상세한"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "답변"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "감사드립니다"
+                            },
+                            {
+                                "type": "text",
+                                "text": ".\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "그럼"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "과정이"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "끝난"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "후에도"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "장려금"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "신청이"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "될"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "수도"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "있을까요"
+                            },
+                            {
+                                "type": "text",
+                                "text": "? "
+                            },
+                            {
+                                "type": "text",
+                                "text": "아니면"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "과정"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "끝나기"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "전까지"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "지급되지"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "않은"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "차수에"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "대해"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "장려금"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "신청이"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "완료"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "될까요"
+                            },
+                            {
+                                "type": "text",
+                                "text": "? "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05V81G5ZDY",
+        "type": "message",
+        "ts": "1713318426.612199",
+        "client_msg_id": "711195ad-070a-4514-8007-b0f62c90ec8b",
+        "text": "<@U05V5H1T24V> 안녕하세요 재현님!\n과정이 끝나기 전에 장려금 지급이 완료된다\n• 무조건 그렇게 될 것이라는 답변을 드리기는 어렵습니다\n• 장려금 신청 서류를 확인하는 저희도 신청된 내용을 확인하는 센터에서도 적응하여 발빠른 준비가 완료된다면 좋겠습니다 ㅠㅠㅠ\n• 물론 지급되지 않은 장려금에 대해서는! 과정이 끝난 이후에 누락없이 전달 됩니다!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "db1aceeb0d90",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5994058472162_db1aceeb0d9030c57e69_72.jpg",
+            "first_name": "김현우",
+            "real_name": "김현우",
+            "display_name": "FC 김현우 매니저",
+            "team": "T05UGFFGL07",
+            "name": "hyunwoo.kim",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1713317831.636669",
+        "parent_user_id": "U05V81G5ZDY",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "un6KD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05V5H1T24V"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 안녕하세요 재현님!\n과정이 끝나기 전에 장려금 지급이 완료된다\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "무조건 그렇게 될 것이라는 답변을 드리기는 어렵습니다"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "장려금 신청 서류를 확인하는 저희도 신청된 내용을 확인하는 센터에서도 적응하여 발빠른 준비가 완료된다면 좋겠습니다 ㅠㅠㅠ"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "물론 지급되지 않은 장려금에 대해서는! 과정이 끝난 이후에 누락없이 전달 됩니다!"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05V5H1T24V",
+        "type": "message",
+        "ts": "1713318464.733779",
+        "client_msg_id": "49643923-189C-4325-9E8D-B9E41AF2EFE6",
+        "text": "넵! 감사합니다! ",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "7c6706ce6504",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5987883585126_7c6706ce65044c7fba85_72.png",
+            "first_name": "서재현",
+            "real_name": "서재현",
+            "display_name": "서재현",
+            "team": "T05UGFFGL07",
+            "name": "jaehyeon4037",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1713317831.636669",
+        "parent_user_id": "U05V81G5ZDY",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ruRp8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "넵"
+                            },
+                            {
+                                "type": "text",
+                                "text": "! "
+                            },
+                            {
+                                "type": "text",
+                                "text": "감사합니다"
+                            },
+                            {
+                                "type": "text",
+                                "text": "! "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,355 @@
+[
+    {
+        "user": "U05UWVA90H4",
+        "type": "message",
+        "ts": "1701338949.115559",
+        "client_msg_id": "71d14f2b-e6ab-4708-9544-01854494de9f",
+        "text": "안녕하세요 강사님! 전력예측량 관련해서 코드를 복습해보고 있는데요.\n\n마지막에 최종 테스트 파일 제출 코드 관련해서 궁금한게 있어서 쓰레드 남깁니다. 제가 참고한 코드는 <https:\/\/colab.research.google.com\/drive\/1ofBUeASn-pL0aGi71Rm3FOl6wdoS8kg3?usp=sharing|여기>인데요.\n\n1. 제가 이해하기로는 cluster로 유형을 나누고 각 클러스터별로 optuna를 통해서 하이퍼 파라미터를 최적화한 모델이 study0,1,2,3의 best_params에 담겨있는 걸로 알고 있는데요.\n2. test 파일 제출시에는 model0,1,2,3으로 predict를 해서 제출하는 걸로 나와있어서요. 그렇게 되면 optuna와 관계없이 기존 model0,1,2,3을 정의할 당시 설정된 하이퍼파라미터를 통해 예측이 진행되는거죠?\n3. 만일 의도한대로 optuna로 최적화된 모델이 뽑은 best_params를 담으려면 코드의 model_finalization 함수를 쓰면 된다고 이해했는데 맞나요..? 아니면 그냥 model0,1,2,3을 쓰면 되는건지 궁금합니다!\n\n제가 이런 궁금증이 있어서 문의드리려했는데 혹시 4번을 위해 일부러 남겨두신걸까요..?",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "e039a582c034",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5983012631430_e039a582c03450d83dc6_72.png",
+            "first_name": "이준형",
+            "real_name": "이준형",
+            "display_name": "이준형",
+            "team": "T05UGFFGL07",
+            "name": "hewberryd8",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1701324376.270719",
+        "parent_user_id": "U065TBUL5EE",
+        "attachments": [
+            {
+                "image_url": "https:\/\/colab.research.google.com\/img\/colab_favicon_256px.png",
+                "image_width": 260,
+                "image_height": 260,
+                "image_bytes": 4534,
+                "from_url": "https:\/\/colab.research.google.com\/drive\/1ofBUeASn-pL0aGi71Rm3FOl6wdoS8kg3?usp=sharing",
+                "service_icon": "https:\/\/ssl.gstatic.com\/colaboratory-static\/common\/c87c98fac9f2eed2b19e45ed9f06e3cc\/img\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/colab.research.google.com\/drive\/1ofBUeASn-pL0aGi71Rm3FOl6wdoS8kg3?usp=sharing",
+                "fallback": "Google Colaboratory",
+                "title": "Google Colaboratory",
+                "title_link": "https:\/\/colab.research.google.com\/drive\/1ofBUeASn-pL0aGi71Rm3FOl6wdoS8kg3?usp=sharing",
+                "service_name": "colab.research.google.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "n\/1\/4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "안녕하세요 강사님! 전력예측량 관련해서 코드를 복습해보고 있는데요.\n\n마지막에 최종 테스트 파일 제출 코드 관련해서 궁금한게 있어서 쓰레드 남깁니다. 제가 참고한 코드는 "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/colab.research.google.com\/drive\/1ofBUeASn-pL0aGi71Rm3FOl6wdoS8kg3?usp=sharing",
+                                "text": "여기"
+                            },
+                            {
+                                "type": "text",
+                                "text": "인데요.\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "제가 이해하기로는 cluster로 유형을 나누고 각 클러스터별로 optuna를 통해서 하이퍼 파라미터를 최적화한 모델이 study0,1,2,3의 best_params에 담겨있는 걸로 알고 있는데요."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "test 파일 제출시에는 model0,1,2,3으로 predict를 해서 제출하는 걸로 나와있어서요. 그렇게 되면 optuna와 관계없이 기존 model0,1,2,3을 정의할 당시 설정된 하이퍼파라미터를 통해 예측이 진행되는거죠?"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "만일 의도한대로 optuna로 최적화된 모델이 뽑은 best_params를 담으려면 코드의 model_finalization 함수를 쓰면 된다고 이해했는데 맞나요..? 아니면 그냥 model0,1,2,3을 쓰면 되는건지 궁금합니다!"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n\n제가 이런 궁금증이 있어서 문의드리려했는데 혹시 4번을 위해 일부러 남겨두신걸까요..?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05V2P37518",
+        "type": "message",
+        "ts": "1701352409.131059",
+        "client_msg_id": "ce2272c0-5c32-43fc-ab82-7016305afe42",
+        "text": "<@U05UWVA90H4> 어제 아마 강사님께서 optuna를 다 안돌리시고 제출하셨던걸로 기억합니다! 저 코드상으로는 직접 찾으신 파라미터로 튜닝된 모델0,1,2,3으로 하신게 맞고, optuna를 통해 학습하신 걸 쓰시려면 준형님이 말씀하신대로 study에 담긴 각각의 best params를 이용하면 될 겁니다!!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "cc6bb0a6327a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5988791489650_cc6bb0a6327a06ec59ab_72.png",
+            "first_name": "배창현",
+            "real_name": "배창현",
+            "display_name": "",
+            "team": "T05UGFFGL07",
+            "name": "bae951753",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1701324376.270719",
+        "parent_user_id": "U065TBUL5EE",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lYpLk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05UWVA90H4"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 어제 아마 강사님께서 optuna를 다 안돌리시고 제출하셨던걸로 기억합니다! 저 코드상으로는 직접 찾으신 파라미터로 튜닝된 모델0,1,2,3으로 하신게 맞고, optuna를 통해 학습하신 걸 쓰시려면 준형님이 말씀하신대로 study에 담긴 각각의 best params를 이용하면 될 겁니다!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05UWVA90H4",
+        "type": "message",
+        "ts": "1701392375.122289",
+        "client_msg_id": "f075e138-5404-487c-b60e-3d5a847f7f96",
+        "text": "아하 그렇군요ㅎㅎ 감사해요 ㅎㅎ",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "e039a582c034",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5983012631430_e039a582c03450d83dc6_72.png",
+            "first_name": "이준형",
+            "real_name": "이준형",
+            "display_name": "이준형",
+            "team": "T05UGFFGL07",
+            "name": "hewberryd8",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1701324376.270719",
+        "parent_user_id": "U065TBUL5EE",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "h6TdA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "아하 그렇군요ㅎㅎ 감사해요 ㅎㅎ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05V2P37518",
+        "type": "message",
+        "ts": "1701399836.501839",
+        "client_msg_id": "0e40662e-fd3f-45e6-9b79-909e29acee99",
+        "text": "강사님 TimeSerieskMeans를 사용하려하는데,  metric을 유클리디안으로 하면 kmeans랑 동일한걸까요? 찾아보니 metric을 dtw를 이용해야 제대로된 시계열 클러스터링 같은데 dtw는 엄청 오래걸리는것 같아 그냥 유클리디안으로 해도되는지 궁금합니다",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "cc6bb0a6327a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5988791489650_cc6bb0a6327a06ec59ab_72.png",
+            "first_name": "배창현",
+            "real_name": "배창현",
+            "display_name": "",
+            "team": "T05UGFFGL07",
+            "name": "bae951753",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1701324376.270719",
+        "parent_user_id": "U065TBUL5EE",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "54Sxf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "강사님 TimeSerieskMeans를 사용하려하는데,  metric을 유클리디안으로 하면 kmeans랑 동일한걸까요? 찾아보니 metric을 dtw를 이용해야 제대로된 시계열 클러스터링 같은데 dtw는 엄청 오래걸리는것 같아 그냥 유클리디안으로 해도되는지 궁금합니다"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U065TBUL5EE",
+        "type": "message",
+        "ts": "1701402659.815579",
+        "client_msg_id": "036fd1a9-8d32-4489-98f0-1ec88203dcad",
+        "text": "TimeSeriesKMeans와 KMeans는 다릅니다. tslearn에서 정의한걸 보시면 TSKMeans는 window를 사용해서 데이터 sequence를 가지고 데이터를 재정의한 뒤에 클러스터링을 수행합니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "34f110a5edc4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-11-14\/6197301711475_34f110a5edc435398e63_72.png",
+            "first_name": "김용담",
+            "real_name": "김용담",
+            "display_name": "김용담 강사",
+            "team": "T05UGFFGL07",
+            "name": "codingiscoffee",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1701324376.270719",
+        "parent_user_id": "U065TBUL5EE",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jIhq6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "TimeSeriesKMeans와 KMeans는 다릅니다. tslearn에서 정의한걸 보시면 TSKMeans는 window를 사용해서 데이터 sequence를 가지고 데이터를 재정의한 뒤에 클러스터링을 수행합니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U065TBUL5EE",
+        "type": "message",
+        "ts": "1701402723.982969",
+        "client_msg_id": "3b102369-0bab-4288-9345-6a5557d38131",
+        "text": "물론, 말씀하신대로 만약에 time step에 따라서 여러가지 다른 패턴들이 나올것 같다고 하면 dtw를 쓰면 되는데, 이 방법이 linear programming 문제라서 엄청나게 오래걸립니다. 그래서 euclidean을 사용해야하구요, 실제로 저희 전력사용량 패턴 문제에서는 다른 시간대에 동일한 패턴이 나올 가능성이 낮고 그것을 고려할 필요가 딱히 없어서 (왜냐면 시간별 예측이라) euclidean 기반 tskmeans를 사용해도 좋습니다!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "34f110a5edc4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-11-14\/6197301711475_34f110a5edc435398e63_72.png",
+            "first_name": "김용담",
+            "real_name": "김용담",
+            "display_name": "김용담 강사",
+            "team": "T05UGFFGL07",
+            "name": "codingiscoffee",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1701324376.270719",
+        "parent_user_id": "U065TBUL5EE",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WQH+5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "물론, 말씀하신대로 만약에 time step에 따라서 여러가지 다른 패턴들이 나올것 같다고 하면 dtw를 쓰면 되는데, 이 방법이 linear programming 문제라서 엄청나게 오래걸립니다. 그래서 euclidean을 사용해야하구요, 실제로 저희 전력사용량 패턴 문제에서는 다른 시간대에 동일한 패턴이 나올 가능성이 낮고 그것을 고려할 필요가 딱히 없어서 (왜냐면 시간별 예측이라) euclidean 기반 tskmeans를 사용해도 좋습니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05V2P37518",
+        "type": "message",
+        "ts": "1701402895.617589",
+        "client_msg_id": "8f5d91f2-8d30-4368-a4b4-778d17015cf3",
+        "text": "아 감사합니다!!!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "cc6bb0a6327a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5988791489650_cc6bb0a6327a06ec59ab_72.png",
+            "first_name": "배창현",
+            "real_name": "배창현",
+            "display_name": "",
+            "team": "T05UGFFGL07",
+            "name": "bae951753",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1701324376.270719",
+        "parent_user_id": "U065TBUL5EE",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JdRlY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "아 감사합니다!!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

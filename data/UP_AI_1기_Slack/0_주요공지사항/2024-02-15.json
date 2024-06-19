@@ -1,0 +1,416 @@
+[
+    {
+        "user": "U05VADPQPCL",
+        "type": "message",
+        "ts": "1708063031.717219",
+        "edited": {
+            "user": "U05VADPQPCL",
+            "ts": "1708404509.000000"
+        },
+        "client_msg_id": "834f1838-d3b1-46bd-9871-6541c5ee03e6",
+        "text": "<!channel>\n:mega:  *CV 경진대회 세미나 안내*\n안녕하세요 Upstage AI Lab 1기 수강생 여러분들!\n진행하고 계신 CV 경진 대회는 잘 진행되고 있으신가요?!\n마지막까지 열심히 하셔서 많은 것을 얻어가셨으면 좋겠습니다 :fire::fire:\n\n> *세미나 정보*\n• *일시:*  2\/20(화) 14시 ~ 19시\n• *장소 :* Upstage AI Lab 1기 줌 강의장\n• *참여 대상:*\n    ◦ Upstage AI Lab 1기 수강생 전원\n    ◦ Upstage AI Lab 운영진(LM\/PM)\n    ◦ 김용담 강사님\n> *세미나 진행 방식 & 팀 결과물 제출 안내*\n• 팀 별 발표 할당 시간 : 20분\n    ◦ 팀 별 발표 시간 15분 + 질의 응답 및 피드백 시간 5분\n• 발표 자료 : PPT, PDF\n    ◦ 팀 별 발표 자료 사용\n    ◦ *<https:\/\/docs.google.com\/presentation\/d\/1AmH0S19NkmQIOdeWhrImvhfCwCqSgiHP\/edit?usp=drive_link&ouid=113696352741440851524&rtpof=true&sd=true|팀 발표 자료 템플릿 바로가기>*\n• *팀 결과물 제출 안내*\n    ◦ <https:\/\/fcupstageai1.slack.com\/archives\/C05UU79AD4M\/p1707813955482919|제출물 공지> 확인하시고 기한 내에 제출 부탁 드리겠습니다.\n> *세미나 팀 별 진행 순서*\n• 2팀 - 4팀 - 3팀 - 1팀 - 9팀 - 6팀 - 7팀 - 5팀 - 8팀\n이외에도 궁금하신 내용이 있으시다면 <#C0606642LHW|1_운영질문방> 채널에 질문 주시길 바랍니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "07e7ca00b8f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5991092857253_07e7ca00b8f0d0b13ba1_72.png",
+            "first_name": "패스트캠퍼스박기준",
+            "real_name": "패스트캠퍼스박기준",
+            "display_name": "LM 박기준",
+            "team": "T05UGFFGL07",
+            "name": "pgj.fc.career",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1708063031.717219",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1708482247.012659",
+        "reply_users": [
+            "U05VADPQPCL",
+            "U05VAHXECP6"
+        ],
+        "replies": [
+            {
+                "user": "U05VADPQPCL",
+                "ts": "1708401869.389469"
+            },
+            {
+                "user": "U05VAHXECP6",
+                "ts": "1708477047.316669"
+            },
+            {
+                "user": "U05VADPQPCL",
+                "ts": "1708482247.012659"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1708482247.012659",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vKkMp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "mega",
+                                "unicode": "1f4e3",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "  CV 경진대회 세미나 안내",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n안녕하세요 Upstage AI Lab 1기 수강생 여러분들!\n진행하고 계신 CV 경진 대회는 잘 진행되고 있으신가요?!\n마지막까지 열심히 하셔서 많은 것을 얻어가셨으면 좋겠습니다 "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fire",
+                                "unicode": "1f525"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fire",
+                                "unicode": "1f525"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "세미나 정보",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "일시:  ",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "2\/20(화) 14시 ~ 19시"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "장소 : ",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "Upstage AI Lab 1기 줌 강의장"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "참여 대상:",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Upstage AI Lab 1기 수강생 전원"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Upstage AI Lab 운영진(LM\/PM)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "김용담 강사님"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "세미나 진행 방식 & 팀 결과물 제출 안내",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "팀 별 발표 할당 시간 : 20분"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "팀 별 발표 시간 15분 + 질의 응답 및 피드백 시간 5분"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "발표 자료 : PPT, PDF"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "팀 별 발표 자료 사용"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/docs.google.com\/presentation\/d\/1AmH0S19NkmQIOdeWhrImvhfCwCqSgiHP\/edit?usp=drive_link&ouid=113696352741440851524&rtpof=true&sd=true",
+                                        "text": "팀 발표 자료 템플릿 바로가기",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "팀 결과물 제출 안내",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/fcupstageai1.slack.com\/archives\/C05UU79AD4M\/p1707813955482919",
+                                        "text": "제출물 공지"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " 확인하시고 기한 내에 제출 부탁 드리겠습니다."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "세미나 팀 별 진행 순서",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "2팀 - 4팀 - 3팀 - 1팀 - 9팀 - 6팀 - 7팀 - 5팀 - 8팀"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n이외에도 궁금하신 내용이 있으시다면 "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C0606642LHW"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 채널에 질문 주시길 바랍니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U065TBUL5EE",
+                    "U060H4V0Q5S",
+                    "U05V5B27DK7",
+                    "U05V561TXUL"
+                ],
+                "count": 4
+            }
+        ]
+    }
+]

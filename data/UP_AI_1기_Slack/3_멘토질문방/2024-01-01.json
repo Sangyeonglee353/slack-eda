@@ -1,0 +1,281 @@
+[
+    {
+        "user": "U05VBQMH3D3",
+        "type": "message",
+        "ts": "1704168356.206029",
+        "edited": {
+            "user": "U05VBQMH3D3",
+            "ts": "1704168536.000000"
+        },
+        "client_msg_id": "d8619504-42f3-4dae-9cb5-bcb6a142d567",
+        "text": "<@U06BGDUL2LD>\n안녕하세요! 세가지 질문드리고 싶습니다\n1. 보통 데이터증강을 하더라도 원본을 복사하는 경우는 (50%확률로 플립이 아니라, 33%는 90도회전, 33%는 180도회전... 이렇게 데이터를 2배로 뻥튀기시켜서 학습하는게) 그리 많진 않은거 같은데 향상되는 경우는 드물까요?\n2. 이진분류혹은 3클래스분류에서 logit값이 모두 마이너스라도 값 분포에 따라 특정 클래스 확률이 80~90%로 올라가기도 하는데요. 다시말해 모델이 예측에 자신이 없는 경우, 마지막에 logit 결과값을 통해서 조정하는게 아니라 학습시부터 이런 부분을 조정하고 아웃풋에서도 모델의 예측 신뢰가 낮은 경우 따로 표시하는 방법이 있을까요? 챗GPT에서 알려준 분산이나 엔트로피, 드랍아웃tta등 많이 해봤는데 딱히 의미있는건 없었습니다\n3. 학습률을 점진적으로 감소하도록해서 500장을 5Kfold로 학습하는데요. 학습후반에서도 1에포크마다 정답률이 75%에서 80%됐다가 75%됐다가 널뛰기를 많이 합니다. 이런 케이스도 종종 있는지 궁금하네요. 제로부터 시작이든(프리트레인드모델에서 시작이지만) 몇에포크 학습한 모델을 불러오든, 괜찮은 모델생성을 위해 몇십번씩 반복해서 좋은 모델이 나올때까지 노가다하는 이런 것도 종종 있는건지 궁금합니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "16da4e28d6c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/6003210685524_16da4e28d6c4ea33bae5_72.png",
+            "first_name": "HB",
+            "real_name": "HB",
+            "display_name": "엄효범",
+            "team": "T05UGFFGL07",
+            "name": "swema86",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1704168356.206029",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1704171854.953479",
+        "reply_users": [
+            "U06BGDUL2LD",
+            "U05VBQMH3D3"
+        ],
+        "replies": [
+            {
+                "user": "U06BGDUL2LD",
+                "ts": "1704169783.658869"
+            },
+            {
+                "user": "U05VBQMH3D3",
+                "ts": "1704171818.360049"
+            },
+            {
+                "user": "U06BGDUL2LD",
+                "ts": "1704171854.953479"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9Hd6t",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06BGDUL2LD"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n안녕하세요! 세가지 질문드리고 싶습니다\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "보통 데이터증강을 하더라도 원본을 복사하는 경우는 (50%확률로 플립이 아니라, 33%는 90도회전, 33%는 180도회전... 이렇게 데이터를 2배로 뻥튀기시켜서 학습하는게) 그리 많진 않은거 같은데 향상되는 경우는 드물까요?"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "2. 이진분류혹은 3클래스분류에서 logit값이 모두 마이너스라도 값 분포에 따라 특정 클래스 확률이 80~90%로 올라가기도 하는데요. 다시말해 모델이 예측에 자신이 없는 경우, 마지막에 logit 결과값을 통해서 조정하는게 아니라 학습시부터 이런 부분을 조정하고 아웃풋에서도 모델의 예측 신뢰가 낮은 경우 따로 표시하는 방법이 있을까요? 챗GPT에서 알려준 분산이나 엔트로피, 드랍아웃tta등 많이 해봤는데 딱히 의미있는건 없었습니다\n3. 학습률을 점진적으로 감소하도록해서 500장을 5Kfold로 학습하는데요. 학습후반에서도 1에포크마다 정답률이 75%에서 80%됐다가 75%됐다가 널뛰기를 많이 합니다. 이런 케이스도 종종 있는지 궁금하네요. 제로부터 시작이든(프리트레인드모델에서 시작이지만) 몇에포크 학습한 모델을 불러오든, 괜찮은 모델생성을 위해 몇십번씩 반복해서 좋은 모델이 나올때까지 노가다하는 이런 것도 종종 있는건지 궁금합니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U06BGDUL2LD"
+                ],
+                "count": 1
+            },
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U06BGDUL2LD"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06BGDUL2LD",
+        "type": "message",
+        "ts": "1704169783.658869",
+        "client_msg_id": "107782ae-e50e-40c8-85e0-e1445861d649",
+        "text": "<@U05VBQMH3D3> 님, 안녕하세요 :slightly_smiling_face:\n\n안녕하세요! 질문에 대해 좀 더 명확하고 상세하게 답변 드리겠습니다.\n\n1. 데이터 증강 방법에 대해 말씀드리면, 모든 데이터 증강 기법이 모든 상황에 효과적인 것은 아닙니다. 예를 들어, 이미지를 90도 또는 180도 회전시키는 것은 특정 상황에서는 도움이 될 수 있지만, 모든 경우에 유용한 것은 아닙니다. 중요한 것은 데이터 증강이 해당 문제의 맥락과 데이터의 본질적 특성을 고려하여 적절하게 적용되어야 한다는 점입니다. 무분별한 데이터 증강은 오히려 모델이 잘못된 패턴을 학습하게 만들 수 있습니다. 따라서, 데이터의 특성과 문제의 성격을 잘 이해하고 적합한 데이터 증강 전략을 선택하는 것이 중요합니다.\n\n2. 로짓 값이 모두 음수인 상황에서도 특정 클래스에 대한 확률이 높게 나오는 경우에 대해 말씀드리자면, 이는 softmax 함수의 특성 때문입니다. 모델이 예측에 자신이 없을 때, 이를 학습 과정에서 조정하고자 한다면, 데이터 레이블의 분포를 조정하거나, 학습 방식을 개선하는 것이 한 방법이 될 수 있습니다. 예를 들어, 데이터의 불균형을 해결하기 위해 가중치를 조정하거나, 예측의 불확실성을 반영하는 학습 방법을 사용할 수 있습니다. 또한, 예측의 불확실성을 평가하기 위해 여러 방법들을 시도해볼 수 있지만, 모든 방법이 모든 상황에 효과적인 것은 아니므로, 문제에 맞는 적절한 접근법을 찾는 것이 중요합니다.\n\n3. 마지막으로, 학습률을 점진적으로 감소시키며 학습하는 과정에서 성능이 불안정하게 나타나는 것에 대해 말씀드리면, 이는 작은 데이터셋에서 비교적 흔히 발생하는 현상입니다. 이러한 불안정성은 여러 요인에 의해 발생할 수 있으며, 이를 해결하기 위해서는 다양한 학습률, 데이터 증강 전략, 모델 구조 등을 실험해보는 것이 좋습니다. 머신 러닝에서는 모델을 반복적으로 조정하고 실험하는 것이 일반적인 과정입니다. 따라서, 여러 시도를 통해 최적의 모델을 찾아가는 것이 중요합니다.\n\nlearning rate 조절에 대한 기법은 다양하니 검색해보시면 좋을 거 같습니다. 간단한 블로그 같이 공유 드릴게요.\n\n<https:\/\/velog.io\/@good159897\/Learning-rate-Decay%EC%9D%98-%EC%A2%85%EB%A5%98>",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "0fe69307f52f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-04-04\/6895510068391_0fe69307f52f0e0417ac_72.jpg",
+            "first_name": "한서우",
+            "real_name": "한서우 멘토",
+            "display_name": "한서우 멘토",
+            "team": "T05UGFFGL07",
+            "name": "swhan0329",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1704168356.206029",
+        "parent_user_id": "U05VBQMH3D3",
+        "attachments": [
+            {
+                "image_url": "https:\/\/velog.velcdn.com\/images\/good159897\/post\/bf1f8be4-9d1a-4675-9261-934172ae3095\/Learning_rate_decay.PNG",
+                "image_width": 924,
+                "image_height": 477,
+                "image_bytes": 73192,
+                "from_url": "https:\/\/velog.io\/@good159897\/Learning-rate-Decay%EC%9D%98-%EC%A2%85%EB%A5%98",
+                "service_icon": "https:\/\/static.velog.io\/favicons\/apple-icon-152x152.png",
+                "id": 1,
+                "original_url": "https:\/\/velog.io\/@good159897\/Learning-rate-Decay%EC%9D%98-%EC%A2%85%EB%A5%98",
+                "fallback": "Learning rate Decay의 종류",
+                "text": "Michigan 대학의 CS231n 강의를 보고 Learning rate Decay에 대해 정리를 했습니다.",
+                "title": "Learning rate Decay의 종류",
+                "title_link": "https:\/\/velog.io\/@good159897\/Learning-rate-Decay%EC%9D%98-%EC%A2%85%EB%A5%98",
+                "service_name": "velog.io"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iSWjE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05VBQMH3D3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 님, 안녕하세요 "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n안녕하세요! 질문에 대해 좀 더 명확하고 상세하게 답변 드리겠습니다.\n\n1. 데이터 증강 방법에 대해 말씀드리면, 모든 데이터 증강 기법이 모든 상황에 효과적인 것은 아닙니다. 예를 들어, 이미지를 90도 또는 180도 회전시키는 것은 특정 상황에서는 도움이 될 수 있지만, 모든 경우에 유용한 것은 아닙니다. 중요한 것은 데이터 증강이 해당 문제의 맥락과 데이터의 본질적 특성을 고려하여 적절하게 적용되어야 한다는 점입니다. 무분별한 데이터 증강은 오히려 모델이 잘못된 패턴을 학습하게 만들 수 있습니다. 따라서, 데이터의 특성과 문제의 성격을 잘 이해하고 적합한 데이터 증강 전략을 선택하는 것이 중요합니다.\n\n2. 로짓 값이 모두 음수인 상황에서도 특정 클래스에 대한 확률이 높게 나오는 경우에 대해 말씀드리자면, 이는 softmax 함수의 특성 때문입니다. 모델이 예측에 자신이 없을 때, 이를 학습 과정에서 조정하고자 한다면, 데이터 레이블의 분포를 조정하거나, 학습 방식을 개선하는 것이 한 방법이 될 수 있습니다. 예를 들어, 데이터의 불균형을 해결하기 위해 가중치를 조정하거나, 예측의 불확실성을 반영하는 학습 방법을 사용할 수 있습니다. 또한, 예측의 불확실성을 평가하기 위해 여러 방법들을 시도해볼 수 있지만, 모든 방법이 모든 상황에 효과적인 것은 아니므로, 문제에 맞는 적절한 접근법을 찾는 것이 중요합니다.\n\n3. 마지막으로, 학습률을 점진적으로 감소시키며 학습하는 과정에서 성능이 불안정하게 나타나는 것에 대해 말씀드리면, 이는 작은 데이터셋에서 비교적 흔히 발생하는 현상입니다. 이러한 불안정성은 여러 요인에 의해 발생할 수 있으며, 이를 해결하기 위해서는 다양한 학습률, 데이터 증강 전략, 모델 구조 등을 실험해보는 것이 좋습니다. 머신 러닝에서는 모델을 반복적으로 조정하고 실험하는 것이 일반적인 과정입니다. 따라서, 여러 시도를 통해 최적의 모델을 찾아가는 것이 중요합니다.\n\nlearning rate 조절에 대한 기법은 다양하니 검색해보시면 좋을 거 같습니다. 간단한 블로그 같이 공유 드릴게요.\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/velog.io\/@good159897\/Learning-rate-Decay%EC%9D%98-%EC%A2%85%EB%A5%98"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U05VBQMH3D3"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05VBQMH3D3",
+        "type": "message",
+        "ts": "1704171818.360049",
+        "client_msg_id": "1a5740cc-b0c1-44fa-80b0-56801ef155fb",
+        "text": "상세한 답변 감사합니다! 어떤 실험을 선택하느냐가 실력이 되겠지만 생각보다 노가다가 많은거 같네요ㅎㅎ",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "16da4e28d6c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/6003210685524_16da4e28d6c4ea33bae5_72.png",
+            "first_name": "HB",
+            "real_name": "HB",
+            "display_name": "엄효범",
+            "team": "T05UGFFGL07",
+            "name": "swema86",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1704168356.206029",
+        "parent_user_id": "U05VBQMH3D3",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "o89FY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "상세한 답변 감사합니다! 어떤 실험을 선택하느냐가 실력이 되겠지만 생각보다 노가다가 많은거 같네요ㅎㅎ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06BGDUL2LD",
+        "type": "message",
+        "ts": "1704171854.953479",
+        "client_msg_id": "061b3354-8a43-4aa6-90dc-27c8951563cf",
+        "text": "<@U05VBQMH3D3> 네 맞습니다. 아마 실전 경험에 따라서 상황에 맞는 걸 선택하는게 결국 실력으로 보여질 수 있을 거 같습니다~",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "0fe69307f52f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-04-04\/6895510068391_0fe69307f52f0e0417ac_72.jpg",
+            "first_name": "한서우",
+            "real_name": "한서우 멘토",
+            "display_name": "한서우 멘토",
+            "team": "T05UGFFGL07",
+            "name": "swhan0329",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1704168356.206029",
+        "parent_user_id": "U05VBQMH3D3",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mXDC2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05VBQMH3D3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 네 맞습니다. 아마 실전 경험에 따라서 상황에 맞는 걸 선택하는게 결국 실력으로 보여질 수 있을 거 같습니다~"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

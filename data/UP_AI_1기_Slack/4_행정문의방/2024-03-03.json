@@ -1,0 +1,152 @@
+[
+    {
+        "user": "U05V379NETU",
+        "type": "message",
+        "ts": "1709515138.255479",
+        "client_msg_id": "b1d7c6ef-b9f3-483f-908e-aa17d5fc44e0",
+        "text": "<@U05UNC6FNK1> <@U05V81G5ZDY>\n안녕하세요 매니저님! 예비군(동미참) 훈련 일정 미리 공유드립니다.\n신주용 \/ 2024.03.05~2024.03.08 \/ 동미참 4일(32시간) 훈련 예정입니다.\n관련 서류는 동미참 훈련 끝나고 구글폼으로 제출하겠습니다. 감사합니다!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "ffacc530c1ba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/6012256954656_ffacc530c1baefd9bc1c_72.jpg",
+            "first_name": "신주용",
+            "real_name": "신주용",
+            "display_name": "신주용",
+            "team": "T05UGFFGL07",
+            "name": "robotshin1608",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1709515138.255479",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1710120182.048039",
+        "reply_users": [
+            "U05V379NETU"
+        ],
+        "replies": [
+            {
+                "user": "U05V379NETU",
+                "ts": "1710120182.048039"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dCY8F",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05UNC6FNK1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05V81G5ZDY"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n안녕하세요 매니저님! 예비군(동미참) 훈련 일정 미리 공유드립니다.\n신주용 \/ 2024.03.05~2024.03.08 \/ 동미참 4일(32시간) 훈련 예정입니다.\n관련 서류는 동미참 훈련 끝나고 구글폼으로 제출하겠습니다. 감사합니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "military_helmet",
+                "users": [
+                    "U05V81G5ZDY",
+                    "U065TBUL5EE",
+                    "U05VADPQPCL"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "user": "U060D1KJECR",
+        "type": "message",
+        "ts": "1709520738.866459",
+        "client_msg_id": "be6912b4-06e4-42f6-8bcb-7103ca3e38d7",
+        "text": "<@U05UNC6FNK1> <@U05V81G5ZDY>\n안녕하세요 매니저님. 3월 6일(수) 예비군 훈련이 있어 먼저 일정 공유드립니다.\n이현진 \/ 2024.03.06 \/ 기본훈련(1차) + 작계훈련(전반기, 1차) \/ 10시간\n훈련 이후 서류와 함께 구글폼 제출하겠습니다. 감사합니다",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "d024d71b810e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-06\/5993779835878_d024d71b810e837e9532_72.jpg",
+            "first_name": "이현진",
+            "real_name": "이현진",
+            "display_name": "이현진",
+            "team": "T05UGFFGL07",
+            "name": "jinintg",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1709520738.866459",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1709774315.507519",
+        "reply_users": [
+            "U060D1KJECR"
+        ],
+        "replies": [
+            {
+                "user": "U060D1KJECR",
+                "ts": "1709774315.507519"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "P4VRc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05UNC6FNK1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05V81G5ZDY"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n안녕하세요 매니저님. 3월 6일(수) 예비군 훈련이 있어 먼저 일정 공유드립니다.\n이현진 \/ 2024.03.06 \/ 기본훈련(1차) + 작계훈련(전반기, 1차) \/ 10시간\n훈련 이후 서류와 함께 구글폼 제출하겠습니다. 감사합니다"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "military_helmet",
+                "users": [
+                    "U05V81G5ZDY"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

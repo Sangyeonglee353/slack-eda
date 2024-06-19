@@ -1,0 +1,199 @@
+[
+    {
+        "user": "U065TBUL5EE",
+        "type": "message",
+        "ts": "1701612688.334359",
+        "client_msg_id": "df8bb265-b0f2-4df0-bdc8-67ef6769fd92",
+        "text": "<!channel> 혹시 내일 오시는분들 오전 10시에 오시나요? 그럼 저도 출강하려고 합니다!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "34f110a5edc4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-11-14\/6197301711475_34f110a5edc435398e63_72.png",
+            "first_name": "김용담",
+            "real_name": "김용담",
+            "display_name": "김용담 강사",
+            "team": "T05UGFFGL07",
+            "name": "codingiscoffee",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1701612688.334359",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1701614009.585649",
+        "reply_users": [
+            "U05V561TXUL",
+            "U065TBUL5EE"
+        ],
+        "replies": [
+            {
+                "user": "U05V561TXUL",
+                "ts": "1701613223.610129"
+            },
+            {
+                "user": "U065TBUL5EE",
+                "ts": "1701614009.585649"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "b+S5X",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 혹시 내일 오시는분들 오전 10시에 오시나요? 그럼 저도 출강하려고 합니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "대답",
+                "users": [
+                    "U05V561TXUL",
+                    "U05V7H78DUM"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U05V561TXUL",
+        "type": "message",
+        "ts": "1701613223.610129",
+        "client_msg_id": "8540654F-72CF-4945-AB0E-F1F233CDB764",
+        "text": "넵 혹시 마주치면 커피 사주시나요? ㅎㅎ",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "b4604568d88f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-08\/6448187852305_b4604568d88f0ae3e9b1_72.png",
+            "first_name": "최장원",
+            "real_name": "최장원",
+            "display_name": "",
+            "team": "T05UGFFGL07",
+            "name": "cjw7378",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1701612688.334359",
+        "parent_user_id": "U065TBUL5EE",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "O5Dcw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "넵"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "혹시"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "마주치면"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "커피"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "사주시나요"
+                            },
+                            {
+                                "type": "text",
+                                "text": "? ㅎㅎ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U065TBUL5EE",
+        "type": "message",
+        "ts": "1701614009.585649",
+        "client_msg_id": "9923096f-21f7-4669-81cf-95c8db18e75b",
+        "text": "무조건이죠ㅎㅎ 그것때매 여쭤본겁니다",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "34f110a5edc4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-11-14\/6197301711475_34f110a5edc435398e63_72.png",
+            "first_name": "김용담",
+            "real_name": "김용담",
+            "display_name": "김용담 강사",
+            "team": "T05UGFFGL07",
+            "name": "codingiscoffee",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1701612688.334359",
+        "parent_user_id": "U065TBUL5EE",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BbPsu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "무조건이죠ㅎㅎ 그것때매 여쭤본겁니다"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "smiling_face_with_3_hearts",
+                "users": [
+                    "U05V561TXUL"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

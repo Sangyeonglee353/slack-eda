@@ -1,0 +1,64 @@
+[
+    {
+        "user": "U05VBQMH3D3",
+        "type": "message",
+        "ts": "1698404057.183669",
+        "client_msg_id": "8d2791a1-423b-4324-9227-302e5937039d",
+        "text": "안녕하세요 오늘 20분늦게 입실하고 20분 늦게 퇴실했는데요. (사진은 14시, 19시에만 찍었습니다)\n지각 1회로 처리되는지, 혹은 외출, 조퇴가 플러스되서 2회처리되는지 궁금합니다",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "16da4e28d6c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/6003210685524_16da4e28d6c4ea33bae5_72.png",
+            "first_name": "HB",
+            "real_name": "HB",
+            "display_name": "엄효범",
+            "team": "T05UGFFGL07",
+            "name": "swema86",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698404057.183669",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1698627214.250129",
+        "reply_users": [
+            "U05UNC6FNK1"
+        ],
+        "replies": [
+            {
+                "user": "U05UNC6FNK1",
+                "ts": "1698627214.250129"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6F6zh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "안녕하세요 오늘 20분늦게 입실하고 20분 늦게 퇴실했는데요. (사진은 14시, 19시에만 찍었습니다)\n지각 1회로 처리되는지, 혹은 외출, 조퇴가 플러스되서 2회처리되는지 궁금합니다"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "U05UNC6FNK1"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

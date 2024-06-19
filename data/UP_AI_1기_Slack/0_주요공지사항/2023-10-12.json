@@ -1,0 +1,334 @@
+[
+    {
+        "user": "U06061L4S64",
+        "type": "message",
+        "ts": "1697162400.945969",
+        "client_msg_id": "52d16aaf-8545-4807-a4bd-17e5dcd75a6b",
+        "text": ":mega:오늘 10월 12일 퇴실 시간에 공지한 내용 공유드립니다.:mega:\n\n&gt; • 차주 월요일(23\/10\/16) 점심시간 11 ~12시로 변경됐습니다.\n&gt;     ◦ 강사님께서 현직자라서 회사관련 업무로 시간 조정됐습니다 양해부탁드립니다!\n&gt; • QR 정정 관련\n&gt;     ◦ 원칙은 HRD 오류 발생이나 피치 못할 사정시 가능 (다른 사유는 승인 거절 가능성 있음)\n&gt; • 줌 참석 웹캡이 원칙이니 핸드폰으로 참석 되도록 하지말아주세요.\n&gt;     ◦ 나중에 출석 정정에 영향있어요!\n&gt; • 수업 중에도 카메라를 켜주세요.\n&gt;     ◦ 수업을 듣고 계신 것인지 확인할 수 없습니다. 카메라를 꺼두시면 수업을 듣지 않고 계신 것으로 간주될 수 있으며, 추후에 수료 기준에 영향을 줄 수 있습니다.\n&gt;     ◦ 카메라를 켜지 않으면 강사님들께서 여러분들의 표정, 제스쳐 등을 보시고 이해하셨는지, 잘 따라오고 계신지, 잘 듣고 계신지 등을 확인할 수 없습니다. 오프라인으로 진행하는 강의가 아니다보니 해당 커뮤니케이션이 원활히 이루어지지 않으면 강의 진행에 영향을 줄 수가 있으니 모두 카메라를 켜고 적극적으로 참여해주시기 바랍니다.\n\n&gt; • 실시간 강의 중 질문이 많아져서 못하시게 되면 강의 종료 후 슬랙 채널에 올려주세요!\n&gt;     ◦ 슬랙 채널에 올리면 좋은 점\n&gt;         ▪︎ 모르는 정보를 서로 공유 할 수 있습니다. ( 다른분들도 궁금했던 점 일수도 있습니다.)\n&gt;         ▪︎ 질문들이 기록되기 때문에 나중에도 확인이 가능합니다.\n&gt;         ▪︎ url이나 이미지도 첨부 가능해서 이해하기 더 쉽습니다.\n&gt;         ▪︎ 강사님뿐만아니라 숨은 고수분들이 정보를 공유해 주실수도 있습니다.\n",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "9958a6e7ea98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5988755251283_9958a6e7ea98545615ca_72.png",
+            "first_name": "LM",
+            "real_name": "LM 박진영",
+            "display_name": "LM 박진영",
+            "team": "T05UGFFGL07",
+            "name": "pjy.fc.career",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZPuCr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "mega",
+                                "unicode": "1f4e3"
+                            },
+                            {
+                                "type": "text",
+                                "text": "오늘 10월 12일 퇴실 시간에 공지한 내용 공유드립니다."
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "mega",
+                                "unicode": "1f4e3"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "차주 월요일(23\/10\/16) 점심시간 11 ~12시로 변경됐습니다."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 1
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "강사님께서 현직자라서 회사관련 업무로 시간 조정됐습니다 양해부탁드립니다!"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 1
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "QR 정정 관련"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 1
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "원칙은 HRD 오류 발생이나 피치 못할 사정시 가능 (다른 사유는 승인 거절 가능성 있음)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 1
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "줌 참석 웹캡이 원칙이니 핸드폰으로 참석 되도록 하지말아주세요."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 1
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "나중에 출석 정정에 영향있어요!"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 1
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "수업 중에도 카메라를 켜주세요."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 1
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "수업을 듣고 계신 것인지 확인할 수 없습니다. 카메라를 꺼두시면 수업을 듣지 않고 계신 것으로 간주될 수 있으며, 추후에 수료 기준에 영향을 줄 수 있습니다."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "카메라를 켜지 않으면 강사님들께서 여러분들의 표정, 제스쳐 등을 보시고 이해하셨는지, 잘 따라오고 계신지, 잘 듣고 계신지 등을 확인할 수 없습니다. 오프라인으로 진행하는 강의가 아니다보니 해당 커뮤니케이션이 원활히 이루어지지 않으면 강의 진행에 영향을 줄 수가 있으니 모두 카메라를 켜고 적극적으로 참여해주시기 바랍니다."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 1
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "실시간 강의 중 질문이 많아져서 못하시게 되면 강의 종료 후 슬랙 채널에 올려주세요!"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 1
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "슬랙 채널에 올리면 좋은 점"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 1
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "모르는 정보를 서로 공유 할 수 있습니다. ( 다른분들도 궁금했던 점 일수도 있습니다.)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "질문들이 기록되기 때문에 나중에도 확인이 가능합니다."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "url이나 이미지도 첨부 가능해서 이해하기 더 쉽습니다."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "강사님뿐만아니라 숨은 고수분들이 정보를 공유해 주실수도 있습니다."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 2,
+                        "border": 1
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U05V7H78DUM",
+                    "U05UUSA6G5V",
+                    "U05V4FX03SP",
+                    "U05VAU596PP",
+                    "U05V868K2JE",
+                    "U05UT0JG4BZ",
+                    "U060D1KJECR",
+                    "U05V561TXUL",
+                    "U0600GGHJTC"
+                ],
+                "count": 9
+            }
+        ]
+    }
+]

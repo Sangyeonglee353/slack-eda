@@ -1,0 +1,112 @@
+[
+    {
+        "user": "U05UNC6FNK1",
+        "type": "message",
+        "ts": "1712793135.119959",
+        "client_msg_id": "86147b88-7c17-400c-b340-549ae861a1ef",
+        "text": "<@U05V81G5ZDY> 님 환수동의서 취합 없는 것으로 말씀 드렸는데요~ 따로 안내드린 이유 있을까요?",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "260d154ea1e2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5979526758263_260d154ea1e2177fd001_72.jpg",
+            "first_name": "FC",
+            "real_name": "FC 하시안 매니저",
+            "display_name": "FC 하시안 매니저",
+            "team": "T05UGFFGL07",
+            "name": "xianha",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712656854.829369",
+        "parent_user_id": "U05V81G5ZDY",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ekQ3h",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05V81G5ZDY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 님 환수동의서 취합 없는 것으로 말씀 드렸는데요~ 따로 안내드린 이유 있을까요?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray::skin-tone-2",
+                "users": [
+                    "U05V81G5ZDY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05V81G5ZDY",
+        "type": "message",
+        "ts": "1712795923.483329",
+        "edited": {
+            "user": "U05V81G5ZDY",
+            "ts": "1712796762.000000"
+        },
+        "client_msg_id": "d1a07b0a-31b3-4d95-a611-20267a908b21",
+        "text": "<@U05UUUNAE5D>\n<https:\/\/docs.google.com\/document\/d\/1MFh9njXVxwV0XqaFXJMrYh7pbD2f18dG\/edit#heading=h.gjdgxs|[장려금 확인서]> <- 확인해주세요!\n\n미서명자 분들 확인 부탁드립니다 장려금 신청이 지연되고 있습니다 ㅠㅠ",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "db1aceeb0d90",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5994058472162_db1aceeb0d9030c57e69_72.jpg",
+            "first_name": "김현우",
+            "real_name": "김현우",
+            "display_name": "FC 김현우 매니저",
+            "team": "T05UGFFGL07",
+            "name": "hyunwoo.kim",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712656820.142439",
+        "parent_user_id": "U05V81G5ZDY",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4Qlcv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05UUUNAE5D"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/document\/d\/1MFh9njXVxwV0XqaFXJMrYh7pbD2f18dG\/edit#heading=h.gjdgxs",
+                                "text": "[장려금 확인서]"
+                            },
+                            {
+                                "type": "text",
+                                "text": " <- 확인해주세요!\n\n미서명자 분들 확인 부탁드립니다 장려금 신청이 지연되고 있습니다 ㅠㅠ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

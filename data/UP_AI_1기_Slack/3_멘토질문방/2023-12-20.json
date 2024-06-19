@@ -1,0 +1,236 @@
+[
+    {
+        "text": "<@U06A5A0Q4PM>\n질문있습니다!\nautoEncoder의 경우 차원 축소와 차원 확대 과정을 진행하는데, 이때 사진에 보이는 n차원 벡터의 경우, 입력이 복원되는 정보를 담고 있는 n차원 벡터가 된다고 강의에서 설명해주셨습니다. 그렇다면 해당 n차원 벡터의 경우 입력이미지에 대한 feature를 잘 표현한 것인데, 이미지 클래스 분류 문제를 한다고 했을 때, 일반적으로 입력부터 출력까지 end-to-end 학습 시킨 모델의 마지막 feature vector(fc layer 전)와 autoencoder의 feature vector 둘을 비교했을 때, 어떤 벡터가 더 입력이미지에 대한 feature를 잘 표현하고 있는지 궁급합니다.\n만약 후자가 더 잘 표현하고 있다면, autoencoder\/autodecoder를 학습시킨후, autoencoder만 가져와서 뒷단에 fc layer를 추가해 학습하여 분류를 진행한다면, 한번에 학습시킨 모델보다 성능이 더 좋게 나올까요?",
+        "files": [
+            {
+                "id": "F06B6B38T5J",
+                "created": 1703125799,
+                "timestamp": 1703125799,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U05V5H1T24V",
+                "user_team": "T05UGFFGL07",
+                "editable": false,
+                "size": 55698,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F06B6B38T5J\/image.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F06B6B38T5J\/download\/image.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06B6B38T5J-74ef3d023f\/image_64.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06B6B38T5J-74ef3d023f\/image_80.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06B6B38T5J-74ef3d023f\/image_360.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_360_w": 360,
+                "thumb_360_h": 167,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06B6B38T5J-74ef3d023f\/image_480.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_480_w": 480,
+                "thumb_480_h": 223,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06B6B38T5J-74ef3d023f\/image_160.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06B6B38T5J-74ef3d023f\/image_720.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_720_w": 720,
+                "thumb_720_h": 334,
+                "original_w": 782,
+                "original_h": 363,
+                "thumb_tiny": "AwAWADDRZ1U4J5qO5lMMJdQCcgYNSEkHpTZolnj2PkA88U0BVjvQxw8TKcdjTXvyM7IicdyasLaQRc7efUmkexgfkKVz6GqugJ1cGMMeMjJoVw2cHOKANqADnAxSqSe2KgBaKKKAEZFbG4A46UEcYHFLRQAza396nKCOpzS0UAf\/2Q==",
+                "permalink": "https:\/\/fcupstageai1.slack.com\/files\/U05V5H1T24V\/F06B6B38T5J\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T05UGFFGL07-F06B6B38T5J-3439415596",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U05V5H1T24V",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KzkG7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06A5A0Q4PM"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n질문있습니다!\nautoEncoder의 경우 차원 축소와 차원 확대 과정을 진행하는데, 이때 사진에 보이는 n차원 벡터의 경우, 입력이 복원되는 정보를 담고 있는 n차원 벡터가 된다고 강의에서 설명해주셨습니다. 그렇다면 해당 n차원 벡터의 경우 입력이미지에 대한 feature를 잘 표현한 것인데, 이미지 클래스 분류 문제를 한다고 했을 때, 일반적으로 입력부터 출력까지 end-to-end 학습 시킨 모델의 마지막 feature vector(fc layer 전)와 autoencoder의 feature vector 둘을 비교했을 때, 어떤 벡터가 더 입력이미지에 대한 feature를 잘 표현하고 있는지 궁급합니다.\n만약 후자가 더 잘 표현하고 있다면, autoencoder\/autodecoder를 학습시킨후, autoencoder만 가져와서 뒷단에 fc layer를 추가해 학습하여 분류를 진행한다면, 한번에 학습시킨 모델보다 성능이 더 좋게 나올까요?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1703125862.236199",
+        "edited": {
+            "user": "U05V5H1T24V",
+            "ts": "1703125926.000000"
+        },
+        "client_msg_id": "6e205fe0-40d9-4b8e-8c89-3b4daa598b6b",
+        "thread_ts": "1703125862.236199",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1703137219.345139",
+        "reply_users": [
+            "U06A5A0Q4PM",
+            "U05V5H1T24V"
+        ],
+        "replies": [
+            {
+                "user": "U06A5A0Q4PM",
+                "ts": "1703137069.980219"
+            },
+            {
+                "user": "U05V5H1T24V",
+                "ts": "1703137219.345139"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U060C67EYQ5"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06A5A0Q4PM",
+        "type": "message",
+        "ts": "1703137069.980219",
+        "client_msg_id": "ac90c501-75f3-49d3-ace4-e0871f52cdcd",
+        "text": "안녕하세요 재현님.\n첫 질문으로 아주 좋은 질문를 해주셨네요!\n\n경험적으로는 분류 문제를 위해 end to end로 학습시킨 것이 성능이 더 좋습니다.\n간단히 이유를 생각해보면, 오토 인코더로 훈련되는 특징 벡터는 재구성을 위한 특징들을 담기 위해 훈련될 것이고, 분류를 위한 특징 벡터는 분류 모델에서 훈련될 것입니다.\n생성 모델 수업에서 배우시겠지만, 복원 과정에서는 디테일한 영역도 중요한 반면, 분류 문제에서는 상대적으로 전체적인 텍스쳐에 더 집중합니다. 이런 차이로 인해 기본적으로 분류 문제는 분류 목적으로 훈련된 특징 벡터의 성능이 더 좋습니다.\n그리고, 레이블이 있는 경우 레이블을 활용한 훈련이 보통 성능상 이점이 있는 편입니다. 레이블이 없는 데이터가 혼재되어 있다면 말씀해주신 대로 오토 인코더 학습 후 전이 학습을 시도해볼 수 있지만, 분류 문제를 충분히 풀 만큼 레이블 데이터가 있다면 그것을 활용하는 것이 더 좋습니다.\n\n말씀해주신 내용에 일부 트릭을 더하여 자기 지도 학습 방식으로 풀어낸 <https:\/\/arxiv.org\/abs\/2111.06377|Masked Autoencoder> 가 있으니 참고해보셔도 좋겠습니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "g38fcfae5b9e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/38fcfae5b9ea7884bff301af052034aa.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "성예닮",
+            "real_name": "성예닮",
+            "display_name": "성예닮 멘토",
+            "team": "T05UGFFGL07",
+            "name": "mybirth0407",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1703125862.236199",
+        "parent_user_id": "U05V5H1T24V",
+        "attachments": [
+            {
+                "from_url": "https:\/\/arxiv.org\/abs\/2111.06377",
+                "service_icon": "https:\/\/arxiv.org\/static\/browse\/0.3.4\/images\/icons\/apple-touch-icon.png",
+                "thumb_url": "https:\/\/arxiv.org\/static\/browse\/0.3.4\/images\/arxiv-logo-fb.png",
+                "thumb_width": 1200,
+                "thumb_height": 700,
+                "id": 1,
+                "original_url": "https:\/\/arxiv.org\/abs\/2111.06377",
+                "fallback": "arXiv.org: Masked Autoencoders Are Scalable Vision Learners",
+                "text": "This paper shows that masked autoencoders (MAE) are scalable self-supervised learners for computer vision. Our MAE approach is simple: we mask random patches of the input image and reconstruct the missing pixels. It is based on two core designs. First, we develop an asymmetric encoder-decoder architecture, with an encoder that operates only on the visible subset of patches (without mask tokens), along with a lightweight decoder that reconstructs the original image from the latent representation and mask tokens. Second, we find that masking a high proportion of the input image, e.g., 75%, yields a nontrivial and meaningful self-supervisory task. Coupling these two designs enables us to train large models efficiently and effectively: we accelerate training (by 3x or more) and improve accuracy. Our scalable approach allows for learning high-capacity models that generalize well: e.g., a vanilla ViT-Huge model achieves the best accuracy (87.8%) among methods that use only ImageNet-1K data. Transfer performance in downstream tasks outperforms supervised pre-training and shows promising scaling behavior.",
+                "title": "Masked Autoencoders Are Scalable Vision Learners",
+                "title_link": "https:\/\/arxiv.org\/abs\/2111.06377",
+                "service_name": "arXiv.org"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Fj1V5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "안녕하세요 재현님.\n첫 질문으로 아주 좋은 질문를 해주셨네요!\n\n경험적으로는 분류 문제를 위해 end to end로 학습시킨 것이 성능이 더 좋습니다.\n간단히 이유를 생각해보면, 오토 인코더로 훈련되는 특징 벡터는 재구성을 위한 특징들을 담기 위해 훈련될 것이고, 분류를 위한 특징 벡터는 분류 모델에서 훈련될 것입니다.\n생성 모델 수업에서 배우시겠지만, 복원 과정에서는 디테일한 영역도 중요한 반면, 분류 문제에서는 상대적으로 전체적인 텍스쳐에 더 집중합니다. 이런 차이로 인해 기본적으로 분류 문제는 분류 목적으로 훈련된 특징 벡터의 성능이 더 좋습니다.\n그리고, 레이블이 있는 경우 레이블을 활용한 훈련이 보통 성능상 이점이 있는 편입니다. 레이블이 없는 데이터가 혼재되어 있다면 말씀해주신 대로 오토 인코더 학습 후 전이 학습을 시도해볼 수 있지만, 분류 문제를 충분히 풀 만큼 레이블 데이터가 있다면 그것을 활용하는 것이 더 좋습니다.\n\n말씀해주신 내용에 일부 트릭을 더하여 자기 지도 학습 방식으로 풀어낸 "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/arxiv.org\/abs\/2111.06377",
+                                "text": "Masked Autoencoder"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 가 있으니 참고해보셔도 좋겠습니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "grinning",
+                "users": [
+                    "U05V5H1T24V",
+                    "U060C67EYQ5"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U05V5H1T24V",
+        "type": "message",
+        "ts": "1703137219.345139",
+        "client_msg_id": "452bf8b1-0484-485a-a06c-4a15669e4a93",
+        "text": "답변 감사합니다 !!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "7c6706ce6504",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5987883585126_7c6706ce65044c7fba85_72.png",
+            "first_name": "서재현",
+            "real_name": "서재현",
+            "display_name": "서재현",
+            "team": "T05UGFFGL07",
+            "name": "jaehyeon4037",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1703125862.236199",
+        "parent_user_id": "U05V5H1T24V",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "q5sr2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "답변 감사합니다 !!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U06A5A0Q4PM",
+                    "U060C67EYQ5"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

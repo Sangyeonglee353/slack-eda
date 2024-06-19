@@ -1,0 +1,143 @@
+[
+    {
+        "text": "사이트 접속시 화면이 비정상적입니다.\nEdge와 크롬 모두에서  동일합니다.",
+        "files": [
+            {
+                "id": "F06MSLPUP6G",
+                "created": 1709534093,
+                "timestamp": 1709534093,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U05V9LP47V0",
+                "user_team": "T05UGFFGL07",
+                "editable": false,
+                "size": 211144,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F06MSLPUP6G\/image.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F06MSLPUP6G\/download\/image.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06MSLPUP6G-873d8521ad\/image_64.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06MSLPUP6G-873d8521ad\/image_80.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06MSLPUP6G-873d8521ad\/image_360.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_360_w": 360,
+                "thumb_360_h": 175,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06MSLPUP6G-873d8521ad\/image_480.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_480_w": 480,
+                "thumb_480_h": 234,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06MSLPUP6G-873d8521ad\/image_160.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06MSLPUP6G-873d8521ad\/image_720.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_720_w": 720,
+                "thumb_720_h": 351,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06MSLPUP6G-873d8521ad\/image_800.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_800_w": 800,
+                "thumb_800_h": 389,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06MSLPUP6G-873d8521ad\/image_960.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_960_w": 960,
+                "thumb_960_h": 467,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06MSLPUP6G-873d8521ad\/image_1024.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 499,
+                "original_w": 2208,
+                "original_h": 1075,
+                "thumb_tiny": "AwAXADDQUAjOKdgUACloAQgY6Ui4ZRTu1NUUALtHpRtGOlLQelFgG4HrTsim0UCFJGKQAetB6Ug6UAOyKCRikpD0pjP\/2Q==",
+                "permalink": "https:\/\/fcupstageai1.slack.com\/files\/U05V9LP47V0\/F06MSLPUP6G\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T05UGFFGL07-F06MSLPUP6G-13d4ca3889",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U05V9LP47V0",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DuClU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "사이트 접속시 화면이 비정상적입니다.\nEdge와 크롬 모두에서  동일합니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1709534139.418949",
+        "client_msg_id": "1744340d-127a-46ec-9630-7af6411b784c",
+        "thread_ts": "1709534139.418949",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1709545739.022089",
+        "reply_users": [
+            "U05VADPQPCL",
+            "U05V9LP47V0"
+        ],
+        "replies": [
+            {
+                "user": "U05VADPQPCL",
+                "ts": "1709538853.895279"
+            },
+            {
+                "user": "U05V9LP47V0",
+                "ts": "1709545739.022089"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "user": "U05VADPQPCL",
+        "type": "message",
+        "ts": "1709538853.895279",
+        "client_msg_id": "9f4f2eb7-6cb0-4b17-8910-c18f3aeba721",
+        "text": "안녕하세요 정의님 계속 해당 오류 발생하고있나요?",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "07e7ca00b8f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5991092857253_07e7ca00b8f0d0b13ba1_72.png",
+            "first_name": "패스트캠퍼스박기준",
+            "real_name": "패스트캠퍼스박기준",
+            "display_name": "LM 박기준",
+            "team": "T05UGFFGL07",
+            "name": "pgj.fc.career",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1709534139.418949",
+        "parent_user_id": "U05V9LP47V0",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "b\/4mU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "안녕하세요 정의님 계속 해당 오류 발생하고있나요?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

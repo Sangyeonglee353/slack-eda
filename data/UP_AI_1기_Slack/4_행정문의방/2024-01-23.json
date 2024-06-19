@@ -1,0 +1,498 @@
+[
+    {
+        "user": "U05UNC6FNK1",
+        "type": "message",
+        "ts": "1706056743.136049",
+        "client_msg_id": "f7a9e95f-6943-406a-8165-c8811491ef39",
+        "text": "<@U060JMX5FK2> 저 11월 30일날과 12월 1일날에 학회참석 관계로 공가를 신청했었는데 그게 아직 처리가 안된상태입니다... 방금 훈련장려금을 신청했다고 하셔서요,,, 에 대한 논의 스레드",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "260d154ea1e2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5979526758263_260d154ea1e2177fd001_72.jpg",
+            "first_name": "FC",
+            "real_name": "FC 하시안 매니저",
+            "display_name": "FC 하시안 매니저",
+            "team": "T05UGFFGL07",
+            "name": "xianha",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1706056743.136049",
+        "reply_count": 6,
+        "reply_users_count": 3,
+        "latest_reply": "1706057978.717279",
+        "reply_users": [
+            "U05UNC6FNK1",
+            "U05V81G5ZDY",
+            "U060JMX5FK2"
+        ],
+        "replies": [
+            {
+                "user": "U05UNC6FNK1",
+                "ts": "1706056757.160989"
+            },
+            {
+                "user": "U05UNC6FNK1",
+                "ts": "1706056766.449159"
+            },
+            {
+                "user": "U05UNC6FNK1",
+                "ts": "1706056928.618249"
+            },
+            {
+                "user": "U05V81G5ZDY",
+                "ts": "1706057015.160379"
+            },
+            {
+                "user": "U05UNC6FNK1",
+                "ts": "1706057067.791889"
+            },
+            {
+                "user": "U060JMX5FK2",
+                "ts": "1706057978.717279"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3lAe0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U060JMX5FK2"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 저 11월 30일날과 12월 1일날에 학회참석 관계로 공가를 신청했었는데 그게 아직 처리가 안된상태입니다... 방금 훈련장려금을 신청했다고 하셔서요,,, 에 대한 논의 스레드"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U05V81G5ZDY",
+                    "U05VADPQPCL"
+                ],
+                "count": 2
+            },
+            {
+                "name": "x",
+                "users": [
+                    "U05UNC6FNK1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05UNC6FNK1",
+        "type": "message",
+        "ts": "1706056757.160989",
+        "client_msg_id": "b056f1af-5951-4b36-9dc7-3487dd81fb95",
+        "text": "균호님 DM은 누락될 수 있어 해당 채널로 문의해주시길 바랍니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "260d154ea1e2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5979526758263_260d154ea1e2177fd001_72.jpg",
+            "first_name": "FC",
+            "real_name": "FC 하시안 매니저",
+            "display_name": "FC 하시안 매니저",
+            "team": "T05UGFFGL07",
+            "name": "xianha",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1706056743.136049",
+        "parent_user_id": "U05UNC6FNK1",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JNWXL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "균호님 DM은 누락될 수 있어 해당 채널로 문의해주시길 바랍니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05UNC6FNK1",
+        "type": "message",
+        "ts": "1706056766.449159",
+        "client_msg_id": "409937c3-e346-42b3-9a74-c2ae613a7fbe",
+        "text": "공가 신청한 일정에 대한 서류 및 대장이 제출되었을까요?",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "260d154ea1e2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5979526758263_260d154ea1e2177fd001_72.jpg",
+            "first_name": "FC",
+            "real_name": "FC 하시안 매니저",
+            "display_name": "FC 하시안 매니저",
+            "team": "T05UGFFGL07",
+            "name": "xianha",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1706056743.136049",
+        "parent_user_id": "U05UNC6FNK1",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YweK4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "공가 신청한 일정에 대한 서류 및 대장이 제출되었을까요?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05UNC6FNK1",
+        "type": "message",
+        "ts": "1706056928.618249",
+        "client_msg_id": "92b5af19-ee4d-4ae5-97ac-9f02b5e39935",
+        "text": "<@U05V81G5ZDY> 님 혹시 해당일자에 대한 내용 공유받으신게 있으실까요?",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "260d154ea1e2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5979526758263_260d154ea1e2177fd001_72.jpg",
+            "first_name": "FC",
+            "real_name": "FC 하시안 매니저",
+            "display_name": "FC 하시안 매니저",
+            "team": "T05UGFFGL07",
+            "name": "xianha",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1706056743.136049",
+        "parent_user_id": "U05UNC6FNK1",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "54p6u",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05V81G5ZDY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 님 혹시 해당일자에 대한 내용 공유받으신게 있으실까요?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05V81G5ZDY",
+        "type": "message",
+        "ts": "1706057015.160379",
+        "edited": {
+            "user": "U05V81G5ZDY",
+            "ts": "1706057107.000000"
+        },
+        "client_msg_id": "4efef8a4-4462-45fc-8936-dee19cfa8dee",
+        "text": "<@U05UNC6FNK1> 아 제가 수강생에게 전달 드리지 않았습니다\n\n<@U060JMX5FK2> 제가 전달드리지 못하여 확인하지 못한점 죄송합니다.\n아래 내용으로 확인하여 공가 신청 불가로 확인해주세요!!\n\n```AI Lab\n\n2023-10-10 ~ 2024-05-10(2회차)\n\n23.11.30., 12.01. 노균호 - 학술대회는 규정의 '해커톤, 경진대회'등으로 볼 수 없음```\n-> 센터 주무관님 말씀입니다!!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "db1aceeb0d90",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5994058472162_db1aceeb0d9030c57e69_72.jpg",
+            "first_name": "김현우",
+            "real_name": "김현우",
+            "display_name": "FC 김현우 매니저",
+            "team": "T05UGFFGL07",
+            "name": "hyunwoo.kim",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1706056743.136049",
+        "parent_user_id": "U05UNC6FNK1",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "i2iAb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05UNC6FNK1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 아 제가 수강생에게 전달 드리지 않았습니다\n\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U060JMX5FK2"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 제가 전달드리지 못하여 확인하지 못한점 죄송합니다.\n아래 내용으로 확인하여 공가 신청 불가로 확인해주세요!!\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "AI Lab\n\n2023-10-10 ~ 2024-05-10(2회차)\n\n23.11.30., 12.01. 노균호 - 학술대회는 규정의 '해커톤, 경진대회'등으로 볼 수 없음"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "-> 센터 주무관님 말씀입니다!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1::skin-tone-2",
+                "users": [
+                    "U05UNC6FNK1"
+                ],
+                "count": 1
+            },
+            {
+                "name": "감",
+                "users": [
+                    "U05UNC6FNK1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05UNC6FNK1",
+        "type": "message",
+        "ts": "1706057067.791889",
+        "edited": {
+            "user": "U05UNC6FNK1",
+            "ts": "1706057135.000000"
+        },
+        "client_msg_id": "3047a9a0-ccf4-454d-959f-07cc1c9bcb61",
+        "text": "<@U060JMX5FK2> 해당일자는 김현우 매니저님 확인주신 내용처럼 센터거절로 확인했고, 추가 정정이 불가한점 확인했습니다:smiling_face_with_tear:\n\n추가 비용 지급 논의 없음으로 기존 신청 정정없이 진행하겠습니다",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "260d154ea1e2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5979526758263_260d154ea1e2177fd001_72.jpg",
+            "first_name": "FC",
+            "real_name": "FC 하시안 매니저",
+            "display_name": "FC 하시안 매니저",
+            "team": "T05UGFFGL07",
+            "name": "xianha",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1706056743.136049",
+        "parent_user_id": "U05UNC6FNK1",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xo4Uv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U060JMX5FK2"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 해당일자는 김현우 매니저님 확인주신 내용처럼 센터거절로 확인했고, 추가 정정이 불가한점 확인했습니다"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smiling_face_with_tear",
+                                "unicode": "1f972"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n추가 비용 지급 논의 없음으로 기존 신청 정정없이 진행하겠습니다"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U060JMX5FK2",
+        "type": "message",
+        "ts": "1706057978.717279",
+        "client_msg_id": "90e1689d-493e-4040-9233-47d4f59a76d4",
+        "text": "네 확인했습니다 감사합니다",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "gfc7ecc6b1da",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fc7ecc6b1da3c3f7a37c07a405aa9e6a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "노균호",
+            "real_name": "노균호",
+            "display_name": "노균호",
+            "team": "T05UGFFGL07",
+            "name": "guno2633",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1706056743.136049",
+        "parent_user_id": "U05UNC6FNK1",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "p0WsA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "네 확인했습니다 감사합니다"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands::skin-tone-2",
+                "users": [
+                    "U05UNC6FNK1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05UNMQ4LP9",
+        "type": "message",
+        "ts": "1706061216.218229",
+        "client_msg_id": "40989074-aec9-4954-ad26-8fba59920a0e",
+        "text": "<@U05UNC6FNK1> <@U05V81G5ZDY>\n안녕하세요, LM님과 상담 후 24\/01\/26 (금요일) 휴가 제출 폼 제출하였습니다.\n확인 부탁드립니다!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "eef278e1672b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5974738227319_eef278e1672b038da8b1_72.jpg",
+            "first_name": "김윤겸",
+            "real_name": "김윤겸",
+            "display_name": "김윤겸",
+            "team": "T05UGFFGL07",
+            "name": "dbsrua110525",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1706061216.218229",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1706580452.182649",
+        "reply_users": [
+            "U05V81G5ZDY",
+            "U05UNMQ4LP9"
+        ],
+        "replies": [
+            {
+                "user": "U05V81G5ZDY",
+                "ts": "1706509065.688409"
+            },
+            {
+                "user": "U05UNMQ4LP9",
+                "ts": "1706580452.182649"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zvgF1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05UNC6FNK1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05V81G5ZDY"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n안녕하세요, LM님과 상담 후 24\/01\/26 (금요일) 휴가 제출 폼 제출하였습니다.\n확인 부탁드립니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "beach_with_umbrella",
+                "users": [
+                    "U05V81G5ZDY"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,982 @@
+[
+    {
+        "user": "U05UWVA90H4",
+        "type": "message",
+        "ts": "1698369603.242849",
+        "edited": {
+            "user": "U05UWVA90H4",
+            "ts": "1698369750.000000"
+        },
+        "client_msg_id": "62c4d6a1-e4e8-46f7-a67e-7b27c3fe0f09",
+        "text": "google teachable machine 관련 html에서 웹캠이 안켜지는 이슈 관련 해결방법 공유드려요.\n(아마 더 쉬운 방법도 있을 것 같긴 해요! 아시는 분은 공유해주세요!)\n\n*원인*\n• html 실행시 개발자 도구에서 에러 메세지를 보니, 보안상의 이슈로 파일 시스템에서(내 컴퓨터) 직접 model json과 metadata json 접근하는 것을 막은 것으로 보여요\n    ◦ (구글링 해보니 이걸 CORS라고 하는 것 같아요)\n*해결책*\n• 해결하려면, html파일을 http 서버를 사용하여 모델 파일을 호스팅해야한다고 해요.(주피터 노트북이나 어제 서버 띄울 때 localhost:5000\/ 처럼)\n*해결방법 :* [http서버 이용하여 호스팅하기]\n1. 터미널을 사용해 google teachble machine을 위해 만든 폴더의 위치로 이동해요.\n2. terminal에서 “`python -m http.server 8000`” 이라는 코드를 입력해요.\n3. 그 후에 <http:\/\/localhost:8000> 링크를 *사파리*에 복붙해요.\n    a. 크롬은 안되는데 그것도 에러메세지를 보니 크롬은 https를 이용해서만 제공된다고 하더라구요.. \n        i. (https로 호스팅하려면 인증서나 작업이 복잡해서..포기했습니다 사파리로 여시길..)\n4. 참고로 호스팅 끄고 나올때는 ctrl + c 하시면 됩니다!\n\n*주의*\n• 폴더 세팅\n    ◦ html파일의 위치 : google teachable machine 모델용 폴더 이름을 gtm_test라고 했다면, html 파일은 gtm_test에 만들어야 합니다.\n    ◦ my_model 폴더 만들기 : gtm_test에 my_model이라는 폴더를 만들고 그 안에 metadata.json, model.json을 넣어줍니다.\n    ◦ 그럼 아래 코드의 URL들을 수정할 필요없이 바로 실행됩니다!\n```const URL = \".\/my_model\/\";  \n\nlet model, webcam, labelContainer, maxPredictions;\n\n\/\/ Load the image model and setup the webcam\nasync function init() {\n    const modelURL = URL + \"model.json\";\n    const metadataURL = URL + \"metadata.json\";```",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "e039a582c034",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5983012631430_e039a582c03450d83dc6_72.png",
+            "first_name": "이준형",
+            "real_name": "이준형",
+            "display_name": "이준형",
+            "team": "T05UGFFGL07",
+            "name": "hewberryd8",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698369603.242849",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1698387078.953549",
+        "reply_users": [
+            "U060VSK7ELC",
+            "U05UWVA90H4"
+        ],
+        "replies": [
+            {
+                "user": "U060VSK7ELC",
+                "ts": "1698377540.758999"
+            },
+            {
+                "user": "U05UWVA90H4",
+                "ts": "1698387078.953549"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CxNUL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "google teachable machine 관련 html에서 웹캠이 안켜지는 이슈 관련 해결방법 공유드려요.\n(아마 더 쉬운 방법도 있을 것 같긴 해요! 아시는 분은 공유해주세요!)\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "원인",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "html 실행시 개발자 도구에서 에러 메세지를 보니, 보안상의 이슈로 파일 시스템에서(내 컴퓨터) 직접 model json과 metadata json 접근하는 것을 막은 것으로 보여요"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "(구글링 해보니 이걸 CORS라고 하는 것 같아요)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "해결책",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "해결하려면, html파일을 http 서버를 사용하여 모델 파일을 호스팅해야한다고 해요.(주피터 노트북이나 어제 서버 띄울 때 localhost:5000\/ 처럼)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "해결방법 : ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "[http서버 이용하여 호스팅하기]\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "터미널을 사용해 google teachble machine을 위해 만든 폴더의 위치로 이동해요."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "terminal에서 “"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "python -m http.server 8000",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "” 이라는 코드를 입력해요."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "그 후에 "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "http:\/\/localhost:8000"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " 링크를 "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "사파리",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "에 복붙해요."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "크롬은 안되는데 그것도 에러메세지를 보니 크롬은 https를 이용해서만 제공된다고 하더라구요.. "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "(https로 호스팅하려면 인증서나 작업이 복잡해서..포기했습니다 사파리로 여시길..)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 2,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "참고로 호스팅 끄고 나올때는 ctrl + c 하시면 됩니다!"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "offset": 3,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "주의",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "폴더 세팅"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "html파일의 위치 : google teachable machine 모델용 폴더 이름을 gtm_test라고 했다면, html 파일은 gtm_test에 만들어야 합니다."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "my_model 폴더 만들기 : gtm_test에 my_model이라는 폴더를 만들고 그 안에 metadata.json, model.json을 넣어줍니다."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "그럼 아래 코드의 URL들을 수정할 필요없이 바로 실행됩니다!"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "const URL = \".\/my_model\/\";  \n\nlet model, webcam, labelContainer, maxPredictions;\n\n\/\/ Load the image model and setup the webcam\nasync function init() {\n    const modelURL = URL + \"model.json\";\n    const metadataURL = URL + \"metadata.json\";"
+                            }
+                        ],
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U05V4KZR3NW",
+                    "U06061L4S64",
+                    "U0600GGHJTC",
+                    "U05V379NETU",
+                    "U05UYAVRTSR",
+                    "U05UN5DQ423"
+                ],
+                "count": 6
+            }
+        ]
+    },
+    {
+        "user": "U060VSK7ELC",
+        "type": "message",
+        "ts": "1698377540.758999",
+        "client_msg_id": "acc542ef-1489-40f5-a805-e56554737294",
+        "text": "크  대박! VSC의 라이브 서버라는 것도 추천드립니다 :slightly_smiling_face:",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "4eedaa4888b6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-11\/6027355735027_4eedaa4888b662413f7b_72.jpg",
+            "first_name": "김인섭",
+            "real_name": "김인섭 강사",
+            "display_name": "김인섭 강사",
+            "team": "T05UGFFGL07",
+            "name": "inseop0813",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698369603.242849",
+        "parent_user_id": "U05UWVA90H4",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "S8fS4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "크  대박! VSC의 라이브 서버라는 것도 추천드립니다 "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "*[Live server 사용법 공유]*\n\n이게 훨씬 쉽네요!!! 감사합니다 강사님\n\n1. Visual Studio Code의 Extension에서 Live server라는 파일을 설치합니다. (1번 사진 참조)\n2. 설치 후에, 탐색기에 있는 main.html 파일을 마우스 오른쪽 버튼 누르고 Open with live server (2번 사진 참조)\n3. 이렇게 하면 크롬에서도 바로 열리네요..! 최고!:+1:\n",
+        "files": [
+            {
+                "id": "F062N0D926B",
+                "created": 1698387011,
+                "timestamp": 1698387011,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U05UWVA90H4",
+                "user_team": "T05UGFFGL07",
+                "editable": false,
+                "size": 77581,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F062N0D926B\/image.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F062N0D926B\/download\/image.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F062N0D926B-eeb40beb89\/image_64.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F062N0D926B-eeb40beb89\/image_80.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F062N0D926B-eeb40beb89\/image_360.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_360_w": 360,
+                "thumb_360_h": 105,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F062N0D926B-eeb40beb89\/image_480.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_480_w": 480,
+                "thumb_480_h": 140,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F062N0D926B-eeb40beb89\/image_160.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F062N0D926B-eeb40beb89\/image_720.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_720_w": 720,
+                "thumb_720_h": 210,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F062N0D926B-eeb40beb89\/image_800.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_800_w": 800,
+                "thumb_800_h": 233,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F062N0D926B-eeb40beb89\/image_960.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_960_w": 960,
+                "thumb_960_h": 280,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F062N0D926B-eeb40beb89\/image_1024.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 298,
+                "original_w": 1504,
+                "original_h": 438,
+                "thumb_tiny": "AwANADC+zopw1OzwMUuB6UYoATJ9qXNGKKADNFFFAH\/\/2Q==",
+                "permalink": "https:\/\/fcupstageai1.slack.com\/files\/U05UWVA90H4\/F062N0D926B\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T05UGFFGL07-F062N0D926B-39fc267a43",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            },
+            {
+                "id": "F0634VDERD2",
+                "created": 1698387053,
+                "timestamp": 1698387053,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U05UWVA90H4",
+                "user_team": "T05UGFFGL07",
+                "editable": false,
+                "size": 129185,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F0634VDERD2\/image.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F0634VDERD2\/download\/image.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F0634VDERD2-6667fdeeb4\/image_64.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F0634VDERD2-6667fdeeb4\/image_80.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F0634VDERD2-6667fdeeb4\/image_360.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_360_w": 343,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F0634VDERD2-6667fdeeb4\/image_480.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_480_w": 457,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F0634VDERD2-6667fdeeb4\/image_160.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F0634VDERD2-6667fdeeb4\/image_720.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_720_w": 685,
+                "thumb_720_h": 720,
+                "original_w": 712,
+                "original_h": 748,
+                "thumb_tiny": "AwAwAC25cMyROVyDxg1V86T++35irV1\/x7tVLBz3\/IUAO+0Sf33\/AEo+0Sf33\/So2B5OKbQMl+0S\/wDPQ1PbSs27e2enWqdWbMff\/CgRYuv+Pdqo4\/2DV67\/AOPdqoNgdM\/nQAh68DFJRRQAVZtB9\/8ACq9WbP8Aj\/CgCe7\/AOPdqokD2H51fuQWgYAZNUij9kP\/AHzQBHSU\/wAqT+435UeVJ\/cb8qAGirNn\/H+FQeVJ\/cb8qs2iMu\/KkdOtAH\/\/2Q==",
+                "permalink": "https:\/\/fcupstageai1.slack.com\/files\/U05UWVA90H4\/F0634VDERD2\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T05UGFFGL07-F0634VDERD2-49bcac5856",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U05UWVA90H4",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ecx38",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "[Live server 사용법 공유]",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n이게 훨씬 쉽네요!!! 감사합니다 강사님\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Visual Studio Code의 Extension에서 Live server라는 파일을 설치합니다. (1번 사진 참조)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "설치 후에, 탐색기에 있는 main.html 파일을 마우스 오른쪽 버튼 누르고 Open with live server (2번 사진 참조)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "이렇게 하면 크롬에서도 바로 열리네요..! 최고!"
+                                    },
+                                    {
+                                        "type": "emoji",
+                                        "name": "+1",
+                                        "unicode": "1f44d"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ],
+        "subtype": "thread_broadcast",
+        "root": {
+            "user": "U05UWVA90H4",
+            "type": "message",
+            "ts": "1698369603.242849",
+            "edited": {
+                "user": "U05UWVA90H4",
+                "ts": "1698369750.000000"
+            },
+            "client_msg_id": "62c4d6a1-e4e8-46f7-a67e-7b27c3fe0f09",
+            "text": "google teachable machine 관련 html에서 웹캠이 안켜지는 이슈 관련 해결방법 공유드려요.\n(아마 더 쉬운 방법도 있을 것 같긴 해요! 아시는 분은 공유해주세요!)\n\n*원인*\n• html 실행시 개발자 도구에서 에러 메세지를 보니, 보안상의 이슈로 파일 시스템에서(내 컴퓨터) 직접 model json과 metadata json 접근하는 것을 막은 것으로 보여요\n    ◦ (구글링 해보니 이걸 CORS라고 하는 것 같아요)\n*해결책*\n• 해결하려면, html파일을 http 서버를 사용하여 모델 파일을 호스팅해야한다고 해요.(주피터 노트북이나 어제 서버 띄울 때 localhost:5000\/ 처럼)\n*해결방법 :* [http서버 이용하여 호스팅하기]\n1. 터미널을 사용해 google teachble machine을 위해 만든 폴더의 위치로 이동해요.\n2. terminal에서 “`python -m http.server 8000`” 이라는 코드를 입력해요.\n3. 그 후에 <http:\/\/localhost:8000> 링크를 *사파리*에 복붙해요.\n    a. 크롬은 안되는데 그것도 에러메세지를 보니 크롬은 https를 이용해서만 제공된다고 하더라구요.. \n        i. (https로 호스팅하려면 인증서나 작업이 복잡해서..포기했습니다 사파리로 여시길..)\n4. 참고로 호스팅 끄고 나올때는 ctrl + c 하시면 됩니다!\n\n*주의*\n• 폴더 세팅\n    ◦ html파일의 위치 : google teachable machine 모델용 폴더 이름을 gtm_test라고 했다면, html 파일은 gtm_test에 만들어야 합니다.\n    ◦ my_model 폴더 만들기 : gtm_test에 my_model이라는 폴더를 만들고 그 안에 metadata.json, model.json을 넣어줍니다.\n    ◦ 그럼 아래 코드의 URL들을 수정할 필요없이 바로 실행됩니다!\n```const URL = \".\/my_model\/\";  \n\nlet model, webcam, labelContainer, maxPredictions;\n\n\/\/ Load the image model and setup the webcam\nasync function init() {\n    const modelURL = URL + \"model.json\";\n    const metadataURL = URL + \"metadata.json\";```",
+            "team": "T05UGFFGL07",
+            "thread_ts": "1698369603.242849",
+            "reply_count": 2,
+            "reply_users_count": 2,
+            "latest_reply": "1698387078.953549",
+            "reply_users": [
+                "U060VSK7ELC",
+                "U05UWVA90H4"
+            ],
+            "replies": [
+                {
+                    "user": "U060VSK7ELC",
+                    "ts": "1698377540.758999"
+                },
+                {
+                    "user": "U05UWVA90H4",
+                    "ts": "1698387078.953549"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false,
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "CxNUL",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "google teachable machine 관련 html에서 웹캠이 안켜지는 이슈 관련 해결방법 공유드려요.\n(아마 더 쉬운 방법도 있을 것 같긴 해요! 아시는 분은 공유해주세요!)\n\n"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "원인",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "html 실행시 개발자 도구에서 에러 메세지를 보니, 보안상의 이슈로 파일 시스템에서(내 컴퓨터) 직접 model json과 metadata json 접근하는 것을 막은 것으로 보여요"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "(구글링 해보니 이걸 CORS라고 하는 것 같아요)"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 1,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "해결책",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "해결하려면, html파일을 http 서버를 사용하여 모델 파일을 호스팅해야한다고 해요.(주피터 노트북이나 어제 서버 띄울 때 localhost:5000\/ 처럼)"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "해결방법 : ",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "[http서버 이용하여 호스팅하기]\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "터미널을 사용해 google teachble machine을 위해 만든 폴더의 위치로 이동해요."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "terminal에서 “"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "python -m http.server 8000",
+                                            "style": {
+                                                "code": true
+                                            }
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "” 이라는 코드를 입력해요."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "그 후에 "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "http:\/\/localhost:8000"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " 링크를 "
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "사파리",
+                                            "style": {
+                                                "bold": true
+                                            }
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "에 복붙해요."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "ordered",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "크롬은 안되는데 그것도 에러메세지를 보니 크롬은 https를 이용해서만 제공된다고 하더라구요.. "
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "ordered",
+                            "indent": 1,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "(https로 호스팅하려면 인증서나 작업이 복잡해서..포기했습니다 사파리로 여시길..)"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "ordered",
+                            "indent": 2,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "참고로 호스팅 끄고 나올때는 ctrl + c 하시면 됩니다!"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "ordered",
+                            "indent": 0,
+                            "offset": 3,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\n\n"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "주의",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "폴더 세팅"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "html파일의 위치 : google teachable machine 모델용 폴더 이름을 gtm_test라고 했다면, html 파일은 gtm_test에 만들어야 합니다."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "my_model 폴더 만들기 : gtm_test에 my_model이라는 폴더를 만들고 그 안에 metadata.json, model.json을 넣어줍니다."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "그럼 아래 코드의 URL들을 수정할 필요없이 바로 실행됩니다!"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 1,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_preformatted",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "const URL = \".\/my_model\/\";  \n\nlet model, webcam, labelContainer, maxPredictions;\n\n\/\/ Load the image model and setup the webcam\nasync function init() {\n    const modelURL = URL + \"model.json\";\n    const metadataURL = URL + \"metadata.json\";"
+                                }
+                            ],
+                            "border": 0
+                        }
+                    ]
+                }
+            ]
+        },
+        "type": "message",
+        "ts": "1698387078.953549",
+        "edited": {
+            "user": "U05UWVA90H4",
+            "ts": "1698387111.000000"
+        },
+        "client_msg_id": "63d85eca-74bb-424c-9594-7d7b3fef8fd6",
+        "thread_ts": "1698369603.242849",
+        "parent_user_id": "U05UWVA90H4",
+        "reactions": [
+            {
+                "name": "space_invader",
+                "users": [
+                    "U05V379NETU"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U0600GGHJTC"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

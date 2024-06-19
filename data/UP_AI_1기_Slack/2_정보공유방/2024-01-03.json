@@ -1,0 +1,81 @@
+[
+    {
+        "user": "U065TBUL5EE",
+        "type": "message",
+        "ts": "1704350457.617639",
+        "client_msg_id": "bcf80441-fb25-4a77-92d6-c6523f203ba5",
+        "text": "오픈 채팅방 이전 공지 2024\n\n안녕하세요 캐글 코리아 여러분\n커뮤니티 오픈 채팅방 리프레시를 위해 올해도 채팅방 이전을 진행하려고 합니다.\n기존 채팅방은 자료 아카이빙을 위해 삭제처리는 하지 않을 예정입니다.\n실제로 활동하는 분들을 모으기 위한 작업이니 불편하시겠지만,\n새로운 채팅방 입장 후 활동해주시면 감사하겠습니다.\n\n<https:\/\/open.kakao.com\/o\/gVTh3G1f>",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "34f110a5edc4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-11-14\/6197301711475_34f110a5edc435398e63_72.png",
+            "first_name": "김용담",
+            "real_name": "김용담",
+            "display_name": "김용담 강사",
+            "team": "T05UGFFGL07",
+            "name": "codingiscoffee",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/iopen.kakaocdn.net\/img\/og\/v2\/ko_scrap_sv_002.png",
+                "image_width": 800,
+                "image_height": 400,
+                "image_bytes": 97327,
+                "from_url": "https:\/\/open.kakao.com\/o\/gVTh3G1f",
+                "service_icon": "https:\/\/iopen.kakaocdn.net\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/open.kakao.com\/o\/gVTh3G1f",
+                "fallback": "캐글코리아 오픈채팅방 2024",
+                "title": "캐글코리아 오픈채팅방 2024",
+                "title_link": "https:\/\/open.kakao.com\/o\/gVTh3G1f",
+                "service_name": "open.kakao.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "djDc7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "오픈 채팅방 이전 공지 2024\n\n안녕하세요 캐글 코리아 여러분\n커뮤니티 오픈 채팅방 리프레시를 위해 올해도 채팅방 이전을 진행하려고 합니다.\n기존 채팅방은 자료 아카이빙을 위해 삭제처리는 하지 않을 예정입니다.\n실제로 활동하는 분들을 모으기 위한 작업이니 불편하시겠지만,\n새로운 채팅방 입장 후 활동해주시면 감사하겠습니다.\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/open.kakao.com\/o\/gVTh3G1f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U05V9N22ZUK",
+                    "U05UN5DQ423",
+                    "U05V9LP47V0",
+                    "U05VBQMH3D3",
+                    "U0600GGHJTC",
+                    "U05UW1S4KQE"
+                ],
+                "count": 6
+            },
+            {
+                "name": "raised_hands::skin-tone-2",
+                "users": [
+                    "U05V2HL22M9"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

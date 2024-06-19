@@ -1,0 +1,138 @@
+[
+    {
+        "user": "U05VAHXECP6",
+        "type": "message",
+        "ts": "1708395996.619099",
+        "client_msg_id": "5f208bb5-72ff-4c46-a4cd-9f383fdbfb2f",
+        "text": "<!channel>\n안녕하세요. Upstage AI Lab 수강생 여러분!\n현재 보다 쾌적한 환경에서 강의장을 이용하실 수 있도록 공기질 측정을 진행하고 있습니다.\n따라서, 아래 기간에 강의장 이용 시 `공기질 측정 장비`를 유의하셔서 이용 부탁 드리겠습니다.\n\n&gt; *오프라인 강의장 사용 유의사항 안내*\n• 유의 사항\n    ◦ 아래 장소에 설치된 `공기질 측정 장비`를 유의해서 이용해주세요.\n• 설치 위치 : 11층 탕비실 , 11층 E강의실\n• 유의 기간 : ~2\/22(목)",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "50abee101814",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-11\/6044824153712_50abee1018149e21919b_72.jpg",
+            "first_name": "이상영",
+            "real_name": "이상영",
+            "display_name": "FC 이상영 매니저",
+            "team": "T05UGFFGL07",
+            "name": "sangyeong.lee",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aKBSt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n안녕하세요. Upstage AI Lab 수강생 여러분!\n현재 보다 쾌적한 환경에서 강의장을 이용하실 수 있도록 공기질 측정을 진행하고 있습니다.\n따라서, 아래 기간에 강의장 이용 시 "
+                            },
+                            {
+                                "type": "text",
+                                "text": "공기질 측정 장비",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "를 유의하셔서 이용 부탁 드리겠습니다.\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "오프라인 강의장 사용 유의사항 안내",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "유의 사항"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "아래 장소에 설치된 "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "공기질 측정 장비",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "를 유의해서 이용해주세요."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "설치 위치 : 11층 탕비실 , 11층 E강의실"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "유의 기간 : ~2\/22(목)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ]
+    }
+]

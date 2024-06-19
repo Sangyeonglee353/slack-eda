@@ -1,0 +1,179 @@
+[
+    {
+        "text": "<@U05UT0JG4BZ> 안녕하세요 행정매니저입니다\n\n⑫학습근로자 서명 부분 재작성 요청으로 말씀드립니다\n• 타이핑x\n• 반듯하게 본인 성함 자필로 작성해주세요\n    ◦ 이외 내용은 반려될 수 있습니다\n내용 확인하여 구글폼 설문 작성 다시 부탁드립니다\n감사합니다!",
+        "files": [
+            {
+                "id": "F06PJ4V5K8C",
+                "created": 1710383405,
+                "timestamp": 1710383405,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U05V81G5ZDY",
+                "user_team": "T05UGFFGL07",
+                "editable": false,
+                "size": 6893,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F06PJ4V5K8C\/image.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F06PJ4V5K8C\/download\/image.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06PJ4V5K8C-5b5ea6df98\/image_64.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06PJ4V5K8C-5b5ea6df98\/image_80.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06PJ4V5K8C-5b5ea6df98\/image_360.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_360_w": 164,
+                "thumb_360_h": 212,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06PJ4V5K8C-5b5ea6df98\/image_160.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "original_w": 164,
+                "original_h": 212,
+                "thumb_tiny": "AwAwACW8cgkKpOPel5zjYevrUg6U3ndu3celADV9WGOvel3J\/e\/WlIBOD0IpAF3bdvbrQA8DA4ooooAaxATnpTC0ewrzipP4emabk7gCnHrQA4DBAHYUHdkYxjvR\/EPpSBfnLZ6jGKAHUUUUAMY4AwBSg5dlIHHSmOpbG1sY9qAg5LEsT7UAOJHUDOAelIXIGTGadkAjA7elLke\/5UALRQDmigD\/2Q==",
+                "permalink": "https:\/\/fcupstageai1.slack.com\/files\/U05V81G5ZDY\/F06PJ4V5K8C\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T05UGFFGL07-F06PJ4V5K8C-120885357d",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U05V81G5ZDY",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hbRWZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05UT0JG4BZ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 안녕하세요 행정매니저입니다\n\n⑫학습근로자 서명 부분 재작성 요청으로 말씀드립니다\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "타이핑x"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "반듯하게 본인 성함 자필로 작성해주세요"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "이외 내용은 반려될 수 있습니다"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n내용 확인하여 구글폼 설문 작성 다시 부탁드립니다\n감사합니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1710383466.278649",
+        "client_msg_id": "9af5cee0-01d1-4dd9-a054-6ea04afe6fa8",
+        "thread_ts": "1710119367.157499",
+        "parent_user_id": "U05UT0JG4BZ"
+    },
+    {
+        "user": "U05UT0JG4BZ",
+        "type": "message",
+        "ts": "1710394639.824429",
+        "client_msg_id": "6dda5a68-bf09-4edf-80ef-e32fc83f7380",
+        "text": "<@U05V81G5ZDY> 구글 폼으로 다시 제출했습니다!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "g9153b403f05",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/9153b403f05c51f82cac8dec3d6d8e3a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "김다운",
+            "real_name": "김다운",
+            "display_name": "김다운",
+            "team": "T05UGFFGL07",
+            "name": "ekdns7500",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1710119367.157499",
+        "parent_user_id": "U05UT0JG4BZ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QaXQT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05V81G5ZDY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 구글 폼으로 다시 제출했습니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1::skin-tone-2",
+                "users": [
+                    "U05V81G5ZDY"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

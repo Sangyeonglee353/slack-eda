@@ -1,0 +1,161 @@
+[
+    {
+        "user": "U05UWVA90H4",
+        "type": "message",
+        "ts": "1701854362.659779",
+        "edited": {
+            "user": "U05UWVA90H4",
+            "ts": "1701854375.000000"
+        },
+        "client_msg_id": "868d40d1-d30b-4cdc-a9f7-58667dbf3c0c",
+        "text": "<@U05VADPQPCL>\n안녕하세요 LM님~ ML 프로젝트 진행중인데\n혹시 여기 드라이브 저희 조 폴더 만들어서 팀원들끼리 공유해도 되나요..?\n\n<https:\/\/drive.google.com\/drive\/folders\/1lwsyXuPDBVaTIWF0TqwbqtKC9TATD7Aa>",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "e039a582c034",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5983012631430_e039a582c03450d83dc6_72.png",
+            "first_name": "이준형",
+            "real_name": "이준형",
+            "display_name": "이준형",
+            "team": "T05UGFFGL07",
+            "name": "hewberryd8",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1701854362.659779",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1701854408.374929",
+        "reply_users": [
+            "U05VADPQPCL",
+            "U05UWVA90H4"
+        ],
+        "replies": [
+            {
+                "user": "U05VADPQPCL",
+                "ts": "1701854398.499569"
+            },
+            {
+                "user": "U05UWVA90H4",
+                "ts": "1701854408.374929"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WiUc8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05VADPQPCL"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n안녕하세요 LM님~ ML 프로젝트 진행중인데\n혹시 여기 드라이브 저희 조 폴더 만들어서 팀원들끼리 공유해도 되나요..?\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/drive.google.com\/drive\/folders\/1lwsyXuPDBVaTIWF0TqwbqtKC9TATD7Aa"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05VADPQPCL",
+        "type": "message",
+        "ts": "1701854398.499569",
+        "client_msg_id": "8297eb56-3e2f-43b8-8f16-b7162c817149",
+        "text": "안녕하세요 준형님!\n얼마든지 공유용으로 사용하셔도 됩니다!\n그러려고 만든 폴더입니다!!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "07e7ca00b8f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5991092857253_07e7ca00b8f0d0b13ba1_72.png",
+            "first_name": "패스트캠퍼스박기준",
+            "real_name": "패스트캠퍼스박기준",
+            "display_name": "LM 박기준",
+            "team": "T05UGFFGL07",
+            "name": "pgj.fc.career",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1701854362.659779",
+        "parent_user_id": "U05UWVA90H4",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oERTF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "안녕하세요 준형님!\n얼마든지 공유용으로 사용하셔도 됩니다!\n그러려고 만든 폴더입니다!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05UWVA90H4",
+        "type": "message",
+        "ts": "1701854408.374929",
+        "client_msg_id": "f54e392e-f0de-4f87-aa40-ae7e3262f791",
+        "text": "오호 네네 감사합니다 ㅎㅎ",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "e039a582c034",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5983012631430_e039a582c03450d83dc6_72.png",
+            "first_name": "이준형",
+            "real_name": "이준형",
+            "display_name": "이준형",
+            "team": "T05UGFFGL07",
+            "name": "hewberryd8",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1701854362.659779",
+        "parent_user_id": "U05UWVA90H4",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fH1fq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "오호 네네 감사합니다 ㅎㅎ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U05VADPQPCL"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

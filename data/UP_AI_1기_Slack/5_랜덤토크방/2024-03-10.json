@@ -1,0 +1,42 @@
+[
+    {
+        "user": "U05VADPQPCL",
+        "type": "message",
+        "ts": "1710117275.778619",
+        "client_msg_id": "c8800588-9cf0-4e4a-b712-3aff36231307",
+        "text": "테이블탑 재밌는데 ㅠㅠㅠ 제가 이 글을 이제봤네요 ㅠㅠ!! 나중에 기회가 된다면 저도 같이 참여하겠습니다 ㅎㅎㅎㅎ",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "07e7ca00b8f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5991092857253_07e7ca00b8f0d0b13ba1_72.png",
+            "first_name": "패스트캠퍼스박기준",
+            "real_name": "패스트캠퍼스박기준",
+            "display_name": "LM 박기준",
+            "team": "T05UGFFGL07",
+            "name": "pgj.fc.career",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1709906358.183129",
+        "parent_user_id": "U05VBQMH3D3",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "odayL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "테이블탑 재밌는데 ㅠㅠㅠ 제가 이 글을 이제봤네요 ㅠㅠ!! 나중에 기회가 된다면 저도 같이 참여하겠습니다 ㅎㅎㅎㅎ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

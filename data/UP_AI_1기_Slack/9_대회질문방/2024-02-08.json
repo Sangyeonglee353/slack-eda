@@ -1,0 +1,168 @@
+[
+    {
+        "user": "U0600GGHJTC",
+        "type": "message",
+        "ts": "1707382098.021739",
+        "client_msg_id": "fd22cba9-5ac6-4acd-8965-635466253b4a",
+        "text": "<@U0608EG7YEA> 서버 사용도중 제가 서버를 삭제하지 않았음에도 불구하고 서버가 삭제되는 문제가 발생했습니다. 따로 폴더 백업을 진행하지 않아 제가 파일을 찾을 수 있는 방법이 없는데 혹시 따로 로그가 있거나 삭제된 서버를 복구 할 방법이 있을까요?",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "561da967acdc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/6000560676530_561da967acdc677d2136_72.png",
+            "first_name": "신동혁",
+            "real_name": "신동혁",
+            "display_name": "신동혁",
+            "team": "T05UGFFGL07",
+            "name": "kn7137",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1707382098.021739",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1707382996.501689",
+        "reply_users": [
+            "U0608EG7YEA",
+            "U0600GGHJTC"
+        ],
+        "replies": [
+            {
+                "user": "U0608EG7YEA",
+                "ts": "1707382364.605389"
+            },
+            {
+                "user": "U0600GGHJTC",
+                "ts": "1707382996.501689"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Li6w7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0608EG7YEA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 서버 사용도중 제가 서버를 삭제하지 않았음에도 불구하고 서버가 삭제되는 문제가 발생했습니다. 따로 폴더 백업을 진행하지 않아 제가 파일을 찾을 수 있는 방법이 없는데 혹시 따로 로그가 있거나 삭제된 서버를 복구 할 방법이 있을까요?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0608EG7YEA",
+        "type": "message",
+        "ts": "1707382364.605389",
+        "client_msg_id": "1168ec1a-4eb1-49e2-a88a-6a58d5468574",
+        "text": "안녕하세요, 대회 이슈 문의 게시판에 한 번 글 작성하셔서 문의 해주세요! 아마 높은 확률로 디스크 저장공간이 부족하여 서버가 내려가지 않았을까 싶습니다 :smiling_face_with_tear: 저장공간이 사유인지는 정확하지는 않으나 이 부분 반드시 유의해서 서버 사용 부탁드려요~ (그리고 서버 사용시 백업은 상시 진행하셔야 합니다..)",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "542e7e1dec67",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-12\/6028220315186_542e7e1dec6721784df9_72.png",
+            "first_name": "업스테이지",
+            "real_name": "업스테이지 크리스",
+            "display_name": "업스테이지 크리스",
+            "team": "T05UGFFGL07",
+            "name": "chris",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1707382098.021739",
+        "parent_user_id": "U0600GGHJTC",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PEITO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "안녕하세요, 대회 이슈 문의 게시판에 한 번 글 작성하셔서 문의 해주세요! 아마 높은 확률로 디스크 저장공간이 부족하여 서버가 내려가지 않았을까 싶습니다 "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smiling_face_with_tear",
+                                "unicode": "1f972"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 저장공간이 사유인지는 정확하지는 않으나 이 부분 반드시 유의해서 서버 사용 부탁드려요~ (그리고 서버 사용시 백업은 상시 진행하셔야 합니다..)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0600GGHJTC",
+        "type": "message",
+        "ts": "1707382996.501689",
+        "client_msg_id": "65670ba9-faee-4ad3-bdc1-8e28735fa2ca",
+        "text": "빠른 답변 감사합니다.\n해당 문제는 플랫폼 이슈 문의에 게시글 작성 완료하였습니다.\n앞으로는 이런 일이 발생하지 않도록 유의하겠습니다. 감사합니다.\n\n[*삭제된 서버 복구 관련 문의]*\n<https:\/\/next.stages.ai\/competitions\/284\/discussion\/378\/post\/2602>",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "561da967acdc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/6000560676530_561da967acdc677d2136_72.png",
+            "first_name": "신동혁",
+            "real_name": "신동혁",
+            "display_name": "신동혁",
+            "team": "T05UGFFGL07",
+            "name": "kn7137",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1707382098.021739",
+        "parent_user_id": "U0600GGHJTC",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TzXNb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "빠른 답변 감사합니다.\n해당 문제는 플랫폼 이슈 문의에 게시글 작성 완료하였습니다.\n앞으로는 이런 일이 발생하지 않도록 유의하겠습니다. 감사합니다.\n\n["
+                            },
+                            {
+                                "type": "text",
+                                "text": "삭제된 서버 복구 관련 문의]",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/next.stages.ai\/competitions\/284\/discussion\/378\/post\/2602"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,302 @@
+[
+    {
+        "user": "U05VAHXECP6",
+        "type": "message",
+        "ts": "1699862195.247669",
+        "client_msg_id": "4b7f3dcc-b72d-484d-98d3-3b296c752fa9",
+        "text": "<!here>\n안녕하세요. Upstage AI Lab 수강생 여러분!\n활기찬 월요일 보내고 계신가요. 날씨가 춥습니다. 다들 감기 조심하세요. :mask:\nPython EDA 프로젝트 이후 일정 사전 공지 드립니다.\n• 11\/16(목)\n    ◦ 10:00~12:00 \/ 피어세션\n    ◦ 13:00~14:00 \/ 온라인 강의(CLI &amp; Git)\n    ◦ 14:00~17:00 \/ 온라인 강의(CLI &amp; Git)\n    ◦ 17:00~19:00 \/ 커리어캠프 OT(이여진 컨설턴트님)\n• 11\/17(금)\n    ◦ 10:00~19:00 \/ Git 실시간 강의(최우영 강사님)\n이번 주 금요일 출강 예정이신 *최우영 강사님*께서 원활한 수업 진행을 위해 아래와 같은 사항을 요청 주셨습니다.\n```1. github 계정 및 git 사용환경 구비(<https:\/\/gitforwindows.org> for windows, Installed git for MacOS, Linux)\n2. CLI의 능숙한 활용(Shell command, Vim command(파일열기, 수정, 저장 및 종료))\n3. git add, commit, push```\n*마지막 3시간 동안은 랜덤 배정된 팀으로 Git Flow를 활용한 협업을 실습*해 볼 예정이니\n목요일에 미리미리 준비 부탁 드립니다. 셋팅 방법은 11\/16(목) 온라인 강의를 참고해주세요.\n(현재, CLI &amp; Git 온라인 강의와 관련하여 온라인 수강 강의 안내 시트도 모두 업데이트 해두었습니다.)\n&gt; *온라인 강의 수강 안내(업데이트)*\n• <https:\/\/docs.google.com\/spreadsheets\/d\/1ypFcX5rHBUsAoYDUN3TmQClpGnR8wyoaUnBoV4hrZ-4\/edit#gid=1411268856|CLI>\n• <https:\/\/docs.google.com\/spreadsheets\/d\/1ypFcX5rHBUsAoYDUN3TmQClpGnR8wyoaUnBoV4hrZ-4\/edit#gid=2089008824|Git>\n환경 셋팅이 어려우신 분은 `LM` 에게  도움 요청 주세요.\n감사합니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "50abee101814",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-11\/6044824153712_50abee1018149e21919b_72.jpg",
+            "first_name": "이상영",
+            "real_name": "이상영",
+            "display_name": "FC 이상영 매니저",
+            "team": "T05UGFFGL07",
+            "name": "sangyeong.lee",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/gitforwindows.org\/",
+                "id": 1,
+                "original_url": "https:\/\/gitforwindows.org",
+                "fallback": "Git for Windows",
+                "text": "We bring the awesome Git VCS to Windows",
+                "title": "Git for Windows",
+                "title_link": "https:\/\/gitforwindows.org\/",
+                "service_name": "gitforwindows.org"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "O++Mw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n안녕하세요. Upstage AI Lab 수강생 여러분!\n활기찬 월요일 보내고 계신가요. 날씨가 춥습니다. 다들 감기 조심하세요. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "mask",
+                                "unicode": "1f637"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nPython EDA 프로젝트 이후 일정 사전 공지 드립니다.\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "11\/16(목)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "10:00~12:00 \/ 피어세션"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "13:00~14:00 \/ 온라인 강의(CLI & Git)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "14:00~17:00 \/ 온라인 강의(CLI & Git)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "17:00~19:00 \/ 커리어캠프 OT(이여진 컨설턴트님)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "11\/17(금)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "10:00~19:00 \/ Git 실시간 강의(최우영 강사님)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n이번 주 금요일 출강 예정이신"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 최우영 강사님",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "께서 원활한 수업 진행을 위해 아래와 같은 사항을 요청 주셨습니다.\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "1. github 계정 및 git 사용환경 구비("
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/gitforwindows.org"
+                            },
+                            {
+                                "type": "text",
+                                "text": " for windows, Installed git for MacOS, Linux)\n2. CLI의 능숙한 활용(Shell command, Vim command(파일열기, 수정, 저장 및 종료))\n3. git add, commit, push"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "마지막 3시간 동안은 랜덤 배정된 팀으로 Git Flow를 활용한 협업을 실습",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "해 볼 예정이니\n목요일에 미리미리 준비 부탁 드립니다. 셋팅 방법은 11\/16(목) 온라인 강의를 참고해주세요.\n(현재, CLI & Git 온라인 강의와 관련하여 온라인 수강 강의 안내 시트도 모두 업데이트 해두었습니다.)\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "온라인 강의 수강 안내(업데이트)",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/docs.google.com\/spreadsheets\/d\/1ypFcX5rHBUsAoYDUN3TmQClpGnR8wyoaUnBoV4hrZ-4\/edit#gid=1411268856",
+                                        "text": "CLI"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/docs.google.com\/spreadsheets\/d\/1ypFcX5rHBUsAoYDUN3TmQClpGnR8wyoaUnBoV4hrZ-4\/edit#gid=2089008824",
+                                        "text": "Git"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "환경 셋팅이 어려우신 분은 "
+                            },
+                            {
+                                "type": "text",
+                                "text": "LM",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " 에게  도움 요청 주세요.\n감사합니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U05UWVA90H4",
+                    "U05V379NETU",
+                    "U05V7H78DUM",
+                    "U060LG0BT89",
+                    "U05V5B27DK7",
+                    "U05UNMQ4LP9",
+                    "U05V2T62KUJ",
+                    "U0600GGHJTC",
+                    "U05UN6NTN8P",
+                    "U05V2HL22M9",
+                    "U0602CFAB7B",
+                    "U05UZLEM04V"
+                ],
+                "count": 12
+            },
+            {
+                "name": "saluting_face",
+                "users": [
+                    "U06061L4S64",
+                    "U060LG0BT89"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

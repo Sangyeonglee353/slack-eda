@@ -1,0 +1,68 @@
+[
+    {
+        "user": "U05V7H78DUM",
+        "type": "message",
+        "ts": "1714716767.535169",
+        "client_msg_id": "c8a7bbf8-66f9-4d40-9af1-aa723e693c78",
+        "text": "<@U05V81G5ZDY> <@U05UNC6FNK1>\n매니저님 안녕하세요.\n오전에 면접을 다녀왔는데 (11시~1시) 이부분에 대해 외출처리를 하지 못해 외출처리 부탁드리고자 요청 남깁니다. 감사합니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "5ea65e4bfd4e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-12\/6024317246501_5ea65e4bfd4e925e65f9_72.png",
+            "first_name": "조예람",
+            "real_name": "조예람",
+            "display_name": "",
+            "team": "T05UGFFGL07",
+            "name": "dpfka4616",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vvYBj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05V81G5ZDY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05UNC6FNK1"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n매니저님 안녕하세요.\n오전에 면접을 다녀왔는데 (11시~1시) 이부분에 대해 외출처리를 하지 못해 외출처리 부탁드리고자 요청 남깁니다. 감사합니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "U05V81G5ZDY"
+                ],
+                "count": 1
+            },
+            {
+                "name": "necktie",
+                "users": [
+                    "U05V81G5ZDY"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

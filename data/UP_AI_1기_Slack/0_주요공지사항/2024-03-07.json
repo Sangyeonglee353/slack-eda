@@ -1,0 +1,794 @@
+[
+    {
+        "user": "U05VADPQPCL",
+        "type": "message",
+        "ts": "1709859601.086499",
+        "client_msg_id": "01854cc3-0f66-495e-9f6d-96b14b4f324f",
+        "text": "*<!channel>*\n*AI Stages 팀 생성 및 NLP 경진대회 Github Classroom Repo 안내*\n\n안녕하세요 Upstage AI Lab 1기 수강생 여러분!\n금일부터 NLP 경진대회가 시작될 예정입니다.\n이전에 진행했던 경진대회와 같은 Github Classroom을 사용할 예정이니\n아래 내용과 <https:\/\/fcupstageai1.slack.com\/archives\/C05UU79AD4M\/p1705028023285179|Github Classroom 공지> 확인하시고 가입 진행 부탁 드립니다.\n\n&gt; *AI Stages NLP 경진대회 참여 및 팀 생성*\n• <https:\/\/next.stages.ai\/competitions\/289\/overview\/description|AI Stages NLP 경진대회 홈페이지>\n    ◦ 위 링크에 접속하셔서 대회 참여 눌러주시길 바랍니다.\n• *프로젝트 전체 기간 (2주)* : 3월 8일 (금) 10:00 ~ 3월 20일 (수) 19:00\n• *팀 병합 가능 기간 : 3월 9일 (토) 16:00 까지*\n    ◦ 팀명 컨벤션 : _'NLP' (팀 번호)조 \/ ex) NLP 1조, NLP 2조_\n• *GPU 서버 운영 기간* : 3월 8일 (금) 10:00 ~ 4월 5일 (금) 16:00\n    ◦ 운영 마감 시 서버는 자동으로 회수 됩니다. 회수 되기 전 서버 내 작업 물은 반드시 백업해주시길 바랍니다.\n&gt; *Github Classroom 가입*\n• <https:\/\/classroom.github.com\/a\/hm5nZYSf|Github Classroom 가입 링크>\n• 팀 생성하실 때는 각 팀장님이 먼저 생성해주신 후 팀원 분들이 합류해주시길 바랍니다.\n• *Repo 생성 및 가입 기한 : 3월 11일 (월) 11시까지*\n    ◦ 팀명 컨벤션 :  nlp(팀 번호) \/ _ex) nlp1, nlp8_\n• Github Repo Public 전환 시간 : 3월 20일 (수) 19:00\n*각 팀의 팀장님들은 AI Stages 팀 생성 후 팀원 초대 및 Github Classroom Repo 생성 부탁 드립니다.*\n*각 팀의 팀원분들은 AI Stages 팀 초대 수락 및 Github Classroom Repo 가입 부탁 드립니다.*",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "07e7ca00b8f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5991092857253_07e7ca00b8f0d0b13ba1_72.png",
+            "first_name": "패스트캠퍼스박기준",
+            "real_name": "패스트캠퍼스박기준",
+            "display_name": "LM 박기준",
+            "team": "T05UGFFGL07",
+            "name": "pgj.fc.career",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nZ19k",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "AI Stages 팀 생성 및 NLP 경진대회 Github Classroom Repo 안내",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n안녕하세요 Upstage AI Lab 1기 수강생 여러분!\n금일부터 NLP 경진대회가 시작될 예정입니다.\n이전에 진행했던 경진대회와 같은 Github Classroom을 사용할 예정이니\n아래 내용과 "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/fcupstageai1.slack.com\/archives\/C05UU79AD4M\/p1705028023285179",
+                                "text": "Github Classroom 공지"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 확인하시고 가입 진행 부탁 드립니다.\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "AI Stages NLP 경진대회 참여 및 팀 생성",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/next.stages.ai\/competitions\/289\/overview\/description",
+                                        "text": "AI Stages NLP 경진대회 홈페이지"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "위 링크에 접속하셔서 대회 참여 눌러주시길 바랍니다."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "프로젝트 전체 기간 (2주)",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " : 3월 8일 (금) 10:00 ~ 3월 20일 (수) 19:00"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "팀 병합 가능 기간 : 3월 9일 (토) 16:00 까지",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "팀명 컨벤션 : "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "'NLP' (팀 번호)조 \/ ex) NLP 1조, NLP 2조",
+                                        "style": {
+                                            "italic": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "GPU 서버 운영 기간",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " : 3월 8일 (금) 10:00 ~ 4월 5일 (금) 16:00"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "운영 마감 시 서버는 자동으로 회수 됩니다. 회수 되기 전 서버 내 작업 물은 반드시 백업해주시길 바랍니다."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Github Classroom 가입",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/classroom.github.com\/a\/hm5nZYSf",
+                                        "text": "Github Classroom 가입 링크"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "팀 생성하실 때는 각 팀장님이 먼저 생성해주신 후 팀원 분들이 합류해주시길 바랍니다."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Repo 생성 및 가입 기한 : 3월 11일 (월) 11시까지",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "팀명 컨벤션 :  nlp(팀 번호) \/ "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "ex) nlp1, nlp8",
+                                        "style": {
+                                            "italic": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Github Repo Public 전환 시간 : 3월 20일 (수) 19:00"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "각 팀의 팀장님들은 AI Stages 팀 생성 후 팀원 초대 및 Github Classroom Repo 생성 부탁 드립니다.",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "각 팀의 팀원분들은 AI Stages 팀 초대 수락 및 Github Classroom Repo 가입 부탁 드립니다.",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05VADPQPCL",
+        "type": "message",
+        "ts": "1709859941.570169",
+        "client_msg_id": "ee9187d9-1142-4b9f-9a6b-dff6589c5c5c",
+        "text": "<!channel>\n&gt; :crown: *Upstage NLP 경진 대회 인사이트 공유 이벤트* :crown:\n안녕하세요 Upstage AI Lab 1기 수강생 여러분!\nML 경진대회 때 진행했던 인사이트 공유 이벤트에 대해서 계속해서 진행해줬으면 좋겠다는 의견이 있어,\nNLP 경진대회에서도 해당 이벤트를 진행해보고자 합니다.\n여러분들께서 좋은 인사이트 공유해주시면서 다 함께 성장할 수 있는 기회가 되었는데요.\n이번에도 다양한 인사이트 공유 기다리고 있겠습니다.\n\n미국 행동 과학 연구소에서 행했던 '학습 효율성 피라미드' 연구에 따르면,\n공부 방법에 따라 학습한 내용이 실제 기억으로 전환되는 비율도 차이가 있다고 합니다.\n\n단순히 강의 듣기(5%), 책 읽기(10%), 시청각 수업(20%) 밖에 되지 않았는데요.\n가장 효율이 높은 것은 무엇이었을까요? 바로 가르쳐보기(90%)였습니다.\n\n이처럼 이 기회를 통해 여러분도 인공지능을 자신의 것으로 만드는 시간이 되셨으면 좋겠습니다.\n\n• *이벤트 목적*\n    ◦ 코드, EDA, 인사이트, 디스커션 등 경진 대회 공유 문화 활성화\n    ◦ 개발자 글쓰기 능력 촉진\n    ◦ 공유를 통한 동료 학습 촉진\n• *이벤트 참여 방법*\n    ◦  <https:\/\/next.stages.ai\/competitions\/289\/discussion\/391?selectedSort=0&amp;page=1|AI Stages NLP 경진대회 커뮤니티 게시판>에 코드, EDA, 인사이트 등 게시글 작성하여 공유\n    ◦ 게시글 작성 후 #5_랜덤토크방에 해당 게시글 공유\n    ◦ 아래 이미지 참고 부탁 드립니다.\n• *이벤트 기간*\n    ◦ 3월 20일 수요일 19시 대회 마감까지\n• *수상*\n    ◦ *공유왕 (2명)*\n        ▪︎ <https:\/\/next.stages.ai\/competitions\/289\/discussion\/391?selectedSort=0&amp;page=1|AI Stages NLP 경진대회 커뮤니티 게시판>에 가장 많은 게시글을 공유한 2인\n    ◦ *인사이트왕 (2명)*\n        ▪︎ <https:\/\/next.stages.ai\/competitions\/276\/discussion\/373?selectedSort=0&amp;page=1|AI Stages NLP 경진대회 커뮤니티 게시판>에 쓴 게시글 중 가장 많은 하트(Up)를 받은 2인\n• *상품*\n    ◦ 기프티콘 (추후 공개)\n• *참고 문헌*\n    ◦ <https:\/\/next.stages.ai\/competitions\/276\/discussion\/373\/post\/2474|캐글의 공유 문화(Feat. 업스테이지 캐글 그랜드마스터 김상훈)>\n• *참고 사항*\n    ◦ 참여자가 많을 시 수상 인원이 증가 될 수도 있습니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "07e7ca00b8f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5991092857253_07e7ca00b8f0d0b13ba1_72.png",
+            "first_name": "패스트캠퍼스박기준",
+            "real_name": "패스트캠퍼스박기준",
+            "display_name": "LM 박기준",
+            "team": "T05UGFFGL07",
+            "name": "pgj.fc.career",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BhOQ3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "crown",
+                                "unicode": "1f451",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " Upstage NLP 경진 대회 인사이트 공유 이벤트 ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "crown",
+                                "unicode": "1f451",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "안녕하세요 Upstage AI Lab 1기 수강생 여러분!\nML 경진대회 때 진행했던 인사이트 공유 이벤트에 대해서 계속해서 진행해줬으면 좋겠다는 의견이 있어,\nNLP 경진대회에서도 해당 이벤트를 진행해보고자 합니다.\n여러분들께서 좋은 인사이트 공유해주시면서 다 함께 성장할 수 있는 기회가 되었는데요.\n이번에도 다양한 인사이트 공유 기다리고 있겠습니다.\n\n미국 행동 과학 연구소에서 행했던 '학습 효율성 피라미드' 연구에 따르면,\n공부 방법에 따라 학습한 내용이 실제 기억으로 전환되는 비율도 차이가 있다고 합니다.\n\n단순히 강의 듣기(5%), 책 읽기(10%), 시청각 수업(20%) 밖에 되지 않았는데요.\n가장 효율이 높은 것은 무엇이었을까요? 바로 가르쳐보기(90%)였습니다.\n\n이처럼 이 기회를 통해 여러분도 인공지능을 자신의 것으로 만드는 시간이 되셨으면 좋겠습니다.\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "이벤트 목적",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "코드, EDA, 인사이트, 디스커션 등 경진 대회 공유 문화 활성화"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "개발자 글쓰기 능력 촉진"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "공유를 통한 동료 학습 촉진"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "이벤트 참여 방법",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/next.stages.ai\/competitions\/289\/discussion\/391?selectedSort=0&page=1",
+                                        "text": "AI Stages NLP 경진대회 커뮤니티 게시판"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "에 코드, EDA, 인사이트 등 게시글 작성하여 공유"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "게시글 작성 후 #5_랜덤토크방에 해당 게시글 공유"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "아래 이미지 참고 부탁 드립니다."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "이벤트 기간",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "3월 20일 수요일 19시 대회 마감까지"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "수상",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "공유왕 (2명)",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/next.stages.ai\/competitions\/289\/discussion\/391?selectedSort=0&page=1",
+                                        "text": "AI Stages NLP 경진대회 커뮤니티 게시판"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "에 가장 많은 게시글을 공유한 2인"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 2,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "인사이트왕 (2명)",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/next.stages.ai\/competitions\/276\/discussion\/373?selectedSort=0&page=1",
+                                        "text": "AI Stages NLP 경진대회 커뮤니티 게시판"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "에 쓴 게시글 중 가장 많은 하트(Up)를 받은 2인"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 2,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "상품",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "기프티콘 (추후 공개)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "참고 문헌",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/next.stages.ai\/competitions\/276\/discussion\/373\/post\/2474",
+                                        "text": "캐글의 공유 문화(Feat. 업스테이지 캐글 그랜드마스터 김상훈)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "참고 사항",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "참여자가 많을 시 수상 인원이 증가 될 수도 있습니다."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,810 @@
+[
+    {
+        "text": "오늘 자 자료입니다",
+        "files": [
+            {
+                "id": "F061WNVMG5N",
+                "created": 1697418323,
+                "timestamp": 1697418323,
+                "name": "[Stats] 4강.pdf",
+                "title": "[Stats] 4강.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U05V87YA1CJ",
+                "user_team": "T05UGFFGL07",
+                "editable": false,
+                "size": 5932557,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F061WNVMG5N\/_stats__4_________.pdf?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F061WNVMG5N\/download\/_stats__4_________.pdf?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "media_display_type": "unknown",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F061WNVMG5N-53ae4f6046\/_stats__4__________thumb_pdf.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_pdf_w": 1100,
+                "thumb_pdf_h": 619,
+                "permalink": "https:\/\/fcupstageai1.slack.com\/files\/U05V87YA1CJ\/F061WNVMG5N\/_stats__4_________.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/T05UGFFGL07-F061WNVMG5N-ec587bbd61",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U05V87YA1CJ",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ntYin",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "오늘 자 자료입니다"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1697418327.968449",
+        "client_msg_id": "11815985-b164-4201-8b12-f6e67bee8fa9",
+        "thread_ts": "1697418327.968449",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1697436255.585599",
+        "reply_users": [
+            "U05V87YA1CJ"
+        ],
+        "replies": [
+            {
+                "user": "U05V87YA1CJ",
+                "ts": "1697436255.585599"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U05V379NETU",
+                    "U05V0106JDT",
+                    "U060LG0BT89",
+                    "U061N4T7L8G",
+                    "U0600GGHJTC",
+                    "U05UNMQ4LP9"
+                ],
+                "count": 6
+            }
+        ]
+    },
+    {
+        "user": "U05V87YA1CJ",
+        "type": "message",
+        "ts": "1697420203.268349",
+        "client_msg_id": "ee17b007-1da7-46aa-b1df-6a83b6f9d633",
+        "text": "<https:\/\/ko.khanacademy.org\/|수학 공부 사이트>",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "f846e9978d52",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/6017264684624_f846e9978d52439c35d2_72.png",
+            "first_name": "dane",
+            "real_name": "dane ahn",
+            "display_name": "dane ahn",
+            "team": "T05UGFFGL07",
+            "name": "natasma13",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/ko.khanacademy.org\/",
+                "image_url": "https:\/\/cdn.kastatic.org\/images\/khan-logo-dark-background-2.png",
+                "image_width": 1200,
+                "image_height": 630,
+                "image_bytes": 4675,
+                "service_icon": "https:\/\/cdn.kastatic.org\/images\/apple-touch-icon-57x57-precomposed.new.png",
+                "id": 1,
+                "original_url": "https:\/\/ko.khanacademy.org\/",
+                "fallback": "Khan Academy: Khan Academy | 무료 온라인 강의, 수업 및 연습문제",
+                "text": "수학, 예술, 컴퓨터 프로그래밍, 경제, 물리학, 화학, 생물학, 의학, 금융, 역사 등을 무료로 학습해 보세요. 칸아카데미는 어디에서나 누구에게나 세계 최고의 무료 교육을 제공하는 미션을 가진 비영리기관입니다.",
+                "title": "Khan Academy | 무료 온라인 강의, 수업 및 연습문제",
+                "title_link": "https:\/\/ko.khanacademy.org\/",
+                "service_name": "Khan Academy"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UfZfz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/ko.khanacademy.org\/",
+                                "text": "수학 공부 사이트"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U05V7H78DUM",
+                    "U05V379NETU",
+                    "U061N4T7L8G",
+                    "U060LG0BT89"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "user": "U060LG0BT89",
+        "type": "message",
+        "ts": "1697426862.809669",
+        "client_msg_id": "4aa29687-1768-41cd-97bd-04c38e2868bf",
+        "text": "명일 강의에서 사용하길 희망하는 데이터셋입니다.\n<https:\/\/raw.githubusercontent.com\/facebook\/prophet\/main\/examples\/example_air_passengers.csv>\n<https:\/\/raw.githubusercontent.com\/tidyverts\/tsibbledata\/master\/data-raw\/vic_elec\/VIC2015\/demand.csv>",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "g273c76b80b5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/273c76b80b5c013cab6c608d10041dd4.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "김준호",
+            "real_name": "김준호",
+            "display_name": "",
+            "team": "T05UGFFGL07",
+            "name": "demyank88",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697426862.809669",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1697428602.986019",
+        "reply_users": [
+            "U05V87YA1CJ",
+            "U060LG0BT89"
+        ],
+        "replies": [
+            {
+                "user": "U05V87YA1CJ",
+                "ts": "1697428515.677499"
+            },
+            {
+                "user": "U060LG0BT89",
+                "ts": "1697428559.841399"
+            },
+            {
+                "user": "U060LG0BT89",
+                "ts": "1697428602.986019"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AbqTW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "명일 강의에서 사용하길 희망하는 데이터셋입니다.\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/raw.githubusercontent.com\/facebook\/prophet\/main\/examples\/example_air_passengers.csv"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/raw.githubusercontent.com\/tidyverts\/tsibbledata\/master\/data-raw\/vic_elec\/VIC2015\/demand.csv"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05V87YA1CJ",
+        "type": "message",
+        "ts": "1697428515.677499",
+        "client_msg_id": "bfde4111-bf2e-4cce-a713-3a42af6607ba",
+        "text": "혹시 description 잇을까요?",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "f846e9978d52",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/6017264684624_f846e9978d52439c35d2_72.png",
+            "first_name": "dane",
+            "real_name": "dane ahn",
+            "display_name": "dane ahn",
+            "team": "T05UGFFGL07",
+            "name": "natasma13",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697426862.809669",
+        "parent_user_id": "U060LG0BT89",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "h79nj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "혹시 description 잇을까요?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U060LG0BT89",
+        "type": "message",
+        "ts": "1697428559.841399",
+        "client_msg_id": "2cc68af0-4869-47c9-a341-f17ca9c82c38",
+        "text": "```**Citation:**\n\nGodahewa, Rakshitha, Bergmeir, Christoph, Webb, Geoff, Hyndman, Rob, &amp; Montero-Manso, Pablo. (2021). Australian Electricity Demand Dataset (Version 1) [Data set]. Zenodo. <https:\/\/doi.org\/10.5281\/zenodo.4659727>\n\n**Description of data:**\n\nA description of the data can be found [here](<https:\/\/rdrr.io\/cran\/tsibbledata\/man\/vic_elec.html>). The data contains electricity demand in Victoria, Australia, at 30 minute intervals over a period of 12 years, from 2002 to early 2015. There is also the temperature in Melbourne at 30 minute intervals and public holiday dates.```\n",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "g273c76b80b5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/273c76b80b5c013cab6c608d10041dd4.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "김준호",
+            "real_name": "김준호",
+            "display_name": "",
+            "team": "T05UGFFGL07",
+            "name": "demyank88",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697426862.809669",
+        "parent_user_id": "U060LG0BT89",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PPuIp",
+                "elements": [
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "**Citation:**\n\nGodahewa, Rakshitha, Bergmeir, Christoph, Webb, Geoff, Hyndman, Rob, & Montero-Manso, Pablo. (2021). Australian Electricity Demand Dataset (Version 1) [Data set]. Zenodo. "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/doi.org\/10.5281\/zenodo.4659727"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n**Description of data:**\n\nA description of the data can be found [here]("
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/rdrr.io\/cran\/tsibbledata\/man\/vic_elec.html"
+                            },
+                            {
+                                "type": "text",
+                                "text": "). The data contains electricity demand in Victoria, Australia, at 30 minute intervals over a period of 12 years, from 2002 to early 2015. There is also the temperature in Melbourne at 30 minute intervals and public holiday dates."
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U060LG0BT89",
+        "type": "message",
+        "ts": "1697428602.986019",
+        "client_msg_id": "cb0234aa-74ab-43f7-8aee-986bf2208df9",
+        "text": "*Citation:*\nBox, G. E. P., Jenkins, G. M. and Reinsel, G. C. (1976) Time Series Analysis, Forecasting and Control. Third Edition. Holden-Day. Series G.\n*Description of data:*\nThe data is a monthly time series measuring the number of international airline passengers, in thousands, from 1949 to 1960.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "g273c76b80b5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/273c76b80b5c013cab6c608d10041dd4.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "김준호",
+            "real_name": "김준호",
+            "display_name": "",
+            "team": "T05UGFFGL07",
+            "name": "demyank88",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697426862.809669",
+        "parent_user_id": "U060LG0BT89",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qWpYE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Citation:",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nBox, G. E. P., Jenkins, G. M. and Reinsel, G. C. (1976) Time Series Analysis, Forecasting and Control. Third Edition. Holden-Day. Series G.\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Description of data:",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nThe data is a monthly time series measuring the number of international airline passengers, in thousands, from 1949 to 1960."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05V87YA1CJ",
+        "type": "message",
+        "ts": "1697435082.196929",
+        "client_msg_id": "97ddfe33-b1d5-4178-98a7-8788c922a3a5",
+        "text": "내일 할 것들\n• GLM: Logistic regression\n• K-means\n• SKlearn\n• GMM\n투표\n1. 라이브 코딩\n2. 준비된 코드",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "f846e9978d52",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/6017264684624_f846e9978d52439c35d2_72.png",
+            "first_name": "dane",
+            "real_name": "dane ahn",
+            "display_name": "dane ahn",
+            "team": "T05UGFFGL07",
+            "name": "natasma13",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697435082.196929",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1697435449.346239",
+        "reply_users": [
+            "U060H4V0Q5S"
+        ],
+        "replies": [
+            {
+                "user": "U060H4V0Q5S",
+                "ts": "1697435449.346239"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2OxuJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "내일 할 것들\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "GLM: Logistic regression"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "K-means"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "SKlearn"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "GMM"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "투표\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "라이브 코딩"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "준비된 코드"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "one",
+                "users": [
+                    "U05V87YA1CJ",
+                    "U0600C60ZK4",
+                    "U060TBSJ7DF",
+                    "U05VDDP88BW",
+                    "U0600GGHJTC",
+                    "U05V561TXUL",
+                    "U05UN7M2GKZ",
+                    "U05V5B27DK7",
+                    "U05VB5EHM7W",
+                    "U05VCCSHKHR",
+                    "U05V2T62KUJ",
+                    "U05UT0JG4BZ",
+                    "U05UVV5CVQE",
+                    "U060LG0BT89",
+                    "U05V2HL22M9",
+                    "U0606QGQYE5",
+                    "U05V379NETU",
+                    "U05UNMQ4LP9",
+                    "U05V1KVNK0E",
+                    "U0607T1SK6D",
+                    "U060BLVQYHW",
+                    "U060D1KJECR",
+                    "U05V5CQ9XAQ",
+                    "U05V7H78DUM",
+                    "U05V5H1T24V",
+                    "U0602CFAB7B",
+                    "U05UUSA6G5V",
+                    "U05V845G3SN",
+                    "U05UVE9DFSB",
+                    "U05V4KZR3NW"
+                ],
+                "count": 30
+            },
+            {
+                "name": "two",
+                "users": [
+                    "U05UWAPP5CN",
+                    "U05UN5DQ423",
+                    "U060H4V0Q5S",
+                    "U05UW1S4KQE",
+                    "U05V9LP47V0",
+                    "U05UZLEM04V",
+                    "U05VC7EEY5Q",
+                    "U05V9N22ZUK",
+                    "U05UN6NTN8P",
+                    "U060EH6HA9Z",
+                    "U05VAU596PP",
+                    "U05V7V2AV8A",
+                    "U05V87YA1CJ"
+                ],
+                "count": 13
+            }
+        ]
+    },
+    {
+        "user": "U060H4V0Q5S",
+        "type": "message",
+        "ts": "1697435449.346239",
+        "client_msg_id": "7d18c92e-098d-42db-9056-e82afdcf2233",
+        "text": "과정을 보는 것이 귀한 경험이어서 좋지만, 결과 읽는 방법은 정리된 자료로 보고 싶습니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "3d85b1738502",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-09\/6000180384871_3d85b1738502fdcd6aa2_72.png",
+            "first_name": "진성준",
+            "real_name": "진성준",
+            "display_name": "진성준",
+            "team": "T05UGFFGL07",
+            "name": "usniz300",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697435082.196929",
+        "parent_user_id": "U05V87YA1CJ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1YlAQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "과정을 보는 것이 귀한 경험이어서 좋지만, 결과 읽는 방법은 정리된 자료로 보고 싶습니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1::skin-tone-2",
+                "users": [
+                    "U05V2HL22M9"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U05V87YA1CJ",
+                    "U05V5B27DK7",
+                    "U060D1KJECR",
+                    "U05UUSA6G5V"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "text": "오늘 강의에서 사용한 노트북입니다\n혹시 이해 안가는 코드 있으면 나중에라도 질문 주셔도 좋아요~",
+        "files": [
+            {
+                "id": "F0618CH86DR",
+                "created": 1697436246,
+                "timestamp": 1697436246,
+                "name": "패스트캠퍼스X업스테이지 AI Lab Stats 4일차 (1).ipynb",
+                "title": "패스트캠퍼스X업스테이지 AI Lab Stats 4일차 (1).ipynb",
+                "mimetype": "application\/octet-stream",
+                "filetype": "binary",
+                "pretty_type": "Binary",
+                "user": "U05V87YA1CJ",
+                "user_team": "T05UGFFGL07",
+                "editable": false,
+                "size": 201561,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F0618CH86DR\/_______________________________________x__________________________________ai_lab_stats_4_________________1_.ipynb?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F0618CH86DR\/download\/_______________________________________x__________________________________ai_lab_stats_4_________________1_.ipynb?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "media_display_type": "unknown",
+                "permalink": "https:\/\/fcupstageai1.slack.com\/files\/U05V87YA1CJ\/F0618CH86DR\/_______________________________________x__________________________________ai_lab_stats_4_________________1_.ipynb",
+                "permalink_public": "https:\/\/slack-files.com\/T05UGFFGL07-F0618CH86DR-66c1e506d8",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            },
+            {
+                "id": "F0618FBTH7U",
+                "created": 1697436248,
+                "timestamp": 1697436248,
+                "name": "패스트캠퍼스X업스테이지 AI Lab Stats 4일차 (2) Log.ipynb",
+                "title": "패스트캠퍼스X업스테이지 AI Lab Stats 4일차 (2) Log.ipynb",
+                "mimetype": "application\/octet-stream",
+                "filetype": "binary",
+                "pretty_type": "Binary",
+                "user": "U05V87YA1CJ",
+                "user_team": "T05UGFFGL07",
+                "editable": false,
+                "size": 237235,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F0618FBTH7U\/_______________________________________x__________________________________ai_lab_stats_4_________________2__log.ipynb?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F0618FBTH7U\/download\/_______________________________________x__________________________________ai_lab_stats_4_________________2__log.ipynb?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "media_display_type": "unknown",
+                "permalink": "https:\/\/fcupstageai1.slack.com\/files\/U05V87YA1CJ\/F0618FBTH7U\/_______________________________________x__________________________________ai_lab_stats_4_________________2__log.ipynb",
+                "permalink_public": "https:\/\/slack-files.com\/T05UGFFGL07-F0618FBTH7U-41f140b701",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            },
+            {
+                "id": "F0618FC289G",
+                "created": 1697436251,
+                "timestamp": 1697436251,
+                "name": "패스트캠퍼스X업스테이지 AI Lab Stats 4일차 (3) Multiple.ipynb",
+                "title": "패스트캠퍼스X업스테이지 AI Lab Stats 4일차 (3) Multiple.ipynb",
+                "mimetype": "application\/octet-stream",
+                "filetype": "binary",
+                "pretty_type": "Binary",
+                "user": "U05V87YA1CJ",
+                "user_team": "T05UGFFGL07",
+                "editable": false,
+                "size": 257138,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F0618FC289G\/_______________________________________x__________________________________ai_lab_stats_4_________________3__multiple.ipynb?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F0618FC289G\/download\/_______________________________________x__________________________________ai_lab_stats_4_________________3__multiple.ipynb?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "media_display_type": "unknown",
+                "permalink": "https:\/\/fcupstageai1.slack.com\/files\/U05V87YA1CJ\/F0618FC289G\/_______________________________________x__________________________________ai_lab_stats_4_________________3__multiple.ipynb",
+                "permalink_public": "https:\/\/slack-files.com\/T05UGFFGL07-F0618FC289G-0110f5de3f",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            },
+            {
+                "id": "F061M4PTE49",
+                "created": 1697436253,
+                "timestamp": 1697436253,
+                "name": "패스트캠퍼스X업스테이지 AI Lab Stats 4일차 (4) Random Forest.ipynb",
+                "title": "패스트캠퍼스X업스테이지 AI Lab Stats 4일차 (4) Random Forest.ipynb",
+                "mimetype": "application\/octet-stream",
+                "filetype": "binary",
+                "pretty_type": "Binary",
+                "user": "U05V87YA1CJ",
+                "user_team": "T05UGFFGL07",
+                "editable": false,
+                "size": 188990,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F061M4PTE49\/_______________________________________x__________________________________ai_lab_stats_4_________________4__random_forest.ipynb?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F061M4PTE49\/download\/_______________________________________x__________________________________ai_lab_stats_4_________________4__random_forest.ipynb?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "media_display_type": "unknown",
+                "permalink": "https:\/\/fcupstageai1.slack.com\/files\/U05V87YA1CJ\/F061M4PTE49\/_______________________________________x__________________________________ai_lab_stats_4_________________4__random_forest.ipynb",
+                "permalink_public": "https:\/\/slack-files.com\/T05UGFFGL07-F061M4PTE49-d256986d0d",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U05V87YA1CJ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yBpJ5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "오늘 강의에서 사용한 노트북입니다\n혹시 이해 안가는 코드 있으면 나중에라도 질문 주셔도 좋아요~"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1697436255.585599",
+        "client_msg_id": "5e90a573-d564-444b-b4ac-87fa95582d32",
+        "thread_ts": "1697418327.968449",
+        "parent_user_id": "U05V87YA1CJ",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U060LG0BT89",
+                    "U0600GGHJTC",
+                    "U05UNMQ4LP9"
+                ],
+                "count": 3
+            },
+            {
+                "name": "bow",
+                "users": [
+                    "U060LG0BT89"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U060LG0BT89"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

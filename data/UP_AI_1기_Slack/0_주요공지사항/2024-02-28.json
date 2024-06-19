@@ -1,0 +1,573 @@
+[
+    {
+        "user": "U060C67EYQ5",
+        "type": "message",
+        "ts": "1709184075.598409",
+        "client_msg_id": "426397ae-91ec-4b12-958a-6fa7b0d06fbe",
+        "text": "<!channel>\n안녕하세요, Upstage AI Lab 수강생 여러분!\nNLP 모듈 학습은 열심히 하고 계신지요 :)\n\nMixtral, Sora, Gemma에 이어 저커버그의 한국 방문으로 주목받는 LLaMA까지. 다시 한 번 *LLM에 대한 관심*이 높아지고 있습니다.\n\n빠르게 질주하는 LLM 열차에 확실히 탑승, 최신 트렌드에 대한 이해도를 높임으로써 여러분들의 경쟁력을 한층 끌어올리기 위해 업스테이지의 개발자 분들을 모셔서 *3월 특강*을 준비하게 되었습니다.\n\n각광받는 LLM 기술의 연구와 모델 개발의 가장 최전선에 있는 강사님들로부터 LLM의 기본적인 개념과 원리를 이해하고, 실제 LLM 모델링과 성능 향상을 위한 세부 기술 방법론, 그리고 API 활용한 실습까지 경험하실 수 있습니다.\n\n&gt; • 주제: *Overview of Large Language Models*\n&gt;     ◦ 일정: 2024. 3. 7. 목요일 18:00 ~ 20:00\n&gt;     ◦ 강사: 김윤기 강사님\n&gt; • 주제: *LLM Fine-tuning 알아보기*\n&gt;     ◦ 일정: 2024. 3. 12. 화요일 18:00 ~ 20:00\n&gt;     ◦ 강사: 김다현 강사님\n&gt; • 주제: *Solar API를 활용한 합성데이터 제작 실습*\n&gt;     ◦ 일정: 2024. 3. 25. 월요일 18:00 ~ 20:00\n&gt;     ◦ 강사: 김윤기 강사님\n특별히 GPT-3.5, LlaMa2, QWEN, Mixtral 등을 모두 제치고 세계 1위의 성능을 냈던 업스테이지 LLM 모델, *Solar(솔라)*를 직접 사용해보는 실습을 준비했는데요.\nSolar API를 활용하여 LLM 기술력의 핵심이 되는 *합성 데이터*를 직접 제작해보는 실습을 핸즈온으로 진행할 예정입니다.\n\n원활한 참여를 위해 미리 아래 링크의 Upstage Console 가입하셔서 Solar API 실습을 준비해보시기 바랍니다!\n\n:arrow_right: 링크: <https:\/\/go.upstage.ai\/solar_obt_fc>",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "831ed525b276",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-11-14\/6192884585138_831ed525b276222009d0_72.png",
+            "first_name": "업스테이지",
+            "real_name": "업스테이지 김의겸(Dave)",
+            "display_name": "UP 김의겸(Dave) 매니저",
+            "team": "T05UGFFGL07",
+            "name": "euigyum",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1709184075.598409",
+        "reply_count": 6,
+        "reply_users_count": 4,
+        "latest_reply": "1711502202.220899",
+        "reply_users": [
+            "U060C67EYQ5",
+            "U05VAHXECP6",
+            "U05VADPQPCL",
+            "U05VBQMH3D3"
+        ],
+        "replies": [
+            {
+                "user": "U060C67EYQ5",
+                "ts": "1709184431.478009"
+            },
+            {
+                "user": "U05VAHXECP6",
+                "ts": "1710130641.626329"
+            },
+            {
+                "user": "U05VADPQPCL",
+                "ts": "1710319225.422679"
+            },
+            {
+                "user": "U05VADPQPCL",
+                "ts": "1711425815.037799"
+            },
+            {
+                "user": "U05VBQMH3D3",
+                "ts": "1711426129.460639"
+            },
+            {
+                "user": "U060C67EYQ5",
+                "ts": "1711502202.220899"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1711502202.220899",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+22g+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n안녕하세요, Upstage AI Lab 수강생 여러분!\nNLP 모듈 학습은 열심히 하고 계신지요 :)\n\nMixtral, Sora, Gemma에 이어 저커버그의 한국 방문으로 주목받는 LLaMA까지. 다시 한 번 "
+                            },
+                            {
+                                "type": "text",
+                                "text": "LLM에 대한 관심",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "이 높아지고 있습니다.\n\n빠르게 질주하는 LLM 열차에 확실히 탑승, 최신 트렌드에 대한 이해도를 높임으로써 여러분들의 경쟁력을 한층 끌어올리기 위해 업스테이지의 개발자 분들을 모셔서"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 3월 특강",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "을 준비하게 되었습니다.\n\n각광받는 LLM 기술의 연구와 모델 개발의 가장 최전선에 있는 강사님들로부터 LLM의 기본적인 개념과 원리를 이해하고, 실제 LLM 모델링과 성능 향상을 위한 세부 기술 방법론, 그리고 API 활용한 실습까지 경험하실 수 있습니다.\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "주제: "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "Overview of Large Language Models",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 1
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "일정: 2024. 3. 7. 목요일 18:00 ~ 20:00"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "강사: 김윤기 강사님"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 1
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "주제:"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " LLM Fine-tuning 알아보기",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 1
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "일정: 2024. 3. 12. 화요일 18:00 ~ 20:00"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "강사: 김다현 강사님"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 1
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "주제: "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "Solar API를 활용한 합성데이터 제작 실습",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 1
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "일정: 2024. 3. 25. 월요일 18:00 ~ 20:00"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "강사: 김윤기 강사님"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 1
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n특별히 GPT-3.5, LlaMa2, QWEN, Mixtral 등을 모두 제치고 세계 1위의 성능을 냈던 업스테이지 LLM 모델,"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Solar(솔라)",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "를 직접 사용해보는 실습을 준비했는데요.\nSolar API를 활용하여 LLM 기술력의 핵심이 되는 "
+                            },
+                            {
+                                "type": "text",
+                                "text": "합성 데이터",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "를 직접 제작해보는 실습을 핸즈온으로 진행할 예정입니다.\n\n원활한 참여를 위해 미리 아래 링크의 Upstage Console 가입하셔서 Solar API 실습을 준비해보시기 바랍니다!\n\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "arrow_right",
+                                "unicode": "27a1-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 링크: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/go.upstage.ai\/solar_obt_fc"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "fb-wow",
+                "users": [
+                    "U05UWVA90H4",
+                    "U060H4V0Q5S",
+                    "U05UN6NTN8P",
+                    "U0606QGQYE5",
+                    "U05V2T62KUJ",
+                    "U05V2P37518",
+                    "U05VAHXECP6",
+                    "U05V7H78DUM",
+                    "U05UNMQ4LP9",
+                    "U05UN5DQ423",
+                    "U05V4KZR3NW",
+                    "U05V9LP47V0"
+                ],
+                "count": 12
+            },
+            {
+                "name": "party_blob-1",
+                "users": [
+                    "U05UWVA90H4",
+                    "U05V2P37518",
+                    "U05VAHXECP6",
+                    "U05V4KZR3NW"
+                ],
+                "count": 4
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U05UWVA90H4",
+                    "U05V2T62KUJ",
+                    "U05V2P37518",
+                    "U05VAHXECP6",
+                    "U05V5B27DK7",
+                    "U0600GGHJTC",
+                    "U05UUUNAE5D",
+                    "U05V4KZR3NW",
+                    "U05V9N22ZUK"
+                ],
+                "count": 9
+            }
+        ]
+    },
+    {
+        "user": "U060C67EYQ5",
+        "type": "message",
+        "ts": "1709184431.478009",
+        "client_msg_id": "3520fcbc-054f-40dd-a4fd-b0aa6bff4f6c",
+        "text": "특별히, *Solar API*는 현재 3월까지 무료로 사용할 수 있습니다.\n\n여러분들이 강의 실습 뿐만 아니라 여러가지 프로젝트를 하실 때에도 이번에 공개된 Chat API 그리고 Translation API를 알차게 사용하실 수 있습니다. 특강 전에도 미리 다양한 활용을 경험하고 싶으신 분들은 적극 사용해보시면 좋을 것 같아요. :smile:\n\n• *Chat API* : 허깅페이스 1등했던 *출중한 성능*과 *2.5배 이상 빠른 속도*를 제공\n    ◦ solar-chat (4K tokens)\n• *Translation API* : 기계번역 관련 가장 공신력 있는 밴치마크인 Flores에서 *GPT4, DeepL을 제치고 1등을 달성*\n    ◦ solar-translation-enko (32K tokens) \n    ◦ solar-translation-koen (32K tokens)\n*강력한 Solar API*를 무료로 사용할 수 있는 오픈베타 기간은 *2024년 3월 31일까지* 입니다!\n\n저희는 특강에서 강사님과 함께 API 사용을 차근차근 경험해보아요!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "831ed525b276",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-11-14\/6192884585138_831ed525b276222009d0_72.png",
+            "first_name": "업스테이지",
+            "real_name": "업스테이지 김의겸(Dave)",
+            "display_name": "UP 김의겸(Dave) 매니저",
+            "team": "T05UGFFGL07",
+            "name": "euigyum",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1709184075.598409",
+        "parent_user_id": "U060C67EYQ5",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WYoIy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "특별히,"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Solar API",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "는 현재 3월까지 무료로 사용할 수 있습니다.\n\n여러분들이 강의 실습 뿐만 아니라 여러가지 프로젝트를 하실 때에도 이번에 공개된 Chat API 그리고 Translation API를 알차게 사용하실 수 있습니다. 특강 전에도 미리 다양한 활용을 경험하고 싶으신 분들은 적극 사용해보시면 좋을 것 같아요. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile",
+                                "unicode": "1f604"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Chat API",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " : 허깅페이스 1등했던 "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "출중한 성능",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "과"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " 2.5배 이상 빠른 속도",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "를 제공"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "solar-chat (4K tokens)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Translation API",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " : 기계번역 관련 가장 공신력 있는 밴치마크인 Flores에서 "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "GPT4, DeepL을 제치고 1등을 달성",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "solar-translation-enko (32K tokens) "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "solar-translation-koen (32K tokens)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "강력한 Solar API",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "를 무료로 사용할 수 있는 오픈베타 기간은 "
+                            },
+                            {
+                                "type": "text",
+                                "text": "2024년 3월 31일까지",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " 입니다!\n\n저희는 특강에서 강사님과 함께 API 사용을 차근차근 경험해보아요!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

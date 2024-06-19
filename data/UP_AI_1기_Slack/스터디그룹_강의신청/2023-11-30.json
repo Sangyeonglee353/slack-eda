@@ -1,0 +1,74 @@
+[
+    {
+        "user": "U05VBQMH3D3",
+        "type": "message",
+        "ts": "1701383628.235859",
+        "edited": {
+            "user": "U05VBQMH3D3",
+            "ts": "1701383651.000000"
+        },
+        "client_msg_id": "362e6526-6725-4cb7-a23e-f4f3e28043c3",
+        "text": "스터디그룹 번호: 2조\n강의명 : *<https:\/\/fastcampus.co.kr\/data_online_nlpall|한 번에 끝내는 자연어 처리 초격차 패키지 Online.>*\n강의 URL : <https:\/\/fastcampus.co.kr\/data_online_nlpall>\n사유: 기존 강의가 짧아 다들 수강 완료했습니다 새로운 강의 빨리 들을 수 있으면 좋겠습니다",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "16da4e28d6c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/6003210685524_16da4e28d6c4ea33bae5_72.png",
+            "first_name": "HB",
+            "real_name": "HB",
+            "display_name": "엄효범",
+            "team": "T05UGFFGL07",
+            "name": "swema86",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Cyb9B",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "스터디그룹 번호: 2조\n강의명 : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/fastcampus.co.kr\/data_online_nlpall",
+                                "text": "한 번에 끝내는 자연어 처리 초격차 패키지 Online.",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n강의 URL : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/fastcampus.co.kr\/data_online_nlpall"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n사유: 기존 강의가 짧아 다들 수강 완료했습니다 새로운 강의 빨리 들을 수 있으면 좋겠습니다"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "입과_완료",
+                "users": [
+                    "U05VAHXECP6",
+                    "U060C67EYQ5"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

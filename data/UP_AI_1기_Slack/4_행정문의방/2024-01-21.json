@@ -1,0 +1,57 @@
+[
+    {
+        "user": "U05UNC6FNK1",
+        "type": "message",
+        "ts": "1705885256.519699",
+        "client_msg_id": "2116818e-2ecf-4e8c-a987-0d336428e342",
+        "text": "해당 건 시스템은 아직 정비중이나, *비용지급은 금주부터 순차적으로 지급 진행*한다고 전달받았습니다.:meow_noddies:",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "260d154ea1e2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5979526758263_260d154ea1e2177fd001_72.jpg",
+            "first_name": "FC",
+            "real_name": "FC 하시안 매니저",
+            "display_name": "FC 하시안 매니저",
+            "team": "T05UGFFGL07",
+            "name": "xianha",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1705018614.154369",
+        "parent_user_id": "U05UNC6FNK1",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YjgNL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "해당 건 시스템은 아직 정비중이나,"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 비용지급은 금주부터 순차적으로 지급 진행",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "한다고 전달받았습니다."
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "meow_noddies"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,407 @@
+[
+    {
+        "user": "U05VADPQPCL",
+        "type": "message",
+        "ts": "1702868086.028029",
+        "edited": {
+            "user": "U05VADPQPCL",
+            "ts": "1702868299.000000"
+        },
+        "client_msg_id": "3389ccbd-f157-4de3-be88-d774883fd247",
+        "text": "<!channel>\n*1차 모듈 그룹 스터디 공지*\n\n> *그룹 편성 표*\n*<https:\/\/docs.google.com\/spreadsheets\/d\/1DsNsujMFQlrcBvaRFw2ILlx1X0m2FMz8tyY6YVCYSMU\/edit#gid=760503140|그룹 편성 표 바로가기>*\n• *1조 -* 서상혁 김도연 김다운 신동혁 남영진 기원선 \n• *2조 -* 장성준 김소현 김준호 김태한 배창현 \n• *3조 -* 이영훈 엄효범 강승현 윤수인 김형수 \n• *4조 -* 김하연 이소영A 조예람 김창희 강성필 \n• *5조 -* 가상민 이준형 서재현 조서영 정다슬 이소영B 이재민 \n• *6조 -* 박슬아 송현지 장준규 최장원 박성우 \n• *7조 -* 이현진 김영천 장은혁 김채원 이명진 \n• *8조 -* 빙현진 문정의 우승현 윤혜주 \n• *9조 -* 권혁찬 장호준 김윤겸 진성준 신주용 김승호 \n• *10조 -* 전수연 최기훈 조성운 노균호\n> *스터디 그룹 빌딩 공지*\n• *일정 : 12\/18 월요일 14:00 ~ 16:00*\n• *진행*\n    ◦ 그룹 스터디 안내 : 운영진 진행\n    ◦ 그룹별 미팅 : 자기소개, 그룹별 목표 설정, 그룹장 선정, 스터디 방식 설정 등\n    ◦ 그룹 공유회 : 그룹장이 그룹별 소개 진행(10분 내외\/그룹원, 목표, 학습 방식 공유)\n> *스터디 그룹 노션*\n• *<https:\/\/quickest-asterisk-75d.notion.site\/NEW-07c14ff578514fff8f9906d06276625d?pvs=4|1차 모듈 스터디 노션 바로가기>*\n• 노션에 멘토링 가이드 및 스터디 그룹 정보, 팀 별 페이지가 있으니 참고 부탁 드리겠습니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "07e7ca00b8f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5991092857253_07e7ca00b8f0d0b13ba1_72.png",
+            "first_name": "패스트캠퍼스박기준",
+            "real_name": "패스트캠퍼스박기준",
+            "display_name": "LM 박기준",
+            "team": "T05UGFFGL07",
+            "name": "pgj.fc.career",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CqFYD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "1차 모듈 그룹 스터디 공지",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "그룹 편성 표",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/spreadsheets\/d\/1DsNsujMFQlrcBvaRFw2ILlx1X0m2FMz8tyY6YVCYSMU\/edit#gid=760503140",
+                                "text": "그룹 편성 표 바로가기",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "1조 -",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " 서상혁 김도연 김다운 신동혁 남영진 기원선 "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "2조 -",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " 장성준 김소현 김준호 김태한 배창현 "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "3조 -",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " 이영훈 엄효범 강승현 윤수인 김형수 "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "4조 -",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " 김하연 이소영A 조예람 김창희 강성필 "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "5조 -",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " 가상민 이준형 서재현 조서영 정다슬 이소영B 이재민 "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "6조 -",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " 박슬아 송현지 장준규 최장원 박성우 "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "7조 -",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " 이현진 김영천 장은혁 김채원 이명진 "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "8조 -",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " 빙현진 문정의 우승현 윤혜주 "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "9조 -",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " 권혁찬 장호준 김윤겸 진성준 신주용 김승호 "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "10조 -",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " 전수연 최기훈 조성운 노균호"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "스터디 그룹 빌딩 공지",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "일정 : 12\/18 월요일 14:00 ~ 16:00",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "진행",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "그룹 스터디 안내 : 운영진 진행"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "그룹별 미팅 : 자기소개, 그룹별 목표 설정, 그룹장 선정, 스터디 방식 설정 등"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "그룹 공유회 : 그룹장이 그룹별 소개 진행(10분 내외\/그룹원, 목표, 학습 방식 공유)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "스터디 그룹 노션",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/quickest-asterisk-75d.notion.site\/NEW-07c14ff578514fff8f9906d06276625d?pvs=4",
+                                        "text": "1차 모듈 스터디 노션 바로가기",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "노션에 멘토링 가이드 및 스터디 그룹 정보, 팀 별 페이지가 있으니 참고 부탁 드리겠습니다."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U05V5B27DK7",
+                    "U05V2P37518",
+                    "U05V9LP47V0",
+                    "U05V7H78DUM"
+                ],
+                "count": 4
+            }
+        ]
+    }
+]

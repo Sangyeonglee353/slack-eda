@@ -1,0 +1,58 @@
+[
+    {
+        "user": "U0600GGHJTC",
+        "type": "message",
+        "ts": "1714460711.621499",
+        "client_msg_id": "3f14a8e2-6743-43e4-95cb-a191957ee1e8",
+        "text": "저도 현재 신청해 참여중인데요 굉장히 좋습니다!\n최대 6개월간 지원이 가능한데, 대상자가 직업훈련에 참여하고 있는 청년이라 현재 1기 수강생분들은 수료가 머지 않아서 직업훈련포털에서 추가로 직업훈련을 신청하셔야 신청이 가능할겁니다.\n수료 이후 직업훈련을 추가로 듣고자하시는 분은 신청하시면 많은 도움 받으실 것 같습니다!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "561da967acdc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/6000560676530_561da967acdc677d2136_72.png",
+            "first_name": "신동혁",
+            "real_name": "신동혁",
+            "display_name": "신동혁",
+            "team": "T05UGFFGL07",
+            "name": "kn7137",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1714366801.342899",
+        "parent_user_id": "U05VAHXECP6",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Vt0iM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "저도 현재 신청해 참여중인데요 굉장히 좋습니다!\n최대 6개월간 지원이 가능한데, 대상자가 직업훈련에 참여하고 있는 청년이라 현재 1기 수강생분들은 수료가 머지 않아서 직업훈련포털에서 추가로 직업훈련을 신청하셔야 신청이 가능할겁니다.\n수료 이후 직업훈련을 추가로 듣고자하시는 분은 신청하시면 많은 도움 받으실 것 같습니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U05VAHXECP6"
+                ],
+                "count": 1
+            },
+            {
+                "name": "sparkles",
+                "users": [
+                    "U05VAHXECP6"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

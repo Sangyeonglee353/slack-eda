@@ -1,0 +1,673 @@
+[
+    {
+        "user": "U060BLVQYHW",
+        "type": "message",
+        "ts": "1710842363.744359",
+        "client_msg_id": "104ada3a-9220-4553-b7cf-8d769decfc9f",
+        "text": "<@U05V81G5ZDY> <@U05UNC6FNK1>\n안녕하세요 매니저님. 오늘 입실 퇴실 스크린샷을 찍고, 입실 QR도 찍었었는데, 현재 출결시 HRD에 들어오니 QR 입실 시간이 현재 시간으로 변경 되었습니다. 확인 부탁드립니다. 감사합니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "g6cb970458b5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6cb970458b5672091fa231bd078f93da.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+            "first_name": "Sang",
+            "real_name": "Sang Hyuk SEO",
+            "display_name": "서상혁",
+            "team": "T05UGFFGL07",
+            "name": "happer96",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1710842363.744359",
+        "reply_count": 5,
+        "reply_users_count": 3,
+        "latest_reply": "1710923947.983199",
+        "reply_users": [
+            "U05UNC6FNK1",
+            "U05V81G5ZDY",
+            "U060BLVQYHW"
+        ],
+        "replies": [
+            {
+                "user": "U05UNC6FNK1",
+                "ts": "1710890307.424139"
+            },
+            {
+                "user": "U05V81G5ZDY",
+                "ts": "1710894385.053509"
+            },
+            {
+                "user": "U060BLVQYHW",
+                "ts": "1710915959.680069"
+            },
+            {
+                "user": "U05V81G5ZDY",
+                "ts": "1710920477.565079"
+            },
+            {
+                "user": "U060BLVQYHW",
+                "ts": "1710923947.983199"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aKhyx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05V81G5ZDY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05UNC6FNK1"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n안녕하세요 매니저님. 오늘 입실 퇴실 스크린샷을 찍고, 입실 QR도 찍었었는데, 현재 출결시 HRD에 들어오니 QR 입실 시간이 현재 시간으로 변경 되었습니다. 확인 부탁드립니다. 감사합니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "U05V81G5ZDY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05V379NETU",
+        "type": "message",
+        "ts": "1710859534.821029",
+        "client_msg_id": "5320a389-f27d-42e9-97a0-674c0e28c05a",
+        "text": "<@U05UNC6FNK1> <@U05V81G5ZDY>\n안녕하세요 매니저님, 2024.03.12 예비군(작계훈련) 훈련에 대한 출석대장과 증빙서류 구글폼으로 제출했습니다.\n확인해주시면 감사하겠습니다!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "ffacc530c1ba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/6012256954656_ffacc530c1baefd9bc1c_72.jpg",
+            "first_name": "신주용",
+            "real_name": "신주용",
+            "display_name": "신주용",
+            "team": "T05UGFFGL07",
+            "name": "robotshin1608",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1710119224.665209",
+        "parent_user_id": "U05V379NETU",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qp88n",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05UNC6FNK1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05V81G5ZDY"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n안녕하세요 매니저님, 2024.03.12 예비군(작계훈련) 훈련에 대한 출석대장과 증빙서류 구글폼으로 제출했습니다.\n확인해주시면 감사하겠습니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "military_helmet",
+                "users": [
+                    "U05V81G5ZDY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05UNC6FNK1",
+        "type": "message",
+        "ts": "1710890307.424139",
+        "client_msg_id": "81243a16-2a9c-47cc-94a9-e553c9d9874e",
+        "text": "<@U05V81G5ZDY> 님 확인 부탁드립니다~",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "260d154ea1e2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5979526758263_260d154ea1e2177fd001_72.jpg",
+            "first_name": "FC",
+            "real_name": "FC 하시안 매니저",
+            "display_name": "FC 하시안 매니저",
+            "team": "T05UGFFGL07",
+            "name": "xianha",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1710842363.744359",
+        "parent_user_id": "U060BLVQYHW",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "srifw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05V81G5ZDY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 님 확인 부탁드립니다~"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "<@U060BLVQYHW> 안녕하세요 행정 매니저입니다!\n\n입실 QR 찍으셨다고 하셨는데 인식이 되지 않은 것으로 보입니다! ㅠㅠㅠ\n&gt; QR체크 확인 방법\n• QR체크 후\n• HRD-net 또는 모바일HRD 내 \"출석보기\"\n    ◦ 체크한 시간이 나타나면 정상인식이 된 것!\n    ◦ 시간이 나타나지 않으면 다시 QR체크 시도해주시면 됩니다\n빠른 QR 인식이 기록되지 않는 경우가 종종 있습니다!\n체크 되었는지 확인 꼭꼭 부탁드립니다\n\n말씀 감사합니다.",
+        "files": [
+            {
+                "id": "F06QRJ5MYRX",
+                "created": 1710894237,
+                "timestamp": 1710894237,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U05V81G5ZDY",
+                "user_team": "T05UGFFGL07",
+                "editable": false,
+                "size": 117674,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F06QRJ5MYRX\/image.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F06QRJ5MYRX\/download\/image.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06QRJ5MYRX-94f63993d1\/image_64.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06QRJ5MYRX-94f63993d1\/image_80.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06QRJ5MYRX-94f63993d1\/image_360.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_360_w": 360,
+                "thumb_360_h": 351,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06QRJ5MYRX-94f63993d1\/image_480.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_480_w": 480,
+                "thumb_480_h": 468,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06QRJ5MYRX-94f63993d1\/image_160.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06QRJ5MYRX-94f63993d1\/image_720.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_720_w": 720,
+                "thumb_720_h": 701,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06QRJ5MYRX-94f63993d1\/image_800.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_800_w": 800,
+                "thumb_800_h": 779,
+                "original_w": 807,
+                "original_h": 786,
+                "thumb_tiny": "AwAuADC0LaHphvzoNpBnlW\/M1Lg56fnTvwoAg+xwf3W\/M0fY4P7rfmasDHpSYOevFAEH2OD+635mkNqoyAg2Zz941Z79aCRg80AMLeoHHvShh\/k0ADPQUY6cCgABWlG0+tIAD1ApdinsKADcPf8AKonBZwSh46HdUoVR0AoIGCcc0AN3qD1oDDjmlHrS5oAaGX1pd6+opc0ZoAN6+opCwIwDS5oJ4NAH\/9k=",
+                "permalink": "https:\/\/fcupstageai1.slack.com\/files\/U05V81G5ZDY\/F06QRJ5MYRX\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T05UGFFGL07-F06QRJ5MYRX-d425b28462",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U05V81G5ZDY",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Gv4fA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U060BLVQYHW"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 안녕하세요 행정 매니저입니다!\n\n입실 QR 찍으셨다고 하셨는데 인식이 되지 않은 것으로 보입니다! ㅠㅠㅠ\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "QR체크 확인 방법"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "QR체크 후"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "HRD-net 또는 모바일HRD 내 \"출석보기\""
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "체크한 시간이 나타나면 정상인식이 된 것!"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "시간이 나타나지 않으면 다시 QR체크 시도해주시면 됩니다"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n빠른 QR 인식이 기록되지 않는 경우가 종종 있습니다!\n체크 되었는지 확인 꼭꼭 부탁드립니다\n\n말씀 감사합니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1710894385.053509",
+        "client_msg_id": "0aff95ab-fd08-44f3-b22b-a90bff36c728",
+        "thread_ts": "1710842363.744359",
+        "parent_user_id": "U060BLVQYHW"
+    },
+    {
+        "user": "U05UNC6FNK1",
+        "type": "message",
+        "ts": "1710910130.028779",
+        "edited": {
+            "user": "U05UNC6FNK1",
+            "ts": "1710910159.000000"
+        },
+        "client_msg_id": "09d93077-cae1-4411-8bc4-a51f966b4656",
+        "text": "*<!channel>* 훈련장려금 신청완료 안내 :moneybag: 처음 단위기간이네요!!\n• *단위기간 :* 2024-01-10~2024-02-09\n• *예상지급시기 : 3월중~ 4월초*\n• 훈련비 지연이 없게 앞으로도 출결QR 잘 챙겨주시고 서류는 빠르게 제출(7일이내 미제출시 결석) 해주세요~\n• `본 과정 QR만 체크하고 수강을 듣지 않는 수강생이 많아 훈련비 지급이 지연되었습니다 .`\n`계속된 추가 적발시 지급된 훈련장려금 회수 및 내일배움 규정에 따라 제적조치 될 수 있음 안내드립니다.`  \n관련한 문의는 본 스레드 태깅 아닌 <#C05V0H8H3GC|4_행정문의방> 채널 저를 태깅하시어 문의해주시고,\n오늘도 즐거운 수강하세요~",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "260d154ea1e2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5979526758263_260d154ea1e2177fd001_72.jpg",
+            "first_name": "FC",
+            "real_name": "FC 하시안 매니저",
+            "display_name": "FC 하시안 매니저",
+            "team": "T05UGFFGL07",
+            "name": "xianha",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TKJqT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " 훈련장려금 신청완료 안내 "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "moneybag",
+                                "unicode": "1f4b0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 처음 단위기간이네요!!\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "단위기간 : ",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "2024-01-10~2024-02-09"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "예상지급시기 : 3월중~ 4월초",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "훈련비 지연이 없게 앞으로도 출결QR 잘 챙겨주시고 서류는 빠르게 제출(7일이내 미제출시 결석) 해주세요~"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "본 과정 QR만 체크하고 수강을 듣지 않는 수강생이 많아 훈련비 지급이 지연되었습니다 .",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "계속된 추가 적발시 지급된 훈련장려금 회수 및 내일배움 규정에 따라 제적조치 될 수 있음 안내드립니다.  ",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n관련한 문의는 본 스레드 태깅 아닌 "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C05V0H8H3GC"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 채널 저를 태깅하시어 문의해주시고,\n오늘도 즐거운 수강하세요~"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U05V9N22ZUK",
+                    "U05V379NETU"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U05V9N22ZUK",
+        "type": "message",
+        "ts": "1710911208.889589",
+        "client_msg_id": "3205cf52-1812-4c22-87c9-f8a7a8454f93",
+        "text": "<@U05UNC6FNK1> <@U05V81G5ZDY>\n안녕하세요. 박기준 LM님과 상담 후 240322(금요일) 휴가 제출 폼 제출하였습니다. 감사합니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "0698995c863f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5998310079844_0698995c863fed7643f0_72.png",
+            "first_name": "TaeHan",
+            "real_name": "TaeHan Kim",
+            "display_name": "김태한",
+            "team": "T05UGFFGL07",
+            "name": "kthnineone",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DnZQo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05UNC6FNK1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05V81G5ZDY"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n안녕하세요. 박기준 LM님과 상담 후 240322(금요일) 휴가 제출 폼 제출하였습니다. 감사합니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "beach_with_umbrella",
+                "users": [
+                    "U05V81G5ZDY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05VAU596PP",
+        "type": "message",
+        "ts": "1710911695.699279",
+        "client_msg_id": "541b04d9-da52-4f5b-ab08-909996c19028",
+        "text": "<@U05UNC6FNK1> <@U05V81G5ZDY>\n안녕하세요. LM님과 상담 후 3월 22일 금요일 휴가 사용으로 구글 폼 제출하였습니다.\n확인 부탁드립니다! 감사합니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "850d40cd33f4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5996957360085_850d40cd33f433747c40_72.png",
+            "first_name": "이소영B",
+            "real_name": "이소영B",
+            "display_name": "",
+            "team": "T05UGFFGL07",
+            "name": "sheep5450",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UZj2R",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05UNC6FNK1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05V81G5ZDY"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n안녕하세요. LM님과 상담 후 3월 22일 금요일 휴가 사용으로 구글 폼 제출하였습니다.\n확인 부탁드립니다! 감사합니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "beach_with_umbrella",
+                "users": [
+                    "U05V81G5ZDY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U060BLVQYHW",
+        "type": "message",
+        "ts": "1710915959.680069",
+        "edited": {
+            "user": "U060BLVQYHW",
+            "ts": "1710918188.000000"
+        },
+        "client_msg_id": "88cdd583-8df5-429f-9329-b547450aeac7",
+        "text": "<@U05UNC6FNK1> <@U05V81G5ZDY> 그렇다면 출석 수정은 어려울까요??",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "g6cb970458b5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6cb970458b5672091fa231bd078f93da.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+            "first_name": "Sang",
+            "real_name": "Sang Hyuk SEO",
+            "display_name": "서상혁",
+            "team": "T05UGFFGL07",
+            "name": "happer96",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1710842363.744359",
+        "parent_user_id": "U060BLVQYHW",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+IcJm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05UNC6FNK1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05V81G5ZDY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 그렇다면 출석 수정은 어려울까요??"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

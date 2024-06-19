@@ -1,0 +1,163 @@
+[
+    {
+        "user": "U0608EG7YEA",
+        "type": "message",
+        "ts": "1706768303.970559",
+        "client_msg_id": "12f81e2c-51ad-4e0b-b14f-78c64e01a081",
+        "text": "안녕하세요! 답변이 늦어 죄송합니다. 해당 대회의 경우 대회 룰 탭에 있는 내용 참고하셔서 작성해 주세요 :slightly_smiling_face:\n저작권자는 ‘Upstage AI Lab’ 정도로 표기해 주시면 됩니다.\n\n• 국토교통부 실거래가 : 정부 3.0 및 공공데이터 개방\n    ◦ <https:\/\/rt.molit.go.kr\/pre.html>\n• 서울시 공공주택 아파트 정보 : CC BY\n    ◦ <https:\/\/data.seoul.go.kr\/dataList\/OA-15818\/S\/1\/datasetView.do>\n",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "542e7e1dec67",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-12\/6028220315186_542e7e1dec6721784df9_72.png",
+            "first_name": "업스테이지",
+            "real_name": "업스테이지 크리스",
+            "display_name": "업스테이지 크리스",
+            "team": "T05UGFFGL07",
+            "name": "chris",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1706521378.161459",
+        "parent_user_id": "U05V2T62KUJ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UFuCf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "안녕하세요! 답변이 늦어 죄송합니다. 해당 대회의 경우 대회 룰 탭에 있는 내용 참고하셔서 작성해 주세요 "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n저작권자는 ‘Upstage AI Lab’ 정도로 표기해 주시면 됩니다.\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "국토교통부 실거래가 : 정부 3.0 및 공공데이터 개방"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/rt.molit.go.kr\/pre.html"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "서울시 공공주택 아파트 정보 : CC BY"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/data.seoul.go.kr\/dataList\/OA-15818\/S\/1\/datasetView.do"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05V2T62KUJ",
+        "type": "message",
+        "ts": "1706773696.906879",
+        "client_msg_id": "297225d9-782f-49c0-a2c1-4ed869b4b6cf",
+        "text": "감사합니다!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "ae24066f5a1a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5989305080675_ae24066f5a1a2d78e521_72.jpg",
+            "first_name": "김영천",
+            "real_name": "김영천",
+            "display_name": "김영천",
+            "team": "T05UGFFGL07",
+            "name": "dudcjs2779",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1706521378.161459",
+        "parent_user_id": "U05V2T62KUJ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4sMmL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "감사합니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

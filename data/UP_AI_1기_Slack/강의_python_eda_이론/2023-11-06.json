@@ -1,0 +1,281 @@
+[
+    {
+        "text": "<@U060VSK7ELC> 강사님. 지난 주 EDA 시간에 Fourier transform 시각화에서 궁금한 점이 있어서 문의드립니다. 주어진 코드상에서 2 Hz에 White Noise를 넣어서 아래 그림과 같이 그래프가 나오는 것까지는 알겠는데 왜 Magnitude가 0.05가 나오는지는 모르겠습니다. 혹시 이 값이 어떻게 산출되었는지 알 수 있을까요?\n\n```import matplotlib.pyplot as plt\nimport numpy as np\n\nnp.random.seed(0)\n\ndt = 0.01  # sampling interval\nFs = 1 \/ dt  # sampling frequency\nt = np.arange(0, 10, dt)\n\n# generate noise:\nnse = np.random.randn(len(t))\nr = np.exp(-t \/ 0.05)\ncnse = np.convolve(nse, r) * dt\ncnse = cnse[:len(t)]\n\ns = 0.1 * np.sin(4 * np.pi * t) + cnse  # the signal\n\nfig = plt.figure(figsize=(7, 7), layout='constrained')\naxs = fig.subplot_mosaic([[\"signal\", \"signal\"],\n                          [\"magnitude\", \"log_magnitude\"]])\n\n# plot time signal:\naxs[\"signal\"].set_title(\"Signal\")\naxs[\"signal\"].plot(t, s, color='C0')\naxs[\"signal\"].set_xlabel(\"Time (s)\")\naxs[\"signal\"].set_ylabel(\"Amplitude\")\n\n# plot different spectrum types:\naxs[\"magnitude\"].set_title(\"Magnitude Spectrum\")\naxs[\"magnitude\"].magnitude_spectrum(s, Fs=Fs, color='C1')\n\naxs[\"log_magnitude\"].set_title(\"Log. Magnitude Spectrum\")\naxs[\"log_magnitude\"].magnitude_spectrum(s, Fs=Fs, scale='dB', color='C1')\n\nplt.show()```\n",
+        "files": [
+            {
+                "id": "F0647HU1VM4",
+                "created": 1699273808,
+                "timestamp": 1699273808,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U060LG0BT89",
+                "user_team": "T05UGFFGL07",
+                "editable": false,
+                "size": 98561,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F0647HU1VM4\/image.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F0647HU1VM4\/download\/image.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F0647HU1VM4-86f24f3c70\/image_64.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F0647HU1VM4-86f24f3c70\/image_80.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F0647HU1VM4-86f24f3c70\/image_360.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_360_w": 360,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F0647HU1VM4-86f24f3c70\/image_480.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_480_w": 480,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F0647HU1VM4-86f24f3c70\/image_160.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "original_w": 711,
+                "original_h": 711,
+                "thumb_tiny": "AwAwADCiOaXFHeloATFBBp1FMBu2gjFOpD0oAbS7qQUtIAzRk0UgoAXNJmlzRQAUUgOKWgBKcpAbnkU3iigCTYp6HH1pGjwM5BpuTQTmgZ\/\/2Q==",
+                "permalink": "https:\/\/fcupstageai1.slack.com\/files\/U060LG0BT89\/F0647HU1VM4\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T05UGFFGL07-F0647HU1VM4-d75e026f10",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U060LG0BT89",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6+cIu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U060VSK7ELC"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 강사님. 지난 주 EDA 시간에 Fourier transform 시각화에서 궁금한 점이 있어서 문의드립니다. 주어진 코드상에서 2 Hz에 White Noise를 넣어서 아래 그림과 같이 그래프가 나오는 것까지는 알겠는데 왜 Magnitude가 0.05가 나오는지는 모르겠습니다. 혹시 이 값이 어떻게 산출되었는지 알 수 있을까요?\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "import matplotlib.pyplot as plt\nimport numpy as np\n\nnp.random.seed(0)\n\ndt = 0.01  # sampling interval\nFs = 1 \/ dt  # sampling frequency\nt = np.arange(0, 10, dt)\n\n# generate noise:\nnse = np.random.randn(len(t))\nr = np.exp(-t \/ 0.05)\ncnse = np.convolve(nse, r) * dt\ncnse = cnse[:len(t)]\n\ns = 0.1 * np.sin(4 * np.pi * t) + cnse  # the signal\n\nfig = plt.figure(figsize=(7, 7), layout='constrained')\naxs = fig.subplot_mosaic([[\"signal\", \"signal\"],\n                          [\"magnitude\", \"log_magnitude\"]])\n\n# plot time signal:\naxs[\"signal\"].set_title(\"Signal\")\naxs[\"signal\"].plot(t, s, color='C0')\naxs[\"signal\"].set_xlabel(\"Time (s)\")\naxs[\"signal\"].set_ylabel(\"Amplitude\")\n\n# plot different spectrum types:\naxs[\"magnitude\"].set_title(\"Magnitude Spectrum\")\naxs[\"magnitude\"].magnitude_spectrum(s, Fs=Fs, color='C1')\n\naxs[\"log_magnitude\"].set_title(\"Log. Magnitude Spectrum\")\naxs[\"log_magnitude\"].magnitude_spectrum(s, Fs=Fs, scale='dB', color='C1')\n\nplt.show()"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1699274649.128299",
+        "client_msg_id": "9baf3478-a418-4d1a-a5d1-e59cc6674e99",
+        "thread_ts": "1699274649.128299",
+        "reply_count": 3,
+        "reply_users_count": 1,
+        "latest_reply": "1699275239.071929",
+        "reply_users": [
+            "U060VSK7ELC"
+        ],
+        "replies": [
+            {
+                "user": "U060VSK7ELC",
+                "ts": "1699275142.553669"
+            },
+            {
+                "user": "U060VSK7ELC",
+                "ts": "1699275143.820119"
+            },
+            {
+                "user": "U060VSK7ELC",
+                "ts": "1699275239.071929"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "user": "U060VSK7ELC",
+        "type": "message",
+        "ts": "1699275142.553669",
+        "client_msg_id": "693ef705-5f47-4e6e-95d6-3b91ece8a4e5",
+        "text": "값이 랜덤으로 들어간거라 0.05라는 값은 크게 신경안써도 되는 것 아닌가욤!? :slightly_smiling_face:",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "4eedaa4888b6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-11\/6027355735027_4eedaa4888b662413f7b_72.jpg",
+            "first_name": "김인섭",
+            "real_name": "김인섭 강사",
+            "display_name": "김인섭 강사",
+            "team": "T05UGFFGL07",
+            "name": "inseop0813",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1699274649.128299",
+        "parent_user_id": "U060LG0BT89",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vRN4k",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "값이 랜덤으로 들어간거라 0.05라는 값은 크게 신경안써도 되는 것 아닌가욤!? "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U060LG0BT89"
+                ],
+                "count": 1
+            },
+            {
+                "name": "bow",
+                "users": [
+                    "U060LG0BT89"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U060LG0BT89"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U060VSK7ELC",
+        "type": "message",
+        "ts": "1699275143.820119",
+        "client_msg_id": "e32e2a65-9967-4289-8788-98a67397c3b9",
+        "text": "```t = np.arange(0, 10, dt)```",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "4eedaa4888b6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-11\/6027355735027_4eedaa4888b662413f7b_72.jpg",
+            "first_name": "김인섭",
+            "real_name": "김인섭 강사",
+            "display_name": "김인섭 강사",
+            "team": "T05UGFFGL07",
+            "name": "inseop0813",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1699274649.128299",
+        "parent_user_id": "U060LG0BT89",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZbbxW",
+                "elements": [
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "t = np.arange(0, 10, dt)"
+                            }
+                        ],
+                        "border": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U060VSK7ELC",
+        "type": "message",
+        "ts": "1699275239.071929",
+        "client_msg_id": "c8c7b25b-6471-4065-aa2a-08c6058fe4cc",
+        "text": "```s = 0.1 * np.sin(4 * np.pi * t) + cnse  # the signal```\n```axs[\"magnitude\"].magnitude_spectrum(s, Fs=Fs, color='C1')```",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "4eedaa4888b6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-11\/6027355735027_4eedaa4888b662413f7b_72.jpg",
+            "first_name": "김인섭",
+            "real_name": "김인섭 강사",
+            "display_name": "김인섭 강사",
+            "team": "T05UGFFGL07",
+            "name": "inseop0813",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1699274649.128299",
+        "parent_user_id": "U060LG0BT89",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pSUYw",
+                "elements": [
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "s = 0.1 * np.sin(4 * np.pi * t) + cnse  # the signal"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "axs[\"magnitude\"].magnitude_spectrum(s, Fs=Fs, color='C1')"
+                            }
+                        ],
+                        "border": 0
+                    }
+                ]
+            }
+        ]
+    }
+]

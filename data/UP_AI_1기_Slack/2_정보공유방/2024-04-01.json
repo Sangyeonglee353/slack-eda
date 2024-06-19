@@ -1,0 +1,767 @@
+[
+    {
+        "user": "U05V2GDNNLT",
+        "type": "message",
+        "ts": "1711958607.738549",
+        "edited": {
+            "user": "U05V2GDNNLT",
+            "ts": "1711980895.000000"
+        },
+        "client_msg_id": "20f77dbc-0c99-4931-b9df-6f221e293d44",
+        "text": "문의주셔서 저도 나중에 다시보려고 상세 과정 공유합니다!\n기억을 더듬어 쓴거라 내용이 부족할 수 있어요!\n\n0. pre\n```apt update\napt upgrade\napt install libxml2 git sudo\nconda update -n base -c conda-forge conda```\n1. gcc version update\n```conda install -c conda-forge gxx\n#or\nconda install -c conda-forge cxx-compiler\n\nexport CONDA_BUILD=1\n#터미널 재실행```\n2. cuda 설치\n```conda install cuda-nvcc cuda-cudart-dev libcublas-dev libcurand-dev```\n3. flash-attention 2 설치. (packaging, ninja 설치 되어있어야함)\n```pip install flash-attn --no-build-isolation\n\n#추가로 설치가 필요한 라이브러리\n#pip install -U accelerate transformers bitsandbytes peft```",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "ea660e2b5663",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5988655146706_ea660e2b566324290d7b_72.png",
+            "first_name": "장성준",
+            "real_name": "장성준 (Jun)",
+            "display_name": "장성준 (Jun)",
+            "team": "T05UGFFGL07",
+            "name": "peinguin77",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1711010613.195479",
+        "parent_user_id": "U05V2GDNNLT",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RkDQI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "문의주셔서 저도 나중에 다시보려고 상세 과정 공유합니다!\n기억을 더듬어 쓴거라 내용이 부족할 수 있어요!\n\n0. pre\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "apt update\napt upgrade\napt install libxml2 git sudo\nconda update -n base -c conda-forge conda"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "1. gcc version update\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "conda install -c conda-forge gxx\n#or\nconda install -c conda-forge cxx-compiler\n\nexport CONDA_BUILD=1\n#터미널 재실행"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "2. cuda 설치\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "conda install cuda-nvcc cuda-cudart-dev libcublas-dev libcurand-dev"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "3. flash-attention 2 설치. (packaging, ninja 설치 되어있어야함)\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "pip install flash-attn --no-build-isolation\n\n#추가로 설치가 필요한 라이브러리\n#pip install -U accelerate transformers bitsandbytes peft"
+                            }
+                        ],
+                        "border": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05V2GDNNLT",
+        "type": "message",
+        "ts": "1711958755.444159",
+        "client_msg_id": "55bfe548-b892-4694-93e6-46d08a8ade77",
+        "text": "+ dpkg 오류 (apt --fix-broken install)\n```sudo apt update\nsudo apt clean\nsudo apt autoremove\nsudo dpkg --remove --force-remove-reinstreq {PACKAGE NAME}```",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "ea660e2b5663",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5988655146706_ea660e2b566324290d7b_72.png",
+            "first_name": "장성준",
+            "real_name": "장성준 (Jun)",
+            "display_name": "장성준 (Jun)",
+            "team": "T05UGFFGL07",
+            "name": "peinguin77",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1711010613.195479",
+        "parent_user_id": "U05V2GDNNLT",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NA3yY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "+ dpkg 오류 (apt --fix-broken install)\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "sudo apt update\nsudo apt clean\nsudo apt autoremove\nsudo dpkg --remove --force-remove-reinstreq {PACKAGE NAME}"
+                            }
+                        ],
+                        "border": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U060C67EYQ5",
+        "type": "message",
+        "ts": "1712027043.470089",
+        "client_msg_id": "009d4f65-4a69-4e7d-8446-a1aae8200e28",
+        "text": "<!channel> 바로 위에서 <@U05V2GDNNLT> 성준님께서 NLP Adv. 대회 관련한 코드와 경험을 공유해주셨는데요!\n지난 솔루션 발표 당시에 공유해주셨던 성준님의 솔루션 -*<https:\/\/junnei.notion.site\/Tokenizer-Centric-Approach-e25f6a21f2c945e58ad26b586606fc22|Tokenizer Centric Approach (Notion Link)>* 관련한 전반적인 코멘트에 대해 공유드려봅니다.\n\n노션의 내용을 중심으로 대회를 제작하신 강사님께서 직접 의견 주신 내용을 정리한 것이니 여러분들께서도 꼼꼼히 읽어보며 무엇을 더 해볼 수 있을지 고민해보시고 마지막 대회 때 풍성한 실험으로 전개해보시기 바랍니다! :muscle:\n\n&gt; :ballot_box_with_check: Notion에 정리된 솔루션에 관한 전반적인 소감:\n&gt; • *토크나이저*에 대한 깊은 분석이 매우 훌륭하다고 판단.\n&gt;     ◦ 보통 NLP 관련 대회나 연구를 진행할 때, 모델에 관한 분석은 많이들 진행해도, *토크나이저의 중요성을 인지하고 이를 분석하는 경우는 거의 찾기 어려움.*\n&gt;     ◦ 하지만 (분석 결과 그대로) *토크나이저는 정말 중요한 요소 중에 하나*이며, 특히나 LLM 시대가 오면서 *더 긴 sequence를 최대한 효율적으로 처리하기 위해서 토크나어지의 역할이 더 중요*해짐.\n&gt;     ◦ 이에 관해, 토크나이저의 원리를 잘 파악하고, 성능에 미치는 영향을 잘 분석한 것은 굉장히 인상적임.\n&gt; • 내용이 많지는 않으나, *데이터 증강 방법*도 흥미로움.\n&gt;     ◦ 번역기를 한국어-&gt;  한국어 세팅으로 rephrasing하는 것도 재미있었고, topic을 주고 dialogue를 생성하는 것도 좋았음.\n\n&gt; :ballot_box_with_check: 더 풍성한 실험과 성과를 위한 몇 가지 조언:\n&gt; ```(리포트 내용 자체를 풍성하게 만들고, 다른 사람들이 이러한 실험을 쉽게 이해하고 납득할 수 있게 하는 포인트)```\n&gt; • 아마 시간이 없어서 많이 진행하지 못했을 수 있지만, 대회에서 점수를 올리는게 크게 중요치 않은 부분일 수 있다는 점을 이해하여 다양한 실험 방법론을 동원하며 자신만의 논리를 만들어가길 바람.\n&gt; • *Tokenizer 및 모델 선택지에 따른 성능 비교 결과 추가*\n&gt;     ◦ 이미 다양한 실험들을 진행했으나, *이에 대한 실험 결과들도 첨부*해주면 좋겠음.\n&gt;     ◦ 특히나 SOLAR-KO-10.7B 외에도, SOLAR-10.7B나, SOLAR-KOEN-10.7B 등과 같이 *tokenizer가 주요한 변경점이 모델들의 성능 비교가 첨부되면, 앞선 분석을 실험적으로 잘 보강해 줄 것으로 사료됨.*\n&gt; • *Zero-shot or Few-shot (in-context learning) 방법론에 대한 실험*\n&gt;     ◦ LoRA를 활용한 학습 방법으로 주로 성능을 높인 것으로 확인됨.\n&gt;     ◦ 관련하여 추가 학습 없이, *Base 모델만으로 어느정도의 성능을 내는지*와, *In-context learning을 통해서 어느정도 성능을 보이는지*에 대한 비교\/분석 결과가 추가되면 좋을 것 같음.\n&gt;     ◦ (학습 방법보다 성능이 낮을 가능성이 높기는 하나) 이러한 방법 만으로, 학습 없이, 좋은 성능을 낼 수 있다면 그 자체로 시간을 아낄 수 있을 테고, 만약 성능이 안좋다면 학습의 필요성을 강조할 수 있을 것임.\n&gt; •  *데이터 증강 방법론의 보강*\n&gt;     ◦ rephrasing과 dialogue 생성 방법론과 관련하여 중요하게 보야야 하는 것 중 하나가, 데이터의 스타일.\n&gt;     ◦ 이번 대회의 데이터 자체가 GPT 활용하여 번역된 데이터이기도 하고, 점수를 책정하는 방식이 규칙기반의 구문론적 방법이기도 한 만큼, 최대한 정답과 비슷한 스타일로 답을 생성하는 것이 점수를 높이기 위해서는 필요.\n&gt;     ◦ 이와 관련하여, *데이터를 생성할 때, sample data를 제공하는 방식으로 어떤 스타일로 생성해야 할 지를 알려주는 것이 필요함.*\n&gt; • *Prompt engineering*\n&gt;     ◦ 실험에 사용하신 프롬프트가 간단한 영어 문장으로 되어 있는 것으로 확인됨.\n&gt;     ◦ 이와 관련하여, 여러 가지 prompt engineering을 통해 성능을 높일 수 있을 지를 확인해 보는 것도 흥미로울 것으로 보임.\n",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "831ed525b276",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-11-14\/6192884585138_831ed525b276222009d0_72.png",
+            "first_name": "업스테이지",
+            "real_name": "업스테이지 김의겸(Dave)",
+            "display_name": "UP 김의겸(Dave) 매니저",
+            "team": "T05UGFFGL07",
+            "name": "euigyum",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712027043.470089",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1712027110.593879",
+        "reply_users": [
+            "U060C67EYQ5"
+        ],
+        "replies": [
+            {
+                "user": "U060C67EYQ5",
+                "ts": "1712027110.593879"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dbPi2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 바로 위에서 "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05V2GDNNLT"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 성준님께서 NLP Adv. 대회 관련한 코드와 경험을 공유해주셨는데요!\n지난 솔루션 발표 당시에 공유해주셨던 성준님의 솔루션 -"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/junnei.notion.site\/Tokenizer-Centric-Approach-e25f6a21f2c945e58ad26b586606fc22",
+                                "text": "Tokenizer Centric Approach (Notion Link)",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " 관련한 전반적인 코멘트에 대해 공유드려봅니다.\n\n노션의 내용을 중심으로 대회를 제작하신 강사님께서 직접 의견 주신 내용을 정리한 것이니 여러분들께서도 꼼꼼히 읽어보며 무엇을 더 해볼 수 있을지 고민해보시고 마지막 대회 때 풍성한 실험으로 전개해보시기 바랍니다! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "muscle",
+                                "unicode": "1f4aa"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "ballot_box_with_check",
+                                "unicode": "2611-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Notion에 정리된 솔루션에 관한 전반적인 소감:"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "토크나이저",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "에 대한 깊은 분석이 매우 훌륭하다고 판단."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 1
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "보통 NLP 관련 대회나 연구를 진행할 때, 모델에 관한 분석은 많이들 진행해도, "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "토크나이저의 중요성을 인지하고 이를 분석하는 경우는 거의 찾기 어려움.",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "하지만 (분석 결과 그대로) "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "토크나이저는 정말 중요한 요소 중에 하나",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "이며, 특히나 LLM 시대가 오면서 "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "더 긴 sequence를 최대한 효율적으로 처리하기 위해서 토크나어지의 역할이 더 중요",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "해짐."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "이에 관해, 토크나이저의 원리를 잘 파악하고, 성능에 미치는 영향을 잘 분석한 것은 굉장히 인상적임."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 1
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "내용이 많지는 않으나, "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "데이터 증강 방법",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "도 흥미로움."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 1
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "번역기를 한국어->  한국어 세팅으로 rephrasing하는 것도 재미있었고, topic을 주고 dialogue를 생성하는 것도 좋았음."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 1
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "ballot_box_with_check",
+                                "unicode": "2611-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 더 풍성한 실험과 성과를 위한 몇 가지 조언:"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "(리포트 내용 자체를 풍성하게 만들고, 다른 사람들이 이러한 실험을 쉽게 이해하고 납득할 수 있게 하는 포인트)"
+                            }
+                        ],
+                        "border": 1
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "아마 시간이 없어서 많이 진행하지 못했을 수 있지만, 대회에서 점수를 올리는게 크게 중요치 않은 부분일 수 있다는 점을 이해하여 다양한 실험 방법론을 동원하며 자신만의 논리를 만들어가길 바람."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Tokenizer 및 모델 선택지에 따른 성능 비교 결과 추가",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 1
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "이미 다양한 실험들을 진행했으나, "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "이에 대한 실험 결과들도 첨부",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "해주면 좋겠음."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "특히나 SOLAR-KO-10.7B 외에도, SOLAR-10.7B나, SOLAR-KOEN-10.7B 등과 같이 "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "tokenizer가 주요한 변경점이 모델들의 성능 비교가 첨부되면, 앞선 분석을 실험적으로 잘 보강해 줄 것으로 사료됨.",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 1
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Zero-shot or Few-shot (in-context learning) 방법론에 대한 실험",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 1
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "LoRA를 활용한 학습 방법으로 주로 성능을 높인 것으로 확인됨."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "관련하여 추가 학습 없이, "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "Base 모델만으로 어느정도의 성능을 내는지",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "와, "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "In-context learning을 통해서 어느정도 성능을 보이는지",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "에 대한 비교\/분석 결과가 추가되면 좋을 것 같음."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "(학습 방법보다 성능이 낮을 가능성이 높기는 하나) 이러한 방법 만으로, 학습 없이, 좋은 성능을 낼 수 있다면 그 자체로 시간을 아낄 수 있을 테고, 만약 성능이 안좋다면 학습의 필요성을 강조할 수 있을 것임."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 1
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": " 데이터 증강 방법론의 보강",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 1
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "rephrasing과 dialogue 생성 방법론과 관련하여 중요하게 보야야 하는 것 중 하나가, 데이터의 스타일."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "이번 대회의 데이터 자체가 GPT 활용하여 번역된 데이터이기도 하고, 점수를 책정하는 방식이 규칙기반의 구문론적 방법이기도 한 만큼, 최대한 정답과 비슷한 스타일로 답을 생성하는 것이 점수를 높이기 위해서는 필요."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "이와 관련하여,"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " 데이터를 생성할 때, sample data를 제공하는 방식으로 어떤 스타일로 생성해야 할 지를 알려주는 것이 필요함.",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 1
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Prompt engineering",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 1
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "실험에 사용하신 프롬프트가 간단한 영어 문장으로 되어 있는 것으로 확인됨."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "이와 관련하여, 여러 가지 prompt engineering을 통해 성능을 높일 수 있을 지를 확인해 보는 것도 흥미로울 것으로 보임."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 1
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U05VADPQPCL",
+                    "U05V2T62KUJ",
+                    "U05V2GDNNLT",
+                    "U05V5H1T24V",
+                    "U05UWVA90H4",
+                    "U0600GGHJTC",
+                    "U060LG0BT89"
+                ],
+                "count": 7
+            },
+            {
+                "name": "heart",
+                "users": [
+                    "U065TBUL5EE",
+                    "U05V2GDNNLT",
+                    "U05UWVA90H4"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "user": "U060C67EYQ5",
+        "type": "message",
+        "ts": "1712027110.593879",
+        "edited": {
+            "user": "U060C67EYQ5",
+            "ts": "1712027127.000000"
+        },
+        "client_msg_id": "1a5eba02-0268-49e2-9850-8bbcc614bd37",
+        "text": "깔-끔하게 솔루션 정리해주시고 모두의 성장을 위해 자료 공유해주신 <@U05V2GDNNLT> 성준님께도 감사의 샤라웃 한 번 날려봅니다~",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "831ed525b276",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-11-14\/6192884585138_831ed525b276222009d0_72.png",
+            "first_name": "업스테이지",
+            "real_name": "업스테이지 김의겸(Dave)",
+            "display_name": "UP 김의겸(Dave) 매니저",
+            "team": "T05UGFFGL07",
+            "name": "euigyum",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712027043.470089",
+        "parent_user_id": "U060C67EYQ5",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GGzcc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "깔-끔하게 솔루션 정리해주시고 모두의 성장을 위해 자료 공유해주신 "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05V2GDNNLT"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 성준님께도 감사의 샤라웃 한 번 날려봅니다~"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

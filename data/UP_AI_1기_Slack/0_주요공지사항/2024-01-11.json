@@ -1,0 +1,1730 @@
+[
+    {
+        "user": "U05VAHXECP6",
+        "type": "message",
+        "ts": "1704965390.645299",
+        "edited": {
+            "user": "U05VAHXECP6",
+            "ts": "1707096110.000000"
+        },
+        "client_msg_id": "4e715a23-500c-4212-a317-b69274486ab5",
+        "text": "<!channel>\n안녕하세요. Upstage AI Lab 수강생 여러분!\n차주 대회 진행에 앞서 전체 경진대회 일정 및 GPU 사용과 관련한 내용을 미리 전달 드립니다.\n아래 내용을 미리 한번 숙지해주시길 바라며, 자세한 내용은 `1\/15(월) AI Stages 활용법 특강`을 통해 안내드릴 수 있도록 하겠습니다.\n\n:up_ai-노션-아이콘: *AI Stages 경진대회 기간 및 GPU 서버 운영 기간* :up_ai-노션-아이콘:\n\n> *ML Advanced \/ Regression 대회*\n> • *경진대회 전체 기간 (2주)* : 1월 15일 (월) 10:00 ~ 1월 25일 (목) 19:00\n>     ◦ 팀 생성 기간 : 1월 16일 (화) 16:00 까지\n> • *GPU 서버 운영 기간* : 1월 15일 (월) 10:00 ~ 2월 2일 (금) 16:00\n> *CV Advanced \/ Image Classification 대회*\n> • *경진대회 전체 기간 (2주)* : 2월 5일 (월) 10:00 ~ 2월 19일 (월) 19:00\n>     ◦ 팀 생성 가능 기간 : 2월 6일 (화) 16:00 까지\n> • *GPU 서버 운영 기간* : 2월 5일 (월) 10:00 ~ 3월 7일 (목) 16:00\n> *NLP Advanced \/  Natural Language Inference 대회*\n> • *경진대회 전체 기간 (2주)* : 3월 8일 (금) 10:00 ~ 3월 20일 (수) 19:00\n>     ◦ 팀 생성 가능 기간 : 3월 9일 (토) 16:00 까지\n> • *GPU 서버 운영 기간* : 3월 8일 (금) 10:00 ~ 4월 5일 (금) 16:00\n> *OCR & RecSys & IR & AD \/ 택 1*\n> • *경진대회 전체 기간 (4주)* : 4월 8일 (월) 10:00 ~ 5월 1일 (수) 19:00\n>     ◦ 팀 생성 가능 기간 : 4월 9일 (화) 16:00 까지\n> • *GPU 서버 운영 기간* : 4월 8일 (월) 10:00 ~ 5월 10일 (금) 16:00\n> *GPU 서버 운영 공통 안내사항*\n> • 운영 마감시 서버는 자동으로 회수됩니다. 회수되기 전 반드시 서버 내 작업물은 백업합니다.\n> • GPU 서버는 가급적 진행하고 있는 프로젝트 페이지에서 할당 받도록 합니다. 할당 받게 되는 GPU 서버는 안내되는 코드가 실행될 수 있도록 사전에 준비된 환경입니다.\n> • GPU 서버 이슈와 관련된 문의는 대회별 ‘이슈 문의 게시판’에 글을 작성하여 문의하도록 합니다.\n> • *GPU 서버 사용 방법과 FAQ 는 <https:\/\/www.notion.so\/upstage\/AI-Stages-FAQ-d6d69aa076874100adce681784f93b50|노션 페이지(링크)>*를 참고합니다.\n> *추가 참고사항*\n> • 팀 생성: Github이 아닌, AI Stages 플랫폼 자체에서 생성하는 것을 의미합니다.\n> • AI Stages 플랫폼 대회 초대: 1\/15(월) 일괄 진행될 예정입니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "50abee101814",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-11\/6044824153712_50abee1018149e21919b_72.jpg",
+            "first_name": "이상영",
+            "real_name": "이상영",
+            "display_name": "FC 이상영 매니저",
+            "team": "T05UGFFGL07",
+            "name": "sangyeong.lee",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1704965390.645299",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1707096164.287069",
+        "reply_users": [
+            "U05VAHXECP6"
+        ],
+        "replies": [
+            {
+                "user": "U05VAHXECP6",
+                "ts": "1707096164.287069"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1707096164.287069",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "a5Lia",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n안녕하세요. Upstage AI Lab 수강생 여러분!\n차주 대회 진행에 앞서 전체 경진대회 일정 및 GPU 사용과 관련한 내용을 미리 전달 드립니다.\n아래 내용을 미리 한번 숙지해주시길 바라며, 자세한 내용은 "
+                            },
+                            {
+                                "type": "text",
+                                "text": "1\/15(월) AI Stages 활용법 특강",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "을 통해 안내드릴 수 있도록 하겠습니다.\n\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "up_ai-노션-아이콘",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " AI Stages 경진대회 기간 및 GPU 서버 운영 기간 ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "up_ai-노션-아이콘",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ML Advanced \/ Regression 대회",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "경진대회 전체 기간 (2주)",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " : 1월 15일 (월) 10:00 ~ 1월 25일 (목) 19:00"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 1
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "팀 생성 기간 : 1월 16일 (화) 16:00 까지"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 1
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "GPU 서버 운영 기간",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " : 1월 15일 (월) 10:00 ~ 2월 2일 (금) 16:00"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 1
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "CV Advanced \/ Image Classification 대회",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "경진대회 전체 기간 (2주)",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " : 2월 5일 (월) 10:00 ~ 2월 19일 (월) 19:00"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 1
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "팀 생성 가능 기간 : 2월 6일 (화) 16:00 까지"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 1
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "GPU 서버 운영 기간",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " : 2월 5일 (월) 10:00 ~ 3월 7일 (목) 16:00"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 1
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "NLP Advanced \/  Natural Language Inference 대회",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "경진대회 전체 기간 (2주)",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " : 3월 8일 (금) 10:00 ~ 3월 20일 (수) 19:00"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 1
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "팀 생성 가능 기간 : 3월 9일 (토) 16:00 까지"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 1
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "GPU 서버 운영 기간",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " : 3월 8일 (금) 10:00 ~ 4월 5일 (금) 16:00"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 1
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "OCR & RecSys & IR & AD \/ 택 1",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "경진대회 전체 기간 (4주)",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " : 4월 8일 (월) 10:00 ~ 5월 1일 (수) 19:00"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 1
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "팀 생성 가능 기간 : 4월 9일 (화) 16:00 까지"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 1
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "GPU 서버 운영 기간",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " : 4월 8일 (월) 10:00 ~ 5월 10일 (금) 16:00"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 1
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "GPU 서버 운영 공통 안내사항",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "운영 마감시 서버는 자동으로 회수됩니다. 회수되기 전 반드시 서버 내 작업물은 백업합니다."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "GPU 서버는 가급적 진행하고 있는 프로젝트 페이지에서 할당 받도록 합니다. 할당 받게 되는 GPU 서버는 안내되는 코드가 실행될 수 있도록 사전에 준비된 환경입니다."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "GPU 서버 이슈와 관련된 문의는 대회별 ‘이슈 문의 게시판’에 글을 작성하여 문의하도록 합니다."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "GPU 서버 사용 방법과 FAQ 는 ",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/www.notion.so\/upstage\/AI-Stages-FAQ-d6d69aa076874100adce681784f93b50",
+                                        "text": "노션 페이지(링크)",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "를 참고합니다."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 1
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "추가 참고사항",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "팀 생성: Github이 아닌, AI Stages 플랫폼 자체에서 생성하는 것을 의미합니다."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "AI Stages 플랫폼 대회 초대: 1\/15(월) 일괄 진행될 예정입니다."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 1
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U06CBFKNBFF",
+                    "U060H4V0Q5S",
+                    "U060D1KJECR",
+                    "U05VADPQPCL",
+                    "U05V2P37518",
+                    "U05UWVA90H4",
+                    "U05V9LP47V0",
+                    "U05V2PMAVNE",
+                    "U05V5B27DK7",
+                    "U05V2T62KUJ",
+                    "U05V7H78DUM",
+                    "U05V9N22ZUK",
+                    "U05UN6NTN8P",
+                    "U05V561TXUL",
+                    "U060BLVQYHW",
+                    "U05V1KVNK0E",
+                    "U0600GGHJTC"
+                ],
+                "count": 17
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U05VADPQPCL",
+                    "U05UWVA90H4",
+                    "U05V7H78DUM",
+                    "U060BLVQYHW"
+                ],
+                "count": 4
+            },
+            {
+                "name": "+1::skin-tone-2",
+                "users": [
+                    "U05UT0JG4BZ"
+                ],
+                "count": 1
+            },
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U065TBUL5EE",
+                    "U060BLVQYHW"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U05VAHXECP6",
+        "type": "message",
+        "ts": "1704965463.210409",
+        "edited": {
+            "user": "U05VAHXECP6",
+            "ts": "1705022980.000000"
+        },
+        "client_msg_id": "15c4113a-3ba6-49d6-a811-237c1d40db78",
+        "text": ":up_ai-노션-아이콘: *AI Stages 대회 데이터셋 저작권 공지* :sirens:\n\n대회 프로젝트 참여를 위해 배포하는 데이터셋은 일정한 저작권 하에 사용이 가능합니다.\n아래 각 데이터셋별 저작권을 반드시 유의하여 사용하도록 합니다. *저작권 관련하여 발생하는 법적 이슈는 수강생 본인이 책임지게 됨을 미리 강조드립니다.*\n\n> 데이터셋 사용 전, 아래 저작권 관련한 자료를 반드시 정독해 주세요!\n> *[필독] 저작권 약어 참고 자료 (<https:\/\/ccl.cckorea.org\/about\/|링크>)*\n> *강좌명 (데이터셋 명칭)*\n> • Machine Learning Advanced (House Prices Prediction Dataset) : CC-BY\n> • Computer Vision Advanced (Document Classification Dataset) : 업스테이지 라이선스 (외부 공개, 노출, 배포 엄격 금지)\n> • Natural Language Processing Advanced (Dialogue Summarization Dataset) : CC-BY-NC-SA 4.0\n> • Recommender System Basic (eCommerce Behavior Prediction Dataset) : CC-BY\n> • Optical Character Reader (Receipt OCR Dataset) : CC-BY-NC\n> • Anomaly Detection (Equipment Process Abnormalities Detection Dataset) : CC0\n> • Information Retrieval (Information Retrieval Dataset) : CC-BY-SA 4.0",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "50abee101814",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-11\/6044824153712_50abee1018149e21919b_72.jpg",
+            "first_name": "이상영",
+            "real_name": "이상영",
+            "display_name": "FC 이상영 매니저",
+            "team": "T05UGFFGL07",
+            "name": "sangyeong.lee",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IWqkY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "up_ai-노션-아이콘",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " AI Stages 대회 데이터셋 저작권 공지 ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sirens",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n대회 프로젝트 참여를 위해 배포하는 데이터셋은 일정한 저작권 하에 사용이 가능합니다.\n아래 각 데이터셋별 저작권을 반드시 유의하여 사용하도록 합니다. "
+                            },
+                            {
+                                "type": "text",
+                                "text": "저작권 관련하여 발생하는 법적 이슈는 수강생 본인이 책임지게 됨을 미리 강조드립니다.",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "데이터셋 사용 전, 아래 저작권 관련한 자료를 반드시 정독해 주세요!\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "[필독] 저작권 약어 참고 자료 (",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/ccl.cckorea.org\/about\/",
+                                "text": "링크",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ")",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "강좌명 (데이터셋 명칭)",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Machine Learning Advanced (House Prices Prediction Dataset) : CC-BY"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Computer Vision Advanced (Document Classification Dataset) : 업스테이지 라이선스 (외부 공개, 노출, 배포 엄격 금지)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Natural Language Processing Advanced (Dialogue Summarization Dataset) : CC-BY-NC-SA 4.0"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Recommender System Basic (eCommerce Behavior Prediction Dataset) : CC-BY"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Optical Character Reader (Receipt OCR Dataset) : CC-BY-NC"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Anomaly Detection (Equipment Process Abnormalities Detection Dataset) : CC0"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Information Retrieval (Information Retrieval Dataset) : CC-BY-SA 4.0"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 1
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U05V9LP47V0",
+                    "U05V2PMAVNE",
+                    "U05V5B27DK7",
+                    "U05V2T62KUJ",
+                    "U05UT0JG4BZ",
+                    "U05V7H78DUM",
+                    "U05V9N22ZUK",
+                    "U065TBUL5EE",
+                    "U05UW1S4KQE",
+                    "U05V561TXUL",
+                    "U0606QGQYE5",
+                    "U060BLVQYHW",
+                    "U06CBFKNBFF",
+                    "U0600GGHJTC"
+                ],
+                "count": 14
+            }
+        ]
+    },
+    {
+        "user": "U05VADPQPCL",
+        "type": "message",
+        "ts": "1705028023.285179",
+        "edited": {
+            "user": "U05VADPQPCL",
+            "ts": "1706516478.000000"
+        },
+        "client_msg_id": "37c2e341-d111-432f-a2e8-dcf772187cf8",
+        "text": "*<!channel>* \n*경진대회 Github ClassRoom 안내 공지*\n\n안녕하세요 수강생 여러분!\n앞으로 총 4개의 Upstage 경진대회가 진행 될 예정입니다.\n경진대회 마다 협업을 위한 Upstage AI Lab 1기 만의 Github Organization에 대해 안내 드리고자 합니다.\n효율적인 Repo 관리를 위해 Github ClassRoom을 활용할 예정이니 아래 안내 사항 참고 부탁 드리겠습니다.\n\n> *Github Classroom 기능 안내*\n> <https:\/\/classroom.github.com\/classrooms>\n• 앞으로 진행 될 경진대회는 계속 Classroom을 이용할 예정입니다.\n• 각 경진대회 별 Deadline이 존재합니다.\n    ◦ Deadline 이후에도 팀 Repo에 Commit\/Push 할 수 있습니다.\n    ◦ *Deadline 이전에는 Private 상태로 다른 팀의 Repo를 볼 수 없으며, 이후에는 Public Repo로 전환되어 다른 팀의 Repo를 볼 수 있습니다.*\n    ◦ 위 기능이 Classroom의 대표적 기능으로 기존 Organization과 다르게 경진대회에 활용하기 좋은 기능을 가지고 있어 Classroom 기능을 사용하게 되었습니다.\n> *Github Classroom 가입 안내*\n1. *Github Classroom 가입 링크* 해당 링크 접속하셔서 가입 진행해주시면 됩니다.\n2. 가입 이후 본인의 팀이 있을 시 해당 조의 *Join* 클릭하여 팀 가입 진행해주시면 됩니다. (첨부 이미지 참고)\n    a. 본인 팀이 없을 시 본인의 팀 번호 입력 후 *Create* *team* 클릭 하셔 팀에 가입하시면 됩니다.\n        i. *팀을 생성하실 분을 먼저 선정하시고, 팀 생성 이후에 남은 팀원들이 가입하는 형식으로 진행하시는 것이 좋습니다.*\n        ii. *팀 생성 예시 : 1팀 --> 01 입력 후 Create team 클릭, 10팀 --> 10 입력 후 Create team 클릭*\n    b. 실수로 다른 팀에 Join 하셨거나 팀 생성이 중복으로 되셨으면  <#C0606642LHW|1_운영질문방> 혹은 해당 공지 스레드에 <@U05VADPQPCL> 태깅 해주시길 바랍니다.\n3. 팀에 Join 하시면 잠시 후에 팀 가입 처리가 자동으로 완료되며 자동으로 팀 Repo가 생성 됩니다.\n4. 해당 Repo 활용하셔서 경진대회 협업 진행하시면 됩니다.\n> *Github Classroom Repo 안내*\n• *Readme.md*\n    ◦ 적혀있는 Readme.md 목차 대로 MarkDown 활용 하셔서 작성해주시면 됩니다.\n    ◦ 항목 추가 등 편집은 자유 양식이며, 최대한 보기 쉽고 자세하게 작성해주시면 이후 포트폴리오로 활용하기 좋습니다.\n    ◦ 추가적으로 좀 더 심화된 템플릿 공유 예정입니다.\n• *docs\/pdf*\n    ◦ 해당 디렉토리에 발표 자료 업로드해주시면 됩니다.\n    ◦ 발표자료 형식(.pdf .pptx 등)\n• *업로드 유의 사항*\n    ◦ *Baseline 코드는 원본 코드 공유를 절대 금지하며, History에도 기능이 남으니 업로드 자체를 금지해주시길 바랍니다.*\n    ◦ *Baseline 코드는 2차 저작물(원본 코드를 수정한 상태)은 업로드가 가능하며 Classroom Repo 안에서만 공개가 가능합니다.*\n        ▪︎ *개인 Github로 Fork 혹은 업로드 시 비공개 처리 해주셔야 합니다.*\n    ◦ *Github Repo에 원본 Dataset 업로드는 금지합니다.*\n        ▪︎ Readme.md 작성 시 Dataset Overview의 경우 일부 Dataset 및 시각화 자료만 첨부 부탁드리며 *<https:\/\/fcupstageai1.slack.com\/archives\/C05UU79AD4M\/p1704965463210409|저작권 안내 공지>* 참고하셔서 CC 라이센스 이미지 첨부 부탁드립니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "07e7ca00b8f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5991092857253_07e7ca00b8f0d0b13ba1_72.png",
+            "first_name": "패스트캠퍼스박기준",
+            "real_name": "패스트캠퍼스박기준",
+            "display_name": "LM 박기준",
+            "team": "T05UGFFGL07",
+            "name": "pgj.fc.career",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1705028023.285179",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1705049522.721079",
+        "reply_users": [
+            "U060C67EYQ5"
+        ],
+        "replies": [
+            {
+                "user": "U060C67EYQ5",
+                "ts": "1705049522.721079"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9d+aa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "경진대회 Github ClassRoom 안내 공지",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n안녕하세요 수강생 여러분!\n앞으로 총 4개의 Upstage 경진대회가 진행 될 예정입니다.\n경진대회 마다 협업을 위한 Upstage AI Lab 1기 만의 Github Organization에 대해 안내 드리고자 합니다.\n효율적인 Repo 관리를 위해 Github ClassRoom을 활용할 예정이니 아래 안내 사항 참고 부탁 드리겠습니다.\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Github Classroom 기능 안내",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/classroom.github.com\/classrooms"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "앞으로 진행 될 경진대회는 계속 Classroom을 이용할 예정입니다."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "각 경진대회 별 Deadline이 존재합니다."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Deadline 이후에도 팀 Repo에 Commit\/Push 할 수 있습니다."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Deadline 이전에는 Private 상태로 다른 팀의 Repo를 볼 수 없으며, 이후에는 Public Repo로 전환되어 다른 팀의 Repo를 볼 수 있습니다.",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "위 기능이 Classroom의 대표적 기능으로 기존 Organization과 다르게 경진대회에 활용하기 좋은 기능을 가지고 있어 Classroom 기능을 사용하게 되었습니다."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Github Classroom 가입 안내",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Github Classroom 가입 링크",
+                                        "style": {
+                                            "bold": true,
+                                            "unlink": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " 해당 링크 접속하셔서 가입 진행해주시면 됩니다."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "가입 이후 본인의 팀이 있을 시 해당 조의 "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "Join ",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "클릭하여 팀 가입 진행해주시면 됩니다. (첨부 이미지 참고)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "본인 팀이 없을 시 본인의 팀 번호 입력 후 "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "Create",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "team ",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "클릭 하셔 팀에 가입하시면 됩니다."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "팀을 생성하실 분을 먼저 선정하시고, 팀 생성 이후에 남은 팀원들이 가입하는 형식으로 진행하시는 것이 좋습니다.",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "팀 생성 예시 : 1팀 --> 01 입력 후 Create team 클릭, 10팀 --> 10 입력 후 Create team 클릭",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 2,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "실수로 다른 팀에 Join 하셨거나 팀 생성이 중복으로 되셨으면  "
+                                    },
+                                    {
+                                        "type": "channel",
+                                        "channel_id": "C0606642LHW"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " 혹은 해당 공지 스레드에 "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U05VADPQPCL"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " 태깅 해주시길 바랍니다."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 1,
+                        "offset": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "팀에 Join 하시면 잠시 후에 팀 가입 처리가 자동으로 완료되며 자동으로 팀 Repo가 생성 됩니다."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "해당 Repo 활용하셔서 경진대회 협업 진행하시면 됩니다."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "offset": 2,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Github Classroom Repo 안내",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Readme.md",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "적혀있는 Readme.md 목차 대로 MarkDown 활용 하셔서 작성해주시면 됩니다."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "항목 추가 등 편집은 자유 양식이며, 최대한 보기 쉽고 자세하게 작성해주시면 이후 포트폴리오로 활용하기 좋습니다."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "추가적으로 좀 더 심화된 템플릿 공유 예정입니다."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "docs\/pdf",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "해당 디렉토리에 발표 자료 업로드해주시면 됩니다."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "발표자료 형식(.pdf .pptx 등)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "업로드 유의 사항",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Baseline 코드는 원본 코드 공유를 절대 금지하며, History에도 기능이 남으니 업로드 자체를 금지해주시길 바랍니다.",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Baseline 코드는 2차 저작물(원본 코드를 수정한 상태)은 업로드가 가능하며 Classroom Repo 안에서만 공개가 가능합니다.",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "개인 Github로 Fork 혹은 업로드 시 비공개 처리 해주셔야 합니다.",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 2,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Github Repo에 원본 Dataset 업로드는 금지합니다.",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Readme.md 작성 시 Dataset Overview의 경우 일부 Dataset 및 시각화 자료만 첨부 부탁드리며 "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/fcupstageai1.slack.com\/archives\/C05UU79AD4M\/p1704965463210409",
+                                        "text": "저작권 안내 공지",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " 참고하셔서 CC 라이센스 이미지 첨부 부탁드립니다."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 2,
+                        "border": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "",
+        "files": [
+            {
+                "id": "F06DDB1GLR4",
+                "created": 1705028244,
+                "timestamp": 1705028244,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U05VADPQPCL",
+                "user_team": "T05UGFFGL07",
+                "editable": false,
+                "size": 51750,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F06DDB1GLR4\/image.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F06DDB1GLR4\/download\/image.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06DDB1GLR4-9602897dcf\/image_64.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06DDB1GLR4-9602897dcf\/image_80.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06DDB1GLR4-9602897dcf\/image_360.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_360_w": 360,
+                "thumb_360_h": 290,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06DDB1GLR4-9602897dcf\/image_480.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_480_w": 480,
+                "thumb_480_h": 387,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06DDB1GLR4-9602897dcf\/image_160.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "original_w": 480,
+                "original_h": 387,
+                "thumb_tiny": "AwAmADDRJOen60ZPp+tB6ngGjj+6PyoAMt\/d\/WjLf3f1o3H0o3H0oAdRTdx9KcOlACHGfu5pAQO2PrQRlqCmTnOKAHUUgGABS0AFFFFACfxdTQBjvR\/FS0AFFFFAEE7OrDYQPrTY3lMgDMMU6f7w+lNj++KRVup\/\/9k=",
+                "permalink": "https:\/\/fcupstageai1.slack.com\/files\/U05VADPQPCL\/F06DDB1GLR4\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T05UGFFGL07-F06DDB1GLR4-841a90abdb",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U05VADPQPCL",
+        "display_as_bot": false,
+        "type": "message",
+        "ts": "1705028251.912149",
+        "client_msg_id": "7add3126-2c2c-4247-b008-19ca5fce0d4a"
+    },
+    {
+        "text": "<!channel>\n안녕하세요. Upstage AI Lab 수강생 여러분!\n`[업스테이지] AI 심화 학습: 머신러닝(필수)` 정상 입과가 완료되어 다시 한 번 안내를 드립니다. :tada:\n따라서, 현재 온라인 강의 수강장에서 모두 수강하실 수 있습니다.\n\n이와 관련하여 <https:\/\/docs.google.com\/spreadsheets\/d\/1ypFcX5rHBUsAoYDUN3TmQClpGnR8wyoaUnBoV4hrZ-4\/edit#gid=1351154034|온라인 강의 수강 안내 시트>도 최신화 해두었습니다.\n현재 입과 과정에서 1차례 문제가 있었으므로, 본 강의 수강 안내 시트와는 다르게\nML Basic 을 먼저 수강하셔도 수강생분들께 불이익은 가지 않도록 하겠습니다.\n\n`[업스테이지] AI 심화 학습: 머신러닝(필수)` 모듈부터는 경진대회를 포함하고 있으므로,\n온라인 강의 수강 시간 분배 시 되도록 마지막 주차에는 온전히 대회에만 집중하실 수 있도록\n시간을 비워두었으니, 이점도 참고해주시기 바랍니다.\n\n&gt; *참고 사항*\n• 온라인 강의장에서 `[업스테이지] AI 심화 학습: 머신러닝` 이 2개 중복되어 노출되는 것을 확인하실 수 있습니다.\n    ◦ (좌측) 기존 입과 강의\n    ◦ (우측) 신규 모든 과정 입과 강의\n• 현재까지 수강하신 진도율을 파악하기 위해 (좌측) 기존 입과 강의는 따로 삭제하지 않았습니다.\n• 따라서, 이후 수강은 (우측) 신규 모든 과정 입과 강의를 수강해주시면 되겠습니다.\n항상 여러분들을 응원합니다. :muscle:\n추가로 문의사항이 있으시면 편히 요청주세요.\n\n감사합니다.",
+        "files": [
+            {
+                "id": "F06DH84U66R",
+                "created": 1705032577,
+                "timestamp": 1705032577,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U05VAHXECP6",
+                "user_team": "T05UGFFGL07",
+                "editable": false,
+                "size": 154972,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F06DH84U66R\/image.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F06DH84U66R\/download\/image.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06DH84U66R-2942ce7036\/image_64.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06DH84U66R-2942ce7036\/image_80.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06DH84U66R-2942ce7036\/image_360.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_360_w": 360,
+                "thumb_360_h": 172,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06DH84U66R-2942ce7036\/image_480.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_480_w": 480,
+                "thumb_480_h": 229,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06DH84U66R-2942ce7036\/image_160.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06DH84U66R-2942ce7036\/image_720.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_720_w": 720,
+                "thumb_720_h": 343,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06DH84U66R-2942ce7036\/image_800.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_800_w": 800,
+                "thumb_800_h": 381,
+                "original_w": 894,
+                "original_h": 426,
+                "thumb_tiny": "AwAWADCvNIwnlyz8Oej471EXk3fLI+P9+rs2nu8jncnzMTnBzUf9mPn\/AFi\/98mgBYbiSNowxLbmH8VQySMJXyz\/AHj0fHeriWDLsO5Tgg5IPHNRy6e7Ox3JyxOcHNOW4FMvLu+WR8f71W4LiRJIkYlt7DndTf7MfP8ArF\/I1YjsWRkO5TtIOTnPWn0Av9+tFFFSAUmOaWigAooooA\/\/2Q==",
+                "permalink": "https:\/\/fcupstageai1.slack.com\/files\/U05VAHXECP6\/F06DH84U66R\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T05UGFFGL07-F06DH84U66R-1538f2bddf",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U05VAHXECP6",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "z6YsX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n안녕하세요. Upstage AI Lab 수강생 여러분!\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "[업스테이지] AI 심화 학습: 머신러닝(필수)",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " 정상 입과가 완료되어 다시 한 번 안내를 드립니다. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "tada",
+                                "unicode": "1f389"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n따라서, 현재 온라인 강의 수강장에서 모두 수강하실 수 있습니다.\n\n이와 관련하여 "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/spreadsheets\/d\/1ypFcX5rHBUsAoYDUN3TmQClpGnR8wyoaUnBoV4hrZ-4\/edit#gid=1351154034",
+                                "text": "온라인 강의 수강 안내 시트"
+                            },
+                            {
+                                "type": "text",
+                                "text": "도 최신화 해두었습니다.\n현재 입과 과정에서 1차례 문제가 있었으므로, 본 강의 수강 안내 시트와는 다르게\nML Basic 을 먼저 수강하셔도 수강생분들께 불이익은 가지 않도록 하겠습니다.\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "[업스테이지] AI 심화 학습: 머신러닝(필수)",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " 모듈부터는 경진대회를 포함하고 있으므로,\n온라인 강의 수강 시간 분배 시 되도록 마지막 주차에는 온전히 대회에만 집중하실 수 있도록\n시간을 비워두었으니, 이점도 참고해주시기 바랍니다.\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "참고 사항",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "온라인 강의장에서 "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "[업스테이지] AI 심화 학습: 머신러닝",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " 이 2개 중복되어 노출되는 것을 확인하실 수 있습니다."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "(좌측) 기존 입과 강의"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "(우측) 신규 모든 과정 입과 강의"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "현재까지 수강하신 진도율을 파악하기 위해 (좌측) 기존 입과 강의는 따로 삭제하지 않았습니다."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "따라서, 이후 수강은 (우측) 신규 모든 과정 입과 강의를 수강해주시면 되겠습니다."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n항상 여러분들을 응원합니다. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "muscle",
+                                "unicode": "1f4aa"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n추가로 문의사항이 있으시면 편히 요청주세요.\n\n감사합니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1705035000.462829",
+        "client_msg_id": "5f1b6ae3-6021-4541-82ac-89f552544c1b",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U05V9N22ZUK",
+                    "U05V2T62KUJ",
+                    "U05UW1S4KQE"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

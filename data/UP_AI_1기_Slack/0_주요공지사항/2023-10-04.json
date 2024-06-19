@@ -1,0 +1,188 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U05UZLEM04V",
+        "text": "<@U05UZLEM04V> 님이 채널에 참여함",
+        "type": "message",
+        "ts": "1696407150.513929"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U05UVV5CVQE",
+        "text": "<@U05UVV5CVQE> 님이 채널에 참여함",
+        "type": "message",
+        "ts": "1696407338.117889"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U05V2GDNNLT",
+        "text": "<@U05V2GDNNLT> 님이 채널에 참여함",
+        "type": "message",
+        "ts": "1696407596.424399"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U05V2GECU9Z",
+        "text": "<@U05V2GECU9Z> 님이 채널에 참여함",
+        "type": "message",
+        "ts": "1696407604.552169"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U05V2H2UBEX",
+        "text": "<@U05V2H2UBEX> 님이 채널에 참여함",
+        "type": "message",
+        "ts": "1696407878.344919"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U05V2HL22M9",
+        "text": "<@U05V2HL22M9> 님이 채널에 참여함",
+        "type": "message",
+        "ts": "1696408085.849909"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U05UW1S4KQE",
+        "text": "<@U05UW1S4KQE> 님이 채널에 참여함",
+        "type": "message",
+        "ts": "1696408161.581449"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U060BLVQYHW",
+        "text": "<@U060BLVQYHW> 님이 채널에 참여함",
+        "type": "message",
+        "ts": "1696408284.459889"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U05UN5DQ423",
+        "text": "<@U05UN5DQ423> 님이 채널에 참여함",
+        "type": "message",
+        "ts": "1696408312.449089"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U05V561TXUL",
+        "text": "<@U05V561TXUL> 님이 채널에 참여함",
+        "type": "message",
+        "ts": "1696408766.166769"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U05UN6NTN8P",
+        "text": "<@U05UN6NTN8P> 님이 채널에 참여함",
+        "type": "message",
+        "ts": "1696408828.698139"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U05V2P37518",
+        "text": "<@U05V2P37518> 님이 채널에 참여함",
+        "type": "message",
+        "ts": "1696409114.758129"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U05UN7M2GKZ",
+        "text": "<@U05UN7M2GKZ> 님이 채널에 참여함",
+        "type": "message",
+        "ts": "1696409209.889799"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U05V2PMAVNE",
+        "text": "<@U05V2PMAVNE> 님이 채널에 참여함",
+        "type": "message",
+        "ts": "1696409330.971619"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U05UW74NJ0N",
+        "text": "<@U05UW74NJ0N> 님이 채널에 참여함",
+        "type": "message",
+        "ts": "1696410221.336559"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U05V2T62KUJ",
+        "text": "<@U05V2T62KUJ> 님이 채널에 참여함",
+        "type": "message",
+        "ts": "1696410682.276239"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U05V0106JDT",
+        "text": "<@U05V0106JDT> 님이 채널에 참여함",
+        "type": "message",
+        "ts": "1696411085.732209"
+    },
+    {
+        "user": "U06061L4S64",
+        "type": "message",
+        "ts": "1696485404.489629",
+        "client_msg_id": "95ef5be1-73ee-4c52-981c-ced507ed8f51",
+        "text": "\"<!channel>\n안녕하세요\n합격자 설문조사 아직 완료하지 못하신 분들이 많습니다. 빠르게 부탁드립니다!\n(이미 하신분들은 해당 X)\n\n<https:\/\/forms.gle\/LCfpSjCUuMLYq26p8>",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "9958a6e7ea98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5988755251283_9958a6e7ea98545615ca_72.png",
+            "first_name": "LM",
+            "real_name": "LM 박진영",
+            "display_name": "LM 박진영",
+            "team": "T05UGFFGL07",
+            "name": "pjy.fc.career",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/lh5.googleusercontent.com\/VAZ3qT_MCCCOx9vZO0jC6ZHlRFPzZWbE4dwbvM6pgfngIsuW_pkYmMSZ-9Tad1q3K3MPI7nelCc",
+                "image_width": 800,
+                "image_height": 600,
+                "image_bytes": 49537,
+                "from_url": "https:\/\/forms.gle\/LCfpSjCUuMLYq26p8",
+                "service_icon": "http:\/\/ssl.gstatic.com\/docs\/forms\/device_home\/ios_120.png",
+                "id": 1,
+                "original_url": "https:\/\/forms.gle\/LCfpSjCUuMLYq26p8",
+                "fallback": "Google Docs: [패스트캠퍼스]Upstage AI Lab 1기 최종합격사전조사",
+                "text": "안녕하세요! 패스트캠퍼스입니다.\nUpstage AI Lab에 함께하게 되신 것을 진심으로 환영하고 축하드립니다. :grin:\n\n과정을 시작에 앞서, 수강생 여러분들의 최종 합류 의사 확인과 준비 현황 파악을 위한 설문을 진행하고자 합니다.\n수강생 여러분의 현황을 파악하기 위함이니, 정확히 작성해주실 것을 부탁드립니다.:memo:",
+                "title": "[패스트캠퍼스]Upstage AI Lab 1기 최종합격사전조사",
+                "title_link": "https:\/\/forms.gle\/LCfpSjCUuMLYq26p8",
+                "service_name": "Google Docs"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tJb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\""
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n안녕하세요\n합격자 설문조사 아직 완료하지 못하신 분들이 많습니다. 빠르게 부탁드립니다!\n(이미 하신분들은 해당 X)\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/forms.gle\/LCfpSjCUuMLYq26p8"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,1024 @@
+[
+    {
+        "user": "U06061L4S64",
+        "type": "message",
+        "ts": "1696927968.949459",
+        "edited": {
+            "user": "U06061L4S64",
+            "ts": "1698651568.000000"
+        },
+        "client_msg_id": "5170447e-3d9b-45b4-9a0c-dd9c30c1b1d5",
+        "text": ":ballot_box_with_check:[Upstage AI Lab  1기주요 링크 모음]\n<https:\/\/docs.google.com\/spreadsheets\/d\/1DsNsujMFQlrcBvaRFw2ILlx1X0m2FMz8tyY6YVCYSMU\/edit?usp=drive_link|▶수강생 공유용 시트>\n<https:\/\/docs.google.com\/spreadsheets\/d\/1ypFcX5rHBUsAoYDUN3TmQClpGnR8wyoaUnBoV4hrZ-4\/edit?usp=drive_link|▶온라인 강의 학습 범위 안내 바로가기>\n<https:\/\/drive.google.com\/drive\/folders\/1lnJWbgr8un4nNobQhOTZFQJIu7uiuE8v?usp=drive_link|▶수강생용 드라이브 폴더 바로가기>\n<https:\/\/kdt.fastcampus.co.kr\/account\/sign-in?redirectUri=%2Fme%2Fcourses|▶온라인강의장 링크>\n<https:\/\/www.notion.so\/Upstage_AI-Lab-1-cffc97e344db479ba4ba76a69554d465?pvs=4|▶Notion 링크>",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "9958a6e7ea98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5988755251283_9958a6e7ea98545615ca_72.png",
+            "first_name": "LM",
+            "real_name": "LM 박진영",
+            "display_name": "LM 박진영",
+            "team": "T05UGFFGL07",
+            "name": "pjy.fc.career",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696927968.949459",
+        "reply_count": 17,
+        "reply_users_count": 6,
+        "latest_reply": "1697690712.134919",
+        "reply_users": [
+            "U05UWVA90H4",
+            "U06061L4S64",
+            "U05UUUNAE5D",
+            "U05UYAVRTSR",
+            "U060LG0BT89",
+            "U05UT0JG4BZ"
+        ],
+        "replies": [
+            {
+                "user": "U05UWVA90H4",
+                "ts": "1696931200.844309"
+            },
+            {
+                "user": "U06061L4S64",
+                "ts": "1696932274.786169"
+            },
+            {
+                "user": "U05UWVA90H4",
+                "ts": "1696932303.592779"
+            },
+            {
+                "user": "U05UUUNAE5D",
+                "ts": "1696942532.523669"
+            },
+            {
+                "user": "U05UYAVRTSR",
+                "ts": "1696984822.820639"
+            },
+            {
+                "user": "U05UYAVRTSR",
+                "ts": "1696987074.438079"
+            },
+            {
+                "user": "U060LG0BT89",
+                "ts": "1696996398.221479"
+            },
+            {
+                "user": "U05UYAVRTSR",
+                "ts": "1696998347.014829"
+            },
+            {
+                "user": "U060LG0BT89",
+                "ts": "1696998411.582499"
+            },
+            {
+                "user": "U05UT0JG4BZ",
+                "ts": "1697690463.835489"
+            },
+            {
+                "user": "U06061L4S64",
+                "ts": "1697690506.029219"
+            },
+            {
+                "user": "U05UT0JG4BZ",
+                "ts": "1697690529.138799"
+            },
+            {
+                "user": "U06061L4S64",
+                "ts": "1697690649.480609"
+            },
+            {
+                "user": "U060LG0BT89",
+                "ts": "1697690658.713509"
+            },
+            {
+                "user": "U05UT0JG4BZ",
+                "ts": "1697690690.100939"
+            },
+            {
+                "user": "U06061L4S64",
+                "ts": "1697690700.481689"
+            },
+            {
+                "user": "U05UT0JG4BZ",
+                "ts": "1697690712.134919"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "attachments": [
+            {
+                "from_url": "https:\/\/kdt.fastcampus.co.kr\/account\/sign-in?redirectUri=%2Fme%2Fcourses",
+                "image_url": "https:\/\/storage.googleapis.com\/static.fastcampus.co.kr\/prod\/assets\/img\/common\/share-fastcampus.jpg?9515316c6fab4c39735047411b515450",
+                "image_width": 1200,
+                "image_height": 630,
+                "image_bytes": 15428,
+                "id": 1,
+                "original_url": "https:\/\/kdt.fastcampus.co.kr\/account\/sign-in?redirectUri=%2Fme%2Fcourses",
+                "fallback": "패스트캠퍼스",
+                "text": "프로그래밍, 영상편집, UX\/UI, 마케팅, 데이터 분석, 엑셀강의, The RED, 국비지원, 기업교육, 서비스 제공.",
+                "title": "패스트캠퍼스",
+                "title_link": "https:\/\/kdt.fastcampus.co.kr\/account\/sign-in?redirectUri=%2Fme%2Fcourses",
+                "service_name": "kdt.fastcampus.co.kr"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iImG5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "ballot_box_with_check",
+                                "unicode": "2611-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "[Upstage AI Lab  1기주요 링크 모음]\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/spreadsheets\/d\/1DsNsujMFQlrcBvaRFw2ILlx1X0m2FMz8tyY6YVCYSMU\/edit?usp=drive_link",
+                                "text": "▶수강생 공유용 시트"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/spreadsheets\/d\/1ypFcX5rHBUsAoYDUN3TmQClpGnR8wyoaUnBoV4hrZ-4\/edit?usp=drive_link",
+                                "text": "▶온라인 강의 학습 범위 안내 바로가기"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/drive.google.com\/drive\/folders\/1lnJWbgr8un4nNobQhOTZFQJIu7uiuE8v?usp=drive_link",
+                                "text": "▶수강생용 드라이브 폴더 바로가기"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/kdt.fastcampus.co.kr\/account\/sign-in?redirectUri=%2Fme%2Fcourses",
+                                "text": "▶온라인강의장 링크"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.notion.so\/Upstage_AI-Lab-1-cffc97e344db479ba4ba76a69554d465?pvs=4",
+                                "text": "▶Notion 링크"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "온라인강의장 로그인 이메일은 어떤 이메일인가요..? 아래와 같이 떠서요.",
+        "files": [
+            {
+                "id": "F060J62MQ2G",
+                "created": 1696931196,
+                "timestamp": 1696931196,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U05UWVA90H4",
+                "user_team": "T05UGFFGL07",
+                "editable": false,
+                "size": 22100,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F060J62MQ2G\/image.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F060J62MQ2G\/download\/image.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F060J62MQ2G-1c1a009b03\/image_64.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F060J62MQ2G-1c1a009b03\/image_80.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F060J62MQ2G-1c1a009b03\/image_360.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_360_w": 360,
+                "thumb_360_h": 171,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F060J62MQ2G-1c1a009b03\/image_480.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_480_w": 480,
+                "thumb_480_h": 228,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F060J62MQ2G-1c1a009b03\/image_160.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F060J62MQ2G-1c1a009b03\/image_720.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_720_w": 720,
+                "thumb_720_h": 342,
+                "original_w": 740,
+                "original_h": 352,
+                "thumb_tiny": "AwAWADC+3m7\/AJdu3I6+lCebu+fbj2p5BJ+8RSbTj7x\/KgB1FN2n++aUAjqc0ALRUbTxIxVpEBHYsKFnhYgLKhJ6AMKAJKKKKACiiigDNurCWW6eRWTBI4OfSm2+nyx3CSMyYBzgZrSPWgdaAP\/Z",
+                "permalink": "https:\/\/fcupstageai1.slack.com\/files\/U05UWVA90H4\/F060J62MQ2G\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T05UGFFGL07-F060J62MQ2G-32ab16820e",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U05UWVA90H4",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JLoM5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "온라인강의장 로그인 이메일은 어떤 이메일인가요..? 아래와 같이 떠서요."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1696931200.844309",
+        "edited": {
+            "user": "U05UWVA90H4",
+            "ts": "1696931243.000000"
+        },
+        "client_msg_id": "ce5666fd-f5cd-4693-85ec-bca74dffa033",
+        "thread_ts": "1696927968.949459",
+        "parent_user_id": "U06061L4S64"
+    },
+    {
+        "user": "U06061L4S64",
+        "type": "message",
+        "ts": "1696932274.786169",
+        "client_msg_id": "ce610a29-1b50-453d-a059-64c3456ae19c",
+        "text": "아 메일은 추후에 다시 드리겠습니다!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "9958a6e7ea98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5988755251283_9958a6e7ea98545615ca_72.png",
+            "first_name": "LM",
+            "real_name": "LM 박진영",
+            "display_name": "LM 박진영",
+            "team": "T05UGFFGL07",
+            "name": "pjy.fc.career",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696927968.949459",
+        "parent_user_id": "U06061L4S64",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RMCoW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "아 메일은 추후에 다시 드리겠습니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05UWVA90H4",
+        "type": "message",
+        "ts": "1696932303.592779",
+        "client_msg_id": "79fce172-744c-4077-a6e5-b8dd2695ba02",
+        "text": "그럼 이후에 이메일 공지해주시면, 그때부터 온라인 강의장 접속 가능하다로 이해하면 되겠죠?",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "e039a582c034",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5983012631430_e039a582c03450d83dc6_72.png",
+            "first_name": "이준형",
+            "real_name": "이준형",
+            "display_name": "이준형",
+            "team": "T05UGFFGL07",
+            "name": "hewberryd8",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696927968.949459",
+        "parent_user_id": "U06061L4S64",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Z2NCP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "그럼 이후에 이메일 공지해주시면, 그때부터 온라인 강의장 접속 가능하다로 이해하면 되겠죠?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05UUUNAE5D",
+        "type": "message",
+        "ts": "1696942532.523669",
+        "client_msg_id": "b47c70c8-aaa8-4181-a1bf-445622777098",
+        "text": "저도 같은 에러가 뜹니다. 비번을 지시대로 12345678을 입력했는데 로그인이 안 되네요.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "32899ebdb4c2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5995423014227_32899ebdb4c26d670b69_72.png",
+            "first_name": "감성필SungFeelCalm",
+            "real_name": "감성필SungFeelCalm",
+            "display_name": "감성필",
+            "team": "T05UGFFGL07",
+            "name": "betterthingsarecoming",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696927968.949459",
+        "parent_user_id": "U06061L4S64",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6lbYV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "저도 같은 에러가 뜹니다. 비번을 지시대로 12345678을 입력했는데 로그인이 안 되네요."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05UYAVRTSR",
+        "type": "message",
+        "ts": "1696984579.156249",
+        "client_msg_id": "44d11e10-a863-464d-a66d-3e6a5a8836cb",
+        "text": "<!channel> 안녕하세요 수강생분들 좋은 아침입니다.\n오늘 강의 시작 전 두 가지 안내드립니다 :)\n\n&gt; *1. 훈련참여서약서 및 개인정보수집이용동의서 서명 요청*\n수강신청 시, 제출해주신 이메일로 서명을 요청드렸습니다. 모두싸인이라는 전자서명 플랫폼으로 요청드렸으니 모두 메일을 확인하시어 서명 완료해주시기 바랍니다.\n\n&gt; *2. OT 자료 공유*\nOT 자료를 <https:\/\/drive.google.com\/file\/d\/14WEGD458qKoEg3AoU59lLAath4D2EQyj\/view?usp=drive_link|수강생 공유용 드라이브 폴더> 내에 업로드해두었으니, 필요하신 분들은 확인 부탁드립니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "g6e6ee900c48",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e6ee900c48c19701d150f52a69af64a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "김수현",
+            "real_name": "김수현",
+            "display_name": "FC 김수현 매니저",
+            "team": "T05UGFFGL07",
+            "name": "suhyunkim",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696984579.156249",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1696985893.146159",
+        "reply_users": [
+            "U05VAU596PP",
+            "U05UYAVRTSR"
+        ],
+        "replies": [
+            {
+                "user": "U05VAU596PP",
+                "ts": "1696985514.157599"
+            },
+            {
+                "user": "U05UYAVRTSR",
+                "ts": "1696985893.146159"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "M2DxS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 안녕하세요 수강생분들 좋은 아침입니다.\n오늘 강의 시작 전 두 가지 안내드립니다 :)\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "1. 훈련참여서약서 및 개인정보수집이용동의서 서명 요청",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "수강신청 시, 제출해주신 이메일로 서명을 요청드렸습니다. 모두싸인이라는 전자서명 플랫폼으로 요청드렸으니 모두 메일을 확인하시어 서명 완료해주시기 바랍니다.\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "2. OT 자료 공유",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "OT 자료를 "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/drive.google.com\/file\/d\/14WEGD458qKoEg3AoU59lLAath4D2EQyj\/view?usp=drive_link",
+                                "text": "수강생 공유용 드라이브 폴더"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 내에 업로드해두었으니, 필요하신 분들은 확인 부탁드립니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "thumbsup_all",
+                "users": [
+                    "U060LG0BT89",
+                    "U060C67EYQ5",
+                    "U05V2PMAVNE",
+                    "U05V2HL22M9",
+                    "U0600GGHJTC"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "subtype": "thread_broadcast",
+        "user": "U05UYAVRTSR",
+        "thread_ts": "1696927968.949459",
+        "root": {
+            "user": "U06061L4S64",
+            "type": "message",
+            "ts": "1696927968.949459",
+            "edited": {
+                "user": "U06061L4S64",
+                "ts": "1698651568.000000"
+            },
+            "client_msg_id": "5170447e-3d9b-45b4-9a0c-dd9c30c1b1d5",
+            "text": ":ballot_box_with_check:[Upstage AI Lab  1기주요 링크 모음]\n<https:\/\/docs.google.com\/spreadsheets\/d\/1DsNsujMFQlrcBvaRFw2ILlx1X0m2FMz8tyY6YVCYSMU\/edit?usp=drive_link|▶수강생 공유용 시트>\n<https:\/\/docs.google.com\/spreadsheets\/d\/1ypFcX5rHBUsAoYDUN3TmQClpGnR8wyoaUnBoV4hrZ-4\/edit?usp=drive_link|▶온라인 강의 학습 범위 안내 바로가기>\n<https:\/\/drive.google.com\/drive\/folders\/1lnJWbgr8un4nNobQhOTZFQJIu7uiuE8v?usp=drive_link|▶수강생용 드라이브 폴더 바로가기>\n<https:\/\/kdt.fastcampus.co.kr\/account\/sign-in?redirectUri=%2Fme%2Fcourses|▶온라인강의장 링크>\n<https:\/\/www.notion.so\/Upstage_AI-Lab-1-cffc97e344db479ba4ba76a69554d465?pvs=4|▶Notion 링크>",
+            "team": "T05UGFFGL07",
+            "thread_ts": "1696927968.949459",
+            "reply_count": 17,
+            "reply_users_count": 6,
+            "latest_reply": "1697690712.134919",
+            "reply_users": [
+                "U05UWVA90H4",
+                "U06061L4S64",
+                "U05UUUNAE5D",
+                "U05UYAVRTSR",
+                "U060LG0BT89",
+                "U05UT0JG4BZ"
+            ],
+            "replies": [
+                {
+                    "user": "U05UWVA90H4",
+                    "ts": "1696931200.844309"
+                },
+                {
+                    "user": "U06061L4S64",
+                    "ts": "1696932274.786169"
+                },
+                {
+                    "user": "U05UWVA90H4",
+                    "ts": "1696932303.592779"
+                },
+                {
+                    "user": "U05UUUNAE5D",
+                    "ts": "1696942532.523669"
+                },
+                {
+                    "user": "U05UYAVRTSR",
+                    "ts": "1696984822.820639"
+                },
+                {
+                    "user": "U05UYAVRTSR",
+                    "ts": "1696987074.438079"
+                },
+                {
+                    "user": "U060LG0BT89",
+                    "ts": "1696996398.221479"
+                },
+                {
+                    "user": "U05UYAVRTSR",
+                    "ts": "1696998347.014829"
+                },
+                {
+                    "user": "U060LG0BT89",
+                    "ts": "1696998411.582499"
+                },
+                {
+                    "user": "U05UT0JG4BZ",
+                    "ts": "1697690463.835489"
+                },
+                {
+                    "user": "U06061L4S64",
+                    "ts": "1697690506.029219"
+                },
+                {
+                    "user": "U05UT0JG4BZ",
+                    "ts": "1697690529.138799"
+                },
+                {
+                    "user": "U06061L4S64",
+                    "ts": "1697690649.480609"
+                },
+                {
+                    "user": "U060LG0BT89",
+                    "ts": "1697690658.713509"
+                },
+                {
+                    "user": "U05UT0JG4BZ",
+                    "ts": "1697690690.100939"
+                },
+                {
+                    "user": "U06061L4S64",
+                    "ts": "1697690700.481689"
+                },
+                {
+                    "user": "U05UT0JG4BZ",
+                    "ts": "1697690712.134919"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false,
+            "attachments": [
+                {
+                    "from_url": "https:\/\/kdt.fastcampus.co.kr\/account\/sign-in?redirectUri=%2Fme%2Fcourses",
+                    "image_url": "https:\/\/storage.googleapis.com\/static.fastcampus.co.kr\/prod\/assets\/img\/common\/share-fastcampus.jpg?9515316c6fab4c39735047411b515450",
+                    "image_width": 1200,
+                    "image_height": 630,
+                    "image_bytes": 15428,
+                    "id": 1,
+                    "original_url": "https:\/\/kdt.fastcampus.co.kr\/account\/sign-in?redirectUri=%2Fme%2Fcourses",
+                    "fallback": "패스트캠퍼스",
+                    "text": "프로그래밍, 영상편집, UX\/UI, 마케팅, 데이터 분석, 엑셀강의, The RED, 국비지원, 기업교육, 서비스 제공.",
+                    "title": "패스트캠퍼스",
+                    "title_link": "https:\/\/kdt.fastcampus.co.kr\/account\/sign-in?redirectUri=%2Fme%2Fcourses",
+                    "service_name": "kdt.fastcampus.co.kr"
+                }
+            ],
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "iImG5",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "emoji",
+                                    "name": "ballot_box_with_check",
+                                    "unicode": "2611-fe0f"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "[Upstage AI Lab  1기주요 링크 모음]\n"
+                                },
+                                {
+                                    "type": "link",
+                                    "url": "https:\/\/docs.google.com\/spreadsheets\/d\/1DsNsujMFQlrcBvaRFw2ILlx1X0m2FMz8tyY6YVCYSMU\/edit?usp=drive_link",
+                                    "text": "▶수강생 공유용 시트"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                },
+                                {
+                                    "type": "link",
+                                    "url": "https:\/\/docs.google.com\/spreadsheets\/d\/1ypFcX5rHBUsAoYDUN3TmQClpGnR8wyoaUnBoV4hrZ-4\/edit?usp=drive_link",
+                                    "text": "▶온라인 강의 학습 범위 안내 바로가기"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                },
+                                {
+                                    "type": "link",
+                                    "url": "https:\/\/drive.google.com\/drive\/folders\/1lnJWbgr8un4nNobQhOTZFQJIu7uiuE8v?usp=drive_link",
+                                    "text": "▶수강생용 드라이브 폴더 바로가기"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                },
+                                {
+                                    "type": "link",
+                                    "url": "https:\/\/kdt.fastcampus.co.kr\/account\/sign-in?redirectUri=%2Fme%2Fcourses",
+                                    "text": "▶온라인강의장 링크"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                },
+                                {
+                                    "type": "link",
+                                    "url": "https:\/\/www.notion.so\/Upstage_AI-Lab-1-cffc97e344db479ba4ba76a69554d465?pvs=4",
+                                    "text": "▶Notion 링크"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "type": "message",
+        "ts": "1696984822.820639",
+        "client_msg_id": "9cf0d162-f4a9-436f-8764-2d35c10ecccf",
+        "text": "온라인 강의장 내 강의 입과가 완료되었으니, 모두 확인 부탁드립니다.\n우선 통계 강의만 입과가 된 상태이며, 강의는 계속해서 추가 입과될 예정입니다.\n\n&gt; *이메일* : 서류 전형 접수 시 제출해주신 메일\n&gt; *초기 비밀번호* : 12345678",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FspEX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "온라인 강의장 내 강의 입과가 완료되었으니, 모두 확인 부탁드립니다.\n우선 통계 강의만 입과가 된 상태이며, 강의는 계속해서 추가 입과될 예정입니다.\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "이메일",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " : 서류 전형 접수 시 제출해주신 메일\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "초기 비밀번호",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " : 12345678"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U05UNMQ4LP9",
+                    "U060BLVQYHW",
+                    "U060LG0BT89",
+                    "U05UN6NTN8P",
+                    "U060D1KJECR",
+                    "U05V2HL22M9",
+                    "U0600GGHJTC"
+                ],
+                "count": 7
+            }
+        ]
+    },
+    {
+        "user": "U05VAU596PP",
+        "type": "message",
+        "ts": "1696985514.157599",
+        "client_msg_id": "29833250-3c29-4faf-95f2-1d531fabc0a5",
+        "text": "어제 이소영B로 지정이 되었는데 서명 요청에 서명자가 이소영A로 되어있습니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "850d40cd33f4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5996957360085_850d40cd33f433747c40_72.png",
+            "first_name": "이소영B",
+            "real_name": "이소영B",
+            "display_name": "",
+            "team": "T05UGFFGL07",
+            "name": "sheep5450",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696984579.156249",
+        "parent_user_id": "U05UYAVRTSR",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4PEyr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "어제 이소영B로 지정이 되었는데 서명 요청에 서명자가 이소영A로 되어있습니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U05UYAVRTSR"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05UYAVRTSR",
+        "type": "message",
+        "ts": "1696985893.146159",
+        "client_msg_id": "ab43e933-96a8-41a0-b5d0-abed07b40e9c",
+        "text": "앗 소영님. 저희 내부적으로 실수를 했었네요 :melting_face: 그 메일로 서명 부탁드립니다!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "g6e6ee900c48",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e6ee900c48c19701d150f52a69af64a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "김수현",
+            "real_name": "김수현",
+            "display_name": "FC 김수현 매니저",
+            "team": "T05UGFFGL07",
+            "name": "suhyunkim",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696984579.156249",
+        "parent_user_id": "U05UYAVRTSR",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qvgn9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "앗 소영님. 저희 내부적으로 실수를 했었네요 "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "melting_face",
+                                "unicode": "1fae0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 그 메일로 서명 부탁드립니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05UYAVRTSR",
+        "type": "message",
+        "ts": "1696987074.438079",
+        "client_msg_id": "2338cccf-1316-40a4-8474-b0d230f6f330",
+        "text": "이미 패스트캠퍼스에 가입한 이력이 있으신 분들은 초기 비밀번호로 로그인이 어려울 수 있습니다. 기존에 사용하시던 비밀번호 입력 후 제대로 로그인되는지 확인 부탁드리며, 여전히 로그인 안되신다면 다시 한 번 말씀 부탁드립니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "g6e6ee900c48",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e6ee900c48c19701d150f52a69af64a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "김수현",
+            "real_name": "김수현",
+            "display_name": "FC 김수현 매니저",
+            "team": "T05UGFFGL07",
+            "name": "suhyunkim",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696927968.949459",
+        "parent_user_id": "U06061L4S64",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BxK0N",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "이미 패스트캠퍼스에 가입한 이력이 있으신 분들은 초기 비밀번호로 로그인이 어려울 수 있습니다. 기존에 사용하시던 비밀번호 입력 후 제대로 로그인되는지 확인 부탁드리며, 여전히 로그인 안되신다면 다시 한 번 말씀 부탁드립니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U060LG0BT89",
+        "type": "message",
+        "ts": "1696996398.221479",
+        "client_msg_id": "cf8d9364-0a05-4ad0-a056-25baec493fee",
+        "text": "기존 계정으로 로그인했습니다만 내 강의 보기에 아무것도 없습니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "g273c76b80b5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/273c76b80b5c013cab6c608d10041dd4.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "김준호",
+            "real_name": "김준호",
+            "display_name": "",
+            "team": "T05UGFFGL07",
+            "name": "demyank88",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696927968.949459",
+        "parent_user_id": "U06061L4S64",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nvWN9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "기존 계정으로 로그인했습니다만 내 강의 보기에 아무것도 없습니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05UYAVRTSR",
+        "type": "message",
+        "ts": "1696998347.014829",
+        "client_msg_id": "6a4cfc9b-8dd4-4f2d-8077-7b1d2f265ec5",
+        "text": "온라인강의장에 로그인하신 것 맞을까요?",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "g6e6ee900c48",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e6ee900c48c19701d150f52a69af64a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "김수현",
+            "real_name": "김수현",
+            "display_name": "FC 김수현 매니저",
+            "team": "T05UGFFGL07",
+            "name": "suhyunkim",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696927968.949459",
+        "parent_user_id": "U06061L4S64",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ps9e4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "온라인강의장에 로그인하신 것 맞을까요?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U060LG0BT89",
+        "type": "message",
+        "ts": "1696998411.582499",
+        "client_msg_id": "b1cd81b4-10f9-4b42-96eb-f9d93b979cf7",
+        "text": "아하 확인했습니다. 감사합니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "g273c76b80b5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/273c76b80b5c013cab6c608d10041dd4.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "김준호",
+            "real_name": "김준호",
+            "display_name": "",
+            "team": "T05UGFFGL07",
+            "name": "demyank88",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696927968.949459",
+        "parent_user_id": "U06061L4S64",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1LPF\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "아하 확인했습니다. 감사합니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "love_letter",
+                "users": [
+                    "U05UYAVRTSR"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

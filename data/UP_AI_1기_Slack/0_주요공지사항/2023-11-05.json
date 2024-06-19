@@ -1,0 +1,79 @@
+[
+    {
+        "user": "U05VAHXECP6",
+        "type": "message",
+        "ts": "1699257014.358669",
+        "client_msg_id": "404af716-c1eb-4815-bc15-8020bdad7c47",
+        "text": "<!channel>\n안녕하세요. Upstage AI Lab 수강생 여러분! :loudspeaker:\n11\/9(목) 새벽에 온라인 강의장 점검이 예정되어 있어 이 기간에는 접속이 어려우니, 미리 확인하여 강의 수강에 참고 부탁드립니다.\n```[공지] 홈페이지 일시 점검 안내(2023년 11월 09일)\n\n안녕하세요. 패스트캠퍼스입니다.\n보다 안정화된 서비스 제공을 위한 시스템 점검이 아래 일정에 진행될 예정입니다.\n\n1. 점검 일시: 2023년 11월 09일 목요일\n2. 점검 시간: A.M 02:00~A.M 03:00\n3. 점검 대상: 홈페이지 서버 점검\n4. 점검 진행 시 영향: 홈페이지 이용, 온라인 강의 수강 시 일시적으로 순단 현상이 발생할 수 있음. \n\n※ 점검 시간은 작업 진행에 따라 다소 변경될 수 있습니다.\n\n해당 시간 내 끊김 현상 발생 시 새로고침 후 재 로그인하여 이용을 부탁드리며, 해당 시간 이후에도 정상 이용이 어려우신 경우 매니저에게 문의 주시면 빠르게 확인하고 답변 드리겠습니다.\n감사합니다.```",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "50abee101814",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-11\/6044824153712_50abee1018149e21919b_72.jpg",
+            "first_name": "이상영",
+            "real_name": "이상영",
+            "display_name": "FC 이상영 매니저",
+            "team": "T05UGFFGL07",
+            "name": "sangyeong.lee",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/uCM9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n안녕하세요. Upstage AI Lab 수강생 여러분! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "loudspeaker",
+                                "unicode": "1f4e2"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n11\/9(목) 새벽에 온라인 강의장 점검이 예정되어 있어 이 기간에는 접속이 어려우니, 미리 확인하여 강의 수강에 참고 부탁드립니다.\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "[공지] 홈페이지 일시 점검 안내(2023년 11월 09일)\n\n안녕하세요. 패스트캠퍼스입니다.\n보다 안정화된 서비스 제공을 위한 시스템 점검이 아래 일정에 진행될 예정입니다.\n\n1. 점검 일시: 2023년 11월 09일 목요일\n2. 점검 시간: A.M 02:00~A.M 03:00\n3. 점검 대상: 홈페이지 서버 점검\n4. 점검 진행 시 영향: 홈페이지 이용, 온라인 강의 수강 시 일시적으로 순단 현상이 발생할 수 있음. \n\n※ 점검 시간은 작업 진행에 따라 다소 변경될 수 있습니다.\n\n해당 시간 내 끊김 현상 발생 시 새로고침 후 재 로그인하여 이용을 부탁드리며, 해당 시간 이후에도 정상 이용이 어려우신 경우 매니저에게 문의 주시면 빠르게 확인하고 답변 드리겠습니다.\n감사합니다."
+                            }
+                        ],
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "ne",
+                "users": [
+                    "U05UW1S4KQE",
+                    "U060LG0BT89",
+                    "U05V5B27DK7",
+                    "U05VB9FA6MS",
+                    "U05VDDP88BW",
+                    "U05V379NETU",
+                    "U05UT0JG4BZ",
+                    "U05UN5DQ423"
+                ],
+                "count": 8
+            }
+        ]
+    }
+]

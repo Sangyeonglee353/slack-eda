@@ -1,0 +1,642 @@
+[
+    {
+        "user": "U05V0106JDT",
+        "type": "message",
+        "ts": "1701141228.839009",
+        "client_msg_id": "c3b28275-958b-4548-8827-e72b10f92b04",
+        "text": "<@U05VADPQPCL> <@U05UNC6FNK1> 어제  11월 27일 스크린 샷을 모두 찍었고 QR체크도 했는데 무엇이 문제인지 HRD시스템상 결석처리가 되어있습니다. 정정요청을 하고싶은데 입실, 퇴실 스크린샷을 요청드릴 수 있을까요??",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "gd7b44870731",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d7b448707312b1f05516b12cfcdc5b63.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "김승호",
+            "real_name": "김승호",
+            "display_name": "",
+            "team": "T05UGFFGL07",
+            "name": "shkim0925",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1701141228.839009",
+        "reply_count": 4,
+        "reply_users_count": 3,
+        "latest_reply": "1701144991.618869",
+        "reply_users": [
+            "U05VADPQPCL",
+            "U05V0106JDT",
+            "U05V81G5ZDY"
+        ],
+        "replies": [
+            {
+                "user": "U05VADPQPCL",
+                "ts": "1701141717.376389"
+            },
+            {
+                "user": "U05V0106JDT",
+                "ts": "1701141950.775889"
+            },
+            {
+                "user": "U05VADPQPCL",
+                "ts": "1701142145.380239"
+            },
+            {
+                "user": "U05V81G5ZDY",
+                "ts": "1701144991.618869"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uEhvC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05VADPQPCL"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05UNC6FNK1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 어제  11월 27일 스크린 샷을 모두 찍었고 QR체크도 했는데 무엇이 문제인지 HRD시스템상 결석처리가 되어있습니다. 정정요청을 하고싶은데 입실, 퇴실 스크린샷을 요청드릴 수 있을까요??"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U05V81G5ZDY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05VADPQPCL",
+        "type": "message",
+        "ts": "1701141717.376389",
+        "client_msg_id": "65e53d49-9230-4c2a-93d3-54445f4892f1",
+        "text": "안녕하세요 승호님!\nUpstage AI Lab 과정은 단순 실수로 인한 정정은 받지 않고 있습니다..:sob:\n해당 사항은 이전 매니저인 진영님께서 *<https:\/\/fcupstageai1.slack.com\/archives\/C05UU79AD4M\/p1697162400945969|공지 >*하신 내용 참고 부탁 드립니다.\n\nHRD QR 진행 시 인식이 제대로 되지 않을 수 있어 당일 입\/퇴실 시간이 어플 내에 나타나야 정상적으로 진행 된 것으로 인정됩니다.\nQR 체크 이후 시간이 나타났는지 꼭 확인 부탁 드리며 어제 왜 결석인지에 대한 내용은 행정 매니저님께 공유 받는 대로 알려드리겠습니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "07e7ca00b8f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5991092857253_07e7ca00b8f0d0b13ba1_72.png",
+            "first_name": "패스트캠퍼스박기준",
+            "real_name": "패스트캠퍼스박기준",
+            "display_name": "LM 박기준",
+            "team": "T05UGFFGL07",
+            "name": "pgj.fc.career",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1701141228.839009",
+        "parent_user_id": "U05V0106JDT",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SDLzE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "안녕하세요 승호님!\nUpstage AI Lab 과정은 단순 실수로 인한 정정은 받지 않고 있습니다.."
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sob",
+                                "unicode": "1f62d"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n해당 사항은 이전 매니저인 진영님께서 "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/fcupstageai1.slack.com\/archives\/C05UU79AD4M\/p1697162400945969",
+                                "text": "공지 ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "하신 내용 참고 부탁 드립니다.\n\nHRD QR 진행 시 인식이 제대로 되지 않을 수 있어 당일 입\/퇴실 시간이 어플 내에 나타나야 정상적으로 진행 된 것으로 인정됩니다.\nQR 체크 이후 시간이 나타났는지 꼭 확인 부탁 드리며 어제 왜 결석인지에 대한 내용은 행정 매니저님께 공유 받는 대로 알려드리겠습니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U05V0106JDT"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05V0106JDT",
+        "type": "message",
+        "ts": "1701141950.775889",
+        "edited": {
+            "user": "U05V0106JDT",
+            "ts": "1701141961.000000"
+        },
+        "client_msg_id": "d1030d57-fc98-4ef8-883b-bcdc28f68590",
+        "text": "넵, 감사합니다. 단순실수는 아니고 저는 분명히 입실체크를 했는데 퇴실할때보니 HRD오류로 기록이 없어져 있었던 상황입니다ㅠ 지난번에도 이런 일이 있어서 HRD오류 사유로 스크린샷으로 정정진행한 적이 있습니다~!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "gd7b44870731",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d7b448707312b1f05516b12cfcdc5b63.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "김승호",
+            "real_name": "김승호",
+            "display_name": "",
+            "team": "T05UGFFGL07",
+            "name": "shkim0925",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1701141228.839009",
+        "parent_user_id": "U05V0106JDT",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DRHKd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "넵, 감사합니다. 단순실수는 아니고 저는 분명히 입실체크를 했는데 퇴실할때보니 HRD오류로 기록이 없어져 있었던 상황입니다ㅠ 지난번에도 이런 일이 있어서 HRD오류 사유로 스크린샷으로 정정진행한 적이 있습니다~!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U05VADPQPCL"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05VADPQPCL",
+        "type": "message",
+        "ts": "1701142145.380239",
+        "client_msg_id": "6f323b45-2eb1-4fcf-9f69-838a4b962675",
+        "text": "<@U05V81G5ZDY> 안녕하세요 현우님!\n승호님이 말씀해주신 사항 확인 부탁 드리며 정정 사유 해당하는지 알려주시면 절차 진행하도록 하겠습니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "07e7ca00b8f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5991092857253_07e7ca00b8f0d0b13ba1_72.png",
+            "first_name": "패스트캠퍼스박기준",
+            "real_name": "패스트캠퍼스박기준",
+            "display_name": "LM 박기준",
+            "team": "T05UGFFGL07",
+            "name": "pgj.fc.career",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1701141228.839009",
+        "parent_user_id": "U05V0106JDT",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "71+AL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05V81G5ZDY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 안녕하세요 현우님!\n승호님이 말씀해주신 사항 확인 부탁 드리며 정정 사유 해당하는지 알려주시면 절차 진행하도록 하겠습니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05V81G5ZDY",
+        "type": "message",
+        "ts": "1701144991.618869",
+        "client_msg_id": "4ef6a582-927e-4868-b134-65e57584d0dc",
+        "text": "<@U05V0106JDT> 안녕하세요 행정 매니저입니다!\n승호님 말씀 주신대로 27일자 입\/퇴실 QR이 모두 확인이 되지 않은 것으로 보입니다.\n가급적 정정 요청에 모두 응답해드리고 싶지만 지금까지 거절한 수강생 분들에게 예의가 아니라고 생각합니다.\n승호님 10\/19일자 정정을 진행 한 것은 과정 초기에 모든 수강생 분들이 QR 체크에 익숙하지 않은 관계로 모든 정정을 도와드렸고 이후 공지 부터는 오류로 확인 되지 않으면 정정 불가로 진행된다는 것은 모두와의 약속입니다.\n\n이런 점에서 QR 체크 시 HRD 시간 표시가 되는 것으로 체크 완료 했다고 확인하기 바라며 시간 표시가 되지 않는다면 다시 한번 QR 체크를 시도하여 주시면 됩니다.\n\n혹여나 오류가 있었음을 확인 할 내용이 있으면 전달 주세요!!\n지금 상황으로는 다른 분들과 같은 잣대로 정정 불가함을 말씀드립니다.\n감사합니다. cc. <@U05VADPQPCL>",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "db1aceeb0d90",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5994058472162_db1aceeb0d9030c57e69_72.jpg",
+            "first_name": "김현우",
+            "real_name": "김현우",
+            "display_name": "FC 김현우 매니저",
+            "team": "T05UGFFGL07",
+            "name": "hyunwoo.kim",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1701141228.839009",
+        "parent_user_id": "U05V0106JDT",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4WvP5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05V0106JDT"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 안녕하세요 행정 매니저입니다!\n승호님 말씀 주신대로 27일자 입\/퇴실 QR이 모두 확인이 되지 않은 것으로 보입니다.\n가급적 정정 요청에 모두 응답해드리고 싶지만 지금까지 거절한 수강생 분들에게 예의가 아니라고 생각합니다.\n승호님 10\/19일자 정정을 진행 한 것은 과정 초기에 모든 수강생 분들이 QR 체크에 익숙하지 않은 관계로 모든 정정을 도와드렸고 이후 공지 부터는 오류로 확인 되지 않으면 정정 불가로 진행된다는 것은 모두와의 약속입니다.\n\n이런 점에서 QR 체크 시 HRD 시간 표시가 되는 것으로 체크 완료 했다고 확인하기 바라며 시간 표시가 되지 않는다면 다시 한번 QR 체크를 시도하여 주시면 됩니다.\n\n혹여나 오류가 있었음을 확인 할 내용이 있으면 전달 주세요!!\n지금 상황으로는 다른 분들과 같은 잣대로 정정 불가함을 말씀드립니다.\n감사합니다. cc. "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05VADPQPCL"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U05VADPQPCL"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05UNC6FNK1",
+        "type": "message",
+        "ts": "1701150306.717099",
+        "edited": {
+            "user": "U05UNC6FNK1",
+            "ts": "1701301772.000000"
+        },
+        "client_msg_id": "b0cb2658-db8a-4eb0-bc60-3d3ad2d1fbbe",
+        "text": "*<!channel>* 부트캠프 수강생 여러분 안녕하세요~\n_<지난 금요일 HRD 관련 통합ID 및 시스템 업데이트 이후로 변동된 부분_ >있어 공유드립니다.\n\n*K-디지털 트레이닝 과정의 관리가 엄격해짐에 따라 부정훈련 \/ 출결을 방지하고자* 업데이트 된 내용입니다.\n\n*QR 체크시간 변동>>>>>>>>>*\n• 기존 : 하루 중 입실 \/ 퇴실 시각 자유롭게 진행\n• *변경 : 입실 10분전, 퇴실 후 10분 이후*\n*따라서 시작 10분전, 19시 퇴실시 19시 10분까지만 QR 체크 가능*, 이외 불가로 확인해주시길 바라며, 단순 미체크는 QR 정정이 아니오니, LM님 안내 시각에 꼭 QR을 진행해주시길 바랍니다.\n`LM님 QR 체크 안내 시 -10~+10분까지 QR체크`\n```이외 기존과 동일, 시작 10분까지 정상출결, 퇴실  10분전까지 정상퇴실```\n감사합니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "260d154ea1e2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5979526758263_260d154ea1e2177fd001_72.jpg",
+            "first_name": "FC",
+            "real_name": "FC 하시안 매니저",
+            "display_name": "FC 하시안 매니저",
+            "team": "T05UGFFGL07",
+            "name": "xianha",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1701150306.717099",
+        "reply_count": 5,
+        "reply_users_count": 2,
+        "latest_reply": "1701656461.794149",
+        "reply_users": [
+            "U05UWVA90H4",
+            "U05UNC6FNK1"
+        ],
+        "replies": [
+            {
+                "user": "U05UWVA90H4",
+                "ts": "1701164322.784159"
+            },
+            {
+                "user": "U05UWVA90H4",
+                "ts": "1701165668.789829"
+            },
+            {
+                "user": "U05UNC6FNK1",
+                "ts": "1701654924.125519"
+            },
+            {
+                "user": "U05UWVA90H4",
+                "ts": "1701656420.066599"
+            },
+            {
+                "user": "U05UNC6FNK1",
+                "ts": "1701656461.794149"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "509d4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " 부트캠프 수강생 여러분 안녕하세요~\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "<지난 금요일 HRD 관련 통합ID 및 시스템 업데이트 이후로 변동된 부분",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " >있어 공유드립니다.\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "K-디지털 트레이닝 과정의 관리가 엄격해짐에 따라 부정훈련 \/ 출결을 방지하고자 ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "업데이트 된 내용입니다.\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "QR 체크시간 변동>>>>>>>>>",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "기존 : 하루 중 입실 \/ 퇴실 시각 자유롭게 진행"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "변경 : 입실 10분전, 퇴실 후 10분 이후",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "따라서 시작 10분전, 19시 퇴실시 19시 10분까지만 QR 체크 가능",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ", 이외 불가로 확인해주시길 바라며, 단순 미체크는 QR 정정이 아니오니, LM님 안내 시각에 꼭 QR을 진행해주시길 바랍니다.\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "LM님 QR 체크 안내 시 -10~+10분까지 QR체크",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "이외 기존과 동일, 시작 10분까지 정상출결, 퇴실  10분전까지 정상퇴실"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n감사합니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U060LG0BT89",
+                    "U060TBSJ7DF",
+                    "U05V4KZR3NW",
+                    "U05UT0JG4BZ",
+                    "U05V9N22ZUK",
+                    "U060JMX5FK2",
+                    "U05UNMQ4LP9",
+                    "U05UVE9DFSB",
+                    "U05V561TXUL",
+                    "U05V2T62KUJ",
+                    "U05V2HL22M9",
+                    "U05UN5DQ423",
+                    "U05UZLEM04V",
+                    "U05V9LP47V0",
+                    "U0600GGHJTC",
+                    "U05UUUNAE5D"
+                ],
+                "count": 16
+            }
+        ]
+    },
+    {
+        "user": "U05V7H78DUM",
+        "type": "message",
+        "ts": "1701153349.004669",
+        "client_msg_id": "52911249-e2da-4362-b3cf-0c2118087b31",
+        "text": "<@U05V81G5ZDY> 매니저님 안녕하세요.\n혹시 11\/24일 출결 오류 정정 언제 되는지 알 수 있을까요 ?",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "5ea65e4bfd4e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-12\/6024317246501_5ea65e4bfd4e925e65f9_72.png",
+            "first_name": "조예람",
+            "real_name": "조예람",
+            "display_name": "",
+            "team": "T05UGFFGL07",
+            "name": "dpfka4616",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1701062110.276619",
+        "parent_user_id": "U05V81G5ZDY",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/IQQs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05V81G5ZDY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 매니저님 안녕하세요.\n혹시 11\/24일 출결 오류 정정 언제 되는지 알 수 있을까요 ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05V81G5ZDY",
+        "type": "message",
+        "ts": "1701156940.724429",
+        "client_msg_id": "81482fe6-3790-43e3-a0fb-605bec16ee06",
+        "text": "<@U05V7H78DUM> 안녕하세요 예람님!\n반영까지는 2-3주 정도 소요됩니다!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "db1aceeb0d90",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5994058472162_db1aceeb0d9030c57e69_72.jpg",
+            "first_name": "김현우",
+            "real_name": "김현우",
+            "display_name": "FC 김현우 매니저",
+            "team": "T05UGFFGL07",
+            "name": "hyunwoo.kim",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1701062110.276619",
+        "parent_user_id": "U05V81G5ZDY",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pq7YF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05V7H78DUM"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 안녕하세요 예람님!\n반영까지는 2-3주 정도 소요됩니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "meow_noddies",
+                "users": [
+                    "U05V7H78DUM"
+                ],
+                "count": 1
+            },
+            {
+                "name": "대답",
+                "users": [
+                    "U05V7H78DUM"
+                ],
+                "count": 1
+            },
+            {
+                "name": "woman-bowing",
+                "users": [
+                    "U05V7H78DUM"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

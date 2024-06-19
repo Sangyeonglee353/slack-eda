@@ -1,0 +1,155 @@
+[
+    {
+        "text": "혹시라도 오늘자 인강 들으시다가 다중선형회귀.ipynb 실행 안되셔서 어려움이 있으신 분들을 위해 공유합니다!\n\ncolab은 scikit-learn 기본 세팅 버전이 1.2.2로 되어있어 1.2 버전부터 dataset에서 빠진 boston데이터는 loading이 되질 않습니다.\n따라서 colab에 세팅된 scikit-learn 버전을 1.2미만으로 다운그레이드 시키면 boston 데이터를 불러 올 수 있게 됩니다.\n\n1. 이미지처럼 !pip install scikit-learn==1.1를 코드셀에서 실행\n2. RESTART RUNTIME 버튼을 눌러 런타임 재실행\n3. sklearn version 확인",
+        "files": [
+            {
+                "id": "F061PNARSKA",
+                "created": 1697189557,
+                "timestamp": 1697189557,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U0600GGHJTC",
+                "user_team": "T05UGFFGL07",
+                "editable": false,
+                "size": 287423,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F061PNARSKA\/image.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F061PNARSKA\/download\/image.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F061PNARSKA-d09b286cfd\/image_64.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F061PNARSKA-d09b286cfd\/image_80.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F061PNARSKA-d09b286cfd\/image_360.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_360_w": 360,
+                "thumb_360_h": 146,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F061PNARSKA-d09b286cfd\/image_480.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_480_w": 480,
+                "thumb_480_h": 195,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F061PNARSKA-d09b286cfd\/image_160.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F061PNARSKA-d09b286cfd\/image_720.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_720_w": 720,
+                "thumb_720_h": 292,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F061PNARSKA-d09b286cfd\/image_800.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_800_w": 800,
+                "thumb_800_h": 324,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F061PNARSKA-d09b286cfd\/image_960.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_960_w": 960,
+                "thumb_960_h": 389,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F061PNARSKA-d09b286cfd\/image_1024.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 415,
+                "original_w": 2604,
+                "original_h": 1056,
+                "thumb_tiny": "AwATADCqEGKCg96UEAUbhQAmwev60bB6\/rScUUAGwetJtHvS0UAGBSbR6U6koATaPSjaPSlooATaPSjaPSlooA\/\/2Q==",
+                "permalink": "https:\/\/fcupstageai1.slack.com\/files\/U0600GGHJTC\/F061PNARSKA\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T05UGFFGL07-F061PNARSKA-7914fab6d2",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U0600GGHJTC",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3XPAG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "혹시라도 오늘자 인강 들으시다가 다중선형회귀.ipynb 실행 안되셔서 어려움이 있으신 분들을 위해 공유합니다!\n\ncolab은 scikit-learn 기본 세팅 버전이 1.2.2로 되어있어 1.2 버전부터 dataset에서 빠진 boston데이터는 loading이 되질 않습니다.\n따라서 colab에 세팅된 scikit-learn 버전을 1.2미만으로 다운그레이드 시키면 boston 데이터를 불러 올 수 있게 됩니다.\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "이미지처럼 !pip install scikit-learn==1.1를 코드셀에서 실행"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "RESTART RUNTIME 버튼을 눌러 런타임 재실행"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "sklearn version 확인"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1697189973.178809",
+        "edited": {
+            "user": "U0600GGHJTC",
+            "ts": "1697191168.000000"
+        },
+        "client_msg_id": "c9b90f48-9ed1-4cad-b401-69a906c7178e",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U05V379NETU",
+                    "U05UN7M2GKZ",
+                    "U05V2T62KUJ",
+                    "U06061L4S64",
+                    "U060BLVQYHW",
+                    "U05V7H78DUM",
+                    "U05V2P37518",
+                    "U060D1KJECR",
+                    "U05UVE9DFSB",
+                    "U05V561TXUL",
+                    "U05V7V2AV8A",
+                    "U05UVV5CVQE",
+                    "U05V5B27DK7",
+                    "U05VB5EHM7W",
+                    "U0602CFAB7B",
+                    "U05VAHXECP6",
+                    "U05V9LP47V0",
+                    "U05UWVA90H4"
+                ],
+                "count": 18
+            },
+            {
+                "name": "eyes",
+                "users": [
+                    "U060VSK7ELC"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

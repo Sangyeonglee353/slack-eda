@@ -1,0 +1,61 @@
+[
+    {
+        "user": "U05UW74NJ0N",
+        "type": "message",
+        "ts": "1713143986.104089",
+        "client_msg_id": "0d55ee03-a3e4-48b0-91c9-049d56cf25fe",
+        "text": "<@U05UNC6FNK1> <@U05V81G5ZDY>\n\n안녕하세요. LM님과 상담 후 24\/04\/17 (수요일) 휴가 사용으로 구글 폼 제출하였습니다.\n확인 부탁드립니다! 감사합니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "gf4e3c8b4c9e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/f4e3c8b4c9eebf87b0a9a7969b1a5c6a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+            "first_name": "우승현",
+            "real_name": "우승현",
+            "display_name": "우승현",
+            "team": "T05UGFFGL07",
+            "name": "fromwsh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ll7eZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05UNC6FNK1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05V81G5ZDY"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n안녕하세요. LM님과 상담 후 24\/04\/17 (수요일) 휴가 사용으로 구글 폼 제출하였습니다.\n확인 부탁드립니다! 감사합니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "beach_with_umbrella",
+                "users": [
+                    "U05V81G5ZDY"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,311 @@
+[
+    {
+        "text": "<!channel>\n오늘 진행한 이론 교안 공유드립니다!\n(실습 자료는 저번에 공유드렸던 링크와 같습니다)\n\n오늘 풀타임 강의 처음으로 진행했는데, 많이 힘드셨을것 같습니다ㅎㅎ 이번주 이틀만 더 고생(?)하면 끝이니까 조금만 더 힘내봅시다!!\n오늘도 고생 많으셨고, 내일 아침 10시에 뵙겠습니다 :slightly_smiling_face:",
+        "files": [
+            {
+                "id": "F067DANERNJ",
+                "created": 1701165607,
+                "timestamp": 1701165607,
+                "name": "[UPSTAGE AI LAB-01]Machine Learning Workflow_20231128.pdf",
+                "title": "[UPSTAGE AI LAB-01]Machine Learning Workflow_20231128.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U065TBUL5EE",
+                "user_team": "T05UGFFGL07",
+                "editable": false,
+                "size": 17172330,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F067DANERNJ\/_upstage_ai_lab-01_machine_learning_workflow_20231128.pdf?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F067DANERNJ\/download\/_upstage_ai_lab-01_machine_learning_workflow_20231128.pdf?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "media_display_type": "unknown",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F067DANERNJ-3d6c1e246e\/_upstage_ai_lab-01_machine_learning_workflow_20231128_thumb_pdf.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_pdf_w": 1210,
+                "thumb_pdf_h": 682,
+                "permalink": "https:\/\/fcupstageai1.slack.com\/files\/U065TBUL5EE\/F067DANERNJ\/_upstage_ai_lab-01_machine_learning_workflow_20231128.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/T05UGFFGL07-F067DANERNJ-04469bd550",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U065TBUL5EE",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WBKV6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n오늘 진행한 이론 교안 공유드립니다!\n(실습 자료는 저번에 공유드렸던 링크와 같습니다)\n\n오늘 풀타임 강의 처음으로 진행했는데, 많이 힘드셨을것 같습니다ㅎㅎ 이번주 이틀만 더 고생(?)하면 끝이니까 조금만 더 힘내봅시다!!\n오늘도 고생 많으셨고, 내일 아침 10시에 뵙겠습니다 "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1701165652.075809",
+        "client_msg_id": "17bf693f-414d-4fd2-9a79-a5fc5bfd4ed6",
+        "thread_ts": "1701165652.075809",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1701177353.072919",
+        "reply_users": [
+            "U060LG0BT89",
+            "U065TBUL5EE"
+        ],
+        "replies": [
+            {
+                "user": "U060LG0BT89",
+                "ts": "1701175289.606029"
+            },
+            {
+                "user": "U060LG0BT89",
+                "ts": "1701175390.584629"
+            },
+            {
+                "user": "U065TBUL5EE",
+                "ts": "1701177353.072919"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U060BLVQYHW",
+                    "U05V9N22ZUK",
+                    "U05VB9FA6MS",
+                    "U05V7H78DUM",
+                    "U05UN6NTN8P",
+                    "U060LG0BT89",
+                    "U05V1KVNK0E",
+                    "U060TBSJ7DF",
+                    "U05V9LP47V0"
+                ],
+                "count": 9
+            },
+            {
+                "name": "대답",
+                "users": [
+                    "U05V5B27DK7",
+                    "U05V7H78DUM",
+                    "U05UUUNAE5D",
+                    "U060LG0BT89"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "user": "U060LG0BT89",
+        "type": "message",
+        "ts": "1701175289.606029",
+        "client_msg_id": "3ebca0e5-2184-458f-acb0-a8939548cb11",
+        "text": "저희가 무슨 고생(?)을 하는지는 모르겠지만 고생 많으시네요!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "g273c76b80b5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/273c76b80b5c013cab6c608d10041dd4.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "김준호",
+            "real_name": "김준호",
+            "display_name": "",
+            "team": "T05UGFFGL07",
+            "name": "demyank88",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1701165652.075809",
+        "parent_user_id": "U065TBUL5EE",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WZK0R",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "저희가 무슨 고생(?)을 하는지는 모르겠지만 고생 많으시네요!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U065TBUL5EE"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U060LG0BT89",
+        "type": "message",
+        "ts": "1701175390.584629",
+        "client_msg_id": "0c3ff6d1-f36b-418e-a8b2-5883fd687300",
+        "text": "69페이지 LightGBM, XGBoost growing 설명하실 때 잘 못 들어서 왜 XGBoost 같은 Level-wised growth가 더 느린가 찾아보니 이 경우에는 Loss가 그다지 개선되지 않더라도 balanced를 유지하기 위해 최선의 split을 찾는 연산이 들어가서 느리다고 하네요. 그러니까 Loss Reduction만을 위한 우선적인 split, growh가 아니라 구조 유지도 포함되어서, 모든 feature에 대해서 가능한 경우의 수를 찾다보니. 이게 맞나요?",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "g273c76b80b5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/273c76b80b5c013cab6c608d10041dd4.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "김준호",
+            "real_name": "김준호",
+            "display_name": "",
+            "team": "T05UGFFGL07",
+            "name": "demyank88",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1701165652.075809",
+        "parent_user_id": "U065TBUL5EE",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dxP8L",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "69페이지 LightGBM, XGBoost growing 설명하실 때 잘 못 들어서 왜 XGBoost 같은 Level-wised growth가 더 느린가 찾아보니 이 경우에는 Loss가 그다지 개선되지 않더라도 balanced를 유지하기 위해 최선의 split을 찾는 연산이 들어가서 느리다고 하네요. 그러니까 Loss Reduction만을 위한 우선적인 split, growh가 아니라 구조 유지도 포함되어서, 모든 feature에 대해서 가능한 경우의 수를 찾다보니. 이게 맞나요?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U065TBUL5EE"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U065TBUL5EE",
+        "type": "message",
+        "ts": "1701177353.072919",
+        "client_msg_id": "acd3f61f-a28f-48c8-8675-4f168a7e1789",
+        "text": "네 일부는 맞습니다.\n1. LightGBM의 leaf-wise tree growth 방식은 level-wise tree growth보다 만들어지는 node의 개수가 일반적으로 더 적습니다. 왜냐면 loss를 더 많이 줄이는 형태로 만들어지기 때문입니다. 그래서 loss가 더 이상 줄어들 필요가 없어지면 더 tree growth를 할 필요가 없어지게 됩니다. 보통은 tree growth에서 max_depth가 num_leaves가 제한되어 있기 때문에(due to prevent overfitting) 이 현상은 더욱 잘 나타납니다. 그래서 tree가 더 빨리 만들어지게 됩니다. 즉, 학습 속도가 빨라집니다.\n2. XGBoost와 LightGBM은 모두 학습할 때 모든 feature를 사용하지 않습니다. colsample을 하기 때문입니다. 이게 필수는 아니지만, overfitting을 방지하는데 큰 도움이 되면서, column이 많을 때 성능 개선에 큰 도움을 주기 때문입니다. (물론 말씀하신 맥락의 모든 feature를 탐색한다는 의미는 best split을 고르기 위해서 계산을 다 해야한다는 의미로 이해했습니다만, 혹시나해서.. 더 적어보았습니다 :slightly_smiling_face: )",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "34f110a5edc4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-11-14\/6197301711475_34f110a5edc435398e63_72.png",
+            "first_name": "김용담",
+            "real_name": "김용담",
+            "display_name": "김용담 강사",
+            "team": "T05UGFFGL07",
+            "name": "codingiscoffee",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1701165652.075809",
+        "parent_user_id": "U065TBUL5EE",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3M2gN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "네 일부는 맞습니다.\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "LightGBM의 leaf-wise tree growth 방식은 level-wise tree growth보다 만들어지는 node의 개수가 일반적으로 더 적습니다. 왜냐면 loss를 더 많이 줄이는 형태로 만들어지기 때문입니다. 그래서 loss가 더 이상 줄어들 필요가 없어지면 더 tree growth를 할 필요가 없어지게 됩니다. 보통은 tree growth에서 max_depth가 num_leaves가 제한되어 있기 때문에(due to prevent overfitting) 이 현상은 더욱 잘 나타납니다. 그래서 tree가 더 빨리 만들어지게 됩니다. 즉, 학습 속도가 빨라집니다."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "XGBoost와 LightGBM은 모두 학습할 때 모든 feature를 사용하지 않습니다. colsample을 하기 때문입니다. 이게 필수는 아니지만, overfitting을 방지하는데 큰 도움이 되면서, column이 많을 때 성능 개선에 큰 도움을 주기 때문입니다. (물론 말씀하신 맥락의 모든 feature를 탐색한다는 의미는 best split을 고르기 위해서 계산을 다 해야한다는 의미로 이해했습니다만, 혹시나해서.. 더 적어보았습니다 "
+                                    },
+                                    {
+                                        "type": "emoji",
+                                        "name": "slightly_smiling_face",
+                                        "unicode": "1f642"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " )"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "ne",
+                "users": [
+                    "U060LG0BT89"
+                ],
+                "count": 1
+            },
+            {
+                "name": "bow",
+                "users": [
+                    "U060LG0BT89"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

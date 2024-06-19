@@ -1,0 +1,716 @@
+[
+    {
+        "user": "U05V9LP47V0",
+        "type": "message",
+        "ts": "1712562746.985149",
+        "client_msg_id": "1cf85fd1-a2fd-48c8-ac49-486e822aa944",
+        "text": "<@U05UNC6FNK1> <@U05V81G5ZDY>\n안녕하세요. 박기준 LM님과 상담 후 4월 11일 휴가 제출 폼 제출하였습니다. 감사합니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "54d9ef7119e7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-06\/5993912366662_54d9ef7119e784b29212_72.jpg",
+            "first_name": "문정의",
+            "real_name": "문정의",
+            "display_name": "문정의",
+            "team": "T05UGFFGL07",
+            "name": "axa301",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PCC4S",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05UNC6FNK1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05V81G5ZDY"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n안녕하세요. 박기준 LM님과 상담 후 4월 11일 휴가 제출 폼 제출하였습니다. 감사합니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "beach_with_umbrella",
+                "users": [
+                    "U05V81G5ZDY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "subtype": "thread_broadcast",
+        "user": "U05V81G5ZDY",
+        "thread_ts": "1711942269.846289",
+        "root": {
+            "user": "U05V81G5ZDY",
+            "type": "message",
+            "ts": "1711942269.846289",
+            "edited": {
+                "user": "U05V81G5ZDY",
+                "ts": "1711943028.000000"
+            },
+            "client_msg_id": "d2f443c0-2f96-44a0-ae74-ca98c1165117",
+            "text": "*<!channel>* 장려금 확인서 취합 확인 스레드\n\n안녕하세요 행정 매니저입니다!\n훈련 장려금 지급을 위한 확인서를 매 단위기간 마다 취합하게 되었습니다\n> 작성이 늦어질 수록 훈련 장려금이 지연 될 수 있습니다\n> 매 단위 기간마다 취합할 예정이니 도움 주시면 감사하겠습니다\n잠시 후 댓글 확인해주세요!",
+            "team": "T05UGFFGL07",
+            "thread_ts": "1711942269.846289",
+            "reply_count": 10,
+            "reply_users_count": 7,
+            "latest_reply": "1712636191.404859",
+            "reply_users": [
+                "U05V81G5ZDY",
+                "U05V9LP47V0",
+                "U05VAHXECP6",
+                "U060BLVQYHW",
+                "U0600GGHJTC",
+                "U05V4KZR3NW",
+                "U05V561TXUL"
+            ],
+            "replies": [
+                {
+                    "user": "U05V81G5ZDY",
+                    "ts": "1711952315.911809"
+                },
+                {
+                    "user": "U05V9LP47V0",
+                    "ts": "1712019441.187139"
+                },
+                {
+                    "user": "U05V81G5ZDY",
+                    "ts": "1712021830.926659"
+                },
+                {
+                    "user": "U05VAHXECP6",
+                    "ts": "1712225054.220999"
+                },
+                {
+                    "user": "U05V81G5ZDY",
+                    "ts": "1712295657.350589"
+                },
+                {
+                    "user": "U05V81G5ZDY",
+                    "ts": "1712628797.538159"
+                },
+                {
+                    "user": "U060BLVQYHW",
+                    "ts": "1712628996.644639"
+                },
+                {
+                    "user": "U0600GGHJTC",
+                    "ts": "1712629137.532569"
+                },
+                {
+                    "user": "U05V4KZR3NW",
+                    "ts": "1712630711.712879"
+                },
+                {
+                    "user": "U05V561TXUL",
+                    "ts": "1712636191.404859"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": true,
+            "last_read": "1712636191.404859",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "xA\/gO",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "broadcast",
+                                    "range": "channel",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " 장려금 확인서 취합 확인 스레드\n\n안녕하세요 행정 매니저입니다!\n훈련 장려금 지급을 위한 확인서를 매 단위기간 마다 취합하게 되었습니다\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_quote",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "작성이 늦어질 수록 훈련 장려금이 지연 될 수 있습니다\n매 단위 기간마다 취합할 예정이니 도움 주시면 감사하겠습니다"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\n잠시 후 댓글 확인해주세요!"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "type": "message",
+        "ts": "1712628797.538159",
+        "client_msg_id": "355a637e-18c7-4769-8df4-bf7b693eef01",
+        "text": "&gt; 장려금 확인서 미서명자\n• <@U05UUUNAE5D> <@U05VC7EEY5Q> <@U0600BP2J9H> <@U05V0106JDT> <@U0606HAGLTB> <@U05UN5DQ423> <@U05VBQMH3D3> <@U05UW74NJ0N> <@U05V7V2AV8A>\n&gt; 재작성 요청\n&gt; *아래 예시와 같이 작성해주세요! Y\/N으로 작성이 아닙니다!!*\n• <@U05V4KZR3NW> <@U060BLVQYHW> <@U0600GGHJTC> <@U05V1KVNK0E> <@U05V2GDNNLT> <@U0600C60ZK4> <@U05V561TXUL> \n• 청년수당, 구직수당 등 수급여부\n    ◦ *예) 국민취업지원제도*\n    ◦ *예) 실업급여*\n    ◦ *`금액 작성XX`*\n",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "86VLn",
+                "elements": [
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "장려금 확인서 미서명자"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "user",
+                                        "user_id": "U05UUUNAE5D"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U05VC7EEY5Q"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U0600BP2J9H"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U05V0106JDT"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U0606HAGLTB"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U05UN5DQ423"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U05VBQMH3D3"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U05UW74NJ0N"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U05V7V2AV8A"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "재작성 요청\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "아래 예시와 같이 작성해주세요! Y\/N으로 작성이 아닙니다!!",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "user",
+                                        "user_id": "U05V4KZR3NW"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U060BLVQYHW"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U0600GGHJTC"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U05V1KVNK0E"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U05V2GDNNLT"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U0600C60ZK4"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U05V561TXUL"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "청년수당, 구직수당 등 수급여부"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "예) 국민취업지원제도",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "예) 실업급여",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "금액 작성XX",
+                                        "style": {
+                                            "bold": true,
+                                            "code": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U05V2GDNNLT"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U060BLVQYHW",
+        "type": "message",
+        "ts": "1712628996.644639",
+        "client_msg_id": "edad3d83-90b3-4ece-ad64-9b023c766f8b",
+        "text": "<@U05V81G5ZDY> 정정했습니다. 감사합니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "g6cb970458b5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6cb970458b5672091fa231bd078f93da.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+            "first_name": "Sang",
+            "real_name": "Sang Hyuk SEO",
+            "display_name": "서상혁",
+            "team": "T05UGFFGL07",
+            "name": "happer96",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1711942269.846289",
+        "parent_user_id": "U05V81G5ZDY",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GPEmk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05V81G5ZDY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 정정했습니다. 감사합니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1::skin-tone-2",
+                "users": [
+                    "U05V81G5ZDY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U0600GGHJTC",
+        "type": "message",
+        "ts": "1712629137.532569",
+        "client_msg_id": "46d62d21-2ce8-4143-bdfa-74b5228ba384",
+        "text": "<@U05V81G5ZDY> 정정했습니다!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "561da967acdc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/6000560676530_561da967acdc677d2136_72.png",
+            "first_name": "신동혁",
+            "real_name": "신동혁",
+            "display_name": "신동혁",
+            "team": "T05UGFFGL07",
+            "name": "kn7137",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1711942269.846289",
+        "parent_user_id": "U05V81G5ZDY",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KEqEC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05V81G5ZDY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 정정했습니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1::skin-tone-2",
+                "users": [
+                    "U05V81G5ZDY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05V4KZR3NW",
+        "type": "message",
+        "ts": "1712630711.712879",
+        "edited": {
+            "user": "U05V4KZR3NW",
+            "ts": "1712630717.000000"
+        },
+        "client_msg_id": "8d9cf759-5f33-462b-9edb-81f5665b740f",
+        "text": "<@U05V81G5ZDY> 정정완료했습니다!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "8c77944bd304",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-20\/6082246066801_8c77944bd304e2d01432_72.jpg",
+            "first_name": "남영진",
+            "real_name": "남영진",
+            "display_name": "남영진",
+            "team": "T05UGFFGL07",
+            "name": "studyingnam",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1711942269.846289",
+        "parent_user_id": "U05V81G5ZDY",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FT83i",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05V81G5ZDY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 정정완료했습니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1::skin-tone-2",
+                "users": [
+                    "U05V81G5ZDY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05UUUNAE5D",
+        "type": "message",
+        "ts": "1712633759.972219",
+        "client_msg_id": "a4f98828-2792-4fe2-9bc8-e33078ee077c",
+        "text": "<@U05UNC6FNK1> <@U05V81G5ZDY> 안녕하세요 매니저님! LM님과 상담 후 24\/04\/12(금요일) 휴가 제출 폼 제출하였습니다. 확인부탁드립니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "32899ebdb4c2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5995423014227_32899ebdb4c26d670b69_72.png",
+            "first_name": "감성필SungFeelCalm",
+            "real_name": "감성필SungFeelCalm",
+            "display_name": "감성필",
+            "team": "T05UGFFGL07",
+            "name": "betterthingsarecoming",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hz6tq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05UNC6FNK1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05V81G5ZDY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 안녕하세요 매니저님! LM님과 상담 후 24\/04\/12(금요일) 휴가 제출 폼 제출하였습니다. 확인부탁드립니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "beach_with_umbrella",
+                "users": [
+                    "U05V81G5ZDY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05V561TXUL",
+        "type": "message",
+        "ts": "1712636191.404859",
+        "client_msg_id": "9d7cc7f9-0f28-494b-ba7f-9b61d8612db9",
+        "text": "<@U05V81G5ZDY> 정정 완료했습니다!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "b4604568d88f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-08\/6448187852305_b4604568d88f0ae3e9b1_72.png",
+            "first_name": "최장원",
+            "real_name": "최장원",
+            "display_name": "",
+            "team": "T05UGFFGL07",
+            "name": "cjw7378",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1711942269.846289",
+        "parent_user_id": "U05V81G5ZDY",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UMsqU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05V81G5ZDY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 정정 완료했습니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1::skin-tone-2",
+                "users": [
+                    "U05V81G5ZDY"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

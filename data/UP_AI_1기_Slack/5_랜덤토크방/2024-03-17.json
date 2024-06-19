@@ -1,0 +1,110 @@
+[
+    {
+        "user": "U060C67EYQ5",
+        "type": "message",
+        "ts": "1710743384.882029",
+        "client_msg_id": "cb76b875-7126-4008-8766-b3b0ab5e863f",
+        "text": "업스테이지에서 내일 미국 산호세에서 열리는 GTC 2024 참여를 앞두고 해외 시장 진출의 신호탄도 쏘아올렸습니다 :rocket:\n\n&gt; *[한국경제] AI 스타트업 업스테이지, 미국 현지법인 설립…해외 시장 본격 진출*\n&gt; <https:\/\/n.news.naver.com\/mnews\/article\/015\/0004961069?sid=105>\n&gt; *[SBS Biz] AI 종주국에 도전장?…업스테이지, 美 현지법인 설립*\n&gt; <https:\/\/n.news.naver.com\/mnews\/article\/374\/0000374966?sid=101>",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "831ed525b276",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-11-14\/6192884585138_831ed525b276222009d0_72.png",
+            "first_name": "업스테이지",
+            "real_name": "업스테이지 김의겸(Dave)",
+            "display_name": "UP 김의겸(Dave) 매니저",
+            "team": "T05UGFFGL07",
+            "name": "euigyum",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "S1XWv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "업스테이지에서 내일 미국 산호세에서 열리는 GTC 2024 참여를 앞두고 해외 시장 진출의 신호탄도 쏘아올렸습니다 "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "rocket",
+                                "unicode": "1f680"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "[한국경제] AI 스타트업 업스테이지, 미국 현지법인 설립…해외 시장 본격 진출",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/n.news.naver.com\/mnews\/article\/015\/0004961069?sid=105"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "[SBS Biz] AI 종주국에 도전장?…업스테이지, 美 현지법인 설립",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/n.news.naver.com\/mnews\/article\/374\/0000374966?sid=101"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "귀여운박수",
+                "users": [
+                    "U05UN7M2GKZ",
+                    "U05V2T62KUJ",
+                    "U06P0H0V3UY",
+                    "U05V4KZR3NW"
+                ],
+                "count": 4
+            }
+        ]
+    }
+]

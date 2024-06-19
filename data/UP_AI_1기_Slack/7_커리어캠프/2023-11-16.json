@@ -1,0 +1,447 @@
+[
+    {
+        "user": "U05VAHXECP6",
+        "type": "message",
+        "ts": "1700200552.781029",
+        "client_msg_id": "b98bcc27-4eed-42cc-b56c-2b49bad7d202",
+        "text": "<!channel>\n안녕하세요. Upstage AI Lab 1기 수강생 여러분!\n벌써 눈이 내리는 곳이 있다고 해요. :snowflake:\n\n어제 커리어캠프 OT는 모두 만족스러우셨나요?\n문의주신 사항에 대하여 아래와 같이 답변 드립니다.\n(다들 Git 강의에 열중하고 계셔서, 쉬는 시간을 틈타 안내를 드려요.)\n\n&gt; *템플릿 사전 공유 관련*\n• 이력서 템플릿이나 기타 템플릿은 시간날 때 미리미리 써볼 수 있게 미리 공유 해주실 수 있으신가요.\n    ◦ 기존 일정보다 조금 더 빨리 공유 드리겠습니다.\n&gt; *창업 관련*\n• 여기에 뚜렷하게 창업을 목적으로 오신 분들이 적지 않게 계신데요. 이런 분들은 투자를 받기 위한 IR 덱크에 넣을 이력서나 자소서 등을 작성하는 방법 등으로 커리어 트랙을 하나 넣어주실 수 있을까요? 앞으로 꾸준히 캠프에 창업하려는 분들도 들어오시지 않을까 합니다. 컨설턴트님에게 새로운 도전이 되실 수도 있지만 한번 고려해주시면 어떨까요?\n    ◦ 저희는 취업을 위한 과정으로 `취업 전문 컨설턴트(이여진)`님께서 해당 내용을 진행하시기엔 어려움이 있습니다. *양해 부탁 드리겠습니다*. :pray:\n    ◦ 다만, 창업을 목적으로 하신 분들에 대해서는 향후 *수요 조사*를 거쳐 추가 특강 진행 여부를 결정하도록 하겠습니다.\n&gt; *피드백 관련*\n• 제출하는 <http:\/\/read.me\/|Read.me> 파일이나 이력서에 대해서는 개인적인 피드백을 받을 수 있나요?\n    ◦ 네. 가능합니다. 위에 언급해주신 내용에 대해서는 우선적으로 내용이 필요하겠죠? \n    ◦ 따라서, 현재 진도와 각종 대회를 잘 진행해주시고, 그것을 깃헙 등을 이용해 잘 정리해두시면 그에 대한 1:1 피드백 제공 예정입니다.\n• 현재까지 만들어둔 포트폴리오나 자료를 보고 즉각 피드백이 가능할까요?\n    ◦ 아니요. 지금까지 만들어둔 포트폴리오는 저희 과정을 듣고 만들어주신 포트폴리오는 아닌 것으로 예상됩니다.\n    ◦ 1:1 이력서, 포트폴리오 피드백은 저희 프로젝트나 경진대회가 어느 정도 마무리된 후 과정 후반에 제공될 예정입니다.\n    ◦ 즉각적인 피드백은 불가능합니다.\n&gt; *기업 연계 관련*\n• 본 과정과 협력 중인 기업이 있는지, 연결될 기회가 있는지 궁금합니다. \n    ◦ 본 과정과 협력하고 있는 기업은 업스테이지이고 취업 연계로 약정 된 기업은 따로 없습니다.\n    ◦ 다만, Fast Connection과 같이 저희 쪽으로 우수 수료생 채용을 위해 파트너십을 맺는 기업은 있는데요.\n    ◦ 저희 과정이 기업으로 직접 채용을 연결해드리는 과정이 아닌 점은 참고 부탁 드리며, 수료 시 저희 파트너사로 직접 채용 지원하실 수 있는 Fast Connection 채용 페이지를 안내해드리겠습니다.\n상세한 답변을 위해 글이 길어졌는데요. :scream:\n다들 따뜻한 주말 보내시고, 다음 주 본격적인 머신러닝 강의로 찾아뵙겠습니다.\n\n늘 여러분을 응원하고 있습니다.:muscle::muscle:\n감사합니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "50abee101814",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-11\/6044824153712_50abee1018149e21919b_72.jpg",
+            "first_name": "이상영",
+            "real_name": "이상영",
+            "display_name": "FC 이상영 매니저",
+            "team": "T05UGFFGL07",
+            "name": "sangyeong.lee",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jTsyM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n안녕하세요. Upstage AI Lab 1기 수강생 여러분!\n벌써 눈이 내리는 곳이 있다고 해요. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "snowflake",
+                                "unicode": "2744-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n어제 커리어캠프 OT는 모두 만족스러우셨나요?\n문의주신 사항에 대하여 아래와 같이 답변 드립니다.\n(다들 Git 강의에 열중하고 계셔서, 쉬는 시간을 틈타 안내를 드려요.)\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "템플릿 사전 공유 관련",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "이력서 템플릿이나 기타 템플릿은 시간날 때 미리미리 써볼 수 있게 미리 공유 해주실 수 있으신가요."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "기존 일정보다 조금 더 빨리 공유 드리겠습니다."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "창업 관련",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "여기에 뚜렷하게 창업을 목적으로 오신 분들이 적지 않게 계신데요. 이런 분들은 투자를 받기 위한 IR 덱크에 넣을 이력서나 자소서 등을 작성하는 방법 등으로 커리어 트랙을 하나 넣어주실 수 있을까요? 앞으로 꾸준히 캠프에 창업하려는 분들도 들어오시지 않을까 합니다. 컨설턴트님에게 새로운 도전이 되실 수도 있지만 한번 고려해주시면 어떨까요?"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "저희는 취업을 위한 과정으로 "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "취업 전문 컨설턴트(이여진)",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "님께서 해당 내용을 진행하시기엔 어려움이 있습니다. "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "양해 부탁 드리겠습니다",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ". "
+                                    },
+                                    {
+                                        "type": "emoji",
+                                        "name": "pray",
+                                        "unicode": "1f64f"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "다만, 창업을 목적으로 하신 분들에 대해서는 향후 "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "수요 조사",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "를 거쳐 추가 특강 진행 여부를 결정하도록 하겠습니다."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "피드백 관련",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "제출하는 "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "http:\/\/read.me\/",
+                                        "text": "Read.me",
+                                        "unsafe": true
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " 파일이나 이력서에 대해서는 개인적인 피드백을 받을 수 있나요?"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "네. 가능합니다. 위에 언급해주신 내용에 대해서는 우선적으로 내용이 필요하겠죠? "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "따라서, 현재 진도와 각종 대회를 잘 진행해주시고, 그것을 깃헙 등을 이용해 잘 정리해두시면 그에 대한 1:1 피드백 제공 예정입니다."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "현재까지 만들어둔 포트폴리오나 자료를 보고 즉각 피드백이 가능할까요?"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "아니요. 지금까지 만들어둔 포트폴리오는 저희 과정을 듣고 만들어주신 포트폴리오는 아닌 것으로 예상됩니다."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "1:1 이력서, 포트폴리오 피드백은 저희 프로젝트나 경진대회가 어느 정도 마무리된 후 과정 후반에 제공될 예정입니다."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "즉각적인 피드백은 불가능합니다."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "기업 연계 관련",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "본 과정과 협력 중인 기업이 있는지, 연결될 기회가 있는지 궁금합니다. "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "본 과정과 협력하고 있는 기업은 업스테이지이고 취업 연계로 약정 된 기업은 따로 없습니다."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "다만, Fast Connection과 같이 저희 쪽으로 우수 수료생 채용을 위해 파트너십을 맺는 기업은 있는데요."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "저희 과정이 기업으로 직접 채용을 연결해드리는 과정이 아닌 점은 참고 부탁 드리며, 수료 시 저희 파트너사로 직접 채용 지원하실 수 있는 Fast Connection 채용 페이지를 안내해드리겠습니다."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n상세한 답변을 위해 글이 길어졌는데요. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "scream",
+                                "unicode": "1f631"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n다들 따뜻한 주말 보내시고, 다음 주 본격적인 머신러닝 강의로 찾아뵙겠습니다.\n\n늘 여러분을 응원하고 있습니다."
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "muscle",
+                                "unicode": "1f4aa"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "muscle",
+                                "unicode": "1f4aa"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n감사합니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U05V9N22ZUK",
+                    "U05UN7M2GKZ",
+                    "U05UVE9DFSB",
+                    "U060BLVQYHW",
+                    "U05VDDP88BW",
+                    "U05V5B27DK7",
+                    "U0600GGHJTC"
+                ],
+                "count": 7
+            }
+        ]
+    }
+]

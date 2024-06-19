@@ -1,0 +1,834 @@
+[
+    {
+        "text": "<@U05V7V2AV8A> 아래 사진처럼 파일 경로 부분에서 현재 파일명을 누르면 다음과 같이 각 요소들이 보일거에요!\n안보인다면 jupyter 환경이라 안보일 수 있는데 그런 경우 .py file 로 재구성하시면 보이실거에요!",
+        "files": [
+            {
+                "id": "F06NV8TGD7G",
+                "created": 1710227610,
+                "timestamp": 1710227610,
+                "name": "스크린샷 2024-03-12 16.11.43.png",
+                "title": "스크린샷 2024-03-12 16.11.43.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U06P0H0V3UY",
+                "user_team": "T05UGFFGL07",
+                "editable": false,
+                "size": 70094,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F06NV8TGD7G\/_______________________________2024-03-12_16.11.43.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F06NV8TGD7G\/download\/_______________________________2024-03-12_16.11.43.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06NV8TGD7G-e820498066\/_______________________________2024-03-12_16.11.43_64.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06NV8TGD7G-e820498066\/_______________________________2024-03-12_16.11.43_80.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06NV8TGD7G-e820498066\/_______________________________2024-03-12_16.11.43_360.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_360_w": 360,
+                "thumb_360_h": 170,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06NV8TGD7G-e820498066\/_______________________________2024-03-12_16.11.43_480.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_480_w": 480,
+                "thumb_480_h": 226,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06NV8TGD7G-e820498066\/_______________________________2024-03-12_16.11.43_160.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06NV8TGD7G-e820498066\/_______________________________2024-03-12_16.11.43_720.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_720_w": 720,
+                "thumb_720_h": 339,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06NV8TGD7G-e820498066\/_______________________________2024-03-12_16.11.43_800.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_800_w": 800,
+                "thumb_800_h": 377,
+                "original_w": 945,
+                "original_h": 445,
+                "thumb_tiny": "AwAWADCjnijijtRg47UALjjjrSYxTl6UhGOlACUlLRQAdhSjp1NNpwoAVRkGhlxzSp0NLJ90UAR0UUUAf\/\/Z",
+                "permalink": "https:\/\/fcupstageai1.slack.com\/files\/U06P0H0V3UY\/F06NV8TGD7G\/_______________________________2024-03-12_16.11.43.png",
+                "permalink_public": "https:\/\/slack-files.com\/T05UGFFGL07-F06NV8TGD7G-8f9518043d",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U06P0H0V3UY",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ayqIt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05V7V2AV8A"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 아래 사진처럼 파일 경로 부분에서 현재 파일명을 누르면 다음과 같이 각 요소들이 보일거에요!\n안보인다면 jupyter 환경이라 안보일 수 있는데 그런 경우 .py file 로 재구성하시면 보이실거에요!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1710227734.329919",
+        "client_msg_id": "22f8a213-3738-4ad9-bd60-3fac4cef54d7",
+        "thread_ts": "1710124939.129419",
+        "parent_user_id": "U05V7V2AV8A"
+    },
+    {
+        "text": "<@U06P0H0V3UY> flow처럼 시각화해서 보는 건 없을까요?",
+        "files": [
+            {
+                "id": "F06NTDVGC1M",
+                "created": 1710291934,
+                "timestamp": 1710291934,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U05V7V2AV8A",
+                "user_team": "T05UGFFGL07",
+                "editable": false,
+                "size": 112091,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F06NTDVGC1M\/image.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F06NTDVGC1M\/download\/image.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06NTDVGC1M-8083a3768c\/image_64.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06NTDVGC1M-8083a3768c\/image_80.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06NTDVGC1M-8083a3768c\/image_360.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_360_w": 340,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06NTDVGC1M-8083a3768c\/image_480.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_480_w": 453,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06NTDVGC1M-8083a3768c\/image_160.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06NTDVGC1M-8083a3768c\/image_720.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_720_w": 680,
+                "thumb_720_h": 720,
+                "original_w": 699,
+                "original_h": 740,
+                "thumb_tiny": "AwAwAC3TqBkYuSFJH++RU9RMHUE7z9AuaaEwidFXllHP9\/NSZBGQcioVIA+ZGY\/7lTD7vAxQwQm72p1N2ZI5p1IZDIu5jmJj75ppRlw0aAZ\/vMasUjdPxp3FYiKBjlsg+xNAiUn5SfzNSBsZz1zSAg\/xEUXYWQ0wqORnj\/aNS01mG0jNOoAKhkTB43HPP38YqamscHrjihAyJGdcgLnPq+amU5UHGKaDn+Ij64py\/dFDBC0UUUhn\/9k=",
+                "permalink": "https:\/\/fcupstageai1.slack.com\/files\/U05V7V2AV8A\/F06NTDVGC1M\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T05UGFFGL07-F06NTDVGC1M-1e2d270ef8",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U05V7V2AV8A",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "82nkr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06P0H0V3UY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " flow처럼 시각화해서 보는 건 없을까요?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1710291938.882159",
+        "client_msg_id": "c2f421e0-de1f-471d-a147-f940f20b555e",
+        "thread_ts": "1710124939.129419",
+        "parent_user_id": "U05V7V2AV8A"
+    },
+    {
+        "text": "<@U06P0H0V3UY> 멘토님~\n라인11 에 test_dataset을 로드하는 이유가\n라인22에 test_dataset['label']을 evalueate하려고 불러오네요\n여기서 질문\n라인11에 news_test_dataset에 news_test_dataset.labels에도 있는데 따로 또 test_dataset을 로드하는 이유가 있나요?",
+        "files": [
+            {
+                "id": "F06PAEEPH9A",
+                "created": 1710291993,
+                "timestamp": 1710291993,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U05V7V2AV8A",
+                "user_team": "T05UGFFGL07",
+                "editable": false,
+                "size": 215737,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F06PAEEPH9A\/image.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F06PAEEPH9A\/download\/image.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06PAEEPH9A-09aa3f4088\/image_64.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06PAEEPH9A-09aa3f4088\/image_80.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06PAEEPH9A-09aa3f4088\/image_360.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_360_w": 360,
+                "thumb_360_h": 197,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06PAEEPH9A-09aa3f4088\/image_480.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_480_w": 480,
+                "thumb_480_h": 263,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06PAEEPH9A-09aa3f4088\/image_160.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06PAEEPH9A-09aa3f4088\/image_720.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_720_w": 720,
+                "thumb_720_h": 394,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06PAEEPH9A-09aa3f4088\/image_800.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_800_w": 800,
+                "thumb_800_h": 438,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06PAEEPH9A-09aa3f4088\/image_960.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_960_w": 960,
+                "thumb_960_h": 526,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06PAEEPH9A-09aa3f4088\/image_1024.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 561,
+                "original_w": 2042,
+                "original_h": 1118,
+                "thumb_tiny": "AwAaADDQNFHaj8qQB+NFGfcUflQAtFJS0DE7UlLRQIBilpKKBi0UgpaAP\/\/Z",
+                "permalink": "https:\/\/fcupstageai1.slack.com\/files\/U05V7V2AV8A\/F06PAEEPH9A\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T05UGFFGL07-F06PAEEPH9A-898c714882",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U05V7V2AV8A",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aEM5C",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06P0H0V3UY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 멘토님~\n라인11 에 test_dataset을 로드하는 이유가\n라인22에 test_dataset['label']을 evalueate하려고 불러오네요\n여기서 질문\n라인11에 news_test_dataset에 news_test_dataset.labels에도 있는데 따로 또 test_dataset을 로드하는 이유가 있나요?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1710292173.299939",
+        "client_msg_id": "8cc6f423-1a3c-42c1-9e56-e16672e51a19",
+        "thread_ts": "1710292173.299939",
+        "reply_count": 7,
+        "reply_users_count": 2,
+        "latest_reply": "1710313138.621779",
+        "reply_users": [
+            "U06P0H0V3UY",
+            "U05V7V2AV8A"
+        ],
+        "replies": [
+            {
+                "user": "U06P0H0V3UY",
+                "ts": "1710294574.655159"
+            },
+            {
+                "user": "U05V7V2AV8A",
+                "ts": "1710296724.226559"
+            },
+            {
+                "user": "U06P0H0V3UY",
+                "ts": "1710297639.846039"
+            },
+            {
+                "user": "U05V7V2AV8A",
+                "ts": "1710306029.349329"
+            },
+            {
+                "user": "U05V7V2AV8A",
+                "ts": "1710306044.517379"
+            },
+            {
+                "user": "U06P0H0V3UY",
+                "ts": "1710313037.669839"
+            },
+            {
+                "user": "U05V7V2AV8A",
+                "ts": "1710313138.621779"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U06P0H0V3UY"
+                ],
+                "count": 1
+            },
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U06P0H0V3UY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06P0H0V3UY",
+        "type": "message",
+        "ts": "1710294451.309729",
+        "edited": {
+            "user": "U06P0H0V3UY",
+            "ts": "1710294488.000000"
+        },
+        "client_msg_id": "d49c4222-4321-4b45-9049-4beac310dd6b",
+        "text": "제가 쓰지를 않아서 .. 현재 떠오르는 건 없습니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "f953974a59ed",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-07\/6762308887044_f953974a59edb3df3dc4_72.png",
+            "first_name": "이종혁",
+            "real_name": "이종혁 멘토",
+            "display_name": "이종혁 멘토",
+            "team": "T05UGFFGL07",
+            "name": "jonhyuk0922",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1710124939.129419",
+        "parent_user_id": "U05V7V2AV8A",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "msf1E",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "제가 쓰지를 않아서 .. 현재 떠오르는 건 없습니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06P0H0V3UY",
+        "type": "message",
+        "ts": "1710294574.655159",
+        "client_msg_id": "c998216b-0c39-4fe9-9502-9b03b391bb4b",
+        "text": "<@U05V7V2AV8A>\n준규님 안녕하세요!\n준규님의 열정과 질문에 감사드립니다!\n\n그렇다면 저도 열정을 더해 질문하나드립니다 ㅎㅎ\nnews_test_dataset 과 test_dataset 은 어떤 차이가 있을까요?!\n저장된 데이터의 형태를 살펴봐주시면 좋을 것 같아요!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "f953974a59ed",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-07\/6762308887044_f953974a59edb3df3dc4_72.png",
+            "first_name": "이종혁",
+            "real_name": "이종혁 멘토",
+            "display_name": "이종혁 멘토",
+            "team": "T05UGFFGL07",
+            "name": "jonhyuk0922",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1710292173.299939",
+        "parent_user_id": "U05V7V2AV8A",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+0EZX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05V7V2AV8A"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n준규님 안녕하세요!\n준규님의 열정과 질문에 감사드립니다!\n\n그렇다면 저도 열정을 더해 질문하나드립니다 ㅎㅎ\nnews_test_dataset 과 test_dataset 은 어떤 차이가 있을까요?!\n저장된 데이터의 형태를 살펴봐주시면 좋을 것 같아요!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05V7V2AV8A",
+        "type": "message",
+        "ts": "1710296724.226559",
+        "client_msg_id": "b46e3be0-2995-493d-959b-6b1ddb0d5860",
+        "text": "<@U06P0H0V3UY>\ntest_dataset: 판다스 DF\nnews_test_dataset: torch tensor\n입니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "28368614e02a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5987346071766_28368614e02abbfb71bd_72.png",
+            "first_name": "andrew",
+            "real_name": "andrew jang",
+            "display_name": "장준규",
+            "team": "T05UGFFGL07",
+            "name": "goldenbeluga",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1710292173.299939",
+        "parent_user_id": "U05V7V2AV8A",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Qp0Lt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06P0H0V3UY"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\ntest_dataset: 판다스 DF\nnews_test_dataset: torch tensor\n입니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06P0H0V3UY",
+        "type": "message",
+        "ts": "1710297639.846039",
+        "client_msg_id": "a94e01cd-3365-444b-bef0-aec28ea89c32",
+        "text": "<@U05V7V2AV8A> 확인 감사합니다!\n저장된 데이터(뉴스 데이터)에 대한 차이는 없었을까요?!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "f953974a59ed",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-07\/6762308887044_f953974a59edb3df3dc4_72.png",
+            "first_name": "이종혁",
+            "real_name": "이종혁 멘토",
+            "display_name": "이종혁 멘토",
+            "team": "T05UGFFGL07",
+            "name": "jonhyuk0922",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1710292173.299939",
+        "parent_user_id": "U05V7V2AV8A",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+rI0n",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05V7V2AV8A"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 확인 감사합니다!\n저장된 데이터(뉴스 데이터)에 대한 차이는 없었을까요?!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05V7V2AV8A",
+        "type": "message",
+        "ts": "1710306029.349329",
+        "client_msg_id": "05e81274-d7e8-4661-8ae5-0cb527c849ac",
+        "text": "`[NLP Advanced] (2-3) 자연어 처리 Pipeline 이해하기`\nnews_test_dataset은 토크나이징 됩니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "28368614e02a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5987346071766_28368614e02abbfb71bd_72.png",
+            "first_name": "andrew",
+            "real_name": "andrew jang",
+            "display_name": "장준규",
+            "team": "T05UGFFGL07",
+            "name": "goldenbeluga",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1710292173.299939",
+        "parent_user_id": "U05V7V2AV8A",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4GAC5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "[NLP Advanced] (2-3) 자연어 처리 Pipeline 이해하기",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nnews_test_dataset은 토크나이징 됩니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05V7V2AV8A",
+        "type": "message",
+        "ts": "1710306044.517379",
+        "client_msg_id": "343711e1-a2d1-4791-8d55-88921fbc3c7c",
+        "text": "<@U06P0H0V3UY>",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "28368614e02a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5987346071766_28368614e02abbfb71bd_72.png",
+            "first_name": "andrew",
+            "real_name": "andrew jang",
+            "display_name": "장준규",
+            "team": "T05UGFFGL07",
+            "name": "goldenbeluga",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1710292173.299939",
+        "parent_user_id": "U05V7V2AV8A",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oW\/r3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06P0H0V3UY"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "<@U06P0H0V3UY> 안녕하세요 멘토님!\nbaseline code에서 모르는 부분이 있어 질문 드립니다.\ncompute_metrics 함수의 인자로 pred를 받아서 pred.prediction, pred.label_ids를 predictions 변수와 labels 변수에 할당하는 것으로 보입니다.\npred 인자는 Seq2SeqTrainer 함수 내부에서 람다 함수를 통해 전달이 되는 것 같은데 해당 부분이 잘 이해가 가지 않아서 설명 부탁드려도 될까요?? 또한 pred가 모델의 예측값이라면 Tensor 객체 형태로 반환되는것 아닌가요? .prediction과 .label_ids 속성을 어떻게 사용할 수 있는지 궁금합니다!",
+        "files": [
+            {
+                "id": "F06P63U995K",
+                "created": 1710312107,
+                "timestamp": 1710312107,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U0606QGQYE5",
+                "user_team": "T05UGFFGL07",
+                "editable": false,
+                "size": 55676,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F06P63U995K\/image.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F06P63U995K\/download\/image.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06P63U995K-f1d866fade\/image_64.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06P63U995K-f1d866fade\/image_80.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06P63U995K-f1d866fade\/image_360.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_360_w": 360,
+                "thumb_360_h": 90,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06P63U995K-f1d866fade\/image_480.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_480_w": 480,
+                "thumb_480_h": 119,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06P63U995K-f1d866fade\/image_160.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06P63U995K-f1d866fade\/image_720.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_720_w": 720,
+                "thumb_720_h": 179,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06P63U995K-f1d866fade\/image_800.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_800_w": 800,
+                "thumb_800_h": 199,
+                "original_w": 956,
+                "original_h": 238,
+                "thumb_tiny": "AwALADCmMHtRgUlGaAF\/D9KOnakyaSgBc+1GfYUlFAH\/2Q==",
+                "permalink": "https:\/\/fcupstageai1.slack.com\/files\/U0606QGQYE5\/F06P63U995K\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T05UGFFGL07-F06P63U995K-8f0e4f1529",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            },
+            {
+                "id": "F06NUEPPA23",
+                "created": 1710312286,
+                "timestamp": 1710312286,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U0606QGQYE5",
+                "user_team": "T05UGFFGL07",
+                "editable": false,
+                "size": 90678,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F06NUEPPA23\/image.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F06NUEPPA23\/download\/image.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06NUEPPA23-17718a8e05\/image_64.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06NUEPPA23-17718a8e05\/image_80.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06NUEPPA23-17718a8e05\/image_360.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_360_w": 360,
+                "thumb_360_h": 118,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06NUEPPA23-17718a8e05\/image_480.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_480_w": 480,
+                "thumb_480_h": 158,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06NUEPPA23-17718a8e05\/image_160.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06NUEPPA23-17718a8e05\/image_720.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_720_w": 720,
+                "thumb_720_h": 237,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06NUEPPA23-17718a8e05\/image_800.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_800_w": 800,
+                "thumb_800_h": 263,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06NUEPPA23-17718a8e05\/image_960.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_960_w": 960,
+                "thumb_960_h": 316,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06NUEPPA23-17718a8e05\/image_1024.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 337,
+                "original_w": 1186,
+                "original_h": 390,
+                "thumb_tiny": "AwAPADCmKOPSkBxS5oATFFGaOPSgA49aSl\/Cj8KAP\/\/Z",
+                "permalink": "https:\/\/fcupstageai1.slack.com\/files\/U0606QGQYE5\/F06NUEPPA23\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T05UGFFGL07-F06NUEPPA23-27ada65d44",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U0606QGQYE5",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XCMl1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06P0H0V3UY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 안녕하세요 멘토님!\nbaseline code에서 모르는 부분이 있어 질문 드립니다.\ncompute_metrics 함수의 인자로 pred를 받아서 pred.prediction, pred.label_ids를 predictions 변수와 labels 변수에 할당하는 것으로 보입니다.\npred 인자는 Seq2SeqTrainer 함수 내부에서 람다 함수를 통해 전달이 되는 것 같은데 해당 부분이 잘 이해가 가지 않아서 설명 부탁드려도 될까요?? 또한 pred가 모델의 예측값이라면 Tensor 객체 형태로 반환되는것 아닌가요? .prediction과 .label_ids 속성을 어떻게 사용할 수 있는지 궁금합니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1710312860.047099",
+        "client_msg_id": "c1efd1d2-2db1-44a2-b966-58cb0c089b3f",
+        "thread_ts": "1710312860.047099",
+        "reply_count": 4,
+        "reply_users_count": 2,
+        "latest_reply": "1710320482.079549",
+        "reply_users": [
+            "U06P0H0V3UY",
+            "U0606QGQYE5"
+        ],
+        "replies": [
+            {
+                "user": "U06P0H0V3UY",
+                "ts": "1710315197.101969"
+            },
+            {
+                "user": "U0606QGQYE5",
+                "ts": "1710317587.191919"
+            },
+            {
+                "user": "U06P0H0V3UY",
+                "ts": "1710318303.825529"
+            },
+            {
+                "user": "U0606QGQYE5",
+                "ts": "1710320482.079549"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U06P0H0V3UY"
+                ],
+                "count": 1
+            },
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U05VADPQPCL",
+                    "U06P0H0V3UY"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U06P0H0V3UY",
+        "type": "message",
+        "ts": "1710313037.669839",
+        "client_msg_id": "96c5ace4-3cea-4c06-bdda-0cb7abf1114e",
+        "text": "<@U05V7V2AV8A>\n맞습니다!\n해당 사유로 test dataset 원문을 찍어볼 수 있어서 토크나이징 안된 test_dataset 을 같이 return 하는 형태로 불러왔으며\n\n라벨은 news_test_dataset에서 찍어보실 수도있겠지만,\n원본형태로 사용해보는게 나중에 news_dataset 클래스 수정하다가 변경되는 일이 없을 것 같아 사용했습니다!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "f953974a59ed",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-07\/6762308887044_f953974a59edb3df3dc4_72.png",
+            "first_name": "이종혁",
+            "real_name": "이종혁 멘토",
+            "display_name": "이종혁 멘토",
+            "team": "T05UGFFGL07",
+            "name": "jonhyuk0922",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1710292173.299939",
+        "parent_user_id": "U05V7V2AV8A",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HShu3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05V7V2AV8A"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n맞습니다!\n해당 사유로 test dataset 원문을 찍어볼 수 있어서 토크나이징 안된 test_dataset 을 같이 return 하는 형태로 불러왔으며\n\n라벨은 news_test_dataset에서 찍어보실 수도있겠지만,\n원본형태로 사용해보는게 나중에 news_dataset 클래스 수정하다가 변경되는 일이 없을 것 같아 사용했습니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05V7V2AV8A",
+        "type": "message",
+        "ts": "1710313138.621779",
+        "client_msg_id": "12686e4c-4fd2-4e73-a0eb-65e402c86508",
+        "text": "네, 감사합니다",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "28368614e02a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5987346071766_28368614e02abbfb71bd_72.png",
+            "first_name": "andrew",
+            "real_name": "andrew jang",
+            "display_name": "장준규",
+            "team": "T05UGFFGL07",
+            "name": "goldenbeluga",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1710292173.299939",
+        "parent_user_id": "U05V7V2AV8A",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KTQSr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "네, 감사합니다"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U06P0H0V3UY"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

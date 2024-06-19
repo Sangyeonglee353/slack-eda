@@ -1,0 +1,224 @@
+[
+    {
+        "user": "U05V81G5ZDY",
+        "type": "message",
+        "ts": "1698019707.073549",
+        "client_msg_id": "5813f796-0e9d-41ac-9dea-3ea7102436d2",
+        "text": "말씀 감사합니다. QR 체크의 경우 19:00 앞뒤 10분까지는 정상 처리 됩니다. 출결 정정 신청 하실 필요 없으십니다!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "db1aceeb0d90",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5994058472162_db1aceeb0d9030c57e69_72.jpg",
+            "first_name": "김현우",
+            "real_name": "김현우",
+            "display_name": "FC 김현우 매니저",
+            "team": "T05UGFFGL07",
+            "name": "hyunwoo.kim",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697796487.124049",
+        "parent_user_id": "U05UN5DQ423",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ECHIC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "말씀 감사합니다. QR 체크의 경우 19:00 앞뒤 10분까지는 정상 처리 됩니다. 출결 정정 신청 하실 필요 없으십니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05V81G5ZDY",
+        "type": "message",
+        "ts": "1698019828.383149",
+        "client_msg_id": "13871178-fba5-4846-8c9d-bbedd023d8ea",
+        "text": "50% 미만 출결로 확인되어 조퇴가 아닌 결석으로 나타납니다.\n\n진료확인서  + 출석대장으로 정정 신청 구글폼을 통해 전달 주시면 확인 후에 정정 하겠습니다!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "db1aceeb0d90",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5994058472162_db1aceeb0d9030c57e69_72.jpg",
+            "first_name": "김현우",
+            "real_name": "김현우",
+            "display_name": "FC 김현우 매니저",
+            "team": "T05UGFFGL07",
+            "name": "hyunwoo.kim",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697800705.081079",
+        "parent_user_id": "U05VCCSHKHR",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VVCJ3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "50% 미만 출결로 확인되어 조퇴가 아닌 결석으로 나타납니다.\n\n진료확인서  + 출석대장으로 정정 신청 구글폼을 통해 전달 주시면 확인 후에 정정 하겠습니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05VCCSHKHR",
+        "type": "message",
+        "ts": "1698023000.882829",
+        "client_msg_id": "bba7788e-a3bf-4c99-bbe2-992cd95555cb",
+        "text": "진료확인서 대신 진료비 내역서로 제출 후 구글폼 신청했습니다!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "680561218468",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5998434715235_680561218468939005d6_72.png",
+            "first_name": "송현지",
+            "real_name": "송현지",
+            "display_name": "송현지",
+            "team": "T05UGFFGL07",
+            "name": "hyunjeesong95",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697800705.081079",
+        "parent_user_id": "U05VCCSHKHR",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iVsEh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "진료확인서 대신 진료비 내역서로 제출 후 구글폼 신청했습니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1::skin-tone-2",
+                "users": [
+                    "U05V81G5ZDY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05V0106JDT",
+        "type": "message",
+        "ts": "1698030273.202529",
+        "client_msg_id": "bcc6189f-5038-4e97-8c02-d6df5dc856c5",
+        "text": "<@U05V81G5ZDY> 처리가 된걸로 아는데 HRD 상에서는 계속 결석으로 표기가 되고 있습니다. 반영이 언제되는걸까요?!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "gd7b44870731",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d7b448707312b1f05516b12cfcdc5b63.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "김승호",
+            "real_name": "김승호",
+            "display_name": "",
+            "team": "T05UGFFGL07",
+            "name": "shkim0925",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697692579.128359",
+        "parent_user_id": "U05V0106JDT",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tdpNb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05V81G5ZDY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 처리가 된걸로 아는데 HRD 상에서는 계속 결석으로 표기가 되고 있습니다. 반영이 언제되는걸까요?!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05V81G5ZDY",
+        "type": "message",
+        "ts": "1698030301.088829",
+        "client_msg_id": "7cafe868-61de-411f-91ac-f9d4a4e7f8d4",
+        "text": "정정 반영까지는 2-3주 정도 소요됩니다!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "db1aceeb0d90",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5994058472162_db1aceeb0d9030c57e69_72.jpg",
+            "first_name": "김현우",
+            "real_name": "김현우",
+            "display_name": "FC 김현우 매니저",
+            "team": "T05UGFFGL07",
+            "name": "hyunwoo.kim",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697692579.128359",
+        "parent_user_id": "U05V0106JDT",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bQtSe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "정정 반영까지는 2-3주 정도 소요됩니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U05V0106JDT"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

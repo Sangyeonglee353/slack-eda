@@ -1,0 +1,137 @@
+[
+    {
+        "user": "U05V81G5ZDY",
+        "type": "message",
+        "ts": "1699231134.914599",
+        "client_msg_id": "31d66dce-d313-4b25-9f19-7f9ad5390209",
+        "text": "<@U05V9LP47V0> 안녕하세요 행정 매니저입니다.\n11\/3 일자 QR 미체크로 결석으로 처리 됩니다.\n스샷 참여와 함께 QR 체크 꼭꼭 부탁드립니다!!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "db1aceeb0d90",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5994058472162_db1aceeb0d9030c57e69_72.jpg",
+            "first_name": "김현우",
+            "real_name": "김현우",
+            "display_name": "FC 김현우 매니저",
+            "team": "T05UGFFGL07",
+            "name": "hyunwoo.kim",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1699005712.563849",
+        "parent_user_id": "U05V9LP47V0",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "663p\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05V9LP47V0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 안녕하세요 행정 매니저입니다.\n11\/3 일자 QR 미체크로 결석으로 처리 됩니다.\n스샷 참여와 함께 QR 체크 꼭꼭 부탁드립니다!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05V9LP47V0",
+        "type": "message",
+        "ts": "1699232061.066959",
+        "client_msg_id": "e519b8e6-7aa7-43cb-b081-86d27de0b91d",
+        "text": "스샷은 10시, 14시, 19시 모두 하였습니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "54d9ef7119e7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-06\/5993912366662_54d9ef7119e784b29212_72.jpg",
+            "first_name": "문정의",
+            "real_name": "문정의",
+            "display_name": "문정의",
+            "team": "T05UGFFGL07",
+            "name": "axa301",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1699005712.563849",
+        "parent_user_id": "U05V9LP47V0",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "L+DQB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "스샷은 10시, 14시, 19시 모두 하였습니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05V81G5ZDY",
+        "type": "message",
+        "ts": "1699236058.652709",
+        "client_msg_id": "31642332-eb52-4da6-a45f-c7b532bba389",
+        "text": "11\/2일자 공지에도 말씀드렸습니다만 *스샷과 QR 모두 참여하여야 출석*으로 인정됩니다(센터 전달 내용)\n해당 일자는 아쉽지만 결석으로 처리 되며 스샷 참여때 QR도 잊지말고 꼭 확인하여 체크 부탁드립니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "db1aceeb0d90",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5994058472162_db1aceeb0d9030c57e69_72.jpg",
+            "first_name": "김현우",
+            "real_name": "김현우",
+            "display_name": "FC 김현우 매니저",
+            "team": "T05UGFFGL07",
+            "name": "hyunwoo.kim",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1699005712.563849",
+        "parent_user_id": "U05V9LP47V0",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dTPE\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "11\/2일자 공지에도 말씀드렸습니다만 "
+                            },
+                            {
+                                "type": "text",
+                                "text": "스샷과 QR 모두 참여하여야 출석",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "으로 인정됩니다(센터 전달 내용)\n해당 일자는 아쉽지만 결석으로 처리 되며 스샷 참여때 QR도 잊지말고 꼭 확인하여 체크 부탁드립니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

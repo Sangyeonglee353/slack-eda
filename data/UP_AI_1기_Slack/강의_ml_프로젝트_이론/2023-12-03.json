@@ -1,0 +1,149 @@
+[
+    {
+        "user": "U05V2P37518",
+        "type": "message",
+        "ts": "1701655700.799879",
+        "client_msg_id": "5701ca6f-2483-41fb-aa75-638edfde3fa4",
+        "text": "강사님 질문이 있습니다.\n모델 학습시에 보통 평가 지표와 손실 함수를 같게 설정하나요 아니면 평가 지표와 손실 함수를 다르게 설정하나요? 전력 사용량 예측 1위 하신 분의 설명을 보다가 손실 함수는 weighted mse, metric은 smape로 설정하신걸봤는데 왜 이렇게 다른 지표를 설정하는지 궁금합니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "cc6bb0a6327a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5988791489650_cc6bb0a6327a06ec59ab_72.png",
+            "first_name": "배창현",
+            "real_name": "배창현",
+            "display_name": "",
+            "team": "T05UGFFGL07",
+            "name": "bae951753",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1701655700.799879",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1701656212.328909",
+        "reply_users": [
+            "U065TBUL5EE",
+            "U05V2P37518"
+        ],
+        "replies": [
+            {
+                "user": "U065TBUL5EE",
+                "ts": "1701655890.099369"
+            },
+            {
+                "user": "U05V2P37518",
+                "ts": "1701656212.328909"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vHF4p",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "강사님 질문이 있습니다.\n모델 학습시에 보통 평가 지표와 손실 함수를 같게 설정하나요 아니면 평가 지표와 손실 함수를 다르게 설정하나요? 전력 사용량 예측 1위 하신 분의 설명을 보다가 손실 함수는 weighted mse, metric은 smape로 설정하신걸봤는데 왜 이렇게 다른 지표를 설정하는지 궁금합니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U065TBUL5EE",
+        "type": "message",
+        "ts": "1701655890.099369",
+        "client_msg_id": "6447cff3-0cae-41ba-ac9a-df37aca784de",
+        "text": "굉장히 좋은 질문입니다!\n\n우선 Loss function은 해당 모델 자체가 학습하면서 optimize하는 대상이고, evaluation metric은 결과값 자체를 평가하는 지표입니다. 그래서 둘은 완전히 같진 않습니다.\n\n다만, evaluation metric과 같은 loss function이 있다면 해당 loss function으로 학습이 잘되면 metric도 잘나온다는 아주 간편한 상황이 될 수 있습니다.\n\n하지만 대부분의 모델들이 SMAPE 같은 metric을 loss function으로 지정하지 못하는 케이스들이 있으며 (미분 불가능이나, 구현이 안되어있는 케이스, 분류의 경우에는 애초에 불가능) 이 때문에 최대한 metric이 잘 나올 수 있는 loss function을 디자인해서 사용합니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "34f110a5edc4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-11-14\/6197301711475_34f110a5edc435398e63_72.png",
+            "first_name": "김용담",
+            "real_name": "김용담",
+            "display_name": "김용담 강사",
+            "team": "T05UGFFGL07",
+            "name": "codingiscoffee",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1701655700.799879",
+        "parent_user_id": "U05V2P37518",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RR6Ex",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "굉장히 좋은 질문입니다!\n\n우선 Loss function은 해당 모델 자체가 학습하면서 optimize하는 대상이고, evaluation metric은 결과값 자체를 평가하는 지표입니다. 그래서 둘은 완전히 같진 않습니다.\n\n다만, evaluation metric과 같은 loss function이 있다면 해당 loss function으로 학습이 잘되면 metric도 잘나온다는 아주 간편한 상황이 될 수 있습니다.\n\n하지만 대부분의 모델들이 SMAPE 같은 metric을 loss function으로 지정하지 못하는 케이스들이 있으며 (미분 불가능이나, 구현이 안되어있는 케이스, 분류의 경우에는 애초에 불가능) 이 때문에 최대한 metric이 잘 나올 수 있는 loss function을 디자인해서 사용합니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05V2P37518",
+        "type": "message",
+        "ts": "1701656212.328909",
+        "client_msg_id": "b28a8293-ce47-41e1-b40a-d221b4b86fee",
+        "text": "아!! 감사합니다!!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "cc6bb0a6327a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5988791489650_cc6bb0a6327a06ec59ab_72.png",
+            "first_name": "배창현",
+            "real_name": "배창현",
+            "display_name": "",
+            "team": "T05UGFFGL07",
+            "name": "bae951753",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1701655700.799879",
+        "parent_user_id": "U05V2P37518",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DMm5W",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "아!! 감사합니다!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U065TBUL5EE"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,306 @@
+[
+    {
+        "user": "U065TBUL5EE",
+        "type": "message",
+        "ts": "1709556554.900339",
+        "client_msg_id": "2800298a-42e1-4bba-813d-5a423c9c954a",
+        "text": "<https:\/\/www.kaggle.com\/competitions\/the-5th-kaggle-competition-challenge-with-kakr>",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "34f110a5edc4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-11-14\/6197301711475_34f110a5edc435398e63_72.png",
+            "first_name": "김용담",
+            "real_name": "김용담",
+            "display_name": "김용담 강사",
+            "team": "T05UGFFGL07",
+            "name": "codingiscoffee",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1709556554.900339",
+        "reply_count": 4,
+        "reply_users_count": 2,
+        "latest_reply": "1709687371.690739",
+        "reply_users": [
+            "U060JMX5FK2",
+            "U065TBUL5EE"
+        ],
+        "replies": [
+            {
+                "user": "U060JMX5FK2",
+                "ts": "1709687019.235849"
+            },
+            {
+                "user": "U065TBUL5EE",
+                "ts": "1709687291.007039"
+            },
+            {
+                "user": "U065TBUL5EE",
+                "ts": "1709687296.123669"
+            },
+            {
+                "user": "U060JMX5FK2",
+                "ts": "1709687371.690739"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "M5daY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.kaggle.com\/competitions\/the-5th-kaggle-competition-challenge-with-kakr"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U05V9LP47V0"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05VAHXECP6",
+        "type": "message",
+        "ts": "1709622012.133729",
+        "client_msg_id": "6eb8d55c-5e65-4a5d-8b58-6f995ee166f1",
+        "text": "<!channel>\n:sparkles:*패스트캠퍼스 IT 커리어 성장 컨퍼런스, 3월 CampCON 얼리버드 모집 안내*:sparkles:\n\n안녕하세요, Upstage AI Lab 1기 수강생 여러분!\n3월 CampCON 얼리버드 모집이 시작 되었습니다.\n\n다양한 IT 분야의 전문가들과 함께 커리어와 기술에 대한 고민을 나눌 수 있는,\n캠프콘에 여러분들을 가장 먼저 초대합니다:blush:\n※ 얼리버드 모집이란? 패캠 부트캠프 수강생\/수료생 대상으로만 우선 참여 혜택을 드리는 기간 :love_letter: (정규 모집은 선착순 마감)\n※ 3월 강연은 프론트엔드(FE) 직무 주제로 진행됩니다\n.\n:tada:*3월 연사자분들을 소개합니다*:tada:\n:one: *하조은님 [現 당근 소프트웨어 엔지니어(FE) | 前 뱅크샐러드, 마플]*\n- 주제 : 함께 일하고 싶은 개발자가 되기 위한 7가지 습관\n\n:two: *'O' 멘토님 [前 토스 프론트엔드 개발자]*\n- 주제 : 2024년 프론트엔드 트렌드로 보는, 회사가 선택하는 신입\/주니어의 기준\n\n:point_right: *3월 캠프콘 참여 신청하기 : <https:\/\/bit.ly\/3uNx7zH>*\n\n- 행사 일시 : 24년 03월 26일 화요일 오후 7시 (3시간 진행 예정)\n- 장소 : 비대면(ZOOM) *추후 안내 예정\n- 참석 대상자 : IT 커리어 성장을 꿈꾸는 누구나\n- 얼리버드 신청 기한 : ~ 24년 03월 11일(월) 15:00\n\n:arrow_forward: 1월 캠프콘 영상이 궁금하다면? <https:\/\/bit.ly\/3T1phuf>\n:arrow_forward: 캠프콘에 대해 더 궁금하시다면? <https:\/\/bit.ly\/47YsqjU>\n:arrow_forward: 2024년 매월 진행되는 캠프콘 소식을 받고 싶으시다면? <https:\/\/bit.ly\/47Ca0p4> (편집됨)",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "50abee101814",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-11\/6044824153712_50abee1018149e21919b_72.jpg",
+            "first_name": "이상영",
+            "real_name": "이상영",
+            "display_name": "FC 이상영 매니저",
+            "team": "T05UGFFGL07",
+            "name": "sangyeong.lee",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1i0sU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sparkles",
+                                "unicode": "2728",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "패스트캠퍼스 IT 커리어 성장 컨퍼런스, 3월 CampCON 얼리버드 모집 안내",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sparkles",
+                                "unicode": "2728",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n안녕하세요, Upstage AI Lab 1기 수강생 여러분!\n3월 CampCON 얼리버드 모집이 시작 되었습니다.\n\n다양한 IT 분야의 전문가들과 함께 커리어와 기술에 대한 고민을 나눌 수 있는,\n캠프콘에 여러분들을 가장 먼저 초대합니다"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "blush",
+                                "unicode": "1f60a"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n※ 얼리버드 모집이란? 패캠 부트캠프 수강생\/수료생 대상으로만 우선 참여 혜택을 드리는 기간 "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "love_letter",
+                                "unicode": "1f48c"
+                            },
+                            {
+                                "type": "text",
+                                "text": " (정규 모집은 선착순 마감)\n※ 3월 강연은 프론트엔드(FE) 직무 주제로 진행됩니다\n.\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "tada",
+                                "unicode": "1f389",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "3월 연사자분들을 소개합니다",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "tada",
+                                "unicode": "1f389",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "one",
+                                "unicode": "0031-fe0f-20e3",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " 하조은님 [現 당근 소프트웨어 엔지니어(FE) | 前 뱅크샐러드, 마플]",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n- 주제 : 함께 일하고 싶은 개발자가 되기 위한 7가지 습관\n\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "two",
+                                "unicode": "0032-fe0f-20e3",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " 'O' 멘토님 [前 토스 프론트엔드 개발자]",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n- 주제 : 2024년 프론트엔드 트렌드로 보는, 회사가 선택하는 신입\/주니어의 기준\n\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "point_right",
+                                "unicode": "1f449",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " 3월 캠프콘 참여 신청하기 : ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/bit.ly\/3uNx7zH",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n- 행사 일시 : 24년 03월 26일 화요일 오후 7시 (3시간 진행 예정)\n- 장소 : 비대면(ZOOM) *추후 안내 예정\n- 참석 대상자 : IT 커리어 성장을 꿈꾸는 누구나\n- 얼리버드 신청 기한 : ~ 24년 03월 11일(월) 15:00\n\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "arrow_forward",
+                                "unicode": "25b6-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 1월 캠프콘 영상이 궁금하다면? "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/bit.ly\/3T1phuf"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "arrow_forward",
+                                "unicode": "25b6-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 캠프콘에 대해 더 궁금하시다면? "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/bit.ly\/47YsqjU"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "arrow_forward",
+                                "unicode": "25b6-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 2024년 매월 진행되는 캠프콘 소식을 받고 싶으시다면? "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/bit.ly\/47Ca0p4"
+                            },
+                            {
+                                "type": "text",
+                                "text": " (편집됨)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

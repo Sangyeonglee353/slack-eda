@@ -1,0 +1,713 @@
+[
+    {
+        "user": "U05VADPQPCL",
+        "type": "message",
+        "ts": "1704336532.718929",
+        "client_msg_id": "0edff405-9af1-4462-9436-311d8109dee1",
+        "text": "<!channel>\n:round_pushpin:*훈련장려금 지급 관련 확인*:round_pushpin:\n\n안녕하세요, 여러분! 훈련장려금 지급과 관련해 개인별 확인이 필요해 공지드립니다:man-bowing:\n모든 수강생분들이 진행해주셔야 하며, 구글폼 내용 꼼꼼히 확인 후에 작성해주시면 감사하겠습니다.\n\n항상 설문 올릴때마다 꼼꼼히 챙겨주셔서 감사드리고 해당 설문도 제출 후에 :white_check_mark: 이모지 남겨주시면 감사하겠습니다.\n오늘 하루도 화이팅하세요:smiling_face_with_3_hearts:\n\n• *<https:\/\/forms.gle\/X1yHA4YN1pywJpMr8|해당 설문지 바로가기>*\n• *제출기한 : 1\/5(금) 오후 6시까지*",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "07e7ca00b8f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5991092857253_07e7ca00b8f0d0b13ba1_72.png",
+            "first_name": "패스트캠퍼스박기준",
+            "real_name": "패스트캠퍼스박기준",
+            "display_name": "LM 박기준",
+            "team": "T05UGFFGL07",
+            "name": "pgj.fc.career",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1704336532.718929",
+        "reply_count": 10,
+        "reply_users_count": 6,
+        "latest_reply": "1704444132.053549",
+        "reply_users": [
+            "U060D1KJECR",
+            "U05VADPQPCL",
+            "U05UWVA90H4",
+            "U05UN7M2GKZ",
+            "U05UNC6FNK1",
+            "U05V5H1T24V"
+        ],
+        "replies": [
+            {
+                "user": "U060D1KJECR",
+                "ts": "1704336690.630519"
+            },
+            {
+                "user": "U05VADPQPCL",
+                "ts": "1704336757.830519"
+            },
+            {
+                "user": "U05UWVA90H4",
+                "ts": "1704336776.903189"
+            },
+            {
+                "user": "U060D1KJECR",
+                "ts": "1704336837.621559"
+            },
+            {
+                "user": "U05VADPQPCL",
+                "ts": "1704336838.127809"
+            },
+            {
+                "user": "U05UN7M2GKZ",
+                "ts": "1704336867.800419"
+            },
+            {
+                "user": "U05UNC6FNK1",
+                "ts": "1704337164.398859"
+            },
+            {
+                "user": "U05V5H1T24V",
+                "ts": "1704337297.449699"
+            },
+            {
+                "user": "U05UNC6FNK1",
+                "ts": "1704337335.979039"
+            },
+            {
+                "user": "U05VADPQPCL",
+                "ts": "1704444132.053549"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2DDH3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "round_pushpin",
+                                "unicode": "1f4cd",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "훈련장려금 지급 관련 확인",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "round_pushpin",
+                                "unicode": "1f4cd"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n안녕하세요, 여러분! 훈련장려금 지급과 관련해 개인별 확인이 필요해 공지드립니다"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-bowing",
+                                "unicode": "1f647-200d-2642-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n모든 수강생분들이 진행해주셔야 하며, 구글폼 내용 꼼꼼히 확인 후에 작성해주시면 감사하겠습니다.\n\n항상 설문 올릴때마다 꼼꼼히 챙겨주셔서 감사드리고 해당 설문도 제출 후에 "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "white_check_mark",
+                                "unicode": "2705"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 이모지 남겨주시면 감사하겠습니다.\n오늘 하루도 화이팅하세요"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smiling_face_with_3_hearts",
+                                "unicode": "1f970"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/forms.gle\/X1yHA4YN1pywJpMr8",
+                                        "text": "해당 설문지 바로가기",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "제출기한 : 1\/5(금) 오후 6시까지",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U05V9N22ZUK",
+                    "U0606HAGLTB",
+                    "U05V5H1T24V",
+                    "U05UNMQ4LP9",
+                    "U060H4V0Q5S",
+                    "U05V7H78DUM",
+                    "U05V561TXUL",
+                    "U05UWVA90H4",
+                    "U05V2HL22M9",
+                    "U05V2T62KUJ",
+                    "U05V5B27DK7",
+                    "U05VC7EEY5Q",
+                    "U05UT0JG4BZ",
+                    "U05UN6NTN8P",
+                    "U05VAU596PP",
+                    "U05V2PMAVNE",
+                    "U0600PYS0G3",
+                    "U05V9LP47V0",
+                    "U05V2P37518",
+                    "U05V4KZR3NW"
+                ],
+                "count": 20
+            }
+        ]
+    },
+    {
+        "user": "U060D1KJECR",
+        "type": "message",
+        "ts": "1704336690.630519",
+        "client_msg_id": "8b92c743-ec80-4464-85a0-09b0214e4f3f",
+        "text": "항목 5번이 선택사항임에도 필수 항목으로 되어있습니다. 확인해주시면 감사하겠습니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "d024d71b810e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-06\/5993779835878_d024d71b810e837e9532_72.jpg",
+            "first_name": "이현진",
+            "real_name": "이현진",
+            "display_name": "이현진",
+            "team": "T05UGFFGL07",
+            "name": "jinintg",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1704336532.718929",
+        "parent_user_id": "U05VADPQPCL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "r1h\/h",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "항목 5번이 선택사항임에도 필수 항목으로 되어있습니다. 확인해주시면 감사하겠습니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05VADPQPCL",
+        "type": "message",
+        "ts": "1704336757.830519",
+        "client_msg_id": "55be3e66-39d7-4d9c-bbc5-1148fb4fe5ac",
+        "text": "<@U060D1KJECR> 필수 항목에서 선택 항목으로 바꿔놓았습니다. 제보해주셔 감사합니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "07e7ca00b8f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5991092857253_07e7ca00b8f0d0b13ba1_72.png",
+            "first_name": "패스트캠퍼스박기준",
+            "real_name": "패스트캠퍼스박기준",
+            "display_name": "LM 박기준",
+            "team": "T05UGFFGL07",
+            "name": "pgj.fc.career",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1704336532.718929",
+        "parent_user_id": "U05VADPQPCL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "k5nkv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U060D1KJECR"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 필수 항목에서 선택 항목으로 바꿔놓았습니다. 제보해주셔 감사합니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05UWVA90H4",
+        "type": "message",
+        "ts": "1704336776.903189",
+        "client_msg_id": "7798B1D0-BB78-4C9E-9D13-D878F950F1F5",
+        "text": "현재 고용보험 가입 중인지를 여쭤보시는건가요? ",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "e039a582c034",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5983012631430_e039a582c03450d83dc6_72.png",
+            "first_name": "이준형",
+            "real_name": "이준형",
+            "display_name": "이준형",
+            "team": "T05UGFFGL07",
+            "name": "hewberryd8",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1704336532.718929",
+        "parent_user_id": "U05VADPQPCL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cCs3V",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "현재"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "고용보험"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "가입"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "중인지를"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "여쭤보시는건가요"
+                            },
+                            {
+                                "type": "text",
+                                "text": "? "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U060D1KJECR",
+        "type": "message",
+        "ts": "1704336837.621559",
+        "client_msg_id": "06f1a073-89d5-4572-9643-e07dd3360b81",
+        "text": "해당 설문 전체완료되어야 이전 신청되었던 10월 기준 훈련 장려금이 지급되는 걸까요?",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "d024d71b810e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-06\/5993779835878_d024d71b810e837e9532_72.jpg",
+            "first_name": "이현진",
+            "real_name": "이현진",
+            "display_name": "이현진",
+            "team": "T05UGFFGL07",
+            "name": "jinintg",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1704336532.718929",
+        "parent_user_id": "U05VADPQPCL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FemPl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "해당 설문 전체완료되어야 이전 신청되었던 10월 기준 훈련 장려금이 지급되는 걸까요?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05VADPQPCL",
+        "type": "message",
+        "ts": "1704336838.127809",
+        "client_msg_id": "90c5ce73-d885-43ed-82ed-39bc9edf4c94",
+        "text": "<@U05UWVA90H4> 4번 항목의 경우 고용 보험 가입 여부 확인입니다!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "07e7ca00b8f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5991092857253_07e7ca00b8f0d0b13ba1_72.png",
+            "first_name": "패스트캠퍼스박기준",
+            "real_name": "패스트캠퍼스박기준",
+            "display_name": "LM 박기준",
+            "team": "T05UGFFGL07",
+            "name": "pgj.fc.career",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1704336532.718929",
+        "parent_user_id": "U05VADPQPCL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ri3QB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05UWVA90H4"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 4번 항목의 경우 고용 보험 가입 여부 확인입니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05UN7M2GKZ",
+        "type": "message",
+        "ts": "1704336867.800419",
+        "client_msg_id": "8dfab399-a930-4971-8f05-6e051eeb9ff3",
+        "text": "주 15시간 월 60시간 미만 근로 고용보험 가입인 경우도 여부확인에 가입중으로 기입하면 될까요?",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "g898587e4152",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/898587e41523b6c4bc631e8e0c827f5b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "장호준",
+            "real_name": "장호준",
+            "display_name": "장호준",
+            "team": "T05UGFFGL07",
+            "name": "jhh6650",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1704336532.718929",
+        "parent_user_id": "U05VADPQPCL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qgphW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "주 15시간 월 60시간 미만 근로 고용보험 가입인 경우도 여부확인에 가입중으로 기입하면 될까요?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05UNC6FNK1",
+        "type": "message",
+        "ts": "1704337164.398859",
+        "client_msg_id": "a29b5946-a491-40c9-8b73-f53e85900d88",
+        "text": "<@U060D1KJECR> 고용보험 가입중이면 재직중으로 확인하시어 서명후 설문 제출해주시면 됩니다.\n네 훈련장려금 신청시 2024년도 추가 필수 파일로 위 내용에 대한 취합을 요청하셨습니다.\n\n<@U05UN7M2GKZ> 호준님 맞습니다. 15시간 이상이기 때문에 가입중으로 작성해주시면 됩니다 .",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "260d154ea1e2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5979526758263_260d154ea1e2177fd001_72.jpg",
+            "first_name": "FC",
+            "real_name": "FC 하시안 매니저",
+            "display_name": "FC 하시안 매니저",
+            "team": "T05UGFFGL07",
+            "name": "xianha",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1704336532.718929",
+        "parent_user_id": "U05VADPQPCL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wY1\/F",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U060D1KJECR"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 고용보험 가입중이면 재직중으로 확인하시어 서명후 설문 제출해주시면 됩니다.\n네 훈련장려금 신청시 2024년도 추가 필수 파일로 위 내용에 대한 취합을 요청하셨습니다.\n\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05UN7M2GKZ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 호준님 맞습니다. 15시간 이상이기 때문에 가입중으로 작성해주시면 됩니다 ."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05V5H1T24V",
+        "type": "message",
+        "ts": "1704337297.449699",
+        "client_msg_id": "31868F21-9CA2-4948-AC39-FC7B30D91182",
+        "text": "<@U05UNC6FNK1> 주 14시간 이하 고용보험 가입자인데 이때도 가입중으로 작성하면 되나요?",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "7c6706ce6504",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5987883585126_7c6706ce65044c7fba85_72.png",
+            "first_name": "서재현",
+            "real_name": "서재현",
+            "display_name": "서재현",
+            "team": "T05UGFFGL07",
+            "name": "jaehyeon4037",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1704336532.718929",
+        "parent_user_id": "U05VADPQPCL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LAdkp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05UNC6FNK1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "주"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 14"
+                            },
+                            {
+                                "type": "text",
+                                "text": "시간"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "이하"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "고용보험"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "가입자인데"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "이때도"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "가입중으로"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "작성하면"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "되나요"
+                            },
+                            {
+                                "type": "text",
+                                "text": "?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05UNC6FNK1",
+        "type": "message",
+        "ts": "1704337335.979039",
+        "client_msg_id": "cd2b5567-7d57-4df6-9a82-c7cd4ed2d6fe",
+        "text": "네 재현님 고용보험 가입되어 있다면 14시간이하 고용보험 가입자로 작성해주시면 됩니다~",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "260d154ea1e2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5979526758263_260d154ea1e2177fd001_72.jpg",
+            "first_name": "FC",
+            "real_name": "FC 하시안 매니저",
+            "display_name": "FC 하시안 매니저",
+            "team": "T05UGFFGL07",
+            "name": "xianha",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1704336532.718929",
+        "parent_user_id": "U05VADPQPCL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "u59Om",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "네 재현님 고용보험 가입되어 있다면 14시간이하 고용보험 가입자로 작성해주시면 됩니다~"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U05V5H1T24V"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

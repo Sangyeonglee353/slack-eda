@@ -1,0 +1,328 @@
+[
+    {
+        "user": "U05UNMQ4LP9",
+        "type": "message",
+        "ts": "1699007456.076189",
+        "client_msg_id": "4cca7b4c-3504-4445-b52c-19cf08c06b3a",
+        "text": "서울시 인구 시각화랑 부동산 시각화 코드 갖고 계신 분 공유 가능할까요!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "eef278e1672b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5974738227319_eef278e1672b038da8b1_72.jpg",
+            "first_name": "김윤겸",
+            "real_name": "김윤겸",
+            "display_name": "김윤겸",
+            "team": "T05UGFFGL07",
+            "name": "dbsrua110525",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1699007456.076189",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1699011156.246999",
+        "reply_users": [
+            "U05V379NETU",
+            "U05V2T62KUJ",
+            "U05UNMQ4LP9"
+        ],
+        "replies": [
+            {
+                "user": "U05V379NETU",
+                "ts": "1699008241.053079"
+            },
+            {
+                "user": "U05V2T62KUJ",
+                "ts": "1699010755.354619"
+            },
+            {
+                "user": "U05UNMQ4LP9",
+                "ts": "1699011156.246999"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xGKpK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "서울시 인구 시각화랑 부동산 시각화 코드 갖고 계신 분 공유 가능할까요!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U060VSK7ELC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05V379NETU",
+        "type": "message",
+        "ts": "1699008241.053079",
+        "client_msg_id": "cf233600-c149-4067-a9f8-b1b1439fd78e",
+        "text": "강사님이 올려주신다고 합니다!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "ffacc530c1ba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/6012256954656_ffacc530c1baefd9bc1c_72.jpg",
+            "first_name": "신주용",
+            "real_name": "신주용",
+            "display_name": "신주용",
+            "team": "T05UGFFGL07",
+            "name": "robotshin1608",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1699007456.076189",
+        "parent_user_id": "U05UNMQ4LP9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Vv2VN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "강사님이 올려주신다고 합니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "강사님 거랑은 조금 다를 수 있는데 이거라도 괜찮으시면 쓰세용",
+        "files": [
+            {
+                "id": "F064HEQFKS5",
+                "created": 1699010687,
+                "timestamp": 1699010687,
+                "name": "data-visualization_my.ipynb",
+                "title": "data-visualization_my.ipynb",
+                "mimetype": "application\/octet-stream",
+                "filetype": "binary",
+                "pretty_type": "Binary",
+                "user": "U05V2T62KUJ",
+                "user_team": "T05UGFFGL07",
+                "editable": false,
+                "size": 3008292,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F064HEQFKS5\/data-visualization_my.ipynb?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F064HEQFKS5\/download\/data-visualization_my.ipynb?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "media_display_type": "unknown",
+                "permalink": "https:\/\/fcupstageai1.slack.com\/files\/U05V2T62KUJ\/F064HEQFKS5\/data-visualization_my.ipynb",
+                "permalink_public": "https:\/\/slack-files.com\/T05UGFFGL07-F064HEQFKS5-f75a270410",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U05V2T62KUJ",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LR+rd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "강사님 거랑은 조금 다를 수 있는데 이거라도 괜찮으시면 쓰세용"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1699010755.354619",
+        "client_msg_id": "7f448de4-7756-4740-bb0b-12e9e0c758f8",
+        "thread_ts": "1699007456.076189",
+        "parent_user_id": "U05UNMQ4LP9",
+        "reactions": [
+            {
+                "name": "fb-like",
+                "users": [
+                    "U05UNMQ4LP9"
+                ],
+                "count": 1
+            },
+            {
+                "name": "100",
+                "users": [
+                    "U060VSK7ELC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05UNMQ4LP9",
+        "type": "message",
+        "ts": "1699011156.246999",
+        "client_msg_id": "3b6ab065-3537-4d29-81b1-841b40ba29fd",
+        "text": "답변 주신 두 분 감사합니다:)",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "eef278e1672b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5974738227319_eef278e1672b038da8b1_72.jpg",
+            "first_name": "김윤겸",
+            "real_name": "김윤겸",
+            "display_name": "김윤겸",
+            "team": "T05UGFFGL07",
+            "name": "dbsrua110525",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1699007456.076189",
+        "parent_user_id": "U05UNMQ4LP9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UPjvq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "답변 주신 두 분 감사합니다:)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "금일 진행한 시각화 &amp; 부동산 분석 코드 공유드립니다! :slightly_smiling_face:\n주말 잘 보내세요!",
+        "files": [
+            {
+                "id": "F064HH7BUM7",
+                "created": 1699011950,
+                "timestamp": 1699011950,
+                "name": "visualization.ipynb",
+                "title": "visualization.ipynb",
+                "mimetype": "application\/octet-stream",
+                "filetype": "binary",
+                "pretty_type": "Binary",
+                "user": "U060VSK7ELC",
+                "user_team": "T05UGFFGL07",
+                "editable": false,
+                "size": 2762459,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F064HH7BUM7\/visualization.ipynb?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F064HH7BUM7\/download\/visualization.ipynb?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "media_display_type": "unknown",
+                "permalink": "https:\/\/fcupstageai1.slack.com\/files\/U060VSK7ELC\/F064HH7BUM7\/visualization.ipynb",
+                "permalink_public": "https:\/\/slack-files.com\/T05UGFFGL07-F064HH7BUM7-459cf197d8",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U060VSK7ELC",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5S1wm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "금일 진행한 시각화 & 부동산 분석 코드 공유드립니다! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n주말 잘 보내세요!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1699011967.377829",
+        "client_msg_id": "79b28fdf-3693-4570-b1e6-8705480c5c7b",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U05V561TXUL",
+                    "U05V379NETU",
+                    "U05UN6NTN8P",
+                    "U05UW74NJ0N",
+                    "U05UNMQ4LP9",
+                    "U05V5B27DK7",
+                    "U05VDDP88BW",
+                    "U05V2T62KUJ",
+                    "U0600GGHJTC",
+                    "U05UN5DQ423",
+                    "U060LG0BT89"
+                ],
+                "count": 11
+            },
+            {
+                "name": "party-blob",
+                "users": [
+                    "U05V379NETU"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1::skin-tone-2",
+                "users": [
+                    "U05V2HL22M9"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

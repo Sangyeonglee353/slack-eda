@@ -1,0 +1,1034 @@
+[
+    {
+        "text": "<!here>\n내일부터 시작될 python : 김인섭 강사님 강의 1차 자료 공유해드립니다!\n:eevee:",
+        "files": [
+            {
+                "id": "F0624T145H6",
+                "mode": "tombstone"
+            }
+        ],
+        "upload": false,
+        "user": "U06061L4S64",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KUZk+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n내일부터 시작될 python : 김인섭 강사님 강의 1차 자료 공유해드립니다!\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "eevee"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1697534053.144619",
+        "client_msg_id": "e026f1b0-f641-482d-bf80-3fba9614f2c7",
+        "thread_ts": "1697534053.144619",
+        "reply_count": 6,
+        "reply_users_count": 3,
+        "latest_reply": "1697537375.370859",
+        "reply_users": [
+            "U05V9LP47V0",
+            "U06061L4S64",
+            "U05UUUNAE5D"
+        ],
+        "replies": [
+            {
+                "user": "U05V9LP47V0",
+                "ts": "1697534209.604129"
+            },
+            {
+                "user": "U06061L4S64",
+                "ts": "1697534960.880499"
+            },
+            {
+                "user": "U06061L4S64",
+                "ts": "1697535263.732429"
+            },
+            {
+                "user": "U05V9LP47V0",
+                "ts": "1697536221.461579"
+            },
+            {
+                "user": "U06061L4S64",
+                "ts": "1697536293.317039"
+            },
+            {
+                "user": "U05UUUNAE5D",
+                "ts": "1697537375.370859"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U060BLVQYHW",
+                    "U060LG0BT89",
+                    "U05V9LP47V0",
+                    "U060D1KJECR"
+                ],
+                "count": 4
+            },
+            {
+                "name": "eyes",
+                "users": [
+                    "U060VSK7ELC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05V9LP47V0",
+        "type": "message",
+        "ts": "1697534209.604129",
+        "edited": {
+            "user": "U05V9LP47V0",
+            "ts": "1697534340.000000"
+        },
+        "client_msg_id": "53c4249a-0178-4db1-85e2-11ff6cd4ec40",
+        "text": "압축이 풀리지 않습니다. 7zip으로 풀어야 되네요.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "54d9ef7119e7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-06\/5993912366662_54d9ef7119e784b29212_72.jpg",
+            "first_name": "문정의",
+            "real_name": "문정의",
+            "display_name": "문정의",
+            "team": "T05UGFFGL07",
+            "name": "axa301",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697534053.144619",
+        "parent_user_id": "U06061L4S64",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "He8dt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "압축이 풀리지 않습니다. 7zip으로 풀어야 되네요."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06061L4S64",
+        "type": "message",
+        "ts": "1697534960.880499",
+        "client_msg_id": "7f9b28a2-cc0c-4a81-80ba-1a2758c9332f",
+        "text": "잠시만요",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "9958a6e7ea98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5988755251283_9958a6e7ea98545615ca_72.png",
+            "first_name": "LM",
+            "real_name": "LM 박진영",
+            "display_name": "LM 박진영",
+            "team": "T05UGFFGL07",
+            "name": "pjy.fc.career",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697534053.144619",
+        "parent_user_id": "U06061L4S64",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Y9Cno",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "잠시만요"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06061L4S64",
+        "type": "message",
+        "ts": "1697535263.732429",
+        "client_msg_id": "d46439ed-f242-4f6f-b4a8-1d1b35cbb45c",
+        "text": "성공하신건가요?",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "9958a6e7ea98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5988755251283_9958a6e7ea98545615ca_72.png",
+            "first_name": "LM",
+            "real_name": "LM 박진영",
+            "display_name": "LM 박진영",
+            "team": "T05UGFFGL07",
+            "name": "pjy.fc.career",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697534053.144619",
+        "parent_user_id": "U06061L4S64",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kJhCU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "성공하신건가요?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "",
+        "files": [
+            {
+                "id": "F0611F249B9",
+                "created": 1697535411,
+                "timestamp": 1697535411,
+                "name": "(1)파이썬 교재.zip",
+                "title": "(1)파이썬 교재.zip",
+                "mimetype": "application\/zip",
+                "filetype": "zip",
+                "pretty_type": "Zip",
+                "user": "U06061L4S64",
+                "user_team": "T05UGFFGL07",
+                "editable": false,
+                "size": 25542220,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F0611F249B9\/_1___________________________________.zip?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F0611F249B9\/download\/_1___________________________________.zip?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "media_display_type": "unknown",
+                "permalink": "https:\/\/fcupstageai1.slack.com\/files\/U06061L4S64\/F0611F249B9\/_1___________________________________.zip",
+                "permalink_public": "https:\/\/slack-files.com\/T05UGFFGL07-F0611F249B9-396f7c4792",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U06061L4S64",
+        "display_as_bot": false,
+        "type": "message",
+        "ts": "1697535419.005189",
+        "client_msg_id": "9cacc46d-4203-4a6d-8e6d-8f5229ccf2ab",
+        "thread_ts": "1697535419.005189",
+        "reply_count": 5,
+        "reply_users_count": 3,
+        "latest_reply": "1697592483.022209",
+        "reply_users": [
+            "U05UNMQ4LP9",
+            "U06061L4S64",
+            "U060TBSJ7DF"
+        ],
+        "replies": [
+            {
+                "user": "U05UNMQ4LP9",
+                "ts": "1697590877.275359"
+            },
+            {
+                "user": "U06061L4S64",
+                "ts": "1697590933.962139"
+            },
+            {
+                "user": "U060TBSJ7DF",
+                "ts": "1697591190.773899"
+            },
+            {
+                "user": "U05UNMQ4LP9",
+                "ts": "1697591211.343039"
+            },
+            {
+                "user": "U060TBSJ7DF",
+                "ts": "1697592483.022209"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "user": "U05V9LP47V0",
+        "type": "message",
+        "ts": "1697536221.461579",
+        "client_msg_id": "91054c2c-9ae4-4b28-9702-90e405472b21",
+        "text": "저는 7zip으로 풀었습니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "54d9ef7119e7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-06\/5993912366662_54d9ef7119e784b29212_72.jpg",
+            "first_name": "문정의",
+            "real_name": "문정의",
+            "display_name": "문정의",
+            "team": "T05UGFFGL07",
+            "name": "axa301",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697534053.144619",
+        "parent_user_id": "U06061L4S64",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/p37M",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "저는 7zip으로 풀었습니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U06061L4S64"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06061L4S64",
+        "type": "message",
+        "ts": "1697536293.317039",
+        "client_msg_id": "d9ceac59-ba2f-41f1-a565-bb66d0bcca81",
+        "text": "혹시 똑같은 현상이 있으신 다른 분들을 위해서 정보 공유 가능할까요? <https:\/\/fcupstageai1.slack.com\/archives\/C05UR9EKMC6|정보공유방>이나 이 채널에 올려주셔도 됩니다!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "9958a6e7ea98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5988755251283_9958a6e7ea98545615ca_72.png",
+            "first_name": "LM",
+            "real_name": "LM 박진영",
+            "display_name": "LM 박진영",
+            "team": "T05UGFFGL07",
+            "name": "pjy.fc.career",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697534053.144619",
+        "parent_user_id": "U06061L4S64",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xPMR7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "혹시 똑같은 현상이 있으신 다른 분들을 위해서 정보 공유 가능할까요? "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/fcupstageai1.slack.com\/archives\/C05UR9EKMC6",
+                                "text": "정보공유방"
+                            },
+                            {
+                                "type": "text",
+                                "text": "이나 이 채널에 올려주셔도 됩니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05UUUNAE5D",
+        "type": "message",
+        "ts": "1697537375.370859",
+        "client_msg_id": "82b295b1-675d-4637-9459-28ddbe0b7ae5",
+        "text": "압축풀기도 안 되고, 파일이 비어있다고 뜨는데요.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "32899ebdb4c2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5995423014227_32899ebdb4c26d670b69_72.png",
+            "first_name": "감성필SungFeelCalm",
+            "real_name": "감성필SungFeelCalm",
+            "display_name": "감성필",
+            "team": "T05UGFFGL07",
+            "name": "betterthingsarecoming",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697534053.144619",
+        "parent_user_id": "U06061L4S64",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "V8JDP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "압축풀기도 안 되고, 파일이 비어있다고 뜨는데요."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05UNMQ4LP9",
+        "type": "message",
+        "ts": "1697590877.275359",
+        "client_msg_id": "bfce3c3c-5eb8-4e06-a531-71aebedda1f6",
+        "text": "혹시 맥북이신가요? 맥북에서 압축파일 생성하면 윈도우에서 보통 빈 파일로 나옵니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "eef278e1672b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5974738227319_eef278e1672b038da8b1_72.jpg",
+            "first_name": "김윤겸",
+            "real_name": "김윤겸",
+            "display_name": "김윤겸",
+            "team": "T05UGFFGL07",
+            "name": "dbsrua110525",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697535419.005189",
+        "parent_user_id": "U06061L4S64",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tfzVm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "혹시 맥북이신가요? 맥북에서 압축파일 생성하면 윈도우에서 보통 빈 파일로 나옵니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06061L4S64",
+        "type": "message",
+        "ts": "1697590933.962139",
+        "client_msg_id": "4C1C8758-F0AF-4C9E-885D-E707F3ABFE9A",
+        "text": "윈도우로 올렸습니다..! 강사님이 맥북이신가봐요!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "9958a6e7ea98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5988755251283_9958a6e7ea98545615ca_72.png",
+            "first_name": "LM",
+            "real_name": "LM 박진영",
+            "display_name": "LM 박진영",
+            "team": "T05UGFFGL07",
+            "name": "pjy.fc.career",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697535419.005189",
+        "parent_user_id": "U06061L4S64",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9\/nQ2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "윈도우로"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "올렸습니다"
+                            },
+                            {
+                                "type": "text",
+                                "text": "..! "
+                            },
+                            {
+                                "type": "text",
+                                "text": "강사님이"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "맥북이신가봐요"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U060TBSJ7DF",
+        "type": "message",
+        "ts": "1697591190.773899",
+        "client_msg_id": "a92a0fdf-e640-45bd-bcdc-efc7020e33ed",
+        "text": "압축파일이 빈 파일로 보입니다. 저는 윈도우입니다!!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "c265f80d1cf6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-10\/6000233533575_c265f80d1cf6a20e4d32_72.jpg",
+            "first_name": "조성운",
+            "real_name": "조성운",
+            "display_name": "",
+            "team": "T05UGFFGL07",
+            "name": "jodory9524",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697535419.005189",
+        "parent_user_id": "U06061L4S64",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xcBo+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "압축파일이 빈 파일로 보입니다. 저는 윈도우입니다!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "thread_broadcast",
+        "user": "U05UNMQ4LP9",
+        "thread_ts": "1697535419.005189",
+        "root": {
+            "text": "",
+            "files": [
+                {
+                    "id": "F0611F249B9",
+                    "created": 1697535411,
+                    "timestamp": 1697535411,
+                    "name": "(1)파이썬 교재.zip",
+                    "title": "(1)파이썬 교재.zip",
+                    "mimetype": "application\/zip",
+                    "filetype": "zip",
+                    "pretty_type": "Zip",
+                    "user": "U06061L4S64",
+                    "user_team": "T05UGFFGL07",
+                    "editable": false,
+                    "size": 25542220,
+                    "mode": "hosted",
+                    "is_external": false,
+                    "external_type": "",
+                    "is_public": true,
+                    "public_url_shared": false,
+                    "display_as_bot": false,
+                    "username": "",
+                    "url_private": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F0611F249B9\/_1___________________________________.zip?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                    "url_private_download": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F0611F249B9\/download\/_1___________________________________.zip?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                    "media_display_type": "unknown",
+                    "permalink": "https:\/\/fcupstageai1.slack.com\/files\/U06061L4S64\/F0611F249B9\/_1___________________________________.zip",
+                    "permalink_public": "https:\/\/slack-files.com\/T05UGFFGL07-F0611F249B9-396f7c4792",
+                    "is_starred": false,
+                    "has_rich_preview": false,
+                    "file_access": "visible"
+                }
+            ],
+            "upload": false,
+            "user": "U06061L4S64",
+            "display_as_bot": false,
+            "type": "message",
+            "ts": "1697535419.005189",
+            "client_msg_id": "9cacc46d-4203-4a6d-8e6d-8f5229ccf2ab",
+            "thread_ts": "1697535419.005189",
+            "reply_count": 5,
+            "reply_users_count": 3,
+            "latest_reply": "1697592483.022209",
+            "reply_users": [
+                "U05UNMQ4LP9",
+                "U06061L4S64",
+                "U060TBSJ7DF"
+            ],
+            "replies": [
+                {
+                    "user": "U05UNMQ4LP9",
+                    "ts": "1697590877.275359"
+                },
+                {
+                    "user": "U06061L4S64",
+                    "ts": "1697590933.962139"
+                },
+                {
+                    "user": "U060TBSJ7DF",
+                    "ts": "1697591190.773899"
+                },
+                {
+                    "user": "U05UNMQ4LP9",
+                    "ts": "1697591211.343039"
+                },
+                {
+                    "user": "U060TBSJ7DF",
+                    "ts": "1697592483.022209"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false
+        },
+        "type": "message",
+        "ts": "1697591211.343039",
+        "edited": {
+            "user": "U05UNMQ4LP9",
+            "ts": "1697591236.000000"
+        },
+        "client_msg_id": "2a7832c1-9bd1-4062-a162-c4e2d03d12b1",
+        "text": "교재 압축풀기 안되시는 분들은 반디집이든 뭐든 압축 프로그램으로 쓰시면 됩니다.",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QHD3W",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "교재 압축풀기 안되시는 분들은 반디집이든 뭐든 압축 프로그램으로 쓰시면 됩니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05V7V2AV8A",
+        "type": "message",
+        "ts": "1697591848.611009",
+        "client_msg_id": "62e23154-fffa-49e6-9a3d-236ab2e29d58",
+        "text": "<https:\/\/abit.ly\/inseop_python>",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "28368614e02a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5987346071766_28368614e02abbfb71bd_72.png",
+            "first_name": "andrew",
+            "real_name": "andrew jang",
+            "display_name": "장준규",
+            "team": "T05UGFFGL07",
+            "name": "goldenbeluga",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/www.notion.so\/image\/https%3A%2F%2Fimages.unsplash.com%2Fphoto-1515378960530-7c0da6231fb1%3Fixlib%3Drb-1.2.1%26q%3D80%26cs%3Dtinysrgb%26fm%3Djpg%26crop%3Dentropy?table=block&id=7e393089-8a3b-43de-b206-adf821f6055c&spaceId=55199e9f-cf92-44a7-8d9d-f768017a960b&width=2000&userId=&cache=v2",
+                "image_width": 2000,
+                "image_height": 1333,
+                "image_bytes": 234242,
+                "from_url": "https:\/\/abit.ly\/inseop_python",
+                "id": 1,
+                "original_url": "https:\/\/abit.ly\/inseop_python",
+                "fallback": "SeopE on Notion: 파이썬 AI \/ 데이터분석 과정",
+                "text": "<https:\/\/abit.ly\/inseop_python>,",
+                "title": "파이썬 AI \/ 데이터분석 과정",
+                "title_link": "https:\/\/abit.ly\/inseop_python",
+                "service_name": "SeopE on Notion"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "V6Txn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/abit.ly\/inseop_python"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U05UWVA90H4",
+                    "U060BLVQYHW",
+                    "U05UW1S4KQE",
+                    "U05UUUNAE5D"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "user": "U060TBSJ7DF",
+        "type": "message",
+        "ts": "1697592483.022209",
+        "client_msg_id": "4c0f7bbc-817d-4324-ac8c-64db0a370407",
+        "text": "반디집으로 압축풀기 해결했습니다!\n윈도우 내장 압출풀기 프로그램으로는 안되는군요 ㅎㅎ",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "c265f80d1cf6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-10\/6000233533575_c265f80d1cf6a20e4d32_72.jpg",
+            "first_name": "조성운",
+            "real_name": "조성운",
+            "display_name": "",
+            "team": "T05UGFFGL07",
+            "name": "jodory9524",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697535419.005189",
+        "parent_user_id": "U06061L4S64",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Idr92",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "반디집으로 압축풀기 해결했습니다!\n윈도우 내장 압출풀기 프로그램으로는 안되는군요 ㅎㅎ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U060BLVQYHW",
+        "type": "message",
+        "ts": "1697593023.877929",
+        "client_msg_id": "b5ee021f-1197-4299-bce2-13aca2a852f0",
+        "text": "Sklearn 가우시안 프로세스 코드\n<https:\/\/github.com\/scikit-learn\/scikit-learn\/blob\/9aaed498795f68e5956ea762fef9c440ca9eb239\/sklearn\/gaussian_process\/kernels.py>",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "g6cb970458b5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6cb970458b5672091fa231bd078f93da.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+            "first_name": "Sang",
+            "real_name": "Sang Hyuk SEO",
+            "display_name": "서상혁",
+            "team": "T05UGFFGL07",
+            "name": "happer96",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AsW0z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sklearn 가우시안 프로세스 코드\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/scikit-learn\/scikit-learn\/blob\/9aaed498795f68e5956ea762fef9c440ca9eb239\/sklearn\/gaussian_process\/kernels.py"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U060LG0BT89",
+        "type": "message",
+        "ts": "1697597756.358719",
+        "client_msg_id": "a7a5ad56-6c6b-4599-8103-380a895aa327",
+        "text": "빅데이터에 대한 데이터 엔지니어링, 전처리, 모델링의 실시간성을 염두해서 파이썬 중, 고급스킬 중 퍼포먼스를 향상시키는 스킬들 혹은 고민들이 어떤 것들이 있는지 궁금합니다!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "g273c76b80b5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/273c76b80b5c013cab6c608d10041dd4.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "김준호",
+            "real_name": "김준호",
+            "display_name": "",
+            "team": "T05UGFFGL07",
+            "name": "demyank88",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697597756.358719",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1697600109.554019",
+        "reply_users": [
+            "U060LG0BT89"
+        ],
+        "replies": [
+            {
+                "user": "U060LG0BT89",
+                "ts": "1697600109.554019"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "h9UfK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "빅데이터에 대한 데이터 엔지니어링, 전처리, 모델링의 실시간성을 염두해서 파이썬 중, 고급스킬 중 퍼포먼스를 향상시키는 스킬들 혹은 고민들이 어떤 것들이 있는지 궁금합니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U060LG0BT89",
+        "type": "message",
+        "ts": "1697600109.554019",
+        "edited": {
+            "user": "U060LG0BT89",
+            "ts": "1697600145.000000"
+        },
+        "client_msg_id": "bf106590-c646-4254-acdf-50ca1e6ab5c8",
+        "text": "다른 분이 공유해주신건데 직접 해보니까 확실이 다르네요\n<https:\/\/brownbears.tistory.com\/482>",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "g273c76b80b5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/273c76b80b5c013cab6c608d10041dd4.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "김준호",
+            "real_name": "김준호",
+            "display_name": "",
+            "team": "T05UGFFGL07",
+            "name": "demyank88",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697597756.358719",
+        "parent_user_id": "U060LG0BT89",
+        "attachments": [
+            {
+                "image_url": "https:\/\/img1.daumcdn.net\/thumb\/R800x0\/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+                "image_width": 800,
+                "image_height": 800,
+                "image_bytes": 7474,
+                "from_url": "https:\/\/brownbears.tistory.com\/482",
+                "service_icon": "https:\/\/t1.daumcdn.net\/tistory_admin\/top_v2\/tistory-apple-touch-favicon.png",
+                "ts": 1582357794,
+                "id": 1,
+                "original_url": "https:\/\/brownbears.tistory.com\/482",
+                "fallback": "불곰: [Python] List, Dictionary insert 성능 비교",
+                "text": "알고리즘 문제를 풀다가 임시 컨테이너 타입에 값을 넣고 정렬을 한 다음, 다시 추출을 해야되는 요구사항이 있었습니다. 이 때, 선택할 수 있는 컨테이너 타입이 리스트와 딕셔너리가 있었는데 이 둘 중, 어느 것을 사용하는게 더 빠른지 궁금증이 생겨 성능 비교를 한 결과를 공유합니다.insert 성능 비교다음 테스트 시나리오는 10000번 반복문을 실행하면서 리스트와 딕셔너리 각각에 값을 대입하는 것입니다. 리스트는 append()를 진행하고 딕셔너리는 key와 value를 동일한 값으로 대입합니다.테스트를 진행할 때, 진행하는 현재 컴퓨터 상태에 따라 속도가 차이날 수 있으므로 테스트를 10000번씩 10번 반복하여 진행했습니다.import timeit def list_append(): target = [..",
+                "title": "[Python] List, Dictionary insert 성능 비교",
+                "title_link": "https:\/\/brownbears.tistory.com\/482",
+                "service_name": "불곰"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aATDA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "다른 분이 공유해주신건데 직접 해보니까 확실이 다르네요\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/brownbears.tistory.com\/482"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0600GGHJTC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05V9N22ZUK",
+        "type": "message",
+        "ts": "1697606930.140019",
+        "client_msg_id": "841eb001-9204-4ba0-be9f-37cc0417077d",
+        "text": "<https:\/\/python.plainenglish.io\/pythonic-code-examples-11770969092d>",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "0698995c863f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5998310079844_0698995c863fed7643f0_72.png",
+            "first_name": "TaeHan",
+            "real_name": "TaeHan Kim",
+            "display_name": "김태한",
+            "team": "T05UGFFGL07",
+            "name": "kthnineone",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/python.plainenglish.io\/pythonic-code-examples-11770969092d",
+                "ts": 1661765469,
+                "image_url": "https:\/\/miro.medium.com\/v2\/resize:fit:1200\/1*caTlEJc6bbFvbbs6MPvShg.jpeg",
+                "image_width": 1200,
+                "image_height": 675,
+                "image_bytes": 55456,
+                "service_icon": "https:\/\/miro.medium.com\/v2\/resize:fill:152:152\/1*sHhtYhaCe2Uc3IU0IgKwIQ.png",
+                "id": 1,
+                "original_url": "https:\/\/python.plainenglish.io\/pythonic-code-examples-11770969092d",
+                "fallback": "Medium: Pythonic Code Examples",
+                "text": "As a result of the simplicity of the Python programming language, which enables us to write code in the manner of human thought, it is…",
+                "title": "Pythonic Code Examples",
+                "title_link": "https:\/\/python.plainenglish.io\/pythonic-code-examples-11770969092d",
+                "service_name": "Medium",
+                "fields": [
+                    {
+                        "value": "3 min read",
+                        "title": "Reading time",
+                        "short": true
+                    }
+                ]
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6AuMO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/python.plainenglish.io\/pythonic-code-examples-11770969092d"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U05V7H78DUM",
+                    "U05V379NETU",
+                    "U05UT0JG4BZ"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

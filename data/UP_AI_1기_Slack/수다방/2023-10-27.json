@@ -1,0 +1,62 @@
+[
+    {
+        "user": "U05VBQMH3D3",
+        "type": "message",
+        "ts": "1698407695.112359",
+        "edited": {
+            "user": "U05VBQMH3D3",
+            "ts": "1698407736.000000"
+        },
+        "client_msg_id": "508d3c70-b584-44d2-918e-09c2d231a420",
+        "text": "피어세션이 또 예정되어 있긴 하지만, 수강생 간에 대화가 너무 없어 좀 더 편하게 교류할 수 있으면 좋지 않을까해서 단톡방을 한번 만들어봤습니다\n<https:\/\/open.kakao.com\/o\/gLQsr0Of>   비번은 12345678입니다. \"패캠 AI부트캠프\" 검색해서 들어오실 수도 있을거에요\n슬랙에서도 단톡방 통해서도 쭉 인연이 이어지면 좋겠네요^^",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "16da4e28d6c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/6003210685524_16da4e28d6c4ea33bae5_72.png",
+            "first_name": "HB",
+            "real_name": "HB",
+            "display_name": "엄효범",
+            "team": "T05UGFFGL07",
+            "name": "swema86",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0y1G9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "피어세션이 또 예정되어 있긴 하지만, 수강생 간에 대화가 너무 없어 좀 더 편하게 교류할 수 있으면 좋지 않을까해서 단톡방을 한번 만들어봤습니다\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/open.kakao.com\/o\/gLQsr0Of"
+                            },
+                            {
+                                "type": "text",
+                                "text": "   비번은 12345678입니다. \"패캠 AI부트캠프\" 검색해서 들어오실 수도 있을거에요\n슬랙에서도 단톡방 통해서도 쭉 인연이 이어지면 좋겠네요^^"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U0600GGHJTC",
+                    "U060BLVQYHW"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

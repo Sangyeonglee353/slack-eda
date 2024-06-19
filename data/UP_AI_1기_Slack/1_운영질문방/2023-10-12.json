@@ -1,0 +1,112 @@
+[
+    {
+        "user": "U05UW1S4KQE",
+        "type": "message",
+        "ts": "1697177453.897869",
+        "client_msg_id": "93afce97-a552-4ea0-83f1-4e7fcc607978",
+        "text": "<@U06061L4S64> 혹시 강의장 접속이 안되는데 줌 강의장 입장 확인좀 부탁드려도될까요.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "8e2a5064517a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5982083144710_8e2a5064517a40846596_72.jpg",
+            "first_name": "이재민",
+            "real_name": "이재민",
+            "display_name": "이재민",
+            "team": "T05UGFFGL07",
+            "name": "jaeminstar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697177453.897869",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1697179139.650849",
+        "reply_users": [
+            "U06061L4S64"
+        ],
+        "replies": [
+            {
+                "user": "U06061L4S64",
+                "ts": "1697179139.650849"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BT9V6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06061L4S64"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 혹시 강의장 접속이 안되는데 줌 강의장 입장 확인좀 부탁드려도될까요."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06061L4S64",
+        "type": "message",
+        "ts": "1697179139.650849",
+        "client_msg_id": "5610f658-3310-4a86-ba53-0ffd23d5a394",
+        "text": "<@U05UW1S4KQE> 재민님 6시 50분쯤 줌 강의장 활성화 예정입니다. 강의들으시고 퇴실체크 하실때 들어오시면 됩니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "9958a6e7ea98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5988755251283_9958a6e7ea98545615ca_72.png",
+            "first_name": "LM",
+            "real_name": "LM 박진영",
+            "display_name": "LM 박진영",
+            "team": "T05UGFFGL07",
+            "name": "pjy.fc.career",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697177453.897869",
+        "parent_user_id": "U05UW1S4KQE",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WDhQI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05UW1S4KQE"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 재민님 6시 50분쯤 줌 강의장 활성화 예정입니다. 강의들으시고 퇴실체크 하실때 들어오시면 됩니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "ne",
+                "users": [
+                    "U05UW1S4KQE"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

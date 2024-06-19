@@ -1,0 +1,439 @@
+[
+    {
+        "text": "<@U06FFSA059B>  멘토님 안녕하세요 ! 질문이 있습니다.\nAlexnet에 대해서 학습하는 도중에 output size를 직접 계산을 해봤는데요.\n(224-11+4)\/4+1 = 55.25가 나와서 의문을 가져서 검색해보니 논문에서는 네트워크 입력이 224×224 라고 언급했지만 이는 실수이며 대신 227×227를 사용하는 것이 합리적이라는 말이 있어 해당값으로 계산했더니 (227-11+4)\/4 + 1 = 56이 나오게 됩니다.\n어떻게 이해하면 좋을지 궁금합니다.",
+        "files": [
+            {
+                "id": "F06HWV223FA",
+                "created": 1707144735,
+                "timestamp": 1707144735,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U05UW1S4KQE",
+                "user_team": "T05UGFFGL07",
+                "editable": false,
+                "size": 249583,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F06HWV223FA\/image.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F06HWV223FA\/download\/image.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06HWV223FA-b3b0b9868a\/image_64.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06HWV223FA-b3b0b9868a\/image_80.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06HWV223FA-b3b0b9868a\/image_360.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_360_w": 360,
+                "thumb_360_h": 193,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06HWV223FA-b3b0b9868a\/image_480.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_480_w": 480,
+                "thumb_480_h": 257,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06HWV223FA-b3b0b9868a\/image_160.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06HWV223FA-b3b0b9868a\/image_720.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_720_w": 720,
+                "thumb_720_h": 386,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06HWV223FA-b3b0b9868a\/image_800.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_800_w": 800,
+                "thumb_800_h": 429,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06HWV223FA-b3b0b9868a\/image_960.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_960_w": 960,
+                "thumb_960_h": 514,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06HWV223FA-b3b0b9868a\/image_1024.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 549,
+                "original_w": 1051,
+                "original_h": 563,
+                "thumb_tiny": "AwAZADCf7FbgDKHp6mj7Dbf3W\/Wpz0HzY4pO\/wB6mBF\/Z1uR0b86P7Nt\/wDa\/OrEffnNPouBT\/s23\/2vzo\/s23\/2vzq2aOaVwGE8DjtTc89KR+30pKYEqHOeKUDn\/wCvTYehqSkAmBSgAdKKKAP\/2Q==",
+                "permalink": "https:\/\/fcupstageai1.slack.com\/files\/U05UW1S4KQE\/F06HWV223FA\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T05UGFFGL07-F06HWV223FA-3855aff9cf",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U05UW1S4KQE",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bSyt1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06FFSA059B"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  멘토님 안녕하세요 ! 질문이 있습니다.\nAlexnet에 대해서 학습하는 도중에 output size를 직접 계산을 해봤는데요.\n(224-11+4)\/4+1 = 55.25가 나와서 의문을 가져서 검색해보니 논문에서는 네트워크 입력이 224×224 라고 언급했지만 이는 실수이며 대신 227×227를 사용하는 것이 합리적이라는 말이 있어 해당값으로 계산했더니 (227-11+4)\/4 + 1 = 56이 나오게 됩니다.\n어떻게 이해하면 좋을지 궁금합니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1707145113.387789",
+        "client_msg_id": "a21de9a2-9466-418b-83ba-46d25b05c044",
+        "thread_ts": "1707145113.387789",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1707145991.135679",
+        "reply_users": [
+            "U06GKACAT3N"
+        ],
+        "replies": [
+            {
+                "user": "U06GKACAT3N",
+                "ts": "1707145991.135679"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U05VADPQPCL"
+                ],
+                "count": 1
+            },
+            {
+                "name": "eyes",
+                "users": [
+                    "U05V7H78DUM"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06GKACAT3N",
+        "type": "message",
+        "ts": "1707145991.135679",
+        "client_msg_id": "9b7996ad-bf10-4f01-962c-6e69786c5af2",
+        "text": "AlexNet 논문에는 224로 표기되어 있고,  마지막 패딩 한 칸을 무시하는 방식으로 계산되어 55를 맞추는 형식입니다. 이후 Pytorch와 다른 네트워크들이 발전하면서 이 문제를 지적했고, Pytorch 공식 문서에는 말씀하신 것과 같이 227로 수정되어 있습니다. 저자도 이 문제를 인정했으므로, AlexNet을 사용하는 경우 227를 input으로 하여 말씀하신 것과 같이 계산하시면 됩니다. (227-&gt;56)",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "f5e905d93390",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-31\/6560895332834_f5e905d9339027ee6dd0_72.png",
+            "first_name": "Hoin",
+            "real_name": "Hoin Jung",
+            "display_name": "정호인 멘토",
+            "team": "T05UGFFGL07",
+            "name": "hoin1115",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1707145113.387789",
+        "parent_user_id": "U05UW1S4KQE",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cdBdD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "AlexNet 논문에는 224로 표기되어 있고,  마지막 패딩 한 칸을 무시하는 방식으로 계산되어 55를 맞추는 형식입니다. 이후 Pytorch와 다른 네트워크들이 발전하면서 이 문제를 지적했고, Pytorch 공식 문서에는 말씀하신 것과 같이 227로 수정되어 있습니다. 저자도 이 문제를 인정했으므로, AlexNet을 사용하는 경우 227를 input으로 하여 말씀하신 것과 같이 계산하시면 됩니다. (227->56)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U05UW1S4KQE",
+                    "U05V7H78DUM",
+                    "U060C67EYQ5"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "user": "U05V9N22ZUK",
+        "type": "message",
+        "ts": "1707188657.449719",
+        "edited": {
+            "user": "U05V9N22ZUK",
+            "ts": "1707189044.000000"
+        },
+        "client_msg_id": "f95a7df3-fcd2-4d01-b289-22630a44da0b",
+        "text": "<@U06GKACAT3N> 안녕하세요  3가지 질문이 있어서 질문드립니다.\n\n1.딥러닝 과정에서 early stopping 질문입니다. 업스테이지 강의 코드와 keras의 early stopping 코드를 보니 3회 이상 loss가 더 작은 값으로 갱신되지 않으면 멈추더군요. 이 방법 외에 tolerance를 설정해서 | old_loss – new_loss | 값이 tolerance를 넘어가지 않으면 count에 +1을 해서 일정 기간 이상 갱신되지 않으면 학습을 멈추는 방법이 있는 것으로 알고 있습니다. 이때 tolerance를 어떻게 결정하는지에 대해서 알려주시면 감사하겠습니다. 논문이나 다른 코드나 여러가지로 알려주셔도 괜찮습니다.\n\n2. Loss per batch랑 loss per epoch차이가 무엇인지 궁금합니다. 가령 mini batch의 수가 500개일 때 50번에 한번씩 찍어본다던가 하는식으로 사용하는듯합니다. Mini batch별로 loss를 찍으면 특정 데이터에 대한 성능도 알 수 있어서 이상하게 학습이 안되거나 하는 경우를 확인할 수 있다고 생각하는데 이런 이유 때문에 확인하는게 맞나요?\n\n3. 이미지 Augmentation에 대한 개수 제한이 있나요? 1000개의 이미지가 있다고 가정했을 때, 하나의 이미지 마다 10개의 서로 다른 augmentations를 사용하면 1만 1천개가 되는데 이렇게 10배의 개수를 추가해도 상관없나요? HorizontalFlip, VerticalFlip, RGB Channel Exchange, Rotation 등등 최대한 서로 이질적인 augmentation 적용한다고 가정할 때 입니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "0698995c863f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5998310079844_0698995c863fed7643f0_72.png",
+            "first_name": "TaeHan",
+            "real_name": "TaeHan Kim",
+            "display_name": "김태한",
+            "team": "T05UGFFGL07",
+            "name": "kthnineone",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1707188657.449719",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1707199429.062739",
+        "reply_users": [
+            "U05VBQMH3D3",
+            "U06GKACAT3N",
+            "U05V9N22ZUK"
+        ],
+        "replies": [
+            {
+                "user": "U05VBQMH3D3",
+                "ts": "1707192948.535549"
+            },
+            {
+                "user": "U06GKACAT3N",
+                "ts": "1707194998.937789"
+            },
+            {
+                "user": "U05V9N22ZUK",
+                "ts": "1707199429.062739"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GbbSI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06GKACAT3N"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 안녕하세요  3가지 질문이 있어서 질문드립니다.\n\n1.딥러닝 과정에서 early stopping 질문입니다. 업스테이지 강의 코드와 keras의 early stopping 코드를 보니 3회 이상 loss가 더 작은 값으로 갱신되지 않으면 멈추더군요. 이 방법 외에 tolerance를 설정해서 | old_loss – new_loss | 값이 tolerance를 넘어가지 않으면 count에 +1을 해서 일정 기간 이상 갱신되지 않으면 학습을 멈추는 방법이 있는 것으로 알고 있습니다. 이때 tolerance를 어떻게 결정하는지에 대해서 알려주시면 감사하겠습니다. 논문이나 다른 코드나 여러가지로 알려주셔도 괜찮습니다.\n\n2. Loss per batch랑 loss per epoch차이가 무엇인지 궁금합니다. 가령 mini batch의 수가 500개일 때 50번에 한번씩 찍어본다던가 하는식으로 사용하는듯합니다. Mini batch별로 loss를 찍으면 특정 데이터에 대한 성능도 알 수 있어서 이상하게 학습이 안되거나 하는 경우를 확인할 수 있다고 생각하는데 이런 이유 때문에 확인하는게 맞나요?\n\n3. 이미지 Augmentation에 대한 개수 제한이 있나요? 1000개의 이미지가 있다고 가정했을 때, 하나의 이미지 마다 10개의 서로 다른 augmentations를 사용하면 1만 1천개가 되는데 이렇게 10배의 개수를 추가해도 상관없나요? HorizontalFlip, VerticalFlip, RGB Channel Exchange, Rotation 등등 최대한 서로 이질적인 augmentation 적용한다고 가정할 때 입니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U05VADPQPCL"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05VBQMH3D3",
+        "type": "message",
+        "ts": "1707192948.535549",
+        "client_msg_id": "1593741d-5034-4f27-a721-51b48ae37ac1",
+        "text": "별로 도움은 안될거 같지만 그냥 한번 써보면...\n1. early stopping은 잘 안쓰이는 느낌입니다. 넉넉하게 잡고 돌리는데 실시간은 아니더라도 적당히 보고 끊거나 부족하면 추가로 더 돌리고. tolerance등을 결정하는건 데이터마다 달라서 기준은 없다고 생각합니다. 일단 해보고 경험에서 판단해야... 요즘 논문 찾아보는데 같은 부류의 데이터라도 개개의 특성이 너무 달라서 논문참고해도 효과있는건 별로 없더군요. \n2. batch로는 잘 안할거같고 (저같은 경우 1024x1024이미지학습하는데 40기가GPU에서 1배치로도 터쳐서 고생했습니다) epoch내에서 metric많이 체크하는데 일부 고수 분들은 그렇게 학습진행상황 체크하는데 하는 분 많진 않은거 같습니다. 그리고 체크하려면 셔플을 안해야되니 장단이 있는거 같습니다\n3. Augmentation은 위에서 아래로 순서대로 쭉 이어서 적용됩니다. 원본이 수정되는거라 원본은 사라집니다. 보통 0.1~0.3정도로 10개정도쓰는데 그럼 몇개는 적용되고 몇개는 적용안되고 이렇게 되는거죠. 특정한 Augmentation를 강조하려면 따로 설정해줘야하는데 단순한 확률조정을 넘어서 이렇게 하는 분은 잘 없는거 같습니다.\n더 자세한건 멘토님이...",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "16da4e28d6c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/6003210685524_16da4e28d6c4ea33bae5_72.png",
+            "first_name": "HB",
+            "real_name": "HB",
+            "display_name": "엄효범",
+            "team": "T05UGFFGL07",
+            "name": "swema86",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1707188657.449719",
+        "parent_user_id": "U05V9N22ZUK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "S+Izd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "별로 도움은 안될거 같지만 그냥 한번 써보면...\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "early stopping은 잘 안쓰이는 느낌입니다. 넉넉하게 잡고 돌리는데 실시간은 아니더라도 적당히 보고 끊거나 부족하면 추가로 더 돌리고. tolerance등을 결정하는건 데이터마다 달라서 기준은 없다고 생각합니다. 일단 해보고 경험에서 판단해야... 요즘 논문 찾아보는데 같은 부류의 데이터라도 개개의 특성이 너무 달라서 논문참고해도 효과있는건 별로 없더군요. "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "batch로는 잘 안할거같고 (저같은 경우 1024x1024이미지학습하는데 40기가GPU에서 1배치로도 터쳐서 고생했습니다) epoch내에서 metric많이 체크하는데 일부 고수 분들은 그렇게 학습진행상황 체크하는데 하는 분 많진 않은거 같습니다. 그리고 체크하려면 셔플을 안해야되니 장단이 있는거 같습니다"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Augmentation은 위에서 아래로 순서대로 쭉 이어서 적용됩니다. 원본이 수정되는거라 원본은 사라집니다. 보통 0.1~0.3정도로 10개정도쓰는데 그럼 몇개는 적용되고 몇개는 적용안되고 이렇게 되는거죠. 특정한 Augmentation를 강조하려면 따로 설정해줘야하는데 단순한 확률조정을 넘어서 이렇게 하는 분은 잘 없는거 같습니다."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n더 자세한건 멘토님이..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06GKACAT3N",
+        "type": "message",
+        "ts": "1707194998.937789",
+        "client_msg_id": "ee457c96-8ad1-4938-825b-b00545a00637",
+        "text": "1. Early Stopping은 모델 튜닝을 위한 방법 중 하나입니다. Best loss 갱신 후 몇 epoch를 진행할 지는 딱히 정해진 건 없고 task이나 모델 마다 다르지만 3회는 너무 적고, 일반적인 classification에서는 10회에서 30회정도로 사용합니다. 이와 별개로, validation step에서 best loss를 달성했을 때 모델을 저장하는 것은 overfitting을 방지하기 위한 일반적인 방법입니다. 이에 더해서 굳이 early stopping을 사용하는 이유는, ‘epoch를 얼마로 설정해야 할지 모를 때’ 입니다. learning rate나 모델에 따라 training epoch를 다양하게 설정하는데, 이 숫자를 정확히 모르는 경우 아무 큰 숫자나 epoch로 설정해도 early stopping에 의해 학습이 일찍 종료되는 것입니다. 결론적으로, early stopping은 hyperparameter 중 epoch를 어떻게 설정할 것인가에 대한 고민을 줄여주는 역할을 합니다. \n2. loss per batch는 해당 batch 안에 있는 데이터의 loss만 고려하고, loss per epoch는 모든 데이터의 loss를 고려한다고 볼 수 있겠습니다. 말씀하신 것과 같은 맥락으로, loss per epoch은 일정하게 줄어드는데 loss per batch가 들쑥날쑥 한 경우 (특히 batch size가 작은 경우), 일부 데이터에 대해서 학습이 잘 안되고 있다고 평가할 수 있습니다. 간단하게 예를들어, 전체 데이터 갯수가 5개이고 batch size를 1로 했을 때 epoch loss는 0.3이지만 batch loss는 [0.1, 0.1, 0.2, 0.9, 0.2] 로 계산되는 경우, 모델이 네번째 데이터만 학습을 전혀 못하고 있다고 볼 수 있습니다. 결론적으로, 말씀하신 내용이 맞습니다! \n3. Augmentation은 크게 두 가지로 나눌 수 있습니다.  Offline augmentation은 augmentation 된 데이터셋을 데이터 풀에 추가하는 방식으로, 말씀하신 예시와 같이 augmentation 갯수 만큼 배수로 데이터가 증가합니다. Online augmentation의 경우  ‘모든 데이터에 적용’ (ex, resizing) 또는 ‘확률적으로 적용(horizontalflip)’ 등이 있는데, 이는 데이터 수를 늘리지는 않습니다. 하지만 online augmentation의 경우에도 augmentation의 종류가 너무 많아지면 학습이 잘 되지 않는 경우도 있습니다. (loss가 줄어들지 않는 경우). 결국 특별한 경우가 아니면 online augmentation을 사용하고, imagenet에 주로 사용되는 관습적인 몇 가지 기법만 사용하는 것이 일반적입니다. (Resize, RandomCrop, RandomHorizontalFlip, ColorJitter, Normalize). 이는 학습 대상이 일상적인 사진일 때 많이 사용되고, 그 외의 기법들은 각자 목표로하는  데이터의 특성에 따라 유연하게 사용하시면 됩니다. 예를들어 ‘차량 도장면의 결함 분류’를 목표로 하여 결함부분의 확대된 이미지를 학습하고 싶다면, RGB channel exchange나 vertical flip, rotation, 또는 affine transformation 등의 기법등이 추가적으로 사용된다면 더 좋은 성능을 기대할 수 있습니다. augmentation 기법을 많이 사용하는 경우 최적 학습에 필요한 epoch가 길어질 수 있으므로, 아주 큰 수의 total epoch를 설정하고 early stopping기법을 활용할 수도 있겠습니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "f5e905d93390",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-31\/6560895332834_f5e905d9339027ee6dd0_72.png",
+            "first_name": "Hoin",
+            "real_name": "Hoin Jung",
+            "display_name": "정호인 멘토",
+            "team": "T05UGFFGL07",
+            "name": "hoin1115",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1707188657.449719",
+        "parent_user_id": "U05V9N22ZUK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "whh7Q",
+                "elements": [
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Early Stopping은 모델 튜닝을 위한 방법 중 하나입니다. Best loss 갱신 후 몇 epoch를 진행할 지는 딱히 정해진 건 없고 task이나 모델 마다 다르지만 3회는 너무 적고, 일반적인 classification에서는 10회에서 30회정도로 사용합니다. 이와 별개로, validation step에서 best loss를 달성했을 때 모델을 저장하는 것은 overfitting을 방지하기 위한 일반적인 방법입니다. 이에 더해서 굳이 early stopping을 사용하는 이유는, ‘epoch를 얼마로 설정해야 할지 모를 때’ 입니다. learning rate나 모델에 따라 training epoch를 다양하게 설정하는데, 이 숫자를 정확히 모르는 경우 아무 큰 숫자나 epoch로 설정해도 early stopping에 의해 학습이 일찍 종료되는 것입니다. 결론적으로, early stopping은 hyperparameter 중 epoch를 어떻게 설정할 것인가에 대한 고민을 줄여주는 역할을 합니다. "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "loss per batch는 해당 batch 안에 있는 데이터의 loss만 고려하고, loss per epoch는 모든 데이터의 loss를 고려한다고 볼 수 있겠습니다. 말씀하신 것과 같은 맥락으로, loss per epoch은 일정하게 줄어드는데 loss per batch가 들쑥날쑥 한 경우 (특히 batch size가 작은 경우), 일부 데이터에 대해서 학습이 잘 안되고 있다고 평가할 수 있습니다. 간단하게 예를들어, 전체 데이터 갯수가 5개이고 batch size를 1로 했을 때 epoch loss는 0.3이지만 batch loss는 [0.1, 0.1, 0.2, 0.9, 0.2] 로 계산되는 경우, 모델이 네번째 데이터만 학습을 전혀 못하고 있다고 볼 수 있습니다. 결론적으로, 말씀하신 내용이 맞습니다! "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Augmentation은 크게 두 가지로 나눌 수 있습니다.  Offline augmentation은 augmentation 된 데이터셋을 데이터 풀에 추가하는 방식으로, 말씀하신 예시와 같이 augmentation 갯수 만큼 배수로 데이터가 증가합니다. Online augmentation의 경우  ‘모든 데이터에 적용’ (ex, resizing) 또는 ‘확률적으로 적용(horizontalflip)’ 등이 있는데, 이는 데이터 수를 늘리지는 않습니다. 하지만 online augmentation의 경우에도 augmentation의 종류가 너무 많아지면 학습이 잘 되지 않는 경우도 있습니다. (loss가 줄어들지 않는 경우). 결국 특별한 경우가 아니면 online augmentation을 사용하고, imagenet에 주로 사용되는 관습적인 몇 가지 기법만 사용하는 것이 일반적입니다. (Resize, RandomCrop, RandomHorizontalFlip, ColorJitter, Normalize). 이는 학습 대상이 일상적인 사진일 때 많이 사용되고, 그 외의 기법들은 각자 목표로하는  데이터의 특성에 따라 유연하게 사용하시면 됩니다. 예를들어 ‘차량 도장면의 결함 분류’를 목표로 하여 결함부분의 확대된 이미지를 학습하고 싶다면, RGB channel exchange나 vertical flip, rotation, 또는 affine transformation 등의 기법등이 추가적으로 사용된다면 더 좋은 성능을 기대할 수 있습니다. augmentation 기법을 많이 사용하는 경우 최적 학습에 필요한 epoch가 길어질 수 있으므로, 아주 큰 수의 total epoch를 설정하고 early stopping기법을 활용할 수도 있겠습니다."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05V9N22ZUK",
+        "type": "message",
+        "ts": "1707199429.062739",
+        "client_msg_id": "95a0585f-dda5-4753-89ca-26312e9e4d2d",
+        "text": "답변 감사합니다. 말씀하신대로 Early Stopping과 Augmentation을 활용해봐야겠네요.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "0698995c863f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5998310079844_0698995c863fed7643f0_72.png",
+            "first_name": "TaeHan",
+            "real_name": "TaeHan Kim",
+            "display_name": "김태한",
+            "team": "T05UGFFGL07",
+            "name": "kthnineone",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1707188657.449719",
+        "parent_user_id": "U05V9N22ZUK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iqfqM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "답변 감사합니다. 말씀하신대로 Early Stopping과 Augmentation을 활용해봐야겠네요."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

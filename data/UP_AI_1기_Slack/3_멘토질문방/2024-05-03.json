@@ -1,0 +1,204 @@
+[
+    {
+        "user": "U06EP4SNZ52",
+        "type": "message",
+        "ts": "1714744640.748189",
+        "client_msg_id": "83c6e175-e1fd-4fdd-98be-04d7d38bd80e",
+        "text": "안녕하세요 수강생 여러분! 추천시스템 멘토 정재원입니다. 추천시스템에 관심이 있는 분들을 위해, 공부할 때 참고하면 좋을 자료들을 공유드리고 싶습니다. 날이 따뜻해지는 요즘, 조금만 더 힘내시고 원하시는 결실을 이루셨으면 좋겠습니다.\n\n1. <https:\/\/www.youtube.com\/watch?v=RK3-aNWveMs|추천시스템, 이제는 돈이 되어야한다 (pycon 2019)> \n처음 추천시스템을 공부하기 시작했을 때 알게된 영상입니다. 추천시스템의 궁극적인 목적이 어떤 것인지에 대해 많은 인사이트를 얻을 수 있었습니다. 그 이후 추천시스템을 깊게 공부하고, 개발하면서 꾸준히 다시 찾게 되는 영상입니다. 현실세계의 문제를 어떻게 머신러닝 기술로 풀어낼 수 있는지 쉽고 자세하게 설명되어있습니다.\n\n2. <https:\/\/github.com\/kakao\/recoteam\/tree\/master\/paper_review|카카오 추천팀 깃허브>\n카카오 추천팀에서 추천 관련 학회의 논문들을 읽고 정리하는 저장소입니다. 관련 동향을 살펴보실때 좋은 참고 자료가 될 것입니다.\n\n3. <https:\/\/static.googleusercontent.com\/media\/research.google.com\/ko\/\/pubs\/archive\/45530.pdf|Deep Neural Networks for YouTube Recommendations>\n이제는 하나의 고유명사가 된 \"유튜브 알고리즘\"의 논문입니다. 다양한 비정형데이터를 다루기 위해 어떤 모델 구조를 취하고 있는지, 그리고 어떤 지표를 기준으로 상품의 순위를 만드는지를 중점적으로 보면 좋습니다. 이와 관련하여 잘 설명된 국내 블로그도 함께 소개드립니다.\n<https:\/\/yamalab.tistory.com\/123|youtube recommender 리뷰 (1)>\n<https:\/\/yamalab.tistory.com\/124|youtube recommender 리뷰 (2)>\n<https:\/\/yamalab.tistory.com\/126|youtube recommender 리뷰 (3)>\n\n추천시스템의 가장 큰 매력은 유저의 행동 로그를 기반으로 돈이 되는 프로덕트를 만들 수 있다는 것입니다. 위의 자료들을 통해, 추천시스템에 더 많은 관심을 가지는 계기가 되셨으면 합니다:relaxed:",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "2ce448750e88",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-18\/6482160274999_2ce448750e880b6d595d_72.png",
+            "first_name": "정재원",
+            "real_name": "정재원 멘토",
+            "display_name": "",
+            "team": "T05UGFFGL07",
+            "name": "jaewon1217",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.youtube.com\/watch?v=RK3-aNWveMs",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/RK3-aNWveMs\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/RK3-aNWveMs?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"추천시스템, 이제는 돈이 되어야 한다. - 최규민 - PyCon.KR 2019\"><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=RK3-aNWveMs",
+                "fallback": "YouTube Video: 추천시스템, 이제는 돈이 되어야 한다. - 최규민 - PyCon.KR 2019",
+                "title": "추천시스템, 이제는 돈이 되어야 한다. - 최규민 - PyCon.KR 2019",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=RK3-aNWveMs",
+                "author_name": "PyCon Korea",
+                "author_link": "https:\/\/www.youtube.com\/@PyConKRtube",
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/"
+            },
+            {
+                "image_url": "https:\/\/img1.daumcdn.net\/thumb\/R800x0\/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FrmQyq%2FbtqBGfNyo7M%2FXF4U7YHuqpseENalSgNz7k%2Fimg.png",
+                "image_width": 800,
+                "image_height": 555,
+                "image_bytes": 85674,
+                "from_url": "https:\/\/yamalab.tistory.com\/123",
+                "service_icon": "https:\/\/yamalab.tistory.com\/favicon.ico",
+                "ts": 1580461899,
+                "id": 2,
+                "original_url": "https:\/\/yamalab.tistory.com\/123",
+                "fallback": "Y.LAB: YouTube Recommendation system 트릴로지 리뷰 - [1]",
+                "text": "본 포스팅은 2010, 2016, 2019에 발표한 유튜브의 추천시스템 자료를 리뷰한 것이다. 3부작이 끝이 아님에도 트릴로지라는 이름을 붙인 것은, 필자에게는 이 자료들이 매트릭스 3부작이나 반지의제왕 3부작 만큼이나 재미있었기 때문(..) 오늘 리뷰할 자료는 으로, 2010년에 발표된 것이다. 유튜브 붐이 일어나던 초창기에 사용된 추천시스템을 살펴볼 수 있다. 하지만 그 철학과 기본 틀은 현재까지도 유효하며, 이제 막 추천시스템을 구축하려는 작은 서비스에서는 여전히 현대적인 추천시스템이라고 할 수 있다. 1. Intro 유튜브 추천시스템을 요약하면, 유저가 유튜브에서 행동한 데이터를 바탕으로 개인화된 비디오를 추천해준다는 것이라고 할 수 있다. 그리고 이 논문은 그 과정에서 직면한 문제점들과 이를 어..",
+                "title": "YouTube Recommendation system 트릴로지 리뷰 - [1]",
+                "title_link": "https:\/\/yamalab.tistory.com\/123",
+                "service_name": "Y.LAB"
+            },
+            {
+                "image_url": "https:\/\/img1.daumcdn.net\/thumb\/R800x0\/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fdhgq7J%2FbtqBJd35Ki0%2FsqNOzK7LN6kGaO8XuBjjx0%2Fimg.png",
+                "image_width": 800,
+                "image_height": 483,
+                "image_bytes": 111331,
+                "from_url": "https:\/\/yamalab.tistory.com\/124",
+                "ts": 1580813394,
+                "id": 3,
+                "original_url": "https:\/\/yamalab.tistory.com\/124",
+                "fallback": "Y.LAB: YouTube Recommendation system 트릴로지 리뷰 - [2]",
+                "text": "YouTube Recommendation system 트릴로지 리뷰 - [1] 이번에 리뷰할 자료는 으로, 2016년에 발표된 것이다. 이 자료는 당시에 나오자 마자 읽어봤던 자료인데(물론 우연이었다), 추천시스템에 막 관심을 가지기 시작했을 때 생애 처음(..)으로 제대로 읽어본 '논문' 비스무레한 것이다. 복잡한 수식도 나오지 않고 intuitive 하면서도 흥미로운 내용이라 지금 읽기에는 무척 재미난 논문이지만, 당시에는 딥러닝은 커녕 머신러닝의 'ㅁ' 자도 모르던 학부생 시절이었기 때문에 끝까지 읽는데 아주 애를 먹었던 기억이 있다. 게다가 2016년에는 추천시스템에 대한 자료 자체가 다소 귀한 편이었기 때문에(물론 지금도 넉넉치는 않다), 개념을 잡아주고 트렌드를 파악하기에 매우 도움이 됐었다...",
+                "title": "YouTube Recommendation system 트릴로지 리뷰 - [2]",
+                "title_link": "https:\/\/yamalab.tistory.com\/124",
+                "service_name": "Y.LAB"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7VvBo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "안녕하세요 수강생 여러분! 추천시스템 멘토 정재원입니다. 추천시스템에 관심이 있는 분들을 위해, 공부할 때 참고하면 좋을 자료들을 공유드리고 싶습니다. 날이 따뜻해지는 요즘, 조금만 더 힘내시고 원하시는 결실을 이루셨으면 좋겠습니다.\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/www.youtube.com\/watch?v=RK3-aNWveMs",
+                                        "text": "추천시스템, 이제는 돈이 되어야한다 (pycon 2019)"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "처음 추천시스템을 공부하기 시작했을 때 알게된 영상입니다. 추천시스템의 궁극적인 목적이 어떤 것인지에 대해 많은 인사이트를 얻을 수 있었습니다. 그 이후 추천시스템을 깊게 공부하고, 개발하면서 꾸준히 다시 찾게 되는 영상입니다. 현실세계의 문제를 어떻게 머신러닝 기술로 풀어낼 수 있는지 쉽고 자세하게 설명되어있습니다.\n\n2. "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/kakao\/recoteam\/tree\/master\/paper_review",
+                                "text": "카카오 추천팀 깃허브"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n카카오 추천팀에서 추천 관련 학회의 논문들을 읽고 정리하는 저장소입니다. 관련 동향을 살펴보실때 좋은 참고 자료가 될 것입니다.\n\n3. "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/static.googleusercontent.com\/media\/research.google.com\/ko\/\/pubs\/archive\/45530.pdf",
+                                "text": "Deep Neural Networks for YouTube Recommendations"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n이제는 하나의 고유명사가 된 \"유튜브 알고리즘\"의 논문입니다. 다양한 비정형데이터를 다루기 위해 어떤 모델 구조를 취하고 있는지, 그리고 어떤 지표를 기준으로 상품의 순위를 만드는지를 중점적으로 보면 좋습니다. 이와 관련하여 잘 설명된 국내 블로그도 함께 소개드립니다.\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/yamalab.tistory.com\/123",
+                                "text": "youtube recommender 리뷰 (1)"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/yamalab.tistory.com\/124",
+                                "text": "youtube recommender 리뷰 (2)"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/yamalab.tistory.com\/126",
+                                "text": "youtube recommender 리뷰 (3)"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n추천시스템의 가장 큰 매력은 유저의 행동 로그를 기반으로 돈이 되는 프로덕트를 만들 수 있다는 것입니다. 위의 자료들을 통해, 추천시스템에 더 많은 관심을 가지는 계기가 되셨으면 합니다"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "relaxed",
+                                "unicode": "263a-fe0f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U05V9N22ZUK",
+                    "U05V5B27DK7",
+                    "U05UWVA90H4",
+                    "U05VC7EEY5Q",
+                    "U0600GGHJTC",
+                    "U05VADPQPCL",
+                    "U05UN5DQ423"
+                ],
+                "count": 7
+            },
+            {
+                "name": "귀여운박수",
+                "users": [
+                    "U05V7H78DUM",
+                    "U05VADPQPCL"
+                ],
+                "count": 2
+            },
+            {
+                "name": "meow_noddies",
+                "users": [
+                    "U05V7H78DUM",
+                    "U05VADPQPCL"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

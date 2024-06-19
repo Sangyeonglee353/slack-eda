@@ -1,0 +1,123 @@
+[
+    {
+        "user": "U05UNC6FNK1",
+        "type": "message",
+        "ts": "1716428697.947669",
+        "client_msg_id": "5dba4797-f87a-48a7-a041-38c1c94ccd9d",
+        "text": "*<!channel>* 훈련장려금 신청완료 안내 :moneybag:\n• *단위기간 : 240310-240409*\n• *예상지급시기 : 차주 이전*\n• 7일이내 미체출된 증빙서류 출결 정정 건은 전부 결석처리되었습니다.\n• 또, 마지막단위기간의 비용은 - 일부수강생의 부정출결 적발로 - 해당내용 조치후 신청됨으로 확인해주시길 바랍니다. \n관련한 문의는 본 스레드 태깅 아닌 <#C05V0H8H3GC|4_행정문의방> 채널에서 저를 태깅하시어 문의해주세요",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "260d154ea1e2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5979526758263_260d154ea1e2177fd001_72.jpg",
+            "first_name": "FC",
+            "real_name": "FC 하시안 매니저",
+            "display_name": "FC 하시안 매니저",
+            "team": "T05UGFFGL07",
+            "name": "xianha",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RNmRU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " 훈련장려금 신청완료 안내 "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "moneybag",
+                                "unicode": "1f4b0"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "단위기간 : 240310-240409",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "예상지급시기 : 차주 이전",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "7일이내 미체출된 증빙서류 출결 정정 건은 전부 결석처리되었습니다."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "또, 마지막단위기간의 비용은 - 일부수강생의 부정출결 적발로 - 해당내용 조치후 신청됨으로 확인해주시길 바랍니다. "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "관련한 문의는 본 스레드 태깅 아닌 "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C05V0H8H3GC"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 채널에서 저를 태깅하시어 문의해주세요"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

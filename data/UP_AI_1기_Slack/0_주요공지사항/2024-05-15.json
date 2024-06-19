@@ -1,0 +1,683 @@
+[
+    {
+        "user": "U05V2T62KUJ",
+        "type": "message",
+        "ts": "1715827761.835729",
+        "client_msg_id": "97cfa334-e6cd-4cbf-918a-9f74b28f6aa9",
+        "text": "<@U05VADPQPCL> 매니저님 오늘 오후 3시쯤 노트북 반납하러 방문하겠니다!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "ae24066f5a1a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5989305080675_ae24066f5a1a2d78e521_72.jpg",
+            "first_name": "김영천",
+            "real_name": "김영천",
+            "display_name": "김영천",
+            "team": "T05UGFFGL07",
+            "name": "dudcjs2779",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1714636713.244219",
+        "parent_user_id": "U05VADPQPCL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hiSKR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05VADPQPCL"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 매니저님 오늘 오후 3시쯤 노트북 반납하러 방문하겠니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U05VADPQPCL"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05VB9FA6MS",
+        "type": "message",
+        "ts": "1715830756.049999",
+        "client_msg_id": "b9d0d619-32ad-4136-928a-a712e8791d65",
+        "text": "<@U05VADPQPCL>매니저님 오늘 오후 2시~3시 쯤 노트북 반납하겠습니다",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "883ecb5ae08f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/6018139584080_883ecb5ae08f959118dc_72.jpg",
+            "first_name": "SoHyeon",
+            "real_name": "SoHyeon Kim",
+            "display_name": "김소현",
+            "team": "T05UGFFGL07",
+            "name": "hyeonos248",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1714636713.244219",
+        "parent_user_id": "U05VADPQPCL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5O6iA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05VADPQPCL"
+                            },
+                            {
+                                "type": "text",
+                                "text": "매니저님 오늘 오후 2시~3시 쯤 노트북 반납하겠습니다"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05VADPQPCL",
+        "type": "message",
+        "ts": "1715834450.809579",
+        "client_msg_id": "49620c05-fe72-4476-a513-c2bcc7362d58",
+        "text": "<@U05VB9FA6MS> 해당 시간에 제가 사무실에 부재라 오셔서 다른 매니저님께 전달 부탁 드립니다!!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "07e7ca00b8f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5991092857253_07e7ca00b8f0d0b13ba1_72.png",
+            "first_name": "패스트캠퍼스박기준",
+            "real_name": "패스트캠퍼스박기준",
+            "display_name": "LM 박기준",
+            "team": "T05UGFFGL07",
+            "name": "pgj.fc.career",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1714636713.244219",
+        "parent_user_id": "U05VADPQPCL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nPUZ6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05VB9FA6MS"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 해당 시간에 제가 사무실에 부재라 오셔서 다른 매니저님께 전달 부탁 드립니다!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05VB9FA6MS",
+        "type": "message",
+        "ts": "1715834486.760029",
+        "client_msg_id": "b4d8c25d-e94e-4fa6-9334-efdf8655f9b9",
+        "text": "<@U05VADPQPCL> 네 확인했습니다!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "883ecb5ae08f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/6018139584080_883ecb5ae08f959118dc_72.jpg",
+            "first_name": "SoHyeon",
+            "real_name": "SoHyeon Kim",
+            "display_name": "김소현",
+            "team": "T05UGFFGL07",
+            "name": "hyeonos248",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1714636713.244219",
+        "parent_user_id": "U05VADPQPCL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pqrlA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05VADPQPCL"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 네 확인했습니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05VADPQPCL",
+        "type": "message",
+        "ts": "1715834565.119969",
+        "client_msg_id": "b50dfa0d-1c80-4a54-9762-71f7b2cf79f2",
+        "text": "<@U05UVV5CVQE> <@U05V7V2AV8A> <@U05VC7EEY5Q> <@U0600C60ZK4>\n네 분은 방문 일정이 어떻게 되시나요?!\n금일 중으로 미반납 시 추가 요금이 발생 할 수 있습니다. (계약서 내용)",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "07e7ca00b8f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5991092857253_07e7ca00b8f0d0b13ba1_72.png",
+            "first_name": "패스트캠퍼스박기준",
+            "real_name": "패스트캠퍼스박기준",
+            "display_name": "LM 박기준",
+            "team": "T05UGFFGL07",
+            "name": "pgj.fc.career",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1714636713.244219",
+        "parent_user_id": "U05VADPQPCL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Gcu8N",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05UVV5CVQE"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05V7V2AV8A"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05VC7EEY5Q"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0600C60ZK4"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n네 분은 방문 일정이 어떻게 되시나요?!\n금일 중으로 미반납 시 추가 요금이 발생 할 수 있습니다. (계약서 내용)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05VADPQPCL",
+        "type": "message",
+        "ts": "1715834601.015059",
+        "client_msg_id": "0b962096-1282-4d53-90bc-858b0243bfab",
+        "text": "<!channel>\n*Upstage AI Lab 1기 교육 이수 평가표 발송 안내*\n\n안녕하세요 Upstage AI Lab 1기 여러분!!\n\n저희가 헤어진지(?!) 벌써 1주일이 되어 가네요\n어제 비 오면서 기온이 많이 내려가고 요즘 일교차가 너무 커서 감기가 유행인데 다들 몸 건강 잘 챙기시길 바랍니다!!\n\n금일 여러분들의 Gmail 계정으로 Upstage AI Lab 1기 평가 결과표를 전송 드렸습니다!\n확인해보시고 문제가 있으시거나 궁금한 점 있으시면 언제든지 연락 주시길 바랍니다!!\n\n평가표와 함께 수료식 마지막에 찍은 단체 사진과 롤링 페이퍼도 전송해드렸으니 재밌게 봐주시길 바랍니다!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "07e7ca00b8f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5991092857253_07e7ca00b8f0d0b13ba1_72.png",
+            "first_name": "패스트캠퍼스박기준",
+            "real_name": "패스트캠퍼스박기준",
+            "display_name": "LM 박기준",
+            "team": "T05UGFFGL07",
+            "name": "pgj.fc.career",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sE7O2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Upstage AI Lab 1기 교육 이수 평가표 발송 안내",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n안녕하세요 Upstage AI Lab 1기 여러분!!\n\n저희가 헤어진지(?!) 벌써 1주일이 되어 가네요\n어제 비 오면서 기온이 많이 내려가고 요즘 일교차가 너무 커서 감기가 유행인데 다들 몸 건강 잘 챙기시길 바랍니다!!\n\n금일 여러분들의 Gmail 계정으로 Upstage AI Lab 1기 평가 결과표를 전송 드렸습니다!\n확인해보시고 문제가 있으시거나 궁금한 점 있으시면 언제든지 연락 주시길 바랍니다!!\n\n평가표와 함께 수료식 마지막에 찍은 단체 사진과 롤링 페이퍼도 전송해드렸으니 재밌게 봐주시길 바랍니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "thumbsup_all",
+                "users": [
+                    "U060BLVQYHW",
+                    "U05UWVA90H4",
+                    "U071V329LVD",
+                    "U05V2T62KUJ",
+                    "U060D1KJECR",
+                    "U05UN6NTN8P",
+                    "U05V561TXUL",
+                    "U05UW74NJ0N",
+                    "U05V2GDNNLT",
+                    "U060LG0BT89",
+                    "U05UNMQ4LP9",
+                    "U05V7H78DUM",
+                    "U060H4V0Q5S",
+                    "U05V5H1T24V",
+                    "U05V2HL22M9"
+                ],
+                "count": 15
+            }
+        ]
+    },
+    {
+        "user": "U05V7V2AV8A",
+        "type": "message",
+        "ts": "1715835709.155069",
+        "client_msg_id": "2d82cef9-ad41-42ca-852e-9d957f722b57",
+        "text": "4~5쯤 가려구요~",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "28368614e02a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5987346071766_28368614e02abbfb71bd_72.png",
+            "first_name": "andrew",
+            "real_name": "andrew jang",
+            "display_name": "장준규",
+            "team": "T05UGFFGL07",
+            "name": "goldenbeluga",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1714636713.244219",
+        "parent_user_id": "U05VADPQPCL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aRnPf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "4~5쯤 가려구요~"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U05VADPQPCL"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05VC7EEY5Q",
+        "type": "message",
+        "ts": "1715837954.839689",
+        "client_msg_id": "960A8E7D-913B-45E9-9B38-CB55135B4342",
+        "text": "3:30 ~ 4 사이에 가겠습니다!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "41b3eab94662",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-06\/6000541892291_41b3eab946625ecd1c69_72.jpg",
+            "first_name": "강승현",
+            "real_name": "강승현",
+            "display_name": "강승현",
+            "team": "T05UGFFGL07",
+            "name": "kangs7777",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1714636713.244219",
+        "parent_user_id": "U05VADPQPCL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yf0Lo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "3:30 ~ 4 "
+                            },
+                            {
+                                "type": "text",
+                                "text": "사이에"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "가겠습니다"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U05VADPQPCL"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05VC7EEY5Q",
+        "type": "message",
+        "ts": "1715841078.805079",
+        "client_msg_id": "1E8DAEEF-1483-40C3-9F4C-0C7C42098A67",
+        "text": "<@U05VADPQPCL> 매니저님 도착했습니다!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "41b3eab94662",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-06\/6000541892291_41b3eab946625ecd1c69_72.jpg",
+            "first_name": "강승현",
+            "real_name": "강승현",
+            "display_name": "강승현",
+            "team": "T05UGFFGL07",
+            "name": "kangs7777",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1714636713.244219",
+        "parent_user_id": "U05VADPQPCL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yLj\/B",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05VADPQPCL"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "매니저님"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "도착했습니다"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0600C60ZK4",
+        "type": "message",
+        "ts": "1715841379.116929",
+        "client_msg_id": "56E625D0-A998-4171-8503-8DFC681A7EFB",
+        "text": "내일 오전 12시 경 방문 예정입니다!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "87175e1bc0c1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/6000414092562_87175e1bc0c1a87a6752_72.jpg",
+            "first_name": "official",
+            "real_name": "official",
+            "display_name": "정다슬",
+            "team": "T05UGFFGL07",
+            "name": "anyone158911",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1714636713.244219",
+        "parent_user_id": "U05VADPQPCL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vSgVm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "내일"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "오전"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 12"
+                            },
+                            {
+                                "type": "text",
+                                "text": "시"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "경"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "방문"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "예정입니다"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U05VADPQPCL"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05UVV5CVQE",
+        "type": "message",
+        "ts": "1715842039.697339",
+        "client_msg_id": "61D304BA-0D2D-44FC-947B-CCFA87FBFAAD",
+        "text": "내일 10시 경 방문 예정입니다!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "30ac2d3237e9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5988633954770_30ac2d3237e9b742adc2_72.jpg",
+            "first_name": "장은혁",
+            "real_name": "장은혁",
+            "display_name": "장은혁",
+            "team": "T05UGFFGL07",
+            "name": "jaydenhyuk830",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1714636713.244219",
+        "parent_user_id": "U05VADPQPCL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mKeqj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "내일"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 10"
+                            },
+                            {
+                                "type": "text",
+                                "text": "시"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "경"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "방문"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "예정입니다"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U05VADPQPCL"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

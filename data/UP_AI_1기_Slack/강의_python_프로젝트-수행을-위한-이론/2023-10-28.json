@@ -1,0 +1,478 @@
+[
+    {
+        "text": "혹시 mac m1 사용중이신분들 모두 pyaudio 문제 해결 하셨나요ㅠ\n여러 방법을 시도 중인데 m1이면 python ARM 버전을 써야한다고 gpt가 그러는데 혹시 mac m1 쓰시는분들중에 해결하신분 있을까요!\n그리고 혹시 아래 코드 치면 둘중에 1,2중에 어떤 결과가 나오실까요?\n```import platform\nprint(platform.architecture())\n\n1.('64bit', '')\n2.('64bit', 'ARM')```",
+        "files": [
+            {
+                "id": "F06382QJHEE",
+                "created": 1698480281,
+                "timestamp": 1698480281,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U06061L4S64",
+                "user_team": "T05UGFFGL07",
+                "editable": false,
+                "size": 135229,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F06382QJHEE\/image.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F06382QJHEE\/download\/image.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06382QJHEE-c42c347753\/image_64.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06382QJHEE-c42c347753\/image_80.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06382QJHEE-c42c347753\/image_360.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_360_w": 360,
+                "thumb_360_h": 258,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06382QJHEE-c42c347753\/image_480.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_480_w": 480,
+                "thumb_480_h": 343,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06382QJHEE-c42c347753\/image_160.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06382QJHEE-c42c347753\/image_720.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_720_w": 720,
+                "thumb_720_h": 515,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06382QJHEE-c42c347753\/image_800.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_800_w": 800,
+                "thumb_800_h": 572,
+                "original_w": 945,
+                "original_h": 676,
+                "thumb_tiny": "AwAiADCsOtLx6\/rTGxj5iQPamYT1b8qYEvH+TSZFRYj\/ALzUYT+81AE3HpSVGoXcMMSfSpKAEO3HzdKafL9T+dP2huDn8KQxL\/tUAMxF\/k0Yi\/yad5Kf7VHkp\/tUAIojyMdfrT6QRqpyM5paAAdaXvSDrS96ACiiigBO9JSjrSUAf\/\/Z",
+                "permalink": "https:\/\/fcupstageai1.slack.com\/files\/U06061L4S64\/F06382QJHEE\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T05UGFFGL07-F06382QJHEE-007a2b8ceb",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            },
+            {
+                "id": "F06382U9GMQ",
+                "created": 1698480488,
+                "timestamp": 1698480488,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U06061L4S64",
+                "user_team": "T05UGFFGL07",
+                "editable": false,
+                "size": 126314,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F06382U9GMQ\/image.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F06382U9GMQ\/download\/image.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06382U9GMQ-6d80734ca7\/image_64.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06382U9GMQ-6d80734ca7\/image_80.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06382U9GMQ-6d80734ca7\/image_360.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_360_w": 332,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06382U9GMQ-6d80734ca7\/image_480.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_480_w": 443,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06382U9GMQ-6d80734ca7\/image_160.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06382U9GMQ-6d80734ca7\/image_720.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_720_w": 665,
+                "thumb_720_h": 720,
+                "original_w": 731,
+                "original_h": 792,
+                "thumb_tiny": "AwAwACyv26Uc+lGRjrSHHqKYC5PpRk+lN\/GjNADucdKbmiigBDEDzv6\/59aQxej0FCTneP1pNh\/vj8zSATyj\/fo8s\/36Njf3xRtb+9+tMA8s\/wB+pKj2P2bipKAGmME53Dn1pPK\/2qCrknrj60mx\/f8AOkAeV\/t0eV\/tUhST3\/Ok2ye\/50AO8r\/aNSVDtk9\/zqamB\/\/Z",
+                "permalink": "https:\/\/fcupstageai1.slack.com\/files\/U06061L4S64\/F06382U9GMQ\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T05UGFFGL07-F06382U9GMQ-a7925ffc41",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U06061L4S64",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XBmkA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "혹시 mac m1 사용중이신분들 모두 pyaudio 문제 해결 하셨나요ㅠ\n여러 방법을 시도 중인데 m1이면 python ARM 버전을 써야한다고 gpt가 그러는데 혹시 mac m1 쓰시는분들중에 해결하신분 있을까요!\n그리고 혹시 아래 코드 치면 둘중에 1,2중에 어떤 결과가 나오실까요?\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "import platform\nprint(platform.architecture())\n\n1.('64bit', '')\n2.('64bit', 'ARM')"
+                            }
+                        ],
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1698480616.640269",
+        "client_msg_id": "cf765a60-3fbb-46de-a81b-da5c57e27a11",
+        "thread_ts": "1698480616.640269",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1698481597.694649",
+        "reply_users": [
+            "U05V5H1T24V",
+            "U06061L4S64"
+        ],
+        "replies": [
+            {
+                "user": "U05V5H1T24V",
+                "ts": "1698481031.953199"
+            },
+            {
+                "user": "U06061L4S64",
+                "ts": "1698481548.659259"
+            },
+            {
+                "user": "U05V5H1T24V",
+                "ts": "1698481597.694649"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "user": "U05V5H1T24V",
+        "type": "message",
+        "ts": "1698481031.953199",
+        "client_msg_id": "9DA316CD-BED7-4D16-9655-6D572AB039A4",
+        "text": "<https:\/\/youtu.be\/WTul6LIjIBA?si=pRpoCgfTRn0VcSdb|https:\/\/youtu.be\/WTul6LIjIBA?si=pRpoCgfTRn0VcSdb>\n\n이 영상 참고하셔서 맥 환경설정 해보시겠어요?",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "7c6706ce6504",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5987883585126_7c6706ce65044c7fba85_72.png",
+            "first_name": "서재현",
+            "real_name": "서재현",
+            "display_name": "서재현",
+            "team": "T05UGFFGL07",
+            "name": "jaehyeon4037",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698480616.640269",
+        "parent_user_id": "U06061L4S64",
+        "attachments": [
+            {
+                "from_url": "https:\/\/youtu.be\/WTul6LIjIBA?si=pRpoCgfTRn0VcSdb",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/WTul6LIjIBA\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/WTul6LIjIBA?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen title=\"인공지능 스피커 만들기 【파이썬】\"><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "id": 1,
+                "original_url": "https:\/\/youtu.be\/WTul6LIjIBA?si=pRpoCgfTRn0VcSdb",
+                "fallback": "YouTube Video: 인공지능 스피커 만들기 【파이썬】",
+                "title": "인공지능 스피커 만들기 【파이썬】",
+                "title_link": "https:\/\/youtu.be\/WTul6LIjIBA?si=pRpoCgfTRn0VcSdb",
+                "author_name": "나도코딩",
+                "author_link": "https:\/\/www.youtube.com\/@nadocoding",
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5aMQa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/youtu.be\/WTul6LIjIBA?si=pRpoCgfTRn0VcSdb",
+                                "text": "https:\/\/youtu.be\/WTul6LIjIBA?si=pRpoCgfTRn0VcSdb"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "이"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "영상"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "참고하셔서"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "맥"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "환경설정"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "해보시겠어요"
+                            },
+                            {
+                                "type": "text",
+                                "text": "?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U06061L4S64"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06061L4S64",
+        "type": "message",
+        "ts": "1698481548.659259",
+        "client_msg_id": "E3490E00-279F-4442-BC94-6255E2DDC015",
+        "text": "재현님도 pyaudio 모듈을 못불러왔었나요??",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "9958a6e7ea98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5988755251283_9958a6e7ea98545615ca_72.png",
+            "first_name": "LM",
+            "real_name": "LM 박진영",
+            "display_name": "LM 박진영",
+            "team": "T05UGFFGL07",
+            "name": "pjy.fc.career",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698480616.640269",
+        "parent_user_id": "U06061L4S64",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ddKZe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "재현님도"
+                            },
+                            {
+                                "type": "text",
+                                "text": " pyaudio "
+                            },
+                            {
+                                "type": "text",
+                                "text": "모듈을"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "못불러왔었나요"
+                            },
+                            {
+                                "type": "text",
+                                "text": "??"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05V5H1T24V",
+        "type": "message",
+        "ts": "1698481597.694649",
+        "client_msg_id": "55AFA526-EE61-4D10-A4F0-287606F7B756",
+        "text": "저는 윈도우인데 저거 따라가면서 했는데 맥도 설명이 있길래 도움이 되실까 싶어 공유드린겁니다!!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "7c6706ce6504",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5987883585126_7c6706ce65044c7fba85_72.png",
+            "first_name": "서재현",
+            "real_name": "서재현",
+            "display_name": "서재현",
+            "team": "T05UGFFGL07",
+            "name": "jaehyeon4037",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698480616.640269",
+        "parent_user_id": "U06061L4S64",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WlrPg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "저는"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "윈도우인데"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "저거"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "따라가면서"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "했는데"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "맥도"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "설명이"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "있길래"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "도움이"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "되실까"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "싶어"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "공유드린겁니다"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U06061L4S64"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

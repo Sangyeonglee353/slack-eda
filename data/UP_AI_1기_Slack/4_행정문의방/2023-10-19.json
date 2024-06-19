@@ -1,0 +1,1106 @@
+[
+    {
+        "user": "U05UZLEM04V",
+        "type": "message",
+        "ts": "1697698839.769019",
+        "client_msg_id": "38b6bb00-5629-4599-9319-e9790a04060d",
+        "text": "<@U05V81G5ZDY> 23.10.10, QR오류, 출석정정 구글폼 설문제출 완료했습니다",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "25547f3149f8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5988678123971_25547f3149f87fd234ca_72.jpg",
+            "first_name": "권혁찬",
+            "real_name": "권혁찬",
+            "display_name": "권혁찬",
+            "team": "T05UGFFGL07",
+            "name": "gurcks2",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697105654.767749",
+        "parent_user_id": "U05UZLEM04V",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Oh42s",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05V81G5ZDY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 23.10.10, QR오류, 출석정정 구글폼 설문제출 완료했습니다"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1::skin-tone-2",
+                "users": [
+                    "U05V81G5ZDY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06061L4S64",
+        "type": "message",
+        "ts": "1697699866.227449",
+        "client_msg_id": "cfd83f5e-b37d-45ad-b8a2-84d605bf21d5",
+        "text": "<@U05V0106JDT> 내일 오전에 저한테 DM 주세요 승호님!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "9958a6e7ea98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5988755251283_9958a6e7ea98545615ca_72.png",
+            "first_name": "LM",
+            "real_name": "LM 박진영",
+            "display_name": "LM 박진영",
+            "team": "T05UGFFGL07",
+            "name": "pjy.fc.career",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697692579.128359",
+        "parent_user_id": "U05V0106JDT",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Zgzxw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05V0106JDT"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 내일 오전에 저한테 DM 주세요 승호님!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U05V0106JDT"
+                ],
+                "count": 1
+            },
+            {
+                "name": "pray::skin-tone-2",
+                "users": [
+                    "U05V81G5ZDY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05V1KVNK0E",
+        "type": "message",
+        "ts": "1697705816.535519",
+        "client_msg_id": "71f06d18-a3c1-4584-9dec-c6b163228ff9",
+        "text": "금일 오전 9시 58분에 QR 찍고 스크린샷 찍었는데 결석 처리된 것 같습니다. 확인 요청드립니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "fb5019db4a38",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5979783895559_fb5019db4a38b752a187_72.jpg",
+            "first_name": "명왕",
+            "real_name": "명왕 (명왕)",
+            "display_name": "이명진",
+            "team": "T05UGFFGL07",
+            "name": "jinlee1997",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697705816.535519",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1697760798.156769",
+        "reply_users": [
+            "U05VAHXECP6",
+            "U05V81G5ZDY"
+        ],
+        "replies": [
+            {
+                "user": "U05VAHXECP6",
+                "ts": "1697707073.017089"
+            },
+            {
+                "user": "U05V81G5ZDY",
+                "ts": "1697760798.156769"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1697760798.156769",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7tiZE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "금일 오전 9시 58분에 QR 찍고 스크린샷 찍었는데 결석 처리된 것 같습니다. 확인 요청드립니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "U05V81G5ZDY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05VAHXECP6",
+        "type": "message",
+        "ts": "1697707073.017089",
+        "client_msg_id": "e4f11921-b110-4a48-9832-1f950ecff00d",
+        "text": "안녕하세요. 명진님!\n입실 스크린샷은 확인이 되었구요. 입실 QR은 내일 오전 중으로 행정 매니저님을 통해 확인 후 추가 안내 드릴 수 있도록 하겠습니다. <@U05V81G5ZDY>",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "50abee101814",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-11\/6044824153712_50abee1018149e21919b_72.jpg",
+            "first_name": "이상영",
+            "real_name": "이상영",
+            "display_name": "FC 이상영 매니저",
+            "team": "T05UGFFGL07",
+            "name": "sangyeong.lee",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697705816.535519",
+        "parent_user_id": "U05V1KVNK0E",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bBKvb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "안녕하세요. 명진님!\n입실 스크린샷은 확인이 되었구요. 입실 QR은 내일 오전 중으로 행정 매니저님을 통해 확인 후 추가 안내 드릴 수 있도록 하겠습니다. "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05V81G5ZDY"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05UT0JG4BZ",
+        "type": "message",
+        "ts": "1697717141.951849",
+        "client_msg_id": "40442e03-7459-4c73-9e5d-6f2768baa2e2",
+        "text": "<@U05UNC6FNK1> <@U05V81G5ZDY>\n제가 내일 18:30 에 코딩테스트 시험에 참여하게 되서 퇴실 시간에 자리를 비우게 될것 같습니다\n\n또한 23일 월요일 14:30에 면접 일정이 잡히게 되어서 23일 참여가 어려울것 같은데\n\n당일마다 일정을 치르고 출석대장과 서류를 준비해서 구글 폼에 게시하면 괜찮을까요?",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "g9153b403f05",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/9153b403f05c51f82cac8dec3d6d8e3a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "김다운",
+            "real_name": "김다운",
+            "display_name": "김다운",
+            "team": "T05UGFFGL07",
+            "name": "ekdns7500",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697717141.951849",
+        "reply_count": 5,
+        "reply_users_count": 2,
+        "latest_reply": "1698108969.701269",
+        "reply_users": [
+            "U05V81G5ZDY",
+            "U05UT0JG4BZ"
+        ],
+        "replies": [
+            {
+                "user": "U05V81G5ZDY",
+                "ts": "1697761078.190369"
+            },
+            {
+                "user": "U05UT0JG4BZ",
+                "ts": "1698056496.087309"
+            },
+            {
+                "user": "U05V81G5ZDY",
+                "ts": "1698108489.946999"
+            },
+            {
+                "user": "U05V81G5ZDY",
+                "ts": "1698108715.319269"
+            },
+            {
+                "user": "U05UT0JG4BZ",
+                "ts": "1698108969.701269"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4boRU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05UNC6FNK1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05V81G5ZDY"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n제가 내일 18:30 에 코딩테스트 시험에 참여하게 되서 퇴실 시간에 자리를 비우게 될것 같습니다\n\n또한 23일 월요일 14:30에 면접 일정이 잡히게 되어서 23일 참여가 어려울것 같은데\n\n당일마다 일정을 치르고 출석대장과 서류를 준비해서 구글 폼에 게시하면 괜찮을까요?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "U05V81G5ZDY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05V81G5ZDY",
+        "type": "message",
+        "ts": "1697760798.156769",
+        "client_msg_id": "acdfb68e-7674-4fff-99db-1827a8d01643",
+        "text": "<@U05V1KVNK0E> 10\/19일자 QR체크 잘하셔서 출석 되어 있으십니다!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "db1aceeb0d90",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5994058472162_db1aceeb0d9030c57e69_72.jpg",
+            "first_name": "김현우",
+            "real_name": "김현우",
+            "display_name": "FC 김현우 매니저",
+            "team": "T05UGFFGL07",
+            "name": "hyunwoo.kim",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697705816.535519",
+        "parent_user_id": "U05V1KVNK0E",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FuaD8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05V1KVNK0E"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 10\/19일자 QR체크 잘하셔서 출석 되어 있으십니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05V81G5ZDY",
+        "type": "message",
+        "ts": "1697761078.190369",
+        "client_msg_id": "53b4dd44-e886-42a7-bb9e-33201cd7621b",
+        "text": "<@U05UT0JG4BZ> 안녕하세요 행정 매니저 김현우입니다.\n\n금일 코딩테스트 잘 치르고 오기 바라겠습니다!\n\n10\/20 출결의 경우 퇴실 QR 체크를 미리 하여 조퇴로 처리 해야 할 듯합니다.\n• 주의사항\n    ◦ QR을 너무 일찍 체크하면 50%미만 출석으로 결석처리됩니다. 코테 치르기 조금 전에 QR체크 해주세요!\n    ◦ 따라서 퇴실 스샷은 미참여하여도 HRD로 조퇴 처리 됩니다.\n    ◦ 퇴실 QR 체크하여 조퇴처리 되면 서류 필요없습니다.\n10\/23 면접\n• 면접 공가 신청으로 확인하여 처리 하겠습니다.\n• 필요 서류\n    ◦ 출석대장\n    ◦ 면접확인서\n구글폼 작성해주세요!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "db1aceeb0d90",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5994058472162_db1aceeb0d9030c57e69_72.jpg",
+            "first_name": "김현우",
+            "real_name": "김현우",
+            "display_name": "FC 김현우 매니저",
+            "team": "T05UGFFGL07",
+            "name": "hyunwoo.kim",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697717141.951849",
+        "parent_user_id": "U05UT0JG4BZ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xxctj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05UT0JG4BZ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 안녕하세요 행정 매니저 김현우입니다.\n\n금일 코딩테스트 잘 치르고 오기 바라겠습니다!\n\n10\/20 출결의 경우 퇴실 QR 체크를 미리 하여 조퇴로 처리 해야 할 듯합니다.\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "주의사항"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "QR을 너무 일찍 체크하면 50%미만 출석으로 결석처리됩니다. 코테 치르기 조금 전에 QR체크 해주세요!"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "따라서 퇴실 스샷은 미참여하여도 HRD로 조퇴 처리 됩니다."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "퇴실 QR 체크하여 조퇴처리 되면 서류 필요없습니다."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n10\/23 면접\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "면접 공가 신청으로 확인하여 처리 하겠습니다."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "필요 서류"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "출석대장"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "면접확인서"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "구글폼 작성해주세요!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U05UT0JG4BZ"
+                ],
+                "count": 1
+            },
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U05UT0JG4BZ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05VCCSHKHR",
+        "type": "message",
+        "ts": "1697767029.999909",
+        "client_msg_id": "8aff264b-271a-4de7-9a88-b0a620893dd9",
+        "text": "10월 19일 오후에 병원에 다녀오느라 qr상으로 조퇴를 했습니다. 지금 구글폼에 게시하면 괜찮을까요?",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "680561218468",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5998434715235_680561218468939005d6_72.png",
+            "first_name": "송현지",
+            "real_name": "송현지",
+            "display_name": "송현지",
+            "team": "T05UGFFGL07",
+            "name": "hyunjeesong95",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697767029.999909",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1697767206.566129",
+        "reply_users": [
+            "U05V81G5ZDY"
+        ],
+        "replies": [
+            {
+                "user": "U05V81G5ZDY",
+                "ts": "1697767206.566129"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XnVBi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "10월 19일 오후에 병원에 다녀오느라 qr상으로 조퇴를 했습니다. 지금 구글폼에 게시하면 괜찮을까요?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "U05V81G5ZDY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05V81G5ZDY",
+        "type": "message",
+        "ts": "1697767206.566129",
+        "client_msg_id": "ea736886-fef8-48e1-b6b0-03e7dab9a486",
+        "text": "조퇴는 따로 서류제출 없으십니다!\n조퇴 확인 되었습니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "db1aceeb0d90",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5994058472162_db1aceeb0d9030c57e69_72.jpg",
+            "first_name": "김현우",
+            "real_name": "김현우",
+            "display_name": "FC 김현우 매니저",
+            "team": "T05UGFFGL07",
+            "name": "hyunwoo.kim",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697767029.999909",
+        "parent_user_id": "U05VCCSHKHR",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9ytie",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "조퇴는 따로 서류제출 없으십니다!\n조퇴 확인 되었습니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U05VCCSHKHR"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05VC7EEY5Q",
+        "type": "message",
+        "ts": "1697772286.440769",
+        "client_msg_id": "b631445c-9c58-45d3-86d3-563d19d02784",
+        "text": "금일 14시부터 15시까지 시험이 있어 자리를 비우게 될 것 같습니다. hrd에 외출로 처리해도 괜찮을까요?",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "41b3eab94662",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-06\/6000541892291_41b3eab946625ecd1c69_72.jpg",
+            "first_name": "강승현",
+            "real_name": "강승현",
+            "display_name": "강승현",
+            "team": "T05UGFFGL07",
+            "name": "kangs7777",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697772286.440769",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1697775851.624149",
+        "reply_users": [
+            "U06061L4S64",
+            "U05VC7EEY5Q",
+            "U05V81G5ZDY"
+        ],
+        "replies": [
+            {
+                "user": "U06061L4S64",
+                "ts": "1697772409.170879"
+            },
+            {
+                "user": "U05VC7EEY5Q",
+                "ts": "1697772590.985049"
+            },
+            {
+                "user": "U05V81G5ZDY",
+                "ts": "1697775851.624149"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HK9Yv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "금일 14시부터 15시까지 시험이 있어 자리를 비우게 될 것 같습니다. hrd에 외출로 처리해도 괜찮을까요?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U060TBSJ7DF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06061L4S64",
+        "type": "message",
+        "ts": "1697772409.170879",
+        "client_msg_id": "2bcfd1fc-f96e-4358-9c71-965e5413ba3a",
+        "text": "네 승현님 오전제 qr찍으셨다면 자리비우실때 qr 한번 찍어주시고 복귀하실때 한번 더 찍어주시면 됩니다! 그리고 7시 퇴실때 마지막으로 찍어주시면 됩니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "9958a6e7ea98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5988755251283_9958a6e7ea98545615ca_72.png",
+            "first_name": "LM",
+            "real_name": "LM 박진영",
+            "display_name": "LM 박진영",
+            "team": "T05UGFFGL07",
+            "name": "pjy.fc.career",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697772286.440769",
+        "parent_user_id": "U05VC7EEY5Q",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FkDdU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "네 승현님 오전제 qr찍으셨다면 자리비우실때 qr 한번 찍어주시고 복귀하실때 한번 더 찍어주시면 됩니다! 그리고 7시 퇴실때 마지막으로 찍어주시면 됩니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05VC7EEY5Q",
+        "type": "message",
+        "ts": "1697772590.985049",
+        "client_msg_id": "7290d08d-16c1-4e89-aaa9-7af5aef03a0c",
+        "text": "넵 감사합니다!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "41b3eab94662",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-06\/6000541892291_41b3eab946625ecd1c69_72.jpg",
+            "first_name": "강승현",
+            "real_name": "강승현",
+            "display_name": "강승현",
+            "team": "T05UGFFGL07",
+            "name": "kangs7777",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697772286.440769",
+        "parent_user_id": "U05VC7EEY5Q",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "szVyM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "넵 감사합니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U060J3NGX08",
+        "type": "message",
+        "ts": "1697773209.990279",
+        "client_msg_id": "78dc0388-d817-42fb-92c3-ed82085e0727",
+        "text": "오전에 QR 출석을 10시 3분쯤 했는데 줌이 닫혀 있어서 스크린샷을 못 찍었습니다, QR 출석은 했는데 지각 처리가 되는 걸까요?",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "gbc825ac18ac",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/bc825ac18ac18fdb67a86751711cbdba.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "조서영",
+            "real_name": "조서영",
+            "display_name": "조서영",
+            "team": "T05UGFFGL07",
+            "name": "pink495sy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697773209.990279",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1697773710.369709",
+        "reply_users": [
+            "U06061L4S64"
+        ],
+        "replies": [
+            {
+                "user": "U06061L4S64",
+                "ts": "1697773710.369709"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "J1dgB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "오전에 QR 출석을 10시 3분쯤 했는데 줌이 닫혀 있어서 스크린샷을 못 찍었습니다, QR 출석은 했는데 지각 처리가 되는 걸까요?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U06061L4S64"
+                ],
+                "count": 1
+            },
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "U05V81G5ZDY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06061L4S64",
+        "type": "message",
+        "ts": "1697773710.369709",
+        "client_msg_id": "57994036-5959-44d2-8876-96a9e3f14497",
+        "text": "안녕하세요 서영님 아시다시피 스크린샷은 정각에서 ~2분 사이에 항상 찍고있었습니다:sob: (시간을 정해 놓지 않으면 대기 시간이 길어지고 수강생분들이 많다보니 수업에도 영향이 가기 떄문에 규칙을 정했습니다..!)\n\n혹시나 사정 때문에 늦거나 하실때는 저한테 따로 DM이라도 주시면 감사하겠습니다.. : )\n\n우선 DM확인해주세요 서영님!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "9958a6e7ea98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5988755251283_9958a6e7ea98545615ca_72.png",
+            "first_name": "LM",
+            "real_name": "LM 박진영",
+            "display_name": "LM 박진영",
+            "team": "T05UGFFGL07",
+            "name": "pjy.fc.career",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697773209.990279",
+        "parent_user_id": "U060J3NGX08",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IsxE3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "안녕하세요 서영님 아시다시피 스크린샷은 정각에서 ~2분 사이에 항상 찍고있었습니다"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sob",
+                                "unicode": "1f62d"
+                            },
+                            {
+                                "type": "text",
+                                "text": " (시간을 정해 놓지 않으면 대기 시간이 길어지고 수강생분들이 많다보니 수업에도 영향이 가기 떄문에 규칙을 정했습니다..!)\n\n혹시나 사정 때문에 늦거나 하실때는 저한테 따로 DM이라도 주시면 감사하겠습니다.. : )\n\n우선 DM확인해주세요 서영님!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U060J3NGX08"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1::skin-tone-2",
+                "users": [
+                    "U05V81G5ZDY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05V81G5ZDY",
+        "type": "message",
+        "ts": "1697775851.624149",
+        "client_msg_id": "53e24402-471a-40b1-b0a2-4539bed74f53",
+        "text": "<@U05VC7EEY5Q> 안녕하세요 행정 매니저입니다.\n\n• 외출시\n    ◦ 입실 - 외출 - 복귀 - 퇴실\n    ◦ 총 4번 QR 체크 하여야 정상 처리 됩니다!\n    ◦ 빠뜨리면 결석처리 됩니다",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "db1aceeb0d90",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5994058472162_db1aceeb0d9030c57e69_72.jpg",
+            "first_name": "김현우",
+            "real_name": "김현우",
+            "display_name": "FC 김현우 매니저",
+            "team": "T05UGFFGL07",
+            "name": "hyunwoo.kim",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697772286.440769",
+        "parent_user_id": "U05VC7EEY5Q",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BXB4W",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05VC7EEY5Q"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 안녕하세요 행정 매니저입니다.\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "외출시"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "입실 - 외출 - 복귀 - 퇴실"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "총 4번 QR 체크 하여야 정상 처리 됩니다!"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "빠뜨리면 결석처리 됩니다"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05V0106JDT",
+        "type": "message",
+        "ts": "1697777870.297939",
+        "client_msg_id": "d12a2e62-29f6-44b5-88ff-1711d94533f3",
+        "text": "<@U05V81G5ZDY> <@U05VAHXECP6> <@U06061L4S64> 매니저님, 출석대장 및 입퇴실 스크린샷 첨부해서 구글폼으로 제출완료하였습니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "gd7b44870731",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d7b448707312b1f05516b12cfcdc5b63.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "김승호",
+            "real_name": "김승호",
+            "display_name": "",
+            "team": "T05UGFFGL07",
+            "name": "shkim0925",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697692579.128359",
+        "parent_user_id": "U05V0106JDT",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wlQUw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05V81G5ZDY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05VAHXECP6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06061L4S64"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 매니저님, 출석대장 및 입퇴실 스크린샷 첨부해서 구글폼으로 제출완료하였습니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "U05V81G5ZDY"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

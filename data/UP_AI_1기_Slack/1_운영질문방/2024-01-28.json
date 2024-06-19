@@ -1,0 +1,56 @@
+[
+    {
+        "user": "U0608EG7YEA",
+        "type": "message",
+        "ts": "1706509301.728089",
+        "client_msg_id": "3d8d2dde-e7e9-45eb-83b9-d6ec52cf055a",
+        "text": "안녕하세요!\n안타깝지만 현재 AI Stages의 경우 종료된 대회에서 추가 제출은 어렵습니다. :smiling_face_with_tear:\n하지만 해당 대회에서 사용한 데이터는 오픈소스로 공개되어 있기 때문에 원본을 활용하여 대회와 동일하게 세팅하실 수도 있기 때문에 이 점 참고해주시면 감사하겠습니다.\n제안주신 니즈에 대해서는 이후 플랫폼 개선시 적극적으로 고려해보도록 하겠습니다. :pray:",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "542e7e1dec67",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-12\/6028220315186_542e7e1dec6721784df9_72.png",
+            "first_name": "업스테이지",
+            "real_name": "업스테이지 크리스",
+            "display_name": "업스테이지 크리스",
+            "team": "T05UGFFGL07",
+            "name": "chris",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1706252423.657579",
+        "parent_user_id": "U0600GGHJTC",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZRjbD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "안녕하세요!\n안타깝지만 현재 AI Stages의 경우 종료된 대회에서 추가 제출은 어렵습니다. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smiling_face_with_tear",
+                                "unicode": "1f972"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n하지만 해당 대회에서 사용한 데이터는 오픈소스로 공개되어 있기 때문에 원본을 활용하여 대회와 동일하게 세팅하실 수도 있기 때문에 이 점 참고해주시면 감사하겠습니다.\n제안주신 니즈에 대해서는 이후 플랫폼 개선시 적극적으로 고려해보도록 하겠습니다. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

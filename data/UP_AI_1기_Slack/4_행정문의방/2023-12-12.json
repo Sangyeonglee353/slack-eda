@@ -1,0 +1,242 @@
+[
+    {
+        "user": "U0600PYS0G3",
+        "type": "message",
+        "ts": "1702371658.165879",
+        "client_msg_id": "135f22bc-b116-4d65-aa18-32987a435d96",
+        "text": "<@U05UNC6FNK1> <@U05V81G5ZDY>\n안녕하세요 매니저님! LM님과 상담 후 12월 15일(금요일) 휴가 사용으로 구글폼 제출하였습니다. 확인 부탁드리겠습니다. 감사합니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "d5dfa0b989db",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-06\/6003366185076_d5dfa0b989dbdbf1f2b2_72.png",
+            "first_name": "박슬아",
+            "real_name": "박슬아",
+            "display_name": "",
+            "team": "T05UGFFGL07",
+            "name": "tmfdk0819",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Qi\/BF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05UNC6FNK1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05V81G5ZDY"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n안녕하세요 매니저님! LM님과 상담 후 12월 15일(금요일) 휴가 사용으로 구글폼 제출하였습니다. 확인 부탁드리겠습니다. 감사합니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "beach_with_umbrella",
+                "users": [
+                    "U05V81G5ZDY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05UNC6FNK1",
+        "type": "message",
+        "ts": "1702431202.809599",
+        "client_msg_id": "8b61e7df-8ad1-4088-9368-a6982471d912",
+        "text": "<@U06022Z2TED> 출석부 재발급 스레드",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "260d154ea1e2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5979526758263_260d154ea1e2177fd001_72.jpg",
+            "first_name": "FC",
+            "real_name": "FC 하시안 매니저",
+            "display_name": "FC 하시안 매니저",
+            "team": "T05UGFFGL07",
+            "name": "xianha",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1702431202.809599",
+        "reply_count": 2,
+        "reply_users_count": 1,
+        "latest_reply": "1702431231.676289",
+        "reply_users": [
+            "U05UNC6FNK1"
+        ],
+        "replies": [
+            {
+                "user": "U05UNC6FNK1",
+                "ts": "1702431223.329219"
+            },
+            {
+                "user": "U05UNC6FNK1",
+                "ts": "1702431231.676289"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Tg8RI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06022Z2TED"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 출석부 재발급 스레드"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "U05UNC6FNK1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "text": "하연님 국취담당자님 연락오셔서 출석부 재요청하셨습니다.",
+        "files": [
+            {
+                "id": "F069YM5S50C",
+                "created": 1702431214,
+                "timestamp": 1702431214,
+                "name": "20231213103303554.pdf",
+                "title": "20231213103303554.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U05UNC6FNK1",
+                "user_team": "T05UGFFGL07",
+                "editable": false,
+                "size": 78832,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F069YM5S50C\/20231213103303554.pdf?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F069YM5S50C\/download\/20231213103303554.pdf?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "media_display_type": "unknown",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F069YM5S50C-58309b3698\/20231213103303554_thumb_pdf.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_pdf_w": 1286,
+                "thumb_pdf_h": 909,
+                "permalink": "https:\/\/fcupstageai1.slack.com\/files\/U05UNC6FNK1\/F069YM5S50C\/20231213103303554.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/T05UGFFGL07-F069YM5S50C-2e3bbdff9f",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U05UNC6FNK1",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YjZIV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "하연님 국취담당자님 연락오셔서 출석부 재요청하셨습니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1702431223.329219",
+        "client_msg_id": "5263917b-9f12-48b2-a3d9-338e4b3816ed",
+        "thread_ts": "1702431202.809599",
+        "parent_user_id": "U05UNC6FNK1"
+    },
+    {
+        "user": "U05UNC6FNK1",
+        "type": "message",
+        "ts": "1702431231.676289",
+        "client_msg_id": "a437f9ce-25da-40e7-a5a4-dc7a9fd87102",
+        "text": "재발급 드리고! 위 파일로 다시 제출해주세요!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "260d154ea1e2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5979526758263_260d154ea1e2177fd001_72.jpg",
+            "first_name": "FC",
+            "real_name": "FC 하시안 매니저",
+            "display_name": "FC 하시안 매니저",
+            "team": "T05UGFFGL07",
+            "name": "xianha",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1702431202.809599",
+        "parent_user_id": "U05UNC6FNK1",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ixuiB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "재발급 드리고! 위 파일로 다시 제출해주세요!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U06022Z2TED"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

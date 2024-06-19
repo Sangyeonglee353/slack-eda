@@ -1,0 +1,60 @@
+[
+    {
+        "user": "U05VADPQPCL",
+        "type": "message",
+        "ts": "1709425920.825089",
+        "client_msg_id": "191231a2-2090-4480-b38e-65cf350d1c9b",
+        "text": "YOLOv9\ngithub : <https:\/\/github.com\/WongKinYiu\/yolov9?tab=readme-ov-file>\npaper : <https:\/\/arxiv.org\/abs\/2402.13616>\ndocs : <https:\/\/docs.ultralytics.com\/ko\/models\/yolov9\/>",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "07e7ca00b8f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5991092857253_07e7ca00b8f0d0b13ba1_72.png",
+            "first_name": "패스트캠퍼스박기준",
+            "real_name": "패스트캠퍼스박기준",
+            "display_name": "LM 박기준",
+            "team": "T05UGFFGL07",
+            "name": "pgj.fc.career",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JlUAA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "YOLOv9\ngithub : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/WongKinYiu\/yolov9?tab=readme-ov-file"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\npaper : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/arxiv.org\/abs\/2402.13616"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\ndocs : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.ultralytics.com\/ko\/models\/yolov9\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,799 @@
+[
+    {
+        "user": "U05VADPQPCL",
+        "type": "message",
+        "ts": "1704679275.430649",
+        "edited": {
+            "user": "U05VADPQPCL",
+            "ts": "1705045154.000000"
+        },
+        "client_msg_id": "6fb4430f-6d50-423f-a3be-dc3d9f888fa4",
+        "text": "<!channel>\n*안녕하세요, 수강생 여러분! AI Stages 가입 안내드립니다.* :slightly_smiling_face:\n\nGPU 서버 사용을 위해 AI Stages 가입 후 가입 계정을 제출해주셔야 합니다.\n가입 및 가입한 계정 수합은 :mega:*`내일(1\/9, 화) 15시`* 까지 진행되며, 아래 두 가지 절차를 진행해주시기 바랍니다!\n\n:one: *AI Stages 가입 바로가기* (<https:\/\/next.stages.ai\/> - 구글 검색이 아닌 해당 *URL로 접속하여 가입 해주시길 바랍니다*:fire:)\n• `실명`으로 가입해주세요!\n:two: *<https:\/\/forms.gle\/FAyuARJ4NMm9aBUU6|가입 계정 설문 제출 바로가기>* \n• 취합 내용: gmail 계정, 수강생 이름 등\n*참고사항*\n• AI Stages는 본 과정에서 프로젝트 실습 진행을 위해 사용되는 플랫폼으로 3090 GPU 서버를 AI Stages를 통해 사용하실 수 있게 됩니다.\n• 첫 대회는 1.15 (월) 오전 10시 일정에 맞춰 공개됩니다. 그 전까지는 페이지에 접근하실 수 없으니 유의해주세요.\n• AI Stages 활용 법은 1.15(월) 아래 특강을 통해 안내 드리겠습니다.\n    ◦ 특강 시간: 10:10 ~ 11:10\n    ◦ 특강 주제: AI Stages 플랫폼 소개 및 대회 참여를 위한 활용 법 A to Z 소개",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "07e7ca00b8f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5991092857253_07e7ca00b8f0d0b13ba1_72.png",
+            "first_name": "패스트캠퍼스박기준",
+            "real_name": "패스트캠퍼스박기준",
+            "display_name": "LM 박기준",
+            "team": "T05UGFFGL07",
+            "name": "pgj.fc.career",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1704679275.430649",
+        "reply_count": 9,
+        "reply_users_count": 5,
+        "latest_reply": "1705281605.529259",
+        "reply_users": [
+            "U05UT0JG4BZ",
+            "U05VAHXECP6",
+            "U05UN6NTN8P",
+            "U05VADPQPCL",
+            "U05V2PMAVNE"
+        ],
+        "replies": [
+            {
+                "user": "U05UT0JG4BZ",
+                "ts": "1704679411.416939"
+            },
+            {
+                "user": "U05VAHXECP6",
+                "ts": "1704679750.696599"
+            },
+            {
+                "user": "U05UT0JG4BZ",
+                "ts": "1704679817.057649"
+            },
+            {
+                "user": "U05UN6NTN8P",
+                "ts": "1704690695.867209"
+            },
+            {
+                "user": "U05VADPQPCL",
+                "ts": "1704690838.782069"
+            },
+            {
+                "user": "U05UN6NTN8P",
+                "ts": "1704691099.844789"
+            },
+            {
+                "user": "U05VADPQPCL",
+                "ts": "1704789595.602999"
+            },
+            {
+                "user": "U05VADPQPCL",
+                "ts": "1704794878.009259"
+            },
+            {
+                "user": "U05V2PMAVNE",
+                "ts": "1705281605.529259"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1705281605.529259",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qccaO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "안녕하세요, 수강생 여러분! AI Stages 가입 안내드립니다. ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nGPU 서버 사용을 위해 AI Stages 가입 후 가입 계정을 제출해주셔야 합니다.\n가입 및 가입한 계정 수합은 "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "mega",
+                                "unicode": "1f4e3"
+                            },
+                            {
+                                "type": "text",
+                                "text": "내일(1\/9, 화) 15시",
+                                "style": {
+                                    "bold": true,
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "까지 진행되며, 아래 두 가지 절차를 진행해주시기 바랍니다!\n\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "one",
+                                "unicode": "0031-fe0f-20e3",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " AI Stages 가입 바로가기",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " ("
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/next.stages.ai\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - 구글 검색이 아닌 해당 "
+                            },
+                            {
+                                "type": "text",
+                                "text": "URL로 접속하여 가입 해주시길 바랍니다",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fire",
+                                "unicode": "1f525",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ")\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "실명",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "으로 가입해주세요!"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "two",
+                                "unicode": "0032-fe0f-20e3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/forms.gle\/FAyuARJ4NMm9aBUU6",
+                                "text": "가입 계정 설문 제출 바로가기",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "취합 내용: gmail 계정, 수강생 이름 등"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "참고사항",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "AI Stages는 본 과정에서 프로젝트 실습 진행을 위해 사용되는 플랫폼으로 3090 GPU 서버를 AI Stages를 통해 사용하실 수 있게 됩니다."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "첫 대회는 1.15 (월) 오전 10시 일정에 맞춰 공개됩니다. 그 전까지는 페이지에 접근하실 수 없으니 유의해주세요."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "AI Stages 활용 법은 1.15(월) 아래 특강을 통해 안내 드리겠습니다."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "특강 시간: 10:10 ~ 11:10"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "특강 주제: AI Stages 플랫폼 소개 및 대회 참여를 위한 활용 법 A to Z 소개"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U05V5B27DK7",
+                    "U060H4V0Q5S",
+                    "U05UT0JG4BZ",
+                    "U0600PYS0G3",
+                    "U05V379NETU",
+                    "U05UNMQ4LP9",
+                    "U05V9N22ZUK",
+                    "U05V9LP47V0",
+                    "U05V2PMAVNE",
+                    "U05V561TXUL",
+                    "U05V2T62KUJ",
+                    "U060LG0BT89"
+                ],
+                "count": 12
+            }
+        ]
+    },
+    {
+        "user": "U05UT0JG4BZ",
+        "type": "message",
+        "ts": "1704679411.416939",
+        "client_msg_id": "d0436648-6693-472e-9107-63b6a52dd371",
+        "text": "기존 가입된 아이디가 있었는데 닉네임을 실명으로 바꿔서 구글 폼 제출했는데 이렇게 진행해도 괜찮을까요?",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "g9153b403f05",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/9153b403f05c51f82cac8dec3d6d8e3a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "김다운",
+            "real_name": "김다운",
+            "display_name": "김다운",
+            "team": "T05UGFFGL07",
+            "name": "ekdns7500",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1704679275.430649",
+        "parent_user_id": "U05VADPQPCL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "36jLI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "기존 가입된 아이디가 있었는데 닉네임을 실명으로 바꿔서 구글 폼 제출했는데 이렇게 진행해도 괜찮을까요?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05VAHXECP6",
+        "type": "message",
+        "ts": "1704679750.696599",
+        "edited": {
+            "user": "U05VAHXECP6",
+            "ts": "1704679784.000000"
+        },
+        "client_msg_id": "ae76e66a-944f-4d3f-a61e-3c2a268522a2",
+        "text": "네. 다운님! 혹시 기존 닉네임의 경우 DM으로 주시겠어요? 해당 내용은 같이 취합해서 전달드릴 수 있도록 하겠습니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "50abee101814",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-11\/6044824153712_50abee1018149e21919b_72.jpg",
+            "first_name": "이상영",
+            "real_name": "이상영",
+            "display_name": "FC 이상영 매니저",
+            "team": "T05UGFFGL07",
+            "name": "sangyeong.lee",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1704679275.430649",
+        "parent_user_id": "U05VADPQPCL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RBYe6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "네. 다운님! 혹시 기존 닉네임의 경우 DM으로 주시겠어요? 해당 내용은 같이 취합해서 전달드릴 수 있도록 하겠습니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05UT0JG4BZ",
+        "type": "message",
+        "ts": "1704679817.057649",
+        "client_msg_id": "c1810cd4-1418-4907-8ca2-c7ff14063cbf",
+        "text": "<@U05VAHXECP6>\n기존 닉네임은 '아마트리치아나' 입니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "g9153b403f05",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/9153b403f05c51f82cac8dec3d6d8e3a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "김다운",
+            "real_name": "김다운",
+            "display_name": "김다운",
+            "team": "T05UGFFGL07",
+            "name": "ekdns7500",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1704679275.430649",
+        "parent_user_id": "U05VADPQPCL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "trXRX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05VAHXECP6"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n기존 닉네임은 '아마트리치아나' 입니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U05VAHXECP6"
+                ],
+                "count": 1
+            },
+            {
+                "name": "spaghetti",
+                "users": [
+                    "U05VADPQPCL"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "text": "<!channel>\n안녕하세요. 수강생 여러분!\n금주부터 수강 예정이신 `[업스테이지] AI 심화 학습: 머신러닝`\n강의 소개서 먼저 전달 드리니, 앞으로의 스터디 계획하시는데 참고하시기 바랍니다.\n전체적인 강의 수강 일정은 강의가 입과되면 함께 공지해드릴 수 있도록 하겠습니다.\n\n&gt; *[업스테이지] AI 심화 학습: 머신러닝 | 강의 소개서*\n• Machine Learning Basic 강의 소개서\n• Machine Learning Advanced \/ Regression 대회 강의 소개서",
+        "files": [
+            {
+                "id": "F06CQJJ9S77",
+                "created": 1704679930,
+                "timestamp": 1704679930,
+                "name": "[Machine Learning Basic] 강의 소개서.pdf",
+                "title": "[Machine Learning Basic] 강의 소개서.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U05VAHXECP6",
+                "user_team": "T05UGFFGL07",
+                "editable": false,
+                "size": 131278,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F06CQJJ9S77\/_machine_learning_basic__________________.pdf?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F06CQJJ9S77\/download\/_machine_learning_basic__________________.pdf?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "media_display_type": "unknown",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06CQJJ9S77-60fa99452a\/_machine_learning_basic___________________thumb_pdf.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_pdf_w": 911,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/fcupstageai1.slack.com\/files\/U05VAHXECP6\/F06CQJJ9S77\/_machine_learning_basic__________________.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/T05UGFFGL07-F06CQJJ9S77-876bb2664d",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            },
+            {
+                "id": "F06CLT4298E",
+                "created": 1704679934,
+                "timestamp": 1704679934,
+                "name": "[Machine Learning Advanced _ Regression] 강의 소개서.pdf",
+                "title": "[Machine Learning Advanced _ Regression] 강의 소개서.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U05VAHXECP6",
+                "user_team": "T05UGFFGL07",
+                "editable": false,
+                "size": 143715,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F06CLT4298E\/_machine_learning_advanced___regression__________________.pdf?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F06CLT4298E\/download\/_machine_learning_advanced___regression__________________.pdf?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "media_display_type": "unknown",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06CLT4298E-faadc618fd\/_machine_learning_advanced___regression___________________thumb_pdf.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_pdf_w": 911,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/fcupstageai1.slack.com\/files\/U05VAHXECP6\/F06CLT4298E\/_machine_learning_advanced___regression__________________.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/T05UGFFGL07-F06CLT4298E-87f1decdde",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U05VAHXECP6",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XDy00",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n안녕하세요. 수강생 여러분!\n금주부터 수강 예정이신 "
+                            },
+                            {
+                                "type": "text",
+                                "text": "[업스테이지] AI 심화 학습: 머신러닝",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n강의 소개서 먼저 전달 드리니, 앞으로의 스터디 계획하시는데 참고하시기 바랍니다.\n전체적인 강의 수강 일정은 강의가 입과되면 함께 공지해드릴 수 있도록 하겠습니다.\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "[업스테이지] AI 심화 학습: 머신러닝 | 강의 소개서",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Machine Learning Basic 강의 소개서"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Machine Learning Advanced \/ Regression 대회 강의 소개서"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1704679997.281339",
+        "client_msg_id": "64d6e5de-1a08-4fcb-8232-14ad3ce46637",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U05V9N22ZUK",
+                    "U05V379NETU",
+                    "U05V5B27DK7",
+                    "U05V5H1T24V",
+                    "U05UN6NTN8P",
+                    "U060LG0BT89",
+                    "U05UNMQ4LP9"
+                ],
+                "count": 7
+            }
+        ]
+    },
+    {
+        "user": "U05UN6NTN8P",
+        "type": "message",
+        "ts": "1704690695.867209",
+        "edited": {
+            "user": "U05UN6NTN8P",
+            "ts": "1704690745.000000"
+        },
+        "client_msg_id": "efe1fcd9-2cc2-4f37-908a-acc3050557e6",
+        "text": "현재 가입하기를 누르고 구글 계정을 선택하면 404페이지가 뜨는데 확인 부탁드립니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "2e60b3be8cc5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5988792399218_2e60b3be8cc5d061fdca_72.jpg",
+            "first_name": "이소영",
+            "real_name": "이소영",
+            "display_name": "이소영A",
+            "team": "T05UGFFGL07",
+            "name": "sycj427",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1704679275.430649",
+        "parent_user_id": "U05VADPQPCL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dH0j6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "현재 가입하기를 누르고 구글 계정을 선택하면 404페이지가 뜨는데 확인 부탁드립니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05VADPQPCL",
+        "type": "message",
+        "ts": "1704690838.782069",
+        "client_msg_id": "c1512252-e43f-45d1-bd62-c017de846c65",
+        "text": "<@U05UN6NTN8P> 테스트 해봤는데 문제 없이 잘 되고 있습니다. 혹시 브라우저 어떤거 사용하시나요?",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "07e7ca00b8f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5991092857253_07e7ca00b8f0d0b13ba1_72.png",
+            "first_name": "패스트캠퍼스박기준",
+            "real_name": "패스트캠퍼스박기준",
+            "display_name": "LM 박기준",
+            "team": "T05UGFFGL07",
+            "name": "pgj.fc.career",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1704679275.430649",
+        "parent_user_id": "U05VADPQPCL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kXdNq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05UN6NTN8P"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 테스트 해봤는데 문제 없이 잘 되고 있습니다. 혹시 브라우저 어떤거 사용하시나요?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05UN6NTN8P",
+        "type": "message",
+        "ts": "1704691099.844789",
+        "client_msg_id": "97d9e257-3453-4643-b1ab-1ca89042222b",
+        "text": "<@U05VADPQPCL> 크롬 사파리 둘 다 해봤는데 똑같이 404 페이지가 뜨네요..",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "2e60b3be8cc5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5988792399218_2e60b3be8cc5d061fdca_72.jpg",
+            "first_name": "이소영",
+            "real_name": "이소영",
+            "display_name": "이소영A",
+            "team": "T05UGFFGL07",
+            "name": "sycj427",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1704679275.430649",
+        "parent_user_id": "U05VADPQPCL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nRmX3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05VADPQPCL"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 크롬 사파리 둘 다 해봤는데 똑같이 404 페이지가 뜨네요.."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

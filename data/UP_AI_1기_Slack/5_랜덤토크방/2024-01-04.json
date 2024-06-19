@@ -1,0 +1,567 @@
+[
+    {
+        "user": "U05V9N22ZUK",
+        "type": "message",
+        "ts": "1704361242.722959",
+        "edited": {
+            "user": "U05V9N22ZUK",
+            "ts": "1704361271.000000"
+        },
+        "client_msg_id": "ee9002cb-2370-472c-a983-c0130bf0f3f2",
+        "text": "최근 HRDNet 어플로 QR 출석이 입실 찍고 확인해도,\n퇴실 즈음에 확인하면 입실 전이라고 뜨는 경우가 있던데 이런 문제 해결하신 분 계신가요?\n최근 한달간 두번째 발생하는 일이라 화나네요.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "0698995c863f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5998310079844_0698995c863fed7643f0_72.png",
+            "first_name": "TaeHan",
+            "real_name": "TaeHan Kim",
+            "display_name": "김태한",
+            "team": "T05UGFFGL07",
+            "name": "kthnineone",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1704361242.722959",
+        "reply_count": 10,
+        "reply_users_count": 4,
+        "latest_reply": "1704365965.717239",
+        "reply_users": [
+            "U05UNMQ4LP9",
+            "U05V9N22ZUK",
+            "U05V9LP47V0",
+            "U05V379NETU"
+        ],
+        "replies": [
+            {
+                "user": "U05UNMQ4LP9",
+                "ts": "1704361871.955529"
+            },
+            {
+                "user": "U05V9N22ZUK",
+                "ts": "1704361905.721319"
+            },
+            {
+                "user": "U05UNMQ4LP9",
+                "ts": "1704361985.334899"
+            },
+            {
+                "user": "U05V9N22ZUK",
+                "ts": "1704362120.426599"
+            },
+            {
+                "user": "U05V9LP47V0",
+                "ts": "1704362571.719709"
+            },
+            {
+                "user": "U05V9N22ZUK",
+                "ts": "1704362805.955149"
+            },
+            {
+                "user": "U05V379NETU",
+                "ts": "1704365643.655189"
+            },
+            {
+                "user": "U05V379NETU",
+                "ts": "1704365661.033219"
+            },
+            {
+                "user": "U05V379NETU",
+                "ts": "1704365700.904429"
+            },
+            {
+                "user": "U05V9N22ZUK",
+                "ts": "1704365965.717239"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "O6wzx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "최근 HRDNet 어플로 QR 출석이 입실 찍고 확인해도,\n퇴실 즈음에 확인하면 입실 전이라고 뜨는 경우가 있던데 이런 문제 해결하신 분 계신가요?\n최근 한달간 두번째 발생하는 일이라 화나네요."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05UNMQ4LP9",
+        "type": "message",
+        "ts": "1704361871.955529",
+        "client_msg_id": "e0227404-752d-4195-aae7-3e591ac0a47e",
+        "text": "포기하고 결석 4번째 입니다 :joy:",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "eef278e1672b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5974738227319_eef278e1672b038da8b1_72.jpg",
+            "first_name": "김윤겸",
+            "real_name": "김윤겸",
+            "display_name": "김윤겸",
+            "team": "T05UGFFGL07",
+            "name": "dbsrua110525",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1704361242.722959",
+        "parent_user_id": "U05V9N22ZUK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iigzC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "포기하고 결석 4번째 입니다 "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "joy",
+                                "unicode": "1f602"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "sob",
+                "users": [
+                    "U05V9N22ZUK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05V9N22ZUK",
+        "type": "message",
+        "ts": "1704361905.721319",
+        "client_msg_id": "fcaa0a8f-2478-46f4-b6a6-20676d07c161",
+        "text": "답이 없군요. ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "0698995c863f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5998310079844_0698995c863fed7643f0_72.png",
+            "first_name": "TaeHan",
+            "real_name": "TaeHan Kim",
+            "display_name": "김태한",
+            "team": "T05UGFFGL07",
+            "name": "kthnineone",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1704361242.722959",
+        "parent_user_id": "U05V9N22ZUK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aRTgQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "답이 없군요. ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05UNMQ4LP9",
+        "type": "message",
+        "ts": "1704361985.334899",
+        "client_msg_id": "a2300479-32d2-4b5d-8400-7adbe2ffa2f9",
+        "text": "하루하루가 지원금이랑도 직결될텐데...ㅠㅠ",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "eef278e1672b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5974738227319_eef278e1672b038da8b1_72.jpg",
+            "first_name": "김윤겸",
+            "real_name": "김윤겸",
+            "display_name": "김윤겸",
+            "team": "T05UGFFGL07",
+            "name": "dbsrua110525",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1704361242.722959",
+        "parent_user_id": "U05V9N22ZUK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cZs+k",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "하루하루가 지원금이랑도 직결될텐데...ㅠㅠ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05V9N22ZUK",
+        "type": "message",
+        "ts": "1704362120.426599",
+        "client_msg_id": "7e1c48d7-d5c0-4bd8-b2d2-97dbb97c93b6",
+        "text": "지원금도 있고 수료 요건도 있을텐데 그냥 눈 뜨고 코베이네요.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "0698995c863f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5998310079844_0698995c863fed7643f0_72.png",
+            "first_name": "TaeHan",
+            "real_name": "TaeHan Kim",
+            "display_name": "김태한",
+            "team": "T05UGFFGL07",
+            "name": "kthnineone",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1704361242.722959",
+        "parent_user_id": "U05V9N22ZUK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HzBa\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "지원금도 있고 수료 요건도 있을텐데 그냥 눈 뜨고 코베이네요."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05V9LP47V0",
+        "type": "message",
+        "ts": "1704362571.719709",
+        "client_msg_id": "5c3260f4-9f14-47b3-9c9a-9adf15b9c17d",
+        "text": "저는 입실하고 HRDNet 어플을 죽이고, 저녁에 다시 실행시켜서 처리하고 있습니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "54d9ef7119e7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-06\/5993912366662_54d9ef7119e784b29212_72.jpg",
+            "first_name": "문정의",
+            "real_name": "문정의",
+            "display_name": "문정의",
+            "team": "T05UGFFGL07",
+            "name": "axa301",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1704361242.722959",
+        "parent_user_id": "U05V9N22ZUK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "14upD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "저는 입실하고 HRDNet 어플을 죽이고, 저녁에 다시 실행시켜서 처리하고 있습니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05V9N22ZUK",
+        "type": "message",
+        "ts": "1704362805.955149",
+        "client_msg_id": "9b1031b0-0ce0-4dec-b7bc-445896d7f3a0",
+        "text": "<@U05V9LP47V0> 어플 죽인다는게 어떤 동작인가요?? 저는 안드로이드라 뒤로가기로 종료 버튼 화면 띄운 다음 종료합니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "0698995c863f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5998310079844_0698995c863fed7643f0_72.png",
+            "first_name": "TaeHan",
+            "real_name": "TaeHan Kim",
+            "display_name": "김태한",
+            "team": "T05UGFFGL07",
+            "name": "kthnineone",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1704361242.722959",
+        "parent_user_id": "U05V9N22ZUK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+MRsJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05V9LP47V0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 어플 죽인다는게 어떤 동작인가요?? 저는 안드로이드라 뒤로가기로 종료 버튼 화면 띄운 다음 종료합니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05V379NETU",
+        "type": "message",
+        "ts": "1704365643.655189",
+        "client_msg_id": "53ada23d-2774-4a89-8c19-1cfc22ebc9a6",
+        "text": "최근앱? 백그라운드? 거기서 아예 지우신다는 것 같네요 전 이렇게 하니까 오류 없었습니다",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "ffacc530c1ba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/6012256954656_ffacc530c1baefd9bc1c_72.jpg",
+            "first_name": "신주용",
+            "real_name": "신주용",
+            "display_name": "신주용",
+            "team": "T05UGFFGL07",
+            "name": "robotshin1608",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1704361242.722959",
+        "parent_user_id": "U05V9N22ZUK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "crle+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "최근앱? 백그라운드? 거기서 아예 지우신다는 것 같네요 전 이렇게 하니까 오류 없었습니다"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "",
+        "files": [
+            {
+                "id": "F06C84F8DNJ",
+                "created": 1704365657,
+                "timestamp": 1704365657,
+                "name": "Screenshot_20240104_195410_One UI Home.jpg",
+                "title": "Screenshot_20240104_195410_One UI Home.jpg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U05V379NETU",
+                "user_team": "T05UGFFGL07",
+                "editable": false,
+                "size": 94720,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F06C84F8DNJ\/screenshot_20240104_195410_one_ui_home.jpg?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F06C84F8DNJ\/download\/screenshot_20240104_195410_one_ui_home.jpg?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06C84F8DNJ-7444c4165d\/screenshot_20240104_195410_one_ui_home_64.jpg?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06C84F8DNJ-7444c4165d\/screenshot_20240104_195410_one_ui_home_80.jpg?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06C84F8DNJ-7444c4165d\/screenshot_20240104_195410_one_ui_home_360.jpg?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_360_w": 317,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06C84F8DNJ-7444c4165d\/screenshot_20240104_195410_one_ui_home_480.jpg?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_480_w": 423,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06C84F8DNJ-7444c4165d\/screenshot_20240104_195410_one_ui_home_160.jpg?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06C84F8DNJ-7444c4165d\/screenshot_20240104_195410_one_ui_home_720.jpg?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_720_w": 635,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06C84F8DNJ-7444c4165d\/screenshot_20240104_195410_one_ui_home_800.jpg?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_800_w": 800,
+                "thumb_800_h": 907,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06C84F8DNJ-7444c4165d\/screenshot_20240104_195410_one_ui_home_960.jpg?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_960_w": 846,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06C84F8DNJ-7444c4165d\/screenshot_20240104_195410_one_ui_home_1024.jpg?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_1024_w": 903,
+                "thumb_1024_h": 1024,
+                "original_w": 1812,
+                "original_h": 2055,
+                "thumb_tiny": "AwAwACrPGPSirrWS8bXI45yKryx+VIVLZ96dmK4wClxQCACOpPQ+lAapGIRSYpxpKANcriqF2B5v4VPhf+ey\/n\/9eq9wQGxu3YA5rSWxKK9OT74pM0qffFQUK4xxTKfIeaZSAQdalXB5PamYpRQBIWHpSEgjpSUoPrRcLjCOc0mKeSKbQI\/\/2Q==",
+                "permalink": "https:\/\/fcupstageai1.slack.com\/files\/U05V379NETU\/F06C84F8DNJ\/screenshot_20240104_195410_one_ui_home.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T05UGFFGL07-F06C84F8DNJ-8f22aedd2f",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U05V379NETU",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hCn+5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1704365661.033219",
+        "client_msg_id": "3cb19a49-2745-46c6-baf5-d666c7ff2e53",
+        "thread_ts": "1704361242.722959",
+        "parent_user_id": "U05V9N22ZUK"
+    },
+    {
+        "user": "U05V379NETU",
+        "type": "message",
+        "ts": "1704365700.904429",
+        "client_msg_id": "43343dc8-b04d-47a5-bbf6-e36a5f3eb1cb",
+        "text": "여기서 hrd앱 위로 슬라이드하면 죽는다는 뜻으로 말씀하신것같아요",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "ffacc530c1ba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/6012256954656_ffacc530c1baefd9bc1c_72.jpg",
+            "first_name": "신주용",
+            "real_name": "신주용",
+            "display_name": "신주용",
+            "team": "T05UGFFGL07",
+            "name": "robotshin1608",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1704361242.722959",
+        "parent_user_id": "U05V9N22ZUK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DjyST",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "여기서 hrd앱 위로 슬라이드하면 죽는다는 뜻으로 말씀하신것같아요"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05V9N22ZUK",
+        "type": "message",
+        "ts": "1704365965.717239",
+        "client_msg_id": "da2528a1-38a5-4705-b9db-13f6be872025",
+        "text": "<@U05V379NETU>답변 감사드립니다. 한번 시도해봐야겠습니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "0698995c863f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5998310079844_0698995c863fed7643f0_72.png",
+            "first_name": "TaeHan",
+            "real_name": "TaeHan Kim",
+            "display_name": "김태한",
+            "team": "T05UGFFGL07",
+            "name": "kthnineone",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1704361242.722959",
+        "parent_user_id": "U05V9N22ZUK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "y1cBm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05V379NETU"
+                            },
+                            {
+                                "type": "text",
+                                "text": "답변 감사드립니다. 한번 시도해봐야겠습니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U05V379NETU"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

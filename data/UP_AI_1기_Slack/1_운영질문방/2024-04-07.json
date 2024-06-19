@@ -1,0 +1,109 @@
+[
+    {
+        "user": "U05UNMQ4LP9",
+        "type": "message",
+        "ts": "1712546704.160019",
+        "client_msg_id": "c57ad92c-d5b3-49b2-9bee-fda10faa5374",
+        "text": "오늘부터 대회 기간 동안은 중간 출석이 없는걸까요?",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "eef278e1672b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5974738227319_eef278e1672b038da8b1_72.jpg",
+            "first_name": "김윤겸",
+            "real_name": "김윤겸",
+            "display_name": "김윤겸",
+            "team": "T05UGFFGL07",
+            "name": "dbsrua110525",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712546704.160019",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1712548637.158399",
+        "reply_users": [
+            "U05VAHXECP6"
+        ],
+        "replies": [
+            {
+                "user": "U05VAHXECP6",
+                "ts": "1712548637.158399"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1712548637.158399",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WgYfZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "오늘부터 대회 기간 동안은 중간 출석이 없는걸까요?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05VAHXECP6",
+        "type": "message",
+        "ts": "1712548637.158399",
+        "client_msg_id": "33733139-1b5f-4b40-8ccf-91ca1370c281",
+        "text": "<@U05UNMQ4LP9> 안녕하세요. 윤겸님! 네. 맞습니다.\n대회 기간은 저희가 기존에 안내드린 것처럼 중간 출석이 없습니다.\n따라서, 입실과 퇴실 시에만 QR &amp; 스크린샷 출석 참여해주시면 되겠습니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "50abee101814",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-11\/6044824153712_50abee1018149e21919b_72.jpg",
+            "first_name": "이상영",
+            "real_name": "이상영",
+            "display_name": "FC 이상영 매니저",
+            "team": "T05UGFFGL07",
+            "name": "sangyeong.lee",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712546704.160019",
+        "parent_user_id": "U05UNMQ4LP9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lpUh9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05UNMQ4LP9"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 안녕하세요. 윤겸님! 네. 맞습니다.\n대회 기간은 저희가 기존에 안내드린 것처럼 중간 출석이 없습니다.\n따라서, 입실과 퇴실 시에만 QR & 스크린샷 출석 참여해주시면 되겠습니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U05UNMQ4LP9"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

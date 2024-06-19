@@ -1,0 +1,1042 @@
+[
+    {
+        "user": "U05UT0JG4BZ",
+        "type": "message",
+        "ts": "1696494613.536909",
+        "client_msg_id": "c102a874-0255-425a-8a2c-1c35081f3047",
+        "text": "감사합니다",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "g9153b403f05",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/9153b403f05c51f82cac8dec3d6d8e3a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "김다운",
+            "real_name": "김다운",
+            "display_name": "김다운",
+            "team": "T05UGFFGL07",
+            "name": "ekdns7500",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696474199.945089",
+        "parent_user_id": "U05UT0JG4BZ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4ZnVA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "감사합니다"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands::skin-tone-2",
+                "users": [
+                    "U05UNC6FNK1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05UUSA6G5V",
+        "type": "message",
+        "ts": "1696498056.513189",
+        "client_msg_id": "15fe1cd9-88e5-4687-a48b-6115a2e05abb",
+        "text": "안녕하세요 개인적인 프로젝트 진행 일정이 다음 주 중에 결정이 되어 애매하게 된 상황입니다. 교육기간이 7개월 정도 되어 내일배움카드 교육 철회 가능 기간이 14일이 맞는지 정확히 확인 받을 수 있을 까요? 우선 강의는 수강으로 진행하려고 합니다 !",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "d70a0a97cdfb",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/6008065411153_d70a0a97cdfb413f29fe_72.png",
+            "first_name": "ImSH",
+            "real_name": "ImSH",
+            "display_name": "임서현",
+            "team": "T05UGFFGL07",
+            "name": "dlatjgus0612",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696498056.513189",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1696551778.958579",
+        "reply_users": [
+            "U05UNC6FNK1"
+        ],
+        "replies": [
+            {
+                "user": "U05UNC6FNK1",
+                "ts": "1696551778.958579"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "k=ZAC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "안녕하세요 개인적인 프로젝트 진행 일정이 다음 주 중에 결정이 되어 애매하게 된 상황입니다. 교육기간이 7개월 정도 되어 내일배움카드 교육 철회 가능 기간이 14일이 맞는지 정확히 확인 받을 수 있을 까요? 우선 강의는 수강으로 진행하려고 합니다 !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "U05UNC6FNK1",
+                    "U05UUSA6G5V"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U05UNC6FNK1",
+        "type": "message",
+        "ts": "1696551778.958579",
+        "client_msg_id": "48d2c546-97a6-4651-a125-f169c1710d18",
+        "text": "네 철회기간 14일이 맞습니다",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "260d154ea1e2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5979526758263_260d154ea1e2177fd001_72.jpg",
+            "first_name": "FC",
+            "real_name": "FC 하시안 매니저",
+            "display_name": "FC 하시안 매니저",
+            "team": "T05UGFFGL07",
+            "name": "xianha",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696498056.513189",
+        "parent_user_id": "U05UUSA6G5V",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xgV\/W",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "네 철회기간 14일이 맞습니다"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0602CFAB7B",
+        "type": "message",
+        "ts": "1696556094.506759",
+        "edited": {
+            "user": "U0602CFAB7B",
+            "ts": "1696556127.000000"
+        },
+        "client_msg_id": "7d13dd4d-ceea-4182-860f-b4c9debb9938",
+        "text": "안녕하세요. 다음 카톡을 수신하였는데 방문 접수를 해야되는것인지 알고싶습니다!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "800cfd78266c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-08\/6020558918625_800cfd78266cece46c2d_72.jpg",
+            "first_name": "박준현",
+            "real_name": "박준현",
+            "display_name": "박준현",
+            "team": "T05UGFFGL07",
+            "name": "wikithom91",
+            "is_restricted": true,
+            "is_ultra_restricted": true
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "g7BD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "안녕하세요. 다음 카톡을 수신하였는데 방문 접수를 해야되는것인지 알고싶습니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0602CFAB7B",
+        "type": "message",
+        "ts": "1696556097.077049",
+        "client_msg_id": "8b6da3ed-8daf-43b5-b958-60ebd31b9559",
+        "text": "[온라인 수강신청 안내]\n신청하신 패스트캠퍼스 인공지능(AI) 부트캠프, 2회차 과정에 선발 되셨습니다. 해당 훈련기관을 방문하셔서 자비부담금 결제 및 훈련생 등록을 하시기 바랍니다.자세한 사항은 훈련기관에 문의(02-517-9934)하시기 바랍니다. 감사합니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "800cfd78266c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-08\/6020558918625_800cfd78266cece46c2d_72.jpg",
+            "first_name": "박준현",
+            "real_name": "박준현",
+            "display_name": "박준현",
+            "team": "T05UGFFGL07",
+            "name": "wikithom91",
+            "is_restricted": true,
+            "is_ultra_restricted": true
+        },
+        "thread_ts": "1696556097.077049",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1696556187.565729",
+        "reply_users": [
+            "U05UNC6FNK1",
+            "U05UYAVRTSR"
+        ],
+        "replies": [
+            {
+                "user": "U05UNC6FNK1",
+                "ts": "1696556145.481399"
+            },
+            {
+                "user": "U05UYAVRTSR",
+                "ts": "1696556187.565729"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lWTb7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "[온라인 수강신청 안내]\n신청하신 패스트캠퍼스 인공지능(AI) 부트캠프, 2회차 과정에 선발 되셨습니다. 해당 훈련기관을 방문하셔서 자비부담금 결제 및 훈련생 등록을 하시기 바랍니다.자세한 사항은 훈련기관에 문의(02-517-9934)하시기 바랍니다. 감사합니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "U05UNC6FNK1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05UNC6FNK1",
+        "type": "message",
+        "ts": "1696556145.481399",
+        "client_msg_id": "62105dbf-6906-4392-a8d9-75ef0df7341f",
+        "text": "별도 방문 없이 대기해주시면 등록해드릴 예정입니다",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "260d154ea1e2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5979526758263_260d154ea1e2177fd001_72.jpg",
+            "first_name": "FC",
+            "real_name": "FC 하시안 매니저",
+            "display_name": "FC 하시안 매니저",
+            "team": "T05UGFFGL07",
+            "name": "xianha",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696556097.077049",
+        "parent_user_id": "U0602CFAB7B",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3e+9o",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "별도 방문 없이 대기해주시면 등록해드릴 예정입니다"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "slightly_smiling_face",
+                "users": [
+                    "U0602CFAB7B"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05UYAVRTSR",
+        "type": "message",
+        "ts": "1696556187.565729",
+        "client_msg_id": "aa8f6fce-e92b-4274-9174-2e166baa49f9",
+        "text": "네 준현님. 하시안 매니저님께서 말씀해주신대로 훈련생 등록까지 완료하였으니 수강신청 완료로 확인 부탁드립니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "g6e6ee900c48",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e6ee900c48c19701d150f52a69af64a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "김수현",
+            "real_name": "김수현",
+            "display_name": "FC 김수현 매니저",
+            "team": "T05UGFFGL07",
+            "name": "suhyunkim",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696556097.077049",
+        "parent_user_id": "U0602CFAB7B",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Gh4q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "네 준현님. 하시안 매니저님께서 말씀해주신대로 훈련생 등록까지 완료하였으니 수강신청 완료로 확인 부탁드립니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "slightly_smiling_face",
+                "users": [
+                    "U0602CFAB7B"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05V5B88ULD",
+        "type": "message",
+        "ts": "1696559553.890649",
+        "client_msg_id": "7c31d6de-341d-45e1-b071-d2a0fd774ed6",
+        "text": "<@U05UNC6FNK1> 발급예상날짜는 나와있지 않고, 아직 수령대기 상태가아닌데, 이런경우는어떻게해야되나요?",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "80cc6894efa6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/6017299669088_80cc6894efa66060bc9e_72.png",
+            "first_name": "전수연",
+            "real_name": "전수연",
+            "display_name": "전수연",
+            "team": "T05UGFFGL07",
+            "name": "rachel.sy.jun",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696487308.803649",
+        "parent_user_id": "U05V5B88ULD",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6Rb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05UNC6FNK1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 발급예상날짜는 나와있지 않고, 아직 수령대기 상태가아닌데, 이런경우는어떻게해야되나요?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05UNC6FNK1",
+        "type": "message",
+        "ts": "1696559614.424849",
+        "client_msg_id": "132f5e2f-ce4a-4fcb-ac31-4e5f08d8c839",
+        "text": "수연님 내일배움카드 신청은 되었을까요? 발급중이 어떤 단계까지 왔는지 확인해주시고,\n수령은 우편 아닌 은행방문 수령으로 진행해주세요",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "260d154ea1e2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5979526758263_260d154ea1e2177fd001_72.jpg",
+            "first_name": "FC",
+            "real_name": "FC 하시안 매니저",
+            "display_name": "FC 하시안 매니저",
+            "team": "T05UGFFGL07",
+            "name": "xianha",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696487308.803649",
+        "parent_user_id": "U05V5B88ULD",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CAz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "수연님 내일배움카드 신청은 되었을까요? 발급중이 어떤 단계까지 왔는지 확인해주시고,\n수령은 우편 아닌 은행방문 수령으로 진행해주세요"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05V5B88ULD",
+        "type": "message",
+        "ts": "1696561281.434259",
+        "client_msg_id": "06141EB0-1404-4532-82ED-922367D06327",
+        "text": "현재 상태는 ‘신청(접수)’상태이고, 은행방문 수령으로 진행했습니다. 다음주월요일이공휴일이라서만약화요일까지발급이안되면, 수업신청불가능하다고간주해야될까요? ",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "80cc6894efa6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/6017299669088_80cc6894efa66060bc9e_72.png",
+            "first_name": "전수연",
+            "real_name": "전수연",
+            "display_name": "전수연",
+            "team": "T05UGFFGL07",
+            "name": "rachel.sy.jun",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696487308.803649",
+        "parent_user_id": "U05V5B88ULD",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zPn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "현재"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "상태는"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ‘"
+                            },
+                            {
+                                "type": "text",
+                                "text": "신청"
+                            },
+                            {
+                                "type": "text",
+                                "text": "("
+                            },
+                            {
+                                "type": "text",
+                                "text": "접수"
+                            },
+                            {
+                                "type": "text",
+                                "text": ")’"
+                            },
+                            {
+                                "type": "text",
+                                "text": "상태이고"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", "
+                            },
+                            {
+                                "type": "text",
+                                "text": "은행방문"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "수령으로"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "진행했습니다"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". "
+                            },
+                            {
+                                "type": "text",
+                                "text": "다음주월요일이공휴일이라서만약화요일까지발급이안되면"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", "
+                            },
+                            {
+                                "type": "text",
+                                "text": "수업신청불가능하다고간주해야될까요"
+                            },
+                            {
+                                "type": "text",
+                                "text": "? "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05UNC6FNK1",
+        "type": "message",
+        "ts": "1696561418.784399",
+        "client_msg_id": "5cae37c5-10ca-4509-aaeb-d68e0e64b3a6",
+        "text": "아니요 다만 출결이 안되는 경우로 인지하시고, 화요일 이후 한번더 공유해주세요",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "260d154ea1e2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5979526758263_260d154ea1e2177fd001_72.jpg",
+            "first_name": "FC",
+            "real_name": "FC 하시안 매니저",
+            "display_name": "FC 하시안 매니저",
+            "team": "T05UGFFGL07",
+            "name": "xianha",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696487308.803649",
+        "parent_user_id": "U05V5B88ULD",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Utj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "아니요 다만 출결이 안되는 경우로 인지하시고, 화요일 이후 한번더 공유해주세요"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0600G38JFL",
+        "type": "message",
+        "ts": "1696565059.821839",
+        "client_msg_id": "ab4d0b19-af93-480b-90b6-52bcb61e2ebf",
+        "text": "안녕하세요 예정된 타 일정이 아직 확정되지 않아 내일배움카드 교육 철회 가능 기간에 대해 문의드립니다. 10.23(월) 까지 철회 신청이 가능한건지 혹은 언제까지 철회가 가능한지 알고 싶습니다!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "5ca38fd10371",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/6000547394338_5ca38fd1037157dd4033_72.png",
+            "first_name": "송민환",
+            "real_name": "송민환",
+            "display_name": "송민환",
+            "team": "T05UGFFGL07",
+            "name": "codestudy25",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696565059.821839",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1696567637.042869",
+        "reply_users": [
+            "U05UNC6FNK1"
+        ],
+        "replies": [
+            {
+                "user": "U05UNC6FNK1",
+                "ts": "1696567637.042869"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CiT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "안녕하세요 예정된 타 일정이 아직 확정되지 않아 내일배움카드 교육 철회 가능 기간에 대해 문의드립니다. 10.23(월) 까지 철회 신청이 가능한건지 혹은 언제까지 철회가 가능한지 알고 싶습니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U05V7V2AV8A"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05V5B88ULD",
+        "type": "message",
+        "ts": "1696565861.194399",
+        "client_msg_id": "13FDC4D0-8AC6-4B99-8B8E-184B7F236D24",
+        "text": "아네, 알겠습니다. 다시한번공유해드릴께요.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "80cc6894efa6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/6017299669088_80cc6894efa66060bc9e_72.png",
+            "first_name": "전수연",
+            "real_name": "전수연",
+            "display_name": "전수연",
+            "team": "T05UGFFGL07",
+            "name": "rachel.sy.jun",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696487308.803649",
+        "parent_user_id": "U05V5B88ULD",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "x\/Yp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "아네"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", "
+                            },
+                            {
+                                "type": "text",
+                                "text": "알겠습니다"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". "
+                            },
+                            {
+                                "type": "text",
+                                "text": "다시한번공유해드릴께요"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands::skin-tone-2",
+                "users": [
+                    "U05UNC6FNK1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05UNC6FNK1",
+        "type": "message",
+        "ts": "1696567637.042869",
+        "edited": {
+            "user": "U05UNC6FNK1",
+            "ts": "1696567662.000000"
+        },
+        "client_msg_id": "e1c3e765-2ebc-4374-b065-a12deb2f7a05",
+        "text": "네 23일까지 입니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "260d154ea1e2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5979526758263_260d154ea1e2177fd001_72.jpg",
+            "first_name": "FC",
+            "real_name": "FC 하시안 매니저",
+            "display_name": "FC 하시안 매니저",
+            "team": "T05UGFFGL07",
+            "name": "xianha",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696565059.821839",
+        "parent_user_id": "U0600G38JFL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fxS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "네 23일까지 입니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U060J3NGX08",
+        "type": "message",
+        "ts": "1696575191.509699",
+        "client_msg_id": "e7316fe3-d958-40ed-a62f-42bad080a199",
+        "text": "안녕하세요. 제가 내일배움카드가 화요일 오전 열 시 이후에 발급 완료가 될 것 같은데 혹시 수강 신청을 화요일 오전 열 시까지 못 하면 수업을 듣지 못하는 것인지 궁금하여 문의드립니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "gbc825ac18ac",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/bc825ac18ac18fdb67a86751711cbdba.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "조서영",
+            "real_name": "조서영",
+            "display_name": "조서영",
+            "team": "T05UGFFGL07",
+            "name": "pink495sy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696575191.509699",
+        "reply_count": 19,
+        "reply_users_count": 4,
+        "latest_reply": "1697152716.027779",
+        "reply_users": [
+            "U05UNC6FNK1",
+            "U060J3NGX08",
+            "U06061L4S64",
+            "U05V81G5ZDY"
+        ],
+        "replies": [
+            {
+                "user": "U05UNC6FNK1",
+                "ts": "1696575216.301869"
+            },
+            {
+                "user": "U05UNC6FNK1",
+                "ts": "1696575218.623129"
+            },
+            {
+                "user": "U060J3NGX08",
+                "ts": "1696575255.390319"
+            },
+            {
+                "user": "U060J3NGX08",
+                "ts": "1696899460.854969"
+            },
+            {
+                "user": "U05UNC6FNK1",
+                "ts": "1696915217.804059"
+            },
+            {
+                "user": "U060J3NGX08",
+                "ts": "1696915457.256519"
+            },
+            {
+                "user": "U05UNC6FNK1",
+                "ts": "1696915872.771149"
+            },
+            {
+                "user": "U060J3NGX08",
+                "ts": "1696916184.860959"
+            },
+            {
+                "user": "U05UNC6FNK1",
+                "ts": "1696916244.603339"
+            },
+            {
+                "user": "U060J3NGX08",
+                "ts": "1696916262.076569"
+            },
+            {
+                "user": "U05UNC6FNK1",
+                "ts": "1696997381.045679"
+            },
+            {
+                "user": "U05UNC6FNK1",
+                "ts": "1696997384.014119"
+            },
+            {
+                "user": "U05UNC6FNK1",
+                "ts": "1696997392.175189"
+            },
+            {
+                "user": "U05UNC6FNK1",
+                "ts": "1696997666.743829"
+            },
+            {
+                "user": "U06061L4S64",
+                "ts": "1697001017.917469"
+            },
+            {
+                "user": "U05UNC6FNK1",
+                "ts": "1697001309.308919"
+            },
+            {
+                "user": "U060J3NGX08",
+                "ts": "1697009119.827659"
+            },
+            {
+                "user": "U060J3NGX08",
+                "ts": "1697105157.843369"
+            },
+            {
+                "user": "U05V81G5ZDY",
+                "ts": "1697152716.027779"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UhCh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "안녕하세요. 제가 내일배움카드가 화요일 오전 열 시 이후에 발급 완료가 될 것 같은데 혹시 수강 신청을 화요일 오전 열 시까지 못 하면 수업을 듣지 못하는 것인지 궁금하여 문의드립니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "U05UNC6FNK1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05UNC6FNK1",
+        "type": "message",
+        "ts": "1696575216.301869",
+        "client_msg_id": "0e962866-af77-43fb-8862-71996e99230a",
+        "text": "화요일 은행수령으로 진행 - 진행상황 해당스레드로 공유해주세요",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "260d154ea1e2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5979526758263_260d154ea1e2177fd001_72.jpg",
+            "first_name": "FC",
+            "real_name": "FC 하시안 매니저",
+            "display_name": "FC 하시안 매니저",
+            "team": "T05UGFFGL07",
+            "name": "xianha",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696575191.509699",
+        "parent_user_id": "U060J3NGX08",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xsV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "화요일 은행수령으로 진행 - 진행상황 해당스레드로 공유해주세요"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05UNC6FNK1",
+        "type": "message",
+        "ts": "1696575218.623129",
+        "client_msg_id": "4aadcc82-dc12-4744-a421-7aa51dc18a75",
+        "text": "수강 가능합니다!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "260d154ea1e2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5979526758263_260d154ea1e2177fd001_72.jpg",
+            "first_name": "FC",
+            "real_name": "FC 하시안 매니저",
+            "display_name": "FC 하시안 매니저",
+            "team": "T05UGFFGL07",
+            "name": "xianha",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696575191.509699",
+        "parent_user_id": "U060J3NGX08",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "73a79",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "수강 가능합니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U060J3NGX08",
+        "type": "message",
+        "ts": "1696575255.390319",
+        "client_msg_id": "88bae7ae-b5dc-46b0-ae24-45a2a8740d25",
+        "text": "화요일에 확실히 은행 수령은 가능할 것 같습니다! 진행 상황 스레드로 공유드리겠습니다, 감사합니다~",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "gbc825ac18ac",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/bc825ac18ac18fdb67a86751711cbdba.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "조서영",
+            "real_name": "조서영",
+            "display_name": "조서영",
+            "team": "T05UGFFGL07",
+            "name": "pink495sy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696575191.509699",
+        "parent_user_id": "U060J3NGX08",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "16U",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "화요일에 확실히 은행 수령은 가능할 것 같습니다! 진행 상황 스레드로 공유드리겠습니다, 감사합니다~"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands::skin-tone-2",
+                "users": [
+                    "U05UNC6FNK1"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]
