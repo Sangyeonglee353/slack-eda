@@ -1,8 +1,11 @@
 import streamlit as st
 import pandas as pd
 from PIL import Image
+from wordcloud import WordCloud
+import matplotlib.pyplot as plt
 import os
 import json
+import re
 
 def main():
     # Set page config
@@ -205,6 +208,26 @@ def main():
     with col4:
         with st.container(border=True):
             st.write("주요 키워드")
+          
+            # Wordcloud 생성
+            text = " ".join(message['text'] for message in all_messages if 'text' in message)
+            
+            # 한글 깨짐 방지: font 설정
+            font_path = "../assets/fonts/NotoSansKR-Regular.ttf"  
+
+            # 불용어 처리
+            text = re.sub(r'<@[^>]+>', '', text) # 유니코드 제거: 꺽쇠 괄호 안의 텍스트
+            text = re.sub(r'\n+', ' ', text) # 연속된 개행 문자 제거
+            text = re.sub(r'&gt;', ' ', text) # &gt; 패턴 제거
+            text = re.sub(r'&lt;', ' ', text) # &lt; 패턴 제거
+
+            wordcloud = WordCloud(font_path=font_path, width=800, height=400, background_color='white').generate(text)
+            
+            # Wordcloud 표시
+            plt.figure(figsize=(10, 5))
+            plt.imshow(wordcloud, interpolation='bilinear')
+            plt.axis('off')
+            st.pyplot(plt)
     
     with col5:
         with st.container(border=True):
