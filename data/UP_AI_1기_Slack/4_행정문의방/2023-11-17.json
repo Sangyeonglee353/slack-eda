@@ -1,0 +1,89 @@
+[
+    {
+        "user": "U05V561TXUL",
+        "type": "message",
+        "ts": "1700216320.400699",
+        "edited": {
+            "user": "U05V561TXUL",
+            "ts": "1700442555.000000"
+        },
+        "client_msg_id": "7f96ec3a-2a25-400c-93e7-f25365c75c28",
+        "text": "<@U05UNC6FNK1> <@U05V81G5ZDY> 안녕하세요 금일 병원 방문 목적으로 16:41~18:46 외출 복귀 후에 퇴실했습니다. 앱에 외출로 뜨는데 진료확인서 제출하면 될까요??",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "b4604568d88f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-08\/6448187852305_b4604568d88f0ae3e9b1_72.png",
+            "first_name": "최장원",
+            "real_name": "최장원",
+            "display_name": "",
+            "team": "T05UGFFGL07",
+            "name": "cjw7378",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1700216320.400699",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1700479392.031219",
+        "reply_users": [
+            "U05UNC6FNK1",
+            "U05V561TXUL"
+        ],
+        "replies": [
+            {
+                "user": "U05UNC6FNK1",
+                "ts": "1700443697.744749"
+            },
+            {
+                "user": "U05V561TXUL",
+                "ts": "1700443772.600019"
+            },
+            {
+                "user": "U05V561TXUL",
+                "ts": "1700479392.031219"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "f3mim",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05UNC6FNK1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05V81G5ZDY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 안녕하세요 금일 병원 방문 목적으로 16:41~18:46 외출 복귀 후에 퇴실했습니다. 앱에 외출로 뜨는데 진료확인서 제출하면 될까요??"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "U05UNC6FNK1"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

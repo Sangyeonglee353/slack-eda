@@ -1,0 +1,63 @@
+[
+    {
+        "user": "U060D1KJECR",
+        "type": "message",
+        "ts": "1715155031.753939",
+        "client_msg_id": "9a1792fd-744e-44e1-9def-0b368df1b848",
+        "text": "<@U05V81G5ZDY> <@U05UNC6FNK1>\n안녕하세요 메니저님 24.05.07 면접으로 인한 공가 관련 구글 폼 제출했습니다.\n확인해주시면 감사하겠습니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "d024d71b810e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-06\/5993779835878_d024d71b810e837e9532_72.jpg",
+            "first_name": "이현진",
+            "real_name": "이현진",
+            "display_name": "이현진",
+            "team": "T05UGFFGL07",
+            "name": "jinintg",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1715043798.252599",
+        "parent_user_id": "U060D1KJECR",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ENZBG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05V81G5ZDY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05UNC6FNK1"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n안녕하세요 메니저님 24.05.07 면접으로 인한 공가 관련 구글 폼 제출했습니다.\n확인해주시면 감사하겠습니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1::skin-tone-2",
+                "users": [
+                    "U05V81G5ZDY"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

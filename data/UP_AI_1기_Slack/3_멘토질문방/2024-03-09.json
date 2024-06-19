@@ -1,0 +1,42 @@
+[
+    {
+        "user": "U05V7V2AV8A",
+        "type": "message",
+        "ts": "1710036776.313229",
+        "client_msg_id": "86286bbb-e71a-4a6f-95a7-10231f8c902f",
+        "text": "감사합니다!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "28368614e02a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5987346071766_28368614e02abbfb71bd_72.png",
+            "first_name": "andrew",
+            "real_name": "andrew jang",
+            "display_name": "장준규",
+            "team": "T05UGFFGL07",
+            "name": "goldenbeluga",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1709890230.019389",
+        "parent_user_id": "U05V7V2AV8A",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4sMmL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "감사합니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

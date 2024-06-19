@@ -1,0 +1,103 @@
+[
+    {
+        "user": "U060C67EYQ5",
+        "type": "message",
+        "ts": "1710207345.391819",
+        "client_msg_id": "08e61a52-c328-41f7-ac3b-0fc410a30036",
+        "text": "흥미로운 기사가 나왔네요! 단백질 분석 AI의 등장..!!\n\n*[매일경제]‘게임체인저’ 단백질 분석 AI … 생명까지 창조할까*\n<https:\/\/n.news.naver.com\/mnews\/article\/009\/0005270529?sid=105>\n\n&gt; 새로운 단백질 분석 AI '로제타폴드 올 아톰(RoseTTAFold All-Atom)'을 공개했다.\n&gt; 베이커 교수가 30년 가까이 개발 중인 단백질 분석·예측·설계 프로그램 시리즈인 '로제타'의 최신작이다.\n&gt; \n&gt; 로제타폴드 올 아톰은 단백질과 DNA, RNA 등 모든 생체 분자를 모델링하고 설계할 수 있는 심층 분석 AI다. \n&gt; \n&gt; 베이커 교수팀은 \"단순한 단백질 아미노산 분석을 넘어 완전한 생물학적 구성 요소를 모델링할 수 있다\"며 \"흑백TV를 보다가 컬러TV로 전환되는 것과 비슷한 수준의 분자생물학적 혁신\"이라고 소개했다. ",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "831ed525b276",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-11-14\/6192884585138_831ed525b276222009d0_72.png",
+            "first_name": "업스테이지",
+            "real_name": "업스테이지 김의겸(Dave)",
+            "display_name": "UP 김의겸(Dave) 매니저",
+            "team": "T05UGFFGL07",
+            "name": "euigyum",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/imgnews.pstatic.net\/image\/009\/2024\/03\/11\/0005270529_001_20240311162613217.jpg?type=w800",
+                "image_width": 800,
+                "image_height": 382,
+                "image_bytes": 70035,
+                "from_url": "https:\/\/n.news.naver.com\/mnews\/article\/009\/0005270529?sid=105",
+                "service_icon": "https:\/\/ssl.pstatic.net\/static.news\/image\/news\/m\/2018\/favicon\/06\/android_legacy_xxxhpdi_192x192.png",
+                "id": 1,
+                "original_url": "https:\/\/n.news.naver.com\/mnews\/article\/009\/0005270529?sid=105",
+                "fallback": "'게임체인저' 단백질 분석 AI … 생명까지 창조할까",
+                "text": "베이커 美워싱턴대 교수, 단백질 분석 AI '로제타폴드 올 아톰' 공개 단백질·DNA·RNA 등 생체분자 분석·예측 넘어 설계 가능한 AI 과학계·바이오업계 난제 꼽히는 단백질과 소분자 상호작용 분석 생물학분야 기본",
+                "title": "'게임체인저' 단백질 분석 AI … 생명까지 창조할까",
+                "title_link": "https:\/\/n.news.naver.com\/mnews\/article\/009\/0005270529?sid=105",
+                "service_name": "n.news.naver.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "a5RUM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "흥미로운 기사가 나왔네요! 단백질 분석 AI의 등장..!!\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "[매일경제]‘게임체인저’ 단백질 분석 AI … 생명까지 창조할까",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/n.news.naver.com\/mnews\/article\/009\/0005270529?sid=105"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "새로운 단백질 분석 AI '로제타폴드 올 아톰(RoseTTAFold All-Atom)'을 공개했다.\n베이커 교수가 30년 가까이 개발 중인 단백질 분석·예측·설계 프로그램 시리즈인 '로제타'의 최신작이다.\n\n로제타폴드 올 아톰은 단백질과 DNA, RNA 등 모든 생체 분자를 모델링하고 설계할 수 있는 심층 분석 AI다. \n\n베이커 교수팀은 \"단순한 단백질 아미노산 분석을 넘어 완전한 생물학적 구성 요소를 모델링할 수 있다\"며 \"흑백TV를 보다가 컬러TV로 전환되는 것과 비슷한 수준의 분자생물학적 혁신\"이라고 소개했다. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "귀여운박수",
+                "users": [
+                    "U05UNMQ4LP9",
+                    "U05VAHXECP6",
+                    "U05V4KZR3NW"
+                ],
+                "count": 3
+            },
+            {
+                "name": "sparkles",
+                "users": [
+                    "U05VAHXECP6"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

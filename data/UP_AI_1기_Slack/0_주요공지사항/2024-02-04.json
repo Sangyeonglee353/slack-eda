@@ -1,0 +1,714 @@
+[
+    {
+        "text": "안녕하세요. Upstage AI Lab 수강생 여러분!\n금일부터 CV 경진대회인 Image(Document Type) Classification 대회가 시작되었습니다. 해당 공지를 참고하셔서, 이전 ML 경진대회와 같이 AI Stages에서 팀 생성을 진행해주시기 바랍니다.\n> *Document Type Classification 경진대회 시작 | 팀 생성 요청*\n• *경진대회 전체 기간 (2주)* : 2월 5일 (월) 10:00 ~ 2월 19일 (월) 19:00\n    ◦ 팀 생성 가능 기간 : 2월 6일 (화) 16:00 까지\n• *GPU 서버 운영 기간* : 2월 5일 (월) 10:00 ~ 3월 7일 (목) 16:00",
+        "files": [
+            {
+                "id": "F06HTGTE4EL",
+                "created": 1707096000,
+                "timestamp": 1707096000,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U05VAHXECP6",
+                "user_team": "T05UGFFGL07",
+                "editable": false,
+                "size": 28331,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F06HTGTE4EL\/image.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F06HTGTE4EL\/download\/image.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06HTGTE4EL-c1515c31a0\/image_64.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06HTGTE4EL-c1515c31a0\/image_80.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06HTGTE4EL-c1515c31a0\/image_360.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_360_w": 360,
+                "thumb_360_h": 59,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06HTGTE4EL-c1515c31a0\/image_480.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_480_w": 480,
+                "thumb_480_h": 79,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06HTGTE4EL-c1515c31a0\/image_160.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06HTGTE4EL-c1515c31a0\/image_720.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_720_w": 720,
+                "thumb_720_h": 118,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06HTGTE4EL-c1515c31a0\/image_800.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_800_w": 800,
+                "thumb_800_h": 131,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06HTGTE4EL-c1515c31a0\/image_960.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_960_w": 960,
+                "thumb_960_h": 157,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06HTGTE4EL-c1515c31a0\/image_1024.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 168,
+                "original_w": 1149,
+                "original_h": 188,
+                "thumb_tiny": "AwAHADC6TL9o27R5eOuakwaP46dQAgz7UvNFFABRRRQB\/9k=",
+                "permalink": "https:\/\/fcupstageai1.slack.com\/files\/U05VAHXECP6\/F06HTGTE4EL\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T05UGFFGL07-F06HTGTE4EL-c532b302c6",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U05VAHXECP6",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "o27b\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "안녕하세요. Upstage AI Lab 수강생 여러분!\n금일부터 CV 경진대회인 Image(Document Type) Classification 대회가 시작되었습니다. 해당 공지를 참고하셔서, 이전 ML 경진대회와 같이 AI Stages에서 팀 생성을 진행해주시기 바랍니다.\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Document Type Classification 경진대회 시작 | 팀 생성 요청",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "경진대회 전체 기간 (2주)",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " : 2월 5일 (월) 10:00 ~ 2월 19일 (월) 19:00"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "팀 생성 가능 기간 : 2월 6일 (화) 16:00 까지"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "GPU 서버 운영 기간",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " : 2월 5일 (월) 10:00 ~ 3월 7일 (목) 16:00"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "subtype": "thread_broadcast",
+        "root": {
+            "user": "U05VAHXECP6",
+            "type": "message",
+            "ts": "1704965390.645299",
+            "edited": {
+                "user": "U05VAHXECP6",
+                "ts": "1707096110.000000"
+            },
+            "client_msg_id": "4e715a23-500c-4212-a317-b69274486ab5",
+            "text": "<!channel>\n안녕하세요. Upstage AI Lab 수강생 여러분!\n차주 대회 진행에 앞서 전체 경진대회 일정 및 GPU 사용과 관련한 내용을 미리 전달 드립니다.\n아래 내용을 미리 한번 숙지해주시길 바라며, 자세한 내용은 `1\/15(월) AI Stages 활용법 특강`을 통해 안내드릴 수 있도록 하겠습니다.\n\n:up_ai-노션-아이콘: *AI Stages 경진대회 기간 및 GPU 서버 운영 기간* :up_ai-노션-아이콘:\n\n> *ML Advanced \/ Regression 대회*\n> • *경진대회 전체 기간 (2주)* : 1월 15일 (월) 10:00 ~ 1월 25일 (목) 19:00\n>     ◦ 팀 생성 기간 : 1월 16일 (화) 16:00 까지\n> • *GPU 서버 운영 기간* : 1월 15일 (월) 10:00 ~ 2월 2일 (금) 16:00\n> *CV Advanced \/ Image Classification 대회*\n> • *경진대회 전체 기간 (2주)* : 2월 5일 (월) 10:00 ~ 2월 19일 (월) 19:00\n>     ◦ 팀 생성 가능 기간 : 2월 6일 (화) 16:00 까지\n> • *GPU 서버 운영 기간* : 2월 5일 (월) 10:00 ~ 3월 7일 (목) 16:00\n> *NLP Advanced \/  Natural Language Inference 대회*\n> • *경진대회 전체 기간 (2주)* : 3월 8일 (금) 10:00 ~ 3월 20일 (수) 19:00\n>     ◦ 팀 생성 가능 기간 : 3월 9일 (토) 16:00 까지\n> • *GPU 서버 운영 기간* : 3월 8일 (금) 10:00 ~ 4월 5일 (금) 16:00\n> *OCR & RecSys & IR & AD \/ 택 1*\n> • *경진대회 전체 기간 (4주)* : 4월 8일 (월) 10:00 ~ 5월 1일 (수) 19:00\n>     ◦ 팀 생성 가능 기간 : 4월 9일 (화) 16:00 까지\n> • *GPU 서버 운영 기간* : 4월 8일 (월) 10:00 ~ 5월 10일 (금) 16:00\n> *GPU 서버 운영 공통 안내사항*\n> • 운영 마감시 서버는 자동으로 회수됩니다. 회수되기 전 반드시 서버 내 작업물은 백업합니다.\n> • GPU 서버는 가급적 진행하고 있는 프로젝트 페이지에서 할당 받도록 합니다. 할당 받게 되는 GPU 서버는 안내되는 코드가 실행될 수 있도록 사전에 준비된 환경입니다.\n> • GPU 서버 이슈와 관련된 문의는 대회별 ‘이슈 문의 게시판’에 글을 작성하여 문의하도록 합니다.\n> • *GPU 서버 사용 방법과 FAQ 는 <https:\/\/www.notion.so\/upstage\/AI-Stages-FAQ-d6d69aa076874100adce681784f93b50|노션 페이지(링크)>*를 참고합니다.\n> *추가 참고사항*\n> • 팀 생성: Github이 아닌, AI Stages 플랫폼 자체에서 생성하는 것을 의미합니다.\n> • AI Stages 플랫폼 대회 초대: 1\/15(월) 일괄 진행될 예정입니다.",
+            "team": "T05UGFFGL07",
+            "thread_ts": "1704965390.645299",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1707096164.287069",
+            "reply_users": [
+                "U05VAHXECP6"
+            ],
+            "replies": [
+                {
+                    "user": "U05VAHXECP6",
+                    "ts": "1707096164.287069"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": true,
+            "last_read": "1707096164.287069",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "a5Lia",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "broadcast",
+                                    "range": "channel"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n안녕하세요. Upstage AI Lab 수강생 여러분!\n차주 대회 진행에 앞서 전체 경진대회 일정 및 GPU 사용과 관련한 내용을 미리 전달 드립니다.\n아래 내용을 미리 한번 숙지해주시길 바라며, 자세한 내용은 "
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "1\/15(월) AI Stages 활용법 특강",
+                                    "style": {
+                                        "code": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "을 통해 안내드릴 수 있도록 하겠습니다.\n\n"
+                                },
+                                {
+                                    "type": "emoji",
+                                    "name": "up_ai-노션-아이콘",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " AI Stages 경진대회 기간 및 GPU 서버 운영 기간 ",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "emoji",
+                                    "name": "up_ai-노션-아이콘",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_quote",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "ML Advanced \/ Regression 대회",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "경진대회 전체 기간 (2주)",
+                                            "style": {
+                                                "bold": true
+                                            }
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " : 1월 15일 (월) 10:00 ~ 1월 25일 (목) 19:00"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 1
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "팀 생성 기간 : 1월 16일 (화) 16:00 까지"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 1,
+                            "border": 1
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "GPU 서버 운영 기간",
+                                            "style": {
+                                                "bold": true
+                                            }
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " : 1월 15일 (월) 10:00 ~ 2월 2일 (금) 16:00"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 1
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_quote",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "CV Advanced \/ Image Classification 대회",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "경진대회 전체 기간 (2주)",
+                                            "style": {
+                                                "bold": true
+                                            }
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " : 2월 5일 (월) 10:00 ~ 2월 19일 (월) 19:00"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 1
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "팀 생성 가능 기간 : 2월 6일 (화) 16:00 까지"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 1,
+                            "border": 1
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "GPU 서버 운영 기간",
+                                            "style": {
+                                                "bold": true
+                                            }
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " : 2월 5일 (월) 10:00 ~ 3월 7일 (목) 16:00"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 1
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_quote",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "NLP Advanced \/  Natural Language Inference 대회",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "경진대회 전체 기간 (2주)",
+                                            "style": {
+                                                "bold": true
+                                            }
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " : 3월 8일 (금) 10:00 ~ 3월 20일 (수) 19:00"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 1
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "팀 생성 가능 기간 : 3월 9일 (토) 16:00 까지"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 1,
+                            "border": 1
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "GPU 서버 운영 기간",
+                                            "style": {
+                                                "bold": true
+                                            }
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " : 3월 8일 (금) 10:00 ~ 4월 5일 (금) 16:00"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 1
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_quote",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "OCR & RecSys & IR & AD \/ 택 1",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "경진대회 전체 기간 (4주)",
+                                            "style": {
+                                                "bold": true
+                                            }
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " : 4월 8일 (월) 10:00 ~ 5월 1일 (수) 19:00"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 1
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "팀 생성 가능 기간 : 4월 9일 (화) 16:00 까지"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 1,
+                            "border": 1
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "GPU 서버 운영 기간",
+                                            "style": {
+                                                "bold": true
+                                            }
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " : 4월 8일 (월) 10:00 ~ 5월 10일 (금) 16:00"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 1
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_quote",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "GPU 서버 운영 공통 안내사항",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "운영 마감시 서버는 자동으로 회수됩니다. 회수되기 전 반드시 서버 내 작업물은 백업합니다."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "GPU 서버는 가급적 진행하고 있는 프로젝트 페이지에서 할당 받도록 합니다. 할당 받게 되는 GPU 서버는 안내되는 코드가 실행될 수 있도록 사전에 준비된 환경입니다."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "GPU 서버 이슈와 관련된 문의는 대회별 ‘이슈 문의 게시판’에 글을 작성하여 문의하도록 합니다."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "GPU 서버 사용 방법과 FAQ 는 ",
+                                            "style": {
+                                                "bold": true
+                                            }
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https:\/\/www.notion.so\/upstage\/AI-Stages-FAQ-d6d69aa076874100adce681784f93b50",
+                                            "text": "노션 페이지(링크)",
+                                            "style": {
+                                                "bold": true
+                                            }
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "를 참고합니다."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 1
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_quote",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "추가 참고사항",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "팀 생성: Github이 아닌, AI Stages 플랫폼 자체에서 생성하는 것을 의미합니다."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "AI Stages 플랫폼 대회 초대: 1\/15(월) 일괄 진행될 예정입니다."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        "type": "message",
+        "ts": "1707096164.287069",
+        "edited": {
+            "user": "U05VAHXECP6",
+            "ts": "1707096222.000000"
+        },
+        "client_msg_id": "48fb977c-68d3-4e21-a6be-87c2726e67d0",
+        "thread_ts": "1704965390.645299",
+        "parent_user_id": "U05VAHXECP6"
+    }
+]

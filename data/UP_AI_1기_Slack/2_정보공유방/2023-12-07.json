@@ -1,0 +1,411 @@
+[
+    {
+        "user": "U060C67EYQ5",
+        "type": "message",
+        "ts": "1702019217.417639",
+        "client_msg_id": "aba45e20-54d9-41d2-83a2-9d0f96cea72f",
+        "text": "안녕하세요! 저는 운영진 김의겸 매니저입니다. :slightly_smiling_face:\n채널에서는 처음 여러분들과 인사나누게 되었는데요ㅎㅎ\n앞으로 자주 여러분들과 소통하게 될 것이라 편히 데이브(Dave)로 불러주셔도 좋습니다! :party-blob:\n\n스터디그룹 통해서 열심히 공부하고 계신 분들도 있고,\n혼자서 혹은 동료들과 함께 여러 논문들을 탐독하고 계신 분들,\n무엇보다 18일(월요일)부터 시작되는 딥러닝 커리큘럼에 대한 기대감을 갖고 계신 분들이 많이 있는 것 같은데요!\n\n대게 arXiv 통해서 논문을 살펴보실 것 같은데,\n유용하게 활용할 수 있는 꿀팁:bee:  공유드려봅니다 :)\n\n\n&gt; 1\/  arXiv :arrow_right: *ar5iv* (<https:\/\/github.com\/dginev\/ar5iv|출처 링크>)\narXiv에 공개된 논문을 HTML5로 볼 수 있도록 변환해줍니다.\narXiv 링크 주소에서 \"arXiv\" 를 \"*ar5iv*\" 로 바꾸면 바로 동작하는데요.\n\nLaTeXML로 변환해서 볼 수 있기 때문에 매우 유용하고, 다크모드 지원이 되면서 기존 2단으로 보던 논문을 1단으로 뷰잉하는 것이 가능합니다.\nChrome으로 보시는 분들은 google translate 와 시너지를 잘 낼 수도 있고요!\n(그냥 논문 복붙해서 번역기 넣기도 훨씬 수월합니다~)\n\n나온지 꽤 시간이 지나서 이미 알고 계실지도 모르겠네요ㅎㅎ\n\n그렇다면..!! 쌔삥 하나 또 공유드리면!! :cool-doge:\n\n\n&gt; 2\/ arXiv :arrow_right: *alphaXiv* (<https:\/\/www.linkedin.com\/posts\/mostafaelhoushi_arxiv-alphaxiv-students-from-stanford-ugcPost-7135817215748034560-gAFF?utm_source=share&amp;utm_medium=member_desktop|출처 링크>)\n최근에 스탠포드대학교 학생들이 arXiv 페이퍼에 대해 직접 코멘트를 달거나 질문을 게시할 수 있는 alphaXiv를 공개했어요.\n살펴보고 계신 논문 arXiv 링크에서 \"arXiv\" 를 \"*alphaxiv*\" 로 바꾸기만 하면 되는데요.\n\n기능으로는,\n• Stack Overflow 처럼 논문에 highlight 할 수 있고, 거기에 관련된 thoughts\/comments\/questions 를 남겨서 다른 사람들이 살펴보거나 답변할 수 있게 합니다.\n• private groups mode : 지정 논문에 관한 lab\/class\/group 전용 공간을 만들고 멤버들만 코멘트를 볼 수 있게 합니다.\n상기 개발자들이 만든 아래의 예시 작동 페이지에서 대략적으로 어떻게 굴러가는 지 볼 수 있어요.\n(예시) <https:\/\/lnkd.in\/gpbF2zbP> -&gt; <https:\/\/lnkd.in\/g3RfW5sx>\n\n이제 막 만들어진거라 기능상의 제약이나 한계가 분명하긴 하지만,\n논문 읽거나 스터디하실 때 유용하게 활용해 볼 수 있을 것 같아요.\n특히 질문거리 공유할 때, 매번 캡쳐하거나 다같이 해당 구간을 살펴보거나 하는 것에서 효과적으로 사용하실 수 있을 것 같습니다.\n\n\n마지막으로!\n&gt; *3\/ ArxivGPT &lt;https:\/\/www.youtube.com\/watch?v=-kpz0mjAd3Y\n&gt; |(YouTube 소개 링크)&gt;*\n최근에 chatGPT 기반으로 커스텀 앱으로 개발되었는데 현재는 chatGPT 유료 이용자 분(플러스 이용자)들만 사용할 수 있습니다.\n\n주요 기능은 arxiv 논문을 한글로 검색하고 한글로 논문 요약 &gt; 분석 &gt; QnA를 제공해준다고 하는데요.\nGPT4 지원해서 이미지나 파일 데이터도 업로드가 가능하여 직접 논문 보시는 수고를 조금이나마 덜어줄 수 있을 것 같습니다. (저는 아직 안써봤는데, 앞으로 굉장히 편리하게 사용할 것 같네요!)",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "831ed525b276",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-11-14\/6192884585138_831ed525b276222009d0_72.png",
+            "first_name": "업스테이지",
+            "real_name": "업스테이지 김의겸(Dave)",
+            "display_name": "UP 김의겸(Dave) 매니저",
+            "team": "T05UGFFGL07",
+            "name": "euigyum",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "diRdq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "안녕하세요! 저는 운영진 김의겸 매니저입니다. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n채널에서는 처음 여러분들과 인사나누게 되었는데요ㅎㅎ\n앞으로 자주 여러분들과 소통하게 될 것이라 편히 데이브(Dave)로 불러주셔도 좋습니다! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "party-blob"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n스터디그룹 통해서 열심히 공부하고 계신 분들도 있고,\n혼자서 혹은 동료들과 함께 여러 논문들을 탐독하고 계신 분들,\n무엇보다 18일(월요일)부터 시작되는 딥러닝 커리큘럼에 대한 기대감을 갖고 계신 분들이 많이 있는 것 같은데요!\n\n대게 arXiv 통해서 논문을 살펴보실 것 같은데,\n유용하게 활용할 수 있는 꿀팁"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "honeybee",
+                                "unicode": "1f41d"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  공유드려봅니다 :)\n\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "1\/  arXiv "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "arrow_right",
+                                "unicode": "27a1-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "ar5iv",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " ("
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/dginev\/ar5iv",
+                                "text": "출처 링크"
+                            },
+                            {
+                                "type": "text",
+                                "text": ")"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "arXiv에 공개된 논문을 HTML5로 볼 수 있도록 변환해줍니다.\narXiv 링크 주소에서 \"arXiv\" 를 \""
+                            },
+                            {
+                                "type": "text",
+                                "text": "ar5iv",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\" 로 바꾸면 바로 동작하는데요.\n\nLaTeXML로 변환해서 볼 수 있기 때문에 매우 유용하고, 다크모드 지원이 되면서 기존 2단으로 보던 논문을 1단으로 뷰잉하는 것이 가능합니다.\nChrome으로 보시는 분들은 google translate 와 시너지를 잘 낼 수도 있고요!\n(그냥 논문 복붙해서 번역기 넣기도 훨씬 수월합니다~)\n\n나온지 꽤 시간이 지나서 이미 알고 계실지도 모르겠네요ㅎㅎ\n\n그렇다면..!! 쌔삥 하나 또 공유드리면!! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "cool-doge"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "2\/ arXiv "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "arrow_right",
+                                "unicode": "27a1-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "alphaXiv",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " ("
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/posts\/mostafaelhoushi_arxiv-alphaxiv-students-from-stanford-ugcPost-7135817215748034560-gAFF?utm_source=share&utm_medium=member_desktop",
+                                "text": "출처 링크"
+                            },
+                            {
+                                "type": "text",
+                                "text": ")"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "최근에 스탠포드대학교 학생들이 arXiv 페이퍼에 대해 직접 코멘트를 달거나 질문을 게시할 수 있는 alphaXiv를 공개했어요.\n살펴보고 계신 논문 arXiv 링크에서 \"arXiv\" 를 \""
+                            },
+                            {
+                                "type": "text",
+                                "text": "alphaxiv",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\" 로 바꾸기만 하면 되는데요.\n\n기능으로는,\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Stack Overflow 처럼 논문에 highlight 할 수 있고, 거기에 관련된 thoughts\/comments\/questions 를 남겨서 다른 사람들이 살펴보거나 답변할 수 있게 합니다."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "private groups mode : 지정 논문에 관한 lab\/class\/group 전용 공간을 만들고 멤버들만 코멘트를 볼 수 있게 합니다."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n상기 개발자들이 만든 아래의 예시 작동 페이지에서 대략적으로 어떻게 굴러가는 지 볼 수 있어요.\n(예시) "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/lnkd.in\/gpbF2zbP"
+                            },
+                            {
+                                "type": "text",
+                                "text": " -> "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/lnkd.in\/g3RfW5sx"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n이제 막 만들어진거라 기능상의 제약이나 한계가 분명하긴 하지만,\n논문 읽거나 스터디하실 때 유용하게 활용해 볼 수 있을 것 같아요.\n특히 질문거리 공유할 때, 매번 캡쳐하거나 다같이 해당 구간을 살펴보거나 하는 것에서 효과적으로 사용하실 수 있을 것 같습니다.\n\n\n마지막으로!\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "3\/ ArxivGPT ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=-kpz0mjAd3Y\n",
+                                "text": "(YouTube 소개 링크)",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "최근에 chatGPT 기반으로 커스텀 앱으로 개발되었는데 현재는 chatGPT 유료 이용자 분(플러스 이용자)들만 사용할 수 있습니다.\n\n주요 기능은 arxiv 논문을 한글로 검색하고 한글로 논문 요약 > 분석 > QnA를 제공해준다고 하는데요.\nGPT4 지원해서 이미지나 파일 데이터도 업로드가 가능하여 직접 논문 보시는 수고를 조금이나마 덜어줄 수 있을 것 같습니다. (저는 아직 안써봤는데, 앞으로 굉장히 편리하게 사용할 것 같네요!)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U05VADPQPCL",
+                    "U05V4KZR3NW",
+                    "U05V2P37518",
+                    "U05V561TXUL",
+                    "U05V1KVNK0E",
+                    "U065TBUL5EE",
+                    "U05V5B88ULD",
+                    "U060D1KJECR",
+                    "U05V5B27DK7",
+                    "U05V7H78DUM",
+                    "U05UN7M2GKZ"
+                ],
+                "count": 11
+            },
+            {
+                "name": "party-blob",
+                "users": [
+                    "U0606QGQYE5"
+                ],
+                "count": 1
+            },
+            {
+                "name": "10_10",
+                "users": [
+                    "U05VAHXECP6"
+                ],
+                "count": 1
+            },
+            {
+                "name": "face_holding_back_tears",
+                "users": [
+                    "U05V7H78DUM"
+                ],
+                "count": 1
+            },
+            {
+                "name": "meow_noddies",
+                "users": [
+                    "U05V7H78DUM"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U065TBUL5EE",
+        "type": "message",
+        "ts": "1702020448.191699",
+        "edited": {
+            "user": "U065TBUL5EE",
+            "ts": "1702020504.000000"
+        },
+        "client_msg_id": "4bc614f0-1e35-4f99-8228-69fd0eeb458a",
+        "text": "kaggle competition 하시는 분들 중에서, 전세계 kaggler들과 좀 더 편하게 소통하고 싶으신 분들은\ndiscord community에서 활동해보시는것도 좋습니다 !\n\n각 대회별 채널도 따로 있고, 커리어나 여러가지 꿀팁들도 많이 있으니 사용해보시면 좋을 것 같아요ㅎㅎ\nkaggle에서 discord를 만든 이후에 discussion뿐만 아니라 여기도 좋은 정보들이 많이 올라오고 있습니다!\n\n• <https:\/\/discord.gg\/Sg2hQGqe|official kaggle discord community>",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "34f110a5edc4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-11-14\/6197301711475_34f110a5edc435398e63_72.png",
+            "first_name": "김용담",
+            "real_name": "김용담",
+            "display_name": "김용담 강사",
+            "team": "T05UGFFGL07",
+            "name": "codingiscoffee",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/cdn.discordapp.com\/splashes\/1101210829807956100\/8215839ed4071a754dd5f56593e4ce69.jpg?size=512",
+                "image_width": 512,
+                "image_height": 288,
+                "image_bytes": 17756,
+                "from_url": "https:\/\/discord.gg\/Sg2hQGqe",
+                "id": 1,
+                "original_url": "https:\/\/discord.gg\/Sg2hQGqe",
+                "fallback": "Discord: Join the Kaggle Discord Server!",
+                "text": "Kaggle is the world's largest community of data scientists. Join us to compete, collaborate, learn, and share your work. | 28822 members",
+                "title": "Join the Kaggle Discord Server!",
+                "title_link": "https:\/\/discord.gg\/Sg2hQGqe",
+                "service_name": "Discord"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TzCTb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "kaggle competition 하시는 분들 중에서, 전세계 kaggler들과 좀 더 편하게 소통하고 싶으신 분들은\ndiscord community에서 활동해보시는것도 좋습니다 !\n\n각 대회별 채널도 따로 있고, 커리어나 여러가지 꿀팁들도 많이 있으니 사용해보시면 좋을 것 같아요ㅎㅎ\nkaggle에서 discord를 만든 이후에 discussion뿐만 아니라 여기도 좋은 정보들이 많이 올라오고 있습니다!\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/discord.gg\/Sg2hQGqe",
+                                        "text": "official kaggle discord community"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "party_blob-1",
+                "users": [
+                    "U060C67EYQ5",
+                    "U05UN5DQ423",
+                    "U05V9LP47V0"
+                ],
+                "count": 3
+            },
+            {
+                "name": "party-blob",
+                "users": [
+                    "U060C67EYQ5"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

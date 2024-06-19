@@ -1,0 +1,395 @@
+[
+    {
+        "user": "U05VAHXECP6",
+        "type": "message",
+        "ts": "1715333527.723469",
+        "edited": {
+            "user": "U05VAHXECP6",
+            "ts": "1715902897.000000"
+        },
+        "client_msg_id": "9f9e95ed-9081-4f88-b7d6-b825af13c8fe",
+        "text": "<!channel>\n안녕하세요. Upstage AI Lab 1기 수강생 여러분!\n금일 수료식에서 말씀드린 내용 중 일정과 관련한 부분\n혹여나 말이 너무 빨라 놓치신 분 있을까하여, 서면으로 한 번 더 말씀드립니다.\n\n> *수료증 및 수료 혜택 제공 일정 안내*\n• :white_check_mark: 국문\/영문 수료증 발송: 5\/13(월) \n• :white_check_mark: HRD-Net 수강평 작성: 5\/13(월) \n• :white_check_mark: 교수 이수 평가표: 5\/16(목) \n• 수료 혜택 올플랜 입과: 5\/17(금)\n    ◦ 해당 일자에 관련한 추가 공지 예정이니 참고해주세요.\n> *수료식 발표 자료 공유*\n• <https:\/\/drive.google.com\/open?id=1erKRin77mSAtVPaXd2PLIQ-xvTFCDhym&usp=drive_copy|드라이브 링크>\n추가로 궁금하신 사항이 있다면 편히 말씀 부탁드리며,\n마지막으로 차주 *HRD-Net 수강평*도 잘 작성 부탁 드리겠습니다.\n\n감사합니다. :pray:",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "50abee101814",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-11\/6044824153712_50abee1018149e21919b_72.jpg",
+            "first_name": "이상영",
+            "real_name": "이상영",
+            "display_name": "FC 이상영 매니저",
+            "team": "T05UGFFGL07",
+            "name": "sangyeong.lee",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1715333527.723469",
+        "reply_count": 7,
+        "reply_users_count": 3,
+        "latest_reply": "1715654672.713549",
+        "reply_users": [
+            "U05UN5DQ423",
+            "U05VAHXECP6",
+            "U05UN6NTN8P"
+        ],
+        "replies": [
+            {
+                "user": "U05UN5DQ423",
+                "ts": "1715333585.988549"
+            },
+            {
+                "user": "U05VAHXECP6",
+                "ts": "1715333672.410489"
+            },
+            {
+                "user": "U05UN5DQ423",
+                "ts": "1715334192.969479"
+            },
+            {
+                "user": "U05UN6NTN8P",
+                "ts": "1715651140.034539"
+            },
+            {
+                "user": "U05VAHXECP6",
+                "ts": "1715651774.651639"
+            },
+            {
+                "user": "U05VAHXECP6",
+                "ts": "1715654445.307359"
+            },
+            {
+                "user": "U05UN6NTN8P",
+                "ts": "1715654672.713549"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1715654672.713549",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "f9yhq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n안녕하세요. Upstage AI Lab 1기 수강생 여러분!\n금일 수료식에서 말씀드린 내용 중 일정과 관련한 부분\n혹여나 말이 너무 빨라 놓치신 분 있을까하여, 서면으로 한 번 더 말씀드립니다.\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "수료증 및 수료 혜택 제공 일정 안내",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "emoji",
+                                        "name": "white_check_mark",
+                                        "unicode": "2705"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " 국문\/영문 수료증 발송: 5\/13(월) "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "emoji",
+                                        "name": "white_check_mark",
+                                        "unicode": "2705"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " HRD-Net 수강평 작성: 5\/13(월) "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "emoji",
+                                        "name": "white_check_mark",
+                                        "unicode": "2705"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " 교수 이수 평가표: 5\/16(목) "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "수료 혜택 올플랜 입과: 5\/17(금)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "해당 일자에 관련한 추가 공지 예정이니 참고해주세요."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "수료식 발표 자료 공유",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/drive.google.com\/open?id=1erKRin77mSAtVPaXd2PLIQ-xvTFCDhym&usp=drive_copy",
+                                        "text": "드라이브 링크"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n추가로 궁금하신 사항이 있다면 편히 말씀 부탁드리며,\n마지막으로 차주 "
+                            },
+                            {
+                                "type": "text",
+                                "text": "HRD-Net 수강평",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "도 잘 작성 부탁 드리겠습니다.\n\n감사합니다. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U05V9N22ZUK",
+                    "U0600GGHJTC",
+                    "U05V379NETU",
+                    "U05UN6NTN8P",
+                    "U05UUUNAE5D"
+                ],
+                "count": 5
+            },
+            {
+                "name": "sob",
+                "users": [
+                    "U05V379NETU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05UN5DQ423",
+        "type": "message",
+        "ts": "1715333585.988549",
+        "client_msg_id": "45bb62cb-8e8b-46f9-833a-38155d40536f",
+        "text": "수료생 평가표도 월요일인가요?",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "602bc2a55d5c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5994828351843_602bc2a55d5c461d5b24_72.png",
+            "first_name": "박성우",
+            "real_name": "박성우",
+            "display_name": "박성우",
+            "team": "T05UGFFGL07",
+            "name": "tjddn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1715333527.723469",
+        "parent_user_id": "U05VAHXECP6",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "c9Hr0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "수료생 평가표도 월요일인가요?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U05VAHXECP6"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05VAHXECP6",
+        "type": "message",
+        "ts": "1715333672.410489",
+        "client_msg_id": "1771582f-837c-4bd9-a4e5-02840eb0086d",
+        "text": "<@U05UN5DQ423> 안녕하세요. 성우님!\n교육 이수 평가표는 차주 중으로 발송 예정입니다!\n최대한 빠르게 전달드릴게요.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "50abee101814",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-11\/6044824153712_50abee1018149e21919b_72.jpg",
+            "first_name": "이상영",
+            "real_name": "이상영",
+            "display_name": "FC 이상영 매니저",
+            "team": "T05UGFFGL07",
+            "name": "sangyeong.lee",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1715333527.723469",
+        "parent_user_id": "U05VAHXECP6",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4+qPC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05UN5DQ423"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 안녕하세요. 성우님!\n교육 이수 평가표는 차주 중으로 발송 예정입니다!\n최대한 빠르게 전달드릴게요."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05UN5DQ423",
+        "type": "message",
+        "ts": "1715334192.969479",
+        "client_msg_id": "513f304c-0af6-4d6b-a121-daad01d58243",
+        "text": "감사합니다!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "602bc2a55d5c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5994828351843_602bc2a55d5c461d5b24_72.png",
+            "first_name": "박성우",
+            "real_name": "박성우",
+            "display_name": "박성우",
+            "team": "T05UGFFGL07",
+            "name": "tjddn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1715333527.723469",
+        "parent_user_id": "U05VAHXECP6",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ok6Qb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "감사합니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

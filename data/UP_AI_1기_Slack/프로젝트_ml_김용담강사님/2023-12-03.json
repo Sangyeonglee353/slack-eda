@@ -1,0 +1,420 @@
+[
+    {
+        "text": "<!channel>\n가이드라인 문서 공유드립니다! 별거 없지만 처음에 한번 보시면 도움이 되실거에요 :slightly_smiling_face:",
+        "files": [
+            {
+                "id": "F068BJKM1D3",
+                "created": 1701654722,
+                "timestamp": 1701654722,
+                "name": "[UP-AI 01]ML프로젝트 가이드라인.pdf",
+                "title": "[UP-AI 01]ML프로젝트 가이드라인.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U065TBUL5EE",
+                "user_team": "T05UGFFGL07",
+                "editable": false,
+                "size": 225673,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F068BJKM1D3\/_up-ai_01_ml_____________________________________________________________.pdf?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F068BJKM1D3\/download\/_up-ai_01_ml_____________________________________________________________.pdf?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "media_display_type": "unknown",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F068BJKM1D3-1476f5e870\/_up-ai_01_ml______________________________________________________________thumb_pdf.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_pdf_w": 2933,
+                "thumb_pdf_h": 1650,
+                "permalink": "https:\/\/fcupstageai1.slack.com\/files\/U065TBUL5EE\/F068BJKM1D3\/_up-ai_01_ml_____________________________________________________________.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/T05UGFFGL07-F068BJKM1D3-496549ea66",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U065TBUL5EE",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4NTcA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n가이드라인 문서 공유드립니다! 별거 없지만 처음에 한번 보시면 도움이 되실거에요 "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1701654738.333139",
+        "client_msg_id": "97ec80a4-0a30-417b-b2a7-c49c642093e6",
+        "reactions": [
+            {
+                "name": "대답",
+                "users": [
+                    "U05V4KZR3NW",
+                    "U060JMX5FK2"
+                ],
+                "count": 2
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U05V9N22ZUK",
+                    "U060BLVQYHW"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U05VADPQPCL",
+        "type": "message",
+        "ts": "1701655690.914629",
+        "client_msg_id": "8d79e71c-f4be-4316-b57d-d0e16ceb7a09",
+        "text": "*<!channel> ML 프로젝트 팀 편성 공지*\n• *<https:\/\/docs.google.com\/spreadsheets\/d\/1zyXUPKfGangENbf_Syz-daodFRCWN3JJRIuUxdt71jM\/edit?usp=sharing|ML 프로젝트 팀 편성 시트 바로가기>*\n• 작성해주신 본인 평가 수치에 따라 밸런스 있게 팀 편성하였습니다.\n• 이후 주제 변경 불가 합니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "07e7ca00b8f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5991092857253_07e7ca00b8f0d0b13ba1_72.png",
+            "first_name": "패스트캠퍼스박기준",
+            "real_name": "패스트캠퍼스박기준",
+            "display_name": "LM 박기준",
+            "team": "T05UGFFGL07",
+            "name": "pgj.fc.career",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KQdAP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " ML 프로젝트 팀 편성 공지",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/docs.google.com\/spreadsheets\/d\/1zyXUPKfGangENbf_Syz-daodFRCWN3JJRIuUxdt71jM\/edit?usp=sharing",
+                                        "text": "ML 프로젝트 팀 편성 시트 바로가기",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "작성해주신 본인 평가 수치에 따라 밸런스 있게 팀 편성하였습니다."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "이후 주제 변경 불가 합니다."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U05UW74NJ0N",
+                    "U065TBUL5EE",
+                    "U061N4T7L8G",
+                    "U05V9N22ZUK"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "user": "U05VADPQPCL",
+        "type": "message",
+        "ts": "1701656562.182179",
+        "client_msg_id": "24688db8-afe7-480f-8202-134f5bf4a436",
+        "text": "*<!channel> 개인 프로젝트 참여자 공지*\n• 개인 프로젝트 참여자 중 슬랙 채널 생성을 원하시는 분은 해당 스레드에 댓글 부탁 드립니다.\n• 개인 프로젝트 참여자도 *<https:\/\/quickest-asterisk-75d.notion.site\/ML-0f76e81e952749d69a0bf855ad39fd24?pvs=4|프로젝트 노션>*에 팀 노션 생성하신 후 1~3차 아이데이션 작성해주셔야 합니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "07e7ca00b8f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5991092857253_07e7ca00b8f0d0b13ba1_72.png",
+            "first_name": "패스트캠퍼스박기준",
+            "real_name": "패스트캠퍼스박기준",
+            "display_name": "LM 박기준",
+            "team": "T05UGFFGL07",
+            "name": "pgj.fc.career",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1701656562.182179",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1701747375.506589",
+        "reply_users": [
+            "U0600C60ZK4",
+            "U05UUUNAE5D",
+            "U05VADPQPCL"
+        ],
+        "replies": [
+            {
+                "user": "U0600C60ZK4",
+                "ts": "1701656654.198319"
+            },
+            {
+                "user": "U05UUUNAE5D",
+                "ts": "1701657647.502449"
+            },
+            {
+                "user": "U05VADPQPCL",
+                "ts": "1701747375.506589"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tXIzv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " 개인 프로젝트 참여자 공지",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "개인 프로젝트 참여자 중 슬랙 채널 생성을 원하시는 분은 해당 스레드에 댓글 부탁 드립니다."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "개인 프로젝트 참여자도 "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/quickest-asterisk-75d.notion.site\/ML-0f76e81e952749d69a0bf855ad39fd24?pvs=4",
+                                        "text": "프로젝트 노션",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "에 팀 노션 생성하신 후 1~3차 아이데이션 작성해주셔야 합니다."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U05UW74NJ0N",
+                    "U0600C60ZK4",
+                    "U065TBUL5EE",
+                    "U060TBSJ7DF",
+                    "U061N4T7L8G",
+                    "U05V9N22ZUK",
+                    "U05V2PMAVNE"
+                ],
+                "count": 7
+            }
+        ]
+    },
+    {
+        "user": "U0600C60ZK4",
+        "type": "message",
+        "ts": "1701656654.198319",
+        "client_msg_id": "a2caa58a-43bb-4f0d-8461-6dadf789fa5b",
+        "text": "기록 및 피드백 용도로 필요할 수도 있을 것 같습니다 개설 부탁드립니다",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "87175e1bc0c1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/6000414092562_87175e1bc0c1a87a6752_72.jpg",
+            "first_name": "official",
+            "real_name": "official",
+            "display_name": "정다슬",
+            "team": "T05UGFFGL07",
+            "name": "anyone158911",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1701656562.182179",
+        "parent_user_id": "U05VADPQPCL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MSwsa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "기록 및 피드백 용도로 필요할 수도 있을 것 같습니다 개설 부탁드립니다"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U05VADPQPCL"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05UUUNAE5D",
+        "type": "message",
+        "ts": "1701657647.502449",
+        "client_msg_id": "7027eb46-3f3c-46a8-8c90-7c15084f608b",
+        "text": "저도 개설 부탁드립니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "32899ebdb4c2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5995423014227_32899ebdb4c26d670b69_72.png",
+            "first_name": "감성필SungFeelCalm",
+            "real_name": "감성필SungFeelCalm",
+            "display_name": "감성필",
+            "team": "T05UGFFGL07",
+            "name": "betterthingsarecoming",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1701656562.182179",
+        "parent_user_id": "U05VADPQPCL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mb6Ft",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "저도 개설 부탁드립니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U05VADPQPCL"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

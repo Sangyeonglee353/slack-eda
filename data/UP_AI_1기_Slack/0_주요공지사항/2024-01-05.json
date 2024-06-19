@@ -1,0 +1,265 @@
+[
+    {
+        "user": "U05VADPQPCL",
+        "type": "message",
+        "ts": "1704444132.053549",
+        "client_msg_id": "98d5f53f-8bc5-448f-9f28-9866f7bcf52f",
+        "text": "<@U05V9LP47V0> <@U0600PYS0G3> <@U05VCCSHKHR> <@U05UW1S4KQE> <@U05UVV5CVQE> <@U0600C60ZK4> <@U060TBSJ7DF>\n쉬는 시간 활용해서 제출 부탁드립니다!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "07e7ca00b8f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5991092857253_07e7ca00b8f0d0b13ba1_72.png",
+            "first_name": "패스트캠퍼스박기준",
+            "real_name": "패스트캠퍼스박기준",
+            "display_name": "LM 박기준",
+            "team": "T05UGFFGL07",
+            "name": "pgj.fc.career",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1704336532.718929",
+        "parent_user_id": "U05VADPQPCL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+gpWi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05V9LP47V0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0600PYS0G3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05VCCSHKHR"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05UW1S4KQE"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05UVV5CVQE"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0600C60ZK4"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U060TBSJ7DF"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n쉬는 시간 활용해서 제출 부탁드립니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05VAHXECP6",
+        "type": "message",
+        "ts": "1704448232.548489",
+        "client_msg_id": "3ddadda6-77c8-4360-a45d-e7b20554cf80",
+        "text": "<!channel>\n안녕하세요. Upstage AI Lab 수강생 여러분!\n온라인 강의 입과 관련하여 안내 드릴 사항이 있습니다.\n\n차주부터는 *[업스테이지] AI 심화 학습: 머신러닝* 강의 수강이 예정되어 있습니다.\nUpstage와 패스트캠퍼스는 여러분들에게 AI 트렌드에 맞는 최신 강의를 제공하고자,\n오래된 온라인 강의가 아닌 갓 제작한 강의를 배포해드리고 있습니다.\n\n다만, Upstage 강사님께서 촬영한 강의의 편집 및 검수 과정에서\n*의도치 않게 제작 시간이 오래 소요 되었습니다.*\n*따라서, 해당 강의는 금주 중순부터 수강 가능하실 것으로 예상 됩니다.*\n강의 수강 기간은 확정되는 대로 공지해드릴 예정입니다.\n\n*01\/08(월)에는 저희가 기존에 입과해드린 아래 강의를 수강해주시고,*\n*지금까지 학습한 내용 중 어려웠던 부분을 복습 및 예습하는 시간으로 활용*해주시면 감사하겠습니다.\n\n• <https:\/\/docs.google.com\/spreadsheets\/d\/1ypFcX5rHBUsAoYDUN3TmQClpGnR8wyoaUnBoV4hrZ-4\/edit#gid=1678580434&amp;range=B55|[선택] 딥러닝 인공지능 Signature>\n• <https:\/\/docs.google.com\/spreadsheets\/d\/1ypFcX5rHBUsAoYDUN3TmQClpGnR8wyoaUnBoV4hrZ-4\/edit#gid=1998958231&amp;range=B69|[필수] 퀴즈처럼 풀면서 배우는 파이썬 머신러닝 300제+>\n앞으로도 여러분들에게 *최신 트렌드에 맞는 Upstage 전문 강의를 제공해드리는 패스트캠퍼스*가 되겠습니다.\n\n감사합니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "50abee101814",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-11\/6044824153712_50abee1018149e21919b_72.jpg",
+            "first_name": "이상영",
+            "real_name": "이상영",
+            "display_name": "FC 이상영 매니저",
+            "team": "T05UGFFGL07",
+            "name": "sangyeong.lee",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "w+4H\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n안녕하세요. Upstage AI Lab 수강생 여러분!\n온라인 강의 입과 관련하여 안내 드릴 사항이 있습니다.\n\n차주부터는"
+                            },
+                            {
+                                "type": "text",
+                                "text": " [업스테이지] AI 심화 학습: 머신러닝",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " 강의 수강이 예정되어 있습니다.\nUpstage와 패스트캠퍼스는 여러분들에게 AI 트렌드에 맞는 최신 강의를 제공하고자,\n오래된 온라인 강의가 아닌 갓 제작한 강의를 배포해드리고 있습니다.\n\n다만, Upstage 강사님께서 촬영한 강의의 편집 및 검수 과정에서\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "의도치 않게 제작 시간이 오래 소요 되었습니다.",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "따라서, 해당 강의는 금주 중순부터 수강 가능하실 것으로 예상 됩니다.",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n강의 수강 기간은 확정되는 대로 공지해드릴 예정입니다.\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "01\/08(월)에는 저희가 기존에 입과해드린 아래 강의를 수강해주시고,",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "지금까지 학습한 내용 중 어려웠던 부분을 복습 및 예습하는 시간으로 활용",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "해주시면 감사하겠습니다.\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/docs.google.com\/spreadsheets\/d\/1ypFcX5rHBUsAoYDUN3TmQClpGnR8wyoaUnBoV4hrZ-4\/edit#gid=1678580434&range=B55",
+                                        "text": "[선택] 딥러닝 인공지능 Signature"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/docs.google.com\/spreadsheets\/d\/1ypFcX5rHBUsAoYDUN3TmQClpGnR8wyoaUnBoV4hrZ-4\/edit#gid=1998958231&range=B69",
+                                        "text": "[필수] 퀴즈처럼 풀면서 배우는 파이썬 머신러닝 300제+"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n앞으로도 여러분들에게 "
+                            },
+                            {
+                                "type": "text",
+                                "text": "최신 트렌드에 맞는 Upstage 전문 강의를 제공해드리는 패스트캠퍼스",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "가 되겠습니다.\n\n감사합니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U065TBUL5EE",
+                    "U05V4KZR3NW",
+                    "U05UN7M2GKZ",
+                    "U05V2P37518",
+                    "U05VB9FA6MS",
+                    "U05V9N22ZUK",
+                    "U0606QGQYE5",
+                    "U05V5B27DK7",
+                    "U05V2HL22M9",
+                    "U06CBFKNBFF",
+                    "U0600GGHJTC",
+                    "U05V7H78DUM",
+                    "U05V2T62KUJ",
+                    "U060LG0BT89",
+                    "U05UWVA90H4",
+                    "U05V379NETU",
+                    "U05V561TXUL",
+                    "U05V9LP47V0"
+                ],
+                "count": 18
+            }
+        ]
+    }
+]

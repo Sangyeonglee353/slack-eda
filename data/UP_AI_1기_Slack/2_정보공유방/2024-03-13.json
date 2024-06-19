@@ -1,0 +1,362 @@
+[
+    {
+        "subtype": "thread_broadcast",
+        "user": "U060C67EYQ5",
+        "thread_ts": "1709690219.142509",
+        "root": {
+            "text": "안녕하세요, Upstage AI Lab 1기 여러분!\n\n그동안 업스테이지가 쌓아온 *LLM 기술 연구와 사업화의 노하우*를 대방출하는 웨비나 행사를 소개합니다!\n\n업스테이지 실제 고객 사례를 중심으로 다양한 산업군에서의 *AI OCR 및 LLM 도입 사례*들을 준비했는데요.\n한창 교육 기간 중이라 바쁘신 여러분들을 위해 특별히 신청만 해두면 추후 :sparkles:*다시보기 링크*:sparkles:를 제공하니 많은 관심 부탁드립니다!\n\n\n&gt; :calendar: *웨비나 일정*\n• 일시: 2024년 3월 14일 오후2시  \n• 신청링크: <https:\/\/go.upstage.ai\/wbn-usecase-fc>\n코어타임과 겹치기 때문에 사전 등록 후 '*다시보기 링크*' 로 편하게 웨비나 시청하시기 바랍니다!\n\n\n&gt; :avocado: *웨비나 소개*\nLLM(Large Language Model)과 같은 AI 기술들이 매일 새로 나오고 있습니다. 하지만 *이 기술들을 실제로 어떻게 비즈니스에 도입했는지*에 대한 이야기는 많지 않습니다.\n\n이번 웨비나에서는 OCR, LLM, RAG(Retrieval-Augmented Generation) 등의 기술을 통해 문서 디지털화가 어떻게 생산성을 극대화하고 데이터를 지식으로 변환시킬 수 있는지 알려드립니다.\n\n금융, 보험, 물류, 커머스, 교육, 언론 등 다양한 도메인에서 실제 AI 시스템 구축 사례를 소개해 드리며, 무엇보다 전문가들의 심층적인 세션을 통해 개발자와 비즈니스 리더 모두에게 유익한 인사이트를 제공합니다.\n\nAI Lab 여러분들께서도 업무 프로세스 자동화, 데이터 학습, 문서 관리, 도메인 특화 챗봇 등 최신 AI 활용 사례에 관심 있으셨다면 많이 참여해보세요!\n\n이번 LLM 기술 특강에 이어서 '비즈니스 관점' 에서 LLM 상용화와 서비스 구축의 실제 사례를 맛볼 수 있습니다 :)",
+            "files": [
+                {
+                    "id": "F06NSGQGLQG",
+                    "created": 1709690183,
+                    "timestamp": 1709690183,
+                    "name": "AI-실제 구축 사례.png",
+                    "title": "AI-실제 구축 사례.png",
+                    "mimetype": "image\/png",
+                    "filetype": "png",
+                    "pretty_type": "PNG",
+                    "user": "U060C67EYQ5",
+                    "user_team": "T05UGFFGL07",
+                    "editable": false,
+                    "size": 656029,
+                    "mode": "hosted",
+                    "is_external": false,
+                    "external_type": "",
+                    "is_public": true,
+                    "public_url_shared": false,
+                    "display_as_bot": false,
+                    "username": "",
+                    "url_private": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F06NSGQGLQG\/ai-____________________________________________.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                    "url_private_download": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F06NSGQGLQG\/download\/ai-____________________________________________.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                    "media_display_type": "unknown",
+                    "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06NSGQGLQG-122a64465e\/ai-_____________________________________________64.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                    "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06NSGQGLQG-122a64465e\/ai-_____________________________________________80.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                    "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06NSGQGLQG-122a64465e\/ai-_____________________________________________360.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                    "thumb_360_w": 360,
+                    "thumb_360_h": 203,
+                    "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06NSGQGLQG-122a64465e\/ai-_____________________________________________480.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                    "thumb_480_w": 480,
+                    "thumb_480_h": 270,
+                    "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06NSGQGLQG-122a64465e\/ai-_____________________________________________160.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                    "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06NSGQGLQG-122a64465e\/ai-_____________________________________________720.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                    "thumb_720_w": 720,
+                    "thumb_720_h": 405,
+                    "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06NSGQGLQG-122a64465e\/ai-_____________________________________________800.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                    "thumb_800_w": 800,
+                    "thumb_800_h": 450,
+                    "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06NSGQGLQG-122a64465e\/ai-_____________________________________________960.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                    "thumb_960_w": 960,
+                    "thumb_960_h": 540,
+                    "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06NSGQGLQG-122a64465e\/ai-_____________________________________________1024.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                    "thumb_1024_w": 1024,
+                    "thumb_1024_h": 576,
+                    "original_w": 1600,
+                    "original_h": 900,
+                    "thumb_tiny": "AwAbADCkMd8\/hTm8vA2ls45zSKoI5OPxFOZFA4bn6imIjopwQnuv50gBJwKYCUuDjOOK0YxasuHiCkcc96ju1hSIeV3OOucU7AVFIC\/cB565pzODjEajk1FRUgSlwGyYl+lIG2uWxjPOB2qOimBP9pJPKKaSWYSIBs28561DSii7A\/\/Z",
+                    "permalink": "https:\/\/fcupstageai1.slack.com\/files\/U060C67EYQ5\/F06NSGQGLQG\/ai-____________________________________________.png",
+                    "permalink_public": "https:\/\/slack-files.com\/T05UGFFGL07-F06NSGQGLQG-0595dd047e",
+                    "is_starred": false,
+                    "has_rich_preview": false,
+                    "file_access": "visible"
+                },
+                {
+                    "id": "F06MX4AATFY",
+                    "created": 1709690189,
+                    "timestamp": 1709690189,
+                    "name": "스크린샷 2024-03-06 오전 10.55.57.png",
+                    "title": "스크린샷 2024-03-06 오전 10.55.57.png",
+                    "mimetype": "image\/png",
+                    "filetype": "png",
+                    "pretty_type": "PNG",
+                    "user": "U060C67EYQ5",
+                    "user_team": "T05UGFFGL07",
+                    "editable": false,
+                    "size": 780131,
+                    "mode": "hosted",
+                    "is_external": false,
+                    "external_type": "",
+                    "is_public": true,
+                    "public_url_shared": false,
+                    "display_as_bot": false,
+                    "username": "",
+                    "url_private": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F06MX4AATFY\/_______________________________2024-03-06_________________10.55.57.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                    "url_private_download": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F06MX4AATFY\/download\/_______________________________2024-03-06_________________10.55.57.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                    "media_display_type": "unknown",
+                    "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06MX4AATFY-fcb9efb735\/_______________________________2024-03-06_________________10.55.57_64.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                    "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06MX4AATFY-fcb9efb735\/_______________________________2024-03-06_________________10.55.57_80.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                    "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06MX4AATFY-fcb9efb735\/_______________________________2024-03-06_________________10.55.57_360.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                    "thumb_360_w": 212,
+                    "thumb_360_h": 360,
+                    "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06MX4AATFY-fcb9efb735\/_______________________________2024-03-06_________________10.55.57_480.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                    "thumb_480_w": 283,
+                    "thumb_480_h": 480,
+                    "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06MX4AATFY-fcb9efb735\/_______________________________2024-03-06_________________10.55.57_160.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                    "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06MX4AATFY-fcb9efb735\/_______________________________2024-03-06_________________10.55.57_720.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                    "thumb_720_w": 424,
+                    "thumb_720_h": 720,
+                    "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06MX4AATFY-fcb9efb735\/_______________________________2024-03-06_________________10.55.57_800.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                    "thumb_800_w": 800,
+                    "thumb_800_h": 1357,
+                    "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06MX4AATFY-fcb9efb735\/_______________________________2024-03-06_________________10.55.57_960.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                    "thumb_960_w": 566,
+                    "thumb_960_h": 960,
+                    "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06MX4AATFY-fcb9efb735\/_______________________________2024-03-06_________________10.55.57_1024.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                    "thumb_1024_w": 604,
+                    "thumb_1024_h": 1024,
+                    "original_w": 1008,
+                    "original_h": 1710,
+                    "thumb_tiny": "AwAwABy6EjwuepGai+zHP+uf8qsBsKvBPHalOfQ1V2BDFAEzudnye46UroqnAqYZ7g1HL978KE9RBgEJwDx13YxS49k\/OlU4ReM8UHP+TSGHTn5fzpsh+YfSngn0\/WmS\/eH0prcAOMJnb93v1pcj\/Z\/KoEuo2iQl0DbeRTvtMf8Az2X86QE4X\/dx9KZL94fSmfaYc\/60fmKr3N4BIPLKkYoQH\/\/Z",
+                    "permalink": "https:\/\/fcupstageai1.slack.com\/files\/U060C67EYQ5\/F06MX4AATFY\/_______________________________2024-03-06_________________10.55.57.png",
+                    "permalink_public": "https:\/\/slack-files.com\/T05UGFFGL07-F06MX4AATFY-91f2d8a73d",
+                    "is_starred": false,
+                    "has_rich_preview": false,
+                    "file_access": "visible"
+                }
+            ],
+            "upload": false,
+            "user": "U060C67EYQ5",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "6KzZS",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "안녕하세요, Upstage AI Lab 1기 여러분!\n\n그동안 업스테이지가 쌓아온"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " LLM 기술 연구와 사업화의 노하우",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "를 대방출하는 웨비나 행사를 소개합니다!\n\n업스테이지 실제 고객 사례를 중심으로 다양한 산업군에서의 "
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "AI OCR 및 LLM 도입 사례",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "들을 준비했는데요.\n한창 교육 기간 중이라 바쁘신 여러분들을 위해 특별히 신청만 해두면 추후 "
+                                },
+                                {
+                                    "type": "emoji",
+                                    "name": "sparkles",
+                                    "unicode": "2728",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "다시보기 링크",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "emoji",
+                                    "name": "sparkles",
+                                    "unicode": "2728",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "를 제공하니 많은 관심 부탁드립니다!\n\n\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_quote",
+                            "elements": [
+                                {
+                                    "type": "emoji",
+                                    "name": "calendar",
+                                    "unicode": "1f4c6"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " "
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "웨비나 일정",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "일시: 2024년 3월 14일 오후2시  "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "신청링크: "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https:\/\/go.upstage.ai\/wbn-usecase-fc"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "코어타임과 겹치기 때문에 사전 등록 후 '"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "다시보기 링크",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "' 로 편하게 웨비나 시청하시기 바랍니다!\n\n\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_quote",
+                            "elements": [
+                                {
+                                    "type": "emoji",
+                                    "name": "avocado",
+                                    "unicode": "1f951",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " 웨비나 소개",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "LLM(Large Language Model)과 같은 AI 기술들이 매일 새로 나오고 있습니다. 하지만 "
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "이 기술들을 실제로 어떻게 비즈니스에 도입했는지",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "에 대한 이야기는 많지 않습니다.\n\n이번 웨비나에서는 OCR, LLM, RAG(Retrieval-Augmented Generation) 등의 기술을 통해 문서 디지털화가 어떻게 생산성을 극대화하고 데이터를 지식으로 변환시킬 수 있는지 알려드립니다.\n\n금융, 보험, 물류, 커머스, 교육, 언론 등 다양한 도메인에서 실제 AI 시스템 구축 사례를 소개해 드리며, 무엇보다 전문가들의 심층적인 세션을 통해 개발자와 비즈니스 리더 모두에게 유익한 인사이트를 제공합니다.\n\nAI Lab 여러분들께서도 업무 프로세스 자동화, 데이터 학습, 문서 관리, 도메인 특화 챗봇 등 최신 AI 활용 사례에 관심 있으셨다면 많이 참여해보세요!\n\n이번 LLM 기술 특강에 이어서 '비즈니스 관점' 에서 LLM 상용화와 서비스 구축의 실제 사례를 맛볼 수 있습니다 :)"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "type": "message",
+            "ts": "1709690219.142509",
+            "client_msg_id": "3137acec-b563-4b07-813b-3fca33de3f3f",
+            "thread_ts": "1709690219.142509",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1710381256.312789",
+            "reply_users": [
+                "U060C67EYQ5"
+            ],
+            "replies": [
+                {
+                    "user": "U060C67EYQ5",
+                    "ts": "1710381256.312789"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false
+        },
+        "type": "message",
+        "ts": "1710381256.312789",
+        "client_msg_id": "717ff68b-5c16-4a1e-9b0f-81e7810ba7a8",
+        "text": "*웨비나 디데이*:fire:\n\n아직 신청하지 않으신 분들은 다시보기 영상링크도 받으실겸 신청해보세요~",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QtOyo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "웨비나 디데이",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fire",
+                                "unicode": "1f525",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n아직 신청하지 않으신 분들은 다시보기 영상링크도 받으실겸 신청해보세요~"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U05V5B27DK7",
+                    "U05V4KZR3NW",
+                    "U05UN5DQ423"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

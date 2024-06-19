@@ -1,0 +1,98 @@
+[
+    {
+        "user": "U065TBUL5EE",
+        "type": "message",
+        "ts": "1702023597.961209",
+        "client_msg_id": "cf364e6a-ec96-4127-8a61-9a4dff16df81",
+        "text": "<!channel>\n다음주 화요일에는 모든 팀들을 1팀부터 순차적으로 소회의실 투어할 예정입니다.\n혹시나 다음주 화요일에 논의할 내용이 없다고 하시는 분들은 여기 스레드에 댓글로 남겨주세요!\n순회 시간은 점심시간 이후인 *2시부터 각 팀별로 최대 20분씩입니다!*\n다음주 월요일까지 스레드 댓글 확인한 다음에 정확한 타임라인 공유드리겠습니다!\n\n(그리고 저는 월요일 10 ~ 12시도 나옵니다!!)",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "34f110a5edc4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-11-14\/6197301711475_34f110a5edc435398e63_72.png",
+            "first_name": "김용담",
+            "real_name": "김용담",
+            "display_name": "김용담 강사",
+            "team": "T05UGFFGL07",
+            "name": "codingiscoffee",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1702023597.961209",
+        "reply_count": 4,
+        "reply_users_count": 3,
+        "latest_reply": "1702306189.657579",
+        "reply_users": [
+            "U060TBSJ7DF",
+            "U065TBUL5EE",
+            "U05UWVA90H4"
+        ],
+        "replies": [
+            {
+                "user": "U060TBSJ7DF",
+                "ts": "1702275580.364879"
+            },
+            {
+                "user": "U065TBUL5EE",
+                "ts": "1702275606.250229"
+            },
+            {
+                "user": "U05UWVA90H4",
+                "ts": "1702285049.599989"
+            },
+            {
+                "user": "U065TBUL5EE",
+                "ts": "1702306189.657579"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HWXLz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n다음주 화요일에는 모든 팀들을 1팀부터 순차적으로 소회의실 투어할 예정입니다.\n혹시나 다음주 화요일에 논의할 내용이 없다고 하시는 분들은 여기 스레드에 댓글로 남겨주세요!\n순회 시간은 점심시간 이후인 "
+                            },
+                            {
+                                "type": "text",
+                                "text": "2시부터 각 팀별로 최대 20분씩입니다!",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n다음주 월요일까지 스레드 댓글 확인한 다음에 정확한 타임라인 공유드리겠습니다!\n\n(그리고 저는 월요일 10 ~ 12시도 나옵니다!!)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U060H4V0Q5S",
+                    "U060C67EYQ5",
+                    "U05V2T62KUJ",
+                    "U05UN7M2GKZ",
+                    "U05UVV5CVQE",
+                    "U05UW74NJ0N"
+                ],
+                "count": 6
+            }
+        ]
+    }
+]

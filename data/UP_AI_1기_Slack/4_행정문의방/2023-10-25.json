@@ -1,0 +1,596 @@
+[
+    {
+        "user": "U05UT0JG4BZ",
+        "type": "message",
+        "ts": "1698228114.269689",
+        "client_msg_id": "4e7c8fd3-3995-4705-bd34-3b1a375954d4",
+        "text": "<@U05UNC6FNK1> <@U05V81G5ZDY>\n\n*대상 : 국민 취업 지원 서류*\n*필요한 기간 : 10_월 10일 ~ 10월 26일_*\n*필요 서류 : 출석 부*\n*이메일 : <mailto:wise_head@naver.co|wise_head@naver.co>*m\n*연락처 : 01041687506*\n\n하루 미리 신청하겠습니다. 부탁 드리겠습니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "g9153b403f05",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/9153b403f05c51f82cac8dec3d6d8e3a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "김다운",
+            "real_name": "김다운",
+            "display_name": "김다운",
+            "team": "T05UGFFGL07",
+            "name": "ekdns7500",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698228114.269689",
+        "reply_count": 5,
+        "reply_users_count": 2,
+        "latest_reply": "1698294813.907629",
+        "reply_users": [
+            "U05V81G5ZDY",
+            "U05UT0JG4BZ"
+        ],
+        "replies": [
+            {
+                "user": "U05V81G5ZDY",
+                "ts": "1698280899.086749"
+            },
+            {
+                "user": "U05UT0JG4BZ",
+                "ts": "1698281856.175639"
+            },
+            {
+                "user": "U05V81G5ZDY",
+                "ts": "1698283130.386169"
+            },
+            {
+                "user": "U05UT0JG4BZ",
+                "ts": "1698294670.423689"
+            },
+            {
+                "user": "U05V81G5ZDY",
+                "ts": "1698294813.907629"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "slXfF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05UNC6FNK1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05V81G5ZDY"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "대상 : 국민 취업 지원 서류",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "필요한 기간 : 10",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "월 10일 ~ 10월 26일",
+                                "style": {
+                                    "bold": true,
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "필요 서류 : 출석 부",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "이메일 : ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:wise_head@naver.co",
+                                "text": "wise_head@naver.co",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "m\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "연락처 : 01041687506",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n하루 미리 신청하겠습니다. 부탁 드리겠습니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "U05V81G5ZDY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "text": "출석부 전달 드립니다!\n금일(10\/26)일자 출결은 익일 처리되어 현재 결석으로 나타납니다\n참고 바랍니다.",
+        "files": [
+            {
+                "id": "F062S135T6Z",
+                "created": 1698280871,
+                "timestamp": 1698280871,
+                "name": "20231026094059289.pdf",
+                "title": "20231026094059289.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U05V81G5ZDY",
+                "user_team": "T05UGFFGL07",
+                "editable": false,
+                "size": 77848,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F062S135T6Z\/20231026094059289.pdf?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F062S135T6Z\/download\/20231026094059289.pdf?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "media_display_type": "unknown",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F062S135T6Z-16431cb583\/20231026094059289_thumb_pdf.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_pdf_w": 1286,
+                "thumb_pdf_h": 909,
+                "permalink": "https:\/\/fcupstageai1.slack.com\/files\/U05V81G5ZDY\/F062S135T6Z\/20231026094059289.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/T05UGFFGL07-F062S135T6Z-e791483393",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U05V81G5ZDY",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5rE0i",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "출석부 전달 드립니다!\n금일(10\/26)일자 출결은 익일 처리되어 현재 결석으로 나타납니다\n참고 바랍니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1698280899.086749",
+        "client_msg_id": "3622cb10-389a-4a70-b51d-4f3de7fa4e2e",
+        "thread_ts": "1698228114.269689",
+        "parent_user_id": "U05UT0JG4BZ"
+    },
+    {
+        "user": "U05UT0JG4BZ",
+        "type": "message",
+        "ts": "1698281856.175639",
+        "client_msg_id": "1d6b731d-9d23-4031-a022-16c66c0c929d",
+        "text": "<@U05V81G5ZDY>\n\n23일 공가 신청 미승인 처리가 되어있어서 나중에 처리되는 것인지 다른 이유로 미승인된 것인지 궁금합니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "g9153b403f05",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/9153b403f05c51f82cac8dec3d6d8e3a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "김다운",
+            "real_name": "김다운",
+            "display_name": "김다운",
+            "team": "T05UGFFGL07",
+            "name": "ekdns7500",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698228114.269689",
+        "parent_user_id": "U05UT0JG4BZ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "38ztM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05V81G5ZDY"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n23일 공가 신청 미승인 처리가 되어있어서 나중에 처리되는 것인지 다른 이유로 미승인된 것인지 궁금합니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray::skin-tone-2",
+                "users": [
+                    "U05V81G5ZDY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05V81G5ZDY",
+        "type": "message",
+        "ts": "1698283130.386169",
+        "client_msg_id": "9db25b56-6990-43ab-823a-6a455b6b1635",
+        "text": "공가 신청 보고 올렸습니다. 센터에서 승인되어 HRD 반영까지는 2-3주 정도 소요됩니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "db1aceeb0d90",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5994058472162_db1aceeb0d9030c57e69_72.jpg",
+            "first_name": "김현우",
+            "real_name": "김현우",
+            "display_name": "FC 김현우 매니저",
+            "team": "T05UGFFGL07",
+            "name": "hyunwoo.kim",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698228114.269689",
+        "parent_user_id": "U05UT0JG4BZ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RFl9C",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "공가 신청 보고 올렸습니다. 센터에서 승인되어 HRD 반영까지는 2-3주 정도 소요됩니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05UT0JG4BZ",
+        "type": "message",
+        "ts": "1698294670.423689",
+        "client_msg_id": "c5cadc25-75e3-4fdb-8390-436aaa950485",
+        "text": "<@U05V81G5ZDY>\n아 네 설명해 주셔서 감사합니다\n\n문의해보니 26일자가 포함되어야 해서 혹시 내일 26일 출석체크가 포함된 출석부로 다시 요청드려도 될까요?\n\n번거롭게 해드려 죄송합니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "g9153b403f05",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/9153b403f05c51f82cac8dec3d6d8e3a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "김다운",
+            "real_name": "김다운",
+            "display_name": "김다운",
+            "team": "T05UGFFGL07",
+            "name": "ekdns7500",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698228114.269689",
+        "parent_user_id": "U05UT0JG4BZ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oi9+o",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05V81G5ZDY"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n아 네 설명해 주셔서 감사합니다\n\n문의해보니 26일자가 포함되어야 해서 혹시 내일 26일 출석체크가 포함된 출석부로 다시 요청드려도 될까요?\n\n번거롭게 해드려 죄송합니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "U05V81G5ZDY"
+                ],
+                "count": 1
+            },
+            {
+                "name": "pray::skin-tone-2",
+                "users": [
+                    "U05V81G5ZDY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05V81G5ZDY",
+        "type": "message",
+        "ts": "1698294813.907629",
+        "client_msg_id": "e11a0f48-b4e0-4593-ab62-ee9ac90785e7",
+        "text": "내일 다시 국취서류 양식으로 문의주세요!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "db1aceeb0d90",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5994058472162_db1aceeb0d9030c57e69_72.jpg",
+            "first_name": "김현우",
+            "real_name": "김현우",
+            "display_name": "FC 김현우 매니저",
+            "team": "T05UGFFGL07",
+            "name": "hyunwoo.kim",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698228114.269689",
+        "parent_user_id": "U05UT0JG4BZ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/hkuP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "내일 다시 국취서류 양식으로 문의주세요!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U05UT0JG4BZ"
+                ],
+                "count": 1
+            },
+            {
+                "name": "eyes",
+                "users": [
+                    "U05UT0JG4BZ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U060LG0BT89",
+        "type": "message",
+        "ts": "1698296474.463009",
+        "client_msg_id": "7a73754e-4a17-4b78-8242-acc62741843d",
+        "text": "<@U05UNC6FNK1> <@U05V81G5ZDY> 지각 정정 요청이 어떻게 처리되었는지 확인해주실 수 있을까요?",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "g273c76b80b5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/273c76b80b5c013cab6c608d10041dd4.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "김준호",
+            "real_name": "김준호",
+            "display_name": "",
+            "team": "T05UGFFGL07",
+            "name": "demyank88",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698055173.274529",
+        "parent_user_id": "U0600BP2J9H",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ydBfK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05UNC6FNK1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05V81G5ZDY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 지각 정정 요청이 어떻게 처리되었는지 확인해주실 수 있을까요?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray::skin-tone-2",
+                "users": [
+                    "U05V81G5ZDY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05V81G5ZDY",
+        "type": "message",
+        "ts": "1698298305.047849",
+        "client_msg_id": "faf0b580-6919-425f-8327-28ffa1a0d861",
+        "text": "<@U060LG0BT89> 안녕하세요 행정 매니저입니다.\n정정 요청이 *정상 신청*되어 보고 올린 상태입니다.\n*센터에서 승인 후 HRD 반영까지 2-3 주 정도 소요*됩니다! 정상 신청 되어 반영되면 출석으로 변경될 예정입니다.\n\n*이모지 체크 확인*하시어 확인했다고 생각해주시면 되고 혹시나 요청드릴 부분있으면 행정문의 방에 태깅하여 연락드리겠습니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "db1aceeb0d90",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5994058472162_db1aceeb0d9030c57e69_72.jpg",
+            "first_name": "김현우",
+            "real_name": "김현우",
+            "display_name": "FC 김현우 매니저",
+            "team": "T05UGFFGL07",
+            "name": "hyunwoo.kim",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698055173.274529",
+        "parent_user_id": "U0600BP2J9H",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lFaqV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U060LG0BT89"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 안녕하세요 행정 매니저입니다.\n정정 요청이 "
+                            },
+                            {
+                                "type": "text",
+                                "text": "정상 신청",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "되어 보고 올린 상태입니다.\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "센터에서 승인 후 HRD 반영까지 2-3 주 정도 소요",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "됩니다! 정상 신청 되어 반영되면 출석으로 변경될 예정입니다.\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "이모지 체크 확인",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "하시어 확인했다고 생각해주시면 되고 혹시나 요청드릴 부분있으면 행정문의 방에 태깅하여 연락드리겠습니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U060LG0BT89"
+                ],
+                "count": 1
+            },
+            {
+                "name": "bow",
+                "users": [
+                    "U060LG0BT89"
+                ],
+                "count": 1
+            },
+            {
+                "name": "ne",
+                "users": [
+                    "U060LG0BT89"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

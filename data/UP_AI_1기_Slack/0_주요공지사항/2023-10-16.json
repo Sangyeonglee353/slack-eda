@@ -1,0 +1,247 @@
+[
+    {
+        "user": "U05UYAVRTSR",
+        "type": "message",
+        "ts": "1697439600.582339",
+        "client_msg_id": "c86fce4e-d416-42d7-9604-7f33b09d59ab",
+        "text": "*<!channel> [온라인 수강 안내 시트 업데이트 안내]*\n\n파이썬 강의에 대한 온라인 수강 안내 시트가 업데이트 되었습니다.\n온라인 강의는 전주 금요일에 입과가 완료되었으니, 모두 확인 부탁드립니다.\n&gt; &lt;https:\/\/docs.google.com\/spreadsheets\/d\/1ypFcX5rHBUsAoYDUN3TmQClpGnR8wyoaUnBoV4hrZ-4\/edit#gid=1263938839\n&gt; |온라인 수강 안내 시트&gt;\n&gt; *권장 강의* \n    ◦ 필요한 부분을 학습하실 수 있도록 추가로 제공되는 강의\n    ◦ 수강률에 반영 X\n&gt; *필수 강의 (A)*\n    ◦ 기초 이론 학습이 필요한 분들이 필수적으로 수강해주셔야 되는 강의\n&gt; *필수 강의 (B)*\n    ◦ 파이썬 기초 이론 학습이 불필요한 분들이 필수적으로 수강해주셔야 되는 프로젝트 강의\n** 다만, A 강의를 선택하여 수강하시는 분들도 10월 24일에는 B 강좌에 포함되어 있는 강의를 수강해주셔야 합니다.\nA 강의 B 강의 모두 수강하셔도 되며, 더 높은 수강률을 보인 강의로 수강률이 반영됩니다.\n\n학습 수준에 차이가 있어, 위와 같이 안내드립니다 :slightly_smiling_face: 궁금하신 사항은 편히 <#C0606642LHW|1_운영질문방> 에 남겨주세요! 월요일 오후 화이팅입니다 :mending_heart:",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "g6e6ee900c48",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e6ee900c48c19701d150f52a69af64a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "김수현",
+            "real_name": "김수현",
+            "display_name": "FC 김수현 매니저",
+            "team": "T05UGFFGL07",
+            "name": "suhyunkim",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RXCet",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " [온라인 수강 안내 시트 업데이트 안내]",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n파이썬 강의에 대한 온라인 수강 안내 시트가 업데이트 되었습니다.\n온라인 강의는 전주 금요일에 입과가 완료되었으니, 모두 확인 부탁드립니다.\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/spreadsheets\/d\/1ypFcX5rHBUsAoYDUN3TmQClpGnR8wyoaUnBoV4hrZ-4\/edit#gid=1263938839\n",
+                                "text": "온라인 수강 안내 시트"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "권장 강의 ",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "필요한 부분을 학습하실 수 있도록 추가로 제공되는 강의"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "수강률에 반영 X"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "필수 강의 (A)",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "기초 이론 학습이 필요한 분들이 필수적으로 수강해주셔야 되는 강의"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "필수 강의 (B)",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "파이썬 기초 이론 학습이 불필요한 분들이 필수적으로 수강해주셔야 되는 프로젝트 강의"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n** 다만, A 강의를 선택하여 수강하시는 분들도 10월 24일에는 B 강좌에 포함되어 있는 강의를 수강해주셔야 합니다.\nA 강의 B 강의 모두 수강하셔도 되며, 더 높은 수강률을 보인 강의로 수강률이 반영됩니다.\n\n학습 수준에 차이가 있어, 위와 같이 안내드립니다 "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 궁금하신 사항은 편히 "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C0606642LHW"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 에 남겨주세요! 월요일 오후 화이팅입니다 "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "mending_heart",
+                                "unicode": "2764-fe0f-200d-1fa79"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U05V9LP47V0",
+                    "U05UW1S4KQE",
+                    "U060D1KJECR",
+                    "U060LG0BT89",
+                    "U05V561TXUL",
+                    "U05UT0JG4BZ",
+                    "U05V9N22ZUK",
+                    "U0606QGQYE5",
+                    "U0600GGHJTC",
+                    "U05V2P37518",
+                    "U05V7H78DUM",
+                    "U05V2HL22M9",
+                    "U05V5B27DK7",
+                    "U05VC7EEY5Q",
+                    "U05V868K2JE",
+                    "U05V0106JDT",
+                    "U05UVV5CVQE",
+                    "U05V4KZR3NW",
+                    "U05UNMQ4LP9",
+                    "U05V379NETU",
+                    "U05UZLEM04V"
+                ],
+                "count": 21
+            }
+        ]
+    }
+]

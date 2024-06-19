@@ -1,0 +1,244 @@
+[
+    {
+        "user": "U05V9N22ZUK",
+        "type": "message",
+        "ts": "1705301894.916619",
+        "client_msg_id": "8cf480a7-9ee1-43e8-82a9-3a59f1f803a9",
+        "text": "각 그룹별 Fork가 현재 불가능하게 설정되어 있는데 혹시 이거 풀어주실 예정이신가요?",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "0698995c863f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5998310079844_0698995c863fed7643f0_72.png",
+            "first_name": "TaeHan",
+            "real_name": "TaeHan Kim",
+            "display_name": "김태한",
+            "team": "T05UGFFGL07",
+            "name": "kthnineone",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1705301894.916619",
+        "reply_count": 6,
+        "reply_users_count": 2,
+        "latest_reply": "1705465332.255099",
+        "reply_users": [
+            "U05VADPQPCL",
+            "U05V9N22ZUK"
+        ],
+        "replies": [
+            {
+                "user": "U05VADPQPCL",
+                "ts": "1705302128.705819"
+            },
+            {
+                "user": "U05V9N22ZUK",
+                "ts": "1705302178.128279"
+            },
+            {
+                "user": "U05VADPQPCL",
+                "ts": "1705302229.886229"
+            },
+            {
+                "user": "U05V9N22ZUK",
+                "ts": "1705302246.163559"
+            },
+            {
+                "user": "U05VADPQPCL",
+                "ts": "1705464753.212639"
+            },
+            {
+                "user": "U05V9N22ZUK",
+                "ts": "1705465332.255099"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+gPHN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "각 그룹별 Fork가 현재 불가능하게 설정되어 있는데 혹시 이거 풀어주실 예정이신가요?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05VADPQPCL",
+        "type": "message",
+        "ts": "1705302128.705819",
+        "client_msg_id": "e966ee07-e0f4-4e30-b72b-7231c792ad91",
+        "text": "안녕하세요 태한님!\n경진 대회 이후 모든 조의 Repo가 Public으로 전환되며 그 때부터 Fork가 가능하도록 변경 됩니다!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "07e7ca00b8f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5991092857253_07e7ca00b8f0d0b13ba1_72.png",
+            "first_name": "패스트캠퍼스박기준",
+            "real_name": "패스트캠퍼스박기준",
+            "display_name": "LM 박기준",
+            "team": "T05UGFFGL07",
+            "name": "pgj.fc.career",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1705301894.916619",
+        "parent_user_id": "U05V9N22ZUK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HfTmj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "안녕하세요 태한님!\n경진 대회 이후 모든 조의 Repo가 Public으로 전환되며 그 때부터 Fork가 가능하도록 변경 됩니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05V9N22ZUK",
+        "type": "message",
+        "ts": "1705302178.128279",
+        "client_msg_id": "f60d8f2a-f91c-4d4e-8a50-a240cd392a23",
+        "text": "<@U05VADPQPCL> 경진대회가 끝난 이후라고 이해하면 될까요?",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "0698995c863f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5998310079844_0698995c863fed7643f0_72.png",
+            "first_name": "TaeHan",
+            "real_name": "TaeHan Kim",
+            "display_name": "김태한",
+            "team": "T05UGFFGL07",
+            "name": "kthnineone",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1705301894.916619",
+        "parent_user_id": "U05V9N22ZUK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Q9qHk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05VADPQPCL"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 경진대회가 끝난 이후라고 이해하면 될까요?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05VADPQPCL",
+        "type": "message",
+        "ts": "1705302229.886229",
+        "client_msg_id": "f849482d-dc96-402a-8039-9949d12fd38e",
+        "text": "네 맞습니다 26일 19시 이후부터 가능합니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "07e7ca00b8f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5991092857253_07e7ca00b8f0d0b13ba1_72.png",
+            "first_name": "패스트캠퍼스박기준",
+            "real_name": "패스트캠퍼스박기준",
+            "display_name": "LM 박기준",
+            "team": "T05UGFFGL07",
+            "name": "pgj.fc.career",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1705301894.916619",
+        "parent_user_id": "U05V9N22ZUK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uZ3jd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "네 맞습니다 26일 19시 이후부터 가능합니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05V9N22ZUK",
+        "type": "message",
+        "ts": "1705302246.163559",
+        "client_msg_id": "605406ff-67a8-4795-af82-cc7f444ee68b",
+        "text": "<@U05VADPQPCL> 네 확인했습니다. 감사합니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "0698995c863f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5998310079844_0698995c863fed7643f0_72.png",
+            "first_name": "TaeHan",
+            "real_name": "TaeHan Kim",
+            "display_name": "김태한",
+            "team": "T05UGFFGL07",
+            "name": "kthnineone",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1705301894.916619",
+        "parent_user_id": "U05V9N22ZUK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wn8P4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05VADPQPCL"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 네 확인했습니다. 감사합니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

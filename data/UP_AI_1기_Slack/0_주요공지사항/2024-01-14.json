@@ -1,0 +1,652 @@
+[
+    {
+        "user": "U05V2PMAVNE",
+        "type": "message",
+        "ts": "1705281605.529259",
+        "client_msg_id": "ea5fd1ce-e316-4431-995f-1fe3fd917e38",
+        "text": "<@U05VADPQPCL> 사이트 접속했을 때 아무것도 보이지 않는데 아직 안보이는게 맞나요??",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "0b76558dc601",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5991261451140_0b76558dc60118dba6df_72.png",
+            "first_name": "윤수인",
+            "real_name": "윤수인",
+            "display_name": "",
+            "team": "T05UGFFGL07",
+            "name": "dbsdev98",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1704679275.430649",
+        "parent_user_id": "U05VADPQPCL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/TaPd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05VADPQPCL"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 사이트 접속했을 때 아무것도 보이지 않는데 아직 안보이는게 맞나요??"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U060C67EYQ5",
+        "type": "message",
+        "ts": "1705283915.842729",
+        "client_msg_id": "2d287dc1-19cb-4f6b-b06d-d7f0642c1528",
+        "text": "<!channel> 오늘부터 Machine Learning Advanced 첫 번쨰 경진대회가 시작됩니다!\n\n처음으로 인프라를 활용하여 대회를 참여하는 분들도 계실 것 같은데요!\n여러분들이 학습 및 참여 중 마주하는 이슈에 대해 신속정확:truck: 문제해결 지원을 위해 아래 유의사항 리마인드 드립니다.\n\n&gt; • *플랫폼 이용 관련 문의*\nAI Stages 플랫폼을 사용하시다가 마주하시는 *서버* 이슈, *VPN* 이슈 등은 모두 *\"게시판 &gt; 플랫폼 이슈 문의\"* 를 활용해주세요.\n개발자 분들께서 신속히 대응을 해주실 예정입니다. 원활한 문제 해결을 위해 이슈 상황에 대해서는 최대한 상세하게 작성해주세요.\n\n&gt; • *대회 참여 방법 및 그라운드룰 관련 문의*\nAI Stages 내 \"게시판 &gt; 프로젝트 문의\" 통해서 남겨주셔도 좋으나, <#C0606642LHW|1_운영질문방> 에 남겨주셔도 좋습니다.\n다른 분들도 실시간으로 대회 참여 관련 사항을 살펴보실 수 있도록 가급적 슬랙에 질문 남겨주세요.\n<@U0608EG7YEA> <@U0600HN24UX> <@U06AY7UPXFT> 운영진이 확인 후 대응해주실 예정입니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "831ed525b276",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-11-14\/6192884585138_831ed525b276222009d0_72.png",
+            "first_name": "업스테이지",
+            "real_name": "업스테이지 김의겸(Dave)",
+            "display_name": "UP 김의겸(Dave) 매니저",
+            "team": "T05UGFFGL07",
+            "name": "euigyum",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "03fzu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 오늘부터 Machine Learning Advanced 첫 번쨰 경진대회가 시작됩니다!\n\n처음으로 인프라를 활용하여 대회를 참여하는 분들도 계실 것 같은데요!\n여러분들이 학습 및 참여 중 마주하는 이슈에 대해 신속정확"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "truck",
+                                "unicode": "1f69a"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 문제해결 지원을 위해 아래 유의사항 리마인드 드립니다.\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "플랫폼 이용 관련 문의",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 1
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "AI Stages 플랫폼을 사용하시다가 마주하시는 "
+                            },
+                            {
+                                "type": "text",
+                                "text": "서버",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " 이슈, "
+                            },
+                            {
+                                "type": "text",
+                                "text": "VPN",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " 이슈 등은 모두 "
+                            },
+                            {
+                                "type": "text",
+                                "text": "\"게시판 > 플랫폼 이슈 문의\"",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " 를 활용해주세요.\n개발자 분들께서 신속히 대응을 해주실 예정입니다. 원활한 문제 해결을 위해 이슈 상황에 대해서는 최대한 상세하게 작성해주세요.\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "대회 참여 방법 및 그라운드룰 관련 문의",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 1
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "AI Stages 내 \"게시판 > 프로젝트 문의\" 통해서 남겨주셔도 좋으나, "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C0606642LHW"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 에 남겨주셔도 좋습니다.\n다른 분들도 실시간으로 대회 참여 관련 사항을 살펴보실 수 있도록 가급적 슬랙에 질문 남겨주세요.\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0608EG7YEA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0600HN24UX"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06AY7UPXFT"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 운영진이 확인 후 대응해주실 예정입니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U05VADPQPCL",
+                    "U05VAHXECP6",
+                    "U06CBFKNBFF",
+                    "U0608EG7YEA",
+                    "U065TBUL5EE",
+                    "U05V5B27DK7",
+                    "U05UWVA90H4"
+                ],
+                "count": 7
+            },
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U05V9N22ZUK",
+                    "U0606QGQYE5",
+                    "U05UWVA90H4"
+                ],
+                "count": 3
+            },
+            {
+                "name": "meow_noddies",
+                "users": [
+                    "U05V2PMAVNE",
+                    "U05UWVA90H4"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U05VAHXECP6",
+        "type": "message",
+        "ts": "1705298011.297359",
+        "client_msg_id": "4ba3b977-5fbe-4db4-8575-4a0a44a15afc",
+        "text": "<!channel> 안녕하세요. 수강생 여러분! 금일 저녘에 예정된 특강과 관련하여 안내 드립니다.\n강의 자료는 저작권 문제로 배포되지 않으니, 강의 시간에 집중해주시길 바랍니다.\n\n&gt; *현직자 특강 안내*\n• 특강 연사: 김현우 강사님\n• 특강 일정: 1\/15(월) 18:00 ~ 19:00\n• 특강 주제: 강사님의 삶과 커리어 &amp; ML 경진 대회 참여기 공유\n• 특강 개요\n```업스테이지 합류 이전의 강사님의 커리어 여정과 경험을 소개하며, 업스테이지 합류 배경과 현재 하는 일을 소개합니다. 더불어, 담당 강의(ML Advanced)에서 진행되는 대회의 특징과 참여 전략을 소개하는데, 강사님의 Kaggle 대회 참여 경험을 토대로 ML Advanced 대회의 단계별 학습\/참여 팁 및 전략을 나눠주실 예정입니다.```\n",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "50abee101814",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-11\/6044824153712_50abee1018149e21919b_72.jpg",
+            "first_name": "이상영",
+            "real_name": "이상영",
+            "display_name": "FC 이상영 매니저",
+            "team": "T05UGFFGL07",
+            "name": "sangyeong.lee",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0Pn5h",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 안녕하세요. 수강생 여러분! 금일 저녘에 예정된 특강과 관련하여 안내 드립니다.\n강의 자료는 저작권 문제로 배포되지 않으니, 강의 시간에 집중해주시길 바랍니다.\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "현직자 특강 안내",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "특강 연사: 김현우 강사님"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "특강 일정: 1\/15(월) 18:00 ~ 19:00"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "특강 주제: 강사님의 삶과 커리어 & ML 경진 대회 참여기 공유"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "특강 개요"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "업스테이지 합류 이전의 강사님의 커리어 여정과 경험을 소개하며, 업스테이지 합류 배경과 현재 하는 일을 소개합니다. 더불어, 담당 강의(ML Advanced)에서 진행되는 대회의 특징과 참여 전략을 소개하는데, 강사님의 Kaggle 대회 참여 경험을 토대로 ML Advanced 대회의 단계별 학습\/참여 팁 및 전략을 나눠주실 예정입니다."
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U05V9LP47V0",
+                    "U05UT0JG4BZ",
+                    "U05V379NETU",
+                    "U05UVV5CVQE",
+                    "U05V5B27DK7",
+                    "U0600GGHJTC"
+                ],
+                "count": 6
+            }
+        ]
+    },
+    {
+        "user": "U05VADPQPCL",
+        "type": "message",
+        "ts": "1705299482.652009",
+        "edited": {
+            "user": "U05VADPQPCL",
+            "ts": "1705299550.000000"
+        },
+        "client_msg_id": "8273eed9-fe17-4e91-8153-e2b01f5480a5",
+        "text": "<!channel>\n안녕하세요. Upstage AI Lab 1기 수강생 여러분들!\nAI Stages를 활용한 경진대회가 드디어 오늘부터 시작되었습니다.\n지금까지 열심히 달려오시면서 얻으신 것들 최대한 활용하셔서 좋은 결과 내셨으면 좋겠습니다!\n\n> *경진대회 제출물 안내*\n경진대회에서 우수한 성적을 내는 것도 물론 중요하지만, 이후 포트폴리오 활용을 위해서는 경진대회를 어떻게 진행했는지, 어떠한 역할을 하셨는지 정리도 중요합니다.\n따라서, Upstage AI Lab 1기 과정은 총 4개의 경진대회를 진행하는데 각 대회마다 팀별 발표 자료 및 보고서를 제출해주시기 바랍니다. 보고서는 팀별 1개, 개인별 1개씩 블로그\/노션 등을 활용하여 작성합니다.\n• <https:\/\/quickest-asterisk-75d.notion.site\/Upstage-AI-Lab-Fast-Up-Report-475bd26ed2c5448db1cfef8e5532c1d9?pvs=4|경진대회 제출물 Fast-Up Report 안내 노션>\n> *팀 발표 자료 안내*\n팀별 발표 자료는 각 팀의 Github Classroom Repo 안의 *docs\/pdf* 디렉토리에 업로드 부탁 드립니다. 해당 디렉토리에는 발표 가이드 및 템플릿 PPT가 있으며 참고하시길 바랍니다.\n\n>  *팀 보고서 안내*\n팀 보고서의 경우 Git Classroom Repo에 있는 `Readme.md 양식`을 활용하셔서 작성하시면 됩니다. Readme.md 목차와 아래 팀 보고서 작성 세부 가이드라인을 참고하셔서 작성 부탁드리겠습니다.\n• <https:\/\/quickest-asterisk-75d.notion.site\/Fast-Up-Team-Report-3a8a6a02d61a4f01838191c9c0d9ae8e?pvs=4|Fast-Up Team Report 작성 세부 가이드라인>\n> *개인 보고서 안내*\n개인 보고서의 경우 아래 Fast-Up Report Guide 링크 참고하시고 블로그\/노션 등 활용하셔서 작성하시면 됩니다. 본 과정에서 제공 드리는 양식은 2개이며 *`Guide 1`*은 수강생분들의 부담을 덜고자 간단한 내용들로 구성되어 있으며,\n*`Guide 2`*의 경우 경진대회부터 회고까지 세부적인 내용을 다루며 포트폴리오로 활용하기 좋습니다. 제출 방법은 추후 다시 공지 드리겠습니다.\n• <https:\/\/quickest-asterisk-75d.notion.site\/Fast-Up-Report-Guide-1-14ba6187a854452ca6903e8ceb531eba?pvs=4|Fast-Up Report Guide 1>\n• <https:\/\/quickest-asterisk-75d.notion.site\/Fast-Up-Report-Guide-2-2ed7602818ff458b9d99f50b476bd702?pvs=4|Fast-Up Report Guide 2>\n*보고서 및 발표 자료 가이드와 템플릿은 기본적인 가이드이며, 추가적인 내용, 세부 구성과 디자인, 작성 방법 등은 팀\/개인 별로 자율적으로 작성해주시면 됩니다.*",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "07e7ca00b8f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5991092857253_07e7ca00b8f0d0b13ba1_72.png",
+            "first_name": "패스트캠퍼스박기준",
+            "real_name": "패스트캠퍼스박기준",
+            "display_name": "LM 박기준",
+            "team": "T05UGFFGL07",
+            "name": "pgj.fc.career",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LOyAD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n안녕하세요. Upstage AI Lab 1기 수강생 여러분들!\nAI Stages를 활용한 경진대회가 드디어 오늘부터 시작되었습니다.\n지금까지 열심히 달려오시면서 얻으신 것들 최대한 활용하셔서 좋은 결과 내셨으면 좋겠습니다!\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "경진대회 제출물 안내",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "경진대회에서 우수한 성적을 내는 것도 물론 중요하지만, 이후 포트폴리오 활용을 위해서는 경진대회를 어떻게 진행했는지, 어떠한 역할을 하셨는지 정리도 중요합니다.\n따라서, Upstage AI Lab 1기 과정은 총 4개의 경진대회를 진행하는데 각 대회마다 팀별 발표 자료 및 보고서를 제출해주시기 바랍니다. 보고서는 팀별 1개, 개인별 1개씩 블로그\/노션 등을 활용하여 작성합니다.\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/quickest-asterisk-75d.notion.site\/Upstage-AI-Lab-Fast-Up-Report-475bd26ed2c5448db1cfef8e5532c1d9?pvs=4",
+                                        "text": "경진대회 제출물 Fast-Up Report 안내 노션"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "팀 발표 자료 안내",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "팀별 발표 자료는 각 팀의 Github Classroom Repo 안의 "
+                            },
+                            {
+                                "type": "text",
+                                "text": "docs\/pdf",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " 디렉토리에 업로드 부탁 드립니다. 해당 디렉토리에는 발표 가이드 및 템플릿 PPT가 있으며 참고하시길 바랍니다.\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": " 팀 보고서 안내",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "팀 보고서의 경우 Git Classroom Repo에 있는 "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Readme.md 양식",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "을 활용하셔서 작성하시면 됩니다. Readme.md 목차와 아래 팀 보고서 작성 세부 가이드라인을 참고하셔서 작성 부탁드리겠습니다.\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/quickest-asterisk-75d.notion.site\/Fast-Up-Team-Report-3a8a6a02d61a4f01838191c9c0d9ae8e?pvs=4",
+                                        "text": "Fast-Up Team Report 작성 세부 가이드라인"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "개인 보고서 안내",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "개인 보고서의 경우 아래 Fast-Up Report Guide 링크 참고하시고 블로그\/노션 등 활용하셔서 작성하시면 됩니다. 본 과정에서 제공 드리는 양식은 2개이며 "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Guide 1",
+                                "style": {
+                                    "bold": true,
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "은 수강생분들의 부담을 덜고자 간단한 내용들로 구성되어 있으며,\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Guide 2",
+                                "style": {
+                                    "bold": true,
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "의 경우 경진대회부터 회고까지 세부적인 내용을 다루며 포트폴리오로 활용하기 좋습니다. 제출 방법은 추후 다시 공지 드리겠습니다.\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/quickest-asterisk-75d.notion.site\/Fast-Up-Report-Guide-1-14ba6187a854452ca6903e8ceb531eba?pvs=4",
+                                        "text": "Fast-Up Report Guide 1"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/quickest-asterisk-75d.notion.site\/Fast-Up-Report-Guide-2-2ed7602818ff458b9d99f50b476bd702?pvs=4",
+                                        "text": "Fast-Up Report Guide 2"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "보고서 및 발표 자료 가이드와 템플릿은 기본적인 가이드이며, 추가적인 내용, 세부 구성과 디자인, 작성 방법 등은 팀\/개인 별로 자율적으로 작성해주시면 됩니다.",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

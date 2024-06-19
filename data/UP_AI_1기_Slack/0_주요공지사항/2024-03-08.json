@@ -1,0 +1,623 @@
+[
+    {
+        "text": "<!channel> 안녕하세요, 여러분!\n\n불타는 금요일을 마무리하기에 앞서 LLM 기술을 보다 쉽게 이해할 수 있도록 도와줄 *Upstage Trend Report* 자료 다운로드 안내드립니다! :party_blob-1:\n\n:white_check_mark: *LLM 학습보층 자료 신청 링크 :* <https:\/\/go.upstage.ai\/llm_trendreport_share|https:\/\/go.upstage.ai\/llm_trendreport_share>\n• 신청 양식 중, ‘*Company | 회사명(소속)*’ 영역은 \"소속 학교명(휴학\/졸업예정 포함) 또는 *회사명*\"으로 기재하시되- 해당 없을 경우, “*Upstage AI Lab 1기*” 로 기입해주세요.\n사업용 자료이기에 부득이하게 파일 공유가 아닌, 업스테이지 홈페이지 통한 자료 신청 및 다운로드 안내드리오니 위 링크 통하여 신청하셔서 알차게 구성된 LLM 자료 확인하시기 바랍니다!\n\n지난 김윤기 강사님의 LLM 특강 이후, 강사님께서 여러분들이 기본 개념에 대해서 본 자료 통하여 조금 더 쉽고 직관적으로 이해하실 수 있기를 기대하셔서 업스테이지 내부 논의 후 공유드리게 되었습니다.\n\n신청하시면 *분기별로 LLM 최신 기술의 개념과 응용 분야의 동향* 관련 요약 콘텐츠와 그리고 *업스테이지 기술 콘텐츠*도 정기적으로 확인할 수 있습니다!\n\n계속해서 여러분들이 최신 LLM 기술을 쉽고 정확하게 이해할 수 있도록하는 알찬 특강과 콘텐츠 준비하여 제공해드리겠습니다.\n\n감사합니다!",
+        "files": [
+            {
+                "id": "F06NGQMD7UM",
+                "created": 1709889804,
+                "timestamp": 1709889804,
+                "name": "IMG_0484.png",
+                "title": "IMG_0484",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U060C67EYQ5",
+                "user_team": "T05UGFFGL07",
+                "editable": false,
+                "size": 443871,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F06NGQMD7UM\/img_0484.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F06NGQMD7UM\/download\/img_0484.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06NGQMD7UM-a0c2e3f173\/img_0484_64.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06NGQMD7UM-a0c2e3f173\/img_0484_80.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06NGQMD7UM-a0c2e3f173\/img_0484_360.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_360_w": 360,
+                "thumb_360_h": 203,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06NGQMD7UM-a0c2e3f173\/img_0484_480.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_480_w": 480,
+                "thumb_480_h": 271,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06NGQMD7UM-a0c2e3f173\/img_0484_160.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06NGQMD7UM-a0c2e3f173\/img_0484_720.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_720_w": 720,
+                "thumb_720_h": 407,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06NGQMD7UM-a0c2e3f173\/img_0484_800.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_800_w": 800,
+                "thumb_800_h": 452,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06NGQMD7UM-a0c2e3f173\/img_0484_960.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_960_w": 960,
+                "thumb_960_h": 543,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06NGQMD7UM-a0c2e3f173\/img_0484_1024.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 579,
+                "original_w": 2350,
+                "original_h": 1328,
+                "thumb_tiny": "AwAbADDQzQelFJg5pgJk\/wB4flSncP4v0paT6mgABz60tJ9DQOvXNACkZpMgU6igBuM8ik+b+7T6KAG49hSgH2paKAP\/2Q==",
+                "permalink": "https:\/\/fcupstageai1.slack.com\/files\/U060C67EYQ5\/F06NGQMD7UM\/img_0484.png",
+                "permalink_public": "https:\/\/slack-files.com\/T05UGFFGL07-F06NGQMD7UM-ad8d1c98a0",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            },
+            {
+                "id": "F06NYC52N1X",
+                "created": 1709889804,
+                "timestamp": 1709889804,
+                "name": "IMG_0485.png",
+                "title": "IMG_0485",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U060C67EYQ5",
+                "user_team": "T05UGFFGL07",
+                "editable": false,
+                "size": 451401,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F06NYC52N1X\/img_0485.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F06NYC52N1X\/download\/img_0485.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06NYC52N1X-15cfcf470b\/img_0485_64.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06NYC52N1X-15cfcf470b\/img_0485_80.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06NYC52N1X-15cfcf470b\/img_0485_360.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_360_w": 360,
+                "thumb_360_h": 199,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06NYC52N1X-15cfcf470b\/img_0485_480.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_480_w": 480,
+                "thumb_480_h": 266,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06NYC52N1X-15cfcf470b\/img_0485_160.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06NYC52N1X-15cfcf470b\/img_0485_720.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_720_w": 720,
+                "thumb_720_h": 399,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06NYC52N1X-15cfcf470b\/img_0485_800.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_800_w": 800,
+                "thumb_800_h": 443,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06NYC52N1X-15cfcf470b\/img_0485_960.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_960_w": 960,
+                "thumb_960_h": 532,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06NYC52N1X-15cfcf470b\/img_0485_1024.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 567,
+                "original_w": 2314,
+                "original_h": 1282,
+                "thumb_tiny": "AwAaADC7uw2D0pxPA5FJg56ClOMDoKoQZ9xRu68ikwPX9KMD60DHZ\/zmgf55poVc8gZoCrnoM0ALQe1FOHSgQwAe9LjHPNOwPSikMbu9qB16U6igD\/\/Z",
+                "permalink": "https:\/\/fcupstageai1.slack.com\/files\/U060C67EYQ5\/F06NYC52N1X\/img_0485.png",
+                "permalink_public": "https:\/\/slack-files.com\/T05UGFFGL07-F06NYC52N1X-3059a45877",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U060C67EYQ5",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "c1ESm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 안녕하세요, 여러분!\n\n불타는 금요일을 마무리하기에 앞서 LLM 기술을 보다 쉽게 이해할 수 있도록 도와줄 "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Upstage Trend Report",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false,
+                                    "strike": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " 자료 다운로드 안내드립니다! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "party_blob-1"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false,
+                                    "strike": false
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "white_check_mark",
+                                "unicode": "2705",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false,
+                                    "strike": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " LLM 학습보층 자료 신청 링크 : ",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false,
+                                    "strike": false
+                                }
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/go.upstage.ai\/llm_trendreport_share",
+                                "text": "https:\/\/go.upstage.ai\/llm_trendreport_share"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "신청 양식 중, ‘"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "Company | 회사명(소속)",
+                                        "style": {
+                                            "bold": true,
+                                            "italic": false,
+                                            "strike": false
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "’ 영역은 \"소속 학교명(휴학\/졸업예정 포함) 또는 "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "회사명",
+                                        "style": {
+                                            "bold": true,
+                                            "italic": false,
+                                            "strike": false
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "\"으로 기재하시되- 해당 없을 경우, “"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "Upstage AI Lab 1기",
+                                        "style": {
+                                            "bold": true,
+                                            "italic": false,
+                                            "strike": false
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "” 로 기입해주세요."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "offset": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n사업용 자료이기에 부득이하게 파일 공유가 아닌, 업스테이지 홈페이지 통한 자료 신청 및 다운로드 안내드리오니 위 링크 통하여 신청하셔서 알차게 구성된 LLM 자료 확인하시기 바랍니다!\n\n지난 김윤기 강사님의 LLM 특강 이후, 강사님께서 여러분들이 기본 개념에 대해서 본 자료 통하여 조금 더 쉽고 직관적으로 이해하실 수 있기를 기대하셔서 업스테이지 내부 논의 후 공유드리게 되었습니다.\n\n신청하시면 "
+                            },
+                            {
+                                "type": "text",
+                                "text": "분기별로 LLM 최신 기술의 개념과 응용 분야의 동향",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false,
+                                    "strike": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " 관련 요약 콘텐츠와 그리고 "
+                            },
+                            {
+                                "type": "text",
+                                "text": "업스테이지 기술 콘텐츠",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false,
+                                    "strike": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "도 정기적으로 확인할 수 있습니다!\n\n계속해서 여러분들이 최신 LLM 기술을 쉽고 정확하게 이해할 수 있도록하는 알찬 특강과 콘텐츠 준비하여 제공해드리겠습니다.\n\n감사합니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1709889811.746749",
+        "client_msg_id": "4133FF98-8481-4B6D-92F1-AC86EDEF0050",
+        "thread_ts": "1709889811.746749",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1709895152.801039",
+        "reply_users": [
+            "U060C67EYQ5"
+        ],
+        "replies": [
+            {
+                "user": "U060C67EYQ5",
+                "ts": "1709895152.801039"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U05UN7M2GKZ",
+                    "U05V2P37518",
+                    "U0606QGQYE5",
+                    "U05V9N22ZUK",
+                    "U05VADPQPCL",
+                    "U060D1KJECR",
+                    "U05VAHXECP6",
+                    "U05V2T62KUJ",
+                    "U060C67EYQ5",
+                    "U0600GGHJTC",
+                    "U05V5B27DK7"
+                ],
+                "count": 11
+            },
+            {
+                "name": "man-bowing",
+                "users": [
+                    "U05UN7M2GKZ",
+                    "U05VADPQPCL",
+                    "U05V2T62KUJ"
+                ],
+                "count": 3
+            },
+            {
+                "name": "muscle",
+                "users": [
+                    "U05VAHXECP6"
+                ],
+                "count": 1
+            },
+            {
+                "name": "sparkles",
+                "users": [
+                    "U05VAHXECP6"
+                ],
+                "count": 1
+            },
+            {
+                "name": "귀여운박수",
+                "users": [
+                    "U05VAHXECP6",
+                    "U05V2T62KUJ"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U060C67EYQ5",
+        "type": "message",
+        "ts": "1709895152.801039",
+        "client_msg_id": "3EFAFBFA-3734-4FC6-914A-7DE98E470BB9",
+        "text": "공지에 미처 적지 못했지만- 위 신청 링크 통하여 수신하시는 자료에 대해서 외부공유는 삼가주시기 바랍니다 :)\n\n앞으로도 유익한 특강 기획에 힘쓰고, 좋은 콘텐츠가 나올때마다 여러분들에게 신속히 공유드리도록 하겠습니다! :smiling_face_with_3_hearts: \n\n모두 편안한 금요일과 주말 보내시기 바래요!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "831ed525b276",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-11-14\/6192884585138_831ed525b276222009d0_72.png",
+            "first_name": "업스테이지",
+            "real_name": "업스테이지 김의겸(Dave)",
+            "display_name": "UP 김의겸(Dave) 매니저",
+            "team": "T05UGFFGL07",
+            "name": "euigyum",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1709889811.746749",
+        "parent_user_id": "U060C67EYQ5",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xjNhv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "공지에"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "미처"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "적지"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "못했지만"
+                            },
+                            {
+                                "type": "text",
+                                "text": "- "
+                            },
+                            {
+                                "type": "text",
+                                "text": "위"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "신청"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "링크"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "통하여"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "수신하시는"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "자료에"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "대해서"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "외부공유는"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "삼가주시기"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "바랍니다"
+                            },
+                            {
+                                "type": "text",
+                                "text": " :)\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "앞으로도"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "유익한"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "특강"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "기획에"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "힘쓰고"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", "
+                            },
+                            {
+                                "type": "text",
+                                "text": "좋은"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "콘텐츠가"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "나올때마다"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "여러분들에게"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "신속히"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "공유드리도록"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "하겠습니다"
+                            },
+                            {
+                                "type": "text",
+                                "text": "! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smiling_face_with_3_hearts",
+                                "unicode": "1f970"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "모두 편안한 금요일과 "
+                            },
+                            {
+                                "type": "text",
+                                "text": "주말"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 보내시기 바"
+                            },
+                            {
+                                "type": "text",
+                                "text": "래요"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

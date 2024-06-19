@@ -1,0 +1,165 @@
+[
+    {
+        "text": "<!here>\n*[시간표 확인 방법 공지]*\n안녕하세요. 시간표 확인하는 방법 공유드립니다.\n\n:round_pushpin:*형광팬 부분* : 강사님 이름이 표시된 부분은 실시간 강의 or 프로젝트 관련 멘토링\n:round_pushpin:강사님 이름이 없고 강의명이나 프로젝트라 표시된 시간은 개인 강의 시청, 팀원들과 프로젝트 시간이라 생각하시면 됩니다.\n\n:white_check_mark:위 사항 숙지해주시고 *출석*은 동일하게  진행됩니다.",
+        "files": [
+            {
+                "id": "F064C31TA4E",
+                "created": 1699326018,
+                "timestamp": 1699326018,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U06061L4S64",
+                "user_team": "T05UGFFGL07",
+                "editable": false,
+                "size": 15876,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F064C31TA4E\/image.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F064C31TA4E\/download\/image.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F064C31TA4E-605d69ecc9\/image_64.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F064C31TA4E-605d69ecc9\/image_80.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F064C31TA4E-605d69ecc9\/image_360.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_360_w": 360,
+                "thumb_360_h": 131,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F064C31TA4E-605d69ecc9\/image_480.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_480_w": 480,
+                "thumb_480_h": 174,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F064C31TA4E-605d69ecc9\/image_160.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "original_w": 630,
+                "original_h": 229,
+                "thumb_tiny": "AwARADC4y+zfhS7eO9OLMOxNGTikVYYq\/wC9+NBHPRvwp4Zj1BH40ZP+TRugsN28d6RV\/wB78akyaMn\/ACaYrCUUUUDCiiigAooooA\/\/2Q==",
+                "permalink": "https:\/\/fcupstageai1.slack.com\/files\/U06061L4S64\/F064C31TA4E\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T05UGFFGL07-F064C31TA4E-860576db90",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U06061L4S64",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pZ40q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "[시간표 확인 방법 공지]",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n안녕하세요. 시간표 확인하는 방법 공유드립니다.\n\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "round_pushpin",
+                                "unicode": "1f4cd"
+                            },
+                            {
+                                "type": "text",
+                                "text": "형광팬 부분",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " : 강사님 이름이 표시된 부분은 실시간 강의 or 프로젝트 관련 멘토링\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "round_pushpin",
+                                "unicode": "1f4cd"
+                            },
+                            {
+                                "type": "text",
+                                "text": "강사님 이름이 없고 강의명이나 프로젝트라 표시된 시간은 개인 강의 시청, 팀원들과 프로젝트 시간이라 생각하시면 됩니다.\n\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "white_check_mark",
+                                "unicode": "2705"
+                            },
+                            {
+                                "type": "text",
+                                "text": "위 사항 숙지해주시고 "
+                            },
+                            {
+                                "type": "text",
+                                "text": "출석",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "은 동일하게  진행됩니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1699326530.319799",
+        "client_msg_id": "bced1ca9-93e6-46ed-ab04-d3678f0b9827",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U05V9N22ZUK",
+                    "U05UN5DQ423",
+                    "U05VDDP88BW",
+                    "U060D1KJECR",
+                    "U05UN7M2GKZ",
+                    "U05V5B27DK7",
+                    "U05UNMQ4LP9",
+                    "U05VB9FA6MS",
+                    "U05UN6NTN8P",
+                    "U05UWAPP5CN",
+                    "U05V4KZR3NW",
+                    "U05UVV5CVQE",
+                    "U061N4T7L8G",
+                    "U0600GGHJTC",
+                    "U060VSK7ELC",
+                    "U060H4V0Q5S",
+                    "U05V2PMAVNE"
+                ],
+                "count": 17
+            },
+            {
+                "name": "meow_noddies",
+                "users": [
+                    "U06061L4S64",
+                    "U0602CFAB7B",
+                    "U05V7H78DUM"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

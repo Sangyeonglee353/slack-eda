@@ -1,0 +1,271 @@
+[
+    {
+        "user": "U05VAU596PP",
+        "type": "message",
+        "ts": "1704427293.876379",
+        "client_msg_id": "af661b71-337a-43ac-87f3-953c2b37ed5a",
+        "text": "<@U05UNC6FNK1> <@U05V81G5ZDY>\n1\/4 출석대장과 증빙서류를 구글폼 제출하였습니다. 확인 부탁드립니다!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "850d40cd33f4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5996957360085_850d40cd33f433747c40_72.png",
+            "first_name": "이소영B",
+            "real_name": "이소영B",
+            "display_name": "",
+            "team": "T05UGFFGL07",
+            "name": "sheep5450",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1704258132.888669",
+        "parent_user_id": "U05VAU596PP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tM2EL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05UNC6FNK1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05V81G5ZDY"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n1\/4 출석대장과 증빙서류를 구글폼 제출하였습니다. 확인 부탁드립니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "U05V81G5ZDY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05V2PMAVNE",
+        "type": "message",
+        "ts": "1704429848.705089",
+        "client_msg_id": "5FA89791-16FF-4B1F-9A1D-5D0E0D124E4E",
+        "text": "<@U05V81G5ZDY> <@U05UNC6FNK1> 결석일수가 그대로라서 혹시 아직 처리가 안됐는지 여쭤봅니다..!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "0b76558dc601",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5991261451140_0b76558dc60118dba6df_72.png",
+            "first_name": "윤수인",
+            "real_name": "윤수인",
+            "display_name": "",
+            "team": "T05UGFFGL07",
+            "name": "dbsdev98",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1704197202.664399",
+        "parent_user_id": "U05V2PMAVNE",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "H7uJM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05V81G5ZDY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05UNC6FNK1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "결석일수가 그대로라서"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "혹시"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "아직"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "처리가"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "안됐는지"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "여쭤봅니다"
+                            },
+                            {
+                                "type": "text",
+                                "text": "..!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "U05UNC6FNK1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05UNC6FNK1",
+        "type": "message",
+        "ts": "1704429880.518489",
+        "client_msg_id": "2a42dd88-ee1e-4c58-824c-9f42f8637c7b",
+        "text": "수인님 행정매니저가 익일내로 신청 -&gt; 고용센터 승인까지 2-3주 소요될 수 있습니다~",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "260d154ea1e2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5979526758263_260d154ea1e2177fd001_72.jpg",
+            "first_name": "FC",
+            "real_name": "FC 하시안 매니저",
+            "display_name": "FC 하시안 매니저",
+            "team": "T05UGFFGL07",
+            "name": "xianha",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1704197202.664399",
+        "parent_user_id": "U05V2PMAVNE",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NSEl1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "수인님 행정매니저가 익일내로 신청 -> 고용센터 승인까지 2-3주 소요될 수 있습니다~"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06022Z2TED",
+        "type": "message",
+        "ts": "1704440265.443849",
+        "client_msg_id": "93a33c3a-1bd4-4ae4-bc2e-a5cfb8e9f76d",
+        "text": "<@U05UNC6FNK1> <@U05V81G5ZDY> 안녕하세요 매니저님1\/5(금) 면접 공가 출결 관련 서류 구글 폼으로 제출 완료하였습니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "d62be7ca993c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5991921924404_d62be7ca993c5be99966_72.png",
+            "first_name": "ha",
+            "real_name": "ha ha",
+            "display_name": "김하연",
+            "team": "T05UGFFGL07",
+            "name": "leah8735",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "O4vKo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05UNC6FNK1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05V81G5ZDY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 안녕하세요 매니저님1\/5(금) 면접 공가 출결 관련 서류 구글 폼으로 제출 완료하였습니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "necktie",
+                "users": [
+                    "U05V81G5ZDY"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,425 @@
+[
+    {
+        "user": "U060D1KJECR",
+        "type": "message",
+        "ts": "1700556837.727949",
+        "client_msg_id": "c5c67fc0-3b63-4293-bc6d-d4a2744dfbca",
+        "text": "<@U05V81G5ZDY> <@U05UNC6FNK1> 혹시 10월 10일 ~ 11월 9일에 대한 훈련 장려금이 언제쯤 나오는지 알 수 있을까요?",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "d024d71b810e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-06\/5993779835878_d024d71b810e837e9532_72.jpg",
+            "first_name": "이현진",
+            "real_name": "이현진",
+            "display_name": "이현진",
+            "team": "T05UGFFGL07",
+            "name": "jinintg",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1700556837.727949",
+        "reply_count": 4,
+        "reply_users_count": 2,
+        "latest_reply": "1700630126.367759",
+        "reply_users": [
+            "U05UNC6FNK1",
+            "U05V5H1T24V"
+        ],
+        "replies": [
+            {
+                "user": "U05UNC6FNK1",
+                "ts": "1700612136.709789"
+            },
+            {
+                "user": "U05V5H1T24V",
+                "ts": "1700629434.072069"
+            },
+            {
+                "user": "U05UNC6FNK1",
+                "ts": "1700630107.247199"
+            },
+            {
+                "user": "U05UNC6FNK1",
+                "ts": "1700630126.367759"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "q5dTG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05V81G5ZDY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05UNC6FNK1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 혹시 10월 10일 ~ 11월 9일에 대한 훈련 장려금이 언제쯤 나오는지 알 수 있을까요?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U05UNMQ4LP9",
+                    "U05UN5DQ423",
+                    "U05V7H78DUM",
+                    "U05V2P37518",
+                    "U05V379NETU",
+                    "U060BLVQYHW",
+                    "U060TBSJ7DF"
+                ],
+                "count": 7
+            },
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "U05UNC6FNK1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05UNC6FNK1",
+        "type": "message",
+        "ts": "1700612136.709789",
+        "client_msg_id": "0a88a544-3569-41f2-b00e-4adc1da4b8c2",
+        "text": "현진님 안녕하세요 10\/10~ 이후 출결 정정 요청하신 분중 증빙자료 미제출자가 있어 대기중에 있습니다.\n\n증빙자료 제출 후 센터 승인 - 훈련장려금 신청이 되기 때문에 12월 초 신청예정 중이며, 서류가 늦게 제출되면 더 늦어질 수 있습니다:smiling_face_with_tear:",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "260d154ea1e2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5979526758263_260d154ea1e2177fd001_72.jpg",
+            "first_name": "FC",
+            "real_name": "FC 하시안 매니저",
+            "display_name": "FC 하시안 매니저",
+            "team": "T05UGFFGL07",
+            "name": "xianha",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1700556837.727949",
+        "parent_user_id": "U060D1KJECR",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qkeIy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "현진님 안녕하세요 10\/10~ 이후 출결 정정 요청하신 분중 증빙자료 미제출자가 있어 대기중에 있습니다.\n\n증빙자료 제출 후 센터 승인 - 훈련장려금 신청이 되기 때문에 12월 초 신청예정 중이며, 서류가 늦게 제출되면 더 늦어질 수 있습니다"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smiling_face_with_tear",
+                                "unicode": "1f972"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05V5H1T24V",
+        "type": "message",
+        "ts": "1700629434.072069",
+        "client_msg_id": "C1345EBD-4130-4DB6-9E1A-2D22CB033C76",
+        "text": "<@U05UNC6FNK1> 그럼 이번달 안에는 못받겠네요,,, 계속 한달씩 밀리게 되는걸까요? 아니면 10\/10-11\/9 랑 11\/10-12\/9랑 각 월에 대해 동시에 12월초에 신청하시는건가요?",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "7c6706ce6504",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5987883585126_7c6706ce65044c7fba85_72.png",
+            "first_name": "서재현",
+            "real_name": "서재현",
+            "display_name": "서재현",
+            "team": "T05UGFFGL07",
+            "name": "jaehyeon4037",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1700556837.727949",
+        "parent_user_id": "U060D1KJECR",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "d7X\/1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05UNC6FNK1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "그럼"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "이번달"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "안에는"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "못받겠네요"
+                            },
+                            {
+                                "type": "text",
+                                "text": ",,, "
+                            },
+                            {
+                                "type": "text",
+                                "text": "계속"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "한달씩"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "밀리게"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "되는걸까요"
+                            },
+                            {
+                                "type": "text",
+                                "text": "? "
+                            },
+                            {
+                                "type": "text",
+                                "text": "아니면"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 10\/10-11\/9 "
+                            },
+                            {
+                                "type": "text",
+                                "text": "랑"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 11\/10-12\/9"
+                            },
+                            {
+                                "type": "text",
+                                "text": "랑"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "각"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "월에"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "대해"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "동시에"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 12"
+                            },
+                            {
+                                "type": "text",
+                                "text": "월초에"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "신청하시는건가요"
+                            },
+                            {
+                                "type": "text",
+                                "text": "?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "U05UNC6FNK1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05UNC6FNK1",
+        "type": "message",
+        "ts": "1700630107.247199",
+        "client_msg_id": "e30c6425-f1ea-4d56-9cfc-32514fe7bad3",
+        "text": "같이 신청하면 좋겠지만 각 단위기간별 증빙자료가 늦게 취합된다면 늦게 신청됩니다. 그래서 QR 정정이 없게 독려를 드리고 출결정정사유의 경우 공가 서류를 빠르게 제출달라고 요청을 드리고 있습니다만, 늦어지는 분들이 있어 빠르게 신청되지 못하는 것으로 이해하면 됩니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "260d154ea1e2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5979526758263_260d154ea1e2177fd001_72.jpg",
+            "first_name": "FC",
+            "real_name": "FC 하시안 매니저",
+            "display_name": "FC 하시안 매니저",
+            "team": "T05UGFFGL07",
+            "name": "xianha",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1700556837.727949",
+        "parent_user_id": "U060D1KJECR",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "A6bfe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "같이 신청하면 좋겠지만 각 단위기간별 증빙자료가 늦게 취합된다면 늦게 신청됩니다. 그래서 QR 정정이 없게 독려를 드리고 출결정정사유의 경우 공가 서류를 빠르게 제출달라고 요청을 드리고 있습니다만, 늦어지는 분들이 있어 빠르게 신청되지 못하는 것으로 이해하면 됩니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05UNC6FNK1",
+        "type": "message",
+        "ts": "1700630126.367759",
+        "client_msg_id": "f101dbf3-7244-4912-896e-4b1262d27b2e",
+        "text": "만약 단위기간 11월 분의 정정자료가 10월분과 동일하게 취합 및 승인된다면 한번에 신청은 가능합니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "260d154ea1e2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5979526758263_260d154ea1e2177fd001_72.jpg",
+            "first_name": "FC",
+            "real_name": "FC 하시안 매니저",
+            "display_name": "FC 하시안 매니저",
+            "team": "T05UGFFGL07",
+            "name": "xianha",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1700556837.727949",
+        "parent_user_id": "U060D1KJECR",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "838IW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "만약 단위기간 11월 분의 정정자료가 10월분과 동일하게 취합 및 승인된다면 한번에 신청은 가능합니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U05V5H1T24V"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

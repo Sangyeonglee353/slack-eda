@@ -1,0 +1,445 @@
+[
+    {
+        "user": "U060C67EYQ5",
+        "type": "message",
+        "ts": "1702867898.344199",
+        "client_msg_id": "19513198-c6ba-4a14-8bb4-d56a37519e0d",
+        "text": "오늘 시간 얼만큼 소개해드렸던 딥러닝 공부 중에 참고하면 좋을 자료 공유해봅니다.\n인공지능 공부를 지속해나가기 위해선 *수학에 대한 탄탄한 기초 지식*으로 복잡한 수식과 생소한 기호에 대한 두려움을 이겨내셔야 하는데요! :man-lifting-weights::skin-tone-2: :weight_lifter::skin-tone-2:\n전반적인 커리큘럼을 따라가려면 선형대수 및 확률 이론 강의를 들어둔다면 도움이 많이 됩니다!\n수학 기초를 탄탄하게 다져야 딥러닝 공부도 수월하게 할 수 있다는 점!\n\n아래 자료들 알차게 활용해보시길 바래요!\n\n&gt; :books: *Reading Material :*\n• Dive into Deep Learning : 딥러닝 교과서 <https:\/\/d2l.ai\/|e-book 버전>\n• 다크 프로그래머님의 선형대수학 개념정리 <https:\/\/t1.daumcdn.net\/cfile\/tistory\/99FC343359FE8CDA1F|PDF 노트>\n\n&gt; :movie_camera: *Video Content :*\n• 혁펜하임 - Level 0 시리즈 (AI를 위한 수학 \/ 선형대수학\/ 꽂히는 딥러닝) : <https:\/\/www.youtube.com\/@hyukppen\/playlists|YouTube Link>\n• 3Blue1Brown : <https:\/\/www.youtube.com\/@3blue1brown> `난해한 수학 개념을 이해하기 쉽게 시각화하여 설명한 영상`\n• 공돌이의 수학 정리노트 `공부하다가 모르는 내용을 마주한다면, 그때그때 지식을 채운다는 느낌으로 시청하기 좋은 영상`\n    ◦ 선형대수학 영상 : <https:\/\/www.youtube.com\/playlist?list=PL5yujGYFVt0BCu7DXfEgD7M51Tj6S7s4A|YouTube Link>\n    ◦ 확률과 통계 영상 : <https:\/\/www.youtube.com\/playlist?list=PL5yujGYFVt0Cr2wyzeMfBKW_Pfktcdnjr|YouTube Link>\n• 한양대학교 컴퓨터소프트웨어학부 이상화 교수님\n    ◦ 선형대수와 확률 이론 강의영상 : <https:\/\/www.youtube.com\/@user-xx1mm6mk5y\/playlists|YouTube Link>\n• 고려대학교 수학과 오승상 교수님 \n    ◦ 오승상의 딥러닝 강의영상 : <https:\/\/www.youtube.com\/playlist?list=PLvbUC2Zh5oJvByu9KL82bswYT2IKf0K1M|YouTube Link>\n• 한국과학기술원(KAIST) 기계공학과 윤용진 교수님\n    ◦ AI 비전공자를 위한 기초 수학 강의영상 : <https:\/\/www.youtube.com\/playlist?list=PLzZ7PPT4KK5qQQO095fTfvVcKbCbUVBjq|YouTube Link>\n---\n\n수학을 단숨에 마스터한다는 것은 사실상 불가능해요.\n꾸준히 공부하시길 바라고, 공유드린 자료들을 알차게 활용하셔서 그때그때 필요한 개념들을 심도 있게 이해하시길 바랍니다 :)",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "831ed525b276",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-11-14\/6192884585138_831ed525b276222009d0_72.png",
+            "first_name": "업스테이지",
+            "real_name": "업스테이지 김의겸(Dave)",
+            "display_name": "UP 김의겸(Dave) 매니저",
+            "team": "T05UGFFGL07",
+            "name": "euigyum",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ovBD+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "오늘 시간 얼만큼 소개해드렸던 딥러닝 공부 중에 참고하면 좋을 자료 공유해봅니다.\n인공지능 공부를 지속해나가기 위해선 "
+                            },
+                            {
+                                "type": "text",
+                                "text": "수학에 대한 탄탄한 기초 지식",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "으로 복잡한 수식과 생소한 기호에 대한 두려움을 이겨내셔야 하는데요! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-lifting-weights",
+                                "unicode": "1f3cb-1f3fb-200d-2642-fe0f",
+                                "skin_tone": 2
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "weight_lifter",
+                                "unicode": "1f3cb-1f3fb",
+                                "skin_tone": 2
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n전반적인 커리큘럼을 따라가려면 선형대수 및 확률 이론 강의를 들어둔다면 도움이 많이 됩니다!\n수학 기초를 탄탄하게 다져야 딥러닝 공부도 수월하게 할 수 있다는 점!\n\n아래 자료들 알차게 활용해보시길 바래요!\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "books",
+                                "unicode": "1f4da"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Reading Material :",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Dive into Deep Learning : 딥러닝 교과서 "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/d2l.ai\/",
+                                        "text": "e-book 버전"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "다크 프로그래머님의 선형대수학 개념정리 "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/t1.daumcdn.net\/cfile\/tistory\/99FC343359FE8CDA1F",
+                                        "text": "PDF 노트"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "movie_camera",
+                                "unicode": "1f3a5"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Video Content :",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "혁펜하임 - Level 0 시리즈 (AI를 위한 수학 \/ 선형대수학\/ 꽂히는 딥러닝) : "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/www.youtube.com\/@hyukppen\/playlists",
+                                        "text": "YouTube Link"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "3Blue1Brown : "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/www.youtube.com\/@3blue1brown"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "난해한 수학 개념을 이해하기 쉽게 시각화하여 설명한 영상",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "공돌이의 수학 정리노트 "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "공부하다가 모르는 내용을 마주한다면, 그때그때 지식을 채운다는 느낌으로 시청하기 좋은 영상",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "선형대수학 영상 : "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/www.youtube.com\/playlist?list=PL5yujGYFVt0BCu7DXfEgD7M51Tj6S7s4A",
+                                        "text": "YouTube Link"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "확률과 통계 영상 : "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/www.youtube.com\/playlist?list=PL5yujGYFVt0Cr2wyzeMfBKW_Pfktcdnjr",
+                                        "text": "YouTube Link"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "한양대학교 컴퓨터소프트웨어학부 이상화 교수님"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "선형대수와 확률 이론 강의영상 : "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/www.youtube.com\/@user-xx1mm6mk5y\/playlists",
+                                        "text": "YouTube Link"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "고려대학교 수학과 오승상 교수님 "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "오승상의 딥러닝 강의영상 : "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/www.youtube.com\/playlist?list=PLvbUC2Zh5oJvByu9KL82bswYT2IKf0K1M",
+                                        "text": "YouTube Link"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "한국과학기술원(KAIST) 기계공학과 윤용진 교수님"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "AI 비전공자를 위한 기초 수학 강의영상 : "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/www.youtube.com\/playlist?list=PLzZ7PPT4KK5qQQO095fTfvVcKbCbUVBjq",
+                                        "text": "YouTube Link"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n---\n\n수학을 단숨에 마스터한다는 것은 사실상 불가능해요.\n꾸준히 공부하시길 바라고, 공유드린 자료들을 알차게 활용하셔서 그때그때 필요한 개념들을 심도 있게 이해하시길 바랍니다 :)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U05V5H1T24V",
+                    "U05V9N22ZUK",
+                    "U05V2HL22M9",
+                    "U05V5B27DK7",
+                    "U05VADPQPCL",
+                    "U05V9LP47V0",
+                    "U05V2T62KUJ",
+                    "U05V7H78DUM",
+                    "U060BLVQYHW",
+                    "U05UN6NTN8P",
+                    "U060TBSJ7DF"
+                ],
+                "count": 11
+            },
+            {
+                "name": "귀여운박수",
+                "users": [
+                    "U05VAHXECP6",
+                    "U05VADPQPCL",
+                    "U0606QGQYE5",
+                    "U05UNMQ4LP9",
+                    "U05V7H78DUM",
+                    "U060BLVQYHW",
+                    "U05V4KZR3NW"
+                ],
+                "count": 7
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U05VAHXECP6",
+                    "U05VADPQPCL",
+                    "U05V2T62KUJ",
+                    "U05V7H78DUM",
+                    "U060BLVQYHW"
+                ],
+                "count": 5
+            },
+            {
+                "name": "meow_noddies",
+                "users": [
+                    "U05VAHXECP6",
+                    "U05VADPQPCL",
+                    "U05V7H78DUM",
+                    "U05V2PMAVNE",
+                    "U060BLVQYHW"
+                ],
+                "count": 5
+            },
+            {
+                "name": "+1::skin-tone-2",
+                "users": [
+                    "U05V2HL22M9"
+                ],
+                "count": 1
+            },
+            {
+                "name": "party_blob-1",
+                "users": [
+                    "U05VADPQPCL",
+                    "U05V7H78DUM",
+                    "U060BLVQYHW",
+                    "U0600GGHJTC"
+                ],
+                "count": 4
+            }
+        ]
+    }
+]

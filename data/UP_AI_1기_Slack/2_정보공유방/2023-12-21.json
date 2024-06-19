@@ -1,0 +1,91 @@
+[
+    {
+        "user": "U060C67EYQ5",
+        "type": "message",
+        "ts": "1703147150.539299",
+        "client_msg_id": "b48168f9-0ed2-421c-9670-4f5b20729a5e",
+        "text": "테크 애널리스트 Benedict Evans님이 발행한 24년도 Tech 전망 프레젠테이션 자료 공유해봅니다!\n\n<https:\/\/www.ben-evans.com\/presentations\/>\n\n지난번 마인드셋에서 이야기드린 것처럼, 생성형AI의 상용화(제품화) 그리고 이와 관련된 유의지점(데이터 윤리, 보안, 인프라 구축 등)이 눈에 띄네요!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "831ed525b276",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-11-14\/6192884585138_831ed525b276222009d0_72.png",
+            "first_name": "업스테이지",
+            "real_name": "업스테이지 김의겸(Dave)",
+            "display_name": "UP 김의겸(Dave) 매니저",
+            "team": "T05UGFFGL07",
+            "name": "euigyum",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.ben-evans.com\/presentations\/",
+                "thumb_url": "http:\/\/static1.squarespace.com\/static\/50363cf324ac8e905e7df861\/t\/6577a13e01d91603db9f594e\/1702338880671\/thumbnail.png?format=1500w",
+                "thumb_width": 1500,
+                "thumb_height": 844,
+                "service_icon": "https:\/\/images.squarespace-cdn.com\/content\/v1\/50363cf324ac8e905e7df861\/ebdb4645-db93-4967-881d-db698ee59c2c\/favicon.ico?format=100w",
+                "id": 1,
+                "original_url": "https:\/\/www.ben-evans.com\/presentations\/",
+                "fallback": "Benedict Evans: Presentations — Benedict Evans",
+                "text": "Every year, I produce a big presentation exploring macro and strategic trends in the tech industry. For 2024, ‘AI, and everything else’.",
+                "title": "Presentations — Benedict Evans",
+                "title_link": "https:\/\/www.ben-evans.com\/presentations\/",
+                "service_name": "Benedict Evans"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oKq3M",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "테크 애널리스트 Benedict Evans님이 발행한 24년도 Tech 전망 프레젠테이션 자료 공유해봅니다!\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.ben-evans.com\/presentations\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n지난번 마인드셋에서 이야기드린 것처럼, 생성형AI의 상용화(제품화) 그리고 이와 관련된 유의지점(데이터 윤리, 보안, 인프라 구축 등)이 눈에 띄네요!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U05V9N22ZUK",
+                    "U0606QGQYE5",
+                    "U05V7H78DUM",
+                    "U05V5B27DK7",
+                    "U060BLVQYHW",
+                    "U05V4KZR3NW",
+                    "U0600GGHJTC",
+                    "U05V5H1T24V",
+                    "U05UUUNAE5D"
+                ],
+                "count": 9
+            },
+            {
+                "name": "meow_noddies",
+                "users": [
+                    "U05V7H78DUM",
+                    "U060BLVQYHW",
+                    "U05V4KZR3NW",
+                    "U05UNMQ4LP9"
+                ],
+                "count": 4
+            }
+        ]
+    }
+]

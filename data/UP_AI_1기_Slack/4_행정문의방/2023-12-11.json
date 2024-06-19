@@ -1,0 +1,712 @@
+[
+    {
+        "text": "출석부 전달 드립니다.\n\n수강증명서 메일로 전달 드렸습니다.\n내용 작성하여 서명 후 말씀해주세요!",
+        "files": [
+            {
+                "id": "F069LCBH30C",
+                "created": 1702282428,
+                "timestamp": 1702282428,
+                "name": "20231211163658571.pdf",
+                "title": "20231211163658571.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U05V81G5ZDY",
+                "user_team": "T05UGFFGL07",
+                "editable": false,
+                "size": 82242,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F069LCBH30C\/20231211163658571.pdf?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F069LCBH30C\/download\/20231211163658571.pdf?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "media_display_type": "unknown",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F069LCBH30C-1f897b8a1b\/20231211163658571_thumb_pdf.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_pdf_w": 1286,
+                "thumb_pdf_h": 909,
+                "permalink": "https:\/\/fcupstageai1.slack.com\/files\/U05V81G5ZDY\/F069LCBH30C\/20231211163658571.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/T05UGFFGL07-F069LCBH30C-edaa6cc044",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U05V81G5ZDY",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oB8qW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "출석부 전달 드립니다.\n\n수강증명서 메일로 전달 드렸습니다.\n내용 작성하여 서명 후 말씀해주세요!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1702282452.278019",
+        "client_msg_id": "fa8cec0a-d600-4491-a576-2717fb0d246d",
+        "thread_ts": "1702279962.184819",
+        "parent_user_id": "U05UN7M2GKZ"
+    },
+    {
+        "user": "U05V9LP47V0",
+        "type": "message",
+        "ts": "1702282626.152039",
+        "client_msg_id": "83093c72-1895-4a59-9250-beb275b50fd0",
+        "text": "<@U05UNC6FNK1>  <@U05V81G5ZDY>\n\n대상 : 온라인 실업인정\n필요한 기간 : 11월 15일 ~ 12월 11일\n필요 서류 : 수강 증명서 및 출석부\n이메일 : <mailto:axa123@hanmail.net|axa123@hanmail.net>\n연락처 : 01067343487\n감사합니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "54d9ef7119e7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-06\/5993912366662_54d9ef7119e784b29212_72.jpg",
+            "first_name": "문정의",
+            "real_name": "문정의",
+            "display_name": "문정의",
+            "team": "T05UGFFGL07",
+            "name": "axa301",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1702282626.152039",
+        "reply_count": 7,
+        "reply_users_count": 3,
+        "latest_reply": "1702356251.833289",
+        "reply_users": [
+            "U05V81G5ZDY",
+            "U05V9LP47V0",
+            "U05UNC6FNK1"
+        ],
+        "replies": [
+            {
+                "user": "U05V81G5ZDY",
+                "ts": "1702282729.581229"
+            },
+            {
+                "user": "U05V9LP47V0",
+                "ts": "1702333866.659019"
+            },
+            {
+                "user": "U05V81G5ZDY",
+                "ts": "1702342838.489339"
+            },
+            {
+                "user": "U05V9LP47V0",
+                "ts": "1702345034.951989"
+            },
+            {
+                "user": "U05V9LP47V0",
+                "ts": "1702350556.880769"
+            },
+            {
+                "user": "U05UNC6FNK1",
+                "ts": "1702356247.874969"
+            },
+            {
+                "user": "U05UNC6FNK1",
+                "ts": "1702356251.833289"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GS8WN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05UNC6FNK1"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05V81G5ZDY"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n대상 : 온라인 실업인정\n필요한 기간 : 11월 15일 ~ 12월 11일\n필요 서류 : 수강 증명서 및 출석부\n이메일 : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:axa123@hanmail.net",
+                                "text": "axa123@hanmail.net"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n연락처 : 01067343487\n감사합니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U05V81G5ZDY"
+                ],
+                "count": 1
+            },
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "U05UNC6FNK1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "text": "출석부 전달 드립니다\n\n수강증명서 메일로 전달 드렸습니다.\n내용 작성하여 서명 후 말씀해주세요!",
+        "files": [
+            {
+                "id": "F069LCYRYMS",
+                "created": 1702282713,
+                "timestamp": 1702282713,
+                "name": "20231211171751170.pdf",
+                "title": "20231211171751170.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U05V81G5ZDY",
+                "user_team": "T05UGFFGL07",
+                "editable": false,
+                "size": 78921,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F069LCYRYMS\/20231211171751170.pdf?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F069LCYRYMS\/download\/20231211171751170.pdf?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "media_display_type": "unknown",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F069LCYRYMS-d70fcd2ecc\/20231211171751170_thumb_pdf.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_pdf_w": 1286,
+                "thumb_pdf_h": 909,
+                "permalink": "https:\/\/fcupstageai1.slack.com\/files\/U05V81G5ZDY\/F069LCYRYMS\/20231211171751170.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/T05UGFFGL07-F069LCYRYMS-4e559990ef",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U05V81G5ZDY",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4+L3o",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "출석부 전달 드립니다\n\n수강증명서 메일로 전달 드렸습니다.\n내용 작성하여 서명 후 말씀해주세요!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1702282729.581229",
+        "client_msg_id": "5d2e7529-7db1-4f39-9fcf-57037c6f6879",
+        "thread_ts": "1702282626.152039",
+        "parent_user_id": "U05V9LP47V0"
+    },
+    {
+        "user": "U05UN7M2GKZ",
+        "type": "message",
+        "ts": "1702282901.361269",
+        "client_msg_id": "6bb1f712-86f4-4b31-9f3c-09b07ca6da26",
+        "text": "서명 완료하였습니다",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "g898587e4152",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/898587e41523b6c4bc631e8e0c827f5b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "장호준",
+            "real_name": "장호준",
+            "display_name": "장호준",
+            "team": "T05UGFFGL07",
+            "name": "jhh6650",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1702279962.184819",
+        "parent_user_id": "U05UN7M2GKZ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iU\/F6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "서명 완료하였습니다"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1::skin-tone-2",
+                "users": [
+                    "U05V81G5ZDY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05V81G5ZDY",
+        "type": "message",
+        "ts": "1702282997.319179",
+        "client_msg_id": "781d6be6-8cb3-4d35-97d5-598afd2f2db7",
+        "text": "완료했습니다!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "db1aceeb0d90",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5994058472162_db1aceeb0d9030c57e69_72.jpg",
+            "first_name": "김현우",
+            "real_name": "김현우",
+            "display_name": "FC 김현우 매니저",
+            "team": "T05UGFFGL07",
+            "name": "hyunwoo.kim",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1702279962.184819",
+        "parent_user_id": "U05UN7M2GKZ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Eq2w6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "완료했습니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05UN7M2GKZ",
+        "type": "message",
+        "ts": "1702283035.905699",
+        "client_msg_id": "5a467919-25e9-4554-b877-073908780bc7",
+        "text": "넵 감사합니다",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "g898587e4152",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/898587e41523b6c4bc631e8e0c827f5b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "장호준",
+            "real_name": "장호준",
+            "display_name": "장호준",
+            "team": "T05UGFFGL07",
+            "name": "jhh6650",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1702279962.184819",
+        "parent_user_id": "U05UN7M2GKZ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rglha",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "넵 감사합니다"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05V5B88ULD",
+        "type": "message",
+        "ts": "1702290812.558529",
+        "client_msg_id": "14c38674-5ac1-43b8-bf70-a44fc134c3dc",
+        "text": "<@U05UNC6FNK1> <@U05V81G5ZDY>\n안녕하세요 매니저님! LM님과 상담 후 12월 15일(금요일) 휴가 사용으로 구글폼 제출하였습니다. 확인 부탁드리겠습니다. 감사합니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "80cc6894efa6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/6017299669088_80cc6894efa66060bc9e_72.png",
+            "first_name": "전수연",
+            "real_name": "전수연",
+            "display_name": "전수연",
+            "team": "T05UGFFGL07",
+            "name": "rachel.sy.jun",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Qi\/BF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05UNC6FNK1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05V81G5ZDY"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n안녕하세요 매니저님! LM님과 상담 후 12월 15일(금요일) 휴가 사용으로 구글폼 제출하였습니다. 확인 부탁드리겠습니다. 감사합니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "beach_with_umbrella",
+                "users": [
+                    "U05V81G5ZDY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05V9LP47V0",
+        "type": "message",
+        "ts": "1702333866.659019",
+        "client_msg_id": "ba0e5964-86d0-4ae6-981b-30186e676733",
+        "text": "<@U05V81G5ZDY>\n\n수강증명서를 보니 주민등록번호와 주소가 잘못 기재되어 있습니다.\n17003917 -&gt; 1703917\n1층 호 -&gt; 1층 4호\n불편드려서 죄송합니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "54d9ef7119e7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-06\/5993912366662_54d9ef7119e784b29212_72.jpg",
+            "first_name": "문정의",
+            "real_name": "문정의",
+            "display_name": "문정의",
+            "team": "T05UGFFGL07",
+            "name": "axa301",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1702282626.152039",
+        "parent_user_id": "U05V9LP47V0",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Wm8\/h",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05V81G5ZDY"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n수강증명서를 보니 주민등록번호와 주소가 잘못 기재되어 있습니다.\n17003917 -> 1703917\n1층 호 -> 1층 4호\n불편드려서 죄송합니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U05V81G5ZDY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05V81G5ZDY",
+        "type": "message",
+        "ts": "1702342838.489339",
+        "client_msg_id": "f16f8f38-e209-49f2-9d28-0e59bf0ecea4",
+        "text": "<@U05V9LP47V0> 수강증명서 메일로 다시 전달 드렸습니다!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "db1aceeb0d90",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5994058472162_db1aceeb0d9030c57e69_72.jpg",
+            "first_name": "김현우",
+            "real_name": "김현우",
+            "display_name": "FC 김현우 매니저",
+            "team": "T05UGFFGL07",
+            "name": "hyunwoo.kim",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1702282626.152039",
+        "parent_user_id": "U05V9LP47V0",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2E5af",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05V9LP47V0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 수강증명서 메일로 다시 전달 드렸습니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05V9LP47V0",
+        "type": "message",
+        "ts": "1702345034.951989",
+        "client_msg_id": "702ab281-ecef-45fc-bb95-774af0076bcf",
+        "text": "<@U05V81G5ZDY>\n\n작성해서 사인하였습니다.\n감사합니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "54d9ef7119e7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-06\/5993912366662_54d9ef7119e784b29212_72.jpg",
+            "first_name": "문정의",
+            "real_name": "문정의",
+            "display_name": "문정의",
+            "team": "T05UGFFGL07",
+            "name": "axa301",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1702282626.152039",
+        "parent_user_id": "U05V9LP47V0",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "p9Dqc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05V81G5ZDY"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n작성해서 사인하였습니다.\n감사합니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05V9LP47V0",
+        "type": "message",
+        "ts": "1702350556.880769",
+        "client_msg_id": "a1daeee7-0dde-41c0-8ccd-d1290b5046d7",
+        "text": "<@U05V81G5ZDY> <@U05UNC6FNK1>\n\n아직 수정된 수강증명서를 받지못했습니다.\n확인부탁드립니다.\n\n메일 : <mailto:axa123@hanmail.net|axa123@hanmail.net>\n\n감사합니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "54d9ef7119e7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-06\/5993912366662_54d9ef7119e784b29212_72.jpg",
+            "first_name": "문정의",
+            "real_name": "문정의",
+            "display_name": "문정의",
+            "team": "T05UGFFGL07",
+            "name": "axa301",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1702282626.152039",
+        "parent_user_id": "U05V9LP47V0",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3xI0C",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05V81G5ZDY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05UNC6FNK1"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n아직 수정된 수강증명서를 받지못했습니다.\n확인부탁드립니다.\n\n메일 : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:axa123@hanmail.net",
+                                "text": "axa123@hanmail.net"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n감사합니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05UNC6FNK1",
+        "type": "message",
+        "ts": "1702356247.874969",
+        "client_msg_id": "5bd5b0e7-4047-40d5-8403-a4824253a5fe",
+        "text": "정의님 수강증명서 메일로 드렷습니다",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "260d154ea1e2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5979526758263_260d154ea1e2177fd001_72.jpg",
+            "first_name": "FC",
+            "real_name": "FC 하시안 매니저",
+            "display_name": "FC 하시안 매니저",
+            "team": "T05UGFFGL07",
+            "name": "xianha",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1702282626.152039",
+        "parent_user_id": "U05V9LP47V0",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TuX4A",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "정의님 수강증명서 메일로 드렷습니다"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05UNC6FNK1",
+        "type": "message",
+        "ts": "1702356251.833289",
+        "client_msg_id": "555c9d76-4e45-437f-8aff-56cd78c4df4b",
+        "text": "기다려주셔서 감사합니다",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "260d154ea1e2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5979526758263_260d154ea1e2177fd001_72.jpg",
+            "first_name": "FC",
+            "real_name": "FC 하시안 매니저",
+            "display_name": "FC 하시안 매니저",
+            "team": "T05UGFFGL07",
+            "name": "xianha",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1702282626.152039",
+        "parent_user_id": "U05V9LP47V0",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IW9+j",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "기다려주셔서 감사합니다"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

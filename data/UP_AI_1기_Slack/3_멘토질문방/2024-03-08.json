@@ -1,0 +1,477 @@
+[
+    {
+        "user": "U05V7V2AV8A",
+        "type": "message",
+        "ts": "1709887710.957869",
+        "client_msg_id": "18eabecf-ee05-4540-9c6f-337f7181db42",
+        "text": "감사합니다!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "28368614e02a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5987346071766_28368614e02abbfb71bd_72.png",
+            "first_name": "andrew",
+            "real_name": "andrew jang",
+            "display_name": "장준규",
+            "team": "T05UGFFGL07",
+            "name": "goldenbeluga",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1709878317.276469",
+        "parent_user_id": "U05V7V2AV8A",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4sMmL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "감사합니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05VBQMH3D3",
+        "type": "message",
+        "ts": "1709888597.496699",
+        "client_msg_id": "9d3bac52-5d8d-4591-b575-aa0066a5b5ee",
+        "text": "답변 감사합니다! 논문들이 엄청 잘 정리되어 있군요. nlp캐글은 최신논문이 좋은 스코어에 영향을 많이 미치는걸까요? 나중에 nlp대회참가할때 꼭 참고해보겠습니다^^",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "16da4e28d6c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/6003210685524_16da4e28d6c4ea33bae5_72.png",
+            "first_name": "HB",
+            "real_name": "HB",
+            "display_name": "엄효범",
+            "team": "T05UGFFGL07",
+            "name": "swema86",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1709821322.619889",
+        "parent_user_id": "U06LQ0F0YA3",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YhbDd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "답변 감사합니다! 논문들이 엄청 잘 정리되어 있군요. nlp캐글은 최신논문이 좋은 스코어에 영향을 많이 미치는걸까요? 나중에 nlp대회참가할때 꼭 참고해보겠습니다^^"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LQ0F0YA3",
+        "type": "message",
+        "ts": "1709888676.241729",
+        "client_msg_id": "5F480B50-771C-44D8-A327-7C9443D9EB0A",
+        "text": "네 중요합니다. 다만 데이터마다, 언어마다 적용되는 편차가 클겁니다. 이건 대회 데이터에 직접 적용해보아야 아실수있을 겁니다!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "1f0e7ab41c31",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-28\/6741364411616_1f0e7ab41c31454e099e_72.png",
+            "first_name": "이승윤",
+            "real_name": "이승윤",
+            "display_name": "이승윤_멘토",
+            "team": "T05UGFFGL07",
+            "name": "dltmddbs100",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1709821322.619889",
+        "parent_user_id": "U06LQ0F0YA3",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/fQMm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "네 중요합니다. 다만 데이터마다, 언어마다 적용되는 편차가 클겁니다. 이건 대회 데이터에 직접 적용해보아야 아실수있을 겁니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05V7V2AV8A",
+        "type": "message",
+        "ts": "1709890230.019389",
+        "client_msg_id": "a12f30aa-3f9c-41ff-9154-b62e7a9b9145",
+        "text": "<@U06P0H0V3UY> 안녕하세요~\n함수가 종속으로 사용될 때는 새로 메모리에 올라오는 건가요? (함수 정의될 때 1번, 종속되어서 로드될 때 1번)",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "28368614e02a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5987346071766_28368614e02abbfb71bd_72.png",
+            "first_name": "andrew",
+            "real_name": "andrew jang",
+            "display_name": "장준규",
+            "team": "T05UGFFGL07",
+            "name": "goldenbeluga",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1709890230.019389",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1710036776.313229",
+        "reply_users": [
+            "U05V7V2AV8A",
+            "U06P0H0V3UY"
+        ],
+        "replies": [
+            {
+                "user": "U05V7V2AV8A",
+                "ts": "1709890300.152609"
+            },
+            {
+                "user": "U06P0H0V3UY",
+                "ts": "1709902112.547589"
+            },
+            {
+                "user": "U05V7V2AV8A",
+                "ts": "1710036776.313229"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2\/X21",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06P0H0V3UY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 안녕하세요~\n함수가 종속으로 사용될 때는 새로 메모리에 올라오는 건가요? (함수 정의될 때 1번, 종속되어서 로드될 때 1번)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U06P0H0V3UY"
+                ],
+                "count": 1
+            },
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U06P0H0V3UY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "text": "4번 셀 실행될 때 2번셀에 종속된 load~ 함수는 새로 메모리에 오버라이딩 되는 걸까요?",
+        "files": [
+            {
+                "id": "F06NGRQR5MK",
+                "created": 1709890234,
+                "timestamp": 1709890234,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U05V7V2AV8A",
+                "user_team": "T05UGFFGL07",
+                "editable": false,
+                "size": 75737,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F06NGRQR5MK\/image.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F06NGRQR5MK\/download\/image.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06NGRQR5MK-231da097e6\/image_64.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06NGRQR5MK-231da097e6\/image_80.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06NGRQR5MK-231da097e6\/image_360.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_360_w": 360,
+                "thumb_360_h": 273,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06NGRQR5MK-231da097e6\/image_480.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_480_w": 480,
+                "thumb_480_h": 364,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06NGRQR5MK-231da097e6\/image_160.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06NGRQR5MK-231da097e6\/image_720.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_720_w": 720,
+                "thumb_720_h": 546,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06NGRQR5MK-231da097e6\/image_800.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_800_w": 800,
+                "thumb_800_h": 606,
+                "original_w": 896,
+                "original_h": 679,
+                "thumb_tiny": "AwAkADDQySM4P0pPm9DTsqRwc59KTC+9ACfN70uW9P0pQAOmaWgBOfaloooAaAoXAPFAUcc\/hSRlNny5wSetKNvYmgb3F2r6CgKB0FGPc0Y9z+dAhaKTHufzox7mgAPXrRz6mlPWigBOfWlHXrR2oFAC0UUUAf\/Z",
+                "permalink": "https:\/\/fcupstageai1.slack.com\/files\/U05V7V2AV8A\/F06NGRQR5MK\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T05UGFFGL07-F06NGRQR5MK-c108ac1ab8",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U05V7V2AV8A",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "D0Z9N",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "4번 셀 실행될 때 2번셀에 종속된 load~ 함수는 새로 메모리에 오버라이딩 되는 걸까요?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1709890300.152609",
+        "client_msg_id": "714c502e-08b8-4c6c-9e82-957465a531d0",
+        "thread_ts": "1709890230.019389",
+        "parent_user_id": "U05V7V2AV8A"
+    },
+    {
+        "user": "U06P0H0V3UY",
+        "type": "message",
+        "ts": "1709902112.547589",
+        "client_msg_id": "67BA1507-8C97-4EF9-9F57-257E1FA5B138",
+        "text": "<@U05V7V2AV8A> 안녕하세요 준규님! \n질문하신부분에 대해서 제가 이해한바로 우선 설명드리겠습니다. \n\n2번 셀에서 정의하는 함수는 1번셀에서 정의하능 함수와 다른함수이므로 다른 메모리에 할당됩니다! ",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "f953974a59ed",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-07\/6762308887044_f953974a59edb3df3dc4_72.png",
+            "first_name": "이종혁",
+            "real_name": "이종혁 멘토",
+            "display_name": "이종혁 멘토",
+            "team": "T05UGFFGL07",
+            "name": "jonhyuk0922",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1709890230.019389",
+        "parent_user_id": "U05V7V2AV8A",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zdyje",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05V7V2AV8A"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "안녕하세요"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "준규님"
+                            },
+                            {
+                                "type": "text",
+                                "text": "! \n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "질문하신부분에"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "대해서"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "제가"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "이해한바로"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "우선"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "설명드리겠습니다"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". \n\n2"
+                            },
+                            {
+                                "type": "text",
+                                "text": "번"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "셀에서"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "정의하는"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "함수는"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 1"
+                            },
+                            {
+                                "type": "text",
+                                "text": "번셀에서"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "정의하능"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "함수와"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "다른함수이므로"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "다른"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "메모리에"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "할당됩니다"
+                            },
+                            {
+                                "type": "text",
+                                "text": "! "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

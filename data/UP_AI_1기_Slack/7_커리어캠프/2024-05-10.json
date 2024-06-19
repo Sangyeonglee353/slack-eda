@@ -1,0 +1,451 @@
+[
+    {
+        "user": "U071V329LVD",
+        "type": "message",
+        "ts": "1715335201.905749",
+        "edited": {
+            "user": "U071V329LVD",
+            "ts": "1715558701.000000"
+        },
+        "client_msg_id": "d4763edd-2467-4d4f-95b3-ba932d270afc",
+        "text": "<!channel>\n*[과정 후 취업 프로그램 공지]*\n\nUpstage AI Lab 1기 수료생 여러분 안녕하세요 :slightly_smiling_face:\n커뮤니티 매니저 유정미입니다!\n\n수료하신 것 다시 한번 축하드리며,\n수료식 때 안내드렸던 과정 후 취업 프로그램 공지드려요:green_heart:\n\n\n:runner: *취업챌린지*\n• 참여 기간 : 05.10(금)~08.09(금)\n• 챌린지 달성 방법\n    ◦ 참여 기간 내 취업하고, 취창업조사에 응답하기\n• 혜택\n    ◦ 네이버페이 5만원권\n• 미션 제출 : 취업 후, *<https:\/\/forms.gle\/kdDjDGEqgW41jLnj9|취창업조사>* 설문 작성!\n:books: *1:1 첨삭상담*\n• 신청 기간 : 05.10(금)~05.17(금)\n    ◦ *<https:\/\/forms.gle\/74QcjUqYRhqxundk7|1:1 첨삭상담 참여신청서>*\n• 진행 기간 : 05.13(월)~05.31(금)\n• 진행 방법\n    ◦ 신청서 작성한 인원에게 개별DM으로 되는시간 링크 전송\n    ◦ 예약페이지 내 가능한 시간 예약하기\n    ◦ 상담 당일에 구글밋으로 진행\n궁금하신 점은 언제든 스레드 댓글, DM 통해서 문의해주세요!\n여러분의 내일을 응원합니다 :sparkles:",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "7126b09d12fa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-13\/7098347063462_7126b09d12fa60e1a30d_72.png",
+            "first_name": "유정미",
+            "real_name": "유정미 매니저",
+            "display_name": "유정미 매니저",
+            "team": "T05UGFFGL07",
+            "name": "jeongmi.yoo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "I5mtd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "[과정 후 취업 프로그램 공지]",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nUpstage AI Lab 1기 수료생 여러분 안녕하세요 "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n커뮤니티 매니저 유정미입니다!\n\n수료하신 것 다시 한번 축하드리며,\n수료식 때 안내드렸던 과정 후 취업 프로그램 공지드려요"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "green_heart",
+                                "unicode": "1f49a"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "runner",
+                                "unicode": "1f3c3",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " 취업챌린지",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "참여 기간 : 05.10(금)~08.09(금)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "챌린지 달성 방법"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "참여 기간 내 취업하고, 취창업조사에 응답하기"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "혜택"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "네이버페이 5만원권"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "미션 제출 : 취업 후, "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/forms.gle\/kdDjDGEqgW41jLnj9",
+                                        "text": "취창업조사",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " 설문 작성!"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "books",
+                                "unicode": "1f4da",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " 1:1 첨삭상담",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "신청 기간 : 05.10(금)~05.17(금)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/forms.gle\/74QcjUqYRhqxundk7",
+                                        "text": "1:1 첨삭상담 참여신청서",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "진행 기간 : 05.13(월)~05.31(금)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "진행 방법"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "신청서 작성한 인원에게 개별DM으로 되는시간 링크 전송"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "예약페이지 내 가능한 시간 예약하기"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "상담 당일에 구글밋으로 진행"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n궁금하신 점은 언제든 스레드 댓글, DM 통해서 문의해주세요!\n여러분의 내일을 응원합니다 "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sparkles",
+                                "unicode": "2728"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U071V329LVD",
+        "type": "message",
+        "ts": "1715337000.095219",
+        "client_msg_id": "68f85ede-1d7c-4dd5-89b6-60f4ea1187e7",
+        "text": "<!channel>\n*[수료식 OT 중 질문에 대한 답변]*\n수료생 여러분 안녕하세요!\n패스트캠퍼스 유정미 매니저입니다.\n\n수료를 다시 한번 축하드립니다.\n오늘 수료식 OT에서 질문 주셨던 *사람인 우수 수료생 기준*에 대하여\n공지 드립니다.\n우수 수료생 기준은 내부 규정상 자세히 말씀 드릴 순 없으나\n*이력서와 포트폴리오 완성도, 부트캠프 수강 성실도 등 내부 기준에 따라 선발합니다.*\n질문에 답변 되셨길 바라며,\n\n즐거운 주말 보내시기 바랍니다.\n감사합니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "7126b09d12fa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-13\/7098347063462_7126b09d12fa60e1a30d_72.png",
+            "first_name": "유정미",
+            "real_name": "유정미 매니저",
+            "display_name": "유정미 매니저",
+            "team": "T05UGFFGL07",
+            "name": "jeongmi.yoo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1715337000.095219",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1716168305.324889",
+        "reply_users": [
+            "U060BLVQYHW",
+            "U071V329LVD"
+        ],
+        "replies": [
+            {
+                "user": "U060BLVQYHW",
+                "ts": "1715947863.093799"
+            },
+            {
+                "user": "U071V329LVD",
+                "ts": "1716164021.825709"
+            },
+            {
+                "user": "U060BLVQYHW",
+                "ts": "1716168305.324889"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7YChB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "[수료식 OT 중 질문에 대한 답변]",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n수료생 여러분 안녕하세요!\n패스트캠퍼스 유정미 매니저입니다.\n\n수료를 다시 한번 축하드립니다.\n오늘 수료식 OT에서 질문 주셨던 "
+                            },
+                            {
+                                "type": "text",
+                                "text": "사람인 우수 수료생 기준",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "에 대하여\n공지 드립니다.\n우수 수료생 기준은 내부 규정상 자세히 말씀 드릴 순 없으나\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "이력서와 포트폴리오 완성도, 부트캠프 수강 성실도 등 내부 기준에 따라 선발합니다.",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n질문에 답변 되셨길 바라며,\n\n즐거운 주말 보내시기 바랍니다.\n감사합니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1::skin-tone-2",
+                "users": [
+                    "U05V2HL22M9"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

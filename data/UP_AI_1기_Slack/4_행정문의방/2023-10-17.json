@@ -1,0 +1,667 @@
+[
+    {
+        "user": "U05V81G5ZDY",
+        "type": "message",
+        "ts": "1697587918.346769",
+        "client_msg_id": "58551129-4fc6-41f5-bb9d-53697f9290eb",
+        "text": "전달드렸습니다!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "db1aceeb0d90",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5994058472162_db1aceeb0d9030c57e69_72.jpg",
+            "first_name": "김현우",
+            "real_name": "김현우",
+            "display_name": "FC 김현우 매니저",
+            "team": "T05UGFFGL07",
+            "name": "hyunwoo.kim",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697506110.237949",
+        "parent_user_id": "U05UUSA6G5V",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2W2Bq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "전달드렸습니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0600G38JFL",
+        "type": "message",
+        "ts": "1697594808.339449",
+        "client_msg_id": "267f11ad-07e5-4807-8ffc-197b89c4a741",
+        "text": "개인 사정으로 참여가 어렵게 되었습니다. 철회 신청서 양식 부탁드립니다!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "5ca38fd10371",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/6000547394338_5ca38fd1037157dd4033_72.png",
+            "first_name": "송민환",
+            "real_name": "송민환",
+            "display_name": "송민환",
+            "team": "T05UGFFGL07",
+            "name": "codestudy25",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697594808.339449",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1697599342.554049",
+        "reply_users": [
+            "U05UNC6FNK1",
+            "U06061L4S64"
+        ],
+        "replies": [
+            {
+                "user": "U05UNC6FNK1",
+                "ts": "1697595533.482579"
+            },
+            {
+                "user": "U05UNC6FNK1",
+                "ts": "1697595551.383759"
+            },
+            {
+                "user": "U06061L4S64",
+                "ts": "1697599342.554049"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ifI0q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "개인 사정으로 참여가 어렵게 되었습니다. 철회 신청서 양식 부탁드립니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U06061L4S64"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05V5CQ9XAQ",
+        "type": "message",
+        "ts": "1697594898.454509",
+        "client_msg_id": "3cd7b9e5-e635-42e4-aabe-3e3bbb514000",
+        "text": "최근 면접이 너무 많이 잡혀서 취업준비와 겸하기가 쉽지않을 것 같습니다..ㅠ 철회 관련 양식 부탁드립니다",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "bccbcba92a35",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5974460904823_bccbcba92a35de38d39a_72.jpg",
+            "first_name": "손인수",
+            "real_name": "손인수",
+            "display_name": "손인수",
+            "team": "T05UGFFGL07",
+            "name": "insu940528",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697594898.454509",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1697599354.460769",
+        "reply_users": [
+            "U05UNC6FNK1",
+            "U06061L4S64"
+        ],
+        "replies": [
+            {
+                "user": "U05UNC6FNK1",
+                "ts": "1697595562.573089"
+            },
+            {
+                "user": "U06061L4S64",
+                "ts": "1697599354.460769"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jx05f",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "최근 면접이 너무 많이 잡혀서 취업준비와 겸하기가 쉽지않을 것 같습니다..ㅠ 철회 관련 양식 부탁드립니다"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U06061L4S64"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05UNC6FNK1",
+        "type": "message",
+        "ts": "1697595533.482579",
+        "edited": {
+            "user": "U05UNC6FNK1",
+            "ts": "1697595543.000000"
+        },
+        "client_msg_id": "1ae02c92-14ed-404b-b403-9c828407a441",
+        "text": "<@U05UYAVRTSR> 매니저님 확인 부탁드립니다",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "260d154ea1e2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5979526758263_260d154ea1e2177fd001_72.jpg",
+            "first_name": "FC",
+            "real_name": "FC 하시안 매니저",
+            "display_name": "FC 하시안 매니저",
+            "team": "T05UGFFGL07",
+            "name": "xianha",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697594808.339449",
+        "parent_user_id": "U0600G38JFL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "l3o3Z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05UYAVRTSR"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 매니저님 확인 부탁드립니다"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05UNC6FNK1",
+        "type": "message",
+        "ts": "1697595551.383759",
+        "client_msg_id": "0d49ef92-2da2-479a-8257-b0389bfba0b0",
+        "text": "CC. <@U06061L4S64>",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "260d154ea1e2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5979526758263_260d154ea1e2177fd001_72.jpg",
+            "first_name": "FC",
+            "real_name": "FC 하시안 매니저",
+            "display_name": "FC 하시안 매니저",
+            "team": "T05UGFFGL07",
+            "name": "xianha",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697594808.339449",
+        "parent_user_id": "U0600G38JFL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "P4zuW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "CC. "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06061L4S64"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05UNC6FNK1",
+        "type": "message",
+        "ts": "1697595562.573089",
+        "client_msg_id": "b6fd1e59-3037-4ad9-935b-3f3dc4e67d87",
+        "text": "<@U05UYAVRTSR> <@U06061L4S64> 매니저님 확인 부탁드립니다",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "260d154ea1e2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5979526758263_260d154ea1e2177fd001_72.jpg",
+            "first_name": "FC",
+            "real_name": "FC 하시안 매니저",
+            "display_name": "FC 하시안 매니저",
+            "team": "T05UGFFGL07",
+            "name": "xianha",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697594898.454509",
+        "parent_user_id": "U05V5CQ9XAQ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Oh910",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05UYAVRTSR"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06061L4S64"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 매니저님 확인 부탁드립니다"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0607T1SK6D",
+        "type": "message",
+        "ts": "1697596793.731569",
+        "client_msg_id": "1a5db98c-2b0d-4ece-bf2b-d8d6aeb4f40a",
+        "text": "저도 철회 관련 양식 부탁드립니다..!\n논문 작업을 마무리 해야할 것 같습니다 ㅜㅜ",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "9efbd6989d24",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/6007920074481_9efbd6989d24e1258b65_72.png",
+            "first_name": "전민서",
+            "real_name": "전민서",
+            "display_name": "전민서",
+            "team": "T05UGFFGL07",
+            "name": "raichal2000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697596793.731569",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1697599363.527169",
+        "reply_users": [
+            "U05UNC6FNK1",
+            "U0607T1SK6D",
+            "U06061L4S64"
+        ],
+        "replies": [
+            {
+                "user": "U05UNC6FNK1",
+                "ts": "1697597167.832669"
+            },
+            {
+                "user": "U0607T1SK6D",
+                "ts": "1697599130.434739"
+            },
+            {
+                "user": "U06061L4S64",
+                "ts": "1697599363.527169"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "E5iOn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "저도 철회 관련 양식 부탁드립니다..!\n논문 작업을 마무리 해야할 것 같습니다 ㅜㅜ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U06061L4S64",
+                    "U060TBSJ7DF"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U05UNC6FNK1",
+        "type": "message",
+        "ts": "1697597167.832669",
+        "client_msg_id": "30d41337-7ec1-4a18-807c-e5a14b4f3c71",
+        "text": "<@U05UYAVRTSR> <@U06061L4S64> 매니저님 확인 부탁드립니다",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "260d154ea1e2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5979526758263_260d154ea1e2177fd001_72.jpg",
+            "first_name": "FC",
+            "real_name": "FC 하시안 매니저",
+            "display_name": "FC 하시안 매니저",
+            "team": "T05UGFFGL07",
+            "name": "xianha",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697596793.731569",
+        "parent_user_id": "U0607T1SK6D",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Oh910",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05UYAVRTSR"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06061L4S64"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 매니저님 확인 부탁드립니다"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0607T1SK6D",
+        "type": "message",
+        "ts": "1697599130.434739",
+        "client_msg_id": "72368b58-c1d6-4327-b79e-376fdc988662",
+        "text": "<@U05UNC6FNK1> 어디로 제출하면될까요?",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "9efbd6989d24",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/6007920074481_9efbd6989d24e1258b65_72.png",
+            "first_name": "전민서",
+            "real_name": "전민서",
+            "display_name": "전민서",
+            "team": "T05UGFFGL07",
+            "name": "raichal2000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697596793.731569",
+        "parent_user_id": "U0607T1SK6D",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mfDDA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05UNC6FNK1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 어디로 제출하면될까요?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "양식 전달드립니다! 작성 하시고 저에게 전달부탁드릴게요!",
+        "files": [
+            {
+                "id": "F061EJZJPP0",
+                "created": 1697599310,
+                "timestamp": 1697599310,
+                "name": "[패스트캠퍼스강남학원] K-Digital Training 참여 철회 신청서_.docx",
+                "title": "[패스트캠퍼스강남학원] K-Digital Training 참여 철회 신청서_.docx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "filetype": "docx",
+                "pretty_type": "Word Document",
+                "user": "U06061L4S64",
+                "user_team": "T05UGFFGL07",
+                "editable": false,
+                "size": 13504,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F061EJZJPP0\/_________________________________k-digital_training_________________________.docx?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F061EJZJPP0\/download\/_________________________________k-digital_training_________________________.docx?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "media_display_type": "unknown",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F061EJZJPP0-fb43609d7f\/_________________________________k-digital_training__________________________converted.pdf?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F061EJZJPP0-fb43609d7f\/_________________________________k-digital_training__________________________thumb_pdf.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_pdf_w": 909,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/fcupstageai1.slack.com\/files\/U06061L4S64\/F061EJZJPP0\/_________________________________k-digital_training_________________________.docx",
+                "permalink_public": "https:\/\/slack-files.com\/T05UGFFGL07-F061EJZJPP0-a886eb4d5d",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U06061L4S64",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "P1tEi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "양식 전달드립니다! 작성 하시고 저에게 전달부탁드릴게요!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1697599342.554049",
+        "client_msg_id": "2884df17-6a15-427b-a82d-a3b2ba6cdb72",
+        "thread_ts": "1697594808.339449",
+        "parent_user_id": "U0600G38JFL"
+    },
+    {
+        "text": "<@U05V5CQ9XAQ> 양식 전달드립니다! 작성 하시고 저에게 전달부탁드릴게요!",
+        "files": [
+            {
+                "id": "F061ZT8NN2D",
+                "created": 1697599349,
+                "timestamp": 1697599349,
+                "name": "[패스트캠퍼스강남학원] K-Digital Training 참여 철회 신청서_.docx",
+                "title": "[패스트캠퍼스강남학원] K-Digital Training 참여 철회 신청서_.docx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "filetype": "docx",
+                "pretty_type": "Word Document",
+                "user": "U06061L4S64",
+                "user_team": "T05UGFFGL07",
+                "editable": false,
+                "size": 13504,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F061ZT8NN2D\/_________________________________k-digital_training_________________________.docx?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F061ZT8NN2D\/download\/_________________________________k-digital_training_________________________.docx?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "media_display_type": "unknown",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F061ZT8NN2D-ab18c9c977\/_________________________________k-digital_training__________________________converted.pdf?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F061ZT8NN2D-ab18c9c977\/_________________________________k-digital_training__________________________thumb_pdf.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_pdf_w": 909,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/fcupstageai1.slack.com\/files\/U06061L4S64\/F061ZT8NN2D\/_________________________________k-digital_training_________________________.docx",
+                "permalink_public": "https:\/\/slack-files.com\/T05UGFFGL07-F061ZT8NN2D-69429efe12",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U06061L4S64",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2oKl+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05V5CQ9XAQ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 양식 전달드립니다! 작성 하시고 저에게 전달부탁드릴게요!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1697599354.460769",
+        "edited": {
+            "user": "U06061L4S64",
+            "ts": "1697600101.000000"
+        },
+        "client_msg_id": "a23e6865-fe94-48ee-996e-c04e2a167037",
+        "thread_ts": "1697594898.454509",
+        "parent_user_id": "U05V5CQ9XAQ"
+    },
+    {
+        "user": "U06061L4S64",
+        "type": "message",
+        "ts": "1697599363.527169",
+        "client_msg_id": "1dfc7b10-737d-4781-8ee0-a2c5954a4aa6",
+        "text": "저한테 DM으로 부탁드릴게요!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "9958a6e7ea98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5988755251283_9958a6e7ea98545615ca_72.png",
+            "first_name": "LM",
+            "real_name": "LM 박진영",
+            "display_name": "LM 박진영",
+            "team": "T05UGFFGL07",
+            "name": "pjy.fc.career",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697596793.731569",
+        "parent_user_id": "U0607T1SK6D",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wKsfK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "저한테 DM으로 부탁드릴게요!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

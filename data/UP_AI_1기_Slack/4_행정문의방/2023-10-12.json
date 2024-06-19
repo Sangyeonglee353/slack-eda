@@ -1,0 +1,1487 @@
+[
+    {
+        "user": "U05V2HL22M9",
+        "type": "message",
+        "ts": "1697104585.115359",
+        "client_msg_id": "3cdf1a1e-ceee-44c6-9cf7-f2b675b70061",
+        "text": "<@U06061L4S64> 매니저님 10\/12일 QR 정정 상담 및 출석 스크린샷 요청 드립니다!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "1dcddf110806",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5996462649172_1dcddf110806f3a037a7_72.png",
+            "first_name": "김도연",
+            "real_name": "김도연",
+            "display_name": "김도연",
+            "team": "T05UGFFGL07",
+            "name": "lottie_eve",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697078042.142849",
+        "parent_user_id": "U05V2HL22M9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZM1T4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06061L4S64"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 매니저님 10\/12일 QR 정정 상담 및 출석 스크린샷 요청 드립니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05UUUNAE5D",
+        "type": "message",
+        "ts": "1697104939.256279",
+        "client_msg_id": "29e3e470-0eab-4349-8601-b69249ec93d0",
+        "text": "첫날 HRD-Net 앱을 설치하지 못해서 스크린샷으로만 출결 체크했는데 HRD-Net 앱에는 결석으로 뜨던데 그건 혹시 변경 불가능할까요?",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "32899ebdb4c2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5995423014227_32899ebdb4c26d670b69_72.png",
+            "first_name": "감성필SungFeelCalm",
+            "real_name": "감성필SungFeelCalm",
+            "display_name": "감성필",
+            "team": "T05UGFFGL07",
+            "name": "betterthingsarecoming",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697104939.256279",
+        "reply_count": 7,
+        "reply_users_count": 3,
+        "latest_reply": "1697179805.076569",
+        "reply_users": [
+            "U06061L4S64",
+            "U05UUUNAE5D",
+            "U05V81G5ZDY"
+        ],
+        "replies": [
+            {
+                "user": "U06061L4S64",
+                "ts": "1697105253.928589"
+            },
+            {
+                "user": "U06061L4S64",
+                "ts": "1697162760.377639"
+            },
+            {
+                "user": "U05UUUNAE5D",
+                "ts": "1697177675.927329"
+            },
+            {
+                "user": "U05UUUNAE5D",
+                "ts": "1697177728.746189"
+            },
+            {
+                "user": "U05UUUNAE5D",
+                "ts": "1697177855.228229"
+            },
+            {
+                "user": "U06061L4S64",
+                "ts": "1697178675.289459"
+            },
+            {
+                "user": "U05V81G5ZDY",
+                "ts": "1697179805.076569"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "baUjG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "첫날 HRD-Net 앱을 설치하지 못해서 스크린샷으로만 출결 체크했는데 HRD-Net 앱에는 결석으로 뜨던데 그건 혹시 변경 불가능할까요?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0606QGQYE5",
+        "type": "message",
+        "ts": "1697105092.899549",
+        "client_msg_id": "cb8c75de-95b3-403c-8282-2a1d4d2d629f",
+        "text": "10월 11일 날짜에 스크린샷과 QR체크 둘 다 완료했는데 결석으로 되어 있습니다. 혹시 확인 가능하실까요?",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "fb29f448e9a8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5979692591367_fb29f448e9a843cfbd44_72.jpg",
+            "first_name": "이영훈",
+            "real_name": "이영훈",
+            "display_name": "이영훈",
+            "team": "T05UGFFGL07",
+            "name": "leeanghoo2",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697105092.899549",
+        "reply_count": 5,
+        "reply_users_count": 3,
+        "latest_reply": "1697178649.901259",
+        "reply_users": [
+            "U06061L4S64",
+            "U05V81G5ZDY",
+            "U0606QGQYE5"
+        ],
+        "replies": [
+            {
+                "user": "U06061L4S64",
+                "ts": "1697105277.378639"
+            },
+            {
+                "user": "U06061L4S64",
+                "ts": "1697162819.938229"
+            },
+            {
+                "user": "U05V81G5ZDY",
+                "ts": "1697163579.815549"
+            },
+            {
+                "user": "U05V81G5ZDY",
+                "ts": "1697164037.349409"
+            },
+            {
+                "user": "U0606QGQYE5",
+                "ts": "1697178649.901259"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "k+3qd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "10월 11일 날짜에 스크린샷과 QR체크 둘 다 완료했는데 결석으로 되어 있습니다. 혹시 확인 가능하실까요?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U060J3NGX08",
+        "type": "message",
+        "ts": "1697105157.843369",
+        "client_msg_id": "10a0ac7e-4cbe-4dde-9643-787da8359036",
+        "text": "<@U05V81G5ZDY> <@U05UNC6FNK1> 혹시 출석 정정 언제쯤 반영되는지 알 수 있을까요?",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "gbc825ac18ac",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/bc825ac18ac18fdb67a86751711cbdba.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "조서영",
+            "real_name": "조서영",
+            "display_name": "조서영",
+            "team": "T05UGFFGL07",
+            "name": "pink495sy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696575191.509699",
+        "parent_user_id": "U060J3NGX08",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "d2lkO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05V81G5ZDY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05UNC6FNK1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 혹시 출석 정정 언제쯤 반영되는지 알 수 있을까요?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06061L4S64",
+        "type": "message",
+        "ts": "1697105253.928589",
+        "client_msg_id": "4a5eebb9-751e-4081-9199-6afda7728812",
+        "text": "확인해보고 연락드리겠습니다!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "9958a6e7ea98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5988755251283_9958a6e7ea98545615ca_72.png",
+            "first_name": "LM",
+            "real_name": "LM 박진영",
+            "display_name": "LM 박진영",
+            "team": "T05UGFFGL07",
+            "name": "pjy.fc.career",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697104939.256279",
+        "parent_user_id": "U05UUUNAE5D",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ckFfR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "확인해보고 연락드리겠습니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06061L4S64",
+        "type": "message",
+        "ts": "1697105277.378639",
+        "client_msg_id": "c31baf4e-9f69-4cba-b58c-00ead0db7488",
+        "text": "확인해보고 말씀드릴게요!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "9958a6e7ea98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5988755251283_9958a6e7ea98545615ca_72.png",
+            "first_name": "LM",
+            "real_name": "LM 박진영",
+            "display_name": "LM 박진영",
+            "team": "T05UGFFGL07",
+            "name": "pjy.fc.career",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697105092.899549",
+        "parent_user_id": "U0606QGQYE5",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YFKbG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "확인해보고 말씀드릴게요!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05V2HL22M9",
+        "type": "message",
+        "ts": "1697105312.636669",
+        "client_msg_id": "8a643979-2a89-42fb-b168-3d13274dfe04",
+        "text": "<@U06061L4S64> 매니저님 10\/12일 QR 정정 상담 및 출석 스크린샷 요청 드립니다!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "1dcddf110806",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5996462649172_1dcddf110806f3a037a7_72.png",
+            "first_name": "김도연",
+            "real_name": "김도연",
+            "display_name": "김도연",
+            "team": "T05UGFFGL07",
+            "name": "lottie_eve",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697105312.636669",
+        "reply_count": 2,
+        "reply_users_count": 1,
+        "latest_reply": "1697161783.054099",
+        "reply_users": [
+            "U06061L4S64"
+        ],
+        "replies": [
+            {
+                "user": "U06061L4S64",
+                "ts": "1697158184.893979"
+            },
+            {
+                "user": "U06061L4S64",
+                "ts": "1697161783.054099"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZM1T4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06061L4S64"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 매니저님 10\/12일 QR 정정 상담 및 출석 스크린샷 요청 드립니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05UZLEM04V",
+        "type": "message",
+        "ts": "1697105654.767749",
+        "client_msg_id": "bfdc06ce-0c07-4d8f-ad0a-0b3b15e148c2",
+        "text": "저도 첫날 HRD-Net관련 문제로 OT 스크린샷 출결은 모두 완료했는데 현재 결석입니다만 변경가능한지 검토부탁드립니다",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "25547f3149f8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5988678123971_25547f3149f87fd234ca_72.jpg",
+            "first_name": "권혁찬",
+            "real_name": "권혁찬",
+            "display_name": "권혁찬",
+            "team": "T05UGFFGL07",
+            "name": "gurcks2",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697105654.767749",
+        "reply_count": 5,
+        "reply_users_count": 3,
+        "latest_reply": "1697698839.769019",
+        "reply_users": [
+            "U06061L4S64",
+            "U05V81G5ZDY",
+            "U05UZLEM04V"
+        ],
+        "replies": [
+            {
+                "user": "U06061L4S64",
+                "ts": "1697158216.559839"
+            },
+            {
+                "user": "U05V81G5ZDY",
+                "ts": "1697162655.978229"
+            },
+            {
+                "user": "U05UZLEM04V",
+                "ts": "1697623324.678899"
+            },
+            {
+                "user": "U05V81G5ZDY",
+                "ts": "1697672952.941309"
+            },
+            {
+                "user": "U05UZLEM04V",
+                "ts": "1697698839.769019"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0WKvP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "저도 첫날 HRD-Net관련 문제로 OT 스크린샷 출결은 모두 완료했는데 현재 결석입니다만 변경가능한지 검토부탁드립니다"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U05V81G5ZDY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05V4KZR3NW",
+        "type": "message",
+        "ts": "1697130310.333539",
+        "client_msg_id": "03724976-3467-491e-95e0-065bd0e83b3d",
+        "text": "폼 제출 완료하였습니다! 늦은 시간이라 직접 여쭤보지 못했는데 서류에 미흡한 사항이 있다면 말씀해주시면 감사하겠습니다!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "8c77944bd304",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-20\/6082246066801_8c77944bd304e2d01432_72.jpg",
+            "first_name": "남영진",
+            "real_name": "남영진",
+            "display_name": "남영진",
+            "team": "T05UGFFGL07",
+            "name": "studyingnam",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696999016.478749",
+        "parent_user_id": "U05V4KZR3NW",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/e3Tm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "폼 제출 완료하였습니다! 늦은 시간이라 직접 여쭤보지 못했는데 서류에 미흡한 사항이 있다면 말씀해주시면 감사하겠습니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray::skin-tone-2",
+                "users": [
+                    "U05V81G5ZDY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05V81G5ZDY",
+        "type": "message",
+        "ts": "1697152716.027779",
+        "client_msg_id": "752340e1-7521-4871-ab1a-cf7e096f6768",
+        "text": "출석 정정 반영에는 2-3주 정도 소요됩니다!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "db1aceeb0d90",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5994058472162_db1aceeb0d9030c57e69_72.jpg",
+            "first_name": "김현우",
+            "real_name": "김현우",
+            "display_name": "FC 김현우 매니저",
+            "team": "T05UGFFGL07",
+            "name": "hyunwoo.kim",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696575191.509699",
+        "parent_user_id": "U060J3NGX08",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UolHN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "출석 정정 반영에는 2-3주 정도 소요됩니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U060J3NGX08"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06061L4S64",
+        "type": "message",
+        "ts": "1697158184.893979",
+        "client_msg_id": "3135b427-6425-496b-9512-d81e624d8325",
+        "text": "네 잠시만요!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "9958a6e7ea98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5988755251283_9958a6e7ea98545615ca_72.png",
+            "first_name": "LM",
+            "real_name": "LM 박진영",
+            "display_name": "LM 박진영",
+            "team": "T05UGFFGL07",
+            "name": "pjy.fc.career",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697105312.636669",
+        "parent_user_id": "U05V2HL22M9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "R5eFO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "네 잠시만요!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06061L4S64",
+        "type": "message",
+        "ts": "1697158216.559839",
+        "client_msg_id": "ed3192d6-e0f0-4615-b201-ff9362a9de4b",
+        "text": "<@U05V81G5ZDY> 확인가능할까요?!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "9958a6e7ea98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5988755251283_9958a6e7ea98545615ca_72.png",
+            "first_name": "LM",
+            "real_name": "LM 박진영",
+            "display_name": "LM 박진영",
+            "team": "T05UGFFGL07",
+            "name": "pjy.fc.career",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697105654.767749",
+        "parent_user_id": "U05UZLEM04V",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VGD1U",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05V81G5ZDY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 확인가능할까요?!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06061L4S64",
+        "type": "message",
+        "ts": "1697161783.054099",
+        "client_msg_id": "fb094dc8-6580-4ce5-8937-658a5f76d0d6",
+        "text": "도연님 DM으로 전달드렸습니다",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "9958a6e7ea98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5988755251283_9958a6e7ea98545615ca_72.png",
+            "first_name": "LM",
+            "real_name": "LM 박진영",
+            "display_name": "LM 박진영",
+            "team": "T05UGFFGL07",
+            "name": "pjy.fc.career",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697105312.636669",
+        "parent_user_id": "U05V2HL22M9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "i\/wbo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "도연님 DM으로 전달드렸습니다"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U05V2HL22M9"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05V81G5ZDY",
+        "type": "message",
+        "ts": "1697162655.978229",
+        "client_msg_id": "e6db3b8b-f1d2-4e58-8c5e-c74c9532958e",
+        "text": "cc. <@U05UNC6FNK1>\nHRD 문제로 출결 미반영된 부분은 모든 인원 취합하여 처리 예정입니다!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "db1aceeb0d90",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5994058472162_db1aceeb0d9030c57e69_72.jpg",
+            "first_name": "김현우",
+            "real_name": "김현우",
+            "display_name": "FC 김현우 매니저",
+            "team": "T05UGFFGL07",
+            "name": "hyunwoo.kim",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697105654.767749",
+        "parent_user_id": "U05UZLEM04V",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4QYlJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "cc. "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05UNC6FNK1"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nHRD 문제로 출결 미반영된 부분은 모든 인원 취합하여 처리 예정입니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06061L4S64",
+        "type": "message",
+        "ts": "1697162760.377639",
+        "client_msg_id": "4e110a3d-6c99-4eb5-81ae-256066e44d24",
+        "text": "성필님 혹시 HRD 앱을 설치 못하신 사유를 알 수 있을까요?",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "9958a6e7ea98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5988755251283_9958a6e7ea98545615ca_72.png",
+            "first_name": "LM",
+            "real_name": "LM 박진영",
+            "display_name": "LM 박진영",
+            "team": "T05UGFFGL07",
+            "name": "pjy.fc.career",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697104939.256279",
+        "parent_user_id": "U05UUUNAE5D",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "L2BnH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "성필님 혹시 HRD 앱을 설치 못하신 사유를 알 수 있을까요?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06061L4S64",
+        "type": "message",
+        "ts": "1697162819.938229",
+        "client_msg_id": "4e930045-40b7-47fe-8d7f-cd75a11a0ac0",
+        "text": "<@U05V81G5ZDY> 영훈님 권혁찬님이랑 비슷한 상황이라 확인해보신답니다!\n<https:\/\/fcupstageai1.slack.com\/archives\/C05V0H8H3GC\/p1697162655978229?thread_ts=1697105654.767749&amp;cid=C05V0H8H3GC|답변>",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "9958a6e7ea98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5988755251283_9958a6e7ea98545615ca_72.png",
+            "first_name": "LM",
+            "real_name": "LM 박진영",
+            "display_name": "LM 박진영",
+            "team": "T05UGFFGL07",
+            "name": "pjy.fc.career",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697105092.899549",
+        "parent_user_id": "U0606QGQYE5",
+        "attachments": [
+            {
+                "from_url": "https:\/\/fcupstageai1.slack.com\/archives\/C05V0H8H3GC\/p1697162655978229?thread_ts=1697105654.767749&amp;cid=C05V0H8H3GC",
+                "ts": "1697162655.978229",
+                "author_id": "U05V81G5ZDY",
+                "channel_id": "C05V0H8H3GC",
+                "channel_team": "T05UGFFGL07",
+                "is_msg_unfurl": true,
+                "is_reply_unfurl": true,
+                "message_blocks": [
+                    {
+                        "team": "T05UGFFGL07",
+                        "channel": "C05V0H8H3GC",
+                        "ts": "1697162655.978229",
+                        "message": {
+                            "blocks": [
+                                {
+                                    "type": "rich_text",
+                                    "block_id": "4QYlJ",
+                                    "elements": [
+                                        {
+                                            "type": "rich_text_section",
+                                            "elements": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "cc. "
+                                                },
+                                                {
+                                                    "type": "user",
+                                                    "user_id": "U05UNC6FNK1"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "\nHRD 문제로 출결 미반영된 부분은 모든 인원 취합하여 처리 예정입니다!"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "id": 1,
+                "original_url": "https:\/\/fcupstageai1.slack.com\/archives\/C05V0H8H3GC\/p1697162655978229?thread_ts=1697105654.767749&amp;cid=C05V0H8H3GC",
+                "fallback": "[October 12th, 2023 7:04 PM] hyunwoo.kim: cc. <@U05UNC6FNK1>\nHRD 문제로 출결 미반영된 부분은 모든 인원 취합하여 처리 예정입니다!",
+                "text": "cc. <@U05UNC6FNK1>\nHRD 문제로 출결 미반영된 부분은 모든 인원 취합하여 처리 예정입니다!",
+                "author_name": "김현우",
+                "author_link": "https:\/\/fcupstageai1.slack.com\/team\/U05V81G5ZDY",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5994058472162_db1aceeb0d9030c57e69_48.jpg",
+                "author_subname": "김현우",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "footer": "Slack 대화의 스레드"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "O6AxH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05V81G5ZDY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 영훈님 권혁찬님이랑 비슷한 상황이라 확인해보신답니다!\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/fcupstageai1.slack.com\/archives\/C05V0H8H3GC\/p1697162655978229?thread_ts=1697105654.767749&cid=C05V0H8H3GC",
+                                "text": "답변"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05V2HL22M9",
+        "type": "message",
+        "ts": "1697163314.204639",
+        "client_msg_id": "d4529b55-f5cf-48d8-8ebd-c95cee50b54a",
+        "text": "<@U05UNC6FNK1> <@U05V81G5ZDY> 23.10.12 입실, 퇴실 QR 미체크로 인해 출석인정 요청 드립니다. 구글폼으로 업로드 했습니다 ! 확인 부탁드립니다 :)",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "1dcddf110806",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5996462649172_1dcddf110806f3a037a7_72.png",
+            "first_name": "김도연",
+            "real_name": "김도연",
+            "display_name": "김도연",
+            "team": "T05UGFFGL07",
+            "name": "lottie_eve",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "u1jZ5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05UNC6FNK1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05V81G5ZDY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 23.10.12 입실, 퇴실 QR 미체크로 인해 출석인정 요청 드립니다. 구글폼으로 업로드 했습니다 ! 확인 부탁드립니다 :)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "U05V81G5ZDY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05V81G5ZDY",
+        "type": "message",
+        "ts": "1697163579.815549",
+        "client_msg_id": "96841748-1979-4949-a41d-77cbf30a3b1b",
+        "text": "<@U0606QGQYE5> 안녕하세요 영훈님!\nHRD 확인 결과 퇴실 QR 미체크 하신 것으로 확인됩니다.\n정정원하시면 <@U06061L4S64> 님께 입.퇴실 스샷 요청하셔서 행정방에 고정 안내로 등록된 QR 정정 안내에 따라 확인해주세요!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "db1aceeb0d90",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5994058472162_db1aceeb0d9030c57e69_72.jpg",
+            "first_name": "김현우",
+            "real_name": "김현우",
+            "display_name": "FC 김현우 매니저",
+            "team": "T05UGFFGL07",
+            "name": "hyunwoo.kim",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697105092.899549",
+        "parent_user_id": "U0606QGQYE5",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eMfUs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0606QGQYE5"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 안녕하세요 영훈님!\nHRD 확인 결과 퇴실 QR 미체크 하신 것으로 확인됩니다.\n정정원하시면 "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06061L4S64"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 님께 입.퇴실 스샷 요청하셔서 행정방에 고정 안내로 등록된 QR 정정 안내에 따라 확인해주세요!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05V81G5ZDY",
+        "type": "message",
+        "ts": "1697164037.349409",
+        "client_msg_id": "f03408a7-59c6-46e9-8b1a-948ddd7b4fab",
+        "text": "<@U0606QGQYE5> 제가 놓친 부분이 있어 전달 드립니다\n출결 정정 부분은 원하는 정정날짜에 익일 16시까지만 받고 있습니다. 따라서 10\/11일자 정정 요청은 불가함을 말씀드립니다.\n\n다음 부터는 QR체크 한번 더 확인 꼭 부탁드립니다.\n제가 확인이 늦어 죄송하고 말씀주셔서 감사합니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "db1aceeb0d90",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5994058472162_db1aceeb0d9030c57e69_72.jpg",
+            "first_name": "김현우",
+            "real_name": "김현우",
+            "display_name": "FC 김현우 매니저",
+            "team": "T05UGFFGL07",
+            "name": "hyunwoo.kim",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697105092.899549",
+        "parent_user_id": "U0606QGQYE5",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "boDZk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0606QGQYE5"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 제가 놓친 부분이 있어 전달 드립니다\n출결 정정 부분은 원하는 정정날짜에 익일 16시까지만 받고 있습니다. 따라서 10\/11일자 정정 요청은 불가함을 말씀드립니다.\n\n다음 부터는 QR체크 한번 더 확인 꼭 부탁드립니다.\n제가 확인이 늦어 죄송하고 말씀주셔서 감사합니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05V1DLE962",
+        "type": "message",
+        "ts": "1697175867.707189",
+        "client_msg_id": "B56EE2D6-4248-4D3D-8938-D53D90D2B057",
+        "text": "<@U05UNC6FNK1>  안녕하세요 다음주 카드 수령 예정이라고 합니다 그렇다면 이번달 출석 요건이 충족되지 못하는데 어떤식으로 진행해야 하나요",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "c56423ff4fbb",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5979570600183_c56423ff4fbba4d924ee_72.png",
+            "first_name": "최강희",
+            "real_name": "최강희",
+            "display_name": "최강희",
+            "team": "T05UGFFGL07",
+            "name": "rkdgml3577",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697086560.091609",
+        "parent_user_id": "U05V1DLE962",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jYjFv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05UNC6FNK1"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  안녕하세요 "
+                            },
+                            {
+                                "type": "text",
+                                "text": "다음주"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "카드"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "수령"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "예정이라고"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "합니다"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "그렇다면"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "이번달"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "출석"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "요건이"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "충족되지"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "못하는데"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "어떤식으로"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "진행해야"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "하나요"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05UUUNAE5D",
+        "type": "message",
+        "ts": "1697177675.927329",
+        "client_msg_id": "a04954d5-7ee7-405e-92d8-9ae99d883866",
+        "text": "HRD 앱을 깔았는데 접속도 안 되고, 아이디 로그인에 문제가 계속 발생하더라구요.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "32899ebdb4c2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5995423014227_32899ebdb4c26d670b69_72.png",
+            "first_name": "감성필SungFeelCalm",
+            "real_name": "감성필SungFeelCalm",
+            "display_name": "감성필",
+            "team": "T05UGFFGL07",
+            "name": "betterthingsarecoming",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697104939.256279",
+        "parent_user_id": "U05UUUNAE5D",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "b2R7v",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "HRD 앱을 깔았는데 접속도 안 되고, 아이디 로그인에 문제가 계속 발생하더라구요."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05UUUNAE5D",
+        "type": "message",
+        "ts": "1697177728.746189",
+        "client_msg_id": "7c5bd9df-3e53-41af-b065-9370e7b57a93",
+        "text": "그래서 그냥 줌으로 출결결제해도 되나보다 생각하고 말았습니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "32899ebdb4c2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5995423014227_32899ebdb4c26d670b69_72.png",
+            "first_name": "감성필SungFeelCalm",
+            "real_name": "감성필SungFeelCalm",
+            "display_name": "감성필",
+            "team": "T05UGFFGL07",
+            "name": "betterthingsarecoming",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697104939.256279",
+        "parent_user_id": "U05UUUNAE5D",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wQqUV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "그래서 그냥 줌으로 출결결제해도 되나보다 생각하고 말았습니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05UUUNAE5D",
+        "type": "message",
+        "ts": "1697177855.228229",
+        "client_msg_id": "a9fc0010-5e28-4a5f-a6f5-18e4ba6793b3",
+        "text": "이후 HRD앱 제거 후 다시 설치 후에야 작동되더라구요.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "32899ebdb4c2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5995423014227_32899ebdb4c26d670b69_72.png",
+            "first_name": "감성필SungFeelCalm",
+            "real_name": "감성필SungFeelCalm",
+            "display_name": "감성필",
+            "team": "T05UGFFGL07",
+            "name": "betterthingsarecoming",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697104939.256279",
+        "parent_user_id": "U05UUUNAE5D",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JTFG2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "이후 HRD앱 제거 후 다시 설치 후에야 작동되더라구요."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0606QGQYE5",
+        "type": "message",
+        "ts": "1697178649.901259",
+        "client_msg_id": "5e39f418-3a53-44e5-8351-8dc62e6f7625",
+        "text": "헉...감사합니다:pleading_face: 다음부터 QR 확인 잘해야겠네용",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "fb29f448e9a8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5979692591367_fb29f448e9a843cfbd44_72.jpg",
+            "first_name": "이영훈",
+            "real_name": "이영훈",
+            "display_name": "이영훈",
+            "team": "T05UGFFGL07",
+            "name": "leeanghoo2",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697105092.899549",
+        "parent_user_id": "U0606QGQYE5",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nZCQT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "헉...감사합니다"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pleading_face",
+                                "unicode": "1f97a"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 다음부터 QR 확인 잘해야겠네용"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray::skin-tone-2",
+                "users": [
+                    "U05V81G5ZDY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06061L4S64",
+        "type": "message",
+        "ts": "1697178675.289459",
+        "client_msg_id": "fa8dd966-722b-4bb2-b0fb-e5ba8a50d73c",
+        "text": "<@U05V81G5ZDY> 현우 매니저님 확인 한번만 부탁드립니다!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "9958a6e7ea98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5988755251283_9958a6e7ea98545615ca_72.png",
+            "first_name": "LM",
+            "real_name": "LM 박진영",
+            "display_name": "LM 박진영",
+            "team": "T05UGFFGL07",
+            "name": "pjy.fc.career",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697104939.256279",
+        "parent_user_id": "U05UUUNAE5D",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hQs6j",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05V81G5ZDY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 현우 매니저님 확인 한번만 부탁드립니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05V81G5ZDY",
+        "type": "message",
+        "ts": "1697179805.076569",
+        "client_msg_id": "239583f3-9775-495c-a033-3c32a9170735",
+        "text": "<@U05UUUNAE5D> 사정은 이해합니다만 QR미체크 출결 정정은 *정정발생일자 익일16시까지만* 접수 받고 있습니다.\n다음 부터는 줌+QR 출결 확인 꼭 부탁드립니다!\n감사합니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "db1aceeb0d90",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5994058472162_db1aceeb0d9030c57e69_72.jpg",
+            "first_name": "김현우",
+            "real_name": "김현우",
+            "display_name": "FC 김현우 매니저",
+            "team": "T05UGFFGL07",
+            "name": "hyunwoo.kim",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697104939.256279",
+        "parent_user_id": "U05UUUNAE5D",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UUA3z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05UUUNAE5D"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 사정은 이해합니다만 QR미체크 출결 정정은 "
+                            },
+                            {
+                                "type": "text",
+                                "text": "정정발생일자 익일16시까지만",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " 접수 받고 있습니다.\n다음 부터는 줌+QR 출결 확인 꼭 부탁드립니다!\n감사합니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray::skin-tone-2",
+                "users": [
+                    "U05V81G5ZDY"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

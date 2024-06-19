@@ -1,0 +1,214 @@
+[
+    {
+        "user": "U06EP4SNZ52",
+        "type": "message",
+        "ts": "1706159848.715669",
+        "edited": {
+            "user": "U06EP4SNZ52",
+            "ts": "1706159866.000000"
+        },
+        "client_msg_id": "e87781ab-176b-41c8-8748-8c744913dbca",
+        "text": "<!here>\n안녕하세요~  정재원 멘토입니다. 벌써 대회 마감까지 얼마 남지 않아 바쁜 시간을 보내고 계실텐데요.\n몇 분들의 질문 및 대회 <http:\/\/(https:\/\/next.stages.ai\/competitions\/276\/discussion\/373\/post\/2542|게시판 질문> 에서 테스트 데이터의 분포에 대한 의문점이 있으신 것 같습니다. 먼저, 본 대회의 목표는 실데이터를 사용하여 잘 정규화된 모델을 만들어내는 것입니다. 따라서 테스트 데이터는 사람이 예측하기 어려운 실 데이터를 잘 반영하고 있으며, 이를 대응하는 것에서 많은 것을 배울 수 있을 것입니다.\n\n\n다음으로, <https:\/\/next.stages.ai\/competitions\/276\/discussion\/373\/post\/2542|대회 게시판의 글> 에 대한 답변입니다. 1번의 예측값은 아래쪽이 붕떠있고, 위쪽은 상대적으로 중앙으로 내려가있는 모습입니다. 이는 rmse의 수렴 과정 상에 발생할 수 있는 문제입니다.\n```효범님이 올리신 글의 예시를 가져왔습니다. RMSE는 16억의 거래가 9번, 8억의 거래가 1번 발생했을 때\n모두 16억이라 예측하면 8^2\/10에 루트를 씌운 값이 됩니다. (본 대회에서는 억단위가 아닌 만단위)\n16억이 아닌 15억으로 예측을 하면 (1^1 * 9 + 7^2)\/10에 루트를 씌운 값이 되어 스코어는 향상됩니다. (평가지표 수치는 감소)```\n1번의 예측값들을 보면 하한가는 올라가 있고, 상한가는 내려가서 (train dataset의 분포 기준) 중앙에 모여있게 되는 것입니다. 그래서, 2번이 더 그럴싸해보여도 2번보다 1번의 rmse가 낮은 것이구요.\n\n\n마지막으로, 다음과 같은 조언을 드립니다.\n1. 지역, 좌표, 아파트명으로 갈라서 확인해보는 것을 추천합니다. 집값은 지역별로 큰 차이를 보이게 되므로, 여러 가지 기준으로 나눠서 데이터를 살펴보고 모델에 적용하시는 것을 추천합니다.\n2. rmse외의 다른 loss를 시도해보시는 것을 추천합니다. 또한 target 변수에 여러 scaling을 시도해보시는 것을 추천합니다. (예측할 때에는 scaling을 원상복구해야합니다)\n3. 기간에 따라 새로 생긴 아파트들이 있을 수 있습니다. 이를 대응하기 위해 group k-fold, time-series split 등의 전략을 써보시는 것을 추천합니다.\n4. 끝으로, *public 스코어를 너무 맹신하지 말라는 말씀을 드리고 싶습니다*. 실제 프라이빗 스코어에서는 순위가 바뀔 수 있습니다! (이를 shake-up이라 합니다. 다음의 글을 참고해보시면 좋을 것 같습니다. <https:\/\/medium.com\/global-maksimum-data-information-technologies\/kaggle-handbook-tips-tricks-to-survive-a-kaggle-shake-up-23675beed05e> )",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "2ce448750e88",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-18\/6482160274999_2ce448750e880b6d595d_72.png",
+            "first_name": "정재원",
+            "real_name": "정재원 멘토",
+            "display_name": "",
+            "team": "T05UGFFGL07",
+            "name": "jaewon1217",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1706159848.715669",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1706255208.601329",
+        "reply_users": [
+            "U05UWVA90H4"
+        ],
+        "replies": [
+            {
+                "user": "U05UWVA90H4",
+                "ts": "1706255208.601329"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "attachments": [
+            {
+                "image_url": "https:\/\/miro.medium.com\/v2\/resize:fit:1200\/0*FDxCrLaIO68uVWcV.png",
+                "image_width": 1200,
+                "image_height": 885,
+                "image_bytes": 378355,
+                "from_url": "https:\/\/medium.com\/global-maksimum-data-information-technologies\/kaggle-handbook-tips-tricks-to-survive-a-kaggle-shake-up-23675beed05e",
+                "service_icon": "https:\/\/miro.medium.com\/v2\/resize:fill:152:152\/1*sHhtYhaCe2Uc3IU0IgKwIQ.png",
+                "ts": 1653378086,
+                "id": 1,
+                "original_url": "https:\/\/medium.com\/global-maksimum-data-information-technologies\/kaggle-handbook-tips-tricks-to-survive-a-kaggle-shake-up-23675beed05e",
+                "fallback": "Medium: Kaggle Handbook: Tips &amp; Tricks To Survive a Kaggle Shake-up",
+                "text": "Hi folks! In the first post [LINK] of this series, I talked about a set of fundamental techniques — including bias-variance tradeoff…",
+                "title": "Kaggle Handbook: Tips &amp; Tricks To Survive a Kaggle Shake-up",
+                "title_link": "https:\/\/medium.com\/global-maksimum-data-information-technologies\/kaggle-handbook-tips-tricks-to-survive-a-kaggle-shake-up-23675beed05e",
+                "service_name": "Medium",
+                "fields": [
+                    {
+                        "value": "7 min read",
+                        "title": "Reading time",
+                        "short": true
+                    }
+                ]
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zPmZq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n안녕하세요~  정재원 멘토입니다. 벌써 대회 마감까지 얼마 남지 않아 바쁜 시간을 보내고 계실텐데요.\n몇 분들의 질문 및 대회 "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/(https:\/\/next.stages.ai\/competitions\/276\/discussion\/373\/post\/2542",
+                                "text": "게시판 질문"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 에서 테스트 데이터의 분포에 대한 의문점이 있으신 것 같습니다. 먼저, 본 대회의 목표는 실데이터를 사용하여 잘 정규화된 모델을 만들어내는 것입니다. 따라서 테스트 데이터는 사람이 예측하기 어려운 실 데이터를 잘 반영하고 있으며, 이를 대응하는 것에서 많은 것을 배울 수 있을 것입니다.\n\n\n다음으로, "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/next.stages.ai\/competitions\/276\/discussion\/373\/post\/2542",
+                                "text": "대회 게시판의 글"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 에 대한 답변입니다. 1번의 예측값은 아래쪽이 붕떠있고, 위쪽은 상대적으로 중앙으로 내려가있는 모습입니다. 이는 rmse의 수렴 과정 상에 발생할 수 있는 문제입니다.\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "효범님이 올리신 글의 예시를 가져왔습니다. RMSE는 16억의 거래가 9번, 8억의 거래가 1번 발생했을 때\n모두 16억이라 예측하면 8^2\/10에 루트를 씌운 값이 됩니다. (본 대회에서는 억단위가 아닌 만단위)\n16억이 아닌 15억으로 예측을 하면 (1^1 * 9 + 7^2)\/10에 루트를 씌운 값이 되어 스코어는 향상됩니다. (평가지표 수치는 감소)"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "1번의 예측값들을 보면 하한가는 올라가 있고, 상한가는 내려가서 (train dataset의 분포 기준) 중앙에 모여있게 되는 것입니다. 그래서, 2번이 더 그럴싸해보여도 2번보다 1번의 rmse가 낮은 것이구요.\n\n\n마지막으로, 다음과 같은 조언을 드립니다.\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "지역, 좌표, 아파트명으로 갈라서 확인해보는 것을 추천합니다. 집값은 지역별로 큰 차이를 보이게 되므로, 여러 가지 기준으로 나눠서 데이터를 살펴보고 모델에 적용하시는 것을 추천합니다."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "rmse외의 다른 loss를 시도해보시는 것을 추천합니다. 또한 target 변수에 여러 scaling을 시도해보시는 것을 추천합니다. (예측할 때에는 scaling을 원상복구해야합니다)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "기간에 따라 새로 생긴 아파트들이 있을 수 있습니다. 이를 대응하기 위해 group k-fold, time-series split 등의 전략을 써보시는 것을 추천합니다."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "끝으로, "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "public 스코어를 너무 맹신하지 말라는 말씀을 드리고 싶습니다",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ". 실제 프라이빗 스코어에서는 순위가 바뀔 수 있습니다! (이를 shake-up이라 합니다. 다음의 글을 참고해보시면 좋을 것 같습니다. "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/medium.com\/global-maksimum-data-information-technologies\/kaggle-handbook-tips-tricks-to-survive-a-kaggle-shake-up-23675beed05e"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " )"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U06EDS0G8AH",
+                    "U05VAHXECP6",
+                    "U060D1KJECR",
+                    "U05V9LP47V0",
+                    "U05VADPQPCL",
+                    "U05UN5DQ423",
+                    "U05V2PMAVNE",
+                    "U065TBUL5EE",
+                    "U060BLVQYHW",
+                    "U060C67EYQ5",
+                    "U05UN6NTN8P"
+                ],
+                "count": 11
+            },
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U05V9N22ZUK"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

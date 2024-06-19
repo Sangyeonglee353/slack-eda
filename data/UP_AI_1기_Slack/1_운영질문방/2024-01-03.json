@@ -1,0 +1,272 @@
+[
+    {
+        "user": "U05UN5DQ423",
+        "type": "message",
+        "ts": "1704333848.777589",
+        "client_msg_id": "1a88c38f-052a-4ca3-a516-6335af8164e5",
+        "text": "입과된 강의들은 수강 기간이 제한되어있는 것인가요 아니면 평생수강 가능한가요?",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "602bc2a55d5c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5994828351843_602bc2a55d5c461d5b24_72.png",
+            "first_name": "박성우",
+            "real_name": "박성우",
+            "display_name": "박성우",
+            "team": "T05UGFFGL07",
+            "name": "tjddn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1704333848.777589",
+        "reply_count": 5,
+        "reply_users_count": 2,
+        "latest_reply": "1704342866.231069",
+        "reply_users": [
+            "U05VADPQPCL",
+            "U05UN5DQ423"
+        ],
+        "replies": [
+            {
+                "user": "U05VADPQPCL",
+                "ts": "1704334156.293999"
+            },
+            {
+                "user": "U05VADPQPCL",
+                "ts": "1704334386.004099"
+            },
+            {
+                "user": "U05UN5DQ423",
+                "ts": "1704338840.116659"
+            },
+            {
+                "user": "U05VADPQPCL",
+                "ts": "1704340120.700589"
+            },
+            {
+                "user": "U05UN5DQ423",
+                "ts": "1704342866.231069"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "37Pta",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "입과된 강의들은 수강 기간이 제한되어있는 것인가요 아니면 평생수강 가능한가요?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05VADPQPCL",
+        "type": "message",
+        "ts": "1704334156.293999",
+        "client_msg_id": "7bde2c67-73eb-4eaa-a01e-9fa1319cdcf1",
+        "text": "안녕하세요 성우님!\n입과된 강의들은 과정 내 기간에만 수강이 가능합니다.\n과정 종료 이후 패스트 캠퍼스 내부 기준에 따라 심사 이후 수료 기준에 부합하신 분들에게는 올플랜 혜택이 제공됩니다.\n올플랜 혜택에 현재 입과된 강의들이 다 있습니다!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "07e7ca00b8f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5991092857253_07e7ca00b8f0d0b13ba1_72.png",
+            "first_name": "패스트캠퍼스박기준",
+            "real_name": "패스트캠퍼스박기준",
+            "display_name": "LM 박기준",
+            "team": "T05UGFFGL07",
+            "name": "pgj.fc.career",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1704333848.777589",
+        "parent_user_id": "U05UN5DQ423",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MCzja",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "안녕하세요 성우님!\n입과된 강의들은 과정 내 기간에만 수강이 가능합니다.\n과정 종료 이후 패스트 캠퍼스 내부 기준에 따라 심사 이후 수료 기준에 부합하신 분들에게는 올플랜 혜택이 제공됩니다.\n올플랜 혜택에 현재 입과된 강의들이 다 있습니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05VADPQPCL",
+        "type": "message",
+        "ts": "1704334386.004099",
+        "client_msg_id": "c262b208-15e1-42bd-b3ec-67f899c24ad0",
+        "text": "올플랜 혜택에는 현재 제공드리는 강의 + 업스테이지 강의가 포함되어 있으며 패스트 캠퍼스 홈페이지에 다양한 주제의 강의들도 포함되어있습니다!\n단 The Red, 신규 강의 등은 혜택에서 제외되며 6개월 동안 지속적으로 강의 목록은 업데이트 됩니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "07e7ca00b8f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5991092857253_07e7ca00b8f0d0b13ba1_72.png",
+            "first_name": "패스트캠퍼스박기준",
+            "real_name": "패스트캠퍼스박기준",
+            "display_name": "LM 박기준",
+            "team": "T05UGFFGL07",
+            "name": "pgj.fc.career",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1704333848.777589",
+        "parent_user_id": "U05UN5DQ423",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fEGP\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "올플랜 혜택에는 현재 제공드리는 강의 + 업스테이지 강의가 포함되어 있으며 패스트 캠퍼스 홈페이지에 다양한 주제의 강의들도 포함되어있습니다!\n단 The Red, 신규 강의 등은 혜택에서 제외되며 6개월 동안 지속적으로 강의 목록은 업데이트 됩니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05UN5DQ423",
+        "type": "message",
+        "ts": "1704338840.116659",
+        "client_msg_id": "027a21ab-05dc-4623-80fd-3ebb3ba84019",
+        "text": "6개월 동안만 올플랜 혜택이 이용가능한건가요? 그 이후에는 업데이트는 안되지만 수강은 가능한가요?",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "602bc2a55d5c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5994828351843_602bc2a55d5c461d5b24_72.png",
+            "first_name": "박성우",
+            "real_name": "박성우",
+            "display_name": "박성우",
+            "team": "T05UGFFGL07",
+            "name": "tjddn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1704333848.777589",
+        "parent_user_id": "U05UN5DQ423",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "weA21",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "6개월 동안만 올플랜 혜택이 이용가능한건가요? 그 이후에는 업데이트는 안되지만 수강은 가능한가요?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05VADPQPCL",
+        "type": "message",
+        "ts": "1704340120.700589",
+        "client_msg_id": "2f6498ab-a4d4-4401-906b-1e4dbfee8268",
+        "text": "네 6개월동안만 이용 가능합니다! 6개월 이후에는 만료되어 강의가 사라집니다!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "07e7ca00b8f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5991092857253_07e7ca00b8f0d0b13ba1_72.png",
+            "first_name": "패스트캠퍼스박기준",
+            "real_name": "패스트캠퍼스박기준",
+            "display_name": "LM 박기준",
+            "team": "T05UGFFGL07",
+            "name": "pgj.fc.career",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1704333848.777589",
+        "parent_user_id": "U05UN5DQ423",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "a\/XT+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "네 6개월동안만 이용 가능합니다! 6개월 이후에는 만료되어 강의가 사라집니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05UN5DQ423",
+        "type": "message",
+        "ts": "1704342866.231069",
+        "client_msg_id": "b056a4e6-8b8c-4c04-90d8-0e8a3676bd64",
+        "text": "감사합니다!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "602bc2a55d5c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5994828351843_602bc2a55d5c461d5b24_72.png",
+            "first_name": "박성우",
+            "real_name": "박성우",
+            "display_name": "박성우",
+            "team": "T05UGFFGL07",
+            "name": "tjddn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1704333848.777589",
+        "parent_user_id": "U05UN5DQ423",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ok6Qb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "감사합니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

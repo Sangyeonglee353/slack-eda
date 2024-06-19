@@ -1,0 +1,376 @@
+[
+    {
+        "user": "U060BLVQYHW",
+        "type": "message",
+        "ts": "1706256195.104069",
+        "client_msg_id": "ffb97f84-7163-46c9-aca3-56b2bd2fca60",
+        "text": "앞으로 있을 대회에서도 열심히 인사이트 공유해보겠습니다!! 감사합니다 : )",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "g6cb970458b5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6cb970458b5672091fa231bd078f93da.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+            "first_name": "Sang",
+            "real_name": "Sang Hyuk SEO",
+            "display_name": "서상혁",
+            "team": "T05UGFFGL07",
+            "name": "happer96",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1706245127.445259",
+        "parent_user_id": "U05VADPQPCL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "h7fgM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "앞으로 있을 대회에서도 열심히 인사이트 공유해보겠습니다!! 감사합니다 : )"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U05VADPQPCL"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U0608EG7YEA",
+        "type": "message",
+        "ts": "1706257436.677839",
+        "client_msg_id": "020b1b78-c413-41fc-af19-b6cb277f5382",
+        "text": "<!channel>\n*ML 경진대회 리더보드 채점 오류 관련 공지*\n안녕하세요. 수강생 여러분! 대회 종료 직후 문의주신 내용에 대해 Stages 내부적으로 검토를 완료했습니다.\n확인해보니 대회 제작 당시의 오류로 public \/ private 을 채점하는 데이터셋이 동일한 이슈가 있었습니다.\n시스템 내부적으로는 최종 제출로 선택한 파일 정보를 가지고 있기 때문에, 해당 정보를 토대로 최종 리더보드 순위를 월요일 오전 중에 추가 발표할 예정입니다.\n검토에 시간이 다소 소요된 점 양해 부탁드립니다. :pray: :pray:",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "542e7e1dec67",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-12\/6028220315186_542e7e1dec6721784df9_72.png",
+            "first_name": "업스테이지",
+            "real_name": "업스테이지 크리스",
+            "display_name": "업스테이지 크리스",
+            "team": "T05UGFFGL07",
+            "name": "chris",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "V1bw9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ML 경진대회 리더보드 채점 오류 관련 공지",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n안녕하세요. 수강생 여러분! 대회 종료 직후 문의주신 내용에 대해 Stages 내부적으로 검토를 완료했습니다.\n확인해보니 대회 제작 당시의 오류로 public \/ private 을 채점하는 데이터셋이 동일한 이슈가 있었습니다.\n시스템 내부적으로는 최종 제출로 선택한 파일 정보를 가지고 있기 때문에, 해당 정보를 토대로 최종 리더보드 순위를 월요일 오전 중에 추가 발표할 예정입니다.\n검토에 시간이 다소 소요된 점 양해 부탁드립니다. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U05V9N22ZUK",
+                    "U05UZLEM04V",
+                    "U05V379NETU",
+                    "U065TBUL5EE",
+                    "U05V561TXUL",
+                    "U05UN7M2GKZ",
+                    "U05V5H1T24V",
+                    "U05UN5DQ423",
+                    "U05UVV5CVQE",
+                    "U05V7H78DUM",
+                    "U060BLVQYHW",
+                    "U0606QGQYE5",
+                    "U060D1KJECR",
+                    "U0600GGHJTC",
+                    "U05UNMQ4LP9",
+                    "U05V2T62KUJ"
+                ],
+                "count": 16
+            },
+            {
+                "name": "heart",
+                "users": [
+                    "U065TBUL5EE",
+                    "U060C67EYQ5",
+                    "U05V2T62KUJ"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "text": "<!channel>\n안녕하세요. Upstage AI Lab 수강생 여러분! 금주도 고생 많으셨습니다.\n차주부터 시작되는 강의 입과 및 온라인 수강 안내 시트 최신화 완료하였으니 참고하시길 바랍니다.\n\n> *[업스테이지] AI 심화 학습: Computer Vision 도메인 학습 | 강의 입과 완료* :tada:\n• <https:\/\/docs.google.com\/spreadsheets\/d\/1ypFcX5rHBUsAoYDUN3TmQClpGnR8wyoaUnBoV4hrZ-4\/edit#gid=1437986055&range=B21|온라인 강의 수강 안내 최신화(시트_링크)>\n• 참고사항\n    ◦ 장인의 손길로 한땀한땀 작성해주신 강의 소개서도 있으니, 머리 식히실 때 읽어보시면 좋습니다.\n항상 여러분들을 응원합니다. :muscle:\n추가로 문의사항이 있으시면 편히 요청주세요.\n\n감사합니다.",
+        "files": [
+            {
+                "id": "F06FAQWFW7R",
+                "created": 1706258245,
+                "timestamp": 1706258245,
+                "name": "[CV Basic] (0-0) 강의 소개서.pdf",
+                "title": "[CV Basic] (0-0) 강의 소개서.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U05VAHXECP6",
+                "user_team": "T05UGFFGL07",
+                "editable": false,
+                "size": 171492,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F06FAQWFW7R\/_cv_basic___0-0__________________.pdf?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F06FAQWFW7R\/download\/_cv_basic___0-0__________________.pdf?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "media_display_type": "unknown",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06FAQWFW7R-6b7e4c767c\/_cv_basic___0-0___________________thumb_pdf.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_pdf_w": 911,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/fcupstageai1.slack.com\/files\/U05VAHXECP6\/F06FAQWFW7R\/_cv_basic___0-0__________________.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/T05UGFFGL07-F06FAQWFW7R-d1ae628c3a",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            },
+            {
+                "id": "F06FAQX50KH",
+                "created": 1706258254,
+                "timestamp": 1706258254,
+                "name": "[Computer Vision Advanced] (0-0) 강의소개서.pdf",
+                "title": "[Computer Vision Advanced] (0-0) 강의소개서.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U05VAHXECP6",
+                "user_team": "T05UGFFGL07",
+                "editable": false,
+                "size": 148488,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F06FAQX50KH\/_computer_vision_advanced___0-0_________________.pdf?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F06FAQX50KH\/download\/_computer_vision_advanced___0-0_________________.pdf?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "media_display_type": "unknown",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06FAQX50KH-39e3d32f22\/_computer_vision_advanced___0-0__________________thumb_pdf.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_pdf_w": 911,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/fcupstageai1.slack.com\/files\/U05VAHXECP6\/F06FAQX50KH\/_computer_vision_advanced___0-0_________________.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/T05UGFFGL07-F06FAQX50KH-19c73d144c",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            },
+            {
+                "id": "F06G4144JE5",
+                "created": 1706258262,
+                "timestamp": 1706258262,
+                "name": "[Generation] (0-0) 강의소개서.pdf",
+                "title": "[Generation] (0-0) 강의소개서.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U05VAHXECP6",
+                "user_team": "T05UGFFGL07",
+                "editable": false,
+                "size": 152727,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F06G4144JE5\/_generation___0-0_________________.pdf?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F06G4144JE5\/download\/_generation___0-0_________________.pdf?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "media_display_type": "unknown",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06G4144JE5-6117b7ced3\/_generation___0-0__________________thumb_pdf.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_pdf_w": 911,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/fcupstageai1.slack.com\/files\/U05VAHXECP6\/F06G4144JE5\/_generation___0-0_________________.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/T05UGFFGL07-F06G4144JE5-60209af8ea",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U05VAHXECP6",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NY8e9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n안녕하세요. Upstage AI Lab 수강생 여러분! 금주도 고생 많으셨습니다.\n차주부터 시작되는 강의 입과 및 온라인 수강 안내 시트 최신화 완료하였으니 참고하시길 바랍니다.\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "[업스테이지] AI 심화 학습: Computer Vision 도메인 학습 | 강의 입과 완료 ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "tada",
+                                "unicode": "1f389",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/docs.google.com\/spreadsheets\/d\/1ypFcX5rHBUsAoYDUN3TmQClpGnR8wyoaUnBoV4hrZ-4\/edit#gid=1437986055&range=B21",
+                                        "text": "온라인 강의 수강 안내 최신화(시트_링크)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "참고사항"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "장인의 손길로 한땀한땀 작성해주신 강의 소개서도 있으니, 머리 식히실 때 읽어보시면 좋습니다."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n항상 여러분들을 응원합니다. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "muscle",
+                                "unicode": "1f4aa"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n추가로 문의사항이 있으시면 편히 요청주세요.\n\n감사합니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1706258294.334759",
+        "edited": {
+            "user": "U05VAHXECP6",
+            "ts": "1706258315.000000"
+        },
+        "client_msg_id": "dc8cc9ce-d927-403a-b267-0f977caf151d",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U05V9N22ZUK",
+                    "U05UWVA90H4",
+                    "U05V2T62KUJ",
+                    "U05UVV5CVQE"
+                ],
+                "count": 4
+            }
+        ]
+    }
+]

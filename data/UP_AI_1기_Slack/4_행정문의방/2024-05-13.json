@@ -1,0 +1,416 @@
+[
+    {
+        "user": "U060BLVQYHW",
+        "type": "message",
+        "ts": "1715648940.866459",
+        "client_msg_id": "6e4e8496-84b8-4d41-97bd-8179dc8227bd",
+        "text": "<@U05UNC6FNK1> <@U05V81G5ZDY>\n대상 : 국민취업지원 서류\n필요한 기간 : 4월 25일 ~ 5월 10일\n필요 서류 : 출석부\n이메일 : <mailto:happer96@gmail.com|happer96@gmail.com>\n연락처 : 01062273648\n\n안녕하세요 매니저님! 출석부 요청드립니다 :)",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "g6cb970458b5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6cb970458b5672091fa231bd078f93da.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+            "first_name": "Sang",
+            "real_name": "Sang Hyuk SEO",
+            "display_name": "서상혁",
+            "team": "T05UGFFGL07",
+            "name": "happer96",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1715648940.866459",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1715907957.862639",
+        "reply_users": [
+            "U05UNC6FNK1",
+            "U060BLVQYHW"
+        ],
+        "replies": [
+            {
+                "user": "U05UNC6FNK1",
+                "ts": "1715650151.431239"
+            },
+            {
+                "user": "U05UNC6FNK1",
+                "ts": "1715650162.762269"
+            },
+            {
+                "user": "U060BLVQYHW",
+                "ts": "1715907957.862639"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uQvYF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05UNC6FNK1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05V81G5ZDY"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n대상 : 국민취업지원 서류\n필요한 기간 : 4월 25일 ~ 5월 10일\n필요 서류 : 출석부\n이메일 : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:happer96@gmail.com",
+                                "text": "happer96@gmail.com"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n연락처 : 01062273648\n\n안녕하세요 매니저님! 출석부 요청드립니다 :)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "U05UNC6FNK1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05UNC6FNK1",
+        "type": "message",
+        "ts": "1715650151.431239",
+        "client_msg_id": "5befa0f4-fb6a-4af4-9083-c6fa93a74b85",
+        "text": "안녕하세요 출석부 드립니다",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "260d154ea1e2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5979526758263_260d154ea1e2177fd001_72.jpg",
+            "first_name": "FC",
+            "real_name": "FC 하시안 매니저",
+            "display_name": "FC 하시안 매니저",
+            "team": "T05UGFFGL07",
+            "name": "xianha",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1715648940.866459",
+        "parent_user_id": "U060BLVQYHW",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hVLKJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "안녕하세요 출석부 드립니다"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "",
+        "files": [
+            {
+                "id": "F0732U0H3UN",
+                "created": 1715650157,
+                "timestamp": 1715650157,
+                "name": "20240514102903652.pdf",
+                "title": "20240514102903652.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U05UNC6FNK1",
+                "user_team": "T05UGFFGL07",
+                "editable": false,
+                "size": 78243,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F0732U0H3UN\/20240514102903652.pdf?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F0732U0H3UN\/download\/20240514102903652.pdf?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "media_display_type": "unknown",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F0732U0H3UN-17135a30b5\/20240514102903652_thumb_pdf.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_pdf_w": 1286,
+                "thumb_pdf_h": 909,
+                "permalink": "https:\/\/fcupstageai1.slack.com\/files\/U05UNC6FNK1\/F0732U0H3UN\/20240514102903652.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/T05UGFFGL07-F0732U0H3UN-a8642a5e20",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U05UNC6FNK1",
+        "display_as_bot": false,
+        "type": "message",
+        "ts": "1715650162.762269",
+        "client_msg_id": "67496ee7-9b55-4c34-8874-1460cb245578",
+        "thread_ts": "1715648940.866459",
+        "parent_user_id": "U060BLVQYHW"
+    },
+    {
+        "user": "U05V2GDNNLT",
+        "type": "message",
+        "ts": "1715667623.151519",
+        "client_msg_id": "bdf3f6a7-6c51-42be-8886-9df3ced86a28",
+        "text": "<@U05UNC6FNK1> <@U05V81G5ZDY>\n대상 : 국민취업지원 서류\n필요한 기간 : 4월 27일 ~ 5월 10일\n필요 서류 : 출석부\n이메일 : <mailto:peinguin77@gmail.com|peinguin77@gmail.com>\n연락처 : 01085814779\n\n요청드립니다. 감사합니다!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "ea660e2b5663",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5988655146706_ea660e2b566324290d7b_72.png",
+            "first_name": "장성준",
+            "real_name": "장성준 (Jun)",
+            "display_name": "장성준 (Jun)",
+            "team": "T05UGFFGL07",
+            "name": "peinguin77",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1715667623.151519",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1715824566.086139",
+        "reply_users": [
+            "U05UNC6FNK1"
+        ],
+        "replies": [
+            {
+                "user": "U05UNC6FNK1",
+                "ts": "1715824566.086139"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "40qqj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05UNC6FNK1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05V81G5ZDY"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n대상 : 국민취업지원 서류\n필요한 기간 : 4월 27일 ~ 5월 10일\n필요 서류 : 출석부\n이메일 : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:peinguin77@gmail.com",
+                                "text": "peinguin77@gmail.com"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n연락처 : 01085814779\n\n요청드립니다. 감사합니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "U05UNC6FNK1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05V4KZR3NW",
+        "type": "message",
+        "ts": "1715669474.083489",
+        "client_msg_id": "B42EBB6C-0DCE-44AE-A7D5-0D4AB1FC95BA",
+        "text": "<@U05UNC6FNK1> <@U05V81G5ZDY>\n대상 : 국민취업지원 서류\n필요한 기간 : 4월 26일 ~ 5월 10일\n필요 서류 : 출석부\n이메일 : <mailto:nam_ing@kakao.com|nam_ing@kakao.com>\n연락처 : 01086842658\n\n안녕하세요 매니저님! 출석부 요청드립니다. 감사합니다!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "8c77944bd304",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-20\/6082246066801_8c77944bd304e2d01432_72.jpg",
+            "first_name": "남영진",
+            "real_name": "남영진",
+            "display_name": "남영진",
+            "team": "T05UGFFGL07",
+            "name": "studyingnam",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1715669474.083489",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1715824594.740269",
+        "reply_users": [
+            "U05UNC6FNK1"
+        ],
+        "replies": [
+            {
+                "user": "U05UNC6FNK1",
+                "ts": "1715824594.740269"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hxaAn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05UNC6FNK1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05V81G5ZDY"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "대상 : 국민취업지원 서류"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "필요한 기간 : 4월 "
+                            },
+                            {
+                                "type": "text",
+                                "text": "26"
+                            },
+                            {
+                                "type": "text",
+                                "text": "일"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ~ 5월 10일"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "필요 서류 : 출석부"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "이메일 : "
+                            },
+                            {
+                                "type": "text",
+                                "text": "nam_ing@kakao.com\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "연락처 : "
+                            },
+                            {
+                                "type": "text",
+                                "text": "01086842658\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "안녕하세요 매니저님! 출석"
+                            },
+                            {
+                                "type": "text",
+                                "text": "부"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "요청드립니다"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". "
+                            },
+                            {
+                                "type": "text",
+                                "text": "감사합니다"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "U05UNC6FNK1"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

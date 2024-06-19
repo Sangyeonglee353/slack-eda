@@ -1,0 +1,243 @@
+[
+    {
+        "user": "U05VAHXECP6",
+        "type": "message",
+        "ts": "1715065200.186549",
+        "client_msg_id": "c797239e-c043-4fb9-84cc-598863060244",
+        "text": "<!channel>\n:sparkles:*5월 CampCON 얼리버드 모집 안내 (With Upstage)*:sparkles:\n\n안녕하세요, Upstage AI Lab 1기 여러분!\n5월 CampCON 얼리버드 모집이 시작 되었습니다.\n\n이번 캠프콘은 국내 최고 AI 기업인 Upstage와 함께합니다.\nUpstage CEO, Sung Kim님께서 AI 기술 트렌드의 변화와 전망에 대해 상세히 알려드릴 예정이니 많은 참여 부탁드립니다 :blush:\n※ 캠프콘 얼리버드 모집이란? 패캠 부트캠프 수강생\/수료생 대상으로만 우선 참여 혜택을 드리는 기간 :love_letter: (정규 모집은 선착순 마감)\n\n:tada: *5월 연사자분들을 소개합니다* :tada:\n:one: *Sung Kim님 [업스테이지 CEO]*\n- 주제 : AGI for Work를 만들어 가는 Upstage의 도전!\n\n:two: *김현우님 [업스테이지 LLM팀 AI Research Engineer]*\n- 주제 : AI 개발자의 역할과 업무, 그리고 핵심역량\n\n:point_right: *5월 캠프콘 참여 신청하기 :* <https:\/\/bit.ly\/4br0RSn>\n\n- 행사 일시 : 24년 05월 28일 화요일 오후 7시\n- 장소 : 비대면(ZOOM) *추후 안내 예정\n- 참석 대상자 : IT 커리어 성장을 꿈꾸는 누구나\n- 얼리버드 신청 기한 : ~ 24년 05월 9일(목) 15:00\n\n:arrow_forward: 캠프콘 영상이 궁금하다면? <https:\/\/bit.ly\/3T1phuf|1월(BackEnd)> | <https:\/\/youtu.be\/FsofdKCQNMI?si=OHQ-f7OIidzp0Db2|2월(PM)> | <https:\/\/youtu.be\/qtHfv75xZ_A?si=USMPQ4IqIkQa00YT|3월(FrontEnd)>\n:arrow_forward: 캠프콘에 대해 더 궁금하시다면? <https:\/\/bit.ly\/47YsqjU>\n:arrow_forward: 2024년 매월 진행되는 캠프콘 소식을 받고 싶으시다면? <https:\/\/bit.ly\/47Ca0p4>",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "50abee101814",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-11\/6044824153712_50abee1018149e21919b_72.jpg",
+            "first_name": "이상영",
+            "real_name": "이상영",
+            "display_name": "FC 이상영 매니저",
+            "team": "T05UGFFGL07",
+            "name": "sangyeong.lee",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ocdNZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sparkles",
+                                "unicode": "2728",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "5월 CampCON 얼리버드 모집 안내 (With Upstage)",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sparkles",
+                                "unicode": "2728",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n안녕하세요, Upstage AI Lab 1기 여러분!\n5월 CampCON 얼리버드 모집이 시작 되었습니다.\n\n이번 캠프콘은 국내 최고 AI 기업인 Upstage와 함께합니다.\nUpstage CEO, Sung Kim님께서 AI 기술 트렌드의 변화와 전망에 대해 상세히 알려드릴 예정이니 많은 참여 부탁드립니다 "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "blush",
+                                "unicode": "1f60a"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n※ 캠프콘 얼리버드 모집이란? 패캠 부트캠프 수강생\/수료생 대상으로만 우선 참여 혜택을 드리는 기간 "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "love_letter",
+                                "unicode": "1f48c"
+                            },
+                            {
+                                "type": "text",
+                                "text": " (정규 모집은 선착순 마감)\n\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "tada",
+                                "unicode": "1f389",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " 5월 연사자분들을 소개합니다 ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "tada",
+                                "unicode": "1f389",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "one",
+                                "unicode": "0031-fe0f-20e3",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " Sung Kim님 [업스테이지 CEO]",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n- 주제 : AGI for Work를 만들어 가는 Upstage의 도전!\n\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "two",
+                                "unicode": "0032-fe0f-20e3",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " 김현우님 [업스테이지 LLM팀 AI Research Engineer]",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n- 주제 : AI 개발자의 역할과 업무, 그리고 핵심역량\n\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "point_right",
+                                "unicode": "1f449",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " 5월 캠프콘 참여 신청하기 : ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/bit.ly\/4br0RSn"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n- 행사 일시 : 24년 05월 28일 화요일 오후 7시\n- 장소 : 비대면(ZOOM) *추후 안내 예정\n- 참석 대상자 : IT 커리어 성장을 꿈꾸는 누구나\n- 얼리버드 신청 기한 : ~ 24년 05월 9일(목) 15:00\n\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "arrow_forward",
+                                "unicode": "25b6-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 캠프콘 영상이 궁금하다면? "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/bit.ly\/3T1phuf",
+                                "text": "1월(BackEnd)"
+                            },
+                            {
+                                "type": "text",
+                                "text": " | "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/youtu.be\/FsofdKCQNMI?si=OHQ-f7OIidzp0Db2",
+                                "text": "2월(PM)"
+                            },
+                            {
+                                "type": "text",
+                                "text": " | "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/youtu.be\/qtHfv75xZ_A?si=USMPQ4IqIkQa00YT",
+                                "text": "3월(FrontEnd)"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "arrow_forward",
+                                "unicode": "25b6-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 캠프콘에 대해 더 궁금하시다면? "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/bit.ly\/47YsqjU"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "arrow_forward",
+                                "unicode": "25b6-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 2024년 매월 진행되는 캠프콘 소식을 받고 싶으시다면? "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/bit.ly\/47Ca0p4"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

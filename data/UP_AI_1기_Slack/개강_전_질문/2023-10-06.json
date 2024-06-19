@@ -1,0 +1,209 @@
+[
+    {
+        "text": "1. AI부트캠프가 지난 기수가 있었나요? HRD에선 2회차 과정이라 떠서요. 이렇게 알림 오는게 맞는지도 궁금합니다\n2. 안내사항에 훈련기관 방문하셔서 훈련생 등록하라고 되어 있는데 찾아가야 하나요?:)",
+        "files": [
+            {
+                "id": "F05V8CMBH6J",
+                "created": 1696575719,
+                "timestamp": 1696575719,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U05V7V2AV8A",
+                "user_team": "T05UGFFGL07",
+                "editable": false,
+                "size": 88226,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F05V8CMBH6J\/image.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F05V8CMBH6J\/download\/image.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F05V8CMBH6J-df6b7b9a81\/image_64.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F05V8CMBH6J-df6b7b9a81\/image_80.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F05V8CMBH6J-df6b7b9a81\/image_360.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_360_w": 360,
+                "thumb_360_h": 293,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F05V8CMBH6J-df6b7b9a81\/image_480.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_480_w": 480,
+                "thumb_480_h": 391,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F05V8CMBH6J-df6b7b9a81\/image_160.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "original_w": 483,
+                "original_h": 393,
+                "thumb_tiny": "AwAnADC5gkgDAXuabg5+9ilp21SoJBP0FKXNbQFYaB6nNLinbFHY\/lS4X\/a\/Ksr1R2QzFQzzGJgAAc+pq0EBGeaRoxtz1xVRdS+oWRHT+NgzimU\/JCDHv3xWrJQfXGPYmjjPbP1NL1PU9f71Jye5\/wC+hSGJkeq5HuacMbGwf1oOc9Tj60c7Wznp65oAjp4I2gE\/pTKKYh5K\/wB79KMr6j8qZRRYLjwV7tn8KUsm0gd\/ao6KLBc\/\/9k=",
+                "permalink": "https:\/\/fcupstageai1.slack.com\/files\/U05V7V2AV8A\/F05V8CMBH6J\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T05UGFFGL07-F05V8CMBH6J-46c98eb54c",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U05V7V2AV8A",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "V3nG",
+                "elements": [
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "AI부트캠프가 지난 기수가 있었나요? HRD에선 2회차 과정이라 떠서요. 이렇게 알림 오는게 맞는지도 궁금합니다"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "안내사항에 훈련기관 방문하셔서 훈련생 등록하라고 되어 있는데 찾아가야 하나요?:)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1696575753.127369",
+        "edited": {
+            "user": "U05V7V2AV8A",
+            "ts": "1696575818.000000"
+        },
+        "client_msg_id": "598ba1f7-d03e-4be6-9028-b49c94eb6deb",
+        "thread_ts": "1696575753.127369",
+        "reply_count": 2,
+        "reply_users_count": 1,
+        "latest_reply": "1696576377.297899",
+        "reply_users": [
+            "U05UNC6FNK1"
+        ],
+        "replies": [
+            {
+                "user": "U05UNC6FNK1",
+                "ts": "1696576350.132429"
+            },
+            {
+                "user": "U05UNC6FNK1",
+                "ts": "1696576377.297899"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "U05UNC6FNK1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05UNC6FNK1",
+        "type": "message",
+        "ts": "1696576350.132429",
+        "client_msg_id": "37ae265a-abf4-4d09-94b2-c4b2654ea3f7",
+        "text": "해당과정의 2회차가 맞으며,",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "260d154ea1e2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5979526758263_260d154ea1e2177fd001_72.jpg",
+            "first_name": "FC",
+            "real_name": "FC 하시안 매니저",
+            "display_name": "FC 하시안 매니저",
+            "team": "T05UGFFGL07",
+            "name": "xianha",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696575753.127369",
+        "parent_user_id": "U05V7V2AV8A",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "afI=T",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "해당과정의 2회차가 맞으며,"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05UNC6FNK1",
+        "type": "message",
+        "ts": "1696576377.297899",
+        "client_msg_id": "28ab5c85-4b7c-472b-81e0-2e70711bc490",
+        "text": "훈련생등록의 내용은 HRD에서 자동발송되는 점으로 확인하시면 되고, 훈련생 등록 후 다시 메시지로 안내드릴 예정입니다",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "260d154ea1e2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5979526758263_260d154ea1e2177fd001_72.jpg",
+            "first_name": "FC",
+            "real_name": "FC 하시안 매니저",
+            "display_name": "FC 하시안 매니저",
+            "team": "T05UGFFGL07",
+            "name": "xianha",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696575753.127369",
+        "parent_user_id": "U05V7V2AV8A",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "viPg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "훈련생등록의 내용은 HRD에서 자동발송되는 점으로 확인하시면 되고, 훈련생 등록 후 다시 메시지로 안내드릴 예정입니다"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U05V7V2AV8A"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

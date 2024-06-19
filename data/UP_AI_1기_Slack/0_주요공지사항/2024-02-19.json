@@ -1,0 +1,66 @@
+[
+    {
+        "user": "U05VADPQPCL",
+        "type": "message",
+        "ts": "1708401869.389469",
+        "edited": {
+            "user": "U05VADPQPCL",
+            "ts": "1708401873.000000"
+        },
+        "client_msg_id": "c7189028-4413-498d-88ee-2db6e16c66b7",
+        "text": "<@U05VC7EEY5Q> <@U05UN7M2GKZ> <@U05V2GDNNLT>\n각 조 별 발표자료 제출 부탁 드립니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "07e7ca00b8f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5991092857253_07e7ca00b8f0d0b13ba1_72.png",
+            "first_name": "패스트캠퍼스박기준",
+            "real_name": "패스트캠퍼스박기준",
+            "display_name": "LM 박기준",
+            "team": "T05UGFFGL07",
+            "name": "pgj.fc.career",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1708063031.717219",
+        "parent_user_id": "U05VADPQPCL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "naYqI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05VC7EEY5Q"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05UN7M2GKZ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05V2GDNNLT"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n각 조 별 발표자료 제출 부탁 드립니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

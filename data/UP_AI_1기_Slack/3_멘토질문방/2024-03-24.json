@@ -1,0 +1,601 @@
+[
+    {
+        "user": "U05V5B27DK7",
+        "type": "message",
+        "ts": "1711284029.718219",
+        "client_msg_id": "48d53bbc-ee88-4601-8107-93b8e78708c8",
+        "text": "<@U06RBLW1JD6>\n안녕하세요!, 이정섭 멘토님,\n\nBart와 같이 거대 언어 모델 생성과정에서 궁금한 사항이 있어 연락드립니다. !\nbart의 디코더 부분에서,\n\n생성된 문장을 위한 타겟값이 i love you라고 할때,\n\/s가 들어가고서, i가 생성되게하고, i가 다시 love가 나오게 하는 것  까지 이해한 상황인데,\n제가 궁금한건, i가 들어가고, love라는 토큰이 들어가기 위해선, vocab안에 love라는 토큰을 가져오고, 이때 softmax값이 가장 큰 것이라 생성된다고 생각합니다.\n\n근데, softmax값이 가장 큰 love라는 토큰이 생성되게 한다고 한다면,\nvocab들 수많은 토큰들 모든 것의 softmax값을 계산하여, love라는 토큰을 생성하게 되는 것인지\nvocab들 수많은 토큰들 중에 512개(히든사이즈)의 토큰을 랜덤하게 가져와서, softmax값 512개들 중에 love라는 토큰을 생성하게 되는 것인지\n궁금합니다.\n\n위 부분이 제가 이해한 것이 맞는 지 한번 여쭤보고 싶어, 멘토님께 의견을 듣고 싶습니다.\n감사합니다. :slightly_smiling_face:",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "5a179e65cd2d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5994299323234_5a179e65cd2d56314280_72.png",
+            "first_name": "가상민",
+            "real_name": "가상민",
+            "display_name": "가상민",
+            "team": "T05UGFFGL07",
+            "name": "3minka",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1711284029.718219",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1711328972.865339",
+        "reply_users": [
+            "U06RBLW1JD6",
+            "U05V5B27DK7"
+        ],
+        "replies": [
+            {
+                "user": "U06RBLW1JD6",
+                "ts": "1711290095.732659"
+            },
+            {
+                "user": "U05V5B27DK7",
+                "ts": "1711328972.865339"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2jCdj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06RBLW1JD6"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n안녕하세요!, 이정섭 멘토님,\n\nBart와 같이 거대 언어 모델 생성과정에서 궁금한 사항이 있어 연락드립니다. !\nbart의 디코더 부분에서,\n\n생성된 문장을 위한 타겟값이 i love you라고 할때,\n\/s가 들어가고서, i가 생성되게하고, i가 다시 love가 나오게 하는 것  까지 이해한 상황인데,\n제가 궁금한건, i가 들어가고, love라는 토큰이 들어가기 위해선, vocab안에 love라는 토큰을 가져오고, 이때 softmax값이 가장 큰 것이라 생성된다고 생각합니다.\n\n근데, softmax값이 가장 큰 love라는 토큰이 생성되게 한다고 한다면,\nvocab들 수많은 토큰들 모든 것의 softmax값을 계산하여, love라는 토큰을 생성하게 되는 것인지\nvocab들 수많은 토큰들 중에 512개(히든사이즈)의 토큰을 랜덤하게 가져와서, softmax값 512개들 중에 love라는 토큰을 생성하게 되는 것인지\n궁금합니다.\n\n위 부분이 제가 이해한 것이 맞는 지 한번 여쭤보고 싶어, 멘토님께 의견을 듣고 싶습니다.\n감사합니다. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "대답",
+                "users": [
+                    "U05V5B27DK7"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06RBLW1JD6",
+        "type": "message",
+        "ts": "1711290095.732659",
+        "client_msg_id": "1fcb99b2-044a-4a0c-923c-976d8b3c929f",
+        "text": "안녕하세요! <@U05V5B27DK7>님. 답변드리겠습니다!\n\n네! 생성 과정에서 vocabulary 내에 모든 토큰 중 softmax 값이 가장 큰 토큰을 생성하는 것이 맞습니다. 만약, vocabulary 내에 3만 개의 토큰들이 있다면, 3만 개 토큰 각각에 대한 softmax 중 가장 큰 값을 선택합니다.\n512의 히든사이즈는 단어 선택과는 관련이 없고, 단지 모델의 구성 요소입니다.\n\n말씀해주신 가장 큰 확률 값을 가진 토큰을 생성하는 방법은 가장 일반적인 방법으로, Greedy Decoding이라고 합니다.  가장 큰 확률 값을 바로바로 생성하는 Greedy Decoding 방법과 별개로, Beam Search, Top-K Sampling, Top-p (Nucleus) Sampling 방법도 있습니다. (더 많은 방법이 있으니 꼭 찾아보시길 권장 드립니다)\n\n1. *Beam Search*: 각 생성 스텝에서 k개의 가장 가능성 높은 시퀀스를 유지해서, 최종적으로 확률이 높은 토큰 집합을 선택하는 방법입니다.\n2. *Top-K Sampling*: 각 생성 스텝에서 확률 분포의 top-k 부분만 고려하여 토큰을 샘플링하는 방법으로, 생성의 다양성을 위해 무작위성을 추가하여 모델이 더 다양한 문장을 생성하도록 돕기 위한 샘플링 방법입니다.\n3. *Top-p (Nucleus) Sampling*: 확률 분포의 가장 높은 부분만을 고려하여 토큰을 샘플링하는 방법입니다. 즉, 누적 확률이 특정 임계값 p를 초과하는 최소한의 토큰들만을 고려하는 방법입니다.\n",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "6c5b7174238b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-21\/6861710165808_6c5b7174238b265283cb_72.png",
+            "first_name": "JS",
+            "real_name": "JS Lee",
+            "display_name": "이정섭 멘토",
+            "team": "T05UGFFGL07",
+            "name": "cy951011",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1711284029.718219",
+        "parent_user_id": "U05V5B27DK7",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lID2O",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "안녕하세요! "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05V5B27DK7"
+                            },
+                            {
+                                "type": "text",
+                                "text": "님. 답변드리겠습니다!\n\n네! 생성 과정에서 vocabulary 내에 모든 토큰 중 softmax 값이 가장 큰 토큰을 생성하는 것이 맞습니다. 만약, vocabulary 내에 3만 개의 토큰들이 있다면, 3만 개 토큰 각각에 대한 softmax 중 가장 큰 값을 선택합니다.\n512의 히든사이즈는 단어 선택과는 관련이 없고, 단지 모델의 구성 요소입니다.\n\n말씀해주신 가장 큰 확률 값을 가진 토큰을 생성하는 방법은 가장 일반적인 방법으로, Greedy Decoding이라고 합니다.  가장 큰 확률 값을 바로바로 생성하는 Greedy Decoding 방법과 별개로, Beam Search, Top-K Sampling, Top-p (Nucleus) Sampling 방법도 있습니다. (더 많은 방법이 있으니 꼭 찾아보시길 권장 드립니다)\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Beam Search",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ": 각 생성 스텝에서 k개의 가장 가능성 높은 시퀀스를 유지해서, 최종적으로 확률이 높은 토큰 집합을 선택하는 방법입니다."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Top-K Sampling",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ": 각 생성 스텝에서 확률 분포의 top-k 부분만 고려하여 토큰을 샘플링하는 방법으로, 생성의 다양성을 위해 무작위성을 추가하여 모델이 더 다양한 문장을 생성하도록 돕기 위한 샘플링 방법입니다."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Top-p (Nucleus) Sampling",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ": 확률 분포의 가장 높은 부분만을 고려하여 토큰을 샘플링하는 방법입니다. 즉, 누적 확률이 특정 임계값 p를 초과하는 최소한의 토큰들만을 고려하는 방법입니다."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05VBQMH3D3",
+        "type": "message",
+        "ts": "1711314241.377979",
+        "client_msg_id": "8f64c635-d602-421e-8377-b33b9d90b509",
+        "text": "<@U06RBLW1JD6> 안녕하세요!\n5개의 이미지 클래스 분류인데 클래스를 맞추는게 아니라 클래스의 확률을 예측하는 문제로 이게 정답 라벨이 합쳐서 1이 안되거나 넘기도 합니다. 사자와 호랑이 고양이는 모두 다 다르지만 클래스에 없는 개를 이 모델에 넣어서 예측을 할때 소프트맥스면 전혀 아님에도 한 모델이 최소 20프로의 확률이 넘는다는 당황스런 결과가 나옵니다. 반대로 호랑이와 고양이를 믹스업이든, 생성을 하든 아주 교묘하게 섞어만든 이미지에선 호랑이일 확률 70프로 고양이일 확률 60프로가 될 수도 있습니다. 혹시 좋은 방법이 있을까요?",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "16da4e28d6c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/6003210685524_16da4e28d6c4ea33bae5_72.png",
+            "first_name": "HB",
+            "real_name": "HB",
+            "display_name": "엄효범",
+            "team": "T05UGFFGL07",
+            "name": "swema86",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1711314241.377979",
+        "reply_count": 6,
+        "reply_users_count": 2,
+        "latest_reply": "1711519339.819449",
+        "reply_users": [
+            "U06RBLW1JD6",
+            "U05VBQMH3D3"
+        ],
+        "replies": [
+            {
+                "user": "U06RBLW1JD6",
+                "ts": "1711343856.999079"
+            },
+            {
+                "user": "U05VBQMH3D3",
+                "ts": "1711346133.776989"
+            },
+            {
+                "user": "U05VBQMH3D3",
+                "ts": "1711439089.152209"
+            },
+            {
+                "user": "U06RBLW1JD6",
+                "ts": "1711459263.397909"
+            },
+            {
+                "user": "U05VBQMH3D3",
+                "ts": "1711518450.522639"
+            },
+            {
+                "user": "U06RBLW1JD6",
+                "ts": "1711519339.819449"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PoHym",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06RBLW1JD6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 안녕하세요!\n5개의 이미지 클래스 분류인데 클래스를 맞추는게 아니라 클래스의 확률을 예측하는 문제로 이게 정답 라벨이 합쳐서 1이 안되거나 넘기도 합니다. 사자와 호랑이 고양이는 모두 다 다르지만 클래스에 없는 개를 이 모델에 넣어서 예측을 할때 소프트맥스면 전혀 아님에도 한 모델이 최소 20프로의 확률이 넘는다는 당황스런 결과가 나옵니다. 반대로 호랑이와 고양이를 믹스업이든, 생성을 하든 아주 교묘하게 섞어만든 이미지에선 호랑이일 확률 70프로 고양이일 확률 60프로가 될 수도 있습니다. 혹시 좋은 방법이 있을까요?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05V5B27DK7",
+        "type": "message",
+        "ts": "1711328972.865339",
+        "client_msg_id": "69658169-cc28-4def-a94b-771b9f9f3149",
+        "text": "답변 감사합니다 !! :slightly_smiling_face:",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "5a179e65cd2d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5994299323234_5a179e65cd2d56314280_72.png",
+            "first_name": "가상민",
+            "real_name": "가상민",
+            "display_name": "가상민",
+            "team": "T05UGFFGL07",
+            "name": "3minka",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1711284029.718219",
+        "parent_user_id": "U05V5B27DK7",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2Gbkz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "답변 감사합니다 !! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "귀여운박수",
+                "users": [
+                    "U06RBLW1JD6"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06RBLW1JD6",
+        "type": "message",
+        "ts": "1711343856.999079",
+        "client_msg_id": "1cd47a74-53b6-43d6-b877-55c4c0e66b8b",
+        "text": "안녕하세요! <@U05VBQMH3D3> 님. 답변드리겠습니다!\n\n질문해주신 내용을 보아, 5개의 이미지 클래스 분류 모델에 관한 질문인 것 같습니다. 클래스를 맞추는 것과 클래스의 확률을 예측하는 것은 사실 동일한 문제입니다.\n\n만약, 5개의 이미지 종류를 파악하는 다중 분류 문제의 경우에는 한 개의 이미지가 입력되었을 때, 총 1의 확률 값이 나와야 합니다.\n\n예를 들어보겠습니다.\n강아지, 고양이, 호랑이, 돼지, 코끼리 총 5개의 이미지 종류를 분류하는 다중 분류 모델이 있습니다.\n만약, 강아지 이미지를 입력하게 되면, 모델과 소프트맥스를 거쳐서 아래와 같이 총 1의 합을 가진 결과를 얻을 수 있습니다.\n• 강아지 0.5\n• 고양이 0.2\n• 호랑이 0.1\n• 돼지 0.1\n• 코끼리 0.1\n이 중에서, 가장 확률 값이 높은 것을 선택하면 \"강아지\"가 되게 됩니다. 따라서, 모델은 강아지로 해당 이미지를 분류할 수 있는 것입니다.\n\n질문자님 말씀대로, 만약, 위의 모델에서 전혀 학습하지 못한 새로운 이미지인 \"코뿔소\"를 넣으면 어떻게 될까요?\n사실, 결과는 알 수 없습니다. 총 합이 1인 확률을 반환해야 하기 때문에, 모델은 \"코뿔소\"와 가장 가까운 동물에 높은 값을 할당 할 수 밖에 없습니다.\n• 강아지 0.1\n• 고양이 0.2\n• 호랑이 0.1\n• 돼지 0.1\n• 코끼리 0.5\n따라서, 클래스에 없는 이미지를 모델에 넣어서 예측을 했을 때, 높은 확률을 가지는 클래스가 나오는 것입니다.\n\n만약, 다중 분류에서 해결 방법을 찾는다면, 새로운 클래스인 unknown 클래스를 만들고, 강아지, 고양이, 호랑이, 돼지, 코끼리가 아닌 다른 이미지가 들어온 경우에 unknown 클래스로 분류하는 방법을 진행할 수도 있습니다. 이렇게 잘 학습된 모델은 다음의 결과를 반환할 수 있습니다.\n• 강아지 0.1\n• 고양이 0.2\n• 호랑이 0.1\n• 돼지 0.1\n• 코끼리 0.2\n• unknown 0.3\n질문해주신 내용이 잘 파악되지 않아, 다중 이미지 분류에 대한 설명으로 작성하였습니다.\n만약 다중 이미지 분류에 대한 질문이 아니라면, 다시 한번 설명 부탁드립니다!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "6c5b7174238b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-21\/6861710165808_6c5b7174238b265283cb_72.png",
+            "first_name": "JS",
+            "real_name": "JS Lee",
+            "display_name": "이정섭 멘토",
+            "team": "T05UGFFGL07",
+            "name": "cy951011",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1711314241.377979",
+        "parent_user_id": "U05VBQMH3D3",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JSt+N",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "안녕하세요! "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05VBQMH3D3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 님. 답변드리겠습니다!\n\n질문해주신 내용을 보아, 5개의 이미지 클래스 분류 모델에 관한 질문인 것 같습니다. 클래스를 맞추는 것과 클래스의 확률을 예측하는 것은 사실 동일한 문제입니다.\n\n만약, 5개의 이미지 종류를 파악하는 다중 분류 문제의 경우에는 한 개의 이미지가 입력되었을 때, 총 1의 확률 값이 나와야 합니다.\n\n예를 들어보겠습니다.\n강아지, 고양이, 호랑이, 돼지, 코끼리 총 5개의 이미지 종류를 분류하는 다중 분류 모델이 있습니다.\n만약, 강아지 이미지를 입력하게 되면, 모델과 소프트맥스를 거쳐서 아래와 같이 총 1의 합을 가진 결과를 얻을 수 있습니다.\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "강아지 0.5"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "고양이 0.2"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "호랑이 0.1"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "돼지 0.1"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "코끼리 0.1"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "이 중에서, 가장 확률 값이 높은 것을 선택하면 \"강아지\"가 되게 됩니다. 따라서, 모델은 강아지로 해당 이미지를 분류할 수 있는 것입니다.\n\n질문자님 말씀대로, 만약, 위의 모델에서 전혀 학습하지 못한 새로운 이미지인 \"코뿔소\"를 넣으면 어떻게 될까요?\n사실, 결과는 알 수 없습니다. 총 합이 1인 확률을 반환해야 하기 때문에, 모델은 \"코뿔소\"와 가장 가까운 동물에 높은 값을 할당 할 수 밖에 없습니다.\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "강아지 0.1"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "고양이 0.2"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "호랑이 0.1"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "돼지 0.1"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "코끼리 0.5"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n따라서, 클래스에 없는 이미지를 모델에 넣어서 예측을 했을 때, 높은 확률을 가지는 클래스가 나오는 것입니다.\n\n만약, 다중 분류에서 해결 방법을 찾는다면, 새로운 클래스인 unknown 클래스를 만들고, 강아지, 고양이, 호랑이, 돼지, 코끼리가 아닌 다른 이미지가 들어온 경우에 unknown 클래스로 분류하는 방법을 진행할 수도 있습니다. 이렇게 잘 학습된 모델은 다음의 결과를 반환할 수 있습니다.\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "강아지 0.1"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "고양이 0.2"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "호랑이 0.1"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "돼지 0.1"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "코끼리 0.2"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "unknown 0.3"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n질문해주신 내용이 잘 파악되지 않아, 다중 이미지 분류에 대한 설명으로 작성하였습니다.\n만약 다중 이미지 분류에 대한 질문이 아니라면, 다시 한번 설명 부탁드립니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05VBQMH3D3",
+        "type": "message",
+        "ts": "1711346133.776989",
+        "client_msg_id": "fde02eeb-186a-4dcc-a148-fefe0a8672d2",
+        "text": "친절한 답변 감사합니다! 말씀하신 내용들이 상식적인 내용이라 생각됩니다. 예전부터 이 부분에 대해 궁금하기도 했고, 지금 모델을 만들어보려고 합니다. 즉, 합계가 1이 되는게 당연한데 왜 합계가 1이 넘도록 해보려고 하는가? 하는 생각을 하시겠지만...\n\n5개클래스를 4개의 클래스를 Other로 하고 바이너리 모델을 5개 만들 수가 있습니다. 이 때 합계는 당연히 1이 아니고 1이 안되기도 하고 1이 넘기도 합니다. 이런식으로 괜찮은 모델을 만들고 싶습니다. 말씀하신 Unknown클래스는 합계가 1이하로 제한되기에 합계가 1이상이 되도록도 나오게 하고 싶습니다.\n\n그리고 혹시 이 부분에 대해서 논문들을 찾아보고 싶습니다.  어떤 곳에서 어떤 식으로 찾아보면 좋을지 알려주시면 감사하겠습니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "16da4e28d6c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/6003210685524_16da4e28d6c4ea33bae5_72.png",
+            "first_name": "HB",
+            "real_name": "HB",
+            "display_name": "엄효범",
+            "team": "T05UGFFGL07",
+            "name": "swema86",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1711314241.377979",
+        "parent_user_id": "U05VBQMH3D3",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "d4myU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "친절한 답변 감사합니다! 말씀하신 내용들이 상식적인 내용이라 생각됩니다. 예전부터 이 부분에 대해 궁금하기도 했고, 지금 모델을 만들어보려고 합니다. 즉, 합계가 1이 되는게 당연한데 왜 합계가 1이 넘도록 해보려고 하는가? 하는 생각을 하시겠지만...\n\n5개클래스를 4개의 클래스를 Other로 하고 바이너리 모델을 5개 만들 수가 있습니다. 이 때 합계는 당연히 1이 아니고 1이 안되기도 하고 1이 넘기도 합니다. 이런식으로 괜찮은 모델을 만들고 싶습니다. 말씀하신 Unknown클래스는 합계가 1이하로 제한되기에 합계가 1이상이 되도록도 나오게 하고 싶습니다.\n\n그리고 혹시 이 부분에 대해서 논문들을 찾아보고 싶습니다.  어떤 곳에서 어떤 식으로 찾아보면 좋을지 알려주시면 감사하겠습니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

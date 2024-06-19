@@ -1,0 +1,477 @@
+[
+    {
+        "user": "U05UUSA6G5V",
+        "type": "message",
+        "ts": "1697786318.735849",
+        "edited": {
+            "user": "U05UUSA6G5V",
+            "ts": "1697786359.000000"
+        },
+        "text": "앞서 말씀드린 상황이 길어져 철회해야 할 것같습니다 LM님께 철회문서 보내드렸습니다 확인 부탁드립니다 ! <@U05UYAVRTSR> <@U05UNC6FNK1> <@U06061L4S64>",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "d70a0a97cdfb",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/6008065411153_d70a0a97cdfb413f29fe_72.png",
+            "first_name": "ImSH",
+            "real_name": "ImSH",
+            "display_name": "임서현",
+            "team": "T05UGFFGL07",
+            "name": "dlatjgus0612",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697786318.735849",
+        "reply_count": 2,
+        "reply_users_count": 1,
+        "latest_reply": "1697882546.375619",
+        "reply_users": [
+            "U05UNC6FNK1"
+        ],
+        "replies": [
+            {
+                "user": "U05UNC6FNK1",
+                "ts": "1697786472.815149"
+            },
+            {
+                "user": "U05UNC6FNK1",
+                "ts": "1697882546.375619"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "attachments": [
+            {
+                "ts": "1697506110.237949",
+                "author_id": "U05UUSA6G5V",
+                "channel_id": "C05V0H8H3GC",
+                "channel_team": "T05UGFFGL07",
+                "is_msg_unfurl": true,
+                "is_thread_root_unfurl": true,
+                "message_blocks": [
+                    {
+                        "team": "T05UGFFGL07",
+                        "channel": "C05V0H8H3GC",
+                        "ts": "1697506110.237949",
+                        "message": {
+                            "blocks": [
+                                {
+                                    "type": "rich_text",
+                                    "block_id": "syaJt",
+                                    "elements": [
+                                        {
+                                            "type": "rich_text_section",
+                                            "elements": [
+                                                {
+                                                    "type": "user",
+                                                    "user_id": "U05UNC6FNK1"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "  "
+                                                },
+                                                {
+                                                    "type": "user",
+                                                    "user_id": "U05V81G5ZDY"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "  어제 밤 개인적으로 dm"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "드렸었는데"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": " "
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "다시"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": " "
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "여기"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": " "
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "남깁니다"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": " !\n"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "외숙모"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": " "
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "병간호"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": " "
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "및"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": " "
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "상을"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": " "
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "치루게"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": " "
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "될"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": " "
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "예정이라"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": " "
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "출결문의"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": " "
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "남깁니다"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "color": "D0D0D0",
+                "from_url": "https:\/\/fcupstageai1.slack.com\/archives\/C05V0H8H3GC\/p1697506110237949?thread_ts=1697506110.237949&cid=C05V0H8H3GC",
+                "is_share": true,
+                "fallback": "[October 17th, 2023 10:28 AM] dlatjgus0612: <@U05UNC6FNK1>  <@U05V81G5ZDY>  어제 밤 개인적으로 dm드렸었는데 다시 여기 남깁니다 !\n외숙모 병간호 및 상을 치루게 될 예정이라 출결문의 남깁니다",
+                "text": "<@U05UNC6FNK1>  <@U05V81G5ZDY>  어제 밤 개인적으로 dm드렸었는데 다시 여기 남깁니다 !\n외숙모 병간호 및 상을 치루게 될 예정이라 출결문의 남깁니다",
+                "author_name": "ImSH",
+                "author_link": "https:\/\/fcupstageai1.slack.com\/team\/U05UUSA6G5V",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2023-10-05\/6008065411153_d70a0a97cdfb413f29fe_48.png",
+                "author_subname": "ImSH",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "footer": "Slack 대화의 스레드"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+s\/9+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "앞서 말씀드린 상황이 길어져 철회해야 할 것같습니다 LM님께 철회문서 보내드렸습니다 확인 부탁드립니다 ! "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05UYAVRTSR"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05UNC6FNK1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06061L4S64"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "U05UNC6FNK1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05UNC6FNK1",
+        "type": "message",
+        "ts": "1697786472.815149",
+        "client_msg_id": "3bbfb58e-cd78-457f-b089-324dbbb5f6bf",
+        "text": "네 확인하겠습니다",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "260d154ea1e2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5979526758263_260d154ea1e2177fd001_72.jpg",
+            "first_name": "FC",
+            "real_name": "FC 하시안 매니저",
+            "display_name": "FC 하시안 매니저",
+            "team": "T05UGFFGL07",
+            "name": "xianha",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697786318.735849",
+        "parent_user_id": "U05UUSA6G5V",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/ZIKq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "네 확인하겠습니다"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05V81G5ZDY",
+        "type": "message",
+        "ts": "1697788565.797339",
+        "client_msg_id": "f8cfe6b7-9cfc-4fde-9a46-5ceffe3b1a2b",
+        "text": "<@U060JMX5FK2> 안녕하세요 행정 매니저입니다.\n\n공가 확인 결과 10\/14 조모상이라 공가 2일(주말포함) 사용 가능한 부분입니다.\n따라서 10\/14-15일자만 공가 처리가능하여 10\/16일자는 공가 처리 불가하여 결석처리 됨을 말씀드립니다",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "db1aceeb0d90",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5994058472162_db1aceeb0d9030c57e69_72.jpg",
+            "first_name": "김현우",
+            "real_name": "김현우",
+            "display_name": "FC 김현우 매니저",
+            "team": "T05UGFFGL07",
+            "name": "hyunwoo.kim",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697358993.789179",
+        "parent_user_id": "U060JMX5FK2",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GCeVq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U060JMX5FK2"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 안녕하세요 행정 매니저입니다.\n\n공가 확인 결과 10\/14 조모상이라 공가 2일(주말포함) 사용 가능한 부분입니다.\n따라서 10\/14-15일자만 공가 처리가능하여 10\/16일자는 공가 처리 불가하여 결석처리 됨을 말씀드립니다"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05UN5DQ423",
+        "type": "message",
+        "ts": "1697796487.124049",
+        "client_msg_id": "dbb7e9d1-1a8a-438c-b49f-65e3e7283d28",
+        "text": "방금 퇴실시간에 스크린 샷은 찍었는데 휴대폰이 업그레이드 중이라 스샷을 6분에 찍었는데 따로 출결 정정을 해야할까요?",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "602bc2a55d5c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5994828351843_602bc2a55d5c461d5b24_72.png",
+            "first_name": "박성우",
+            "real_name": "박성우",
+            "display_name": "박성우",
+            "team": "T05UGFFGL07",
+            "name": "tjddn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697796487.124049",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1698045672.119199",
+        "reply_users": [
+            "U05V81G5ZDY",
+            "U05UN5DQ423"
+        ],
+        "replies": [
+            {
+                "user": "U05V81G5ZDY",
+                "ts": "1698019707.073549"
+            },
+            {
+                "user": "U05UN5DQ423",
+                "ts": "1698045672.119199"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4un4g",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "방금 퇴실시간에 스크린 샷은 찍었는데 휴대폰이 업그레이드 중이라 스샷을 6분에 찍었는데 따로 출결 정정을 해야할까요?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1::skin-tone-2",
+                "users": [
+                    "U05V81G5ZDY"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U05UN5DQ423"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05VCCSHKHR",
+        "type": "message",
+        "ts": "1697800705.081079",
+        "client_msg_id": "b37d542c-7ebf-497d-8988-05ea43d4d6aa",
+        "text": "안녕하세요 오늘도 병원에 다녀오느라 2시에 조퇴를 했는데 구글폼 작성하면 될까요?",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "680561218468",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5998434715235_680561218468939005d6_72.png",
+            "first_name": "송현지",
+            "real_name": "송현지",
+            "display_name": "송현지",
+            "team": "T05UGFFGL07",
+            "name": "hyunjeesong95",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697800705.081079",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1698023000.882829",
+        "reply_users": [
+            "U05V81G5ZDY",
+            "U05VCCSHKHR"
+        ],
+        "replies": [
+            {
+                "user": "U05V81G5ZDY",
+                "ts": "1698019828.383149"
+            },
+            {
+                "user": "U05VCCSHKHR",
+                "ts": "1698023000.882829"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "d5CCt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "안녕하세요 오늘도 병원에 다녀오느라 2시에 조퇴를 했는데 구글폼 작성하면 될까요?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "U05V81G5ZDY"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

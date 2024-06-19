@@ -1,0 +1,376 @@
+[
+    {
+        "user": "U060LG0BT89",
+        "type": "message",
+        "ts": "1699780796.779089",
+        "client_msg_id": "72efab0d-62d7-4ddf-abda-a381bc430887",
+        "text": "시각화 시간에 활용했던 데이터 중에 서울시 인구 현황 데이터(seoul_popular.xlsx), 부동산 데이터(2013.xlsx, 2019.xlsx) 깨져서 안열리는 거 같은데 파일 공유좀 부탁드려요 ㅜㅜ",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "g273c76b80b5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/273c76b80b5c013cab6c608d10041dd4.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "김준호",
+            "real_name": "김준호",
+            "display_name": "",
+            "team": "T05UGFFGL07",
+            "name": "demyank88",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1699780796.779089",
+        "reply_count": 5,
+        "reply_users_count": 2,
+        "latest_reply": "1699781398.994569",
+        "reply_users": [
+            "U05V2T62KUJ",
+            "U060LG0BT89"
+        ],
+        "replies": [
+            {
+                "user": "U05V2T62KUJ",
+                "ts": "1699780935.501899"
+            },
+            {
+                "user": "U060LG0BT89",
+                "ts": "1699780967.047179"
+            },
+            {
+                "user": "U060LG0BT89",
+                "ts": "1699781326.286859"
+            },
+            {
+                "user": "U05V2T62KUJ",
+                "ts": "1699781377.872569"
+            },
+            {
+                "user": "U060LG0BT89",
+                "ts": "1699781398.994569"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ttuno",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "시각화 시간에 활용했던 데이터 중에 서울시 인구 현황 데이터(seoul_popular.xlsx), 부동산 데이터(2013.xlsx, 2019.xlsx) 깨져서 안열리는 거 같은데 파일 공유좀 부탁드려요 ㅜㅜ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "이거 말씀하시는걸까요?",
+        "files": [
+            {
+                "id": "F064XQSRGMV",
+                "created": 1699780893,
+                "timestamp": 1699780893,
+                "name": "2019.xlsx",
+                "title": "2019.xlsx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                "filetype": "xlsx",
+                "pretty_type": "Excel Spreadsheet",
+                "user": "U05V2T62KUJ",
+                "user_team": "T05UGFFGL07",
+                "editable": false,
+                "size": 95495,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F064XQSRGMV\/2019.xlsx?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F064XQSRGMV\/download\/2019.xlsx?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "media_display_type": "unknown",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F064XQSRGMV-a1634c82f4\/2019_converted.pdf?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F064XQSRGMV-a1634c82f4\/2019_thumb_pdf.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_pdf_w": 909,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/fcupstageai1.slack.com\/files\/U05V2T62KUJ\/F064XQSRGMV\/2019.xlsx",
+                "permalink_public": "https:\/\/slack-files.com\/T05UGFFGL07-F064XQSRGMV-7997348324",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            },
+            {
+                "id": "F065C8391A7",
+                "created": 1699780897,
+                "timestamp": 1699780897,
+                "name": "2013.xlsx",
+                "title": "2013.xlsx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                "filetype": "xlsx",
+                "pretty_type": "Excel Spreadsheet",
+                "user": "U05V2T62KUJ",
+                "user_team": "T05UGFFGL07",
+                "editable": false,
+                "size": 6902,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F065C8391A7\/2013.xlsx?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F065C8391A7\/download\/2013.xlsx?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "media_display_type": "unknown",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F065C8391A7-275d9a3e18\/2013_converted.pdf?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F065C8391A7-275d9a3e18\/2013_thumb_pdf.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_pdf_w": 909,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/fcupstageai1.slack.com\/files\/U05V2T62KUJ\/F065C8391A7\/2013.xlsx",
+                "permalink_public": "https:\/\/slack-files.com\/T05UGFFGL07-F065C8391A7-3b974d4593",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U05V2T62KUJ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0M3rp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "이거 말씀하시는걸까요?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1699780935.501899",
+        "client_msg_id": "a3e63846-6d6e-4a88-92df-81299d3863ef",
+        "thread_ts": "1699780796.779089",
+        "parent_user_id": "U060LG0BT89",
+        "reactions": [
+            {
+                "name": "bow",
+                "users": [
+                    "U060LG0BT89"
+                ],
+                "count": 1
+            },
+            {
+                "name": "ne",
+                "users": [
+                    "U060LG0BT89"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U060LG0BT89",
+        "type": "message",
+        "ts": "1699780967.047179",
+        "client_msg_id": "4aaac8ea-c1c5-4b0b-b6f2-ad0baa8042d6",
+        "text": "네 감사합니다! 잠시만요 열리는지 확인좀 해볼게요 ㅜㅜ",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "g273c76b80b5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/273c76b80b5c013cab6c608d10041dd4.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "김준호",
+            "real_name": "김준호",
+            "display_name": "",
+            "team": "T05UGFFGL07",
+            "name": "demyank88",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1699780796.779089",
+        "parent_user_id": "U060LG0BT89",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YyrWN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "네 감사합니다! 잠시만요 열리는지 확인좀 해볼게요 ㅜㅜ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U060LG0BT89",
+        "type": "message",
+        "ts": "1699781326.286859",
+        "client_msg_id": "d4ab2bc8-cb70-451f-a57c-3c810dbdb20d",
+        "text": "잘 열리네요 감사합니다! 혹시 서울시 인구 현황 데이터도 공유해주실 수 있나요?",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "g273c76b80b5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/273c76b80b5c013cab6c608d10041dd4.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "김준호",
+            "real_name": "김준호",
+            "display_name": "",
+            "team": "T05UGFFGL07",
+            "name": "demyank88",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1699780796.779089",
+        "parent_user_id": "U060LG0BT89",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9Z3qi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "잘 열리네요 감사합니다! 혹시 서울시 인구 현황 데이터도 공유해주실 수 있나요?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": ":+1:",
+        "files": [
+            {
+                "id": "F0661AY5KGQ",
+                "created": 1699781357,
+                "timestamp": 1699781357,
+                "name": "주민등록인구_20231103171401.xlsx",
+                "title": "주민등록인구_20231103171401.xlsx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                "filetype": "xlsx",
+                "pretty_type": "Excel Spreadsheet",
+                "user": "U05V2T62KUJ",
+                "user_team": "T05UGFFGL07",
+                "editable": false,
+                "size": 9604,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F0661AY5KGQ\/___________________20231103171401.xlsx?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F0661AY5KGQ\/download\/___________________20231103171401.xlsx?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "media_display_type": "unknown",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F0661AY5KGQ-382b67acc8\/___________________20231103171401_converted.pdf?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F0661AY5KGQ-382b67acc8\/___________________20231103171401_thumb_pdf.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_pdf_w": 909,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/fcupstageai1.slack.com\/files\/U05V2T62KUJ\/F0661AY5KGQ\/___________________20231103171401.xlsx",
+                "permalink_public": "https:\/\/slack-files.com\/T05UGFFGL07-F0661AY5KGQ-0cf188fdcc",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U05V2T62KUJ",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qF+xl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "+1",
+                                "unicode": "1f44d"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1699781377.872569",
+        "client_msg_id": "f8528ec0-2a81-4a21-bde5-a59bee4f8d7a",
+        "thread_ts": "1699780796.779089",
+        "parent_user_id": "U060LG0BT89",
+        "reactions": [
+            {
+                "name": "bow",
+                "users": [
+                    "U060LG0BT89"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U060LG0BT89",
+        "type": "message",
+        "ts": "1699781398.994569",
+        "client_msg_id": "dd9912c0-3099-47e5-83b9-774bf599bcd5",
+        "text": "감사합니다!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "g273c76b80b5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/273c76b80b5c013cab6c608d10041dd4.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "김준호",
+            "real_name": "김준호",
+            "display_name": "",
+            "team": "T05UGFFGL07",
+            "name": "demyank88",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1699780796.779089",
+        "parent_user_id": "U060LG0BT89",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4sMmL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "감사합니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

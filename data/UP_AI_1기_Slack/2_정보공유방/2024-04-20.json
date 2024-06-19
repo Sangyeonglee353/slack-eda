@@ -1,0 +1,84 @@
+[
+    {
+        "user": "U065TBUL5EE",
+        "type": "message",
+        "ts": "1713601237.285729",
+        "client_msg_id": "29B0F5C2-28A3-4891-827A-FB7479D432D8",
+        "text": "<https:\/\/recruit.navercorp.com\/rcrt\/view.do?annoId=30002032&amp;lang=ko&amp;fbclid=IwZXh0bgNhZW0BMQABHa-Xj7Hd6Ry5t_OTMi4zU0DMEefJkHFmmPBhQQSmQzzdyzNYXvHGuG5TFg_aem_AemJPWyeFb_oB8sDwtnwv0iv7fyuuT9Vu8oJRm5jYqY-dye8T450WYGu8-QmDSp6w74|https:\/\/recruit.navercorp.com\/rcrt\/view.do?annoId=30002032&amp;lang=ko&amp;fbclid=IwZXh0bgNhZW0BMQABHa-Xj7Hd6Ry5t_OTMi4zU0DMEefJkHFmmPBhQQSmQzzdyzNYXvHGuG5TFg_aem_AemJPWyeFb_oB8sDwtnwv0iv7fyuuT9Vu8oJRm5jYqY-dye8T450WYGu8-QmDSp6w74>",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "34f110a5edc4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-11-14\/6197301711475_34f110a5edc435398e63_72.png",
+            "first_name": "김용담",
+            "real_name": "김용담",
+            "display_name": "김용담 강사",
+            "team": "T05UGFFGL07",
+            "name": "codingiscoffee",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/recruit.navercorp.com\/share\/tmplat\/naver\/img\/og\/Careers_OG_800.png",
+                "image_width": 800,
+                "image_height": 800,
+                "image_bytes": 36346,
+                "from_url": "https:\/\/recruit.navercorp.com\/rcrt\/view.do?annoId=30002032&lang=ko&fbclid=IwZXh0bgNhZW0BMQABHa-Xj7Hd6Ry5t_OTMi4zU0DMEefJkHFmmPBhQQSmQzzdyzNYXvHGuG5TFg_aem_AemJPWyeFb_oB8sDwtnwv0iv7fyuuT9Vu8oJRm5jYqY-dye8T450WYGu8-QmDSp6w74",
+                "service_icon": "https:\/\/recruit.navercorp.com\/share\/tmplat\/naver\/img\/og\/naver_favicon_16.ico",
+                "id": 1,
+                "original_url": "https:\/\/recruit.navercorp.com\/rcrt\/view.do?annoId=30002032&amp;lang=ko&amp;fbclid=IwZXh0bgNhZW0BMQABHa-Xj7Hd6Ry5t_OTMi4zU0DMEefJkHFmmPBhQQSmQzzdyzNYXvHGuG5TFg_aem_AemJPWyeFb_oB8sDwtnwv0iv7fyuuT9Vu8oJRm5jYqY-dye8T450WYGu8-QmDSp6w74",
+                "fallback": "NAVER Careers",
+                "text": "BOARD THE NAVERSHIP",
+                "title": "NAVER Careers",
+                "title_link": "https:\/\/recruit.navercorp.com\/rcrt\/view.do?annoId=30002032&lang=ko&fbclid=IwZXh0bgNhZW0BMQABHa-Xj7Hd6Ry5t_OTMi4zU0DMEefJkHFmmPBhQQSmQzzdyzNYXvHGuG5TFg_aem_AemJPWyeFb_oB8sDwtnwv0iv7fyuuT9Vu8oJRm5jYqY-dye8T450WYGu8-QmDSp6w74",
+                "service_name": "recruit.navercorp.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FMSv6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/recruit.navercorp.com\/rcrt\/view.do?annoId=30002032&lang=ko&fbclid=IwZXh0bgNhZW0BMQABHa-Xj7Hd6Ry5t_OTMi4zU0DMEefJkHFmmPBhQQSmQzzdyzNYXvHGuG5TFg_aem_AemJPWyeFb_oB8sDwtnwv0iv7fyuuT9Vu8oJRm5jYqY-dye8T450WYGu8-QmDSp6w74",
+                                "text": "https:\/\/recruit.navercorp.com\/rcrt\/view.do?annoId=30002032&lang=ko&fbclid=IwZXh0bgNhZW0BMQABHa-Xj7Hd6Ry5t_OTMi4zU0DMEefJkHFmmPBhQQSmQzzdyzNYXvHGuG5TFg_aem_AemJPWyeFb_oB8sDwtnwv0iv7fyuuT9Vu8oJRm5jYqY-dye8T450WYGu8-QmDSp6w74"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "귀여운박수",
+                "users": [
+                    "U05UNMQ4LP9",
+                    "U05UWVA90H4"
+                ],
+                "count": 2
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U05V2T62KUJ",
+                    "U05UWVA90H4",
+                    "U05V9N22ZUK"
+                ],
+                "count": 3
+            },
+            {
+                "name": "melting_face",
+                "users": [
+                    "U0600GGHJTC"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

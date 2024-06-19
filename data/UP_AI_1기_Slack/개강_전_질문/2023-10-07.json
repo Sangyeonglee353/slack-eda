@@ -1,0 +1,64 @@
+[
+    {
+        "user": "U05UWAPP5CN",
+        "type": "message",
+        "ts": "1696725648.677329",
+        "client_msg_id": "861bddaa-bfe0-48aa-9f5d-01cc13eafe83",
+        "text": "내일 배움 카드가 실물카드가 있어야 하나요?",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "e188c4e803ab",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-11\/6013661876550_e188c4e803abd9be0399_72.png",
+            "first_name": "빙현진",
+            "real_name": "빙현진",
+            "display_name": "빙현진",
+            "team": "T05UGFFGL07",
+            "name": "hyunjin.bing",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696725648.677329",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1696895475.084559",
+        "reply_users": [
+            "U05UNC6FNK1"
+        ],
+        "replies": [
+            {
+                "user": "U05UNC6FNK1",
+                "ts": "1696895475.084559"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AgC5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "내일 배움 카드가 실물카드가 있어야 하나요?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "U05UNC6FNK1"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

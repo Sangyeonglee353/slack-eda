@@ -1,0 +1,902 @@
+[
+    {
+        "user": "U05VAHXECP6",
+        "type": "message",
+        "ts": "1710727388.933989",
+        "client_msg_id": "1e384578-126b-4c18-88bf-25b2809ca8ef",
+        "text": "<!channel>\n안녕하세요. Upstage AI Lab 1기 수강생 여러분!\nML이나 CV 대회에 비해 점수가 잘 오르지 않아, 힘드시죠?\n\n이와 관련하여 지난 주 면담 간 의견을 주신 내용을 토대로\n강사님과의 소통 결과, 아래와 같이 NLP 대회 관련 추가 레퍼런스 및 기법을 공유 드립니다.\n\n&gt; *NLP 경진대회 추가 레퍼런스 안내*\n*[타 경진대회 레퍼런스]*\n• <https:\/\/dacon.io\/competitions\/official\/235673\/data|한국어 문서 생성요약 AI 경진대회>\n• <https:\/\/github.com\/hunminjeongeum-korean-competition-2021\/dialogue-summarization?tab=readme-ov-file#%EB%AC%B8%EC%A0%9C-1-%EB%AC%B8%EC%84%9C%EC%9A%94%EC%95%BD-dataset-%EC%84%A4%EB%AA%85|대화 요약 인공지능 경진대회>\n    ◦ 관련 블로그 : <https:\/\/tech.scatterlab.co.kr\/alaggung-dlaggung-dialog-summary\/|링크>\n*[기타 성능향상 기법]*\n1. *데이터 증강*: \n    ◦ SOLAR API를 활용한 데이터 증강이 가능할 것 같습니다. \n    ◦ 다만 유의해야 할 점은, 데이터를 생성할 때, 데이터의 스타일을 고려해야 한다는 점인데요.\n    ◦ 이를 잘 수행하기 위해서 few-shot 방식으로 기존 데이터를 몇 개 보여준 후, 해당 스타일로 대화문과 요약문을 임의의 주제에 대해 생성해 볼 수 있을 것 같습니다.\n2. *다양한 pretrained 대화 모델 적용:* \n    ◦ 기존 사용한 한국어 대화 모델 외에도 다양한 사전학습 모델들을 이용할 수 있습니다. \n    ◦ 아마 현재 쓰는 모델이 좋은 모델이기는 하나, 일상 대화보다는 조금 더 포멀한 대화문인 만큼 다른 모델을 활용해 보는 것도 가능할 것 같아요. \n    ◦ 또한 어쩌면 대화 요약 모델이 아닌, 그냥 요약 모델도 활용해 볼 수 있겠습니다.\n3. *앙상블 및 요약문 선택기 추가:* \n    ◦ 대화 요약의 점수를 높이기 어려운 이유 중 하나가, 의미적으로는 잘 되어도, 실제 정답과 문자가 달라 점수가 잘 안 오를 수 있는데요, \n    ◦ 이를 해결하기 위한 방안으로, 정답을 여러 개 생성하고 그 중 하나를 선택하는 방식 (일종의 앙상블 방식) 을 활용할 수 있습니다. \n    ◦ 이때, 여러 요약문을 만들어도 어떤 요약문이 가장 좋은 것 인지를 판별하는 게 한 가지 큰 문제가 될 텐데요, \n    ◦ 이를 해결하기 위해 SOLAR 등의 LLM을 통해 요약문 중 하나를 선택하게 하게 할 수 있습니다. \n    ◦ 여기서도 \"few-shot 방식으로 정답의 스타일을 미리 알려준 후, 가장 정답과 내용 및 스타일이 유사한 요약문을 골라\"라고 하는 식으로 정답 선택기를 쓰는 방식이죠.\n4.  다음 문서를 참고해서 hyperparmeter 튜닝도 이것저것 시도해 보셔도 좋을 것 같아요.\n    a. <https:\/\/huggingface.co\/docs\/transformers\/v4.38.2\/en\/main_classes\/trainer#transformers.Seq2SeqTrainingArguments>\n5. 그 외에도, 데이터 증강 및 dpo와 같은 preference tuning을 시키는 방식 등도 적용해 볼 수는 있겠으나, 짧은 시간에 하기에는 로드가 좀 많을 수 있다고 합니다.\n덧붙여서 강사님께서 점수도 들어가서 한번 봤는데, 꽤 잘 하고 계신 것 같다고 전달 주셨으니, 마지막까지 힘내시기 바랍니다! :muscle::muscle:",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "50abee101814",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-11\/6044824153712_50abee1018149e21919b_72.jpg",
+            "first_name": "이상영",
+            "real_name": "이상영",
+            "display_name": "FC 이상영 매니저",
+            "team": "T05UGFFGL07",
+            "name": "sangyeong.lee",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qqm1U",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n안녕하세요. Upstage AI Lab 1기 수강생 여러분!\nML이나 CV 대회에 비해 점수가 잘 오르지 않아, 힘드시죠?\n\n이와 관련하여 지난 주 면담 간 의견을 주신 내용을 토대로\n강사님과의 소통 결과, 아래와 같이 NLP 대회 관련 추가 레퍼런스 및 기법을 공유 드립니다.\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "NLP 경진대회 추가 레퍼런스 안내",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "[타 경진대회 레퍼런스]",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/dacon.io\/competitions\/official\/235673\/data",
+                                        "text": "한국어 문서 생성요약 AI 경진대회"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/github.com\/hunminjeongeum-korean-competition-2021\/dialogue-summarization?tab=readme-ov-file#%EB%AC%B8%EC%A0%9C-1-%EB%AC%B8%EC%84%9C%EC%9A%94%EC%95%BD-dataset-%EC%84%A4%EB%AA%85",
+                                        "text": "대화 요약 인공지능 경진대회"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "관련 블로그 : "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/tech.scatterlab.co.kr\/alaggung-dlaggung-dialog-summary\/",
+                                        "text": "링크"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "[기타 성능향상 기법]",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "데이터 증강",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ": "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "SOLAR API를 활용한 데이터 증강이 가능할 것 같습니다. "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "다만 유의해야 할 점은, 데이터를 생성할 때, 데이터의 스타일을 고려해야 한다는 점인데요."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "이를 잘 수행하기 위해서 few-shot 방식으로 기존 데이터를 몇 개 보여준 후, 해당 스타일로 대화문과 요약문을 임의의 주제에 대해 생성해 볼 수 있을 것 같습니다."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "다양한 pretrained 대화 모델 적용: ",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "offset": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "기존 사용한 한국어 대화 모델 외에도 다양한 사전학습 모델들을 이용할 수 있습니다. "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "아마 현재 쓰는 모델이 좋은 모델이기는 하나, 일상 대화보다는 조금 더 포멀한 대화문인 만큼 다른 모델을 활용해 보는 것도 가능할 것 같아요. "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "또한 어쩌면 대화 요약 모델이 아닌, 그냥 요약 모델도 활용해 볼 수 있겠습니다."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "앙상블 및 요약문 선택기 추가: ",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "offset": 2,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "대화 요약의 점수를 높이기 어려운 이유 중 하나가, 의미적으로는 잘 되어도, 실제 정답과 문자가 달라 점수가 잘 안 오를 수 있는데요, "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "이를 해결하기 위한 방안으로, 정답을 여러 개 생성하고 그 중 하나를 선택하는 방식 (일종의 앙상블 방식) 을 활용할 수 있습니다. "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "이때, 여러 요약문을 만들어도 어떤 요약문이 가장 좋은 것 인지를 판별하는 게 한 가지 큰 문제가 될 텐데요, "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "이를 해결하기 위해 SOLAR 등의 LLM을 통해 요약문 중 하나를 선택하게 하게 할 수 있습니다. "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "여기서도 \"few-shot 방식으로 정답의 스타일을 미리 알려준 후, 가장 정답과 내용 및 스타일이 유사한 요약문을 골라\"라고 하는 식으로 정답 선택기를 쓰는 방식이죠."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": " 다음 문서를 참고해서 hyperparmeter 튜닝도 이것저것 시도해 보셔도 좋을 것 같아요."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "offset": 3,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/huggingface.co\/docs\/transformers\/v4.38.2\/en\/main_classes\/trainer#transformers.Seq2SeqTrainingArguments"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "그 외에도, 데이터 증강 및 dpo와 같은 preference tuning을 시키는 방식 등도 적용해 볼 수는 있겠으나, 짧은 시간에 하기에는 로드가 좀 많을 수 있다고 합니다."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "offset": 4,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n덧붙여서 강사님께서 점수도 들어가서 한번 봤는데, 꽤 잘 하고 계신 것 같다고 전달 주셨으니, 마지막까지 힘내시기 바랍니다! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "muscle",
+                                "unicode": "1f4aa"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "muscle",
+                                "unicode": "1f4aa"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U060C67EYQ5",
+                    "U05V4KZR3NW",
+                    "U05V379NETU",
+                    "U05V9LP47V0",
+                    "U05V2T62KUJ"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "text": "*<!channel>*\n*NLP 경진대회 보고서 제출 안내*\n안녕하세요. Upstage AI Lab 1기 수강생 여러분!\n\n이전부터 말씀드린 것처럼 여러분들이 진행 한 경진대회(프로젝트)에서 무엇을 하였는지 아래 가이드를 참고하여 보고서로 작성해주시면 됩니다.\n보고서를 통해 본인의 문제 해결 능력에 대한 강점을 어필할 수 있는 포트폴리오로 활용하시면 좋을 것 같습니다.\n\n아래 안내 내용 참고하시고 제출 기한 내 제출 부탁 드리겠습니다.\n\n&gt; *팀 보고서 및 발표 자료 제출 안내 `[필수]`*\n• *팀 발표자료 제출 방법*\n    ◦ *<https:\/\/forms.gle\/r5ENbFkziKTchioH7|팀 결과물 제출 구글 폼 바로가기>*\n    ◦ ① 발표자료(.ppt or .pdf)와 ② Github Repo 주소 제출 부탁 드리겠습니다.\n    ◦ *기한 : 3\/21(목) 오후 13시 마감*\n• 팀 보고서의 경우 Git Classroom Repo에 있는 `Readme.md 양식`을 활용하셔서 작성하시면 됩니다. Readme.md 목차와 아래 팀 보고서 작성 세부 가이드라인을 참고하셔서 작성 부탁 드리겠습니다.\n    ◦ <https:\/\/quickest-asterisk-75d.notion.site\/Fast-Up-Team-Report-3a8a6a02d61a4f01838191c9c0d9ae8e?pvs=4|Fast-Up Team Report 작성 세부 가이드라인>\n&gt; *개인 보고서 제출 안내 \/ Fast-Up Report `[필수]`*\n이전 경진대회 때도 안내 드렸던 `[개인] *Fast-Up Report 제출안내*` 입니다.\n참고하셔서 제출해주시길 바랍니다.\n• *결과물 제출 방법*\n    ◦ *<https:\/\/forms.gle\/9jZh4sb5dY84sdNJ8|Fast-Up Report 제출 구글 폼>*\n    ◦ Notion, Blog 등 URL 링크로 제출 부탁 드립니다.\n    ◦ *Notion의 경우 권한 문제로 오른쪽 상단의 `공유 - 게시 - 웹 게시 - 링크 복사 버튼` 을 클릭하여 제출 부탁 드립니다. (아래 이미지 참고)*\n• *제출 기한 : 3\/25(월) 오후 13시까지*\n• *제출 간 주의 사항*\n    ◦ 해시태그를 필수로 넣어주시길 바랍니다. (for Personal Branding)\n    ◦ #패스트캠퍼스 #UpstageAILab #Upstage #부트캠프 #AI #데이터분석 #데이터사이언스 #인공지능개발자 #NLP #딥러닝 #자연어처리 #경진대회 등\n• *Fast-Up Report 가이드를 참고하셔서 작성해주시길 바랍니다. (가이드 중 택 1)*\n    ◦ <https:\/\/quickest-asterisk-75d.notion.site\/Fast-Up-Report-Guide-1-14ba6187a854452ca6903e8ceb531eba?pvs=4|Fast-Up Report Guide 1>\n    ◦ <https:\/\/quickest-asterisk-75d.notion.site\/Fast-Up-Report-Guide-2-2ed7602818ff458b9d99f50b476bd702?pvs=4|Fast-Up Report Guide 2>\n",
+        "files": [
+            {
+                "id": "F06JK8X9HE0",
+                "created": 1707804600,
+                "timestamp": 1707804600,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U05VADPQPCL",
+                "user_team": "T05UGFFGL07",
+                "editable": false,
+                "size": 28664,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F06JK8X9HE0\/image.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F06JK8X9HE0\/download\/image.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06JK8X9HE0-39c3f122c6\/image_64.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06JK8X9HE0-39c3f122c6\/image_80.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06JK8X9HE0-39c3f122c6\/image_360.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_360_w": 360,
+                "thumb_360_h": 275,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06JK8X9HE0-39c3f122c6\/image_480.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_480_w": 480,
+                "thumb_480_h": 366,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06JK8X9HE0-39c3f122c6\/image_160.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "original_w": 523,
+                "original_h": 399,
+                "thumb_tiny": "AwAkADC9BMZYFk24z2zT1O4nrVew\/wCPKLr0PT61Yz7GgBSM96XFJn2NG72NABj3NB4BNGfY0hPB4NAFey4s4weoB7+9Wh0qC2iaK3RGxlc9D71MBz\/9egBaKKb5if31\/OgB1Nbv9KPMT++v50hZW4DKT9aLAKTikz7Cg9aSgB241CLaIdFP51JTqLtBZMi+zx+h\/OhYI0YMo5HvUtJT5mKyP\/\/Z",
+                "permalink": "https:\/\/fcupstageai1.slack.com\/files\/U05VADPQPCL\/F06JK8X9HE0\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T05UGFFGL07-F06JK8X9HE0-2198e62c3f",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U05VADPQPCL",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YmtyR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "NLP 경진대회 보고서 제출 안내",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n안녕하세요. Upstage AI Lab 1기 수강생 여러분!\n\n이전부터 말씀드린 것처럼 여러분들이 진행 한 경진대회(프로젝트)에서 무엇을 하였는지 아래 가이드를 참고하여 보고서로 작성해주시면 됩니다.\n보고서를 통해 본인의 문제 해결 능력에 대한 강점을 어필할 수 있는 포트폴리오로 활용하시면 좋을 것 같습니다.\n\n아래 안내 내용 참고하시고 제출 기한 내 제출 부탁 드리겠습니다.\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "팀 보고서 및 발표 자료 제출 안내 ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "[필수]",
+                                "style": {
+                                    "bold": true,
+                                    "code": true
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "팀 발표자료 제출 방법",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/forms.gle\/r5ENbFkziKTchioH7",
+                                        "text": "팀 결과물 제출 구글 폼 바로가기",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "① 발표자료(.ppt or .pdf)와 ② Github Repo 주소 제출 부탁 드리겠습니다."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "기한 : 3\/21(목) 오후 13시 마감",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "팀 보고서의 경우 Git Classroom Repo에 있는 "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "Readme.md 양식",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "을 활용하셔서 작성하시면 됩니다. Readme.md 목차와 아래 팀 보고서 작성 세부 가이드라인을 참고하셔서 작성 부탁 드리겠습니다."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/quickest-asterisk-75d.notion.site\/Fast-Up-Team-Report-3a8a6a02d61a4f01838191c9c0d9ae8e?pvs=4",
+                                        "text": "Fast-Up Team Report 작성 세부 가이드라인"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "개인 보고서 제출 안내 \/ Fast-Up Report ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "[필수]",
+                                "style": {
+                                    "bold": true,
+                                    "code": true
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "이전 경진대회 때도 안내 드렸던 "
+                            },
+                            {
+                                "type": "text",
+                                "text": "[개인] ",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "Fast-Up Report 제출안내",
+                                "style": {
+                                    "bold": true,
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "입니다.\n참고하셔서 제출해주시길 바랍니다.\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "결과물 제출 방법",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/forms.gle\/9jZh4sb5dY84sdNJ8",
+                                        "text": "Fast-Up Report 제출 구글 폼",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Notion, Blog 등 URL 링크로 제출 부탁 드립니다."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Notion의 경우 권한 문제로 오른쪽 상단의 ",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "공유 - 게시 - 웹 게시 - 링크 복사 버튼",
+                                        "style": {
+                                            "bold": true,
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " 을 클릭하여 제출 부탁 드립니다. (아래 이미지 참고)",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "제출 기한 : 3\/25(월) 오후 13시까지",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "제출 간 주의 사항",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "해시태그를 필수로 넣어주시길 바랍니다. (for Personal Branding)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "#패스트캠퍼스 #UpstageAILab #Upstage #부트캠프 #AI #데이터분석 #데이터사이언스 #인공지능개발자 #NLP #딥러닝 #자연어처리 #경진대회 등"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Fast-Up Report 가이드를 참고하셔서 작성해주시길 바랍니다. (가이드 중 택 1)",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/quickest-asterisk-75d.notion.site\/Fast-Up-Report-Guide-1-14ba6187a854452ca6903e8ceb531eba?pvs=4",
+                                        "text": "Fast-Up Report Guide 1"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/quickest-asterisk-75d.notion.site\/Fast-Up-Report-Guide-2-2ed7602818ff458b9d99f50b476bd702?pvs=4",
+                                        "text": "Fast-Up Report Guide 2"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1710738332.374049",
+        "client_msg_id": "e6e820f2-c7a4-4189-baef-1815aa142b04",
+        "thread_ts": "1710738332.374049",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1711358169.743449",
+        "reply_users": [
+            "U05VADPQPCL",
+            "U05UWVA90H4"
+        ],
+        "replies": [
+            {
+                "user": "U05VADPQPCL",
+                "ts": "1711345958.833379"
+            },
+            {
+                "user": "U05UWVA90H4",
+                "ts": "1711358169.743449"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    }
+]

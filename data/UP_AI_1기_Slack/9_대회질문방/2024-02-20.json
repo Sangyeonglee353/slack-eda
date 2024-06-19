@@ -1,0 +1,284 @@
+[
+    {
+        "user": "U05V2T62KUJ",
+        "type": "message",
+        "ts": "1708486236.922259",
+        "client_msg_id": "dd2c6c20-52c8-4ac2-b96e-9c9e9f2e7d65",
+        "text": "<@U0608EG7YEA>\n안녕하세요. 항상 수고많으십니다. 이번 CV 대회 Document Classification Dataset 저작권 관련해서 궁금한 사항이 있어서 이렇게 질문드립니다.\n\n해당 데이터의 저작권이 \"외부 공개, 노출, 배포 엄격 금지\" 라는 사실은 인지하고 있습니다. 다만 github에 업로드할때 ppt나 github의 readme 파일 혹은 코드내에서 inference 결과를 시각화 하는 과정에서 해당 데이터의 일부를 보여줄 수 있다면 좀더 직관적이고 풍성한 포트폴리오를 만드는데 큰 도움이 될 것 같습니다. 혹시 이러한 수준의 노출이 허용가능한지 문의드리고 싶습니다.\n\n감사합니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "ae24066f5a1a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5989305080675_ae24066f5a1a2d78e521_72.jpg",
+            "first_name": "김영천",
+            "real_name": "김영천",
+            "display_name": "김영천",
+            "team": "T05UGFFGL07",
+            "name": "dudcjs2779",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1708486236.922259",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1708489914.898779",
+        "reply_users": [
+            "U0608EG7YEA",
+            "U060C67EYQ5",
+            "U05V2T62KUJ"
+        ],
+        "replies": [
+            {
+                "user": "U0608EG7YEA",
+                "ts": "1708488137.058319"
+            },
+            {
+                "user": "U060C67EYQ5",
+                "ts": "1708489223.130779"
+            },
+            {
+                "user": "U05V2T62KUJ",
+                "ts": "1708489914.898779"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9N11z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0608EG7YEA"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n안녕하세요. 항상 수고많으십니다. 이번 CV 대회 Document Classification Dataset 저작권 관련해서 궁금한 사항이 있어서 이렇게 질문드립니다.\n\n해당 데이터의 저작권이 \"외부 공개, 노출, 배포 엄격 금지\" 라는 사실은 인지하고 있습니다. 다만 github에 업로드할때 ppt나 github의 readme 파일 혹은 코드내에서 inference 결과를 시각화 하는 과정에서 해당 데이터의 일부를 보여줄 수 있다면 좀더 직관적이고 풍성한 포트폴리오를 만드는데 큰 도움이 될 것 같습니다. 혹시 이러한 수준의 노출이 허용가능한지 문의드리고 싶습니다.\n\n감사합니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U060C67EYQ5"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U0608EG7YEA",
+        "type": "message",
+        "ts": "1708488137.058319",
+        "client_msg_id": "264a1d8c-6000-4e89-896d-bcc8c45bb7ea",
+        "text": "안녕하세요 영천님 :slightly_smiling_face: 말씀주신 방향에는 충분히 공감합니다. 조금 아쉬우시겠지만 저작권에 제약이 없는 유사한 외부 오픈소스 이미지를 대체 활용해 주시는 방향을 제안드려봅니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "542e7e1dec67",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-12\/6028220315186_542e7e1dec6721784df9_72.png",
+            "first_name": "업스테이지",
+            "real_name": "업스테이지 크리스",
+            "display_name": "업스테이지 크리스",
+            "team": "T05UGFFGL07",
+            "name": "chris",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1708486236.922259",
+        "parent_user_id": "U05V2T62KUJ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aVN8e",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "안녕하세요 영천님 "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 말씀주신 방향에는 충분히 공감합니다. 조금 아쉬우시겠지만 저작권에 제약이 없는 유사한 외부 오픈소스 이미지를 대체 활용해 주시는 방향을 제안드려봅니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U05V2T62KUJ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U060C67EYQ5",
+        "type": "message",
+        "ts": "1708489223.130779",
+        "client_msg_id": "e20d2fd5-1c35-4ae7-8f0c-53f3d7f5569f",
+        "text": "<@U05V2T62KUJ> 위에 크리스가 말씀주신 것처럼 데이터의 라이선스에 제한이 있는 경우 그 자체로 공개가 되어서는 안됩니다.\n\n따라서 레퍼런스가 될 수 있는 이미지를 서치하시거나 직접 제작해주시면 되는데요. 관련해서 업스테이지 웹페이지에 유사한 데이터셋의 양식이 있으니 이미지 출처를 업스테이지 웹페이지 주소로 남기셔서 활용하시는 것도 방법이 될 것 같습니다 :slightly_smiling_face:\n\n&gt; :point_right: 업스테이지 진단서\/처방전\/납입확인서\/세부내역서\/진료비영수증 이미지 링크: <https:\/\/www.content.upstage.ai\/ocr-pack\/insurance>",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "831ed525b276",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-11-14\/6192884585138_831ed525b276222009d0_72.png",
+            "first_name": "업스테이지",
+            "real_name": "업스테이지 김의겸(Dave)",
+            "display_name": "UP 김의겸(Dave) 매니저",
+            "team": "T05UGFFGL07",
+            "name": "euigyum",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1708486236.922259",
+        "parent_user_id": "U05V2T62KUJ",
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.content.upstage.ai\/ocr-pack\/insurance",
+                "service_icon": "https:\/\/www.content.upstage.ai\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.content.upstage.ai\/ocr-pack\/insurance",
+                "fallback": "Upstage: 압도적인 성능의 OCR 기술로 보험금 청구 자동화를 더 빠르고 간편하게 | Document AI for Insurance | 업스테이지  — Upstage",
+                "text": "지속적인 데이터 기반 학습으로 시간이 지나도 높은 성능을 유지합니다. 보험금 청구 자동화를 통한 고객 경혐 혁신, 지금 경험해보세요!",
+                "title": "압도적인 성능의 OCR 기술로 보험금 청구 자동화를 더 빠르고 간편하게 | Document AI for Insurance | 업스테이지  — Upstage",
+                "title_link": "https:\/\/www.content.upstage.ai\/ocr-pack\/insurance",
+                "service_name": "Upstage"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2KsoI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05V2T62KUJ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 위에 크리스가 말씀주신 것처럼 데이터의 라이선스에 제한이 있는 경우 그 자체로 공개가 되어서는 안됩니다.\n\n따라서 레퍼런스가 될 수 있는 이미지를 서치하시거나 직접 제작해주시면 되는데요. 관련해서 업스테이지 웹페이지에 유사한 데이터셋의 양식이 있으니 이미지 출처를 업스테이지 웹페이지 주소로 남기셔서 활용하시는 것도 방법이 될 것 같습니다 "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "point_right",
+                                "unicode": "1f449"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 업스테이지 진단서\/처방전\/납입확인서\/세부내역서\/진료비영수증 이미지 링크: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.content.upstage.ai\/ocr-pack\/insurance"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0608EG7YEA",
+                    "U05V2T62KUJ",
+                    "U065TBUL5EE"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "user": "U05V2T62KUJ",
+        "type": "message",
+        "ts": "1708489914.898779",
+        "edited": {
+            "user": "U05V2T62KUJ",
+            "ts": "1708585838.000000"
+        },
+        "client_msg_id": "678ad52e-c111-4db9-9de9-f753674fdc1a",
+        "text": "빠른 답변 너무 감사드립니다!\n\n제안해주신 대안들도 너무 좋은 것 같아서 충분히 포폴제작에 활용할 수 같네요! 감사합니다!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "ae24066f5a1a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5989305080675_ae24066f5a1a2d78e521_72.jpg",
+            "first_name": "김영천",
+            "real_name": "김영천",
+            "display_name": "김영천",
+            "team": "T05UGFFGL07",
+            "name": "dudcjs2779",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1708486236.922259",
+        "parent_user_id": "U05V2T62KUJ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3X\/it",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "빠른 답변 너무 감사드립니다!\n\n제안해주신 대안들도 너무 좋은 것 같아서 충분히 포폴제작에 활용할 수 같네요! 감사합니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U060C67EYQ5"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

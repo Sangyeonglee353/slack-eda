@@ -1,0 +1,274 @@
+[
+    {
+        "user": "U05VAHXECP6",
+        "type": "message",
+        "ts": "1703663563.822539",
+        "edited": {
+            "user": "U05VAHXECP6",
+            "ts": "1703725403.000000"
+        },
+        "client_msg_id": "5a485b37-32a2-4d38-822c-8a190534a541",
+        "text": "*<!here>*\n안녕하세요. Upstage AI Lab 수강생 여러분~!\n어느 덧 오늘 하루도 저물어 가네요. :귀여운박수:\n금주 Pytorch 멘토링 진행해주실 `한서우 멘토`님께서 채널에 들어와 계십니다.\n> *Pytorch 멘토링*\n• 멘토링 기간: 23.12.26(화) ~ 23.01.02(화)\n[업스테이지] 온라인 강의를 학습하면서 궁금한 사항이 있다면 편히 이 곳에 질문해주세요! :muscle::muscle:\n(질문하실 땐 멘토님이 바로 확인하실 수 있도록 `@한서우멘토` 태깅해주는 센스를 발휘해주세요.)",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "50abee101814",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-11\/6044824153712_50abee1018149e21919b_72.jpg",
+            "first_name": "이상영",
+            "real_name": "이상영",
+            "display_name": "FC 이상영 매니저",
+            "team": "T05UGFFGL07",
+            "name": "sangyeong.lee",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OJOQP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "here",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n안녕하세요. Upstage AI Lab 수강생 여러분~!\n어느 덧 오늘 하루도 저물어 가네요. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "귀여운박수"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n금주 Pytorch 멘토링 진행해주실 "
+                            },
+                            {
+                                "type": "text",
+                                "text": "한서우 멘토",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "님께서 채널에 들어와 계십니다.\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Pytorch 멘토링",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "멘토링 기간: 23.12.26(화) ~ 23.01.02(화)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n[업스테이지] 온라인 강의를 학습하면서 궁금한 사항이 있다면 편히 이 곳에 질문해주세요! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "muscle",
+                                "unicode": "1f4aa"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "muscle",
+                                "unicode": "1f4aa"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n(질문하실 땐 멘토님이 바로 확인하실 수 있도록 "
+                            },
+                            {
+                                "type": "text",
+                                "text": "@한서우멘토",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " 태깅해주는 센스를 발휘해주세요.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U06BGDUL2LD",
+                    "U05VADPQPCL",
+                    "U065TBUL5EE",
+                    "U05V7H78DUM",
+                    "U0600GGHJTC"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "user": "U06BGDUL2LD",
+        "type": "message",
+        "ts": "1703663634.561839",
+        "client_msg_id": "8e2a93fc-b9b2-4280-8b98-62031d6d382b",
+        "text": "<!here> 잘 부탁드립니다 :slightly_smiling_face: 많은 질문은 환영입니다! 언제든지 막히는 게 있으면 이야기 해주세요~",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "0fe69307f52f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-04-04\/6895510068391_0fe69307f52f0e0417ac_72.jpg",
+            "first_name": "한서우",
+            "real_name": "한서우 멘토",
+            "display_name": "한서우 멘토",
+            "team": "T05UGFFGL07",
+            "name": "swhan0329",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UjFWM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 잘 부탁드립니다 "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 많은 질문은 환영입니다! 언제든지 막히는 게 있으면 이야기 해주세요~"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U05VAHXECP6",
+                    "U05VADPQPCL",
+                    "U060C67EYQ5",
+                    "U060BLVQYHW",
+                    "U05V7H78DUM",
+                    "U05V561TXUL",
+                    "U05V4KZR3NW"
+                ],
+                "count": 7
+            },
+            {
+                "name": "meow_noddies",
+                "users": [
+                    "U05VAHXECP6",
+                    "U05VADPQPCL",
+                    "U05V2PMAVNE",
+                    "U0606QGQYE5",
+                    "U05V2T62KUJ",
+                    "U060C67EYQ5",
+                    "U060BLVQYHW",
+                    "U05UVV5CVQE",
+                    "U05V379NETU",
+                    "U05V4KZR3NW"
+                ],
+                "count": 10
+            },
+            {
+                "name": "clap",
+                "users": [
+                    "U05VAHXECP6",
+                    "U05VADPQPCL",
+                    "U060C67EYQ5",
+                    "U060BLVQYHW",
+                    "U05V5B88ULD",
+                    "U05V4KZR3NW"
+                ],
+                "count": 6
+            },
+            {
+                "name": "ne",
+                "users": [
+                    "U05V5B27DK7",
+                    "U060BLVQYHW",
+                    "U05V7H78DUM",
+                    "U05UVV5CVQE",
+                    "U0600GGHJTC",
+                    "U05V4KZR3NW"
+                ],
+                "count": 6
+            },
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U05V7H78DUM",
+                    "U05V4KZR3NW"
+                ],
+                "count": 2
+            },
+            {
+                "name": "+1::skin-tone-2",
+                "users": [
+                    "U05UVV5CVQE"
+                ],
+                "count": 1
+            },
+            {
+                "name": "clap::skin-tone-2",
+                "users": [
+                    "U05UVV5CVQE"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

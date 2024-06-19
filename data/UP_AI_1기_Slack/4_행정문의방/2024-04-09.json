@@ -1,0 +1,138 @@
+[
+    {
+        "user": "U05V81G5ZDY",
+        "type": "message",
+        "ts": "1712656820.142439",
+        "edited": {
+            "user": "U05V81G5ZDY",
+            "ts": "1712796767.000000"
+        },
+        "client_msg_id": "3bdd359a-dc08-45a1-9054-d10334d10fce",
+        "text": "> 장려금 확인서 미서명자(리마인드 드립니다!)\n<@U05UUUNAE5D>\n감성필님! 타이핑이 아닌 자필서명으로 부탁드립니다!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "db1aceeb0d90",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5994058472162_db1aceeb0d9030c57e69_72.jpg",
+            "first_name": "김현우",
+            "real_name": "김현우",
+            "display_name": "FC 김현우 매니저",
+            "team": "T05UGFFGL07",
+            "name": "hyunwoo.kim",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712656820.142439",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1712795923.483329",
+        "reply_users": [
+            "U05V81G5ZDY"
+        ],
+        "replies": [
+            {
+                "user": "U05V81G5ZDY",
+                "ts": "1712795923.483329"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cqXch",
+                "elements": [
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "장려금 확인서 미서명자(리마인드 드립니다!)"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05UUUNAE5D"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n감성필님! 타이핑이 아닌 자필서명으로 부탁드립니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05V81G5ZDY",
+        "type": "message",
+        "ts": "1712656854.829369",
+        "edited": {
+            "user": "U05V81G5ZDY",
+            "ts": "1712796108.000000"
+        },
+        "client_msg_id": "eb10358a-cf10-43f2-9147-0a4fc555b741",
+        "text": "환수 동의서 제출 해주세요\n고용보험 미가입자일 경우 제출 하실 필요 없습니다\n미가입자라면 말씀 전달 부탁드립니다!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "db1aceeb0d90",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5994058472162_db1aceeb0d9030c57e69_72.jpg",
+            "first_name": "김현우",
+            "real_name": "김현우",
+            "display_name": "FC 김현우 매니저",
+            "team": "T05UGFFGL07",
+            "name": "hyunwoo.kim",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712656854.829369",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1712793135.119959",
+        "reply_users": [
+            "U05UNC6FNK1"
+        ],
+        "replies": [
+            {
+                "user": "U05UNC6FNK1",
+                "ts": "1712793135.119959"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4W15l",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "환수 동의서 제출 해주세요\n고용보험 미가입자일 경우 제출 하실 필요 없습니다\n미가입자라면 말씀 전달 부탁드립니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "x",
+                "users": [
+                    "U05V81G5ZDY"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

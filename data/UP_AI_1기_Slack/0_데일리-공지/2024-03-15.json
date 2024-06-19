@@ -1,0 +1,533 @@
+[
+    {
+        "user": "U05VADPQPCL",
+        "type": "message",
+        "ts": "1710493202.422989",
+        "client_msg_id": "9a588b63-6c23-435a-941b-3a9617534ec9",
+        "text": "*<!channel>*\n*Natural Language Processing Advanced 강의 만족도 조사 안내*\n\n*안녕하세요 Upstage AI Lab 1기 수강생 여러분!*\n*Natural Language Processing Advanced 강의는 어떠셨나요?!* :귀여운박수:\n*아래 설문 조사를 통해 많은 의견 부탁 드립니다!*\n\n&gt; :mag_right: *강의 만족도 조사 [`필수`]*\n금주 진행한 *Natural Language Processing Advanced* 강의 만족도 조사입니다.\n• *<https:\/\/forms.gle\/Y6REoEmQEnFzLiWC8|Upstage AI Lab 1기_Natural Language Processing Advanced 강의 만족도 조사>*\n• *제출 기한 : 3\/18(월) 13시까지*\n많은 의견 부탁드립니다. 감사합니다. :pray:",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "07e7ca00b8f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5991092857253_07e7ca00b8f0d0b13ba1_72.png",
+            "first_name": "패스트캠퍼스박기준",
+            "real_name": "패스트캠퍼스박기준",
+            "display_name": "LM 박기준",
+            "team": "T05UGFFGL07",
+            "name": "pgj.fc.career",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1710493202.422989",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1710739223.038279",
+        "reply_users": [
+            "U05VADPQPCL"
+        ],
+        "replies": [
+            {
+                "user": "U05VADPQPCL",
+                "ts": "1710739223.038279"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ecyod",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Natural Language Processing Advanced 강의 만족도 조사 안내",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "안녕하세요 Upstage AI Lab 1기 수강생 여러분!",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Natural Language Processing Advanced 강의는 어떠셨나요?! ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "귀여운박수",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "아래 설문 조사를 통해 많은 의견 부탁 드립니다!",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "mag_right",
+                                "unicode": "1f50e",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " 강의 만족도 조사 [",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "필수",
+                                "style": {
+                                    "bold": true,
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "]",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "금주 진행한 "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Natural Language Processing Advanced ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "강의 만족도 조사입니다.\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/forms.gle\/Y6REoEmQEnFzLiWC8",
+                                        "text": "Upstage AI Lab 1기_Natural Language Processing Advanced 강의 만족도 조사",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "제출 기한 : 3\/18(월) 13시까지",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n많은 의견 부탁드립니다. 감사합니다. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "대답",
+                "users": [
+                    "U05V379NETU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "text": "*<!here>*\n수강생 여러분!\n오늘 하루도 고생많으셨습니다!\n\n&gt;  :mega: *QR 체크* :mega:\n&gt; • *출석 방법*\n&gt;     ◦ *정각 5분 전후로* QR체크 하시면 됩니다! 꼭 지켜주세요!!\n&gt;     ◦ *지정 시간 외에 QR 체크 시 지각 또는 결석* 으로 처리됩니다!\n&gt; • *입실 QR 체크 시간 : 09:50 ~ 10:10*\n&gt; • *퇴실 QR 체크 시간 : 18:50 ~ 19:10*\n&gt; :camera_with_flash:  *줌 스크린샷 출석* :camera_with_flash:\n&gt; • *꼭 본인 한글 이름으로 이름 설정해주세요!!*\n&gt; • *스크린샷 시각*\n&gt;     ◦ *입실 : 10:00*\n&gt;     ◦ *퇴실 : 18:50~19:00*\n",
+        "files": [
+            {
+                "id": "F06JY51KVA7",
+                "created": 1707989407,
+                "timestamp": 1707989407,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U05VADPQPCL",
+                "user_team": "T05UGFFGL07",
+                "editable": false,
+                "size": 79198,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F06JY51KVA7\/image.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F06JY51KVA7\/download\/image.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06JY51KVA7-a611fdeb56\/image_64.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06JY51KVA7-a611fdeb56\/image_80.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06JY51KVA7-a611fdeb56\/image_360.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_360_w": 360,
+                "thumb_360_h": 318,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06JY51KVA7-a611fdeb56\/image_480.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_480_w": 480,
+                "thumb_480_h": 424,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06JY51KVA7-a611fdeb56\/image_160.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06JY51KVA7-a611fdeb56\/image_720.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_720_w": 720,
+                "thumb_720_h": 636,
+                "original_w": 720,
+                "original_h": 636,
+                "thumb_tiny": "AwAqADDTNRfaI\/74qQ9qztoUjc2MjnOcAD2oAv8AmoGC713HtmkWZGXcrKR65qiItgVZAW7cn7wGcUoOEZVwARjIOOOn8u\/40AXDcRg4LipFO4ZHQ8is3HClSTzxtJPP171oRDEaj0UUAOPas5ozG3CqZB83Azk+v0\/wzWie1ZwVFEg2jO75iM4bv1\/OgBJCSA7lPvc5HApygRofnBQjnjk9\/wCh4\/CoyoKhvmORjbtwR+HTpT\/K+Rh8wKr84Hbjj\/I70ALECyfefBY9BgE5\/wDr8VeiGEUEYwo4rNVnECFGG5eWbPOBwcj\/AD0rSi4Ren3R06UAOPas9I5Nwyr446Dn35rQbpTaAKU1uxwQjs20bvcj3zSpHIZGfydu4AAtzg\/T8quUUAVPIljUggvgfLjp15\/+tVxOAPoKSnLQB\/\/Z",
+                "permalink": "https:\/\/fcupstageai1.slack.com\/files\/U05VADPQPCL\/F06JY51KVA7\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T05UGFFGL07-F06JY51KVA7-d3698159e6",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U05VADPQPCL",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yASjP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "here",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n수강생 여러분!\n오늘 하루도 고생많으셨습니다!\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "mega",
+                                "unicode": "1f4e3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "QR 체크 ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "mega",
+                                "unicode": "1f4e3",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "출석 방법",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 1
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "정각 5분 전후로",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " QR체크 하시면 됩니다! 꼭 지켜주세요!!"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "지정 시간 외에 QR 체크 시 지각 또는 결석 ",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "으로 처리됩니다!"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 1
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "입실 QR 체크 시간 : 09:50 ~ 10:10",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "퇴실 QR 체크 시간 : 18:50 ~ 19:10",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 1
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "camera_with_flash",
+                                "unicode": "1f4f8",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "  줌 스크린샷 출석 ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "camera_with_flash",
+                                "unicode": "1f4f8",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "꼭 본인 한글 이름으로 이름 설정해주세요!!",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "스크린샷 시각",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 1
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "입실 : 10:00",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "퇴실 : 18:50~19:00",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 1
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1710496200.724649",
+        "client_msg_id": "451b7580-6e59-418a-8207-d9c6244ec47a"
+    }
+]

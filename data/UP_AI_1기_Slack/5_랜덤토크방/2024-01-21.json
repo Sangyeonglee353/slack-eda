@@ -1,0 +1,137 @@
+[
+    {
+        "text": "이번주를 끝으로 첫 번째 대회가 마무리되는데요! 다들 모델 성능을 극한까지 끌어올리기 위해 여러 가지 실험들을 잘 하고 계신가요!\n\n이전의 특강들을 통해서 말씀드렸듯, 대회를 통해서는 여러분들이 모델링을 위해 전개한 여러 가지 실험 과정과 결과를 여러분들만의 인사이트로 정리하는 것이 중요합니다.\n\n학습한 내용을 토대로 세팅한 가설을 검증하기 위한 EDA, 모델 실험 및 파인튜닝 등을 거치며 끊임없이 \"why\" 라는 질문 속에서 여러분들만의 해답을 찾는 것이 중요해요. (나중에 포트폴리오 작성하는 방법이나 기술 면접을 대비할 때에도 맞닿아 있는 물음들이고요.)\n\n순위를 내는 것도 의미있지만, 결과적으로 우리 팀의 솔루션은 무엇인지 정리해서 말할 수 있는 것, 특징과 차별점이 무엇인지  말할 수 있도록 틈틈이 정리하는 것도 잊지 않으시길 바라고,\n\n캐글의 꽃이라고 할 수 있는 공유문화!\n여러분들도 경쟁보다는 공유의 마음을 갖고 소소한 발견거리나 앞서 말씀드린 여러분들 나름대로 정리된 내용들을 공유해보면 어떨까 싶어요! 공유된 내용을 토대로 더 빠르게 실험해서 우수한 모델을 만들 수 있을 것이고요!\n\n슬쩍슬쩍 공유왕과 인사이트왕 이벤트<https:\/\/fcupstageai1.slack.com\/archives\/C05UU79AD4M\/p1705539651172889|(안내 링크)>도 함께 리마인드 해봅니다 :)\n\n:arrow_forward: <https:\/\/next.stages.ai\/competitions\/276\/discussion\/373?selectedSort=0&amp;page=1|커뮤니티 게시판 바로가기>",
+        "files": [
+            {
+                "id": "F06EFSBGG8P",
+                "created": 1705886330,
+                "timestamp": 1705886330,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U060C67EYQ5",
+                "user_team": "T05UGFFGL07",
+                "editable": false,
+                "size": 630395,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F06EFSBGG8P\/image.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F06EFSBGG8P\/download\/image.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06EFSBGG8P-d3b5dd76c3\/image_64.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06EFSBGG8P-d3b5dd76c3\/image_80.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06EFSBGG8P-d3b5dd76c3\/image_360.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_360_w": 360,
+                "thumb_360_h": 287,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06EFSBGG8P-d3b5dd76c3\/image_480.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_480_w": 480,
+                "thumb_480_h": 383,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06EFSBGG8P-d3b5dd76c3\/image_160.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06EFSBGG8P-d3b5dd76c3\/image_720.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_720_w": 720,
+                "thumb_720_h": 574,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06EFSBGG8P-d3b5dd76c3\/image_800.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_800_w": 800,
+                "thumb_800_h": 638,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06EFSBGG8P-d3b5dd76c3\/image_960.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_960_w": 960,
+                "thumb_960_h": 765,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06EFSBGG8P-d3b5dd76c3\/image_1024.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 816,
+                "original_w": 2196,
+                "original_h": 1750,
+                "thumb_tiny": "AwAmADCck5PNJz61Z8tPT9aPKT0\/Wr5kIrjPc0tT+Wvp+tHlJ6frRzICD8aB1HJqx5Sen60hRARnAz0yaOZBYfjmmk4fG7HHTFPpjH95jcB8vTHNQMM\/7X6Uo57mgfXP4U6gBKa+MjJxz6U+mscEfMBz3oGh1NIbfkYxj05p1FAhAD3xS0UUAFIc8Yx+NLRQB\/\/Z",
+                "permalink": "https:\/\/fcupstageai1.slack.com\/files\/U060C67EYQ5\/F06EFSBGG8P\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T05UGFFGL07-F06EFSBGG8P-bf1f1779c4",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U060C67EYQ5",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4xCw4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "이번주를 끝으로 첫 번째 대회가 마무리되는데요! 다들 모델 성능을 극한까지 끌어올리기 위해 여러 가지 실험들을 잘 하고 계신가요!\n\n이전의 특강들을 통해서 말씀드렸듯, 대회를 통해서는 여러분들이 모델링을 위해 전개한 여러 가지 실험 과정과 결과를 여러분들만의 인사이트로 정리하는 것이 중요합니다.\n\n학습한 내용을 토대로 세팅한 가설을 검증하기 위한 EDA, 모델 실험 및 파인튜닝 등을 거치며 끊임없이 \"why\" 라는 질문 속에서 여러분들만의 해답을 찾는 것이 중요해요. (나중에 포트폴리오 작성하는 방법이나 기술 면접을 대비할 때에도 맞닿아 있는 물음들이고요.)\n\n순위를 내는 것도 의미있지만, 결과적으로 우리 팀의 솔루션은 무엇인지 정리해서 말할 수 있는 것, 특징과 차별점이 무엇인지  말할 수 있도록 틈틈이 정리하는 것도 잊지 않으시길 바라고,\n\n캐글의 꽃이라고 할 수 있는 공유문화!\n여러분들도 경쟁보다는 공유의 마음을 갖고 소소한 발견거리나 앞서 말씀드린 여러분들 나름대로 정리된 내용들을 공유해보면 어떨까 싶어요! 공유된 내용을 토대로 더 빠르게 실험해서 우수한 모델을 만들 수 있을 것이고요!\n\n슬쩍슬쩍 공유왕과 인사이트왕 이벤트"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/fcupstageai1.slack.com\/archives\/C05UU79AD4M\/p1705539651172889",
+                                "text": "(안내 링크)"
+                            },
+                            {
+                                "type": "text",
+                                "text": "도 함께 리마인드 해봅니다 :)\n\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "arrow_forward",
+                                "unicode": "25b6-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/next.stages.ai\/competitions\/276\/discussion\/373?selectedSort=0&page=1",
+                                "text": "커뮤니티 게시판 바로가기"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1705891380.338709",
+        "client_msg_id": "43f9686f-9782-4176-8941-62edd12bc88e",
+        "reactions": [
+            {
+                "name": "party-blob",
+                "users": [
+                    "U0606QGQYE5",
+                    "U05VAHXECP6"
+                ],
+                "count": 2
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U05VAHXECP6"
+                ],
+                "count": 1
+            },
+            {
+                "name": "muscle",
+                "users": [
+                    "U05VAHXECP6"
+                ],
+                "count": 1
+            },
+            {
+                "name": "meow_noddies",
+                "users": [
+                    "U05VAHXECP6"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

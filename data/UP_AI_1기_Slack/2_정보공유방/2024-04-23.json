@@ -1,0 +1,739 @@
+[
+    {
+        "user": "U060C67EYQ5",
+        "type": "message",
+        "ts": "1713936352.376039",
+        "client_msg_id": "c0113ac4-e57e-4e94-ba02-f1d2d6472f25",
+        "text": "*[업스테이지] 서울대학교X업스테이지 LLM 단기 프로젝트 강의 (선착순 등록마감* :fire:*)* \n\n&gt;&gt; 신청링크: *<https:\/\/kiise.or.kr\/conference\/conf\/147\/>*\n\n수료 후 여러분들께서 LLM 복습 및 LLM 기반의 Application 개발 실습을 경험할 수 있는 강의를 소개합니다!\n\n5월 16일부터 18일까지 총 3일간, 서울대학교와 업스테이지가 함께 LLM 강의를 진행하는데요!\n이틀간 서울대학교 이광근, 김건희 교수님 그리고 업스테이지 CEO 성킴의 강의를 듣고,\n토요일 하루는 단기 프로젝트성으로 LLM Apps를 만들어보는 수업이 진행됩니다!\n\n매일 식사를 제공하며, 즐겁게 이야기하는 네트워킹 시간도 있습니다.\n\n3일 모두 참여하시는 분들은 수료증을 발급하고 있으며, 참여자에게는 Upstage Console 500 USD 크레딧을 제공합니다.\n\nSolar API 실습 경험이 있으신 여러분들께 좋은 복습 및 추가 학습의 기회가 될 수 있으니 많은 관심과 참여 부탁드립니다!\n\n----\n\n:technologist: *서울대 컴퓨터공학부 x Upstage LLM 프로젝트 단기 강의*\n&gt; *일정*\n&gt;     ◦ 2024년 5월 16일(목)~18일(토)\n&gt;  *장소*\n&gt;     ◦ 서울대학교 302동 105호\n&gt;  *주제*\n&gt;     ◦ 이광근 교수님, 김건희 교수님과 업스테이지 성킴대표의 LLM 강의를 듣고 해커톤 형식의 프로젝트를 통해 LLM Apps를 이해하고 직접 만들수 있습니다.\n&gt;  *수강대상*\n&gt;     ◦ Python이 가능하신분\n&gt;     ◦ Solar API (<https:\/\/console.upstage.ai\/>) 사용해보신 분 우대\n&gt;  *수강료\/모집인원*\n&gt;     ◦ 일반인 30만원 (총 100명)\n&gt;     ◦ 대학(원)생 및 서울대학교 소속 교직원 3만원 (총 100명)\n&gt;  *주관*\n&gt;     ◦ 서울대학교 컴퓨터공학부, 업스테이지\n&gt;  *기타안내*\n&gt;     ◦ 교육 수료 후 인증서 제공 \/ 식사 제공 \/ Upstage Console 500불 (70만원 상당) 크레딧 제공\n&gt;     ◦ 문의처 : <mailto:ai-edu@upstage.ai|ai-edu@upstage.ai>\n",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "831ed525b276",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-11-14\/6192884585138_831ed525b276222009d0_72.png",
+            "first_name": "업스테이지",
+            "real_name": "업스테이지 김의겸(Dave)",
+            "display_name": "UP 김의겸(Dave) 매니저",
+            "team": "T05UGFFGL07",
+            "name": "euigyum",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1713936352.376039",
+        "reply_count": 7,
+        "reply_users_count": 3,
+        "latest_reply": "1715159215.518829",
+        "reply_users": [
+            "U060C67EYQ5",
+            "U0600GGHJTC",
+            "U05UN5DQ423"
+        ],
+        "replies": [
+            {
+                "user": "U060C67EYQ5",
+                "ts": "1713936587.168809"
+            },
+            {
+                "user": "U0600GGHJTC",
+                "ts": "1713937995.508159"
+            },
+            {
+                "user": "U060C67EYQ5",
+                "ts": "1713939680.266579"
+            },
+            {
+                "user": "U0600GGHJTC",
+                "ts": "1713939849.089219"
+            },
+            {
+                "user": "U05UN5DQ423",
+                "ts": "1715158662.010829"
+            },
+            {
+                "user": "U060C67EYQ5",
+                "ts": "1715159148.644199"
+            },
+            {
+                "user": "U05UN5DQ423",
+                "ts": "1715159215.518829"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sXwzc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "[업스테이지] 서울대학교X업스테이지 LLM 단기 프로젝트 강의 (선착순 등록마감 ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fire",
+                                "unicode": "1f525",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ") ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n>> 신청링크: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/kiise.or.kr\/conference\/conf\/147\/",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n수료 후 여러분들께서 LLM 복습 및 LLM 기반의 Application 개발 실습을 경험할 수 있는 강의를 소개합니다!\n\n5월 16일부터 18일까지 총 3일간, 서울대학교와 업스테이지가 함께 LLM 강의를 진행하는데요!\n이틀간 서울대학교 이광근, 김건희 교수님 그리고 업스테이지 CEO 성킴의 강의를 듣고,\n토요일 하루는 단기 프로젝트성으로 LLM Apps를 만들어보는 수업이 진행됩니다!\n\n매일 식사를 제공하며, 즐겁게 이야기하는 네트워킹 시간도 있습니다.\n\n3일 모두 참여하시는 분들은 수료증을 발급하고 있으며, 참여자에게는 Upstage Console 500 USD 크레딧을 제공합니다.\n\nSolar API 실습 경험이 있으신 여러분들께 좋은 복습 및 추가 학습의 기회가 될 수 있으니 많은 관심과 참여 부탁드립니다!\n\n----\n\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "technologist",
+                                "unicode": "1f9d1-200d-1f4bb",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " 서울대 컴퓨터공학부 x Upstage LLM 프로젝트 단기 강의",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "일정",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "2024년 5월 16일(목)~18일(토)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 1
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "장소",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "서울대학교 302동 105호"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 1
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "주제",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "이광근 교수님, 김건희 교수님과 업스테이지 성킴대표의 LLM 강의를 듣고 해커톤 형식의 프로젝트를 통해 LLM Apps를 이해하고 직접 만들수 있습니다."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 1
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "수강대상",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Python이 가능하신분"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Solar API ("
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/console.upstage.ai\/"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ") 사용해보신 분 우대"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 1
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": " 수강료\/모집인원",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "일반인 30만원 (총 100명)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "대학(원)생 및 서울대학교 소속 교직원 3만원 (총 100명)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 1
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "주관",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "서울대학교 컴퓨터공학부, 업스테이지"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 1
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": " 기타안내",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "교육 수료 후 인증서 제공 \/ 식사 제공 \/ Upstage Console 500불 (70만원 상당) 크레딧 제공"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "문의처 : "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "mailto:ai-edu@upstage.ai",
+                                        "text": "ai-edu@upstage.ai"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 1
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U05VADPQPCL",
+                    "U05V2T62KUJ",
+                    "U05UN5DQ423",
+                    "U0600GGHJTC",
+                    "U060BLVQYHW",
+                    "U05VAHXECP6",
+                    "U05V5B27DK7"
+                ],
+                "count": 7
+            },
+            {
+                "name": "sparkles",
+                "users": [
+                    "U05VAHXECP6"
+                ],
+                "count": 1
+            },
+            {
+                "name": "귀여운박수",
+                "users": [
+                    "U05VAHXECP6"
+                ],
+                "count": 1
+            },
+            {
+                "name": "10_10",
+                "users": [
+                    "U05VAHXECP6"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "text": "",
+        "files": [
+            {
+                "id": "F0709CR2L5T",
+                "created": 1713936580,
+                "timestamp": 1713936580,
+                "name": "LLM 프로젝트 단기강의 포스터_fin-0422-add table.png",
+                "title": "LLM 프로젝트 단기강의 포스터_fin-0422-add table.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U060C67EYQ5",
+                "user_team": "T05UGFFGL07",
+                "editable": false,
+                "size": 428595,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F0709CR2L5T\/llm_______________________________________________________________________________fin-0422-add_table.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F0709CR2L5T\/download\/llm_______________________________________________________________________________fin-0422-add_table.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F0709CR2L5T-3197e47c86\/llm_______________________________________________________________________________fin-0422-add_table_64.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F0709CR2L5T-3197e47c86\/llm_______________________________________________________________________________fin-0422-add_table_80.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F0709CR2L5T-3197e47c86\/llm_______________________________________________________________________________fin-0422-add_table_360.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_360_w": 153,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F0709CR2L5T-3197e47c86\/llm_______________________________________________________________________________fin-0422-add_table_480.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_480_w": 203,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F0709CR2L5T-3197e47c86\/llm_______________________________________________________________________________fin-0422-add_table_160.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F0709CR2L5T-3197e47c86\/llm_______________________________________________________________________________fin-0422-add_table_720.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_720_w": 305,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F0709CR2L5T-3197e47c86\/llm_______________________________________________________________________________fin-0422-add_table_800.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1888,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F0709CR2L5T-3197e47c86\/llm_______________________________________________________________________________fin-0422-add_table_960.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_960_w": 407,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F0709CR2L5T-3197e47c86\/llm_______________________________________________________________________________fin-0422-add_table_1024.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_1024_w": 434,
+                "thumb_1024_h": 1024,
+                "original_w": 2386,
+                "original_h": 5632,
+                "thumb_tiny": "AwAwABS+rNvwRxmq8sjBz8xAz61bFUn4kbP941cBMngYlDkk81LmooPuH61JSe4CjrVOXHmN9at4yww34YqNrYFiS3U56U4tLcGFv9w\/WpKSOMIuM55p+2k3qAmBnOBS5yKKB0xUjFFFFFAH\/9k=",
+                "permalink": "https:\/\/fcupstageai1.slack.com\/files\/U060C67EYQ5\/F0709CR2L5T\/llm_______________________________________________________________________________fin-0422-add_table.png",
+                "permalink_public": "https:\/\/slack-files.com\/T05UGFFGL07-F0709CR2L5T-5d0804399f",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U060C67EYQ5",
+        "display_as_bot": false,
+        "type": "message",
+        "ts": "1713936587.168809",
+        "client_msg_id": "e183bbd9-c166-4be7-b56c-4205048041c4",
+        "thread_ts": "1713936352.376039",
+        "parent_user_id": "U060C67EYQ5"
+    },
+    {
+        "user": "U0600GGHJTC",
+        "type": "message",
+        "ts": "1713937995.508159",
+        "client_msg_id": "3a8f29a5-f6f7-449b-97eb-6d4a3e878926",
+        "text": "혹시 대학졸업한 졸업생이 해당 프로젝트 강의에 신쳥했을 경우 일반인 신청으로 들어가서 수강비용이 30만원 인건가요?",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "561da967acdc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/6000560676530_561da967acdc677d2136_72.png",
+            "first_name": "신동혁",
+            "real_name": "신동혁",
+            "display_name": "신동혁",
+            "team": "T05UGFFGL07",
+            "name": "kn7137",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1713936352.376039",
+        "parent_user_id": "U060C67EYQ5",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "C3m2A",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "혹시 대학졸업한 졸업생이 해당 프로젝트 강의에 신쳥했을 경우 일반인 신청으로 들어가서 수강비용이 30만원 인건가요?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U060C67EYQ5",
+        "type": "message",
+        "ts": "1713939680.266579",
+        "client_msg_id": "b77b9e08-6c2e-4f07-b13d-169d1ed91fec",
+        "text": "<@U0600GGHJTC> 동혁님, 혹시 학적상태가 학위취득유예(졸업유예)는 아니실까요? 졸업한 상황이라면 '일반' 으로 신청해주셔야 합니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "831ed525b276",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-11-14\/6192884585138_831ed525b276222009d0_72.png",
+            "first_name": "업스테이지",
+            "real_name": "업스테이지 김의겸(Dave)",
+            "display_name": "UP 김의겸(Dave) 매니저",
+            "team": "T05UGFFGL07",
+            "name": "euigyum",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1713936352.376039",
+        "parent_user_id": "U060C67EYQ5",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oJdi3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0600GGHJTC"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 동혁님, 혹시 학적상태가 학위취득유예(졸업유예)는 아니실까요? 졸업한 상황이라면 '일반' 으로 신청해주셔야 합니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0600GGHJTC",
+        "type": "message",
+        "ts": "1713939849.089219",
+        "client_msg_id": "91F72454-D52F-4B05-AD87-68B91DABDA1C",
+        "text": "저는 올해 2월 부로 졸업유예 신청을 하지 않고 졸업을 해버려서 그럼 일반으로 들어가겠네요! 답변 감사합니다 :)",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "561da967acdc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/6000560676530_561da967acdc677d2136_72.png",
+            "first_name": "신동혁",
+            "real_name": "신동혁",
+            "display_name": "신동혁",
+            "team": "T05UGFFGL07",
+            "name": "kn7137",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1713936352.376039",
+        "parent_user_id": "U060C67EYQ5",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oJFHt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "저는"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "올해"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 2"
+                            },
+                            {
+                                "type": "text",
+                                "text": "월"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "부로"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "졸업유예"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 신청을 "
+                            },
+                            {
+                                "type": "text",
+                                "text": "하지"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "않고"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "졸업을"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "해버려서"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "그럼"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "일반으로"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "들어가겠네요"
+                            },
+                            {
+                                "type": "text",
+                                "text": "! "
+                            },
+                            {
+                                "type": "text",
+                                "text": "답변"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "감사합니다"
+                            },
+                            {
+                                "type": "text",
+                                "text": " :)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U060C67EYQ5"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

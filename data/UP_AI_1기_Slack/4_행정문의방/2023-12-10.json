@@ -1,0 +1,181 @@
+[
+    {
+        "user": "U05UWVA90H4",
+        "type": "message",
+        "ts": "1702269515.777849",
+        "client_msg_id": "ca232a3a-fc61-4baf-8bb0-ec446df8229e",
+        "text": "<@U05UNC6FNK1> <@U05V81G5ZDY>\n안녕하세요 매니저님! LM님과 상담 후 12월 19일(화요일) 휴가 사용으로 구글폼 제출하였습니다. 확인 부탁드리겠습니다. 감사합니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "e039a582c034",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5983012631430_e039a582c03450d83dc6_72.png",
+            "first_name": "이준형",
+            "real_name": "이준형",
+            "display_name": "이준형",
+            "team": "T05UGFFGL07",
+            "name": "hewberryd8",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1702269515.777849",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1703120385.299989",
+        "reply_users": [
+            "U05UWVA90H4",
+            "U05V81G5ZDY"
+        ],
+        "replies": [
+            {
+                "user": "U05UWVA90H4",
+                "ts": "1703033954.726369"
+            },
+            {
+                "user": "U05V81G5ZDY",
+                "ts": "1703037403.985959"
+            },
+            {
+                "user": "U05UWVA90H4",
+                "ts": "1703120385.299989"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "e9TLS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05UNC6FNK1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05V81G5ZDY"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n안녕하세요 매니저님! LM님과 상담 후 12월 19일(화요일) 휴가 사용으로 구글폼 제출하였습니다. 확인 부탁드리겠습니다. 감사합니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "beach_with_umbrella",
+                "users": [
+                    "U05V81G5ZDY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05UN7M2GKZ",
+        "type": "message",
+        "ts": "1702279962.184819",
+        "client_msg_id": "4d371965-4fab-44de-b963-d17eefc6f129",
+        "text": "<@U05UNC6FNK1> <@U05V81G5ZDY>\n대상 : 학교 공인 결석계\n필요한 기간 : 10월 10일 ~ 현재 기간\n필요 서류 : 수강 증명서 및 출석 부\n이메일 : <mailto:jhh6650@naver.com|jhh6650@naver.com>\n연락처 : 01092340148\n신청합니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "g898587e4152",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/898587e41523b6c4bc631e8e0c827f5b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "장호준",
+            "real_name": "장호준",
+            "display_name": "장호준",
+            "team": "T05UGFFGL07",
+            "name": "jhh6650",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1702279962.184819",
+        "reply_count": 4,
+        "reply_users_count": 2,
+        "latest_reply": "1702283035.905699",
+        "reply_users": [
+            "U05V81G5ZDY",
+            "U05UN7M2GKZ"
+        ],
+        "replies": [
+            {
+                "user": "U05V81G5ZDY",
+                "ts": "1702282452.278019"
+            },
+            {
+                "user": "U05UN7M2GKZ",
+                "ts": "1702282901.361269"
+            },
+            {
+                "user": "U05V81G5ZDY",
+                "ts": "1702282997.319179"
+            },
+            {
+                "user": "U05UN7M2GKZ",
+                "ts": "1702283035.905699"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vbErO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05UNC6FNK1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05V81G5ZDY"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n대상 : 학교 공인 결석계\n필요한 기간 : 10월 10일 ~ 현재 기간\n필요 서류 : 수강 증명서 및 출석 부\n이메일 : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:jhh6650@naver.com",
+                                "text": "jhh6650@naver.com"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n연락처 : 01092340148\n신청합니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "U05V81G5ZDY"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

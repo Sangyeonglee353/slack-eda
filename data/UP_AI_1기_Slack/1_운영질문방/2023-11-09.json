@@ -1,0 +1,555 @@
+[
+    {
+        "user": "U05UNMQ4LP9",
+        "type": "message",
+        "ts": "1699524242.975669",
+        "client_msg_id": "a9f146c9-093d-48c9-9956-d0e8e358bbae",
+        "text": "<@U06061L4S64> 55분에 들어가자마자 캠 키려는 찰나에 꺼지더라구요. 주요공지사항의 '50분' 내용이 데일리 공지 사항에는 적혀있지 않아서 당혹스러운데 참작 가능할까요?",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "eef278e1672b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5974738227319_eef278e1672b038da8b1_72.jpg",
+            "first_name": "김윤겸",
+            "real_name": "김윤겸",
+            "display_name": "김윤겸",
+            "team": "T05UGFFGL07",
+            "name": "dbsrua110525",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1699524242.975669",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1699524342.054369",
+        "reply_users": [
+            "U06061L4S64"
+        ],
+        "replies": [
+            {
+                "user": "U06061L4S64",
+                "ts": "1699524342.054369"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zFQvc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06061L4S64"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 55분에 들어가자마자 캠 키려는 찰나에 꺼지더라구요. 주요공지사항의 '50분' 내용이 데일리 공지 사항에는 적혀있지 않아서 당혹스러운데 참작 가능할까요?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06061L4S64",
+        "type": "message",
+        "ts": "1699524342.054369",
+        "client_msg_id": "EAAAD969-D680-45D4-8591-6DC4F041164E",
+        "text": "혹시 주요공지사항 확인을 안하신걸까요? 지금 들어오세요",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "9958a6e7ea98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5988755251283_9958a6e7ea98545615ca_72.png",
+            "first_name": "LM",
+            "real_name": "LM 박진영",
+            "display_name": "LM 박진영",
+            "team": "T05UGFFGL07",
+            "name": "pjy.fc.career",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1699524242.975669",
+        "parent_user_id": "U05UNMQ4LP9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "De4iE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "혹시"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "주요공지사항"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "확인을"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "안하신걸까요"
+                            },
+                            {
+                                "type": "text",
+                                "text": "? "
+                            },
+                            {
+                                "type": "text",
+                                "text": "지금"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "들어오세요"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U05UNMQ4LP9"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05V2PMAVNE",
+        "type": "message",
+        "ts": "1699525065.144379",
+        "client_msg_id": "1D6C6C44-A7C2-47FB-A4A1-D4646F589B48",
+        "text": "<@U06061L4S64> 퇴실 QR 체크를 깜박해서 12분에 진행했습니다 :smiling_face_with_tear: 스크린샷은 찍었습니다!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "0b76558dc601",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5991261451140_0b76558dc60118dba6df_72.png",
+            "first_name": "윤수인",
+            "real_name": "윤수인",
+            "display_name": "",
+            "team": "T05UGFFGL07",
+            "name": "dbsdev98",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fz+TD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06061L4S64"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 퇴실 QR "
+                            },
+                            {
+                                "type": "text",
+                                "text": "체크를"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "깜박해서"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 12"
+                            },
+                            {
+                                "type": "text",
+                                "text": "분에"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "진행했습니다"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smiling_face_with_tear",
+                                "unicode": "1f972"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "스크린샷은"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "찍었습니다"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U06061L4S64"
+                ],
+                "count": 1
+            },
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U06061L4S64"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05UVV5CVQE",
+        "type": "message",
+        "ts": "1699533391.668849",
+        "client_msg_id": "F50ADDDC-8132-403A-90BA-69BACDA0AA3B",
+        "text": "<@U06061L4S64> 저도 퇴실 QR 체크를 7시 12분에 진행해버렸습니다 ㅜㅜ :smiling_face_with_tear:스크린샷은 찍었는데 확인 한 번만 부탁드리겠습니다 ㅠ",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "30ac2d3237e9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5988633954770_30ac2d3237e9b742adc2_72.jpg",
+            "first_name": "장은혁",
+            "real_name": "장은혁",
+            "display_name": "장은혁",
+            "team": "T05UGFFGL07",
+            "name": "jaydenhyuk830",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dJaq8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06061L4S64"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "저도"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "퇴실"
+                            },
+                            {
+                                "type": "text",
+                                "text": " QR "
+                            },
+                            {
+                                "type": "text",
+                                "text": "체크를"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 7"
+                            },
+                            {
+                                "type": "text",
+                                "text": "시"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 12"
+                            },
+                            {
+                                "type": "text",
+                                "text": "분에"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "진행해버렸습니다"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ㅜㅜ "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smiling_face_with_tear",
+                                "unicode": "1f972"
+                            },
+                            {
+                                "type": "text",
+                                "text": "스크린샷은 "
+                            },
+                            {
+                                "type": "text",
+                                "text": "찍었는데"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "확인"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "한"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "번만"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "부탁드리겠습니다"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ㅠ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U060J3NGX08",
+        "type": "message",
+        "ts": "1699579576.996389",
+        "client_msg_id": "f9d7b3f4-d838-4f4e-98c8-ab0f4554e771",
+        "text": "프로젝트 2차 아이데이션은 양식 없이 작성하면 되는 건가요?",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "gbc825ac18ac",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/bc825ac18ac18fdb67a86751711cbdba.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "조서영",
+            "real_name": "조서영",
+            "display_name": "조서영",
+            "team": "T05UGFFGL07",
+            "name": "pink495sy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1699579576.996389",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1699579678.956329",
+        "reply_users": [
+            "U06061L4S64"
+        ],
+        "replies": [
+            {
+                "user": "U06061L4S64",
+                "ts": "1699579678.956329"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+JMxW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "프로젝트 2차 아이데이션은 양식 없이 작성하면 되는 건가요?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06061L4S64",
+        "type": "message",
+        "ts": "1699579678.956329",
+        "client_msg_id": "3507b707-1a4e-44aa-9091-98ff2b07c00e",
+        "text": "서영님 2차 작성일은\n11월 13일(월) 입니다.\n작성일 전에 양식 업데이트 될거에요!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "9958a6e7ea98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5988755251283_9958a6e7ea98545615ca_72.png",
+            "first_name": "LM",
+            "real_name": "LM 박진영",
+            "display_name": "LM 박진영",
+            "team": "T05UGFFGL07",
+            "name": "pjy.fc.career",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1699579576.996389",
+        "parent_user_id": "U060J3NGX08",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8Odws",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "서영님 2차 작성일은\n11월 13일(월) 입니다.\n작성일 전에 양식 업데이트 될거에요!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U060J3NGX08"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U060TBSJ7DF",
+        "type": "message",
+        "ts": "1699590923.093969",
+        "client_msg_id": "8b06ca1d-fd9f-4123-8058-b9300f14664b",
+        "text": "<@U06061L4S64> 입실 QR 체크를 깜박하고 진행하지 못했습니다.. 오전 스크린셧은 찍었습니다.. 지금이라도 QR찍어도 괜찮을까요?",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "c265f80d1cf6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-10\/6000233533575_c265f80d1cf6a20e4d32_72.jpg",
+            "first_name": "조성운",
+            "real_name": "조성운",
+            "display_name": "",
+            "team": "T05UGFFGL07",
+            "name": "jodory9524",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "c1A03",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06061L4S64"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 입실 QR 체크를 깜박하고 진행하지 못했습니다.. 오전 스크린셧은 찍었습니다.. 지금이라도 QR찍어도 괜찮을까요?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U06061L4S64"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

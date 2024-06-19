@@ -1,0 +1,320 @@
+[
+    {
+        "user": "U05VADPQPCL",
+        "type": "message",
+        "ts": "1711345958.833379",
+        "client_msg_id": "24c515a5-c996-4854-9865-af840b0b69ac",
+        "text": "<@U05V5B27DK7> <@U05UUUNAE5D>  <@U05VC7EEY5Q> <@U0600BP2J9H> <@U05VB9FA6MS> <@U05V0106JDT> <@U060LG0BT89> <@U0606HAGLTB> <@U05V4KZR3NW> <@U05V9LP47V0> <@U0600PYS0G3> <@U05V2P37518> <@U060BLVQYHW> <@U05VCCSHKHR> <@U0600GGHJTC> <@U05V379NETU> <@U05VBQMH3D3> <@U05V2PMAVNE> <@U05V1KVNK0E> <@U05UN6NTN8P> <@U05VAU596PP> <@U0606QGQYE5> <@U05UW1S4KQE> <@U05UWVA90H4> <@U05V2GDNNLT> <@U05UVV5CVQE> <@U05V7V2AV8A> <@U05UN7M2GKZ> <@U05V5B88ULD> <@U060J3NGX08> <@U05V7H78DUM> <@U061N4T7L8G>\nFast-Up Report (개인 보고서) 제출 부탁 드립니다.\n기한은 연장해서 내일 오후 13시까지 제출 부탁 드리겠습니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "07e7ca00b8f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5991092857253_07e7ca00b8f0d0b13ba1_72.png",
+            "first_name": "패스트캠퍼스박기준",
+            "real_name": "패스트캠퍼스박기준",
+            "display_name": "LM 박기준",
+            "team": "T05UGFFGL07",
+            "name": "pgj.fc.career",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1710738332.374049",
+        "parent_user_id": "U05VADPQPCL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wUV+R",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05V5B27DK7"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05UUUNAE5D"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05VC7EEY5Q"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0600BP2J9H"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05VB9FA6MS"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05V0106JDT"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U060LG0BT89"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0606HAGLTB"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05V4KZR3NW"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05V9LP47V0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0600PYS0G3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05V2P37518"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U060BLVQYHW"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05VCCSHKHR"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0600GGHJTC"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05V379NETU"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05VBQMH3D3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05V2PMAVNE"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05V1KVNK0E"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05UN6NTN8P"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05VAU596PP"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0606QGQYE5"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05UW1S4KQE"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05UWVA90H4"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05V2GDNNLT"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05UVV5CVQE"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05V7V2AV8A"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05UN7M2GKZ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05V5B88ULD"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U060J3NGX08"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05V7H78DUM"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U061N4T7L8G"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nFast-Up Report (개인 보고서) 제출 부탁 드립니다.\n기한은 연장해서 내일 오후 13시까지 제출 부탁 드리겠습니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "대답",
+                "users": [
+                    "U05V5B27DK7",
+                    "U05V379NETU",
+                    "U0600GGHJTC",
+                    "U05V2PMAVNE",
+                    "U05VB9FA6MS",
+                    "U05UW1S4KQE",
+                    "U05V4KZR3NW",
+                    "U05VCCSHKHR",
+                    "U05UVV5CVQE",
+                    "U05V9LP47V0"
+                ],
+                "count": 10
+            },
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U05UVV5CVQE",
+                    "U0600GGHJTC"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

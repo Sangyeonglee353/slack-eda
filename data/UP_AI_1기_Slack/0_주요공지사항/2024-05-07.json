@@ -1,0 +1,251 @@
+[
+    {
+        "user": "U05VAHXECP6",
+        "type": "message",
+        "ts": "1715072133.766279",
+        "client_msg_id": "b47c54dd-89de-463a-99cd-ee2a7df49f95",
+        "text": "<@U05V4KZR3NW> 안녕하세요. 영진님!\n주말에 문의주셔서, 제가 놓치고 있었네요.\n\n네. 현재 신청은 마감되었고, 신청하신 분들은 국문\/영문 2가지 버전으로 발급이 진행됩니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "50abee101814",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-11\/6044824153712_50abee1018149e21919b_72.jpg",
+            "first_name": "이상영",
+            "real_name": "이상영",
+            "display_name": "FC 이상영 매니저",
+            "team": "T05UGFFGL07",
+            "name": "sangyeong.lee",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1714698000.271799",
+        "parent_user_id": "U05VAHXECP6",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "O36ep",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05V4KZR3NW"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 안녕하세요. 영진님!\n주말에 문의주셔서, 제가 놓치고 있었네요.\n\n네. 현재 신청은 마감되었고, 신청하신 분들은 국문\/영문 2가지 버전으로 발급이 진행됩니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "thread_broadcast",
+        "user": "U05VADPQPCL",
+        "thread_ts": "1712640305.347349",
+        "root": {
+            "user": "U05VADPQPCL",
+            "type": "message",
+            "ts": "1712640305.347349",
+            "client_msg_id": "5856e90b-cd86-4bf4-aa6a-450ae7d44821",
+            "text": "<!channel>\n*프로젝트 &amp; 경진대회 팀 별 발표 자료 취합 링크 공유*\n\n안녕하세요 Upstage AI Lab 1기 여러분!!\n이전에 공유 드렸던 발표 자료에 더해 NLP 경진대회까지 팀 별 발표 자료 업로드 하였으니 참고하시길 바랍니다!\n\n&gt; *팀 별 발표 자료 링크*\n• <https:\/\/drive.google.com\/drive\/folders\/1rQjbCcnS0r8hMtjfBA53Yu8CDHtGBXcP?usp=sharing|Python EDA 프로젝트 팀 별 발표자료 드라이브 (수강생 공유 드라이브)>\n• <https:\/\/drive.google.com\/drive\/folders\/1f6pVlqCtACWaBxPbKIR-sX3awI5lUueZ?usp=sharing|ML 프로젝트 팀 별 발표자료 드라이브 (수강생 공유 드라이브)>\n• <https:\/\/drive.google.com\/drive\/folders\/1MG3PvWVjKkUiSCkwu-mveKJsAzFLo977?usp=sharing|ML 경진대회 팀 별 발표자료 드라이브 (수강생 공유 드라이브)>\n• <https:\/\/drive.google.com\/drive\/folders\/1pb4qWNjl3Ih6K1QVw0614WNzvQemmtaO?usp=sharing|CV 경진대회 팀 별 발표자료 드라이브 (수강생 공유 드라이브)>\n• <https:\/\/drive.google.com\/drive\/folders\/1bUrr2bzY0Bq6SiBMUWIgGH8BcuUUAMFU?usp=sharing|NLP 경진대회 팀 별 발표자료 드라이브 (수강생 공유 드라이브)>\n",
+            "team": "T05UGFFGL07",
+            "thread_ts": "1712640305.347349",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1715150349.929899",
+            "reply_users": [
+                "U05VADPQPCL"
+            ],
+            "replies": [
+                {
+                    "user": "U05VADPQPCL",
+                    "ts": "1715150349.929899"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false,
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "xo8zz",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "broadcast",
+                                    "range": "channel"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "프로젝트 & 경진대회 팀 별 발표 자료 취합 링크 공유",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n\n안녕하세요 Upstage AI Lab 1기 여러분!!\n이전에 공유 드렸던 발표 자료에 더해 NLP 경진대회까지 팀 별 발표 자료 업로드 하였으니 참고하시길 바랍니다!\n\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_quote",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "팀 별 발표 자료 링크",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "link",
+                                            "url": "https:\/\/drive.google.com\/drive\/folders\/1rQjbCcnS0r8hMtjfBA53Yu8CDHtGBXcP?usp=sharing",
+                                            "text": "Python EDA 프로젝트 팀 별 발표자료 드라이브 (수강생 공유 드라이브)"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "link",
+                                            "url": "https:\/\/drive.google.com\/drive\/folders\/1f6pVlqCtACWaBxPbKIR-sX3awI5lUueZ?usp=sharing",
+                                            "text": "ML 프로젝트 팀 별 발표자료 드라이브 (수강생 공유 드라이브)"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "link",
+                                            "url": "https:\/\/drive.google.com\/drive\/folders\/1MG3PvWVjKkUiSCkwu-mveKJsAzFLo977?usp=sharing",
+                                            "text": "ML 경진대회 팀 별 발표자료 드라이브 (수강생 공유 드라이브)"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "link",
+                                            "url": "https:\/\/drive.google.com\/drive\/folders\/1pb4qWNjl3Ih6K1QVw0614WNzvQemmtaO?usp=sharing",
+                                            "text": "CV 경진대회 팀 별 발표자료 드라이브 (수강생 공유 드라이브)"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "link",
+                                            "url": "https:\/\/drive.google.com\/drive\/folders\/1bUrr2bzY0Bq6SiBMUWIgGH8BcuUUAMFU?usp=sharing",
+                                            "text": "NLP 경진대회 팀 별 발표자료 드라이브 (수강생 공유 드라이브)"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": []
+                        }
+                    ]
+                }
+            ]
+        },
+        "type": "message",
+        "ts": "1715150349.929899",
+        "client_msg_id": "5a84231a-6ff7-436f-ac78-7865a1285b43",
+        "text": "추가적으로 마지막 경진대회 발표 자료까지 공유 드립니다.\n• <https:\/\/drive.google.com\/drive\/folders\/173Sd4ueI7yD1484j2wxWcGE5CmfLVB6d?usp=sharing|AI 실전 학습 경진대회 팀 별 발표자료 드라이브 (수강생 공유 드라이브)>\n    ◦ <https:\/\/junnei.notion.site\/Advanced-RAG-with-Reranker-d49b6d29907f4f18985aa2691b332f9a|AI 실전 학습 경진대회 발표자료 - IR 4조>",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VSPpv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "추가적으로 마지막 경진대회 발표 자료까지 공유 드립니다.\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/drive.google.com\/drive\/folders\/173Sd4ueI7yD1484j2wxWcGE5CmfLVB6d?usp=sharing",
+                                        "text": "AI 실전 학습 경진대회 팀 별 발표자료 드라이브 (수강생 공유 드라이브)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/junnei.notion.site\/Advanced-RAG-with-Reranker-d49b6d29907f4f18985aa2691b332f9a",
+                                        "text": "AI 실전 학습 경진대회 발표자료 - IR 4조"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U05V9N22ZUK",
+                    "U065TBUL5EE",
+                    "U05V4KZR3NW",
+                    "U05VC7EEY5Q",
+                    "U0600GGHJTC",
+                    "U05V9LP47V0"
+                ],
+                "count": 6
+            }
+        ]
+    }
+]

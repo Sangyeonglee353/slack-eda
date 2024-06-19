@@ -1,0 +1,18 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U065TBUL5EE",
+        "text": "<@U065TBUL5EE> 님이 채널에 참여함",
+        "inviter": "U06061L4S64",
+        "type": "message",
+        "ts": "1700032256.321849"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U05VAHXECP6",
+        "text": "<@U05VAHXECP6> 님이 채널에 참여함",
+        "inviter": "U06061L4S64",
+        "type": "message",
+        "ts": "1700032266.069259"
+    }
+]

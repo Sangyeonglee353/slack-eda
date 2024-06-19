@@ -1,0 +1,494 @@
+[
+    {
+        "subtype": "thread_broadcast",
+        "user": "U05VADPQPCL",
+        "thread_ts": "1709184075.598409",
+        "root": {
+            "user": "U060C67EYQ5",
+            "type": "message",
+            "ts": "1709184075.598409",
+            "client_msg_id": "426397ae-91ec-4b12-958a-6fa7b0d06fbe",
+            "text": "<!channel>\n안녕하세요, Upstage AI Lab 수강생 여러분!\nNLP 모듈 학습은 열심히 하고 계신지요 :)\n\nMixtral, Sora, Gemma에 이어 저커버그의 한국 방문으로 주목받는 LLaMA까지. 다시 한 번 *LLM에 대한 관심*이 높아지고 있습니다.\n\n빠르게 질주하는 LLM 열차에 확실히 탑승, 최신 트렌드에 대한 이해도를 높임으로써 여러분들의 경쟁력을 한층 끌어올리기 위해 업스테이지의 개발자 분들을 모셔서 *3월 특강*을 준비하게 되었습니다.\n\n각광받는 LLM 기술의 연구와 모델 개발의 가장 최전선에 있는 강사님들로부터 LLM의 기본적인 개념과 원리를 이해하고, 실제 LLM 모델링과 성능 향상을 위한 세부 기술 방법론, 그리고 API 활용한 실습까지 경험하실 수 있습니다.\n\n&gt; • 주제: *Overview of Large Language Models*\n&gt;     ◦ 일정: 2024. 3. 7. 목요일 18:00 ~ 20:00\n&gt;     ◦ 강사: 김윤기 강사님\n&gt; • 주제: *LLM Fine-tuning 알아보기*\n&gt;     ◦ 일정: 2024. 3. 12. 화요일 18:00 ~ 20:00\n&gt;     ◦ 강사: 김다현 강사님\n&gt; • 주제: *Solar API를 활용한 합성데이터 제작 실습*\n&gt;     ◦ 일정: 2024. 3. 25. 월요일 18:00 ~ 20:00\n&gt;     ◦ 강사: 김윤기 강사님\n특별히 GPT-3.5, LlaMa2, QWEN, Mixtral 등을 모두 제치고 세계 1위의 성능을 냈던 업스테이지 LLM 모델, *Solar(솔라)*를 직접 사용해보는 실습을 준비했는데요.\nSolar API를 활용하여 LLM 기술력의 핵심이 되는 *합성 데이터*를 직접 제작해보는 실습을 핸즈온으로 진행할 예정입니다.\n\n원활한 참여를 위해 미리 아래 링크의 Upstage Console 가입하셔서 Solar API 실습을 준비해보시기 바랍니다!\n\n:arrow_right: 링크: <https:\/\/go.upstage.ai\/solar_obt_fc>",
+            "team": "T05UGFFGL07",
+            "thread_ts": "1709184075.598409",
+            "reply_count": 6,
+            "reply_users_count": 4,
+            "latest_reply": "1711502202.220899",
+            "reply_users": [
+                "U060C67EYQ5",
+                "U05VAHXECP6",
+                "U05VADPQPCL",
+                "U05VBQMH3D3"
+            ],
+            "replies": [
+                {
+                    "user": "U060C67EYQ5",
+                    "ts": "1709184431.478009"
+                },
+                {
+                    "user": "U05VAHXECP6",
+                    "ts": "1710130641.626329"
+                },
+                {
+                    "user": "U05VADPQPCL",
+                    "ts": "1710319225.422679"
+                },
+                {
+                    "user": "U05VADPQPCL",
+                    "ts": "1711425815.037799"
+                },
+                {
+                    "user": "U05VBQMH3D3",
+                    "ts": "1711426129.460639"
+                },
+                {
+                    "user": "U060C67EYQ5",
+                    "ts": "1711502202.220899"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": true,
+            "last_read": "1711502202.220899",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "+22g+",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "broadcast",
+                                    "range": "channel"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n안녕하세요, Upstage AI Lab 수강생 여러분!\nNLP 모듈 학습은 열심히 하고 계신지요 :)\n\nMixtral, Sora, Gemma에 이어 저커버그의 한국 방문으로 주목받는 LLaMA까지. 다시 한 번 "
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "LLM에 대한 관심",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "이 높아지고 있습니다.\n\n빠르게 질주하는 LLM 열차에 확실히 탑승, 최신 트렌드에 대한 이해도를 높임으로써 여러분들의 경쟁력을 한층 끌어올리기 위해 업스테이지의 개발자 분들을 모셔서"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " 3월 특강",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "을 준비하게 되었습니다.\n\n각광받는 LLM 기술의 연구와 모델 개발의 가장 최전선에 있는 강사님들로부터 LLM의 기본적인 개념과 원리를 이해하고, 실제 LLM 모델링과 성능 향상을 위한 세부 기술 방법론, 그리고 API 활용한 실습까지 경험하실 수 있습니다.\n\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "주제: "
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "Overview of Large Language Models",
+                                            "style": {
+                                                "bold": true
+                                            }
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 1
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "일정: 2024. 3. 7. 목요일 18:00 ~ 20:00"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "강사: 김윤기 강사님"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 1,
+                            "border": 1
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "주제:"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " LLM Fine-tuning 알아보기",
+                                            "style": {
+                                                "bold": true
+                                            }
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 1
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "일정: 2024. 3. 12. 화요일 18:00 ~ 20:00"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "강사: 김다현 강사님"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 1,
+                            "border": 1
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "주제: "
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "Solar API를 활용한 합성데이터 제작 실습",
+                                            "style": {
+                                                "bold": true
+                                            }
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 1
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "일정: 2024. 3. 25. 월요일 18:00 ~ 20:00"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "강사: 김윤기 강사님"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 1,
+                            "border": 1
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\n특별히 GPT-3.5, LlaMa2, QWEN, Mixtral 등을 모두 제치고 세계 1위의 성능을 냈던 업스테이지 LLM 모델,"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " Solar(솔라)",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "를 직접 사용해보는 실습을 준비했는데요.\nSolar API를 활용하여 LLM 기술력의 핵심이 되는 "
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "합성 데이터",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "를 직접 제작해보는 실습을 핸즈온으로 진행할 예정입니다.\n\n원활한 참여를 위해 미리 아래 링크의 Upstage Console 가입하셔서 Solar API 실습을 준비해보시기 바랍니다!\n\n"
+                                },
+                                {
+                                    "type": "emoji",
+                                    "name": "arrow_right",
+                                    "unicode": "27a1-fe0f"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " 링크: "
+                                },
+                                {
+                                    "type": "link",
+                                    "url": "https:\/\/go.upstage.ai\/solar_obt_fc"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "type": "message",
+        "ts": "1710319225.422679",
+        "client_msg_id": "d714c141-2925-46ea-b0c5-9ada64492e90",
+        "text": "안녕하세요. Upstage AI Lab 1기 수강생 여러분!\n지난 김윤기 강사님의 현직자 특강에 이어 어제 진행한 김다현 강사님의 LLM Fine-tuning 알아보기 특강 녹화본도 공유해드립니다.\n다시 한 번 보시면서 어려웠던 부분들 복습하시면 좋을 것 같습니다.\n\n해당 영상은 현재 이 과정을 수강하고 계신 여러분들만 보실 수 있으며,\n*외부 유출은 절대 삼가 해주시길 요청 드립니다.*\n\n녹화본 공유 기간은 아래와 같이 명시해두었으니 참고하시기 바랍니다.\n\n&gt; *2차 LLM 현직자 특강 녹화본 | 공유 안내*  :desktop_computer:\n• 특강 주제: *LLM Fine-tuning 알아보기*\n    ◦ 일정: 2024. 3. 12. 화요일 18:00 ~ 20:00\n    ◦ 강사: 김다현 강사님\n• 녹화본 공유 기간: ~ 2024. 3. 29(목) 19:00\n• *<https:\/\/drive.google.com\/file\/d\/1L3qlb2b7cJPpW99nJGshvdIE4puiEFkn\/view?usp=sharing|녹화본 링크>*\n• 녹화본 공유 링크는 각 수강생 Gmail로도 발송 되었습니다.\n이외에도 궁금하신 사안 있으시면  <#C0606642LHW|1_운영질문방> 에 질문 부탁 드립니다 :pray:",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Y8Zix",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "안녕하세요. Upstage AI Lab 1기 수강생 여러분!\n지난 김윤기 강사님의 현직자 특강에 이어 어제 진행한 김다현 강사님의 LLM Fine-tuning 알아보기 특강 녹화본도 공유해드립니다.\n다시 한 번 보시면서 어려웠던 부분들 복습하시면 좋을 것 같습니다.\n\n해당 영상은 현재 이 과정을 수강하고 계신 여러분들만 보실 수 있으며,\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "외부 유출은 절대 삼가 해주시길 요청 드립니다.",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n녹화본 공유 기간은 아래와 같이 명시해두었으니 참고하시기 바랍니다.\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "2차 LLM 현직자 특강 녹화본 | 공유 안내  ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "desktop_computer",
+                                "unicode": "1f5a5-fe0f",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "특강 주제: "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "LLM Fine-tuning 알아보기",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "일정: 2024. 3. 12. 화요일 18:00 ~ 20:00"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "강사: 김다현 강사님"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "녹화본 공유 기간: ~ 2024. 3. 29(목) 19:00"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/drive.google.com\/file\/d\/1L3qlb2b7cJPpW99nJGshvdIE4puiEFkn\/view?usp=sharing",
+                                        "text": "녹화본 링크",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "녹화본 공유 링크는 각 수강생 Gmail로도 발송 되었습니다."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n이외에도 궁금하신 사안 있으시면  "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C0606642LHW"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 에 질문 부탁 드립니다 "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "party-blob",
+                "users": [
+                    "U060C67EYQ5",
+                    "U05V5H1T24V",
+                    "U05VBQMH3D3",
+                    "U05UN6NTN8P",
+                    "U05UVE9DFSB",
+                    "U05V2T62KUJ"
+                ],
+                "count": 6
+            },
+            {
+                "name": "eyes",
+                "users": [
+                    "U05V9N22ZUK",
+                    "U060C67EYQ5"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

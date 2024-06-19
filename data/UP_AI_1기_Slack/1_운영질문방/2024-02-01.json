@@ -1,0 +1,314 @@
+[
+    {
+        "user": "U05V9LP47V0",
+        "type": "message",
+        "ts": "1706857267.848209",
+        "client_msg_id": "4f2201e9-085a-4202-98ca-26a64955524b",
+        "text": "Fastcampus 온라인 강의를 볼 수 없습니다. 저만 않되는건가요?",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "54d9ef7119e7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-06\/5993912366662_54d9ef7119e784b29212_72.jpg",
+            "first_name": "문정의",
+            "real_name": "문정의",
+            "display_name": "문정의",
+            "team": "T05UGFFGL07",
+            "name": "axa301",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1706857267.848209",
+        "reply_count": 5,
+        "reply_users_count": 3,
+        "latest_reply": "1706857933.527959",
+        "reply_users": [
+            "U05V561TXUL",
+            "U05VAHXECP6",
+            "U05V9LP47V0"
+        ],
+        "replies": [
+            {
+                "user": "U05V561TXUL",
+                "ts": "1706857299.496009"
+            },
+            {
+                "user": "U05VAHXECP6",
+                "ts": "1706857351.345769"
+            },
+            {
+                "user": "U05V9LP47V0",
+                "ts": "1706857755.551489"
+            },
+            {
+                "user": "U05V561TXUL",
+                "ts": "1706857803.970039"
+            },
+            {
+                "user": "U05VAHXECP6",
+                "ts": "1706857933.527959"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1706857933.527959",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AYbms",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Fastcampus 온라인 강의를 볼 수 없습니다. 저만 않되는건가요?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U05VAHXECP6"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05V561TXUL",
+        "type": "message",
+        "ts": "1706857299.496009",
+        "client_msg_id": "ad761f9a-aa3d-44c0-ae62-ca164c03f8c1",
+        "text": "저도 갑자기 안되네요",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "b4604568d88f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-08\/6448187852305_b4604568d88f0ae3e9b1_72.png",
+            "first_name": "최장원",
+            "real_name": "최장원",
+            "display_name": "",
+            "team": "T05UGFFGL07",
+            "name": "cjw7378",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1706857267.848209",
+        "parent_user_id": "U05V9LP47V0",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5EAZA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "저도 갑자기 안되네요"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05VAHXECP6",
+        "type": "message",
+        "ts": "1706857351.345769",
+        "client_msg_id": "e14c2598-c7c1-4ee0-99db-8a63124cc64d",
+        "text": "바로 확인해보겠습니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "50abee101814",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-11\/6044824153712_50abee1018149e21919b_72.jpg",
+            "first_name": "이상영",
+            "real_name": "이상영",
+            "display_name": "FC 이상영 매니저",
+            "team": "T05UGFFGL07",
+            "name": "sangyeong.lee",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1706857267.848209",
+        "parent_user_id": "U05V9LP47V0",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "r\/baF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "바로 확인해보겠습니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U05V9LP47V0",
+                    "U05V561TXUL"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U05V9LP47V0",
+        "type": "message",
+        "ts": "1706857755.551489",
+        "client_msg_id": "da9f5185-52e7-4132-b23e-66a327e33543",
+        "text": "정상 학습가능합니다. 감사합니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "54d9ef7119e7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-06\/5993912366662_54d9ef7119e784b29212_72.jpg",
+            "first_name": "문정의",
+            "real_name": "문정의",
+            "display_name": "문정의",
+            "team": "T05UGFFGL07",
+            "name": "axa301",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1706857267.848209",
+        "parent_user_id": "U05V9LP47V0",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2JJvW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "정상 학습가능합니다. 감사합니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05V561TXUL",
+        "type": "message",
+        "ts": "1706857803.970039",
+        "client_msg_id": "5c644f27-f180-4ab9-bdd0-2f58f73b214d",
+        "text": "다시 잘 됩니다!!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "b4604568d88f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-08\/6448187852305_b4604568d88f0ae3e9b1_72.png",
+            "first_name": "최장원",
+            "real_name": "최장원",
+            "display_name": "",
+            "team": "T05UGFFGL07",
+            "name": "cjw7378",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1706857267.848209",
+        "parent_user_id": "U05V9LP47V0",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Vd2Y5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "다시 잘 됩니다!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05VAHXECP6",
+        "type": "message",
+        "ts": "1706857933.527959",
+        "client_msg_id": "2327da10-1def-4ec4-b716-a411b07f71c1",
+        "text": "현재 복구 완료되었습니다. 추후에도 문제가 발생하시면 말씀 부탁 드려요.\n감사합니다. :pray:",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "50abee101814",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-11\/6044824153712_50abee1018149e21919b_72.jpg",
+            "first_name": "이상영",
+            "real_name": "이상영",
+            "display_name": "FC 이상영 매니저",
+            "team": "T05UGFFGL07",
+            "name": "sangyeong.lee",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1706857267.848209",
+        "parent_user_id": "U05V9LP47V0",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Y7LRQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "현재 복구 완료되었습니다. 추후에도 문제가 발생하시면 말씀 부탁 드려요.\n감사합니다. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "grinning",
+                "users": [
+                    "U05V9LP47V0"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U05V561TXUL"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

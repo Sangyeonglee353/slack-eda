@@ -1,0 +1,76 @@
+[
+    {
+        "user": "U05V379NETU",
+        "type": "message",
+        "ts": "1713845759.993609",
+        "client_msg_id": "5118fc2d-f2d0-443e-aa6f-3db8ad8b99be",
+        "text": "<@U05UNC6FNK1> <@U05V81G5ZDY>\n안녕하세요 매니저님! 예비군(기본훈련 1차) 훈련 일정 미리 공유드립니다.\n신주용 \/ 2024.04.24 \/ (기본훈련 1차) 훈련 예정입니다.\n관련 서류는 훈련 끝나고 구글폼으로 제출하겠습니다. 감사합니다!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "ffacc530c1ba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/6012256954656_ffacc530c1baefd9bc1c_72.jpg",
+            "first_name": "신주용",
+            "real_name": "신주용",
+            "display_name": "신주용",
+            "team": "T05UGFFGL07",
+            "name": "robotshin1608",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1713845759.993609",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1714035002.815799",
+        "reply_users": [
+            "U05V81G5ZDY"
+        ],
+        "replies": [
+            {
+                "user": "U05V81G5ZDY",
+                "ts": "1714035002.815799"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IA6Wo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05UNC6FNK1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05V81G5ZDY"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n안녕하세요 매니저님! 예비군(기본훈련 1차) 훈련 일정 미리 공유드립니다.\n신주용 \/ 2024.04.24 \/ (기본훈련 1차) 훈련 예정입니다.\n관련 서류는 훈련 끝나고 구글폼으로 제출하겠습니다. 감사합니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "military_helmet",
+                "users": [
+                    "U05V81G5ZDY"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

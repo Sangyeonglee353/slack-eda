@@ -1,0 +1,645 @@
+[
+    {
+        "user": "U05V379NETU",
+        "type": "message",
+        "ts": "1699436365.748679",
+        "client_msg_id": "78327a72-ebe5-4721-9fb5-2210b76c203b",
+        "text": "• *스터디그룹 번호 :* 11조\n•  *강의명 :* 한 번에 끝내는 컴퓨터비전 초격차 패키지 Online\n•  *강의 URL :* <https:\/\/fastcampus.co.kr\/data_online_cptvsn>\n•  *사유 :* 컴퓨터 비전 분야 스터디를 통해 팀원분들과 정규과정 예습을 하려합니다!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "ffacc530c1ba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/6012256954656_ffacc530c1baefd9bc1c_72.jpg",
+            "first_name": "신주용",
+            "real_name": "신주용",
+            "display_name": "신주용",
+            "team": "T05UGFFGL07",
+            "name": "robotshin1608",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/storage.googleapis.com\/static.fastcampus.co.kr\/prod\/uploads\/202203\/205743-199\/light-active-thumb.png",
+                "image_width": 900,
+                "image_height": 472,
+                "image_bytes": 376286,
+                "from_url": "https:\/\/fastcampus.co.kr\/data_online_cptvsn",
+                "id": 1,
+                "original_url": "https:\/\/fastcampus.co.kr\/data_online_cptvsn",
+                "fallback": "한 번에 끝내는 컴퓨터비전 초격차 패키지 Online. | 패스트캠퍼스",
+                "text": "이미지\/영상처리 100개부터 메디컬, 자율주행, 정보보안 등 컴퓨터비전 응용분야 실습까지!",
+                "title": "한 번에 끝내는 컴퓨터비전 초격차 패키지 Online. | 패스트캠퍼스",
+                "title_link": "https:\/\/fastcampus.co.kr\/data_online_cptvsn",
+                "service_name": "fastcampus.co.kr"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CsOp8",
+                "elements": [
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "스터디그룹 번호 :",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " 11조"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "강의명 : ",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "한 번에 끝내는 컴퓨터비전 초격차 패키지 Online"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "강의 URL : ",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/fastcampus.co.kr\/data_online_cptvsn"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "사유 :",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " 컴퓨터 비전 분야 스터디를 통해 팀원분들과 정규과정 예습을 하려합니다!"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "입과_완료",
+                "users": [
+                    "U05VAHXECP6"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "subtype": "tombstone",
+        "text": "This message was deleted.",
+        "user": "USLACKBOT",
+        "hidden": true,
+        "type": "message",
+        "ts": "1699437152.091489",
+        "thread_ts": "1699437152.091489",
+        "parent_user_id": "USLACKBOT",
+        "reply_count": 4,
+        "reply_users_count": 2,
+        "latest_reply": "1699494585.563789",
+        "reply_users": [
+            "U05VAHXECP6",
+            "U05UN7M2GKZ"
+        ],
+        "replies": [
+            {
+                "user": "U05VAHXECP6",
+                "ts": "1699494515.355299"
+            },
+            {
+                "user": "U05UN7M2GKZ",
+                "ts": "1699494557.582499"
+            },
+            {
+                "user": "U05VAHXECP6",
+                "ts": "1699494572.157129"
+            },
+            {
+                "user": "U05UN7M2GKZ",
+                "ts": "1699494585.563789"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1699494585.563789"
+    },
+    {
+        "user": "U05UN7M2GKZ",
+        "type": "message",
+        "ts": "1699437174.082809",
+        "client_msg_id": "530fe167-c764-4b54-9c1f-a2c9085d9aac",
+        "text": "• *스터디그룹 번호 :* 09조\n• *강의명*: *<https:\/\/fastcampus.co.kr\/data_online_preprocess|파이썬을 활용한 데이터 전처리 Level UP | 패스트캠퍼스>*\n• *강의 URL*: <https:\/\/fastcampus.co.kr\/data_online_preprocess>\n• *사유*: 데이터 분석 및 시각화에 좀 더 복습하고 진행하고 싶습니다\n",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "g898587e4152",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/898587e41523b6c4bc631e8e0c827f5b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "장호준",
+            "real_name": "장호준",
+            "display_name": "장호준",
+            "team": "T05UGFFGL07",
+            "name": "jhh6650",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kKPe8",
+                "elements": [
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "스터디그룹 번호 :",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " 09조"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "강의명",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ": "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/fastcampus.co.kr\/data_online_preprocess",
+                                        "text": "파이썬을 활용한 데이터 전처리 Level UP | 패스트캠퍼스",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "강의 URL",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ": "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/fastcampus.co.kr\/data_online_preprocess"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "사유",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ": 데이터 분석 및 시각화에 좀 더 복습하고 진행하고 싶습니다"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "입과_완료",
+                "users": [
+                    "U05VAHXECP6"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05V2T62KUJ",
+        "type": "message",
+        "ts": "1699437704.392039",
+        "client_msg_id": "675b602b-b4b9-4635-b9c5-8c14e2c5d47a",
+        "text": "스터디그룹 번호 : 12조\n강의명: 초격차 패키지 : 빅데이터처리 with Spark&amp;Hadoop 초격차 패키지 Online.\n강의 URL: <https:\/\/fastcampus.co.kr\/data_online_spkhdp>\n사유: 딥러닝 외에도 빅데이터 처리에 대해서도 같이 공부하고 싶어서 신청합니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "ae24066f5a1a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5989305080675_ae24066f5a1a2d78e521_72.jpg",
+            "first_name": "김영천",
+            "real_name": "김영천",
+            "display_name": "김영천",
+            "team": "T05UGFFGL07",
+            "name": "dudcjs2779",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/storage.googleapis.com\/static.fastcampus.co.kr\/prod\/uploads\/202202\/170057-199\/guide-active-thumb.png",
+                "image_width": 1200,
+                "image_height": 630,
+                "image_bytes": 394793,
+                "from_url": "https:\/\/fastcampus.co.kr\/data_online_spkhdp",
+                "id": 1,
+                "original_url": "https:\/\/fastcampus.co.kr\/data_online_spkhdp",
+                "fallback": "빅데이터처리 with Spark&amp;Hadoop 초격차 패키지 Online. | 패스트캠퍼스",
+                "text": "한 번에 끝내는 빅데이터처리 with Spark&amp;Hadoop 초격차 패키지 Online. | Spark&amp;Hadoop 제대로 배울 강의 없나 찾다가 지친 당신을 위한 강의! 빅데이터 분산처리의 핵심 툴인 Spark&amp;Hadoop 기초부터 에코시스템까지 완벽 이해! 실습과 데이터 파이프라인 구축 프로젝트까지 준비되어있습니다. 강사님과 소통 가능한 실시간 질의응답 서비스까지 제공해드려요!",
+                "title": "빅데이터처리 with Spark&amp;Hadoop 초격차 패키지 Online. | 패스트캠퍼스",
+                "title_link": "https:\/\/fastcampus.co.kr\/data_online_spkhdp",
+                "service_name": "fastcampus.co.kr"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QJVEf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "스터디그룹 번호 : 12조\n강의명: 초격차 패키지 : 빅데이터처리 with Spark&Hadoop 초격차 패키지 Online.\n강의 URL: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/fastcampus.co.kr\/data_online_spkhdp"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n사유: 딥러닝 외에도 빅데이터 처리에 대해서도 같이 공부하고 싶어서 신청합니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "검토_중",
+                "users": [
+                    "U05VAHXECP6"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U060BLVQYHW",
+        "type": "message",
+        "ts": "1699439161.771839",
+        "client_msg_id": "fd6ee6cf-52ec-40b8-8977-9219fd0f2626",
+        "text": "스터디그룹 번호 : 7조\n강의명 : *<https:\/\/fastcampus.co.kr\/data_online_msignature|초격차 패키지 : 50개 프로젝트로 완벽하게 끝내는 머신러닝 SIGNATURE | 패스트캠퍼스>*\n강의 URL : <https:\/\/fastcampus.co.kr\/data_online_msignature>\n사유 : 앞으로 다가올 과정 가운데 모델링까지 해보며 스터디에서 공부하기 위해 신청합니다. 열심히 수강하겠습니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "g6cb970458b5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6cb970458b5672091fa231bd078f93da.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+            "first_name": "Sang",
+            "real_name": "Sang Hyuk SEO",
+            "display_name": "서상혁",
+            "team": "T05UGFFGL07",
+            "name": "happer96",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aAXao",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "스터디그룹 번호 : 7조\n강의명 : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/fastcampus.co.kr\/data_online_msignature",
+                                "text": "초격차 패키지 : 50개 프로젝트로 완벽하게 끝내는 머신러닝 SIGNATURE | 패스트캠퍼스",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n강의 URL : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/fastcampus.co.kr\/data_online_msignature"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n사유 : 앞으로 다가올 과정 가운데 모델링까지 해보며 스터디에서 공부하기 위해 신청합니다. 열심히 수강하겠습니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "검토_중",
+                "users": [
+                    "U05VAHXECP6"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "subtype": "tombstone",
+        "text": "This message was deleted.",
+        "user": "USLACKBOT",
+        "hidden": true,
+        "type": "message",
+        "ts": "1699446782.140339",
+        "thread_ts": "1699446782.140339",
+        "parent_user_id": "USLACKBOT",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1699577517.534539",
+        "reply_users": [
+            "U05VAHXECP6"
+        ],
+        "replies": [
+            {
+                "user": "U05VAHXECP6",
+                "ts": "1699577517.534539"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1699577517.534539",
+        "reactions": [
+            {
+                "name": "x",
+                "users": [
+                    "U05VAHXECP6"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05VAHXECP6",
+        "type": "message",
+        "ts": "1699494515.355299",
+        "client_msg_id": "aa6a8205-a05c-4e37-8eec-d385f3386507",
+        "text": "안녕하세요. 호준님!\n7조와 동일한 강의를 원하셔서 복사해오신 것으로 보이는데요.\n본인 조에 해당하는 내용으로 수정 부탁드립니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "50abee101814",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-11\/6044824153712_50abee1018149e21919b_72.jpg",
+            "first_name": "이상영",
+            "real_name": "이상영",
+            "display_name": "FC 이상영 매니저",
+            "team": "T05UGFFGL07",
+            "name": "sangyeong.lee",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1699437152.091489",
+        "parent_user_id": "USLACKBOT",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lFGYW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "안녕하세요. 호준님!\n7조와 동일한 강의를 원하셔서 복사해오신 것으로 보이는데요.\n본인 조에 해당하는 내용으로 수정 부탁드립니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05UN7M2GKZ",
+        "type": "message",
+        "ts": "1699494557.582499",
+        "client_msg_id": "3cb6eeb2-93b2-417c-b515-f3350e973df7",
+        "text": "수정하여 바로 밑에 09조로 수정해서 올렸습니다",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "g898587e4152",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/898587e41523b6c4bc631e8e0c827f5b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "장호준",
+            "real_name": "장호준",
+            "display_name": "장호준",
+            "team": "T05UGFFGL07",
+            "name": "jhh6650",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1699437152.091489",
+        "parent_user_id": "USLACKBOT",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6pUX2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "수정하여 바로 밑에 09조로 수정해서 올렸습니다"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05VAHXECP6",
+        "type": "message",
+        "ts": "1699494572.157129",
+        "client_msg_id": "73508405-d125-4b80-b838-98e6890027ca",
+        "text": "그럼 해당 메시지는 삭제해주세요.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "50abee101814",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-11\/6044824153712_50abee1018149e21919b_72.jpg",
+            "first_name": "이상영",
+            "real_name": "이상영",
+            "display_name": "FC 이상영 매니저",
+            "team": "T05UGFFGL07",
+            "name": "sangyeong.lee",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1699437152.091489",
+        "parent_user_id": "USLACKBOT",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KorA6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "그럼 해당 메시지는 삭제해주세요."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05UN7M2GKZ",
+        "type": "message",
+        "ts": "1699494585.563789",
+        "client_msg_id": "bdcb8c2b-48e1-4813-8c0b-bab09dbeb9fd",
+        "text": "넵 삭제했습니다",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "g898587e4152",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/898587e41523b6c4bc631e8e0c827f5b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "장호준",
+            "real_name": "장호준",
+            "display_name": "장호준",
+            "team": "T05UGFFGL07",
+            "name": "jhh6650",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1699437152.091489",
+        "parent_user_id": "USLACKBOT",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ob4Wl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "넵 삭제했습니다"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U05VAHXECP6"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

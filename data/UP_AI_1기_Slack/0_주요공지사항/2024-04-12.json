@@ -1,0 +1,51 @@
+[
+    {
+        "user": "U0606HAGLTB",
+        "type": "message",
+        "ts": "1712914851.468859",
+        "client_msg_id": "98c8ac50-cb13-4249-b1db-672a6544bc44",
+        "text": "서버 생성 하였습니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "461e225fff0b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5991028764501_461e225fff0b7fa69542_72.png",
+            "first_name": "Hyeongsoo",
+            "real_name": "Hyeongsoo Kim",
+            "display_name": "김형수",
+            "team": "T05UGFFGL07",
+            "name": "oony97",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712552401.443239",
+        "parent_user_id": "U05VAHXECP6",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wqFX0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "서버 생성 하였습니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U0608EG7YEA"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

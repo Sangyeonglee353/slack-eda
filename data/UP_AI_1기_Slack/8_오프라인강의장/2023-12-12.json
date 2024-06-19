@@ -1,0 +1,306 @@
+[
+    {
+        "user": "U05V561TXUL",
+        "type": "message",
+        "ts": "1702392520.299839",
+        "client_msg_id": "CB4F1C17-D06E-4D9A-9A25-7999B3353435",
+        "text": "12\/13 강의장 이용 신청합니다",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "b4604568d88f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-08\/6448187852305_b4604568d88f0ae3e9b1_72.png",
+            "first_name": "최장원",
+            "real_name": "최장원",
+            "display_name": "",
+            "team": "T05UGFFGL07",
+            "name": "cjw7378",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "f3IY5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "12\/13 "
+                            },
+                            {
+                                "type": "text",
+                                "text": "강의장"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "이용"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "신청합니다"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U05VAHXECP6",
+                    "U065TBUL5EE"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U065TBUL5EE",
+        "type": "message",
+        "ts": "1702429560.004609",
+        "client_msg_id": "F30463AF-42E9-43EB-A921-6A4238B8B783",
+        "text": "혹시 10조분들 오프라인 오셨으면, 지금 커피 드실래요?",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "34f110a5edc4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-11-14\/6197301711475_34f110a5edc435398e63_72.png",
+            "first_name": "김용담",
+            "real_name": "김용담",
+            "display_name": "김용담 강사",
+            "team": "T05UGFFGL07",
+            "name": "codingiscoffee",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1702344693.125399",
+        "parent_user_id": "U05V2HL22M9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "H48q+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "혹시"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 10"
+                            },
+                            {
+                                "type": "text",
+                                "text": "조분들"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "오프라인"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "오셨으면"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", "
+                            },
+                            {
+                                "type": "text",
+                                "text": "지금"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "커피"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "드실래요"
+                            },
+                            {
+                                "type": "text",
+                                "text": "?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U060BLVQYHW",
+        "type": "message",
+        "ts": "1702429618.123619",
+        "client_msg_id": "25073735-eed1-4ef5-87b4-c7b8d68508b1",
+        "text": "<@U065TBUL5EE> 네 좋습니다!!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "g6cb970458b5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6cb970458b5672091fa231bd078f93da.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+            "first_name": "Sang",
+            "real_name": "Sang Hyuk SEO",
+            "display_name": "서상혁",
+            "team": "T05UGFFGL07",
+            "name": "happer96",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1702344693.125399",
+        "parent_user_id": "U05V2HL22M9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rxJbV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U065TBUL5EE"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 네 좋습니다!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05V2HL22M9",
+        "type": "message",
+        "ts": "1702429625.853389",
+        "client_msg_id": "d7f615c5-d330-481d-8522-273126702770",
+        "text": "네 좋습니다 !",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "1dcddf110806",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5996462649172_1dcddf110806f3a037a7_72.png",
+            "first_name": "김도연",
+            "real_name": "김도연",
+            "display_name": "김도연",
+            "team": "T05UGFFGL07",
+            "name": "lottie_eve",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1702344693.125399",
+        "parent_user_id": "U05V2HL22M9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "V31hP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "네 좋습니다 !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U065TBUL5EE",
+        "type": "message",
+        "ts": "1702429637.712519",
+        "client_msg_id": "9BCDA34D-0758-4BE1-BB7B-1C0376E4AAB5",
+        "text": "네네 그럼 2층에서봬요!!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "34f110a5edc4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-11-14\/6197301711475_34f110a5edc435398e63_72.png",
+            "first_name": "김용담",
+            "real_name": "김용담",
+            "display_name": "김용담 강사",
+            "team": "T05UGFFGL07",
+            "name": "codingiscoffee",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1702344693.125399",
+        "parent_user_id": "U05V2HL22M9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "z3ZKX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "네네"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "그럼"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 2"
+                            },
+                            {
+                                "type": "text",
+                                "text": "층에서봬요"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

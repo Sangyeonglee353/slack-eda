@@ -1,0 +1,1950 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U05UZLEM04V",
+        "text": "<@U05UZLEM04V> 님이 채널에 참여함",
+        "type": "message",
+        "ts": "1696407150.698459"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U05UVV5CVQE",
+        "text": "<@U05UVV5CVQE> 님이 채널에 참여함",
+        "type": "message",
+        "ts": "1696407338.334979"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U05V2GDNNLT",
+        "text": "<@U05V2GDNNLT> 님이 채널에 참여함",
+        "type": "message",
+        "ts": "1696407596.751669"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U05V2GECU9Z",
+        "text": "<@U05V2GECU9Z> 님이 채널에 참여함",
+        "type": "message",
+        "ts": "1696407604.773459"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U05V2H2UBEX",
+        "text": "<@U05V2H2UBEX> 님이 채널에 참여함",
+        "type": "message",
+        "ts": "1696407878.590839"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U05V2HL22M9",
+        "text": "<@U05V2HL22M9> 님이 채널에 참여함",
+        "type": "message",
+        "ts": "1696408086.050629"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U05UW1S4KQE",
+        "text": "<@U05UW1S4KQE> 님이 채널에 참여함",
+        "type": "message",
+        "ts": "1696408161.983839"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U060BLVQYHW",
+        "text": "<@U060BLVQYHW> 님이 채널에 참여함",
+        "type": "message",
+        "ts": "1696408284.647139"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U05UN5DQ423",
+        "text": "<@U05UN5DQ423> 님이 채널에 참여함",
+        "type": "message",
+        "ts": "1696408312.649299"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U05V561TXUL",
+        "text": "<@U05V561TXUL> 님이 채널에 참여함",
+        "type": "message",
+        "ts": "1696408766.385189"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U05UN6NTN8P",
+        "text": "<@U05UN6NTN8P> 님이 채널에 참여함",
+        "type": "message",
+        "ts": "1696408828.898059"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U05V2P37518",
+        "text": "<@U05V2P37518> 님이 채널에 참여함",
+        "type": "message",
+        "ts": "1696409114.974289"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U05UN7M2GKZ",
+        "text": "<@U05UN7M2GKZ> 님이 채널에 참여함",
+        "type": "message",
+        "ts": "1696409210.094519"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U05V2PMAVNE",
+        "text": "<@U05V2PMAVNE> 님이 채널에 참여함",
+        "type": "message",
+        "ts": "1696409331.147889"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U05UW74NJ0N",
+        "text": "<@U05UW74NJ0N> 님이 채널에 참여함",
+        "type": "message",
+        "ts": "1696410221.584859"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U05V2T62KUJ",
+        "text": "<@U05V2T62KUJ> 님이 채널에 참여함",
+        "type": "message",
+        "ts": "1696410682.487279"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U05V0106JDT",
+        "text": "<@U05V0106JDT> 님이 채널에 참여함",
+        "type": "message",
+        "ts": "1696411085.980369"
+    },
+    {
+        "user": "U05UT0JG4BZ",
+        "type": "message",
+        "ts": "1696474199.945089",
+        "client_msg_id": "e77b7993-eff3-4c55-a40b-c0404147ef53",
+        "text": "제가 국민취업지원제도를 통해서 훈련을 신청해서 훈련탐색표가 필요합니다. 혹시 직업훈련과정 탐색표를 따로 보내주실 수 있으신가해서 문의 드립니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "g9153b403f05",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/9153b403f05c51f82cac8dec3d6d8e3a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "김다운",
+            "real_name": "김다운",
+            "display_name": "김다운",
+            "team": "T05UGFFGL07",
+            "name": "ekdns7500",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696474199.945089",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1696494613.536909",
+        "reply_users": [
+            "U05UNC6FNK1",
+            "U05UT0JG4BZ"
+        ],
+        "replies": [
+            {
+                "user": "U05UNC6FNK1",
+                "ts": "1696474694.214819"
+            },
+            {
+                "user": "U05UT0JG4BZ",
+                "ts": "1696494613.536909"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uCX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "제가 국민취업지원제도를 통해서 훈련을 신청해서 훈련탐색표가 필요합니다. 혹시 직업훈련과정 탐색표를 따로 보내주실 수 있으신가해서 문의 드립니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "U05UNC6FNK1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05UN7M2GKZ",
+        "type": "message",
+        "ts": "1696474339.829569",
+        "client_msg_id": "e4779df4-429b-4c92-8832-77c28fcdbe2b",
+        "text": "저도 훈련탐색표가 필요하다고 하는데 탐색표를 받을 수. 있을까요?",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "g898587e4152",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/898587e41523b6c4bc631e8e0c827f5b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "장호준",
+            "real_name": "장호준",
+            "display_name": "장호준",
+            "team": "T05UGFFGL07",
+            "name": "jhh6650",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696474339.829569",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1696474619.706269",
+        "reply_users": [
+            "U05UNC6FNK1",
+            "U05UN7M2GKZ"
+        ],
+        "replies": [
+            {
+                "user": "U05UNC6FNK1",
+                "ts": "1696474565.931649"
+            },
+            {
+                "user": "U05UNC6FNK1",
+                "ts": "1696474576.850089"
+            },
+            {
+                "user": "U05UN7M2GKZ",
+                "ts": "1696474619.706269"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SpVx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "저도 훈련탐색표가 필요하다고 하는데 탐색표를 받을 수. 있을까요?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "U05UNC6FNK1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06022Z2TED",
+        "type": "message",
+        "ts": "1696474364.353929",
+        "client_msg_id": "27e93ef8-cda0-4d47-980a-2e27434bec42",
+        "text": "저도 받을 수 있을까요?",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "d62be7ca993c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5991921924404_d62be7ca993c5be99966_72.png",
+            "first_name": "ha",
+            "real_name": "ha ha",
+            "display_name": "김하연",
+            "team": "T05UGFFGL07",
+            "name": "leah8735",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696474364.353929",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1696474739.048089",
+        "reply_users": [
+            "U05UNC6FNK1",
+            "U06022Z2TED"
+        ],
+        "replies": [
+            {
+                "user": "U05UNC6FNK1",
+                "ts": "1696474708.529639"
+            },
+            {
+                "user": "U06022Z2TED",
+                "ts": "1696474739.048089"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8LMC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "저도 받을 수 있을까요?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "U05UNC6FNK1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05UNC6FNK1",
+        "type": "message",
+        "ts": "1696474565.931649",
+        "client_msg_id": "fc58f484-cac5-49da-b1ea-b1bf98111799",
+        "text": "<https:\/\/www.notion.so\/5c56aad6cab346f68adaacd1590415c7>",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "260d154ea1e2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5979526758263_260d154ea1e2177fd001_72.jpg",
+            "first_name": "FC",
+            "real_name": "FC 하시안 매니저",
+            "display_name": "FC 하시안 매니저",
+            "team": "T05UGFFGL07",
+            "name": "xianha",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696474339.829569",
+        "parent_user_id": "U05UN7M2GKZ",
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.notion.so\/5c56aad6cab346f68adaacd1590415c7",
+                "image_url": "https:\/\/www.notion.so\/image\/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fe0bc0e78-4bf2-430c-8d3c-6a8f5da73d28%2F%25EB%25A9%2594%25EC%259D%25B8_%25EB%25B0%25B0%25EA%25B2%25BD.png?table=block&id=5c56aad6-cab3-46f6-8ada-acd1590415c7&spaceId=3ef8dbd9-414c-4cf5-813d-32ecb943cc67&width=2000&userId=&cache=v2",
+                "image_width": 2000,
+                "image_height": 620,
+                "image_bytes": 468729,
+                "id": 1,
+                "original_url": "https:\/\/www.notion.so\/5c56aad6cab346f68adaacd1590415c7",
+                "fallback": "Fastcampus_B2B on Notion: 부트캠프 훈련과정 탐색결과표",
+                "text": ":inbox_tray: 적합훈련과정 탐색결과표 양식 다운로드",
+                "title": "부트캠프 훈련과정 탐색결과표",
+                "title_link": "https:\/\/www.notion.so\/5c56aad6cab346f68adaacd1590415c7",
+                "service_name": "Fastcampus_B2B on Notion"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tDj6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.notion.so\/5c56aad6cab346f68adaacd1590415c7"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05UNC6FNK1",
+        "type": "message",
+        "ts": "1696474576.850089",
+        "client_msg_id": "93cd71b9-693e-40db-a73b-7912d68e8181",
+        "text": "위 링크에서 탐색표 양식과 참고내용을 반영하여 작성하시면 됩니다!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "260d154ea1e2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5979526758263_260d154ea1e2177fd001_72.jpg",
+            "first_name": "FC",
+            "real_name": "FC 하시안 매니저",
+            "display_name": "FC 하시안 매니저",
+            "team": "T05UGFFGL07",
+            "name": "xianha",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696474339.829569",
+        "parent_user_id": "U05UN7M2GKZ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+DP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "위 링크에서 탐색표 양식과 참고내용을 반영하여 작성하시면 됩니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05UN7M2GKZ",
+        "type": "message",
+        "ts": "1696474619.706269",
+        "client_msg_id": "e78e15e0-22bc-4994-b78a-b1cc379a93cc",
+        "text": "넵 감사합니다",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "g898587e4152",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/898587e41523b6c4bc631e8e0c827f5b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "장호준",
+            "real_name": "장호준",
+            "display_name": "장호준",
+            "team": "T05UGFFGL07",
+            "name": "jhh6650",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696474339.829569",
+        "parent_user_id": "U05UN7M2GKZ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "njxH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "넵 감사합니다"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05UNC6FNK1",
+        "type": "message",
+        "ts": "1696474694.214819",
+        "client_msg_id": "f3974706-90ed-4ec7-8c13-d4f4e3cb3895",
+        "text": "<https:\/\/www.notion.so\/5c56aad6cab346f68adaacd1590415c7>\n위 링크에서 탐색표 양식과 참고내용을 반영하여 작성하시면 됩니다!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "260d154ea1e2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5979526758263_260d154ea1e2177fd001_72.jpg",
+            "first_name": "FC",
+            "real_name": "FC 하시안 매니저",
+            "display_name": "FC 하시안 매니저",
+            "team": "T05UGFFGL07",
+            "name": "xianha",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696474199.945089",
+        "parent_user_id": "U05UT0JG4BZ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4Z5YI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.notion.so\/5c56aad6cab346f68adaacd1590415c7"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n위 링크에서 탐색표 양식과 참고내용을 반영하여 작성하시면 됩니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05UNC6FNK1",
+        "type": "message",
+        "ts": "1696474708.529639",
+        "client_msg_id": "d2161b0b-0f0b-417b-ae76-88b6ebd3a7dd",
+        "text": "<https:\/\/www.notion.so\/5c56aad6cab346f68adaacd1590415c7>\n위 링크에서 탐색표 양식과 참고내용을 반영하여 작성하시면 됩니다!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "260d154ea1e2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5979526758263_260d154ea1e2177fd001_72.jpg",
+            "first_name": "FC",
+            "real_name": "FC 하시안 매니저",
+            "display_name": "FC 하시안 매니저",
+            "team": "T05UGFFGL07",
+            "name": "xianha",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696474364.353929",
+        "parent_user_id": "U06022Z2TED",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "49p",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.notion.so\/5c56aad6cab346f68adaacd1590415c7"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n위 링크에서 탐색표 양식과 참고내용을 반영하여 작성하시면 됩니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06022Z2TED",
+        "type": "message",
+        "ts": "1696474739.048089",
+        "client_msg_id": "a82ee71c-eac6-4785-84a1-c27bfc2a1486",
+        "text": "감사합니다",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "d62be7ca993c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5991921924404_d62be7ca993c5be99966_72.png",
+            "first_name": "ha",
+            "real_name": "ha ha",
+            "display_name": "김하연",
+            "team": "T05UGFFGL07",
+            "name": "leah8735",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696474364.353929",
+        "parent_user_id": "U06022Z2TED",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+VF1o",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "감사합니다"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U05UNC6FNK1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05V379NETU",
+        "type": "message",
+        "ts": "1696474821.927039",
+        "client_msg_id": "6a7a2d24-5cd8-4de1-8c45-6d68c4c78cc4",
+        "text": "안녕하세요 제가 10월 10일부터 예비군 소집이 되어서 [방송통신에 의한 출석 수업] 으로 예비군을 연기하려하는데, 관련 서류를 받을 수 있을까요?",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "ffacc530c1ba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/6012256954656_ffacc530c1baefd9bc1c_72.jpg",
+            "first_name": "신주용",
+            "real_name": "신주용",
+            "display_name": "신주용",
+            "team": "T05UGFFGL07",
+            "name": "robotshin1608",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696474821.927039",
+        "reply_count": 4,
+        "reply_users_count": 3,
+        "latest_reply": "1696482627.917219",
+        "reply_users": [
+            "U05UNC6FNK1",
+            "U05V379NETU",
+            "U05V81G5ZDY"
+        ],
+        "replies": [
+            {
+                "user": "U05UNC6FNK1",
+                "ts": "1696481907.303569"
+            },
+            {
+                "user": "U05V379NETU",
+                "ts": "1696481975.720689"
+            },
+            {
+                "user": "U05UNC6FNK1",
+                "ts": "1696482028.267759"
+            },
+            {
+                "user": "U05V81G5ZDY",
+                "ts": "1696482627.917219"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qwA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "안녕하세요 제가 10월 10일부터 예비군 소집이 되어서 [방송통신에 의한 출석 수업] 으로 예비군을 연기하려하는데, 관련 서류를 받을 수 있을까요?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "U05UNC6FNK1",
+                    "U05V81G5ZDY"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U05V2HL22M9",
+        "type": "message",
+        "ts": "1696475264.278059",
+        "client_msg_id": "6248DDE9-EEF6-4FB3-B745-4257DA3251E5",
+        "text": "제가 현재 국비교육(국기훈련)을 수강 중인데 10월 11일까지 출석하여야 수료기준(80%)을 충족한다고 합니다. 수료기준만 충족되면 기존 강의를 종료하고 패캠 강의를 들으려는데 혹시 hrd 등록을 10월 12일 이후에 해도 가능할까요..? ",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "1dcddf110806",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5996462649172_1dcddf110806f3a037a7_72.png",
+            "first_name": "김도연",
+            "real_name": "김도연",
+            "display_name": "김도연",
+            "team": "T05UGFFGL07",
+            "name": "lottie_eve",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696475264.278059",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1696484544.654559",
+        "reply_users": [
+            "U05UYAVRTSR",
+            "U05V2HL22M9"
+        ],
+        "replies": [
+            {
+                "user": "U05UYAVRTSR",
+                "ts": "1696480843.591289"
+            },
+            {
+                "user": "U05V2HL22M9",
+                "ts": "1696482367.353239"
+            },
+            {
+                "user": "U05UYAVRTSR",
+                "ts": "1696484544.654559"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZwBpc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "제가"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "현재"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "국비교육"
+                            },
+                            {
+                                "type": "text",
+                                "text": "("
+                            },
+                            {
+                                "type": "text",
+                                "text": "국기훈련"
+                            },
+                            {
+                                "type": "text",
+                                "text": ")"
+                            },
+                            {
+                                "type": "text",
+                                "text": "을"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "수강"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "중인데"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 10"
+                            },
+                            {
+                                "type": "text",
+                                "text": "월"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 11"
+                            },
+                            {
+                                "type": "text",
+                                "text": "일까지"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "출석하여야"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "수료기준"
+                            },
+                            {
+                                "type": "text",
+                                "text": "(80%)"
+                            },
+                            {
+                                "type": "text",
+                                "text": "을"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "충족한다고"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "합니다"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". "
+                            },
+                            {
+                                "type": "text",
+                                "text": "수료기준만"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "충족되면"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "기존"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "강의를"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "종료하고"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "패캠"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "강의를"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "들으려는데"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "혹시"
+                            },
+                            {
+                                "type": "text",
+                                "text": " hrd "
+                            },
+                            {
+                                "type": "text",
+                                "text": "등록을"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 10"
+                            },
+                            {
+                                "type": "text",
+                                "text": "월"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 12"
+                            },
+                            {
+                                "type": "text",
+                                "text": "일"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "이후에"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "해도"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "가능할까요"
+                            },
+                            {
+                                "type": "text",
+                                "text": "..? "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05UYAVRTSR",
+        "type": "message",
+        "ts": "1696480843.591289",
+        "client_msg_id": "514cb077-f21b-4367-935c-85b9165fd6ef",
+        "text": "안녕하세요 도연님. 혹시 현재 듣고 계신 과정이 K-Digital Training 과정이 아닌 것이 맞나요?\n수강 신청 자체는 10월 12일에 해도 무방하나, 같은 KDT 과정이라면 자비부담금이 발생할 수 있습니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "g6e6ee900c48",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e6ee900c48c19701d150f52a69af64a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "김수현",
+            "real_name": "김수현",
+            "display_name": "FC 김수현 매니저",
+            "team": "T05UGFFGL07",
+            "name": "suhyunkim",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696475264.278059",
+        "parent_user_id": "U05V2HL22M9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Fna",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "안녕하세요 도연님. 혹시 현재 듣고 계신 과정이 K-Digital Training 과정이 아닌 것이 맞나요?\n수강 신청 자체는 10월 12일에 해도 무방하나, 같은 KDT 과정이라면 자비부담금이 발생할 수 있습니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05UNC6FNK1",
+        "type": "message",
+        "ts": "1696481907.303569",
+        "client_msg_id": "dbd80820-fcbf-415d-9ff5-cdf8eaf179d2",
+        "text": "네 가능합니다! 메일주소를 남겨주세요",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "260d154ea1e2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5979526758263_260d154ea1e2177fd001_72.jpg",
+            "first_name": "FC",
+            "real_name": "FC 하시안 매니저",
+            "display_name": "FC 하시안 매니저",
+            "team": "T05UGFFGL07",
+            "name": "xianha",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696474821.927039",
+        "parent_user_id": "U05V379NETU",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HYd9X",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "네 가능합니다! 메일주소를 남겨주세요"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05V379NETU",
+        "type": "message",
+        "ts": "1696481975.720689",
+        "client_msg_id": "fd422f09-caed-402a-8ae7-8d811dcd33bc",
+        "text": "<mailto:robotshin1608@gmail.com|robotshin1608@gmail.com> 입니다!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "ffacc530c1ba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/6012256954656_ffacc530c1baefd9bc1c_72.jpg",
+            "first_name": "신주용",
+            "real_name": "신주용",
+            "display_name": "신주용",
+            "team": "T05UGFFGL07",
+            "name": "robotshin1608",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696474821.927039",
+        "parent_user_id": "U05V379NETU",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AJb00",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "mailto:robotshin1608@gmail.com",
+                                "text": "robotshin1608@gmail.com"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 입니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05UNC6FNK1",
+        "type": "message",
+        "ts": "1696482028.267759",
+        "client_msg_id": "d17a1e5c-7b17-448e-ab31-14a6b15cfc27",
+        "text": "<@U05V81G5ZDY> 매니저님 참여확인서 발급 부탁드립니다",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "260d154ea1e2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5979526758263_260d154ea1e2177fd001_72.jpg",
+            "first_name": "FC",
+            "real_name": "FC 하시안 매니저",
+            "display_name": "FC 하시안 매니저",
+            "team": "T05UGFFGL07",
+            "name": "xianha",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696474821.927039",
+        "parent_user_id": "U05V379NETU",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=AfO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05V81G5ZDY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 매니저님 참여확인서 발급 부탁드립니다"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05UNC6FNK1",
+        "type": "message",
+        "ts": "1696482202.832309",
+        "client_msg_id": "96c8982f-2cec-47e9-a9d5-845df8673c0c",
+        "text": "*&lt;양식 공유&gt; 행정문의(국취 관련 서류등_) 관련 소통은 반드시 양식에 따라 진행합니다.(DM은 받지않습니다)*\n(스레드 댓글 소통 원칙) 양식에 따르지 않은 게시물은 삭제될 수 있습니다.\n스레드 양식: <@U05UNC6FNK1> <@U05V81G5ZDY> 매니저님 태깅하여 아래내용과 함께 문의주세요\n-&gt; 대상 : 국민취업지원서류, 예비군 연기, 수강증명서 등\n필요한 기간 : _0월0일 ~ 0월 0일_\n필요서류 : 출석부 or 수강증명서\n이메일 :\n연락처 :",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "260d154ea1e2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5979526758263_260d154ea1e2177fd001_72.jpg",
+            "first_name": "FC",
+            "real_name": "FC 하시안 매니저",
+            "display_name": "FC 하시안 매니저",
+            "team": "T05UGFFGL07",
+            "name": "xianha",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "k7qUn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "<양식 공유> 행정문의(국취 관련 서류등_) 관련 소통은 반드시 양식에 따라 진행합니다.(DM은 받지않습니다)",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n(스레드 댓글 소통 원칙) 양식에 따르지 않은 게시물은 삭제될 수 있습니다.\n스레드 양식: "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05UNC6FNK1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05V81G5ZDY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 매니저님 태깅하여 아래내용과 함께 문의주세요\n-> 대상 : 국민취업지원서류, 예비군 연기, 수강증명서 등\n필요한 기간 : "
+                            },
+                            {
+                                "type": "text",
+                                "text": "0월0일 ~ 0월 0일",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n필요서류 : 출석부 or 수강증명서\n이메일 :\n연락처 :"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05V2HL22M9",
+        "type": "message",
+        "ts": "1696482367.353239",
+        "client_msg_id": "EF8161F8-EC16-4967-B3F3-A04F11F568D7",
+        "text": "넵 KDT 과정은 아닙니다! 지금 듣는 과정은 국가기간전략산업직종훈련(국기훈련)입니다. 고용노동부 측에서도 국기훈련 수료 후 KDT 수강 가능하다고 하셨고 이미 확인도 다 끝난 상태 입니다. 수강 신청이 10월 12일에 가능하다면 이 과정 수료 처리 후에 신청하도록 하겠습니다 :) ",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "1dcddf110806",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5996462649172_1dcddf110806f3a037a7_72.png",
+            "first_name": "김도연",
+            "real_name": "김도연",
+            "display_name": "김도연",
+            "team": "T05UGFFGL07",
+            "name": "lottie_eve",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696475264.278059",
+        "parent_user_id": "U05V2HL22M9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ut6Q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "넵 KDT 과정은 "
+                            },
+                            {
+                                "type": "text",
+                                "text": "아닙니다"
+                            },
+                            {
+                                "type": "text",
+                                "text": "! "
+                            },
+                            {
+                                "type": "text",
+                                "text": "지금"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "듣는"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "과정은"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "국가기간전략산업직종훈련"
+                            },
+                            {
+                                "type": "text",
+                                "text": "("
+                            },
+                            {
+                                "type": "text",
+                                "text": "국기훈련"
+                            },
+                            {
+                                "type": "text",
+                                "text": ")"
+                            },
+                            {
+                                "type": "text",
+                                "text": "입니다"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". "
+                            },
+                            {
+                                "type": "text",
+                                "text": "고용노동부"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "측에서도"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "국기훈련"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "수료"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "후"
+                            },
+                            {
+                                "type": "text",
+                                "text": " KDT "
+                            },
+                            {
+                                "type": "text",
+                                "text": "수강"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "가능하다고"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "하셨고"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "이미"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "확인도"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "다"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "끝난"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "상태"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "입니다"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". "
+                            },
+                            {
+                                "type": "text",
+                                "text": "수강"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "신청이"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 10"
+                            },
+                            {
+                                "type": "text",
+                                "text": "월"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 12"
+                            },
+                            {
+                                "type": "text",
+                                "text": "일에"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "가능하다면"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "이"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "과정"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "수료"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "처리"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "후에"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "신청하도록"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "하겠습니다"
+                            },
+                            {
+                                "type": "text",
+                                "text": " :) "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05V81G5ZDY",
+        "type": "message",
+        "ts": "1696482627.917219",
+        "client_msg_id": "d3f27096-85d1-4c30-8d06-23ab74f76e4c",
+        "text": "메일로 참여확인서 전달 드렸습니다!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "db1aceeb0d90",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5994058472162_db1aceeb0d9030c57e69_72.jpg",
+            "first_name": "김현우",
+            "real_name": "김현우",
+            "display_name": "FC 김현우 매니저",
+            "team": "T05UGFFGL07",
+            "name": "hyunwoo.kim",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696474821.927039",
+        "parent_user_id": "U05V379NETU",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7sk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "메일로 참여확인서 전달 드렸습니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U05V379NETU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05UYAVRTSR",
+        "type": "message",
+        "ts": "1696484544.654559",
+        "client_msg_id": "9a72273b-d074-4ead-9a28-4d1bd140f1d4",
+        "text": "네 도연님~! 추후 설명드리겠지만, 10\/10, 10\/11 에는 출석체크가 불가하여 결석으로 처리 되오니 이 점만 추후 참고 부탁드립니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "g6e6ee900c48",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e6ee900c48c19701d150f52a69af64a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "김수현",
+            "real_name": "김수현",
+            "display_name": "FC 김수현 매니저",
+            "team": "T05UGFFGL07",
+            "name": "suhyunkim",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696475264.278059",
+        "parent_user_id": "U05V2HL22M9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "U3b6c",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "네 도연님~! 추후 설명드리겠지만, 10\/10, 10\/11 에는 출석체크가 불가하여 결석으로 처리 되오니 이 점만 추후 참고 부탁드립니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "slightly_smiling_face",
+                "users": [
+                    "U05V2HL22M9"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05V5B88ULD",
+        "type": "message",
+        "ts": "1696487308.803649",
+        "client_msg_id": "67CC4246-A9EC-4718-83E9-86E7C856DE9E",
+        "text": "안녕하세요. 내일배움카드가 현재 발급중인데 혹시 10월 10일까지 발급이되지않았을경우, 수업신청이 불가능한가요?",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "80cc6894efa6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/6017299669088_80cc6894efa66060bc9e_72.png",
+            "first_name": "전수연",
+            "real_name": "전수연",
+            "display_name": "전수연",
+            "team": "T05UGFFGL07",
+            "name": "rachel.sy.jun",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696487308.803649",
+        "reply_count": 21,
+        "reply_users_count": 2,
+        "latest_reply": "1697010740.081319",
+        "reply_users": [
+            "U05UNC6FNK1",
+            "U05V5B88ULD"
+        ],
+        "replies": [
+            {
+                "user": "U05UNC6FNK1",
+                "ts": "1696487761.129669"
+            },
+            {
+                "user": "U05UNC6FNK1",
+                "ts": "1696487779.272539"
+            },
+            {
+                "user": "U05V5B88ULD",
+                "ts": "1696559553.890649"
+            },
+            {
+                "user": "U05UNC6FNK1",
+                "ts": "1696559614.424849"
+            },
+            {
+                "user": "U05V5B88ULD",
+                "ts": "1696561281.434259"
+            },
+            {
+                "user": "U05UNC6FNK1",
+                "ts": "1696561418.784399"
+            },
+            {
+                "user": "U05V5B88ULD",
+                "ts": "1696565861.194399"
+            },
+            {
+                "user": "U05V5B88ULD",
+                "ts": "1696903996.142489"
+            },
+            {
+                "user": "U05UNC6FNK1",
+                "ts": "1696915194.363499"
+            },
+            {
+                "user": "U05V5B88ULD",
+                "ts": "1696917942.370189"
+            },
+            {
+                "user": "U05UNC6FNK1",
+                "ts": "1696918140.988999"
+            },
+            {
+                "user": "U05V5B88ULD",
+                "ts": "1696918323.630959"
+            },
+            {
+                "user": "U05V5B88ULD",
+                "ts": "1696985813.725359"
+            },
+            {
+                "user": "U05UNC6FNK1",
+                "ts": "1696987634.735939"
+            },
+            {
+                "user": "U05V5B88ULD",
+                "ts": "1697008087.342169"
+            },
+            {
+                "user": "U05UNC6FNK1",
+                "ts": "1697008166.528429"
+            },
+            {
+                "user": "U05UNC6FNK1",
+                "ts": "1697008204.719779"
+            },
+            {
+                "user": "U05V5B88ULD",
+                "ts": "1697008868.274569"
+            },
+            {
+                "user": "U05UNC6FNK1",
+                "ts": "1697008897.662449"
+            },
+            {
+                "user": "U05V5B88ULD",
+                "ts": "1697010062.417519"
+            },
+            {
+                "user": "U05UNC6FNK1",
+                "ts": "1697010740.081319"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NmQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "안녕하세요"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". "
+                            },
+                            {
+                                "type": "text",
+                                "text": "내일배움카드가 현재 발급중인데 혹시 10월 10일까지 발급이되지않았을경우, 수업신청이 불가능한가요?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "U05UNC6FNK1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05UNC6FNK1",
+        "type": "message",
+        "ts": "1696487761.129669",
+        "client_msg_id": "10e1aa1d-1544-4921-8f60-c0b9f1dd2b9e",
+        "text": "수연님 혹시 빠르면 언제까지 발급이 가능하실까요?\n신청중에서 수령대기로 뜬다면 HRD 신청이 가능할 수 있습니다",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "260d154ea1e2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5979526758263_260d154ea1e2177fd001_72.jpg",
+            "first_name": "FC",
+            "real_name": "FC 하시안 매니저",
+            "display_name": "FC 하시안 매니저",
+            "team": "T05UGFFGL07",
+            "name": "xianha",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696487308.803649",
+        "parent_user_id": "U05V5B88ULD",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yzag",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "수연님 혹시 빠르면 언제까지 발급이 가능하실까요?\n신청중에서 수령대기로 뜬다면 HRD 신청이 가능할 수 있습니다"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05UNC6FNK1",
+        "type": "message",
+        "ts": "1696487779.272539",
+        "client_msg_id": "44a7d96d-f3d5-4496-b1a3-9c6ee421d0bb",
+        "text": "H RD -NET 사이트에서 확인 가능한지 확인 후 알려주세요",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "260d154ea1e2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5979526758263_260d154ea1e2177fd001_72.jpg",
+            "first_name": "FC",
+            "real_name": "FC 하시안 매니저",
+            "display_name": "FC 하시안 매니저",
+            "team": "T05UGFFGL07",
+            "name": "xianha",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696487308.803649",
+        "parent_user_id": "U05V5B88ULD",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/Ao",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "H RD -NET 사이트에서 확인 가능한지 확인 후 알려주세요"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05UNC6FNK1",
+        "type": "message",
+        "ts": "1696488225.176629",
+        "client_msg_id": "974951b1-03b0-4f09-8a51-b48d8bcff1b6",
+        "text": "<@U05V2H2UBEX> 훈련비 안내",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "260d154ea1e2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5979526758263_260d154ea1e2177fd001_72.jpg",
+            "first_name": "FC",
+            "real_name": "FC 하시안 매니저",
+            "display_name": "FC 하시안 매니저",
+            "team": "T05UGFFGL07",
+            "name": "xianha",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696488225.176629",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1696488782.491189",
+        "reply_users": [
+            "U05UNC6FNK1"
+        ],
+        "replies": [
+            {
+                "user": "U05UNC6FNK1",
+                "ts": "1696488782.491189"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wn1y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05V2H2UBEX"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 훈련비 안내"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "U05UNC6FNK1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05UNC6FNK1",
+        "type": "message",
+        "ts": "1696488782.491189",
+        "edited": {
+            "user": "U05UNC6FNK1",
+            "ts": "1696492661.000000"
+        },
+        "client_msg_id": "4f013892-f95b-4762-9480-781b7fa00b2e",
+        "text": "성환님 많은 수강생분들을 위해 과정을 제공할 수 있는 방법을 고민중에 있어 앞서 안내드린 것 외에 내부적으로 논의 후 다시한번 안내드리겠습니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "260d154ea1e2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5979526758263_260d154ea1e2177fd001_72.jpg",
+            "first_name": "FC",
+            "real_name": "FC 하시안 매니저",
+            "display_name": "FC 하시안 매니저",
+            "team": "T05UGFFGL07",
+            "name": "xianha",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696488225.176629",
+        "parent_user_id": "U05UNC6FNK1",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RV6mF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "성환님 많은 수강생분들을 위해 과정을 제공할 수 있는 방법을 고민중에 있어 앞서 안내드린 것 외에 내부적으로 논의 후 다시한번 안내드리겠습니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

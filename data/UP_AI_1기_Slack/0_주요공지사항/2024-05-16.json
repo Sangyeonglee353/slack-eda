@@ -1,0 +1,581 @@
+[
+    {
+        "user": "U05VAHXECP6",
+        "type": "message",
+        "ts": "1715907603.019689",
+        "edited": {
+            "user": "U05VAHXECP6",
+            "ts": "1715908336.000000"
+        },
+        "client_msg_id": "40077ee5-3fad-4e60-9fdb-dad8b8080ffc",
+        "text": "<!channel>\n안녕하세요. Upstage AI Lab 1기 수료생 여러분!\n벌써 수료하신 지 1주일이 지난 시점인데요.\n다들 취업 준비를 잘하고 계신지요??\n\n지난 주 수료식에서 말씀드린 `수료 혜택: 올플랜 입과`가 완료되어 공유드리니,\n다양한 강의 수강을 통해 취업에 필요한 여러 역량을 습득하시길 바라겠습니다.\n\n추가적으로 문의사항이 있으신 경우 편히 댓글로 말씀 주시기 바랍니다.\n\n감사합니다.\n\n> *Upstage AI Lab 1기 수료 혜택 \/ 올플랜 입과 안내*\n• 올플랜 강의장: <https:\/\/skillflo.io\/auth\/signin>\n• 접속 정보\n    ◦ ID: 이메일 주소\n        ▪︎ Gmail로 계정 등록이 되었으니, 참고해주세요.\n    ◦ PW: 이메일 주소\n        ▪︎ 기존 온라인 강의장을 Gmail로 가입하셨는데, 비밀번호를 변경하신 경우 변경된 비밀번호로 설정되어 있으니 참고해주세요.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "50abee101814",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-11\/6044824153712_50abee1018149e21919b_72.jpg",
+            "first_name": "이상영",
+            "real_name": "이상영",
+            "display_name": "FC 이상영 매니저",
+            "team": "T05UGFFGL07",
+            "name": "sangyeong.lee",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1715907603.019689",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1715919039.452819",
+        "reply_users": [
+            "U05UN7M2GKZ",
+            "U05VAHXECP6"
+        ],
+        "replies": [
+            {
+                "user": "U05UN7M2GKZ",
+                "ts": "1715916400.728079"
+            },
+            {
+                "user": "U05VAHXECP6",
+                "ts": "1715919020.001539"
+            },
+            {
+                "user": "U05UN7M2GKZ",
+                "ts": "1715919039.452819"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1715925078.024769",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UMPau",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n안녕하세요. Upstage AI Lab 1기 수료생 여러분!\n벌써 수료하신 지 1주일이 지난 시점인데요.\n다들 취업 준비를 잘하고 계신지요??\n\n지난 주 수료식에서 말씀드린 "
+                            },
+                            {
+                                "type": "text",
+                                "text": "수료 혜택: 올플랜 입과",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "가 완료되어 공유드리니,\n다양한 강의 수강을 통해 취업에 필요한 여러 역량을 습득하시길 바라겠습니다.\n\n추가적으로 문의사항이 있으신 경우 편히 댓글로 말씀 주시기 바랍니다.\n\n감사합니다.\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Upstage AI Lab 1기 수료 혜택 \/ 올플랜 입과 안내",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "올플랜 강의장: "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/skillflo.io\/auth\/signin"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "접속 정보"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "ID: 이메일 주소"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Gmail로 계정 등록이 되었으니, 참고해주세요."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 2,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "PW: 이메일 주소"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "기존 온라인 강의장을 Gmail로 가입하셨는데, 비밀번호를 변경하신 경우 변경된 비밀번호로 설정되어 있으니 참고해주세요."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 2,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U05UW74NJ0N",
+                    "U060C67EYQ5",
+                    "U05V9N22ZUK",
+                    "U060LG0BT89",
+                    "U05V9LP47V0",
+                    "U05VC7EEY5Q",
+                    "U05UN6NTN8P",
+                    "U0600GGHJTC",
+                    "U05UUUNAE5D",
+                    "U05V4KZR3NW",
+                    "U060BLVQYHW"
+                ],
+                "count": 11
+            }
+        ]
+    },
+    {
+        "user": "U05UVV5CVQE",
+        "type": "message",
+        "ts": "1715908038.563249",
+        "client_msg_id": "3B88BFAA-D972-44BB-AB19-4B9872092E85",
+        "text": "<@U05VADPQPCL>  10층 도착하였습니다!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "30ac2d3237e9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5988633954770_30ac2d3237e9b742adc2_72.jpg",
+            "first_name": "장은혁",
+            "real_name": "장은혁",
+            "display_name": "장은혁",
+            "team": "T05UGFFGL07",
+            "name": "jaydenhyuk830",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1714636713.244219",
+        "parent_user_id": "U05VADPQPCL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kb9ve",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05VADPQPCL"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  10"
+                            },
+                            {
+                                "type": "text",
+                                "text": "층"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "도착하였습니다"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0600C60ZK4",
+        "type": "message",
+        "ts": "1715911233.642939",
+        "client_msg_id": "EEECACDD-7636-4161-9963-06C9651D2C64",
+        "text": "<@U05VADPQPCL> 10층 도착하였습니다!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "87175e1bc0c1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/6000414092562_87175e1bc0c1a87a6752_72.jpg",
+            "first_name": "official",
+            "real_name": "official",
+            "display_name": "정다슬",
+            "team": "T05UGFFGL07",
+            "name": "anyone158911",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1714636713.244219",
+        "parent_user_id": "U05VADPQPCL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LHcSD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05VADPQPCL"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 10"
+                            },
+                            {
+                                "type": "text",
+                                "text": "층"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "도착하였습니다"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05UN7M2GKZ",
+        "type": "message",
+        "ts": "1715916400.728079",
+        "client_msg_id": "6fd20a60-3e45-4116-9821-7efbad8b9210",
+        "text": "안녕하세요 매니저닙! 저희 업스테이지 강의는 강의장에 입과가 되어있지 않아 문의드립니다!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "g898587e4152",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/898587e41523b6c4bc631e8e0c827f5b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "장호준",
+            "real_name": "장호준",
+            "display_name": "장호준",
+            "team": "T05UGFFGL07",
+            "name": "jhh6650",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1715907603.019689",
+        "parent_user_id": "U05VAHXECP6",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vFsiF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "안녕하세요 매니저닙! 저희 업스테이지 강의는 강의장에 입과가 되어있지 않아 문의드립니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U05VAHXECP6"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05VAHXECP6",
+        "type": "message",
+        "ts": "1715919020.001539",
+        "client_msg_id": "f7a1c1e5-9d46-423c-bcb1-d53cbf2d3d42",
+        "text": "<@U05UN7M2GKZ> 안녕하세요. 호준님!\n현재 업스테이지 강의 입과 건은 확인 중에 있습니다. 확인이 완료되면 다시 말씀드리겠습니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "50abee101814",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-11\/6044824153712_50abee1018149e21919b_72.jpg",
+            "first_name": "이상영",
+            "real_name": "이상영",
+            "display_name": "FC 이상영 매니저",
+            "team": "T05UGFFGL07",
+            "name": "sangyeong.lee",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1715907603.019689",
+        "parent_user_id": "U05VAHXECP6",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fYs6v",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05UN7M2GKZ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 안녕하세요. 호준님!\n현재 업스테이지 강의 입과 건은 확인 중에 있습니다. 확인이 완료되면 다시 말씀드리겠습니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05UN7M2GKZ",
+        "type": "message",
+        "ts": "1715919039.452819",
+        "client_msg_id": "19da47b4-85d1-4fd7-a9c1-65a1a52c4197",
+        "text": "넵 갑사합니다!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "g898587e4152",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/898587e41523b6c4bc631e8e0c827f5b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "장호준",
+            "real_name": "장호준",
+            "display_name": "장호준",
+            "team": "T05UGFFGL07",
+            "name": "jhh6650",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1715907603.019689",
+        "parent_user_id": "U05VAHXECP6",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "twJ7x",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "넵 갑사합니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U05VAHXECP6"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05VAHXECP6",
+        "type": "message",
+        "ts": "1715925119.152719",
+        "edited": {
+            "user": "U05VAHXECP6",
+            "ts": "1715925136.000000"
+        },
+        "client_msg_id": "605509cf-d1a4-4d6a-84d9-03fc20d137f4",
+        "text": "<!channel>\n업스테이지 강의는 일전에도 말씀드린 것처럼 따로 판매하지 않고, Upstage AI Lab 과정에서만 들을 수 있는 강의로서 위 강의장에서는 수강이 불가합니다.\n\n따라서, 기존 온라인 강의장을 통해 제공해드리고 있으니\n이점 확인하시고, 수강하시면 되겠습니다.\n\n> *Upstage AI Lab 1기 수료 혜택 \/ 업스테이지 강의 안내*\n• <https:\/\/kdt.fastcampus.co.kr|기존 강의장 링크>\n추가적인 문의사항 있다면 언제든 말씀주세요.\n\n감사합니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "50abee101814",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-11\/6044824153712_50abee1018149e21919b_72.jpg",
+            "first_name": "이상영",
+            "real_name": "이상영",
+            "display_name": "FC 이상영 매니저",
+            "team": "T05UGFFGL07",
+            "name": "sangyeong.lee",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "z86XA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n업스테이지 강의는 일전에도 말씀드린 것처럼 따로 판매하지 않고, Upstage AI Lab 과정에서만 들을 수 있는 강의로서 위 강의장에서는 수강이 불가합니다.\n\n따라서, 기존 온라인 강의장을 통해 제공해드리고 있으니\n이점 확인하시고, 수강하시면 되겠습니다.\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Upstage AI Lab 1기 수료 혜택 \/ 업스테이지 강의 안내",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/kdt.fastcampus.co.kr",
+                                        "text": "기존 강의장 링크"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n추가적인 문의사항 있다면 언제든 말씀주세요.\n\n감사합니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U05V9N22ZUK",
+                    "U05V4KZR3NW",
+                    "U060LG0BT89",
+                    "U060BLVQYHW",
+                    "U060C67EYQ5",
+                    "U05V2T62KUJ"
+                ],
+                "count": 6
+            },
+            {
+                "name": "+1::skin-tone-2",
+                "users": [
+                    "U05V2HL22M9"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

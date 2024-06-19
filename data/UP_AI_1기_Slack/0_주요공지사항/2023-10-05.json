@@ -1,0 +1,1046 @@
+[
+    {
+        "user": "U06061L4S64",
+        "type": "message",
+        "ts": "1696489634.231899",
+        "client_msg_id": "582b39f6-8adc-4de7-8d88-374959dcf02d",
+        "text": "*<!channel>*\n:slack: *슬랙 에티켓 관련 공지*\n본 과정에서 사용되는 소통 메신저인 슬랙을 사용하는데 있어, 필요한 에티켓에 대해 공지드립니다.\n\n• :round_pushpin: *슬랙의 이름은 본인 이름으로 설정해주시기 바랍니다.*\n    ◦ 표시이름 또한 본인 이름으로 설정해주시기 바랍니다.\n    ◦ 이름으로 설정하지 않을 경우, 슬랙에서 소통해주시는 분이 누구인지 알기 어렵습니다.\n    ◦ 이는 운영진과 수강생, 차후 강사님과 소통하는데 있어, 필수적인 에티켓이니 꼭 지켜주시기 바랍니다.\n• :round_pushpin: *운영진에게 DM으로 소통하는 것은 삼가해주시기 바랍니다.*\n    ◦ 본 과정 운영진은 원칙적으로 DM으로 소통을 진행하지 않습니다.\n    ◦ 정말 타인에게 공개하기 어려운 개인적인 이슈가 있는 경우에만 DM으로 말씀해주시기 바랍니다.\n• :round_pushpin: *비속어, 과격한 언행 등을 삼가해주시기 바랍니다.*\n    ◦ 슬랙은 과정에 참여하는 모두가 사용하는 메신저이니 만큼, 타인에게 불쾌감을 주는 언행을 피해주세요.\n• :grinning: 기타 문의 사항은 <#C05UY8HA0R0|개강_전_질문> 채널에 남겨주시기 바랍니다!\n",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "9958a6e7ea98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5988755251283_9958a6e7ea98545615ca_72.png",
+            "first_name": "LM",
+            "real_name": "LM 박진영",
+            "display_name": "LM 박진영",
+            "team": "T05UGFFGL07",
+            "name": "pjy.fc.career",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fB+AC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slack",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " 슬랙 에티켓 관련 공지",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n본 과정에서 사용되는 소통 메신저인 슬랙을 사용하는데 있어, 필요한 에티켓에 대해 공지드립니다.\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "emoji",
+                                        "name": "round_pushpin",
+                                        "unicode": "1f4cd"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " 슬랙의 이름은 본인 이름으로 설정해주시기 바랍니다.",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "표시이름 또한 본인 이름으로 설정해주시기 바랍니다."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "이름으로 설정하지 않을 경우, 슬랙에서 소통해주시는 분이 누구인지 알기 어렵습니다."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "이는 운영진과 수강생, 차후 강사님과 소통하는데 있어, 필수적인 에티켓이니 꼭 지켜주시기 바랍니다."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "emoji",
+                                        "name": "round_pushpin",
+                                        "unicode": "1f4cd"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " 운영진에게 DM으로 소통하는 것은 삼가해주시기 바랍니다.",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "본 과정 운영진은 원칙적으로 DM으로 소통을 진행하지 않습니다."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "정말 타인에게 공개하기 어려운 개인적인 이슈가 있는 경우에만 DM으로 말씀해주시기 바랍니다."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "emoji",
+                                        "name": "round_pushpin",
+                                        "unicode": "1f4cd"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "비속어, 과격한 언행 등을 삼가해주시기 바랍니다.",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "슬랙은 과정에 참여하는 모두가 사용하는 메신저이니 만큼, 타인에게 불쾌감을 주는 언행을 피해주세요."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "emoji",
+                                        "name": "grinning",
+                                        "unicode": "1f600",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " 기타 문의 사항은 "
+                                    },
+                                    {
+                                        "type": "channel",
+                                        "channel_id": "C05UY8HA0R0"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " 채널에 남겨주시기 바랍니다!"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "grinning",
+                "users": [
+                    "U06061L4S64",
+                    "U0602CFAB7B"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U06061L4S64",
+        "type": "message",
+        "ts": "1696489667.554629",
+        "client_msg_id": "4301e7ac-5849-4c31-bd21-8bff7b714c97",
+        "text": ":mega: *HRD-Net 수강신청 관련 공지*\nHRD-Net 수강신청 관련하여 공지드립니다. 필독사항으로, 해당 공지의 내용을 반드시 숙지하시기 바랍니다.\n\n• :ballot_box_with_check: *HRD-Net 수강신청 안내*\n    ◦ HRD-Net 수강신청 기간: *~2023. 10. 10(화) 10:00까지*\n        ▪︎ 사정으로 인해서 기간 내에 불가능하신분들은 <#C05V0H8H3GC|4_행정문의방> 문의 부탁드립니다.\n    ◦ HRD-Net 수강신청 과정 명: 패스트캠퍼스 인공지능(AI) 부트캠프\n    ◦ HRD-Net 수강신청 바로가기:  <https:\/\/bit.ly\/48RrH5U>\n• :ballot_box_with_check: *필독사항*\n    ◦ *HRD-Net 수강신청 전에 반드시 '국민내일배움카드'가 선발급되어야 합니다.*\n    ◦ HRD-Net 수강신청을 하지 않을 경우, 본 과정 출석체크가 되지 않습니다. 원활한 수강을 위해선 반드시 HRD-Net 수강신청을 진행해주세요.\n    ◦ OT 당일부터 *고용노동부 HRD-Net 및 출결관리* 어플을 통해 수강신청을 진행하므로, 꼭 미리 설치해 주시기 바랍니다.\n    ◦ HRD-Net 수강신청에 대해 더 자세한 내용은 *<https:\/\/docs.google.com\/uc?export=download&amp;id=1WLUNsWiX7PGP7umd9AC_BBBbi39sIVCl&amp;confirm=t|HRD-Net 사용자 매뉴얼>*을 참고하시기 바랍니다.\n    ◦ 첨부 파일의 p.5-17(내일배움카드), p.45-53(수강신청)을 참고해주세요.\n• :grinning: 기타 문의 사항은 <#C05UY8HA0R0|개강_전_질문> 채널에 남겨주시기 바랍니다!\n",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "9958a6e7ea98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5988755251283_9958a6e7ea98545615ca_72.png",
+            "first_name": "LM",
+            "real_name": "LM 박진영",
+            "display_name": "LM 박진영",
+            "team": "T05UGFFGL07",
+            "name": "pjy.fc.career",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xVs9N",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "mega",
+                                "unicode": "1f4e3",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " HRD-Net 수강신청 관련 공지",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nHRD-Net 수강신청 관련하여 공지드립니다. 필독사항으로, 해당 공지의 내용을 반드시 숙지하시기 바랍니다.\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "emoji",
+                                        "name": "ballot_box_with_check",
+                                        "unicode": "2611-fe0f"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "HRD-Net 수강신청 안내",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "HRD-Net 수강신청 기간: "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "~2023. 10. 10(화) 10:00까지",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "사정으로 인해서 기간 내에 불가능하신분들은 "
+                                    },
+                                    {
+                                        "type": "channel",
+                                        "channel_id": "C05V0H8H3GC"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " 문의 부탁드립니다."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 2,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "HRD-Net 수강신청 과정 명: 패스트캠퍼스 인공지능(AI) 부트캠프"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "HRD-Net 수강신청 바로가기:  "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/bit.ly\/48RrH5U"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "emoji",
+                                        "name": "ballot_box_with_check",
+                                        "unicode": "2611-fe0f",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " 필독사항",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "HRD-Net 수강신청 전에 반드시 '국민내일배움카드'가 선발급되어야 합니다.",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "HRD-Net 수강신청을 하지 않을 경우, 본 과정 출석체크가 되지 않습니다. 원활한 수강을 위해선 반드시 HRD-Net 수강신청을 진행해주세요."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "OT 당일부터 "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "고용노동부 HRD-Net 및 출결관리 ",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "어플을 통해 수강신청을 진행하므로,"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " ",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "꼭 미리 설치해 주시기 바랍니다."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "HRD-Net 수강신청에 대해 더 자세한 내용은 "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/docs.google.com\/uc?export=download&id=1WLUNsWiX7PGP7umd9AC_BBBbi39sIVCl&confirm=t",
+                                        "text": "HRD-Net 사용자 매뉴얼",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "을 참고하시기 바랍니다."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "첨부 파일의 p.5-17(내일배움카드), p.45-53(수강신청)을 참고해주세요."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "emoji",
+                                        "name": "grinning",
+                                        "unicode": "1f600",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " 기타 문의 사항은 "
+                                    },
+                                    {
+                                        "type": "channel",
+                                        "channel_id": "C05UY8HA0R0"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " 채널에 남겨주시기 바랍니다!"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06061L4S64",
+        "type": "message",
+        "ts": "1696566680.015179",
+        "edited": {
+            "user": "U06061L4S64",
+            "ts": "1696915137.000000"
+        },
+        "client_msg_id": "93f2c7b9-e2e9-424e-8ee6-5cc35ba66886",
+        "text": ":man_and_woman_holding_hands: *OT 진행 관련 공지*\n10월 10일에 진행될 OT와 관련하여 안내드립니다.\n\n    ◦ :balloon: *OT 기본 정보 안내*\n        ▪︎ OT 일정: *2023. 10. 10(화) 15:00~19:00 (약 4시간)*\n        ▪︎ OT 진행 방법 및 장소: *ZOOM을 활용한 비대면 스트리밍*\n        ▪︎ OT Time Table\n            • *15:00 ~ 17:00* 과정 안내 및 아이스 브레이킹\n            • *17:00 ~ 18:00* 업스테이지 현직자 특강\n            • *18:00 ~ 19:00* 패스트캠퍼스 AI 교육 김용담 전임강사님 소개\n    ◦ :balloon: *OT ZOOM 안내*\n        ▪︎ 회의 참여 링크 | <https:\/\/bit.ly\/46rd9I6>\n        ▪︎ 회의 ID | 892 9350 9886\n        ▪︎ 암호 | 2023\n    ◦ :balloon: *OT 관련 필독사항*\n        ▪︎ *본인 한글 실명*으로 이름을 변경해 주세요. (ex. 박패캠)\n        ▪︎ OT가 시작되면 모두 *카메라를 켜 주세요.*\n        ▪︎ OT 당일 해당 어플을 통한 QR 스캔으로 출결을 체크할 예정이니, *고용노동부 HRD-Net 및 출결관리* 어플을 꼭 미리 설치해 주세요.\n• :grinning: 기타 문의 사항은 <#C05UY8HA0R0|개강_전_질문> 채널에 남겨주시기 바랍니다!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "9958a6e7ea98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5988755251283_9958a6e7ea98545615ca_72.png",
+            "first_name": "LM",
+            "real_name": "LM 박진영",
+            "display_name": "LM 박진영",
+            "team": "T05UGFFGL07",
+            "name": "pjy.fc.career",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "F1xde",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "man_and_woman_holding_hands",
+                                "unicode": "1f46b",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " OT 진행 관련 공지",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n10월 10일에 진행될 OT와 관련하여 안내드립니다.\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "emoji",
+                                        "name": "balloon",
+                                        "unicode": "1f388",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " OT 기본 정보 안내",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "OT 일정: "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "2023. 10. 10(화) 15:00~19:00 (약 4시간)",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "OT 진행 방법 및 장소: "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "ZOOM을 활용한 비대면 스트리밍",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "OT Time Table"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 2,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "15:00 ~ 17:00",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " 과정 안내 및 아이스 브레이킹"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "17:00 ~ 18:00 ",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "업스테이지 현직자 특강"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "18:00 ~ 19:00",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " 패스트캠퍼스 AI 교육 김용담 전임강사님 소개"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 3,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "emoji",
+                                        "name": "balloon",
+                                        "unicode": "1f388",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " OT ZOOM 안내",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "회의 참여 링크 | "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/bit.ly\/46rd9I6"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "회의 ID | 892 9350 9886"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "암호 | 2023"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 2,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "emoji",
+                                        "name": "balloon",
+                                        "unicode": "1f388",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " OT 관련 필독사항",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "본인 한글 실명",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "으로 이름을 변경해 주세요. (ex. 박패캠)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "OT가 시작되면 모두 "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "카메라를 켜 주세요.",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "OT 당일 해당 어플을 통한 QR 스캔으로 출결을 체크할 예정이니, "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "고용노동부 HRD-Net 및 출결관리 ",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "어플을"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " ",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "꼭 미리 설치해 주세요."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 2,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "emoji",
+                                        "name": "grinning",
+                                        "unicode": "1f600",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " 기타 문의 사항은 "
+                                    },
+                                    {
+                                        "type": "channel",
+                                        "channel_id": "C05UY8HA0R0"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " 채널에 남겨주시기 바랍니다!"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ]
+    }
+]

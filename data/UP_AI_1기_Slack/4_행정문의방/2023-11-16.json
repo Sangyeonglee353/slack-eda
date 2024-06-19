@@ -1,0 +1,331 @@
+[
+    {
+        "user": "U05V5B88ULD",
+        "type": "message",
+        "ts": "1700182840.892479",
+        "client_msg_id": "11d8b5ea-80aa-46a5-96dc-1049fa2e423a",
+        "text": "<@U05UNC6FNK1> <@U05V81G5ZDY> 11\/15 - 병가 \/ 구글 설문 제출했습니다",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "80cc6894efa6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/6017299669088_80cc6894efa66060bc9e_72.png",
+            "first_name": "전수연",
+            "real_name": "전수연",
+            "display_name": "전수연",
+            "team": "T05UGFFGL07",
+            "name": "rachel.sy.jun",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kSJuK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05UNC6FNK1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05V81G5ZDY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 11\/15 - 병가 \/ 구글 설문 제출했습니다"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "U05V81G5ZDY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05V5H1T24V",
+        "type": "message",
+        "ts": "1700200632.597289",
+        "client_msg_id": "2FCA5465-7084-4E01-B33F-5B5B5A6C82BA",
+        "text": "<@U05V81G5ZDY> <@U05UNC6FNK1> 훈련장려금 지급일이 언제인가요?",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "7c6706ce6504",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5987883585126_7c6706ce65044c7fba85_72.png",
+            "first_name": "서재현",
+            "real_name": "서재현",
+            "display_name": "서재현",
+            "team": "T05UGFFGL07",
+            "name": "jaehyeon4037",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1700200632.597289",
+        "reply_count": 2,
+        "reply_users_count": 1,
+        "latest_reply": "1700201024.210779",
+        "reply_users": [
+            "U05UNC6FNK1"
+        ],
+        "replies": [
+            {
+                "user": "U05UNC6FNK1",
+                "ts": "1700200993.927249"
+            },
+            {
+                "user": "U05UNC6FNK1",
+                "ts": "1700201024.210779"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kZR06",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05V81G5ZDY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05UNC6FNK1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "훈련장려금"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "지급일이"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "언제인가요"
+                            },
+                            {
+                                "type": "text",
+                                "text": "?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "U05UNC6FNK1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05UNC6FNK1",
+        "type": "message",
+        "ts": "1700200993.927249",
+        "client_msg_id": "ed2da91a-67db-4fcd-ba21-dafe010a5b06",
+        "text": "지급일은 별도 정해져 있지 않습니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "260d154ea1e2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5979526758263_260d154ea1e2177fd001_72.jpg",
+            "first_name": "FC",
+            "real_name": "FC 하시안 매니저",
+            "display_name": "FC 하시안 매니저",
+            "team": "T05UGFFGL07",
+            "name": "xianha",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1700200632.597289",
+        "parent_user_id": "U05V5H1T24V",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IEdZM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "지급일은 별도 정해져 있지 않습니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05UNC6FNK1",
+        "type": "message",
+        "ts": "1700201024.210779",
+        "client_msg_id": "5bc8652e-4112-48a6-bc5e-9e9047902eb9",
+        "text": "현재 일부 수강생이 출결 정정 파일을 제출하지 않아 신청이 지연되는점 양해바랍니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "260d154ea1e2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5979526758263_260d154ea1e2177fd001_72.jpg",
+            "first_name": "FC",
+            "real_name": "FC 하시안 매니저",
+            "display_name": "FC 하시안 매니저",
+            "team": "T05UGFFGL07",
+            "name": "xianha",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1700200632.597289",
+        "parent_user_id": "U05V5H1T24V",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "i1OKO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "현재 일부 수강생이 출결 정정 파일을 제출하지 않아 신청이 지연되는점 양해바랍니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U05V5H1T24V"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05UN5DQ423",
+        "type": "message",
+        "ts": "1700201220.947259",
+        "client_msg_id": "81d3f5bb-5257-4e5b-9546-71414a192c52",
+        "text": "<@U05UNC6FNK1> <@U05V81G5ZDY> \n\n안녕하세요 예비군 훈련 일정 사전 공유드립니다.\n박성우 \/ 2023년 12월 1일 09:00-18:00\n훈련 이후 교육필증 및 출석대장 구글폼 설문 제출하겠습니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "602bc2a55d5c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5994828351843_602bc2a55d5c461d5b24_72.png",
+            "first_name": "박성우",
+            "real_name": "박성우",
+            "display_name": "박성우",
+            "team": "T05UGFFGL07",
+            "name": "tjddn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1700201220.947259",
+        "reply_count": 2,
+        "reply_users_count": 1,
+        "latest_reply": "1701660692.736009",
+        "reply_users": [
+            "U05UN5DQ423"
+        ],
+        "replies": [
+            {
+                "user": "U05UN5DQ423",
+                "ts": "1701654755.210989"
+            },
+            {
+                "user": "U05UN5DQ423",
+                "ts": "1701660692.736009"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "m6U+0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05UNC6FNK1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05V81G5ZDY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n\n안녕하세요 예비군 훈련 일정 사전 공유드립니다.\n박성우 \/ 2023년 12월 1일 09:00-18:00\n훈련 이후 교육필증 및 출석대장 구글폼 설문 제출하겠습니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "military_helmet",
+                "users": [
+                    "U05V81G5ZDY",
+                    "U05UN5DQ423"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

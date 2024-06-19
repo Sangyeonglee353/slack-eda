@@ -1,0 +1,46 @@
+[
+    {
+        "user": "U05V7V2AV8A",
+        "type": "message",
+        "ts": "1710205215.228689",
+        "client_msg_id": "9f62b1ff-260f-4c52-bede-36a12163101d",
+        "text": "감사합니다. vscode에서 시각화해서 보는거 보이지 않는데 ㅠ 어떤 건가요? <@U06P0H0V3UY>",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "28368614e02a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5987346071766_28368614e02abbfb71bd_72.png",
+            "first_name": "andrew",
+            "real_name": "andrew jang",
+            "display_name": "장준규",
+            "team": "T05UGFFGL07",
+            "name": "goldenbeluga",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1710124939.129419",
+        "parent_user_id": "U05V7V2AV8A",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "N6G7v",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "감사합니다. vscode에서 시각화해서 보는거 보이지 않는데 ㅠ 어떤 건가요? "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06P0H0V3UY"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

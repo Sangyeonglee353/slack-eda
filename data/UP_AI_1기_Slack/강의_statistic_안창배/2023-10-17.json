@@ -1,0 +1,91 @@
+[
+    {
+        "user": "U0600GGHJTC",
+        "type": "message",
+        "ts": "1697528038.924289",
+        "client_msg_id": "e38178c1-e0e3-4fa4-8363-64d7006aa155",
+        "text": "올려주신 링크에 ISLR이 있고 ISLP가 있는데 파이썬을 주로하면 ISLP를 읽는게 좋나요?",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "561da967acdc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/6000560676530_561da967acdc677d2136_72.png",
+            "first_name": "신동혁",
+            "real_name": "신동혁",
+            "display_name": "신동혁",
+            "team": "T05UGFFGL07",
+            "name": "kn7137",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697513021.649299",
+        "parent_user_id": "U05V87YA1CJ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "unoOQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "올려주신 링크에 ISLR이 있고 ISLP가 있는데 파이썬을 주로하면 ISLP를 읽는게 좋나요?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05V87YA1CJ",
+        "type": "message",
+        "ts": "1697528417.006549",
+        "client_msg_id": "7219544e-644b-47d5-89a1-aadf67d2e181",
+        "text": "두 개가 이론적으로는 같고, 어떤 프로그램을 쓰느냐의 차이기 때문에\n파이썬을 쓰신다면 ISLP가 낫겠습니다!!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "f846e9978d52",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/6017264684624_f846e9978d52439c35d2_72.png",
+            "first_name": "dane",
+            "real_name": "dane ahn",
+            "display_name": "dane ahn",
+            "team": "T05UGFFGL07",
+            "name": "natasma13",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697513021.649299",
+        "parent_user_id": "U05V87YA1CJ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FQGlI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "두 개가 이론적으로는 같고, 어떤 프로그램을 쓰느냐의 차이기 때문에\n파이썬을 쓰신다면 ISLP가 낫겠습니다!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "smiling_face_with_3_hearts",
+                "users": [
+                    "U0600GGHJTC"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,276 @@
+[
+    {
+        "user": "U05VADPQPCL",
+        "type": "message",
+        "ts": "1702890000.143239",
+        "client_msg_id": "4edcb837-80e0-4dd0-a089-063ba7bc2c59",
+        "text": "<!channel>\n:rolled_up_newspaper: *패스트캠퍼스 부트캠프 기자단 4기 모집 공지*\n:round_pushpin: *기자단 4기 모집 기간*\n    ◦ 모집 기간 : 2023. 12. 18(월) - 2023. 12. 25(월)\n    ◦ 합격자 안내 : 2023. 12. 28 (목)\n:round_pushpin: *기자단 4기 지원 방법*\n    ◦ 관련 설문에 응시해주시면 됩니다.\n    ◦ <https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLSesQap6vgQTiyscE0toP-tKXX2v2wBKRIazNNrBVU76BsHXvA\/viewform|설문 바로가기>\n:round_pushpin: *기자단 지원 시 참고 사항*\n    ◦ 관련 안내 노션 : <https:\/\/www.notion.so\/Archive-3-ef2ee4a4c9bd4e51a49937b5a0c28ba5?pvs=21|바로가기>\n    ◦ 기자단 블로그 우수 글 모음 : <https:\/\/www.notion.so\/Fastcampus_Report-19ad9878d18d4caba99b145e03169097?pvs=21|바로가기>\n    ◦ 기자단 혜택 (자세한 정보는 노션 참고)\n        ▪︎ 기자단 합격 시 글쓰기 강의 제공\n        ▪︎ 기자단 활동 완주 시, 평생 소장 강의 쿠폰 지급\n        ▪︎ 기자단 활동 완주 시, 기자단 장학금 지급\n",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "07e7ca00b8f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5991092857253_07e7ca00b8f0d0b13ba1_72.png",
+            "first_name": "패스트캠퍼스박기준",
+            "real_name": "패스트캠퍼스박기준",
+            "display_name": "LM 박기준",
+            "team": "T05UGFFGL07",
+            "name": "pgj.fc.career",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zLrXF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "rolled_up_newspaper",
+                                "unicode": "1f5de-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "패스트캠퍼스 부트캠프 기자단 4기 모집 공지",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "round_pushpin",
+                                "unicode": "1f4cd",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " 기자단 4기 모집 기간",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "모집 기간 : 2023. 12. 18(월) - 2023. 12. 25(월)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "합격자 안내 : 2023. 12. 28 (목)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "round_pushpin",
+                                "unicode": "1f4cd",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " 기자단 4기 지원 방법",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "관련 설문에 응시해주시면 됩니다."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLSesQap6vgQTiyscE0toP-tKXX2v2wBKRIazNNrBVU76BsHXvA\/viewform",
+                                        "text": "설문 바로가기"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "round_pushpin",
+                                "unicode": "1f4cd",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " 기자단 지원 시 참고 사항",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "관련 안내 노션 : "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/www.notion.so\/Archive-3-ef2ee4a4c9bd4e51a49937b5a0c28ba5?pvs=21",
+                                        "text": "바로가기"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "기자단 블로그 우수 글 모음 : "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/www.notion.so\/Fastcampus_Report-19ad9878d18d4caba99b145e03169097?pvs=21",
+                                        "text": "바로가기"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "기자단 혜택 (자세한 정보는 노션 참고)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "기자단 합격 시 글쓰기 강의 제공"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "기자단 활동 완주 시, 평생 소장 강의 쿠폰 지급"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "기자단 활동 완주 시, 기자단 장학금 지급"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 2,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ]
+    }
+]

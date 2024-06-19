@@ -1,0 +1,211 @@
+[
+    {
+        "user": "U06061L4S64",
+        "type": "message",
+        "ts": "1697527370.883369",
+        "client_msg_id": "b0c617a8-2e51-431c-8e17-890bc8deca3a",
+        "text": "준규님 QR찍으시면 자동으로 조퇴 됩니다!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "9958a6e7ea98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5988755251283_9958a6e7ea98545615ca_72.png",
+            "first_name": "LM",
+            "real_name": "LM 박진영",
+            "display_name": "LM 박진영",
+            "team": "T05UGFFGL07",
+            "name": "pjy.fc.career",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697523248.726589",
+        "parent_user_id": "U05V7V2AV8A",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "G9SAw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "준규님 QR찍으시면 자동으로 조퇴 됩니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06061L4S64",
+        "type": "message",
+        "ts": "1697527382.338429",
+        "client_msg_id": "1aeb5290-764f-4e8c-b82b-b617f6d32f84",
+        "text": "오늘 조퇴하시는건가요?",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "9958a6e7ea98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5988755251283_9958a6e7ea98545615ca_72.png",
+            "first_name": "LM",
+            "real_name": "LM 박진영",
+            "display_name": "LM 박진영",
+            "team": "T05UGFFGL07",
+            "name": "pjy.fc.career",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697523248.726589",
+        "parent_user_id": "U05V7V2AV8A",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZjYjI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "오늘 조퇴하시는건가요?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05V7V2AV8A",
+        "type": "message",
+        "ts": "1697527560.539169",
+        "client_msg_id": "537dd90d-ab2a-40a4-9dd9-900c7e049de2",
+        "text": "6시쯤 나가려구요",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "28368614e02a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5987346071766_28368614e02abbfb71bd_72.png",
+            "first_name": "andrew",
+            "real_name": "andrew jang",
+            "display_name": "장준규",
+            "team": "T05UGFFGL07",
+            "name": "goldenbeluga",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697523248.726589",
+        "parent_user_id": "U05V7V2AV8A",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tvAzE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "6시쯤 나가려구요"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06061L4S64",
+        "type": "message",
+        "ts": "1697527575.488049",
+        "client_msg_id": "eaac412d-4062-4f0c-9148-17d25213b686",
+        "text": "나가실때 QR 찍으시면 됩니다!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "9958a6e7ea98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5988755251283_9958a6e7ea98545615ca_72.png",
+            "first_name": "LM",
+            "real_name": "LM 박진영",
+            "display_name": "LM 박진영",
+            "team": "T05UGFFGL07",
+            "name": "pjy.fc.career",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697523248.726589",
+        "parent_user_id": "U05V7V2AV8A",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SIpLI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "나가실때 QR 찍으시면 됩니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05V7V2AV8A",
+        "type": "message",
+        "ts": "1697527589.559669",
+        "client_msg_id": "76d0b66e-f6b9-4bf3-9a51-b971bb32af20",
+        "text": "감사합니다!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "28368614e02a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5987346071766_28368614e02abbfb71bd_72.png",
+            "first_name": "andrew",
+            "real_name": "andrew jang",
+            "display_name": "장준규",
+            "team": "T05UGFFGL07",
+            "name": "goldenbeluga",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697523248.726589",
+        "parent_user_id": "U05V7V2AV8A",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ok6Qb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "감사합니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U06061L4S64"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

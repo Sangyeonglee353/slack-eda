@@ -1,0 +1,1046 @@
+[
+    {
+        "user": "U05V87YA1CJ",
+        "type": "message",
+        "ts": "1697105952.612039",
+        "edited": {
+            "user": "U05V87YA1CJ",
+            "ts": "1697105962.000000"
+        },
+        "client_msg_id": "3f4d63e7-01e3-453a-aeb6-a71082298da0",
+        "text": "주요 강의 토픽만이라도 미리 전달드립니다\n• 10\/13(금): ANOVA와 카이제곱 검정\n• 10\/16(월): 선형 회귀 모형\n• 10\/17(화): 일반화 선형 모형과 K-means",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "f846e9978d52",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/6017264684624_f846e9978d52439c35d2_72.png",
+            "first_name": "dane",
+            "real_name": "dane ahn",
+            "display_name": "dane ahn",
+            "team": "T05UGFFGL07",
+            "name": "natasma13",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ywIwW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "주요 강의 토픽만이라도 미리 전달드립니다\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "10\/13(금): ANOVA와 카이제곱 검정"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "10\/16(월): 선형 회귀 모형"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "10\/17(화): 일반화 선형 모형과 K-means"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0606HAGLTB",
+                    "U05UWVA90H4",
+                    "U060C67EYQ5",
+                    "U05UN6NTN8P",
+                    "U05V5B27DK7",
+                    "U060D1KJECR",
+                    "U05UVV5CVQE",
+                    "U05V561TXUL",
+                    "U0602CFAB7B",
+                    "U05V379NETU",
+                    "U05UZLEM04V",
+                    "U05V1KVNK0E"
+                ],
+                "count": 12
+            },
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U05V7H78DUM",
+                    "U060C67EYQ5",
+                    "U05UVV5CVQE",
+                    "U0600GGHJTC",
+                    "U05UNMQ4LP9"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "user": "U05V2HL22M9",
+        "type": "message",
+        "ts": "1697106078.193889",
+        "client_msg_id": "b5a1a217-ccd4-408d-8acd-c773ee2fb9c3",
+        "text": "<@U05V87YA1CJ> 강사님 2강 notebook 수정 코드 업데이트 부탁드립니다 ~!!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "1dcddf110806",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5996462649172_1dcddf110806f3a037a7_72.png",
+            "first_name": "김도연",
+            "real_name": "김도연",
+            "display_name": "김도연",
+            "team": "T05UGFFGL07",
+            "name": "lottie_eve",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697072509.369299",
+        "parent_user_id": "U05V87YA1CJ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Z+xH4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05V87YA1CJ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 강사님 2강 notebook 수정 코드 업데이트 부탁드립니다 ~!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "<@U05V2HL22M9> 님 노티 감사합니다!\n헷갈릴 수 있으니 원본 제거 하고 다시 업로드 드립니다!!\n샘플링 부분이 조금 바뀌었어요 ... 균일에서 샘플링하고 있었네요 ^.ㅜ",
+        "files": [
+            {
+                "id": "F060UPWCL9H",
+                "created": 1697106829,
+                "timestamp": 1697106829,
+                "name": "패스트캠퍼스X업스테이지 AI Lab Stats 2일차.ipynb",
+                "title": "패스트캠퍼스X업스테이지 AI Lab Stats 2일차.ipynb",
+                "mimetype": "application\/octet-stream",
+                "filetype": "binary",
+                "pretty_type": "Binary",
+                "user": "U05V87YA1CJ",
+                "user_team": "T05UGFFGL07",
+                "editable": false,
+                "size": 194438,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F060UPWCL9H\/_______________________________________x__________________________________ai_lab_stats_2_______________.ipynb?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F060UPWCL9H\/download\/_______________________________________x__________________________________ai_lab_stats_2_______________.ipynb?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "media_display_type": "unknown",
+                "permalink": "https:\/\/fcupstageai1.slack.com\/files\/U05V87YA1CJ\/F060UPWCL9H\/_______________________________________x__________________________________ai_lab_stats_2_______________.ipynb",
+                "permalink_public": "https:\/\/slack-files.com\/T05UGFFGL07-F060UPWCL9H-0376e1a0d4",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U05V87YA1CJ",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WqrNR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05V2HL22M9"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 님 노티 감사합니다!\n헷갈릴 수 있으니 원본 제거 하고 다시 업로드 드립니다!!\n샘플링 부분이 조금 바뀌었어요 ... 균일에서 샘플링하고 있었네요 ^.ㅜ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1697106858.783969",
+        "client_msg_id": "31cd4766-ac85-46b8-8ad2-f16e85aa8bc6",
+        "thread_ts": "1697072509.369299",
+        "parent_user_id": "U05V87YA1CJ",
+        "reactions": [
+            {
+                "name": "+1::skin-tone-2",
+                "users": [
+                    "U05V2HL22M9"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U060LG0BT89"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "text": "오늘자 강의안입니다~!",
+        "files": [
+            {
+                "id": "F060SE40R4N",
+                "created": 1697158895,
+                "timestamp": 1697158895,
+                "name": "[Stats] 3강.pdf",
+                "title": "[Stats] 3강.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U05V87YA1CJ",
+                "user_team": "T05UGFFGL07",
+                "editable": false,
+                "size": 2019489,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F060SE40R4N\/_stats__3_________.pdf?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F060SE40R4N\/download\/_stats__3_________.pdf?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "media_display_type": "unknown",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F060SE40R4N-adb61c6c58\/_stats__3__________thumb_pdf.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_pdf_w": 1100,
+                "thumb_pdf_h": 619,
+                "permalink": "https:\/\/fcupstageai1.slack.com\/files\/U05V87YA1CJ\/F060SE40R4N\/_stats__3_________.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/T05UGFFGL07-F060SE40R4N-3742138046",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U05V87YA1CJ",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uoq0S",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "오늘자 강의안입니다~!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1697158898.355899",
+        "client_msg_id": "b4145d04-ebb5-4c67-9f83-711b21a4a7c7",
+        "thread_ts": "1697158898.355899",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1697165633.327159",
+        "reply_users": [
+            "U05V87YA1CJ"
+        ],
+        "replies": [
+            {
+                "user": "U05V87YA1CJ",
+                "ts": "1697165633.327159"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U060LG0BT89",
+                    "U05V379NETU",
+                    "U05V7H78DUM",
+                    "U0600GGHJTC",
+                    "U05V561TXUL",
+                    "U05V4FX03SP"
+                ],
+                "count": 6
+            }
+        ]
+    },
+    {
+        "user": "U05V87YA1CJ",
+        "type": "message",
+        "ts": "1697161684.901269",
+        "client_msg_id": "c73cc1ba-e64d-4d79-8101-ccda5c4ea835",
+        "text": "<https:\/\/zzsza.github.io\/data\/2019\/02\/06\/prophet\/|facebook prophet>",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "f846e9978d52",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/6017264684624_f846e9978d52439c35d2_72.png",
+            "first_name": "dane",
+            "real_name": "dane ahn",
+            "display_name": "dane ahn",
+            "team": "T05UGFFGL07",
+            "name": "natasma13",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/zzsza.github.io\/data\/2019\/02\/06\/prophet\/",
+                "image_url": "https:\/\/zzsza.github.io\/assets\/img\/logo.png",
+                "image_width": 512,
+                "image_height": 512,
+                "image_bytes": 31985,
+                "service_icon": "https:\/\/zzsza.github.io\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/zzsza.github.io\/data\/2019\/02\/06\/prophet\/",
+                "fallback": "시계열 예측을 위한 Facebook Prophet 사용하기",
+                "text": "페이스북이 만든 시계열 예측 라이브러리 Prophet 사용법에 대해 작성한 글입니다 Prophet은 Python, R로 사용할 수 있는데, 본 글에선 Python로 활용하는 방법에 대해서만 다룹니다",
+                "title": "시계열 예측을 위한 Facebook Prophet 사용하기",
+                "title_link": "https:\/\/zzsza.github.io\/data\/2019\/02\/06\/prophet\/",
+                "service_name": "zzsza.github.io"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "E1ePb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/zzsza.github.io\/data\/2019\/02\/06\/prophet\/",
+                                "text": "facebook prophet"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "오늘자 코드입니다",
+        "files": [
+            {
+                "id": "F060Z91803V",
+                "created": 1697165630,
+                "timestamp": 1697165630,
+                "name": "패스트캠퍼스X업스테이지 AI Lab Stats 3일차.ipynb",
+                "title": "패스트캠퍼스X업스테이지 AI Lab Stats 3일차.ipynb",
+                "mimetype": "application\/octet-stream",
+                "filetype": "binary",
+                "pretty_type": "Binary",
+                "user": "U05V87YA1CJ",
+                "user_team": "T05UGFFGL07",
+                "editable": false,
+                "size": 428677,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F060Z91803V\/_______________________________________x__________________________________ai_lab_stats_3_______________.ipynb?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F060Z91803V\/download\/_______________________________________x__________________________________ai_lab_stats_3_______________.ipynb?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "media_display_type": "unknown",
+                "permalink": "https:\/\/fcupstageai1.slack.com\/files\/U05V87YA1CJ\/F060Z91803V\/_______________________________________x__________________________________ai_lab_stats_3_______________.ipynb",
+                "permalink_public": "https:\/\/slack-files.com\/T05UGFFGL07-F060Z91803V-06c5342fe6",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U05V87YA1CJ",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "T83aV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "오늘자 코드입니다"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "subtype": "thread_broadcast",
+        "root": {
+            "text": "오늘자 강의안입니다~!",
+            "files": [
+                {
+                    "id": "F060SE40R4N",
+                    "created": 1697158895,
+                    "timestamp": 1697158895,
+                    "name": "[Stats] 3강.pdf",
+                    "title": "[Stats] 3강.pdf",
+                    "mimetype": "application\/pdf",
+                    "filetype": "pdf",
+                    "pretty_type": "PDF",
+                    "user": "U05V87YA1CJ",
+                    "user_team": "T05UGFFGL07",
+                    "editable": false,
+                    "size": 2019489,
+                    "mode": "hosted",
+                    "is_external": false,
+                    "external_type": "",
+                    "is_public": true,
+                    "public_url_shared": false,
+                    "display_as_bot": false,
+                    "username": "",
+                    "url_private": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F060SE40R4N\/_stats__3_________.pdf?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                    "url_private_download": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F060SE40R4N\/download\/_stats__3_________.pdf?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                    "media_display_type": "unknown",
+                    "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F060SE40R4N-adb61c6c58\/_stats__3__________thumb_pdf.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                    "thumb_pdf_w": 1100,
+                    "thumb_pdf_h": 619,
+                    "permalink": "https:\/\/fcupstageai1.slack.com\/files\/U05V87YA1CJ\/F060SE40R4N\/_stats__3_________.pdf",
+                    "permalink_public": "https:\/\/slack-files.com\/T05UGFFGL07-F060SE40R4N-3742138046",
+                    "is_starred": false,
+                    "has_rich_preview": false,
+                    "file_access": "visible"
+                }
+            ],
+            "upload": false,
+            "user": "U05V87YA1CJ",
+            "display_as_bot": false,
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "uoq0S",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "오늘자 강의안입니다~!"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "type": "message",
+            "ts": "1697158898.355899",
+            "client_msg_id": "b4145d04-ebb5-4c67-9f83-711b21a4a7c7",
+            "thread_ts": "1697158898.355899",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1697165633.327159",
+            "reply_users": [
+                "U05V87YA1CJ"
+            ],
+            "replies": [
+                {
+                    "user": "U05V87YA1CJ",
+                    "ts": "1697165633.327159"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false
+        },
+        "type": "message",
+        "ts": "1697165633.327159",
+        "client_msg_id": "2d161568-6caa-4909-822a-3b4f62cdee79",
+        "thread_ts": "1697158898.355899",
+        "parent_user_id": "U05V87YA1CJ",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U05V4FX03SP",
+                    "U05V379NETU",
+                    "U060LG0BT89",
+                    "U0600GGHJTC"
+                ],
+                "count": 4
+            },
+            {
+                "name": "+1::skin-tone-2",
+                "users": [
+                    "U05V2HL22M9"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05V87YA1CJ",
+        "type": "message",
+        "ts": "1697166025.880909",
+        "client_msg_id": "d364fa85-b949-44b8-b031-715c31a5de0f",
+        "text": "1. 3일자 복습\n2. 4일자 예습",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "f846e9978d52",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/6017264684624_f846e9978d52439c35d2_72.png",
+            "first_name": "dane",
+            "real_name": "dane ahn",
+            "display_name": "dane ahn",
+            "team": "T05UGFFGL07",
+            "name": "natasma13",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "l41sE",
+                "elements": [
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "3일자 복습"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "4일자 예습"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "one",
+                "users": [
+                    "U05V87YA1CJ",
+                    "U0607T1SK6D",
+                    "U05V379NETU",
+                    "U05VDDP88BW",
+                    "U05UN7M2GKZ",
+                    "U05UVV5CVQE",
+                    "U05VB5EHM7W",
+                    "U060LG0BT89",
+                    "U0606QGQYE5",
+                    "U06022Z2TED",
+                    "U05V1KVNK0E",
+                    "U05UZLEM04V",
+                    "U05V5CQ9XAQ",
+                    "U05UN6NTN8P",
+                    "U05V5B88ULD",
+                    "U0602CFAB7B",
+                    "U060J3NGX08",
+                    "U0600C60ZK4",
+                    "U05VB2TJUKX",
+                    "U060D1KJECR",
+                    "U05V4FX03SP",
+                    "U05V5B27DK7",
+                    "U05V2P37518",
+                    "U05V561TXUL",
+                    "U0600GGHJTC",
+                    "U05V2PMAVNE",
+                    "U060BLVQYHW",
+                    "U05V2HL22M9",
+                    "U05UNMQ4LP9",
+                    "U05V2T62KUJ",
+                    "U05UVE9DFSB",
+                    "U05UUSA6G5V",
+                    "U05UN5DQ423",
+                    "U05VCCSHKHR",
+                    "U05UW1S4KQE",
+                    "U061N4T7L8G"
+                ],
+                "count": 36
+            },
+            {
+                "name": "two",
+                "users": [
+                    "U05V87YA1CJ",
+                    "U05V9LP47V0",
+                    "U05V868K2JE",
+                    "U05UT0JG4BZ"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "user": "U05V87YA1CJ",
+        "type": "message",
+        "ts": "1697168118.977629",
+        "client_msg_id": "62f0575b-970a-4269-b4f8-da298f3a346f",
+        "text": "class에서 magic method, 그리고 decorator 정도...?",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "f846e9978d52",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/6017264684624_f846e9978d52439c35d2_72.png",
+            "first_name": "dane",
+            "real_name": "dane ahn",
+            "display_name": "dane ahn",
+            "team": "T05UGFFGL07",
+            "name": "natasma13",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ww+Wn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "class에서 magic method, 그리고 decorator 정도...?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05V87YA1CJ",
+        "type": "message",
+        "ts": "1697168195.162889",
+        "client_msg_id": "c10f7256-80e6-4292-b853-50ff362e91fb",
+        "text": "파이썬 고급 책: fluent python",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "f846e9978d52",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/6017264684624_f846e9978d52439c35d2_72.png",
+            "first_name": "dane",
+            "real_name": "dane ahn",
+            "display_name": "dane ahn",
+            "team": "T05UGFFGL07",
+            "name": "natasma13",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "i+JGf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "파이썬 고급 책: fluent python"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U060LG0BT89",
+                    "U061N4T7L8G",
+                    "U0600GGHJTC",
+                    "U0606QGQYE5",
+                    "U05V4FX03SP"
+                ],
+                "count": 5
+            },
+            {
+                "name": "+1::skin-tone-2",
+                "users": [
+                    "U05V2HL22M9"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "text": "",
+        "files": [
+            {
+                "id": "F060T4HRGH4",
+                "created": 1697175328,
+                "timestamp": 1697175328,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U05V87YA1CJ",
+                "user_team": "T05UGFFGL07",
+                "editable": false,
+                "size": 81971,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F060T4HRGH4\/image.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F060T4HRGH4\/download\/image.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F060T4HRGH4-502e05ee71\/image_64.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F060T4HRGH4-502e05ee71\/image_80.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F060T4HRGH4-502e05ee71\/image_360.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_360_w": 339,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F060T4HRGH4-502e05ee71\/image_480.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_480_w": 453,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F060T4HRGH4-502e05ee71\/image_160.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F060T4HRGH4-502e05ee71\/image_720.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_720_w": 679,
+                "thumb_720_h": 720,
+                "original_w": 724,
+                "original_h": 768,
+                "thumb_tiny": "AwAwAC3R6Yoz\/OjuPrR2\/GgA\/wAaP8aP8aD3+tAB60nc0p7\/AFo7mgAz0+tGT+tHcfWgfXvQAf40Z6\/Wg\/1oPfnvQAE9ee9Hc0Hv9aO5oATuPrSj+tJnn8aXI9utAAf60ev1oyP1oyOenWgAPf60dzQSOfrR3NAH\/9k=",
+                "permalink": "https:\/\/fcupstageai1.slack.com\/files\/U05V87YA1CJ\/F060T4HRGH4\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T05UGFFGL07-F060T4HRGH4-e530a5b7c8",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U05V87YA1CJ",
+        "display_as_bot": false,
+        "type": "message",
+        "ts": "1697175331.485369",
+        "client_msg_id": "ef88e440-c265-4214-a586-7a9585964a8e"
+    },
+    {
+        "user": "U05V87YA1CJ",
+        "type": "message",
+        "ts": "1697175486.944299",
+        "client_msg_id": "39e3cbe8-b638-4d3b-9aed-60c000702a06",
+        "text": "<https:\/\/search.shopping.naver.com\/book\/catalog\/32466653772?cat_id=50010661&amp;frm=PBOKPRO&amp;query=%EB%B6%88%EB%A9%B8%EC%9D%98+%EC%9D%B4%EB%A1%A0&amp;NaPm=ct%3Dlno6gie8%7Cci%3D1d19b267c9bdd80978b45e5045742275cc4ef930%7Ctr%3Dboknx%7Csn%3D95694%7Chk%3D6d3a022579d714635aee37b4d0b4f64ed21903d9|통계 역사 책: 불멸의 이론>",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "f846e9978d52",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/6017264684624_f846e9978d52439c35d2_72.png",
+            "first_name": "dane",
+            "real_name": "dane ahn",
+            "display_name": "dane ahn",
+            "team": "T05UGFFGL07",
+            "name": "natasma13",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sD1aN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/search.shopping.naver.com\/book\/catalog\/32466653772?cat_id=50010661&frm=PBOKPRO&query=%EB%B6%88%EB%A9%B8%EC%9D%98+%EC%9D%B4%EB%A1%A0&NaPm=ct%3Dlno6gie8%7Cci%3D1d19b267c9bdd80978b45e5045742275cc4ef930%7Ctr%3Dboknx%7Csn%3D95694%7Chk%3D6d3a022579d714635aee37b4d0b4f64ed21903d9",
+                                "text": "통계 역사 책: 불멸의 이론"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U060LG0BT89",
+        "type": "message",
+        "ts": "1697176740.053899",
+        "client_msg_id": "09d82033-d6f7-48a5-9c75-10d8f563e07a",
+        "text": "개인적으로 GLM이 뭐고 엑기스랑 더 자세히 알려면 뭘 공부해야하는지까지 진도 나가주셨으면 좋겠습니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "g273c76b80b5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/273c76b80b5c013cab6c608d10041dd4.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "김준호",
+            "real_name": "김준호",
+            "display_name": "",
+            "team": "T05UGFFGL07",
+            "name": "demyank88",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697176740.053899",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1697177041.423229",
+        "reply_users": [
+            "U05V2HL22M9"
+        ],
+        "replies": [
+            {
+                "user": "U05V2HL22M9",
+                "ts": "1697177041.423229"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3aU3B",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "개인적으로 GLM이 뭐고 엑기스랑 더 자세히 알려면 뭘 공부해야하는지까지 진도 나가주셨으면 좋겠습니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray::skin-tone-2",
+                "users": [
+                    "U05V2HL22M9"
+                ],
+                "count": 1
+            },
+            {
+                "name": "smiling_face_with_3_hearts",
+                "users": [
+                    "U05V87YA1CJ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05V2HL22M9",
+        "type": "message",
+        "ts": "1697177041.423229",
+        "client_msg_id": "8aabc345-8375-4289-b09d-6ae397f1cc9a",
+        "text": "<@U05V87YA1CJ> Mixed Model 이랑 GLMM까지도 가능하시면 부탁드립니다... ㅠㅠ",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "1dcddf110806",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5996462649172_1dcddf110806f3a037a7_72.png",
+            "first_name": "김도연",
+            "real_name": "김도연",
+            "display_name": "김도연",
+            "team": "T05UGFFGL07",
+            "name": "lottie_eve",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697176740.053899",
+        "parent_user_id": "U060LG0BT89",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "x+21e",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05V87YA1CJ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Mixed Model 이랑 GLMM까지도 가능하시면 부탁드립니다... ㅠㅠ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "smiling_face_with_3_hearts",
+                "users": [
+                    "U05V87YA1CJ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05UUUNAE5D",
+        "type": "message",
+        "ts": "1697177451.612739",
+        "client_msg_id": "4293f5ff-978f-4621-a115-f91e00e01d6d",
+        "text": "추천해주신 책 통계학 원론이 인터넷 서점에서 두 권 나오는데, 저자가 누구인가요?",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "32899ebdb4c2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5995423014227_32899ebdb4c26d670b69_72.png",
+            "first_name": "감성필SungFeelCalm",
+            "real_name": "감성필SungFeelCalm",
+            "display_name": "감성필",
+            "team": "T05UGFFGL07",
+            "name": "betterthingsarecoming",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697177451.612739",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1697177508.949989",
+        "reply_users": [
+            "U05V87YA1CJ"
+        ],
+        "replies": [
+            {
+                "user": "U05V87YA1CJ",
+                "ts": "1697177508.949989"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "boBbd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "추천해주신 책 통계학 원론이 인터넷 서점에서 두 권 나오는데, 저자가 누구인가요?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05V87YA1CJ",
+        "type": "message",
+        "ts": "1697177508.949989",
+        "client_msg_id": "91dc7ffa-c027-4b81-ad99-268d011dc270",
+        "text": "김동욱 교수님입니당",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "f846e9978d52",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/6017264684624_f846e9978d52439c35d2_72.png",
+            "first_name": "dane",
+            "real_name": "dane ahn",
+            "display_name": "dane ahn",
+            "team": "T05UGFFGL07",
+            "name": "natasma13",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697177451.612739",
+        "parent_user_id": "U05UUUNAE5D",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "T74Im",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "김동욱 교수님입니당"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,183 @@
+[
+    {
+        "user": "U05V81G5ZDY",
+        "type": "message",
+        "ts": "1701996635.263729",
+        "client_msg_id": "cad4629d-c7d7-4007-afcb-daad09e816bf",
+        "text": "<@U05UVE9DFSB> 안녕하세요 행정 매니저입니다!\n증빙서류 확인하니 출석대장만 2부 보내주셔서 전달 드립니다.\n\n• 출석대장\n• 휴가계획서\n두가지 압축파일로 구글폼 설문 작성 다시 부탁드립니다!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "db1aceeb0d90",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5994058472162_db1aceeb0d9030c57e69_72.jpg",
+            "first_name": "김현우",
+            "real_name": "김현우",
+            "display_name": "FC 김현우 매니저",
+            "team": "T05UGFFGL07",
+            "name": "hyunwoo.kim",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1701859308.671619",
+        "parent_user_id": "U05UVE9DFSB",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hgbyN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05UVE9DFSB"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 안녕하세요 행정 매니저입니다!\n증빙서류 확인하니 출석대장만 2부 보내주셔서 전달 드립니다.\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "출석대장"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "휴가계획서"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "두가지 압축파일로 구글폼 설문 작성 다시 부탁드립니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05UVE9DFSB",
+        "type": "message",
+        "ts": "1701999487.275719",
+        "client_msg_id": "9f594873-ff10-4d4b-b791-b2ca000ec8cb",
+        "text": "<@U05V81G5ZDY> 수정했는데 확인 부탁드립니다",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "9c70723d095f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5981485524487_9c70723d095f99e86fcc_72.png",
+            "first_name": "김채원",
+            "real_name": "김채원",
+            "display_name": "김채원",
+            "team": "T05UGFFGL07",
+            "name": "kcw050608",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1701859308.671619",
+        "parent_user_id": "U05UVE9DFSB",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eNARQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05V81G5ZDY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 수정했는데 확인 부탁드립니다"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1::skin-tone-2",
+                "users": [
+                    "U05V81G5ZDY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05V81G5ZDY",
+        "type": "message",
+        "ts": "1701999804.588109",
+        "client_msg_id": "9baba944-3d82-49da-9fa8-c5448e3d67d3",
+        "text": "확인했습니다!\n감사합니다",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "db1aceeb0d90",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5994058472162_db1aceeb0d9030c57e69_72.jpg",
+            "first_name": "김현우",
+            "real_name": "김현우",
+            "display_name": "FC 김현우 매니저",
+            "team": "T05UGFFGL07",
+            "name": "hyunwoo.kim",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1701859308.671619",
+        "parent_user_id": "U05UVE9DFSB",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QBnBz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "확인했습니다!\n감사합니다"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "대답",
+                "users": [
+                    "U05UVE9DFSB"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

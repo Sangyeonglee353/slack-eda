@@ -1,0 +1,241 @@
+[
+    {
+        "user": "U05VBQMH3D3",
+        "type": "message",
+        "ts": "1711439089.152209",
+        "client_msg_id": "33da483b-eba8-4a29-9553-1105177db815",
+        "text": "<@U06RBLW1JD6> 시간되실때 답장주시면 감사하겠습니다!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "16da4e28d6c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/6003210685524_16da4e28d6c4ea33bae5_72.png",
+            "first_name": "HB",
+            "real_name": "HB",
+            "display_name": "엄효범",
+            "team": "T05UGFFGL07",
+            "name": "swema86",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1711314241.377979",
+        "parent_user_id": "U05VBQMH3D3",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bcvr4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06RBLW1JD6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 시간되실때 답장주시면 감사하겠습니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06RBLW1JD6",
+        "type": "message",
+        "ts": "1711459263.397909",
+        "edited": {
+            "user": "U06RBLW1JD6",
+            "ts": "1711459314.000000"
+        },
+        "client_msg_id": "fdad708e-1074-4542-8740-c8af7d3eba72",
+        "text": "<@U05VBQMH3D3> 댓글을 확인하지 않아서, 답장이 늦었습니다. 죄송합니다!\n\n질문해주신 내용에 대해 이해했습니다. 원하는 방향은 전통적인 다중 클래스 분류 문제의 틀을 벗어나, 각 클래스에 대해 독립적인 바이너리 분류 모델을 만들어 각각의 클래스가 해당 이미지에 속할 확률을 예측하고자 하는 것으로 보입니다. 이 경우, 각 모델의 예측 확률 합이 1을 넘거나 미달할 수 있으며, 이는 전통적인 소프트맥스 함수를 사용하는 다중 클래스 분류와는 다른 접근 방식입니다.\n\n해당 방법을 *멀티 라벨 분류(Multi-label classification)*라고 하며, 각 클래스를 독립적으로 예측하는 것이 특징입니다. 해당 방식을 구현할 때는 각 클래스에 대한 독립적인 바이너리 분류 모델을 훈련시키고, 예측 단계에서는 각 모델의 출력을 결합하여 최종 예측을 수행하기 때문에,  각 모델의 예측 확률이 독립적이기 때문에 확률의 합이 1을 넘거나 미달할 수 있습니다. 따라서, 각 클래스의 예측 확률을 어떻게 해석하고 사용할 것인지에 대한 명확한 기준을 마련해야 합니다!\n\n이와 관련된 연구를 찾고 싶으시다면, Multi-label Classification과 같은 키워드로 검색해보시면 도움이 되는 논문을 찾을 수 있을 것 같습니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "6c5b7174238b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-21\/6861710165808_6c5b7174238b265283cb_72.png",
+            "first_name": "JS",
+            "real_name": "JS Lee",
+            "display_name": "이정섭 멘토",
+            "team": "T05UGFFGL07",
+            "name": "cy951011",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1711314241.377979",
+        "parent_user_id": "U05VBQMH3D3",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pzN25",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05VBQMH3D3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 댓글을 확인하지 않아서, 답장이 늦었습니다. 죄송합니다!\n\n질문해주신 내용에 대해 이해했습니다. 원하는 방향은 전통적인 다중 클래스 분류 문제의 틀을 벗어나, 각 클래스에 대해 독립적인 바이너리 분류 모델을 만들어 각각의 클래스가 해당 이미지에 속할 확률을 예측하고자 하는 것으로 보입니다. 이 경우, 각 모델의 예측 확률 합이 1을 넘거나 미달할 수 있으며, 이는 전통적인 소프트맥스 함수를 사용하는 다중 클래스 분류와는 다른 접근 방식입니다.\n\n해당 방법을 "
+                            },
+                            {
+                                "type": "text",
+                                "text": "멀티 라벨 분류(Multi-label classification)",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "라고 하며, 각 클래스를 독립적으로 예측하는 것이 특징입니다. 해당 방식을 구현할 때는 각 클래스에 대한 독립적인 바이너리 분류 모델을 훈련시키고, 예측 단계에서는 각 모델의 출력을 결합하여 최종 예측을 수행하기 때문에,  각 모델의 예측 확률이 독립적이기 때문에 확률의 합이 1을 넘거나 미달할 수 있습니다. 따라서, 각 클래스의 예측 확률을 어떻게 해석하고 사용할 것인지에 대한 명확한 기준을 마련해야 합니다!\n\n이와 관련된 연구를 찾고 싶으시다면, Multi-label Classification과 같은 키워드로 검색해보시면 도움이 되는 논문을 찾을 수 있을 것 같습니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05VBQMH3D3",
+        "type": "message",
+        "ts": "1711518450.522639",
+        "client_msg_id": "94f2b53c-4544-49bb-9f47-e911d0b72f23",
+        "text": "<@U06RBLW1JD6>정말 감사합니다! 쉽진 않겠지만 멀티라벨분류로 모델을 잘 짤수있도록 노력해보겠습니다ㅎㅎ 혹시 논문은 어떤어떤 사이트가 좋을지 추천하시는 곳이 있을까요?",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "16da4e28d6c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/6003210685524_16da4e28d6c4ea33bae5_72.png",
+            "first_name": "HB",
+            "real_name": "HB",
+            "display_name": "엄효범",
+            "team": "T05UGFFGL07",
+            "name": "swema86",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1711314241.377979",
+        "parent_user_id": "U05VBQMH3D3",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nTz19",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06RBLW1JD6"
+                            },
+                            {
+                                "type": "text",
+                                "text": "정말 감사합니다! 쉽진 않겠지만 멀티라벨분류로 모델을 잘 짤수있도록 노력해보겠습니다ㅎㅎ 혹시 논문은 어떤어떤 사이트가 좋을지 추천하시는 곳이 있을까요?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06RBLW1JD6",
+        "type": "message",
+        "ts": "1711519339.819449",
+        "client_msg_id": "a114528f-144c-47e5-969f-6e7aca8e900b",
+        "text": "<@U05VBQMH3D3>\n<https:\/\/arxiv.org\/> 사이트를 가장 추천드리고, NLP에 관련된 논문을 찾으시려면,\nACL: <https:\/\/2023.aclweb.org\/calls\/main_conference\/>\nEMNLP: <https:\/\/2023.emnlp.org\/program\/accepted_main_conference\/>\n등의 사이트를 추천드립니다!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "6c5b7174238b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-21\/6861710165808_6c5b7174238b265283cb_72.png",
+            "first_name": "JS",
+            "real_name": "JS Lee",
+            "display_name": "이정섭 멘토",
+            "team": "T05UGFFGL07",
+            "name": "cy951011",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1711314241.377979",
+        "parent_user_id": "U05VBQMH3D3",
+        "attachments": [
+            {
+                "from_url": "https:\/\/2023.aclweb.org\/calls\/main_conference\/",
+                "service_icon": "https:\/\/2023.aclweb.org\/assets\/images\/apple-touch-icon-57x57.png",
+                "id": 1,
+                "original_url": "https:\/\/2023.aclweb.org\/calls\/main_conference\/",
+                "fallback": "ACL 2023: Main Conference",
+                "text": "Official website for the 61st Annual Meeting of the Association for Computational Linguistics",
+                "title": "Main Conference",
+                "title_link": "https:\/\/2023.aclweb.org\/calls\/main_conference\/",
+                "service_name": "ACL 2023"
+            },
+            {
+                "from_url": "https:\/\/2023.emnlp.org\/program\/accepted_main_conference\/",
+                "service_icon": "https:\/\/2023.emnlp.org\/assets\/images\/apple-touch-icon-57x57.png",
+                "id": 2,
+                "original_url": "https:\/\/2023.emnlp.org\/program\/accepted_main_conference\/",
+                "fallback": "EMNLP 2023: Main Conference",
+                "text": "The Accepted Main Conference Papers of EMNLP 2023",
+                "title": "Main Conference",
+                "title_link": "https:\/\/2023.emnlp.org\/program\/accepted_main_conference\/",
+                "service_name": "EMNLP 2023"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "li3w5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05VBQMH3D3"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/arxiv.org\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 사이트를 가장 추천드리고, NLP에 관련된 논문을 찾으시려면,\nACL: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/2023.aclweb.org\/calls\/main_conference\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nEMNLP: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/2023.emnlp.org\/program\/accepted_main_conference\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n등의 사이트를 추천드립니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

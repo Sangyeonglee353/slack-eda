@@ -1,0 +1,77 @@
+[
+    {
+        "user": "U065TBUL5EE",
+        "type": "message",
+        "ts": "1709125076.668549",
+        "client_msg_id": "8b67184f-ecfe-4751-99da-37197776897f",
+        "text": "<https:\/\/sites.google.com\/site\/wanmokang\/lectures\/linear-algebra-for-data-science?authuser=0>",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "34f110a5edc4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-11-14\/6197301711475_34f110a5edc435398e63_72.png",
+            "first_name": "김용담",
+            "real_name": "김용담",
+            "display_name": "김용담 강사",
+            "team": "T05UGFFGL07",
+            "name": "codingiscoffee",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/sites.google.com\/site\/wanmokang\/lectures\/linear-algebra-for-data-science?authuser=0",
+                "service_icon": "https:\/\/ssl.gstatic.com\/atari\/images\/public\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/sites.google.com\/site\/wanmokang\/lectures\/linear-algebra-for-data-science?authuser=0",
+                "fallback": "Wanmo Kang - Linear Algebra for Data Science",
+                "text": "Lecture notes (in Korean) written by Kyunghyun Cho and me. \nThis is an initial version under editing.",
+                "title": "Wanmo Kang - Linear Algebra for Data Science",
+                "title_link": "https:\/\/sites.google.com\/site\/wanmokang\/lectures\/linear-algebra-for-data-science?authuser=0",
+                "service_name": "sites.google.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "w9dRD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/sites.google.com\/site\/wanmokang\/lectures\/linear-algebra-for-data-science?authuser=0"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U05UWVA90H4",
+                    "U05V7H78DUM"
+                ],
+                "count": 2
+            },
+            {
+                "name": "대답",
+                "users": [
+                    "U05V5B27DK7"
+                ],
+                "count": 1
+            },
+            {
+                "name": "meow_noddies",
+                "users": [
+                    "U05V5B27DK7"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

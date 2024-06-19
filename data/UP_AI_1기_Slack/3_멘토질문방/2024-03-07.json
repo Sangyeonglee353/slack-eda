@@ -1,0 +1,794 @@
+[
+    {
+        "user": "U05VBQMH3D3",
+        "type": "message",
+        "ts": "1709813878.202809",
+        "client_msg_id": "0937e21b-42e8-419c-8249-591293e4bb2e",
+        "text": "<@U06LQ0F0YA3>\n안녕하세요\nnlp, cv, 추천 등의 트랙을 선택하는 기준에 대해 여쭤보고 싶습니다. 멘토님은 어떤 이유에서 nlp로 선택하셨는지 하시면서 느낀 다른 트랙과 차이점도 듣고 싶습니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "16da4e28d6c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/6003210685524_16da4e28d6c4ea33bae5_72.png",
+            "first_name": "HB",
+            "real_name": "HB",
+            "display_name": "엄효범",
+            "team": "T05UGFFGL07",
+            "name": "swema86",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uPUE8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06LQ0F0YA3"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n안녕하세요\nnlp, cv, 추천 등의 트랙을 선택하는 기준에 대해 여쭤보고 싶습니다. 멘토님은 어떤 이유에서 nlp로 선택하셨는지 하시면서 느낀 다른 트랙과 차이점도 듣고 싶습니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LQ0F0YA3",
+        "type": "message",
+        "ts": "1709821322.619889",
+        "client_msg_id": "765d4353-d38d-457d-a3bf-5ee3ce1d82f3",
+        "text": "네 안녕하세요 <@U05VBQMH3D3> 수강생님.\n\n제 저도 이 부분을 한때 고민했던적이 있습니다. 그렇기에, 제가 그당시에 했던 생각을 그대로 말씀드리는게 좋을 것 같습니다.\n말씀드리기에 앞서, 저는 추천 트랙을 고려한적은 없었습니다. 머신러닝을 학습하면서 테이블 데이터를 많이 다루어보았었고, 저는 개인적으로 비정형 데이터를 주로 다루는 CV나 NLP에 관심이 있었습니다. 그 당시는 지식이 얕아서 추천시스템은 비정형 데이터를 다루지 않는다고 생각했어요. 그렇다보니, 두 분야 사이에서 많은 고민을 했었고 이를 중심으로 말씀드리겠습니다.\n\n제가 트랙을 정할 당시에는 사실 CV가 많이 앞서있었습니다. 비전기술이 개인적으로 19, 20년도 쯤에는 NLP보다 더 높은 수준이었고 하는 사람도 더 많았습니다. 저 역시 CV쪽을 먼저 들여다보고 CNN, GAN 등등 여러가지를 배워갔던 기억이 있습니다.\n반면 NLP는 상대적으로는 CV에 비해 인기가 그렇게 높지는 않은(개인적인 생각입니다) 분야였습니다.\n이러한 시각을 바탕으로 들여다보면 CV쪽은 레드오션인 것이 분명했습니다. 물론 지금은 상황이 다를 수 있겠지만요.\n이러한 판단도 제 선택에 큰 비중을 차지했습니다.\n\n또 한 가지 중요한 계기는, 그 당시에 저는 데이콘, 캐글과 같은 AI 경진대회에 빠져살았는데요. 자고일어나면 바뀌어있는 순위에 탄식하고 매달리고를 반복하는게 개인적으로는 참 재밌었습니다. 이때 CV와 NLP를 대상으로하는 대회들을 많이 참여했었는데, 개인적으로 언어 지식이나 여러 테크닉을 활용해서 성능을 올리는 것이 제게 NLP쪽이 더 와닿았습니다. 이때 정말 많은 논문들을 보았던 것 같습니다. 기초부터 시작해서 대회에서 성적을 높이기위한 다양한 사전학습 모델에대해 찾아보고, 코드레벨에서 적용해보면서 조금씩 제 관심사가 굳어지는 계기가 되었습니다. 또한 순위도 상대적으로 잘나왔는데, 이 부분도 결국 CV는 경쟁이 그만큼 더 치열했다보니 그런게 아니었나 싶습니다.\n\n미래를 보고 어떤 것이 수요가 많겠다라고 예측하는 것도 중요하지만, 저는 두 가지를 다 경험해보시고 결정하시길 추천드립니다. 여기서 경험한다는 것은, 단순히 기본적 지식을 쌓는 것이 아니라 *코드레벨까지의 전체 프로세스 실행과 약간의 논문 공부가 가미된 상태*를 이야기합니다. 보통 일반적으로 흥미는 여기서 많이 갈립니다. 논문을 들여다보고 이해하려고 노력하는 과정을 거치다 보면, 관심이 더 가는 주제가 생기기 마련입니다. 여러 대회나 대외활동 같은 것들을 통해 선택의 기회가 있으실 때 최대한 많은 경험을 해보시기를 바랍니다.\n\n지금은 누구도 예상못했던 LLM으로 인해 NLP의 수요가 많이 올라와있는 상태인 것은 확실합니다. 물론 앞으로도 이 쪽은 쉽게 죽지 않을 것이라고 생각합니다. 그러나 OpenAI에서 얼마전 공개한 SORA같은 모델을 보면, CV쪽도 그에 걸맞추어 성장하고있습니다. 그래서 저는 이제 선택의 기준은 철저하게 경험에 근거한 개인의 관심사가 되어야 한다고 생각합니다. 이제 더이상 어디가 더 유망할까를 바라보는 시대는 지난 것 같아요.\n\n두서가 길었습니다. 추천 시스템은 제가 생소한 분야고, 고려대상에 없던 분야라 말씀을 드리지 못해서 죄송합니다. 부디 제 짧은 경험에서 나온 글이 결정에 조금이나마 도움이 되셨으면 좋겠습니다:))",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "1f0e7ab41c31",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-28\/6741364411616_1f0e7ab41c31454e099e_72.png",
+            "first_name": "이승윤",
+            "real_name": "이승윤",
+            "display_name": "이승윤_멘토",
+            "team": "T05UGFFGL07",
+            "name": "dltmddbs100",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1709821322.619889",
+        "reply_count": 4,
+        "reply_users_count": 2,
+        "latest_reply": "1709888676.241729",
+        "reply_users": [
+            "U05VBQMH3D3",
+            "U06LQ0F0YA3"
+        ],
+        "replies": [
+            {
+                "user": "U05VBQMH3D3",
+                "ts": "1709825693.019859"
+            },
+            {
+                "user": "U06LQ0F0YA3",
+                "ts": "1709834463.077059"
+            },
+            {
+                "user": "U05VBQMH3D3",
+                "ts": "1709888597.496699"
+            },
+            {
+                "user": "U06LQ0F0YA3",
+                "ts": "1709888676.241729"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wOElT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "네 안녕하세요 "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05VBQMH3D3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 수강생님.\n\n제 저도 이 부분을 한때 고민했던적이 있습니다. 그렇기에, 제가 그당시에 했던 생각을 그대로 말씀드리는게 좋을 것 같습니다.\n말씀드리기에 앞서, 저는 추천 트랙을 고려한적은 없었습니다. 머신러닝을 학습하면서 테이블 데이터를 많이 다루어보았었고, 저는 개인적으로 비정형 데이터를 주로 다루는 CV나 NLP에 관심이 있었습니다. 그 당시는 지식이 얕아서 추천시스템은 비정형 데이터를 다루지 않는다고 생각했어요. 그렇다보니, 두 분야 사이에서 많은 고민을 했었고 이를 중심으로 말씀드리겠습니다.\n\n제가 트랙을 정할 당시에는 사실 CV가 많이 앞서있었습니다. 비전기술이 개인적으로 19, 20년도 쯤에는 NLP보다 더 높은 수준이었고 하는 사람도 더 많았습니다. 저 역시 CV쪽을 먼저 들여다보고 CNN, GAN 등등 여러가지를 배워갔던 기억이 있습니다.\n반면 NLP는 상대적으로는 CV에 비해 인기가 그렇게 높지는 않은(개인적인 생각입니다) 분야였습니다.\n이러한 시각을 바탕으로 들여다보면 CV쪽은 레드오션인 것이 분명했습니다. 물론 지금은 상황이 다를 수 있겠지만요.\n이러한 판단도 제 선택에 큰 비중을 차지했습니다.\n\n또 한 가지 중요한 계기는, 그 당시에 저는 데이콘, 캐글과 같은 AI 경진대회에 빠져살았는데요. 자고일어나면 바뀌어있는 순위에 탄식하고 매달리고를 반복하는게 개인적으로는 참 재밌었습니다. 이때 CV와 NLP를 대상으로하는 대회들을 많이 참여했었는데, 개인적으로 언어 지식이나 여러 테크닉을 활용해서 성능을 올리는 것이 제게 NLP쪽이 더 와닿았습니다. 이때 정말 많은 논문들을 보았던 것 같습니다. 기초부터 시작해서 대회에서 성적을 높이기위한 다양한 사전학습 모델에대해 찾아보고, 코드레벨에서 적용해보면서 조금씩 제 관심사가 굳어지는 계기가 되었습니다. 또한 순위도 상대적으로 잘나왔는데, 이 부분도 결국 CV는 경쟁이 그만큼 더 치열했다보니 그런게 아니었나 싶습니다.\n\n미래를 보고 어떤 것이 수요가 많겠다라고 예측하는 것도 중요하지만, 저는 두 가지를 다 경험해보시고 결정하시길 추천드립니다. 여기서 경험한다는 것은, 단순히 기본적 지식을 쌓는 것이 아니라 "
+                            },
+                            {
+                                "type": "text",
+                                "text": "코드레벨까지의 전체 프로세스 실행과 약간의 논문 공부가 가미된 상태",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "를 이야기합니다. 보통 일반적으로 흥미는 여기서 많이 갈립니다. 논문을 들여다보고 이해하려고 노력하는 과정을 거치다 보면, 관심이 더 가는 주제가 생기기 마련입니다. 여러 대회나 대외활동 같은 것들을 통해 선택의 기회가 있으실 때 최대한 많은 경험을 해보시기를 바랍니다.\n\n지금은 누구도 예상못했던 LLM으로 인해 NLP의 수요가 많이 올라와있는 상태인 것은 확실합니다. 물론 앞으로도 이 쪽은 쉽게 죽지 않을 것이라고 생각합니다. 그러나 OpenAI에서 얼마전 공개한 SORA같은 모델을 보면, CV쪽도 그에 걸맞추어 성장하고있습니다. 그래서 저는 이제 선택의 기준은 철저하게 경험에 근거한 개인의 관심사가 되어야 한다고 생각합니다. 이제 더이상 어디가 더 유망할까를 바라보는 시대는 지난 것 같아요.\n\n두서가 길었습니다. 추천 시스템은 제가 생소한 분야고, 고려대상에 없던 분야라 말씀을 드리지 못해서 죄송합니다. 부디 제 짧은 경험에서 나온 글이 결정에 조금이나마 도움이 되셨으면 좋겠습니다:))"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U05V5B27DK7",
+                    "U060C67EYQ5",
+                    "U05VAHXECP6",
+                    "U05UW1S4KQE",
+                    "U05VADPQPCL",
+                    "U060BLVQYHW"
+                ],
+                "count": 6
+            },
+            {
+                "name": "star-struck",
+                "users": [
+                    "U05VBQMH3D3",
+                    "U060C67EYQ5",
+                    "U05VAHXECP6"
+                ],
+                "count": 3
+            },
+            {
+                "name": "귀여운박수",
+                "users": [
+                    "U05UNMQ4LP9",
+                    "U060C67EYQ5",
+                    "U05VAHXECP6",
+                    "U05VADPQPCL"
+                ],
+                "count": 4
+            },
+            {
+                "name": "meow_noddies",
+                "users": [
+                    "U05V2PMAVNE",
+                    "U05VADPQPCL"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U05VBQMH3D3",
+        "type": "message",
+        "ts": "1709825693.019859",
+        "client_msg_id": "88c87552-ce54-478b-a70a-07b5db970b30",
+        "text": "정성어린 답변 정말 감사합니다!!!\n아직 CV쪽으로만 공부를 했는데 말씀을 듣고 nlp도 많이 공부해야겠다 싶습니다!\n저도 하루종일 캐글에만 매달리고 있는데요. 운좋게 메달 몇개 따긴 했지만 요즘들어선 아무리 시간을 투자해도 결과는 안나오고 실력도 전혀 늘지않고 자괴감만 느끼는 중입니다. 내가 정말로 재능이 없구나 하고... 분수에 맞게 살아야겠다 싶습니다ㅠㅠ\n\n논문마다 다르겠지만 배우기 위해서가 아니고 캐글을 위해서 논문을 볼 땐 멘토님께선 어떤 식으로 보시나요? 저는 보통 캐글 도메인이나 떠올린 아이디어 키워드로 검색해서 논문 수십개 많으면 백개넘게 개요 읽고 그 중 몇개 픽업한 다음 그 중 1,2개만 5~10분정도 읽고 나머지는 대충 보면서 괜찮은 아이디어만 픽업하고, 그래서 사실 제대로 이해한 논문은 하나도 없는데^^; 멘토님께선 어떤 식으로 논문 읽으시는지 궁금합니다. 그리고 paperswithcode만 보시는지 아니면 IEEE Explore나 다른 곳도 좀 찾아보시는지 궁금합니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "16da4e28d6c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/6003210685524_16da4e28d6c4ea33bae5_72.png",
+            "first_name": "HB",
+            "real_name": "HB",
+            "display_name": "엄효범",
+            "team": "T05UGFFGL07",
+            "name": "swema86",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1709821322.619889",
+        "parent_user_id": "U06LQ0F0YA3",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "seIoh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "정성어린 답변 정말 감사합니다!!!\n아직 CV쪽으로만 공부를 했는데 말씀을 듣고 nlp도 많이 공부해야겠다 싶습니다!\n저도 하루종일 캐글에만 매달리고 있는데요. 운좋게 메달 몇개 따긴 했지만 요즘들어선 아무리 시간을 투자해도 결과는 안나오고 실력도 전혀 늘지않고 자괴감만 느끼는 중입니다. 내가 정말로 재능이 없구나 하고... 분수에 맞게 살아야겠다 싶습니다ㅠㅠ\n\n논문마다 다르겠지만 배우기 위해서가 아니고 캐글을 위해서 논문을 볼 땐 멘토님께선 어떤 식으로 보시나요? 저는 보통 캐글 도메인이나 떠올린 아이디어 키워드로 검색해서 논문 수십개 많으면 백개넘게 개요 읽고 그 중 몇개 픽업한 다음 그 중 1,2개만 5~10분정도 읽고 나머지는 대충 보면서 괜찮은 아이디어만 픽업하고, 그래서 사실 제대로 이해한 논문은 하나도 없는데^^; 멘토님께선 어떤 식으로 논문 읽으시는지 궁금합니다. 그리고 paperswithcode만 보시는지 아니면 IEEE Explore나 다른 곳도 좀 찾아보시는지 궁금합니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06LQ0F0YA3",
+        "type": "message",
+        "ts": "1709834463.077059",
+        "client_msg_id": "ACD9918C-16A6-4FA6-B2A0-14B97ED9A47F",
+        "text": "우선 키워드의 구체화가 필요합니다. 정확히 어떤 방법론을 찾고있는지가 중요하겠지요. 보통은 탑컨퍼런스의 최신논문을보고 거기에 나온 관련연구 섹션에서 연구들을 파악할수있습니다. Nlp의경우는 aclantholoy라는 곳이있어서 그곳에 탑컨퍼언스와 년도별 논문리스트들이 있습니다. 거기서 찾거나 읽는편이구요. 말씀하신 저널같은 곳은 사실 잘 보지는 않습니다. CV쪽은 CVPR ECCV ICCV외에는 저도 약간 생소하네요!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "1f0e7ab41c31",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-28\/6741364411616_1f0e7ab41c31454e099e_72.png",
+            "first_name": "이승윤",
+            "real_name": "이승윤",
+            "display_name": "이승윤_멘토",
+            "team": "T05UGFFGL07",
+            "name": "dltmddbs100",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1709821322.619889",
+        "parent_user_id": "U06LQ0F0YA3",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rCGr1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "우선 키워드의 구체화가 필요합니다. 정확히 어떤 방법론을 찾고있는지가 중요하겠지요. 보통은 탑컨퍼런스의 최신논문을보고 거기에 나온 관련연구 섹션에서 연구들을 파악할수있습니다. Nlp의경우는 aclantholoy라는 곳이있어서 그곳에 탑컨퍼언스와 년도별 논문리스트들이 있습니다. 거기서 찾거나 읽는편이구요. 말씀하신 저널같은 곳은 사실 잘 보지는 않습니다. CV쪽은 CVPR ECCV ICCV외에는 저도 약간 생소하네요!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "muscle",
+                "users": [
+                    "U060C67EYQ5"
+                ],
+                "count": 1
+            },
+            {
+                "name": "heart_eyes",
+                "users": [
+                    "U05VBQMH3D3"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05VADPQPCL",
+        "type": "message",
+        "ts": "1709874000.593689",
+        "client_msg_id": "a7235bb3-f0b9-480c-a6df-0690f4a4289f",
+        "text": "*<!here>*\n안녕하세요. Upstage AI Lab 수강생 여러분~!\n금주 Natural Language Processing Advanced 멘토링 진행해 주실 *`이종혁 멘토`*님께서 채널에 들어와 계십니다.\nUpstage 온라인 강의를 학습하면서 궁금한 사항이 있다면 편히 이 곳에 질문해주세요! :muscle::muscle:\n\n&gt; *Natural Language Processing Advanced 멘토링 일정*\n• 멘토링 기간: 2024. 03. 08 (금) ~ 2024. 03. 14 (목), 1주\n&gt; *멘토링 안내*\n• 멘토님께 질문을 드릴 땐 가장 먼저 *인사*로 시작해주세요!!\n• 멘토님께서 질문을 빨리 확인하실 수 있도록 멘토님을 *태깅*해주시길 바랍니다!\n    ◦ *금주의 멘토님 : `@이종혁 멘토_멘토`* \n• 주차별 멘토님이 다르시니 태깅 하실 때 꼭 안내 공지 확인 후 태깅 해주시길 바랍니다.\n• Upstage 온라인 강의 및 경진대회 외의 질문은 답변이 늦어지거나 어려울 수 있는 점 확인 부탁 드립니다.\n• 해당 질문에 대해 모든 수강생분들에게 공유가 될 수 있도록 멘토님께 DM이 아닌 `#3_멘토질문방` 채널을 이용하여 질문해주시길 바랍니다!\n",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "07e7ca00b8f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5991092857253_07e7ca00b8f0d0b13ba1_72.png",
+            "first_name": "패스트캠퍼스박기준",
+            "real_name": "패스트캠퍼스박기준",
+            "display_name": "LM 박기준",
+            "team": "T05UGFFGL07",
+            "name": "pgj.fc.career",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "q7\/Uc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "here",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n안녕하세요. Upstage AI Lab 수강생 여러분~!\n금주 Natural Language Processing Advanced 멘토링 진행해 주실 "
+                            },
+                            {
+                                "type": "text",
+                                "text": "이종혁 멘토",
+                                "style": {
+                                    "bold": true,
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "님께서 채널에 들어와 계십니다.\nUpstage 온라인 강의를 학습하면서 궁금한 사항이 있다면 편히 이 곳에 질문해주세요! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "muscle",
+                                "unicode": "1f4aa"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "muscle",
+                                "unicode": "1f4aa"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Natural Language Processing Advanced 멘토링 일정",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "멘토링 기간: 2024. 03. 08 (금) ~ 2024. 03. 14 (목), 1주"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "멘토링 안내",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "멘토님께 질문을 드릴 땐 가장 먼저 "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "인사",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "로 시작해주세요!!"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "멘토님께서 질문을 빨리 확인하실 수 있도록 멘토님을 "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "태깅",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "해주시길 바랍니다!"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "금주의 멘토님 : ",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "@이종혁 멘토_멘토 ",
+                                        "style": {
+                                            "bold": true,
+                                            "code": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "주차별 멘토님이 다르시니 태깅 하실 때 꼭 안내 공지 확인 후 태깅 해주시길 바랍니다."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Upstage 온라인 강의 및 경진대회 외의 질문은 답변이 늦어지거나 어려울 수 있는 점 확인 부탁 드립니다."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "해당 질문에 대해 모든 수강생분들에게 공유가 될 수 있도록 멘토님께 DM이 아닌 "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "#3_멘토질문방",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " 채널을 이용하여 질문해주시길 바랍니다!"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U06P0H0V3UY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05V7V2AV8A",
+        "type": "message",
+        "ts": "1709878317.276469",
+        "client_msg_id": "86b54b7a-7043-4975-bdc8-cc1d17932eeb",
+        "text": "<@U06P0H0V3UY> 안녕하세요~\nBART강의 때 Encoder-Decoder 구조라고 하는데 트랜스포머 구조라고 하면 안되나요?",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "28368614e02a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5987346071766_28368614e02abbfb71bd_72.png",
+            "first_name": "andrew",
+            "real_name": "andrew jang",
+            "display_name": "장준규",
+            "team": "T05UGFFGL07",
+            "name": "goldenbeluga",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1709878317.276469",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1709887710.957869",
+        "reply_users": [
+            "U06P0H0V3UY",
+            "U05V7V2AV8A"
+        ],
+        "replies": [
+            {
+                "user": "U06P0H0V3UY",
+                "ts": "1709879114.271029"
+            },
+            {
+                "user": "U05V7V2AV8A",
+                "ts": "1709887710.957869"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IVTE6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06P0H0V3UY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 안녕하세요~\nBART강의 때 Encoder-Decoder 구조라고 하는데 트랜스포머 구조라고 하면 안되나요?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U06P0H0V3UY"
+                ],
+                "count": 1
+            },
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U06P0H0V3UY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06P0H0V3UY",
+        "type": "message",
+        "ts": "1709879114.271029",
+        "client_msg_id": "c286b089-6bf0-4471-83ed-f32eb609c1b3",
+        "text": "안녕하세요 준규님~\n질문주셔서 감사해요 ㅎㅎ\n\n트랜스포머 구조라고 하셔도됩니다!\n• 트랜스포머 구조가 인코더-디코더 구조의 일종입니다! 트랜스포머 구조가 나오기 이전에도 Seq2Seq 구조라고 불리는 인코더-디코더 구조의 RNN이 이미있었습니다. \n• BERT = 트랜스포머의 인코더 구조 활용\n• GPT = 트랜스포머의 디코더 구조 활용\n• BART = 트랜스포머의 인코더와 디코더 구조 활용 \n입니다~\n<@U05V7V2AV8A>",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "f953974a59ed",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-07\/6762308887044_f953974a59edb3df3dc4_72.png",
+            "first_name": "이종혁",
+            "real_name": "이종혁 멘토",
+            "display_name": "이종혁 멘토",
+            "team": "T05UGFFGL07",
+            "name": "jonhyuk0922",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1709878317.276469",
+        "parent_user_id": "U05V7V2AV8A",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZiBjA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "안녕하세요 준규님~\n질문주셔서 감사해요 ㅎㅎ\n\n트랜스포머 구조라고 하셔도됩니다!\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "트랜스포머 구조가 인코더-디코더 구조의 일종입니다! 트랜스포머 구조가 나오기 이전에도 Seq2Seq 구조라고 불리는 인코더-디코더 구조의 RNN이 이미있었습니다. "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "BERT = 트랜스포머의 인코더 구조 활용"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "GPT = 트랜스포머의 디코더 구조 활용"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "BART = 트랜스포머의 인코더와 디코더 구조 활용 "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n입니다~\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05V7V2AV8A"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "muscle",
+                "users": [
+                    "U060C67EYQ5"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06P0H0V3UY",
+        "type": "message",
+        "ts": "1709879271.234319",
+        "client_msg_id": "e90cdd6c-739e-4d48-ba5c-9b11ec9afb2e",
+        "text": "안녕하세요 여러분~\n저는 NLP Advanced 기간 멘토를 담당하게된 이종혁입니다 :smile:\n\n저도 여러분과 같이 부트캠프에서 공부하던 시기가 있습니다! 그때 되게 힘들기도 했고, 복잡미묘했던 시기였는데 그때만큼 마음놓고 몰입해서 공부할 수 있던 시기가 많이 없었던 것 같아요!\n\n그래서 어떤면에서는 여러분이 부럽기도 합니다!! :raised_hand_with_fingers_splayed:\n강의를 들으시다가 혹은 공부하시다가 모르는 것이 있으시다면 편하게 질문주세요~~\n\n단, 질문 내용에 대해서 한번만 검색 혹은 고민해보신 후 질문주시면 학습하시는데 도움이 됩니다! (필수는 아니에요)",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "f953974a59ed",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-07\/6762308887044_f953974a59edb3df3dc4_72.png",
+            "first_name": "이종혁",
+            "real_name": "이종혁 멘토",
+            "display_name": "이종혁 멘토",
+            "team": "T05UGFFGL07",
+            "name": "jonhyuk0922",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LYkKO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "안녕하세요 여러분~\n저는 NLP Advanced 기간 멘토를 담당하게된 이종혁입니다 "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile",
+                                "unicode": "1f604"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n저도 여러분과 같이 부트캠프에서 공부하던 시기가 있습니다! 그때 되게 힘들기도 했고, 복잡미묘했던 시기였는데 그때만큼 마음놓고 몰입해서 공부할 수 있던 시기가 많이 없었던 것 같아요!\n\n그래서 어떤면에서는 여러분이 부럽기도 합니다!! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "raised_hand_with_fingers_splayed",
+                                "unicode": "1f590-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n강의를 들으시다가 혹은 공부하시다가 모르는 것이 있으시다면 편하게 질문주세요~~\n\n단, 질문 내용에 대해서 한번만 검색 혹은 고민해보신 후 질문주시면 학습하시는데 도움이 됩니다! (필수는 아니에요)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U05VAHXECP6",
+                    "U060C67EYQ5",
+                    "U05V7H78DUM",
+                    "U05V2T62KUJ",
+                    "U065TBUL5EE",
+                    "U05V9LP47V0"
+                ],
+                "count": 6
+            },
+            {
+                "name": "party_blob-1",
+                "users": [
+                    "U05VAHXECP6",
+                    "U060C67EYQ5",
+                    "U05V7H78DUM"
+                ],
+                "count": 3
+            },
+            {
+                "name": "muscle",
+                "users": [
+                    "U05VAHXECP6",
+                    "U060C67EYQ5",
+                    "U05V7H78DUM"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

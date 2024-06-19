@@ -1,0 +1,42 @@
+[
+    {
+        "user": "U05UNC6FNK1",
+        "type": "message",
+        "ts": "1698627214.250129",
+        "client_msg_id": "50fd6264-bec1-43c4-8cb9-abbc8e2b98c7",
+        "text": "효범님 안녕하세요\n조퇴 결석 하루에 1회로 산정합니다",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "260d154ea1e2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5979526758263_260d154ea1e2177fd001_72.jpg",
+            "first_name": "FC",
+            "real_name": "FC 하시안 매니저",
+            "display_name": "FC 하시안 매니저",
+            "team": "T05UGFFGL07",
+            "name": "xianha",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698404057.183669",
+        "parent_user_id": "U05VBQMH3D3",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/HCqF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "효범님 안녕하세요\n조퇴 결석 하루에 1회로 산정합니다"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

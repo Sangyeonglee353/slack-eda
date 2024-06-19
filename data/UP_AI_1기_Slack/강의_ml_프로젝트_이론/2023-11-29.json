@@ -1,0 +1,226 @@
+[
+    {
+        "user": "U065TBUL5EE",
+        "type": "message",
+        "ts": "1701323940.091069",
+        "client_msg_id": "ed400ac5-d126-4cfe-958e-0414c034d089",
+        "text": "<!channel>\n오늘 공유드린다고 했던 Bosch Production Line Performance 코드는 고민해본 결과,\n저번 실습 링크에서 파트파트별로 우선 순위만 잘 세팅해서 강의를 진행하고 나서 솔루션 코드를 그냥 공유해드리는게 낫겠다고 판단했습니다!\n(어차피 설명없이 코드를 추가해놓아도, 그걸 이해해서 진행하는게 어렵다고 판단했습니다)\n\n내일은 아래 실습 링크 (저번에 공유한것과 같음)로 진행되니 참고해주세요!\n• <https:\/\/colab.research.google.com\/drive\/1q9iR1aUToTYXxkY8RQ5vQrJBslslwTyR?usp=sharing>",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "34f110a5edc4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-11-14\/6197301711475_34f110a5edc435398e63_72.png",
+            "first_name": "김용담",
+            "real_name": "김용담",
+            "display_name": "김용담 강사",
+            "team": "T05UGFFGL07",
+            "name": "codingiscoffee",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/colab.research.google.com\/drive\/1q9iR1aUToTYXxkY8RQ5vQrJBslslwTyR?usp=sharing",
+                "image_url": "https:\/\/colab.research.google.com\/img\/colab_favicon_256px.png",
+                "image_width": 260,
+                "image_height": 260,
+                "image_bytes": 4534,
+                "service_icon": "https:\/\/ssl.gstatic.com\/colaboratory-static\/common\/c87c98fac9f2eed2b19e45ed9f06e3cc\/img\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/colab.research.google.com\/drive\/1q9iR1aUToTYXxkY8RQ5vQrJBslslwTyR?usp=sharing",
+                "fallback": "Google Colaboratory",
+                "title": "Google Colaboratory",
+                "title_link": "https:\/\/colab.research.google.com\/drive\/1q9iR1aUToTYXxkY8RQ5vQrJBslslwTyR?usp=sharing",
+                "service_name": "colab.research.google.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rF5aF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n오늘 공유드린다고 했던 Bosch Production Line Performance 코드는 고민해본 결과,\n저번 실습 링크에서 파트파트별로 우선 순위만 잘 세팅해서 강의를 진행하고 나서 솔루션 코드를 그냥 공유해드리는게 낫겠다고 판단했습니다!\n(어차피 설명없이 코드를 추가해놓아도, 그걸 이해해서 진행하는게 어렵다고 판단했습니다)\n\n내일은 아래 실습 링크 (저번에 공유한것과 같음)로 진행되니 참고해주세요!\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/colab.research.google.com\/drive\/1q9iR1aUToTYXxkY8RQ5vQrJBslslwTyR?usp=sharing"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U060LG0BT89",
+                    "U05V9N22ZUK",
+                    "U05UWVA90H4"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "user": "U065TBUL5EE",
+        "type": "message",
+        "ts": "1701324376.270719",
+        "client_msg_id": "c4218178-5e0c-4cbc-9b37-c92505cda2ec",
+        "text": "++ 어제 진행한 전력사용량 예측 문제에서 추가적으로 더 해보고 싶은 분들에게 간단한 할 것들을 제안드립니다.\n\n1. KMeans를 TimeSeriesKMeans로 바꿔서 클러스터링 성능 올리기\n2. KMeans 사용하기전에 데이터 Min-Max scaling 적용하기\n3. 데이터가 적으니, AgglomerativeClustering + Average Link + Euclidean distance로 돌려보기\n4. 나눠진 모델별로 optuna 튜닝한 결과로 예측해보기",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "34f110a5edc4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-11-14\/6197301711475_34f110a5edc435398e63_72.png",
+            "first_name": "김용담",
+            "real_name": "김용담",
+            "display_name": "김용담 강사",
+            "team": "T05UGFFGL07",
+            "name": "codingiscoffee",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1701324376.270719",
+        "reply_count": 7,
+        "reply_users_count": 3,
+        "latest_reply": "1701402895.617589",
+        "reply_users": [
+            "U05UWVA90H4",
+            "U05V2P37518",
+            "U065TBUL5EE"
+        ],
+        "replies": [
+            {
+                "user": "U05UWVA90H4",
+                "ts": "1701338949.115559"
+            },
+            {
+                "user": "U05V2P37518",
+                "ts": "1701352409.131059"
+            },
+            {
+                "user": "U05UWVA90H4",
+                "ts": "1701392375.122289"
+            },
+            {
+                "user": "U05V2P37518",
+                "ts": "1701399836.501839"
+            },
+            {
+                "user": "U065TBUL5EE",
+                "ts": "1701402659.815579"
+            },
+            {
+                "user": "U065TBUL5EE",
+                "ts": "1701402723.982969"
+            },
+            {
+                "user": "U05V2P37518",
+                "ts": "1701402895.617589"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/9xNe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "++ 어제 진행한 전력사용량 예측 문제에서 추가적으로 더 해보고 싶은 분들에게 간단한 할 것들을 제안드립니다.\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "KMeans를 TimeSeriesKMeans로 바꿔서 클러스터링 성능 올리기"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "KMeans 사용하기전에 데이터 Min-Max scaling 적용하기"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "데이터가 적으니, AgglomerativeClustering + Average Link + Euclidean distance로 돌려보기"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "나눠진 모델별로 optuna 튜닝한 결과로 예측해보기"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U05V9N22ZUK",
+                    "U05V7H78DUM",
+                    "U05V5B27DK7",
+                    "U05V379NETU",
+                    "U060LG0BT89",
+                    "U05UWVA90H4",
+                    "U05V1KVNK0E"
+                ],
+                "count": 7
+            }
+        ]
+    }
+]

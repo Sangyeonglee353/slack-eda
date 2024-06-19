@@ -1,0 +1,653 @@
+[
+    {
+        "user": "U05VAHXECP6",
+        "type": "message",
+        "ts": "1708588957.350399",
+        "client_msg_id": "d45c5ca4-e5a7-4e37-997a-119793d4d04f",
+        "text": "<!channel>\n안녕하세요, Upstage AI Lab 1기 수강생 여러분!\n\n여러분께서 주변 지인들에게 패스트캠퍼스 부트캠프를 추천해주시는 경우가 종종 있는 것 같아\n감사한 마음에 올해부터 패스트캠퍼스에서 지인 추천 이벤트를 정기적으로 진행하게 되었습니다!\n\n[이벤트 안내]\n:man-tipping-hand: 참여 대상 :\n부트캠프 수료생 혹은 현재 수강중이신 분들\n\n:bookmark_tabs: 참여 방법 :\n1. 주변에 취업이나 이직으로 고민하고 계신 분들께 패스트캠퍼스의 국비지원 부트캠프 소개하기\n2. 소개 받은 분(피추천인)께서 추천 지인 정보를 자기소개서 제출 단계에서 기입하고 과정 최종 지원 완료하기\n\n:gift: 참여 혜택 :\n이벤트에 참여하신 두 분 모두에게 혜택을 드립니다!\n추천인- 네이버페이 3만 포인트\n피추천인 - 네이버페이 1만 포인트\n\n:books: 현재 진행중인 과정 :\n- Upstage AI Lab 3기 (<https:\/\/fastcampus.co.kr\/b2g_kdigitaltraining_ai|바로가기>)\n\n더 자세한 내용은 아래 링크에서 확인하실 수 있습니다.\n이벤트 안내 페이지 - <https:\/\/bit.ly\/3LYHEgA>\n\n우리 모두의 커리어 '업'을 위해 여러분의 많은 참여를 바랍니다. :muscle:\n감사합니다!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "50abee101814",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-11\/6044824153712_50abee1018149e21919b_72.jpg",
+            "first_name": "이상영",
+            "real_name": "이상영",
+            "display_name": "FC 이상영 매니저",
+            "team": "T05UGFFGL07",
+            "name": "sangyeong.lee",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1708588957.350399",
+        "reply_count": 4,
+        "reply_users_count": 2,
+        "latest_reply": "1708665572.615169",
+        "reply_users": [
+            "U05V2HL22M9",
+            "U05VAHXECP6"
+        ],
+        "replies": [
+            {
+                "user": "U05V2HL22M9",
+                "ts": "1708664559.007029"
+            },
+            {
+                "user": "U05VAHXECP6",
+                "ts": "1708664841.444669"
+            },
+            {
+                "user": "U05V2HL22M9",
+                "ts": "1708664929.269439"
+            },
+            {
+                "user": "U05VAHXECP6",
+                "ts": "1708665572.615169"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1708665572.615169",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Rsgex",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n안녕하세요, Upstage AI Lab 1기 수강생 여러분!\n\n여러분께서 주변 지인들에게 패스트캠퍼스 부트캠프를 추천해주시는 경우가 종종 있는 것 같아\n감사한 마음에 올해부터 패스트캠퍼스에서 지인 추천 이벤트를 정기적으로 진행하게 되었습니다!\n\n[이벤트 안내]\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-tipping-hand",
+                                "unicode": "1f481-200d-2642-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 참여 대상 :\n부트캠프 수료생 혹은 현재 수강중이신 분들\n\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bookmark_tabs",
+                                "unicode": "1f4d1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 참여 방법 :\n1. 주변에 취업이나 이직으로 고민하고 계신 분들께 패스트캠퍼스의 국비지원 부트캠프 소개하기\n2. 소개 받은 분(피추천인)께서 추천 지인 정보를 자기소개서 제출 단계에서 기입하고 과정 최종 지원 완료하기\n\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "gift",
+                                "unicode": "1f381"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 참여 혜택 :\n이벤트에 참여하신 두 분 모두에게 혜택을 드립니다!\n추천인- 네이버페이 3만 포인트\n피추천인 - 네이버페이 1만 포인트\n\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "books",
+                                "unicode": "1f4da"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 현재 진행중인 과정 :\n- Upstage AI Lab 3기 ("
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/fastcampus.co.kr\/b2g_kdigitaltraining_ai",
+                                "text": "바로가기"
+                            },
+                            {
+                                "type": "text",
+                                "text": ")\n\n더 자세한 내용은 아래 링크에서 확인하실 수 있습니다.\n이벤트 안내 페이지 - "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/bit.ly\/3LYHEgA"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n우리 모두의 커리어 '업'을 위해 여러분의 많은 참여를 바랍니다. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "muscle",
+                                "unicode": "1f4aa"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n감사합니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U05V5B27DK7",
+                    "U060C67EYQ5",
+                    "U065TBUL5EE",
+                    "U05UNMQ4LP9"
+                ],
+                "count": 4
+            },
+            {
+                "name": "party-blob",
+                "users": [
+                    "U060C67EYQ5",
+                    "U05UT0JG4BZ"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "subtype": "thread_broadcast",
+        "user": "U060C67EYQ5",
+        "thread_ts": "1708299240.927199",
+        "root": {
+            "user": "U060C67EYQ5",
+            "type": "message",
+            "ts": "1708299240.927199",
+            "client_msg_id": "3f98d4e4-30fe-4917-aef6-8f851f1afcde",
+            "text": "지난주 OpenAI에서 ChatGPT, DALL-E에 이어 Text-to-Video 모델, SORA를 공개했네요.\n\n아직 테스트 기간 중인 것 같은데 공개된 예시 영상만 보더라도 정말 퀄리티가 괜찮은 것 같아요.\n머지않아 시나리오 프롬프트로 영화 생성까지도 정말 가능할 것 같네요.\n\n다만, deep fake 등 부정 사용 이슈 등을 방지하기 위해서 이용에 제한을 두는 방향으로 일단 법률 검토를 하고 있다는데요.\n앞으로 어떻게 발전되고 ChatGPT에 이은 또 다른 쇼크를 줄지.. 지켜봐야겠네요..!!!\n\n• 링크: <https:\/\/openai.com\/sora>\n",
+            "team": "T05UGFFGL07",
+            "thread_ts": "1708299240.927199",
+            "reply_count": 2,
+            "reply_users_count": 1,
+            "latest_reply": "1708602116.865749",
+            "reply_users": [
+                "U060C67EYQ5"
+            ],
+            "replies": [
+                {
+                    "user": "U060C67EYQ5",
+                    "ts": "1708602052.447439"
+                },
+                {
+                    "user": "U060C67EYQ5",
+                    "ts": "1708602116.865749"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false,
+            "attachments": [
+                {
+                    "image_url": "https:\/\/images.openai.com\/blob\/8264d3d7-922c-4343-b43d-6665e44bcb91\/paper-airplanes.jpg?trim=0%2C0%2C0%2C0&width=1000&quality=80",
+                    "image_width": 1000,
+                    "image_height": 562,
+                    "image_bytes": 98157,
+                    "from_url": "https:\/\/openai.com\/sora",
+                    "service_icon": "https:\/\/openai.com\/favicon.ico",
+                    "id": 1,
+                    "original_url": "https:\/\/openai.com\/sora",
+                    "fallback": "Sora: Creating video from text",
+                    "title": "Sora: Creating video from text",
+                    "title_link": "https:\/\/openai.com\/sora",
+                    "service_name": "openai.com"
+                }
+            ],
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "UkwYW",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "지난주 OpenAI에서 ChatGPT, DALL-E에 이어 Text-to-Video 모델, SORA를 공개했네요.\n\n아직 테스트 기간 중인 것 같은데 공개된 예시 영상만 보더라도 정말 퀄리티가 괜찮은 것 같아요.\n머지않아 시나리오 프롬프트로 영화 생성까지도 정말 가능할 것 같네요.\n\n다만, deep fake 등 부정 사용 이슈 등을 방지하기 위해서 이용에 제한을 두는 방향으로 일단 법률 검토를 하고 있다는데요.\n앞으로 어떻게 발전되고 ChatGPT에 이은 또 다른 쇼크를 줄지.. 지켜봐야겠네요..!!!\n\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "링크: "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https:\/\/openai.com\/sora"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": []
+                        }
+                    ]
+                }
+            ]
+        },
+        "type": "message",
+        "ts": "1708602052.447439",
+        "client_msg_id": "027605a3-cd77-4cf9-8c8b-22d2f62ce9d4",
+        "text": "<https:\/\/ai.google.dev\/gemma>\n\n쏘라에 이어.. 초경량화된 젬마까지 등장했네요..!\n하루하루 새로운 게 많이 나오는 요즘입니다 :fire:",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GpkbS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/ai.google.dev\/gemma"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n쏘라에 이어.. 초경량화된 젬마까지 등장했네요..!\n하루하루 새로운 게 많이 나오는 요즘입니다 "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fire",
+                                "unicode": "1f525"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "meow_noddies",
+                "users": [
+                    "U05V5B27DK7"
+                ],
+                "count": 1
+            },
+            {
+                "name": "party_blob-1",
+                "users": [
+                    "U05V5B27DK7",
+                    "U05UN5DQ423"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U060C67EYQ5",
+        "type": "message",
+        "ts": "1708602116.865749",
+        "client_msg_id": "c5623d2f-66be-4fac-8fb3-e2002e139fe6",
+        "text": "젬마 모델 파이토치 구현 관련 코드 :  <https:\/\/github.com\/google\/gemma_pytorch>",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "831ed525b276",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-11-14\/6192884585138_831ed525b276222009d0_72.png",
+            "first_name": "업스테이지",
+            "real_name": "업스테이지 김의겸(Dave)",
+            "display_name": "UP 김의겸(Dave) 매니저",
+            "team": "T05UGFFGL07",
+            "name": "euigyum",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1708299240.927199",
+        "parent_user_id": "U060C67EYQ5",
+        "attachments": [
+            {
+                "id": 1,
+                "color": "24292f",
+                "bot_id": "B064NLR870C",
+                "app_unfurl_url": "https:\/\/github.com\/google\/gemma_pytorch",
+                "is_app_unfurl": true,
+                "app_id": "A01BP7R4KNY",
+                "fallback": "google\/gemma_pytorch",
+                "text": "The official PyTorch implementation of Google's Gemma models",
+                "title": "google\/gemma_pytorch",
+                "fields": [
+                    {
+                        "value": "<https:\/\/ai.google.dev\/gemma>",
+                        "title": "Website",
+                        "short": true
+                    },
+                    {
+                        "value": "1270",
+                        "title": "Stars",
+                        "short": true
+                    }
+                ]
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ViJHT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "젬마 모델 파이토치 구현 관련 코드 :  "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/google\/gemma_pytorch"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05V2HL22M9",
+        "type": "message",
+        "ts": "1708664559.007029",
+        "client_msg_id": "cdc4b0e6-dab7-4323-bb7d-d219949fe498",
+        "text": "<@U05VAHXECP6> 안녕하세요 매니저님! 좋은 이벤트 공유해주셔서 감사합니다 ! 제 추천으로 Upstage AI Lab 3기에 지원하신 분이 계시는데 이 이벤트를 확인하기 전에 이미 지원을 완료하셨다고 하셔서 추천 지인 정보를 기입하지 않으셨다고 합니다..! 해당 이벤트 참여하기 위해 정보를 어떻게 전달 드리면 될까요..!?",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "1dcddf110806",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5996462649172_1dcddf110806f3a037a7_72.png",
+            "first_name": "김도연",
+            "real_name": "김도연",
+            "display_name": "김도연",
+            "team": "T05UGFFGL07",
+            "name": "lottie_eve",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1708588957.350399",
+        "parent_user_id": "U05VAHXECP6",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HWS+T",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05VAHXECP6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 안녕하세요 매니저님! 좋은 이벤트 공유해주셔서 감사합니다 ! 제 추천으로 Upstage AI Lab 3기에 지원하신 분이 계시는데 이 이벤트를 확인하기 전에 이미 지원을 완료하셨다고 하셔서 추천 지인 정보를 기입하지 않으셨다고 합니다..! 해당 이벤트 참여하기 위해 정보를 어떻게 전달 드리면 될까요..!?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05VAHXECP6",
+        "type": "message",
+        "ts": "1708664841.444669",
+        "client_msg_id": "665f09c7-b104-4f9b-b171-ebda110bf9d5",
+        "text": "<@U05V2HL22M9> 네. 도연님! 벌써 지원하신 분이군요. :+1::귀여운박수: 해당 내용은 이벤트 담당자에게 제가 확인 후 안내드리겠습니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "50abee101814",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-11\/6044824153712_50abee1018149e21919b_72.jpg",
+            "first_name": "이상영",
+            "real_name": "이상영",
+            "display_name": "FC 이상영 매니저",
+            "team": "T05UGFFGL07",
+            "name": "sangyeong.lee",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1708588957.350399",
+        "parent_user_id": "U05VAHXECP6",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bERp4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05V2HL22M9"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 네. 도연님! 벌써 지원하신 분이군요. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "+1",
+                                "unicode": "1f44d"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "귀여운박수"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 해당 내용은 이벤트 담당자에게 제가 확인 후 안내드리겠습니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05V2HL22M9",
+        "type": "message",
+        "ts": "1708664929.269439",
+        "client_msg_id": "7AB13AF7-DC4A-4F36-AEA5-722FF81179A6",
+        "text": "<@U05VAHXECP6> 넵 감사합니다! :귀여운박수: ",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "1dcddf110806",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5996462649172_1dcddf110806f3a037a7_72.png",
+            "first_name": "김도연",
+            "real_name": "김도연",
+            "display_name": "김도연",
+            "team": "T05UGFFGL07",
+            "name": "lottie_eve",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1708588957.350399",
+        "parent_user_id": "U05VAHXECP6",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CNx6z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05VAHXECP6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "넵"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "감사합니다"
+                            },
+                            {
+                                "type": "text",
+                                "text": "! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "귀여운박수"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05VAHXECP6",
+        "type": "message",
+        "ts": "1708665572.615169",
+        "edited": {
+            "user": "U05VAHXECP6",
+            "ts": "1708665596.000000"
+        },
+        "client_msg_id": "bebe66c9-ce31-4477-9a12-7ef970a7aa79",
+        "text": "<@U05V2HL22M9> 도연님! 이벤트 담당자에게 확인 결과, 이벤트 참여 가능하다고 합니다. 제 DM 으로 아래 정보 남겨주시면 이후 함께 혜택 지급 드리겠습니다.\n\n• 피추천인 정보 \/ DM으로 전달\n    ◦ 성함\n    ◦ 연락처(이메일\/휴대폰 번호)\n    ◦ 지원 과정",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "50abee101814",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-11\/6044824153712_50abee1018149e21919b_72.jpg",
+            "first_name": "이상영",
+            "real_name": "이상영",
+            "display_name": "FC 이상영 매니저",
+            "team": "T05UGFFGL07",
+            "name": "sangyeong.lee",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1708588957.350399",
+        "parent_user_id": "U05VAHXECP6",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VwXwX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05V2HL22M9"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 도연님! 이벤트 담당자에게 확인 결과, 이벤트 참여 가능하다고 합니다. 제 DM 으로 아래 정보 남겨주시면 이후 함께 혜택 지급 드리겠습니다.\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "피추천인 정보 \/ DM으로 전달"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "성함"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "연락처(이메일\/휴대폰 번호)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "지원 과정"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1::skin-tone-2",
+                "users": [
+                    "U05V2HL22M9"
+                ],
+                "count": 1
+            },
+            {
+                "name": "raised_hands::skin-tone-2",
+                "users": [
+                    "U05V2HL22M9"
+                ],
+                "count": 1
+            },
+            {
+                "name": "귀여운박수",
+                "users": [
+                    "U05V2HL22M9"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

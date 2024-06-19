@@ -1,0 +1,63 @@
+[
+    {
+        "user": "U05V561TXUL",
+        "type": "message",
+        "ts": "1700479392.031219",
+        "client_msg_id": "015e8651-f9e0-456d-99bc-04dd925846ba",
+        "text": "<@U05UNC6FNK1> <@U05V81G5ZDY>11월 17일 금요일 병가로 인한 출석정정 관련 서류 구글 폼으로 제출했습니다. 확인부탁드립니다. 감사합니다!!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "b4604568d88f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-08\/6448187852305_b4604568d88f0ae3e9b1_72.png",
+            "first_name": "최장원",
+            "real_name": "최장원",
+            "display_name": "",
+            "team": "T05UGFFGL07",
+            "name": "cjw7378",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1700216320.400699",
+        "parent_user_id": "U05V561TXUL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "K5Ltt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05UNC6FNK1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05V81G5ZDY"
+                            },
+                            {
+                                "type": "text",
+                                "text": "11월 17일 금요일 병가로 인한 출석정정 관련 서류 구글 폼으로 제출했습니다. 확인부탁드립니다. 감사합니다!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pill",
+                "users": [
+                    "U05V81G5ZDY"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

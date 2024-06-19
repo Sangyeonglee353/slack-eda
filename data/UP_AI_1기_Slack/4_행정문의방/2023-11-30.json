@@ -1,0 +1,531 @@
+[
+    {
+        "user": "U05V7V2AV8A",
+        "type": "message",
+        "ts": "1701403582.035129",
+        "edited": {
+            "user": "U05V7V2AV8A",
+            "ts": "1701403596.000000"
+        },
+        "client_msg_id": "f0f34182-3e2d-43d4-b19c-2ce3ae631661",
+        "text": "휴가 한 달에 한 번 사용 가능하죠?\n사용하면 결석 1될 거 0으로 처리되나요?",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "28368614e02a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5987346071766_28368614e02abbfb71bd_72.png",
+            "first_name": "andrew",
+            "real_name": "andrew jang",
+            "display_name": "장준규",
+            "team": "T05UGFFGL07",
+            "name": "goldenbeluga",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1701403582.035129",
+        "reply_count": 6,
+        "reply_users_count": 3,
+        "latest_reply": "1701406132.984909",
+        "reply_users": [
+            "U05VADPQPCL",
+            "U05V7V2AV8A",
+            "U060JMX5FK2"
+        ],
+        "replies": [
+            {
+                "user": "U05VADPQPCL",
+                "ts": "1701403969.623859"
+            },
+            {
+                "user": "U05V7V2AV8A",
+                "ts": "1701404097.451999"
+            },
+            {
+                "user": "U05VADPQPCL",
+                "ts": "1701404382.462109"
+            },
+            {
+                "user": "U060JMX5FK2",
+                "ts": "1701406090.906239"
+            },
+            {
+                "user": "U05VADPQPCL",
+                "ts": "1701406121.617179"
+            },
+            {
+                "user": "U060JMX5FK2",
+                "ts": "1701406132.984909"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "I01fj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "휴가 한 달에 한 번 사용 가능하죠?\n사용하면 결석 1될 거 0으로 처리되나요?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05VADPQPCL",
+        "type": "message",
+        "ts": "1701403969.623859",
+        "client_msg_id": "be66b1aa-cb83-46a1-a02f-59026e25d3ea",
+        "text": "단위 기간 별 한 번 사용 가능하며 출석으로 인정됩니다.\n휴가 사용으로 기존에 결석한 날을 정정하는 것은 불가능 합니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "07e7ca00b8f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5991092857253_07e7ca00b8f0d0b13ba1_72.png",
+            "first_name": "패스트캠퍼스박기준",
+            "real_name": "패스트캠퍼스박기준",
+            "display_name": "LM 박기준",
+            "team": "T05UGFFGL07",
+            "name": "pgj.fc.career",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1701403582.035129",
+        "parent_user_id": "U05V7V2AV8A",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CQrla",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "단위 기간 별 한 번 사용 가능하며 출석으로 인정됩니다.\n휴가 사용으로 기존에 결석한 날을 정정하는 것은 불가능 합니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05V7V2AV8A",
+        "type": "message",
+        "ts": "1701404097.451999",
+        "client_msg_id": "1b52074c-4d99-420b-842a-42fb6196062a",
+        "text": "<@U05VADPQPCL>단위기간이면 어떻게 되나요? \n그리고 휴가신청서 링크 부탁드릴게요",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "28368614e02a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5987346071766_28368614e02abbfb71bd_72.png",
+            "first_name": "andrew",
+            "real_name": "andrew jang",
+            "display_name": "장준규",
+            "team": "T05UGFFGL07",
+            "name": "goldenbeluga",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1701403582.035129",
+        "parent_user_id": "U05V7V2AV8A",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lYeX3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05VADPQPCL"
+                            },
+                            {
+                                "type": "text",
+                                "text": "단위기간이면 어떻게 되나요? \n그리고 휴가신청서 링크 부탁드릴게요"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05VADPQPCL",
+        "type": "message",
+        "ts": "1701404382.462109",
+        "client_msg_id": "7a683d88-3df6-4072-b5ab-2633a347cb56",
+        "text": "단위 기간은 월 기준 10일 ~ 9일 입니다\n휴가신청은 *<https:\/\/fcupstageai1.slack.com\/archives\/C05V0H8H3GC\/p1696994969591479|휴가 신청 안내 스레드>* 참고 부탁 드립니다",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "07e7ca00b8f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5991092857253_07e7ca00b8f0d0b13ba1_72.png",
+            "first_name": "패스트캠퍼스박기준",
+            "real_name": "패스트캠퍼스박기준",
+            "display_name": "LM 박기준",
+            "team": "T05UGFFGL07",
+            "name": "pgj.fc.career",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1701403582.035129",
+        "parent_user_id": "U05V7V2AV8A",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TC1nt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "단위 기간은 월 기준 10일 ~ 9일 입니다\n휴가신청은 "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/fcupstageai1.slack.com\/archives\/C05V0H8H3GC\/p1696994969591479",
+                                "text": "휴가 신청 안내 스레드",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " 참고 부탁 드립니다"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U060JMX5FK2",
+        "type": "message",
+        "ts": "1701406090.906239",
+        "client_msg_id": "3efb2314-c907-4fcd-98ac-19cb2287d28b",
+        "text": "<@U05VADPQPCL> 휴가는 월에 사용을 안하면 월마다 1개씩 누적인가요? 아니면 그냥 사라지는걸까요??",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "gfc7ecc6b1da",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fc7ecc6b1da3c3f7a37c07a405aa9e6a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "노균호",
+            "real_name": "노균호",
+            "display_name": "노균호",
+            "team": "T05UGFFGL07",
+            "name": "guno2633",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1701403582.035129",
+        "parent_user_id": "U05V7V2AV8A",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ieN+K",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05VADPQPCL"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 휴가는 월에 사용을 안하면 월마다 1개씩 누적인가요? 아니면 그냥 사라지는걸까요??"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05VADPQPCL",
+        "type": "message",
+        "ts": "1701406121.617179",
+        "client_msg_id": "32c6cd6b-e8d7-4ee9-8221-b03084157446",
+        "text": "<@U060JMX5FK2> 안녕하세요 균호님! 휴가는 누적이 안되며 사라집니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "07e7ca00b8f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5991092857253_07e7ca00b8f0d0b13ba1_72.png",
+            "first_name": "패스트캠퍼스박기준",
+            "real_name": "패스트캠퍼스박기준",
+            "display_name": "LM 박기준",
+            "team": "T05UGFFGL07",
+            "name": "pgj.fc.career",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1701403582.035129",
+        "parent_user_id": "U05V7V2AV8A",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pheqs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U060JMX5FK2"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 안녕하세요 균호님! 휴가는 누적이 안되며 사라집니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U060JMX5FK2",
+        "type": "message",
+        "ts": "1701406132.984909",
+        "client_msg_id": "180dcc55-4d28-469b-86c0-2d7450773b3b",
+        "text": "넵! 감사합니다",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "gfc7ecc6b1da",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fc7ecc6b1da3c3f7a37c07a405aa9e6a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "노균호",
+            "real_name": "노균호",
+            "display_name": "노균호",
+            "team": "T05UGFFGL07",
+            "name": "guno2633",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1701403582.035129",
+        "parent_user_id": "U05V7V2AV8A",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ic7BF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "넵! 감사합니다"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U05VADPQPCL"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05UN7M2GKZ",
+        "type": "message",
+        "ts": "1701406511.862949",
+        "client_msg_id": "b7bb25df-f217-45e1-b405-f7179cccfa6c",
+        "text": "<@U05UNC6FNK1> <@U05V81G5ZDY> 안녕하세요. LM 님과 상담 후 12일 06일 휴가 사용으로  구글 폼 제출하였습니다 확인 부탁드립니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "g898587e4152",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/898587e41523b6c4bc631e8e0c827f5b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "장호준",
+            "real_name": "장호준",
+            "display_name": "장호준",
+            "team": "T05UGFFGL07",
+            "name": "jhh6650",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6jnkZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05UNC6FNK1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05V81G5ZDY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 안녕하세요. LM 님과 상담 후 12일 06일 휴가 사용으로  구글 폼 제출하였습니다 확인 부탁드립니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "beach_with_umbrella",
+                "users": [
+                    "U05V81G5ZDY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05UN7M2GKZ",
+        "type": "message",
+        "ts": "1701406524.225049",
+        "client_msg_id": "b6701110-e12a-405c-b29b-b699551a3840",
+        "text": "<@U05UNC6FNK1> <@U05V81G5ZDY> 안녕하세요. LM 님과 상담 후 12일 13일 휴가 사용으로  구글 폼 제출하였습니다 확인 부탁드립니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "g898587e4152",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/898587e41523b6c4bc631e8e0c827f5b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "장호준",
+            "real_name": "장호준",
+            "display_name": "장호준",
+            "team": "T05UGFFGL07",
+            "name": "jhh6650",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4fibT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05UNC6FNK1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05V81G5ZDY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 안녕하세요. LM 님과 상담 후 12일 13일 휴가 사용으로  구글 폼 제출하였습니다 확인 부탁드립니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "beach_with_umbrella",
+                "users": [
+                    "U05V81G5ZDY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05UW74NJ0N",
+        "type": "message",
+        "ts": "1701414102.326639",
+        "client_msg_id": "4499a381-6f08-4632-a716-db7e288ba1cc",
+        "text": "<@U05UNC6FNK1> <@U05V81G5ZDY>\n\n안녕하세요. 12월 8일 휴가 신청 구글 폼에 제출하였습니다.\n감사합니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "gf4e3c8b4c9e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/f4e3c8b4c9eebf87b0a9a7969b1a5c6a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+            "first_name": "우승현",
+            "real_name": "우승현",
+            "display_name": "우승현",
+            "team": "T05UGFFGL07",
+            "name": "fromwsh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Su3bx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05UNC6FNK1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05V81G5ZDY"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n안녕하세요. 12월 8일 휴가 신청 구글 폼에 제출하였습니다.\n감사합니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "beach_with_umbrella",
+                "users": [
+                    "U05V81G5ZDY"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

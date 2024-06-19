@@ -1,0 +1,46 @@
+[
+    {
+        "user": "U05V81G5ZDY",
+        "type": "message",
+        "ts": "1700010869.053829",
+        "client_msg_id": "c040061d-5e0e-4495-9410-6b7b47c8ab23",
+        "text": "<@U061N4T7L8G> 안녕하세요 행정 매니저입니다.\n\n11\/1일자 출결 정정 구글폼 미제출로 확인되어 연락드립니다.\n확인 부탁드립니다!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "db1aceeb0d90",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5994058472162_db1aceeb0d9030c57e69_72.jpg",
+            "first_name": "김현우",
+            "real_name": "김현우",
+            "display_name": "FC 김현우 매니저",
+            "team": "T05UGFFGL07",
+            "name": "hyunwoo.kim",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698815848.937589",
+        "parent_user_id": "U061N4T7L8G",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bxpcz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U061N4T7L8G"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 안녕하세요 행정 매니저입니다.\n\n11\/1일자 출결 정정 구글폼 미제출로 확인되어 연락드립니다.\n확인 부탁드립니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,904 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U06061L4S64",
+        "text": "<@U06061L4S64> 님이 채널에 참여함",
+        "type": "message",
+        "ts": "1698195590.904679"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U05UYAVRTSR",
+        "text": "<@U05UYAVRTSR> 님이 채널에 참여함",
+        "inviter": "U06061L4S64",
+        "type": "message",
+        "ts": "1698196126.959549"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U05VAHXECP6",
+        "text": "<@U05VAHXECP6> 님이 채널에 참여함",
+        "inviter": "U06061L4S64",
+        "type": "message",
+        "ts": "1698196127.026119"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U05V7V2AV8A",
+        "text": "<@U05V7V2AV8A> 님이 채널에 참여함",
+        "inviter": "U06061L4S64",
+        "type": "message",
+        "ts": "1698196127.094389"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U05UT0JG4BZ",
+        "text": "<@U05UT0JG4BZ> 님이 채널에 참여함",
+        "inviter": "U06061L4S64",
+        "type": "message",
+        "ts": "1698196127.165679"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U05V0106JDT",
+        "text": "<@U05V0106JDT> 님이 채널에 참여함",
+        "inviter": "U06061L4S64",
+        "type": "message",
+        "ts": "1698196127.232439"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U06022Z2TED",
+        "text": "<@U06022Z2TED> 님이 채널에 참여함",
+        "inviter": "U06061L4S64",
+        "type": "message",
+        "ts": "1698196127.303889"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U05UN5DQ423",
+        "text": "<@U05UN5DQ423> 님이 채널에 참여함",
+        "inviter": "U06061L4S64",
+        "type": "message",
+        "ts": "1698196127.375159"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U05UW1S4KQE",
+        "text": "<@U05UW1S4KQE> 님이 채널에 참여함",
+        "inviter": "U06061L4S64",
+        "type": "message",
+        "ts": "1698196127.437979"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U05UWVA90H4",
+        "text": "<@U05UWVA90H4> 님이 채널에 참여함",
+        "inviter": "U06061L4S64",
+        "type": "message",
+        "ts": "1698196127.511119"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U0600C60ZK4",
+        "text": "<@U0600C60ZK4> 님이 채널에 참여함",
+        "inviter": "U06061L4S64",
+        "type": "message",
+        "ts": "1698196127.584189"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U05UUUNAE5D",
+        "text": "<@U05UUUNAE5D> 님이 채널에 참여함",
+        "inviter": "U06061L4S64",
+        "type": "message",
+        "ts": "1698196127.655529"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U05V2HL22M9",
+        "text": "<@U05V2HL22M9> 님이 채널에 참여함",
+        "inviter": "U06061L4S64",
+        "type": "message",
+        "ts": "1698196127.729699"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U05UNMQ4LP9",
+        "text": "<@U05UNMQ4LP9> 님이 채널에 참여함",
+        "inviter": "U06061L4S64",
+        "type": "message",
+        "ts": "1698196127.801349"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U060LG0BT89",
+        "text": "<@U060LG0BT89> 님이 채널에 참여함",
+        "inviter": "U06061L4S64",
+        "type": "message",
+        "ts": "1698196127.875449"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U060BLVQYHW",
+        "text": "<@U060BLVQYHW> 님이 채널에 참여함",
+        "inviter": "U06061L4S64",
+        "type": "message",
+        "ts": "1698196127.936689"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U0600GGHJTC",
+        "text": "<@U0600GGHJTC> 님이 채널에 참여함",
+        "inviter": "U06061L4S64",
+        "type": "message",
+        "ts": "1698196128.003679"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U060J3NGX08",
+        "text": "<@U060J3NGX08> 님이 채널에 참여함",
+        "inviter": "U06061L4S64",
+        "type": "message",
+        "ts": "1698196128.089559"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U060TBSJ7DF",
+        "text": "<@U060TBSJ7DF> 님이 채널에 참여함",
+        "inviter": "U06061L4S64",
+        "type": "message",
+        "ts": "1698196128.163649"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U061N4T7L8G",
+        "text": "<@U061N4T7L8G> 님이 채널에 참여함",
+        "inviter": "U06061L4S64",
+        "type": "message",
+        "ts": "1698196128.225279"
+    },
+    {
+        "user": "U06061L4S64",
+        "type": "message",
+        "ts": "1698196343.105519",
+        "client_msg_id": "b234e0aa-7af7-4650-9aaf-d561240196f7",
+        "text": "<!here>\nPython 프로젝트 관련 질문이나 내용들은 여기에 말씀해주세요~\n<https:\/\/visioneer.notion.site\/55ee72d8daf844719c778c5376f52c20|프로젝트 프로젝트 리스트>",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "9958a6e7ea98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5988755251283_9958a6e7ea98545615ca_72.png",
+            "first_name": "LM",
+            "real_name": "LM 박진영",
+            "display_name": "LM 박진영",
+            "team": "T05UGFFGL07",
+            "name": "pjy.fc.career",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/visioneer.notion.site\/55ee72d8daf844719c778c5376f52c20",
+                "service_icon": "https:\/\/visioneer.notion.site\/images\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/visioneer.notion.site\/55ee72d8daf844719c778c5376f52c20",
+                "fallback": "SeopE on Notion: 프로젝트: 나만의 음성인식 비서 만들기",
+                "text": "1. stt, tts 라이브러리를 활용한 음성인식 비서 개발",
+                "title": "프로젝트: 나만의 음성인식 비서 만들기",
+                "title_link": "https:\/\/visioneer.notion.site\/55ee72d8daf844719c778c5376f52c20",
+                "service_name": "SeopE on Notion"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Sn\/Ka",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nPython 프로젝트 관련 질문이나 내용들은 여기에 말씀해주세요~\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/visioneer.notion.site\/55ee72d8daf844719c778c5376f52c20",
+                                "text": "프로젝트 프로젝트 리스트"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U05UWVA90H4"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U0606HAGLTB",
+        "type": "message",
+        "ts": "1698196598.980979",
+        "client_msg_id": "f0f3ef56-cfc5-4e5e-8db5-923932bf4c73",
+        "text": "안녕하세요. 프로젝트 주제는 위에서 골라야하나요 아니면 자율인가요?",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "461e225fff0b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5991028764501_461e225fff0b7fa69542_72.png",
+            "first_name": "Hyeongsoo",
+            "real_name": "Hyeongsoo Kim",
+            "display_name": "김형수",
+            "team": "T05UGFFGL07",
+            "name": "oony97",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698196598.980979",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1698199259.014739",
+        "reply_users": [
+            "U05UYAVRTSR"
+        ],
+        "replies": [
+            {
+                "user": "U05UYAVRTSR",
+                "ts": "1698199259.014739"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PYbFl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "안녕하세요. 프로젝트 주제는 위에서 골라야하나요 아니면 자율인가요?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05UYAVRTSR",
+        "type": "message",
+        "ts": "1698199259.014739",
+        "client_msg_id": "d711fd77-2468-4927-97db-9c28fab235eb",
+        "text": "안녕하세요 형수님. 이번 프로젝트의 경우, 최대한 저희가 제시드리는 프로젝트 리스트 내에서 진행 부탁드립니다. 이외 프로젝트의 경우 어떤 프로젝트를 진행하고 계신지 내용 확인이 어려워 별도의 멘토링이나 질의응답 진행이 어려울 듯 해서요!\n\n이 안에서 진행하기 어려운 피치못할 사정이 있으신 분들만 다른 주제로 진행해도 괜찮을지 별도의 확인을 요청주시기 바랍니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "g6e6ee900c48",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e6ee900c48c19701d150f52a69af64a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "김수현",
+            "real_name": "김수현",
+            "display_name": "FC 김수현 매니저",
+            "team": "T05UGFFGL07",
+            "name": "suhyunkim",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698196598.980979",
+        "parent_user_id": "U0606HAGLTB",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uzKt5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "안녕하세요 형수님. 이번 프로젝트의 경우, 최대한 저희가 제시드리는 프로젝트 리스트 내에서 진행 부탁드립니다. 이외 프로젝트의 경우 어떤 프로젝트를 진행하고 계신지 내용 확인이 어려워 별도의 멘토링이나 질의응답 진행이 어려울 듯 해서요!\n\n이 안에서 진행하기 어려운 피치못할 사정이 있으신 분들만 다른 주제로 진행해도 괜찮을지 별도의 확인을 요청주시기 바랍니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0606HAGLTB"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06061L4S64",
+        "type": "message",
+        "ts": "1698200722.607519",
+        "client_msg_id": "1dff399c-6e9b-4c8d-bfe5-af310146c4c9",
+        "text": "<!here>\nPython 프로젝트 주제 정하신 분들은\n<https:\/\/forms.gle\/3Rgtg3Zqa7k2BKFBA|프로젝트 주제 수요 조사> 참여해주세요:exclamation:\n(30초짜리입니다.)",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "9958a6e7ea98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5988755251283_9958a6e7ea98545615ca_72.png",
+            "first_name": "LM",
+            "real_name": "LM 박진영",
+            "display_name": "LM 박진영",
+            "team": "T05UGFFGL07",
+            "name": "pjy.fc.career",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/lh5.googleusercontent.com\/UKNyDl3ZwkC1WRqUcSdNLCC7aZhLAP_0a2rMSJdSK-1vMEbTwmHb3yZwE7rAN57e3Sz6Db_iu9I",
+                "image_width": 800,
+                "image_height": 600,
+                "image_bytes": 40932,
+                "from_url": "https:\/\/forms.gle\/3Rgtg3Zqa7k2BKFBA",
+                "service_icon": "http:\/\/ssl.gstatic.com\/docs\/forms\/device_home\/ios_120.png",
+                "id": 1,
+                "original_url": "https:\/\/forms.gle\/3Rgtg3Zqa7k2BKFBA",
+                "fallback": "Google Docs: Upstage AI Lab 1기 - 프로젝트 수요 조사",
+                "title": "Upstage AI Lab 1기 - 프로젝트 수요 조사",
+                "title_link": "https:\/\/forms.gle\/3Rgtg3Zqa7k2BKFBA",
+                "service_name": "Google Docs"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "M9wK9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nPython 프로젝트 주제 정하신 분들은\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/forms.gle\/3Rgtg3Zqa7k2BKFBA",
+                                "text": "프로젝트 주제 수요 조사"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 참여해주세요"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "exclamation",
+                                "unicode": "2757"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n(30초짜리입니다.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U05V2P37518",
+                    "U05V2T62KUJ",
+                    "U060LG0BT89",
+                    "U05UWAPP5CN",
+                    "U060TBSJ7DF",
+                    "U05V9N22ZUK",
+                    "U05UNMQ4LP9"
+                ],
+                "count": 7
+            }
+        ]
+    },
+    {
+        "user": "U05UUUNAE5D",
+        "type": "message",
+        "ts": "1698201318.513129",
+        "client_msg_id": "048c559d-9a22-475d-959e-e99fc3beb8b5",
+        "text": "프로젝트는 하나만 선택해야 하는 건가요? 선택지가 하나만 가능하네요.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "32899ebdb4c2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5995423014227_32899ebdb4c26d670b69_72.png",
+            "first_name": "감성필SungFeelCalm",
+            "real_name": "감성필SungFeelCalm",
+            "display_name": "감성필",
+            "team": "T05UGFFGL07",
+            "name": "betterthingsarecoming",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698201318.513129",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1698213465.678699",
+        "reply_users": [
+            "U06061L4S64",
+            "U05V5H1T24V"
+        ],
+        "replies": [
+            {
+                "user": "U06061L4S64",
+                "ts": "1698212820.519469"
+            },
+            {
+                "user": "U05V5H1T24V",
+                "ts": "1698213405.207299"
+            },
+            {
+                "user": "U06061L4S64",
+                "ts": "1698213465.678699"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kR\/hR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "프로젝트는 하나만 선택해야 하는 건가요? 선택지가 하나만 가능하네요."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U06061L4S64",
+                    "U060TBSJ7DF",
+                    "U0600GGHJTC",
+                    "U05V379NETU"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "user": "U05UNMQ4LP9",
+        "type": "message",
+        "ts": "1698202312.457209",
+        "client_msg_id": "6b5f5da6-e386-483a-ada6-ac7db08b7c1e",
+        "text": "개인 프로젝트인가요? 지난번 만든 팀과 관계없는 것인지 문의드립니다",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "eef278e1672b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5974738227319_eef278e1672b038da8b1_72.jpg",
+            "first_name": "김윤겸",
+            "real_name": "김윤겸",
+            "display_name": "김윤겸",
+            "team": "T05UGFFGL07",
+            "name": "dbsrua110525",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698202312.457209",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1698207121.228369",
+        "reply_users": [
+            "U06061L4S64"
+        ],
+        "replies": [
+            {
+                "user": "U06061L4S64",
+                "ts": "1698207121.228369"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hwfs1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "개인 프로젝트인가요? 지난번 만든 팀과 관계없는 것인지 문의드립니다"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06061L4S64",
+        "type": "message",
+        "ts": "1698207121.228369",
+        "client_msg_id": "2ac923bf-ec3d-420a-9021-6469e54fadc9",
+        "text": "네 랜덤조별회고와는 별개로 개인프로젝트입니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "9958a6e7ea98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5988755251283_9958a6e7ea98545615ca_72.png",
+            "first_name": "LM",
+            "real_name": "LM 박진영",
+            "display_name": "LM 박진영",
+            "team": "T05UGFFGL07",
+            "name": "pjy.fc.career",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698202312.457209",
+        "parent_user_id": "U05UNMQ4LP9",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "B+GAE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "네 랜덤조별회고와는 별개로 개인프로젝트입니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06061L4S64",
+        "type": "message",
+        "ts": "1698212820.519469",
+        "client_msg_id": "5c69c48e-40d8-49db-a3a9-95a959e7c255",
+        "text": "프로젝트 설문 조사 양식 변경했습니다!\n• 첫번째 프로젝트 선택\n    ◦ stt, tts 라이브러리를 활용한 음성인식 비서 개발\n    ◦ 크롤링을 활용하여 나만의 데이터 파이프 라인 만들기\n    ◦ selenium 활용 검색 기능 구현\n    ◦ 끝말잇기 게임 구현\n• 위 프로젝트 완료 후 추가 챌린지로 아래 주제 택1 하시면 됩니다.\n    ◦ MBTI 검사 프로그램 만들기\n    ◦ 뇌 구조 wordcloud로 표현하기\n",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "9958a6e7ea98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5988755251283_9958a6e7ea98545615ca_72.png",
+            "first_name": "LM",
+            "real_name": "LM 박진영",
+            "display_name": "LM 박진영",
+            "team": "T05UGFFGL07",
+            "name": "pjy.fc.career",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698201318.513129",
+        "parent_user_id": "U05UUUNAE5D",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YvysB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "프로젝트 설문 조사 양식 변경했습니다!\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "첫번째 프로젝트 선택"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "stt, tts 라이브러리를 활용한 음성인식 비서 개발"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "크롤링을 활용하여 나만의 데이터 파이프 라인 만들기"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "selenium 활용 검색 기능 구현"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "끝말잇기 게임 구현"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "위 프로젝트 완료 후 추가 챌린지로 아래 주제 택1 하시면 됩니다."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "MBTI 검사 프로그램 만들기"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "뇌 구조 wordcloud로 표현하기"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05V5H1T24V",
+        "type": "message",
+        "ts": "1698213405.207299",
+        "client_msg_id": "F72C2F8F-A5A0-4EAB-9F86-61BC93CC9680",
+        "text": "<@U06061L4S64> 혹시 설문 조사 내용 변경하려고 하는데 다시 작성해도 될까요?",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "7c6706ce6504",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5987883585126_7c6706ce65044c7fba85_72.png",
+            "first_name": "서재현",
+            "real_name": "서재현",
+            "display_name": "서재현",
+            "team": "T05UGFFGL07",
+            "name": "jaehyeon4037",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698201318.513129",
+        "parent_user_id": "U05UUUNAE5D",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PGHQs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06061L4S64"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 혹시 "
+                            },
+                            {
+                                "type": "text",
+                                "text": "설문"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "조사"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "내용"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "변경하려고"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "하는데"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "다시"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "작성해도"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "될까요"
+                            },
+                            {
+                                "type": "text",
+                                "text": "?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U06061L4S64"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06061L4S64",
+        "type": "message",
+        "ts": "1698213465.678699",
+        "client_msg_id": "ab9f3834-8372-4cf9-a5d2-83c4fa2a6fd9",
+        "text": "네 다시 해주세요! 변경하신 내용 여기나 디엠으로 내용만 보내주세요",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "9958a6e7ea98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5988755251283_9958a6e7ea98545615ca_72.png",
+            "first_name": "LM",
+            "real_name": "LM 박진영",
+            "display_name": "LM 박진영",
+            "team": "T05UGFFGL07",
+            "name": "pjy.fc.career",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698201318.513129",
+        "parent_user_id": "U05UUUNAE5D",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LKsme",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "네 다시 해주세요! 변경하신 내용 여기나 디엠으로 내용만 보내주세요"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,847 @@
+[
+    {
+        "user": "U05VADPQPCL",
+        "type": "message",
+        "ts": "1712538003.576409",
+        "edited": {
+            "user": "U05VADPQPCL",
+            "ts": "1712538307.000000"
+        },
+        "client_msg_id": "a8715bcb-010d-4113-a7af-46f5737b9679",
+        "text": "*<!channel>*\n*AI 실전 학습 경진대회 AI Stages 팀 및 Github Classroom Repo 생성 안내*\n\n안녕하세요 Upstage AI Lab 1기 수강생 여러분!\n금일부터 저희 과정의 마지막 대회인 AI 실전 학습 경진대회가 시작됩니다.\n이전에 진행했던 경진대회와 같은 Github Classroom을 사용할 예정이니\n아래 내용과 <https:\/\/fcupstageai1.slack.com\/archives\/C05UU79AD4M\/p1705028023285179|Github Classroom 공지> 확인하시고 가입 진행 부탁 드립니다.\n\n> *AI Stages AI 실전 학습 경진대회 참여 및 팀 생성*\n• <https:\/\/stages.ai\/competitions\/|AI Stages 경진대회 홈페이지>\n    ◦ 위 링크에 접속하셔서 본인의 팀에 맞는 트랙의 대회에 참여해주시기 바랍니다.\n• *프로젝트 전체 기간 (4주)* : 4월 8일 (월) 10:00 ~ 5월 2일 (목) 19:00\n• *팀 병합 가능 기간 : 4월 23일 (화) 16:00 까지*\n    ◦ 팀명 컨벤션 (예시)\n        ▪︎ _OCR 1팀 --> OCR 1조_\n        ▪︎ _Information Retrieval 1팀 --> IR 1조_\n        ▪︎ _Recsys Basic 1팀 --> RecSys 1조_\n        ▪︎ _Anomaly Detection 1팀 --> AD 1조_\n• *GPU 서버 운영 기간* : 4월 8일 (월) 10:00 ~ 5월 10일 (금) 16:00\n    ◦ 운영 마감 시 서버는 자동으로 회수 됩니다. 회수 되기 전 서버 내 작업 물은 반드시 백업해주시길 바랍니다.\n> *Github Classroom 가입*\n• <https:\/\/classroom.github.com\/a\/nDCOQnZo|Github Classroom 가입 링크>\n• 팀 생성하실 때는 각 팀장님이 먼저 생성해주신 후 팀원 분들이 합류해주시길 바랍니다.\n• *Repo 생성 및 가입 기한 : 4월 10일 (수) 13시까지*\n    ◦ 팀명 컨벤션 (예시)\n        ▪︎ OCR 1팀 --> ocr1\n        ▪︎ Information Retrieval 1팀 --> ir1\n        ▪︎ Recsys Basic 1팀 --> rs1\n        ▪︎ Anomaly Detection 1팀 --> ad1\n• Github Repo Public 전환 시간 : 5월 3일 (금) 19:00\n*각 팀의 팀장님들은 AI Stages 팀 생성 후 팀원 초대 및 Github Classroom Repo 생성 부탁 드립니다.*\n*각 팀의 팀원분들은 AI Stages 팀 초대 수락 및 Github Classroom Repo 가입 부탁 드립니다*",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "07e7ca00b8f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5991092857253_07e7ca00b8f0d0b13ba1_72.png",
+            "first_name": "패스트캠퍼스박기준",
+            "real_name": "패스트캠퍼스박기준",
+            "display_name": "LM 박기준",
+            "team": "T05UGFFGL07",
+            "name": "pgj.fc.career",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712538003.576409",
+        "reply_count": 5,
+        "reply_users_count": 3,
+        "latest_reply": "1712539015.315599",
+        "reply_users": [
+            "U05V9N22ZUK",
+            "U05VADPQPCL",
+            "U05V4KZR3NW"
+        ],
+        "replies": [
+            {
+                "user": "U05V9N22ZUK",
+                "ts": "1712538642.006899"
+            },
+            {
+                "user": "U05VADPQPCL",
+                "ts": "1712538911.008999"
+            },
+            {
+                "user": "U05V4KZR3NW",
+                "ts": "1712538936.286399"
+            },
+            {
+                "user": "U05VADPQPCL",
+                "ts": "1712539001.140189"
+            },
+            {
+                "user": "U05V9N22ZUK",
+                "ts": "1712539015.315599"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6VY9z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "AI 실전 학습 경진대회 AI Stages 팀 및 Github Classroom Repo 생성 안내",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n안녕하세요 Upstage AI Lab 1기 수강생 여러분!\n금일부터 저희 과정의 마지막 대회인 AI 실전 학습 경진대회가 시작됩니다.\n이전에 진행했던 경진대회와 같은 Github Classroom을 사용할 예정이니\n아래 내용과 "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/fcupstageai1.slack.com\/archives\/C05UU79AD4M\/p1705028023285179",
+                                "text": "Github Classroom 공지"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 확인하시고 가입 진행 부탁 드립니다.\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "AI Stages AI 실전 학습 경진대회 참여 및 팀 생성",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/stages.ai\/competitions\/",
+                                        "text": "AI Stages 경진대회 홈페이지"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "위 링크에 접속하셔서 본인의 팀에 맞는 트랙의 대회에 참여해주시기 바랍니다."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "프로젝트 전체 기간 (4주)",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " : 4월 8일 (월) 10:00 ~ 5월 2일 (목) 19:00"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "팀 병합 가능 기간 : 4월 23일 (화) 16:00 까지",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "팀명 컨벤션 (예시)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "OCR 1팀 --> OCR 1조",
+                                        "style": {
+                                            "italic": true
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Information Retrieval 1팀 --> IR 1조",
+                                        "style": {
+                                            "italic": true
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Recsys Basic 1팀 --> RecSys 1조",
+                                        "style": {
+                                            "italic": true
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Anomaly Detection 1팀 --> AD 1조",
+                                        "style": {
+                                            "italic": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 2,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "GPU 서버 운영 기간",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " : 4월 8일 (월) 10:00 ~ 5월 10일 (금) 16:00"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "운영 마감 시 서버는 자동으로 회수 됩니다. 회수 되기 전 서버 내 작업 물은 반드시 백업해주시길 바랍니다."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Github Classroom 가입",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/classroom.github.com\/a\/nDCOQnZo",
+                                        "text": "Github Classroom 가입 링크"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "팀 생성하실 때는 각 팀장님이 먼저 생성해주신 후 팀원 분들이 합류해주시길 바랍니다."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Repo 생성 및 가입 기한 : 4월 10일 (수) 13시까지",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "팀명 컨벤션 (예시)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "OCR 1팀 --> ocr1"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Information Retrieval 1팀 --> ir1"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Recsys Basic 1팀 --> rs1"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Anomaly Detection 1팀 --> ad1"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 2,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Github Repo Public 전환 시간 : 5월 3일 (금) 19:00"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "각 팀의 팀장님들은 AI Stages 팀 생성 후 팀원 초대 및 Github Classroom Repo 생성 부탁 드립니다.",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "각 팀의 팀원분들은 AI Stages 팀 초대 수락 및 Github Classroom Repo 가입 부탁 드립니다",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05V9N22ZUK",
+        "type": "message",
+        "ts": "1712538642.006899",
+        "client_msg_id": "3f1dac1f-44f6-481d-81c2-984103476b79",
+        "text": "과학적 지식 질의 응답 대회 시작일이 4\/22로 되어 있으니 확인 부탁드립니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "0698995c863f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5998310079844_0698995c863fed7643f0_72.png",
+            "first_name": "TaeHan",
+            "real_name": "TaeHan Kim",
+            "display_name": "김태한",
+            "team": "T05UGFFGL07",
+            "name": "kthnineone",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712538003.576409",
+        "parent_user_id": "U05VADPQPCL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "B4xCv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "과학적 지식 질의 응답 대회 시작일이 4\/22로 되어 있으니 확인 부탁드립니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05VADPQPCL",
+        "type": "message",
+        "ts": "1712538911.008999",
+        "client_msg_id": "ec922b39-8c59-486b-a8cc-dfbc8a882010",
+        "text": "<@U05V9N22ZUK>\n대회 시작 및 GPU 사용은 금일부터 가능합니다!\n단, 대회 리더 보드 제출은 22일부터 가능하다고 합니다!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "07e7ca00b8f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5991092857253_07e7ca00b8f0d0b13ba1_72.png",
+            "first_name": "패스트캠퍼스박기준",
+            "real_name": "패스트캠퍼스박기준",
+            "display_name": "LM 박기준",
+            "team": "T05UGFFGL07",
+            "name": "pgj.fc.career",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712538003.576409",
+        "parent_user_id": "U05VADPQPCL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gT6n\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05V9N22ZUK"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n대회 시작 및 GPU 사용은 금일부터 가능합니다!\n단, 대회 리더 보드 제출은 22일부터 가능하다고 합니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05V4KZR3NW",
+        "type": "message",
+        "ts": "1712538936.286399",
+        "client_msg_id": "cf8e09b4-1faf-4966-a68c-ab29fdfbbdff",
+        "text": "팀 초대가 안되는 상황인데, 이것 역시 4\/22 부터 가능한건가요?",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "8c77944bd304",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-20\/6082246066801_8c77944bd304e2d01432_72.jpg",
+            "first_name": "남영진",
+            "real_name": "남영진",
+            "display_name": "남영진",
+            "team": "T05UGFFGL07",
+            "name": "studyingnam",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712538003.576409",
+        "parent_user_id": "U05VADPQPCL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JKJR0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "팀 초대가 안되는 상황인데, 이것 역시 4\/22 부터 가능한건가요?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05VADPQPCL",
+        "type": "message",
+        "ts": "1712539001.140189",
+        "client_msg_id": "05b9a072-75f7-4386-9773-dab09ce95c57",
+        "text": "<@U05V4KZR3NW> 네 맞습니다! 22일부터 진행해주시면 됩니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "07e7ca00b8f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5991092857253_07e7ca00b8f0d0b13ba1_72.png",
+            "first_name": "패스트캠퍼스박기준",
+            "real_name": "패스트캠퍼스박기준",
+            "display_name": "LM 박기준",
+            "team": "T05UGFFGL07",
+            "name": "pgj.fc.career",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712538003.576409",
+        "parent_user_id": "U05VADPQPCL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "J3tLy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05V4KZR3NW"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 네 맞습니다! 22일부터 진행해주시면 됩니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05V9N22ZUK",
+        "type": "message",
+        "ts": "1712539015.315599",
+        "client_msg_id": "a64f5b53-0296-4b42-b420-cfa8f5f5c1fb",
+        "text": "<@U05VADPQPCL> 답변 감사합니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "0698995c863f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5998310079844_0698995c863fed7643f0_72.png",
+            "first_name": "TaeHan",
+            "real_name": "TaeHan Kim",
+            "display_name": "김태한",
+            "team": "T05UGFFGL07",
+            "name": "kthnineone",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712538003.576409",
+        "parent_user_id": "U05VADPQPCL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wAqR1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05VADPQPCL"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 답변 감사합니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U05VADPQPCL"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05VAHXECP6",
+        "type": "message",
+        "ts": "1712552401.443239",
+        "client_msg_id": "c48115ae-2e8f-4be8-8fd6-2cc8be596424",
+        "text": "<!channel>\n&gt; *AI Stages GPU 서버 할당 안내*\n안녕하세요! 금일 오전 10시부터 대회 페이지가 오픈되었습니다.\n안내된 대회 페이지에서 GPU 서버를 금일 내로 반드시 할당해 주세요. 미할당 인원은 개별 연락을 통해 서버를 받으실 수 있도록 할 예정입니다. :pray:\n• GPU 서버 사용 전반에 대한 내용은 <https:\/\/www.notion.so\/upstage\/AI-Stages-GPU-bdf5c8ec670d49d3bfe61f475bbf5e2a|가이드 링크> 참고해주세요!\n• 서버 할당 과정 혹은 서버 사용시 이슈가 생길 경우 Stages 대회별 ‘이슈 문의 게시판’에 글을 작성해주세요.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "50abee101814",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-11\/6044824153712_50abee1018149e21919b_72.jpg",
+            "first_name": "이상영",
+            "real_name": "이상영",
+            "display_name": "FC 이상영 매니저",
+            "team": "T05UGFFGL07",
+            "name": "sangyeong.lee",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712552401.443239",
+        "reply_count": 5,
+        "reply_users_count": 4,
+        "latest_reply": "1713142916.289529",
+        "reply_users": [
+            "U05VADPQPCL",
+            "U0608EG7YEA",
+            "U0606HAGLTB",
+            "U05VCCSHKHR"
+        ],
+        "replies": [
+            {
+                "user": "U05VADPQPCL",
+                "ts": "1712650878.987089"
+            },
+            {
+                "user": "U05VADPQPCL",
+                "ts": "1712814779.979039"
+            },
+            {
+                "user": "U0608EG7YEA",
+                "ts": "1712884400.827699"
+            },
+            {
+                "user": "U0606HAGLTB",
+                "ts": "1712914851.468859"
+            },
+            {
+                "user": "U05VCCSHKHR",
+                "ts": "1713142916.289529"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1713142916.289529",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EzvyS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "AI Stages GPU 서버 할당 안내",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "안녕하세요! 금일 오전 10시부터 대회 페이지가 오픈되었습니다.\n안내된 대회 페이지에서 GPU 서버를 금일 내로 반드시 할당해 주세요. 미할당 인원은 개별 연락을 통해 서버를 받으실 수 있도록 할 예정입니다. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "GPU 서버 사용 전반에 대한 내용은 "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/www.notion.so\/upstage\/AI-Stages-GPU-bdf5c8ec670d49d3bfe61f475bbf5e2a",
+                                        "text": "가이드 링크"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " 참고해주세요!"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "서버 할당 과정 혹은 서버 사용시 이슈가 생길 경우 Stages 대회별 ‘이슈 문의 게시판’에 글을 작성해주세요."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U06BGDUL2LD"
+                ],
+                "count": 1
+            },
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U05V9N22ZUK",
+                    "U05V2P37518",
+                    "U0600GGHJTC"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

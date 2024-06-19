@@ -1,0 +1,805 @@
+[
+    {
+        "user": "U05VADPQPCL",
+        "type": "message",
+        "ts": "1704789595.602999",
+        "client_msg_id": "e06241b7-a433-4a92-a86b-cd724bf509da",
+        "text": "<@U05UZLEM04V> <@U05UVE9DFSB> <@U060JMX5FK2> <@U05UN5DQ423> <@U05UWAPP5CN> <@U05UZPKCGBZ> <@U05UW1S4KQE> <@U05UVV5CVQE> <@U05V7V2AV8A> <@U05V5B88ULD> <@U060J3NGX08> <@U060TBSJ7DF> <@U061N4T7L8G>\n해당 페이지 가입 및 설문 진행 부탁드리겠습니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "07e7ca00b8f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5991092857253_07e7ca00b8f0d0b13ba1_72.png",
+            "first_name": "패스트캠퍼스박기준",
+            "real_name": "패스트캠퍼스박기준",
+            "display_name": "LM 박기준",
+            "team": "T05UGFFGL07",
+            "name": "pgj.fc.career",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1704679275.430649",
+        "parent_user_id": "U05VADPQPCL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8ejd4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05UZLEM04V"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05UVE9DFSB"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U060JMX5FK2"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05UN5DQ423"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05UWAPP5CN"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05UZPKCGBZ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05UW1S4KQE"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05UVV5CVQE"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05V7V2AV8A"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05V5B88ULD"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U060J3NGX08"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U060TBSJ7DF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U061N4T7L8G"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n해당 페이지 가입 및 설문 진행 부탁드리겠습니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U05UW1S4KQE",
+                    "U05UZLEM04V",
+                    "U05V7V2AV8A"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "user": "U05VADPQPCL",
+        "type": "message",
+        "ts": "1704794878.009259",
+        "client_msg_id": "23254b54-2473-48b7-b565-bb141bcf7d01",
+        "text": "<@U05UVE9DFSB> <@U05UZPKCGBZ> <@U05UVV5CVQE> <@U060J3NGX08> <@U061N4T7L8G>\n빠르게 진행 부탁드리겠습니다.\n다음 주 경진대회에 쓰일 예정이라 여러분들이 늦으시면 다른 분들의 GPU 할당도 늦어집니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "07e7ca00b8f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5991092857253_07e7ca00b8f0d0b13ba1_72.png",
+            "first_name": "패스트캠퍼스박기준",
+            "real_name": "패스트캠퍼스박기준",
+            "display_name": "LM 박기준",
+            "team": "T05UGFFGL07",
+            "name": "pgj.fc.career",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1704679275.430649",
+        "parent_user_id": "U05VADPQPCL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IAv\/n",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05UVE9DFSB"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05UZPKCGBZ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05UVV5CVQE"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U060J3NGX08"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U061N4T7L8G"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n빠르게 진행 부탁드리겠습니다.\n다음 주 경진대회에 쓰일 예정이라 여러분들이 늦으시면 다른 분들의 GPU 할당도 늦어집니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "대답",
+                "users": [
+                    "U05UVV5CVQE",
+                    "U061N4T7L8G"
+                ],
+                "count": 2
+            },
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U05UVV5CVQE",
+                    "U061N4T7L8G"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U05VAHXECP6",
+        "type": "message",
+        "ts": "1704869800.750109",
+        "edited": {
+            "user": "U05VAHXECP6",
+            "ts": "1704871450.000000"
+        },
+        "client_msg_id": "9549ba79-5772-486b-a62d-54a6f618b7ad",
+        "text": "<!channel>\n안녕하세요. Upstage AI Lab 수강생 여러분!\n기다리시던 `[업스테이지] AI 심화 학습: 머신러닝` 강의가 드디어 입과 되었습니다.\n\n다시 한 번 늦어지게 된 점 사과의 말씀을 드리며,\n차후 입과부터는 해당 사태가 발생하지 않도록 노력하겠습니다.\n\n> *[업스테이지] AI 심화 학습: 머신러닝 | 강의 입과 완료* :tada:\n• <https:\/\/docs.google.com\/spreadsheets\/d\/1ypFcX5rHBUsAoYDUN3TmQClpGnR8wyoaUnBoV4hrZ-4\/edit#gid=1437986055&range=B17|온라인 강의 수강 안내 최신화(시트_링크)>\n• 참고 사항\n    ◦ Machine Learning Basic & Regression 대회  관련한 강의는 추후 공개 드리겠습니다.\n    ◦ Machine Learning Advanced 먼저 수강 부탁드려요. :pray:\n        ▪︎ <https:\/\/drive.google.com\/drive\/folders\/1jJLV4kp2bW-Fkd494W0ZROASSY0u0_Y7?usp=sharing|강의 자료(구글 드라이브_링크)>\n항상 여러분들을 응원합니다. :muscle:\n추가로 문의사항이 있으시면 편히 요청주세요.\n\n감사합니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "50abee101814",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-11\/6044824153712_50abee1018149e21919b_72.jpg",
+            "first_name": "이상영",
+            "real_name": "이상영",
+            "display_name": "FC 이상영 매니저",
+            "team": "T05UGFFGL07",
+            "name": "sangyeong.lee",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1704869800.750109",
+        "reply_count": 4,
+        "reply_users_count": 3,
+        "latest_reply": "1704872964.159329",
+        "reply_users": [
+            "U060D1KJECR",
+            "U05VAHXECP6",
+            "U05V9LP47V0"
+        ],
+        "replies": [
+            {
+                "user": "U060D1KJECR",
+                "ts": "1704870057.830449"
+            },
+            {
+                "user": "U05VAHXECP6",
+                "ts": "1704871245.241979"
+            },
+            {
+                "user": "U05V9LP47V0",
+                "ts": "1704872780.821289"
+            },
+            {
+                "user": "U05VAHXECP6",
+                "ts": "1704872964.159329"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1704872964.159329",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "s\/Ia2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n안녕하세요. Upstage AI Lab 수강생 여러분!\n기다리시던 "
+                            },
+                            {
+                                "type": "text",
+                                "text": "[업스테이지] AI 심화 학습: 머신러닝",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " 강의가 드디어 입과 되었습니다.\n\n다시 한 번 늦어지게 된 점 사과의 말씀을 드리며,\n차후 입과부터는 해당 사태가 발생하지 않도록 노력하겠습니다.\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "[업스테이지] AI 심화 학습: 머신러닝 | 강의 입과 완료 ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "tada",
+                                "unicode": "1f389",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/docs.google.com\/spreadsheets\/d\/1ypFcX5rHBUsAoYDUN3TmQClpGnR8wyoaUnBoV4hrZ-4\/edit#gid=1437986055&range=B17",
+                                        "text": "온라인 강의 수강 안내 최신화(시트_링크)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "참고 사항"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Machine Learning Basic & Regression 대회  관련한 강의는 추후 공개 드리겠습니다."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Machine Learning Advanced 먼저 수강 부탁드려요. "
+                                    },
+                                    {
+                                        "type": "emoji",
+                                        "name": "pray",
+                                        "unicode": "1f64f"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/drive.google.com\/drive\/folders\/1jJLV4kp2bW-Fkd494W0ZROASSY0u0_Y7?usp=sharing",
+                                        "text": "강의 자료(구글 드라이브_링크)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 2,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n항상 여러분들을 응원합니다. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "muscle",
+                                "unicode": "1f4aa"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n추가로 문의사항이 있으시면 편히 요청주세요.\n\n감사합니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U05V9N22ZUK",
+                    "U05VADPQPCL"
+                ],
+                "count": 2
+            },
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U060H4V0Q5S",
+                    "U05V2P37518",
+                    "U06CBFKNBFF",
+                    "U060BLVQYHW",
+                    "U05UN6NTN8P",
+                    "U05VADPQPCL",
+                    "U05V2T62KUJ",
+                    "U05UNMQ4LP9",
+                    "U065TBUL5EE",
+                    "U05V9LP47V0",
+                    "U05V561TXUL",
+                    "U05UN5DQ423"
+                ],
+                "count": 12
+            },
+            {
+                "name": "eyes",
+                "users": [
+                    "U05V5B27DK7",
+                    "U05VADPQPCL",
+                    "U05V7H78DUM"
+                ],
+                "count": 3
+            },
+            {
+                "name": "meow_noddies",
+                "users": [
+                    "U05V2PMAVNE",
+                    "U05VADPQPCL"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "text": "1월 10일 기준으로 수료해야하는 강의 및 Machine Learning Basic 챕터의 강의가 없는것으로 나옵니다.",
+        "files": [
+            {
+                "id": "F06D73LDM6F",
+                "created": 1704870051,
+                "timestamp": 1704870051,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U060D1KJECR",
+                "user_team": "T05UGFFGL07",
+                "editable": false,
+                "size": 537365,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F06D73LDM6F\/image.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F06D73LDM6F\/download\/image.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06D73LDM6F-eb5c924adc\/image_64.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06D73LDM6F-eb5c924adc\/image_80.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06D73LDM6F-eb5c924adc\/image_360.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_360_w": 360,
+                "thumb_360_h": 191,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06D73LDM6F-eb5c924adc\/image_480.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_480_w": 480,
+                "thumb_480_h": 255,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06D73LDM6F-eb5c924adc\/image_160.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06D73LDM6F-eb5c924adc\/image_720.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_720_w": 720,
+                "thumb_720_h": 383,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06D73LDM6F-eb5c924adc\/image_800.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_800_w": 800,
+                "thumb_800_h": 425,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06D73LDM6F-eb5c924adc\/image_960.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_960_w": 960,
+                "thumb_960_h": 510,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06D73LDM6F-eb5c924adc\/image_1024.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 544,
+                "original_w": 1920,
+                "original_h": 1020,
+                "thumb_tiny": "AwAZADCOO7nkztCce1O865\/uxflVOFyhbFSmZj1rRQTQyfzrn+7F+VHm3X92L8qr+aaPNNPkQDxfSntH\/wB80v2uYkDCcn0qtF3+lPX74+orIVxIRGN3mlx6bVzUn+j\/AN6X\/vgf41D2opqTQE3+j\/3pf++B\/jSFoBwPMOe5UDH61EKBT5mAR8E09fvr9RSR9W+lKv31+oqQP\/\/Z",
+                "permalink": "https:\/\/fcupstageai1.slack.com\/files\/U060D1KJECR\/F06D73LDM6F\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T05UGFFGL07-F06D73LDM6F-f8fa5f75ed",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U060D1KJECR",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cXt8W",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "1월 10일 기준으로 수료해야하는 강의 및 Machine Learning Basic 챕터의 강의가 없는것으로 나옵니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1704870057.830449",
+        "client_msg_id": "e26898d8-7f95-419c-86d1-565c9c4cc6df",
+        "thread_ts": "1704869800.750109",
+        "parent_user_id": "U05VAHXECP6",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U060BLVQYHW"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U05V5B27DK7"
+                ],
+                "count": 1
+            },
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U05VAHXECP6"
+                ],
+                "count": 1
+            },
+            {
+                "name": "pray",
+                "users": [
+                    "U05VAHXECP6"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05VAHXECP6",
+        "type": "message",
+        "ts": "1704871245.241979",
+        "client_msg_id": "db3cf906-5e31-453a-9136-e8e5604e25a7",
+        "text": "현진님! 공유 감사합니다. 입과 오류 확인하였구요.\n현재 시스템 오류로 입과가 누락된 것으로 확인 되었습니다.\n\n우선 `Machine Learning Advanced 강의`부터 수강 부탁드리겠구요.\n\n아래 2 강의는 입과가 완료되는 대로 안내 드릴 수 있도록 하겠습니다.\n• Machine Learing Basic\n• Regression 대회\n이와 관련하여 <https:\/\/docs.google.com\/spreadsheets\/d\/1ypFcX5rHBUsAoYDUN3TmQClpGnR8wyoaUnBoV4hrZ-4\/edit#gid=1351154034&amp;range=E33:E35|온라인 강의 수강 안내 최신화(시트_링크)> 해두었으니 확인해주세요. :pray:",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "50abee101814",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-11\/6044824153712_50abee1018149e21919b_72.jpg",
+            "first_name": "이상영",
+            "real_name": "이상영",
+            "display_name": "FC 이상영 매니저",
+            "team": "T05UGFFGL07",
+            "name": "sangyeong.lee",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1704869800.750109",
+        "parent_user_id": "U05VAHXECP6",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tQVJp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "현진님! 공유 감사합니다. 입과 오류 확인하였구요.\n현재 시스템 오류로 입과가 누락된 것으로 확인 되었습니다.\n\n우선 "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Machine Learning Advanced 강의",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "부터 수강 부탁드리겠구요.\n\n아래 2 강의는 입과가 완료되는 대로 안내 드릴 수 있도록 하겠습니다.\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Machine Learing Basic"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Regression 대회"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n이와 관련하여 "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/spreadsheets\/d\/1ypFcX5rHBUsAoYDUN3TmQClpGnR8wyoaUnBoV4hrZ-4\/edit#gid=1351154034&range=E33:E35",
+                                "text": "온라인 강의 수강 안내 최신화(시트_링크)"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 해두었으니 확인해주세요. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05V9LP47V0",
+        "type": "message",
+        "ts": "1704872780.821289",
+        "client_msg_id": "5da23689-233b-4031-9f34-a84b6b1f91b8",
+        "text": "Machine Learning Advanced 강의자료가 없는데, 아직 등록이 되지 않은 건지요?",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "54d9ef7119e7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-06\/5993912366662_54d9ef7119e784b29212_72.jpg",
+            "first_name": "문정의",
+            "real_name": "문정의",
+            "display_name": "문정의",
+            "team": "T05UGFFGL07",
+            "name": "axa301",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1704869800.750109",
+        "parent_user_id": "U05VAHXECP6",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IaFKv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Machine Learning Advanced 강의자료가 없는데, 아직 등록이 되지 않은 건지요?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U05VAHXECP6"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05VAHXECP6",
+        "type": "message",
+        "ts": "1704872964.159329",
+        "client_msg_id": "059d09d4-76df-4f77-bb12-506d09bb81ca",
+        "text": "안녕하세요. 정의님! 강의 자료의 경우, 플랫폼 상에 확인이 안되는 문제가 있어\n본 게시글에 첨부해두었습니다. 해당 링크를 통해 확인 부탁드리겠습니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "50abee101814",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-11\/6044824153712_50abee1018149e21919b_72.jpg",
+            "first_name": "이상영",
+            "real_name": "이상영",
+            "display_name": "FC 이상영 매니저",
+            "team": "T05UGFFGL07",
+            "name": "sangyeong.lee",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1704869800.750109",
+        "parent_user_id": "U05VAHXECP6",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fIFt5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "안녕하세요. 정의님! 강의 자료의 경우, 플랫폼 상에 확인이 안되는 문제가 있어\n본 게시글에 첨부해두었습니다. 해당 링크를 통해 확인 부탁드리겠습니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U05V9LP47V0",
+                    "U05VADPQPCL"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

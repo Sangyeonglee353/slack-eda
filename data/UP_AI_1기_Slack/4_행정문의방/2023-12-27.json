@@ -1,0 +1,709 @@
+[
+    {
+        "user": "U05UNC6FNK1",
+        "type": "message",
+        "ts": "1703718253.946129",
+        "client_msg_id": "0ca497a7-161b-4fec-93d9-bc2638e79879",
+        "text": "승현님 재직자면서 수강을 동시에 진행할 수 있는 걸까요?",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "260d154ea1e2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5979526758263_260d154ea1e2177fd001_72.jpg",
+            "first_name": "FC",
+            "real_name": "FC 하시안 매니저",
+            "display_name": "FC 하시안 매니저",
+            "team": "T05UGFFGL07",
+            "name": "xianha",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1703656770.583079",
+        "parent_user_id": "U05UW74NJ0N",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "M9m3B",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "승현님 재직자면서 수강을 동시에 진행할 수 있는 걸까요?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05UNC6FNK1",
+        "type": "message",
+        "ts": "1703722170.985269",
+        "client_msg_id": "97e400a2-7fcf-4671-ad9b-82441317cfaf",
+        "text": "계좌오류스레드",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "260d154ea1e2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5979526758263_260d154ea1e2177fd001_72.jpg",
+            "first_name": "FC",
+            "real_name": "FC 하시안 매니저",
+            "display_name": "FC 하시안 매니저",
+            "team": "T05UGFFGL07",
+            "name": "xianha",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1703722170.985269",
+        "reply_count": 12,
+        "reply_users_count": 7,
+        "latest_reply": "1704256610.405049",
+        "reply_users": [
+            "U05UNC6FNK1",
+            "U05VADPQPCL",
+            "U05VCCSHKHR",
+            "U060J3NGX08",
+            "U05VDDP88BW",
+            "U05UN7M2GKZ",
+            "U05V0106JDT"
+        ],
+        "replies": [
+            {
+                "user": "U05UNC6FNK1",
+                "ts": "1703722265.137139"
+            },
+            {
+                "user": "U05UNC6FNK1",
+                "ts": "1703722298.793339"
+            },
+            {
+                "user": "U05VADPQPCL",
+                "ts": "1703724008.190489"
+            },
+            {
+                "user": "U05VCCSHKHR",
+                "ts": "1703725798.935719"
+            },
+            {
+                "user": "U060J3NGX08",
+                "ts": "1703726320.085999"
+            },
+            {
+                "user": "U05VDDP88BW",
+                "ts": "1703808484.187869"
+            },
+            {
+                "user": "U05UNC6FNK1",
+                "ts": "1704254876.064049"
+            },
+            {
+                "user": "U05UNC6FNK1",
+                "ts": "1704254885.177909"
+            },
+            {
+                "user": "U05UN7M2GKZ",
+                "ts": "1704254942.317769"
+            },
+            {
+                "user": "U05V0106JDT",
+                "ts": "1704255206.976379"
+            },
+            {
+                "user": "U05VADPQPCL",
+                "ts": "1704255826.907959"
+            },
+            {
+                "user": "U05UNC6FNK1",
+                "ts": "1704256610.405049"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZJido",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "계좌오류스레드"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "U05UNC6FNK1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05UNC6FNK1",
+        "type": "message",
+        "ts": "1703722265.137139",
+        "client_msg_id": "6b90ab94-7eae-48cf-964a-2f51a8d0c060",
+        "text": "훈련장려금 계좌오류가 있어 태깅되신 분들은 본인 통장 정보를 공유해주시길 바랍니다. (댓글로!!)\n대상자 : <@U05V0106JDT> <@U05VCCSHKHR> @이예재 <@U060J3NGX08> @박준현\n• 본인 명의 은행 \/ 계좌번호\n• 카뱅 토뱅 케뱅 제외 국민 신한 우리 등으로 공유\n",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "260d154ea1e2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5979526758263_260d154ea1e2177fd001_72.jpg",
+            "first_name": "FC",
+            "real_name": "FC 하시안 매니저",
+            "display_name": "FC 하시안 매니저",
+            "team": "T05UGFFGL07",
+            "name": "xianha",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1703722170.985269",
+        "parent_user_id": "U05UNC6FNK1",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1E6p\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "훈련장려금 계좌오류가 있어 태깅되신 분들은 본인 통장 정보를 공유해주시길 바랍니다. (댓글로!!)\n대상자 : "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05V0106JDT"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05VCCSHKHR"
+                            },
+                            {
+                                "type": "text",
+                                "text": " @이예재 "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U060J3NGX08"
+                            },
+                            {
+                                "type": "text",
+                                "text": " @박준현\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "본인 명의 은행 \/ 계좌번호"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "카뱅 토뱅 케뱅 제외 국민 신한 우리 등으로 공유"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05UNC6FNK1",
+        "type": "message",
+        "ts": "1703722298.793339",
+        "client_msg_id": "723f4e03-8449-47b3-8ea2-f7db35dfa3cf",
+        "text": "<@U05VADPQPCL> 매니저님 혹시 이예재님 박준현님 해당채널에 초대 및 스레드 태깅 해주실 수 있을까요?",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "260d154ea1e2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5979526758263_260d154ea1e2177fd001_72.jpg",
+            "first_name": "FC",
+            "real_name": "FC 하시안 매니저",
+            "display_name": "FC 하시안 매니저",
+            "team": "T05UGFFGL07",
+            "name": "xianha",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1703722170.985269",
+        "parent_user_id": "U05UNC6FNK1",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NlQrv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05VADPQPCL"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 매니저님 혹시 이예재님 박준현님 해당채널에 초대 및 스레드 태깅 해주실 수 있을까요?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05VADPQPCL",
+        "type": "message",
+        "ts": "1703724008.190489",
+        "client_msg_id": "6eb0b269-d97b-441a-bbd6-233bccfc91a5",
+        "text": "<@U0602CFAB7B> <@U05VDDP88BW> 준현님 예재님 해당 스레드 확인 부탁 드립니다!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "07e7ca00b8f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5991092857253_07e7ca00b8f0d0b13ba1_72.png",
+            "first_name": "패스트캠퍼스박기준",
+            "real_name": "패스트캠퍼스박기준",
+            "display_name": "LM 박기준",
+            "team": "T05UGFFGL07",
+            "name": "pgj.fc.career",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1703722170.985269",
+        "parent_user_id": "U05UNC6FNK1",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Bir+t",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0602CFAB7B"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05VDDP88BW"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 준현님 예재님 해당 스레드 확인 부탁 드립니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "감",
+                "users": [
+                    "U05UNC6FNK1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05UW74NJ0N",
+        "type": "message",
+        "ts": "1703725200.492259",
+        "client_msg_id": "f7a29eca-b292-4894-a99a-c3fc4bbcda85",
+        "text": "<@U05UNC6FNK1> 네 진행이 가능합니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "gf4e3c8b4c9e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/f4e3c8b4c9eebf87b0a9a7969b1a5c6a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+            "first_name": "우승현",
+            "real_name": "우승현",
+            "display_name": "우승현",
+            "team": "T05UGFFGL07",
+            "name": "fromwsh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1703656770.583079",
+        "parent_user_id": "U05UW74NJ0N",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zRa7b",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05UNC6FNK1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 네 진행이 가능합니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06022Z2TED",
+        "type": "message",
+        "ts": "1703725430.993609",
+        "client_msg_id": "02128ca1-1760-4811-83b6-fbfc3a9dff89",
+        "text": "<@U05V81G5ZDY> 안녕하세요 매니저님 출결 관련 서류 구글 폼으로 제출 완료하였습니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "d62be7ca993c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5991921924404_d62be7ca993c5be99966_72.png",
+            "first_name": "ha",
+            "real_name": "ha ha",
+            "display_name": "김하연",
+            "team": "T05UGFFGL07",
+            "name": "leah8735",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1703725430.993609",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1703725913.184979",
+        "reply_users": [
+            "U05V81G5ZDY"
+        ],
+        "replies": [
+            {
+                "user": "U05V81G5ZDY",
+                "ts": "1703725913.184979"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "10JTU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05V81G5ZDY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 안녕하세요 매니저님 출결 관련 서류 구글 폼으로 제출 완료하였습니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pill",
+                "users": [
+                    "U05V81G5ZDY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05UNC6FNK1",
+        "type": "message",
+        "ts": "1703725491.131529",
+        "client_msg_id": "ce5a54df-4033-449f-9023-81cbe837346d",
+        "text": "네 확인했습니다 보완서류가 있다면 다시요청드릴게요",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "260d154ea1e2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5979526758263_260d154ea1e2177fd001_72.jpg",
+            "first_name": "FC",
+            "real_name": "FC 하시안 매니저",
+            "display_name": "FC 하시안 매니저",
+            "team": "T05UGFFGL07",
+            "name": "xianha",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1703656770.583079",
+        "parent_user_id": "U05UW74NJ0N",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+J64j",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "네 확인했습니다 보완서류가 있다면 다시요청드릴게요"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05VCCSHKHR",
+        "type": "message",
+        "ts": "1703725798.935719",
+        "client_msg_id": "c8843851-6d16-48dc-8884-c8a8803c2078",
+        "text": "국민 09340104286348",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "680561218468",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5998434715235_680561218468939005d6_72.png",
+            "first_name": "송현지",
+            "real_name": "송현지",
+            "display_name": "송현지",
+            "team": "T05UGFFGL07",
+            "name": "hyunjeesong95",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1703722170.985269",
+        "parent_user_id": "U05UNC6FNK1",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AKY3P",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "국민 09340104286348"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "U05UNC6FNK1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05V81G5ZDY",
+        "type": "message",
+        "ts": "1703725913.184979",
+        "client_msg_id": "09b8eb4a-4575-43bf-834c-f10dcfdc9714",
+        "text": "12\/27(수) 병가 신청으로 확인하겠습니다\n일자 및 사유도 함께 공유해주세요!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "db1aceeb0d90",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5994058472162_db1aceeb0d9030c57e69_72.jpg",
+            "first_name": "김현우",
+            "real_name": "김현우",
+            "display_name": "FC 김현우 매니저",
+            "team": "T05UGFFGL07",
+            "name": "hyunwoo.kim",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1703725430.993609",
+        "parent_user_id": "U06022Z2TED",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DbppR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "12\/27(수) 병가 신청으로 확인하겠습니다\n일자 및 사유도 함께 공유해주세요!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "대답",
+                "users": [
+                    "U06022Z2TED"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U060J3NGX08",
+        "type": "message",
+        "ts": "1703726320.085999",
+        "client_msg_id": "9be40018-ccc8-4293-bf49-6f140c398e41",
+        "text": "신한 110 413 581939",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "gbc825ac18ac",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/bc825ac18ac18fdb67a86751711cbdba.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "조서영",
+            "real_name": "조서영",
+            "display_name": "조서영",
+            "team": "T05UGFFGL07",
+            "name": "pink495sy",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1703722170.985269",
+        "parent_user_id": "U05UNC6FNK1",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XLhCU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "신한 110 413 581939"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "U05UNC6FNK1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05UVE9DFSB",
+        "type": "message",
+        "ts": "1703727034.114929",
+        "client_msg_id": "c60bb0bf-0a02-424f-add2-f4eee36c7a80",
+        "text": "<@U05UNC6FNK1> <@U05V81G5ZDY> 안녕하세요. 12\/27(수) 병가 관련 서류 구글 폼으로 제출했습니다. 확인부탁드립니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "9c70723d095f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5981485524487_9c70723d095f99e86fcc_72.png",
+            "first_name": "김채원",
+            "real_name": "김채원",
+            "display_name": "김채원",
+            "team": "T05UGFFGL07",
+            "name": "kcw050608",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OVF4u",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05UNC6FNK1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05V81G5ZDY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 안녕하세요. 12\/27(수) 병가 관련 서류 구글 폼으로 제출했습니다. 확인부탁드립니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pill",
+                "users": [
+                    "U05V81G5ZDY"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

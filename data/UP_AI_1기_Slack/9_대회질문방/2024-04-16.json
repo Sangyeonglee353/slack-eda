@@ -1,0 +1,121 @@
+[
+    {
+        "user": "U0608EG7YEA",
+        "type": "message",
+        "ts": "1713317362.662849",
+        "client_msg_id": "50d2f05e-7f72-4691-ba69-6e5ec94e6061",
+        "text": "<@U05V2P37518> <@U05VCCSHKHR> <@U05UW1S4KQE> 팀 병합 기간 금일 오후 4시까지 늘려놨습니다. 병합 완료되신 분들은 댓글로 말씀 부탁드려요!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "542e7e1dec67",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-12\/6028220315186_542e7e1dec6721784df9_72.png",
+            "first_name": "업스테이지",
+            "real_name": "업스테이지 크리스",
+            "display_name": "업스테이지 크리스",
+            "team": "T05UGFFGL07",
+            "name": "chris",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1713174635.824879",
+        "parent_user_id": "U05UVE9DFSB",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FL2gA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05V2P37518"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05VCCSHKHR"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05UW1S4KQE"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 팀 병합 기간 금일 오후 4시까지 늘려놨습니다. 병합 완료되신 분들은 댓글로 말씀 부탁드려요!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0608EG7YEA",
+        "type": "message",
+        "ts": "1713317479.474059",
+        "client_msg_id": "77b0c7c4-ecbb-467b-bb74-3a79beadd655",
+        "text": "<@U05VADPQPCL> 위 세 분에게 구두로 한 번 말씀주시면 감사하겠습니다! :pray:",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "542e7e1dec67",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-12\/6028220315186_542e7e1dec6721784df9_72.png",
+            "first_name": "업스테이지",
+            "real_name": "업스테이지 크리스",
+            "display_name": "업스테이지 크리스",
+            "team": "T05UGFFGL07",
+            "name": "chris",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1713174635.824879",
+        "parent_user_id": "U05UVE9DFSB",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+uW5l",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05VADPQPCL"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 위 세 분에게 구두로 한 번 말씀주시면 감사하겠습니다! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U05VADPQPCL",
+                    "U05UW1S4KQE"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

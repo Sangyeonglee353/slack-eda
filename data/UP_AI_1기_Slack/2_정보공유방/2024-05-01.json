@@ -1,0 +1,76 @@
+[
+    {
+        "user": "U065TBUL5EE",
+        "type": "message",
+        "ts": "1714616404.488119",
+        "client_msg_id": "8E9ED101-CE50-40FD-A383-85FB8E6F2311",
+        "text": "<https:\/\/arxiv.org\/abs\/2404.19756?|https:\/\/arxiv.org\/abs\/2404.19756?>",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "34f110a5edc4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-11-14\/6197301711475_34f110a5edc435398e63_72.png",
+            "first_name": "김용담",
+            "real_name": "김용담",
+            "display_name": "김용담 강사",
+            "team": "T05UGFFGL07",
+            "name": "codingiscoffee",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/arxiv.org\/abs\/2404.19756",
+                "service_icon": "https:\/\/arxiv.org\/static\/browse\/0.3.4\/images\/icons\/apple-touch-icon.png",
+                "thumb_url": "https:\/\/arxiv.org\/static\/browse\/0.3.4\/images\/arxiv-logo-fb.png",
+                "thumb_width": 1200,
+                "thumb_height": 700,
+                "id": 1,
+                "original_url": "https:\/\/arxiv.org\/abs\/2404.19756?",
+                "fallback": "arXiv.org: KAN: Kolmogorov-Arnold Networks",
+                "text": "Inspired by the Kolmogorov-Arnold representation theorem, we propose Kolmogorov-Arnold Networks (KANs) as promising alternatives to Multi-Layer Perceptrons (MLPs). While MLPs have fixed activation functions on nodes (\"neurons\"), KANs have learnable activation functions on edges (\"weights\"). KANs have no linear weights at all -- every weight parameter is replaced by a univariate function parametrized as a spline. We show that this seemingly simple change makes KANs outperform MLPs in terms of accuracy and interpretability. For accuracy, much smaller KANs can achieve comparable or better accuracy than much larger MLPs in data fitting and PDE solving. Theoretically and empirically, KANs possess faster neural scaling laws than MLPs. For interpretability, KANs can be intuitively visualized and can easily interact with human users. Through two examples in mathematics and physics, KANs are shown to be useful collaborators helping scientists (re)discover mathematical and physical laws. In summary, KANs are promising alternatives for MLPs, opening opportunities for further improving today's deep learning models which rely heavily on MLPs.",
+                "title": "KAN: Kolmogorov-Arnold Networks",
+                "title_link": "https:\/\/arxiv.org\/abs\/2404.19756",
+                "service_name": "arXiv.org"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XSsW7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/arxiv.org\/abs\/2404.19756?",
+                                "text": "https:\/\/arxiv.org\/abs\/2404.19756?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "fb-wow",
+                "users": [
+                    "U05V2T62KUJ",
+                    "U060C67EYQ5",
+                    "U05V4KZR3NW",
+                    "U05UN6NTN8P"
+                ],
+                "count": 4
+            },
+            {
+                "name": "party_blob-1",
+                "users": [
+                    "U05V5B27DK7"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

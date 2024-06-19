@@ -1,0 +1,126 @@
+[
+    {
+        "user": "U05V2H2UBEX",
+        "type": "message",
+        "ts": "1696755516.874229",
+        "client_msg_id": "7e1b5ec4-4cf6-412b-aea0-ba9a06045e8d",
+        "text": "AI 부트캠프 일정이 정리 된 시트 같은게 있을까요?",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "4ff97a444b49",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/6001324823201_4ff97a444b49d3e7092b_72.png",
+            "first_name": "조성환",
+            "real_name": "조성환",
+            "display_name": "조성환",
+            "team": "T05UGFFGL07",
+            "name": "chosw0812",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696755516.874229",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1696895489.513969",
+        "reply_users": [
+            "U05UNC6FNK1"
+        ],
+        "replies": [
+            {
+                "user": "U05UNC6FNK1",
+                "ts": "1696895489.513969"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GU8bV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "AI 부트캠프 일정이 정리 된 시트 같은게 있을까요?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "U05UNC6FNK1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U060LG0BT89",
+        "type": "message",
+        "ts": "1696765209.602309",
+        "client_msg_id": "858301fd-2a11-41ec-b71d-3880227a3753",
+        "text": "금일 막 해외에서 귀국했습니다",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "g273c76b80b5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/273c76b80b5c013cab6c608d10041dd4.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "김준호",
+            "real_name": "김준호",
+            "display_name": "",
+            "team": "T05UGFFGL07",
+            "name": "demyank88",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696765209.602309",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1696895519.668719",
+        "reply_users": [
+            "U05UNC6FNK1"
+        ],
+        "replies": [
+            {
+                "user": "U05UNC6FNK1",
+                "ts": "1696895519.668719"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2nsBv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "금일 막 해외에서 귀국했습니다"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "U05UNC6FNK1"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

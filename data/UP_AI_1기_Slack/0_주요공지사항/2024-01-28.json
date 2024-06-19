@@ -1,0 +1,428 @@
+[
+    {
+        "user": "U0608EG7YEA",
+        "type": "message",
+        "ts": "1706505608.463009",
+        "client_msg_id": "8745d6e4-18f3-418e-b17c-a61c62513ee6",
+        "text": "<!channel>\n*ML 경진대회 리더보드 재채점 결과 업데이트 안내*\n1. 리더보드 채점 간 발생한 오류\n    ◦ public \/ private 채점 시 동일한 파일로 진행됨.\n    ◦ 채점 코드의 인덱싱 코드에 오류가 있어 잘못된 정답으로 채점이 진행됨.\n2. 재채점 결과\n    ◦ *팀별 최종 제출(2건)에 대한 재채점 완료 (리더보드 업데이트)* :white_check_mark:\n    ◦ 대회 진행 간 제출한 모든 건에 대한 재채점 진행 예정\n        ▪︎ 약 400건에 달하다보니 플랫폼 내 기능 개발 후 일괄 진행 필요\n        ▪︎ 이 부분에 대해서는 추후 완료되면 공지 예정.\n경진 대회 진행 간 불편을 겪게 해드려 다시 한 번 사과드리며, 추후에는 이러한 문제가 발생하지 않도록 더 꼼꼼히 검수하겠습니다. 감사합니다. :pray:",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "542e7e1dec67",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-12\/6028220315186_542e7e1dec6721784df9_72.png",
+            "first_name": "업스테이지",
+            "real_name": "업스테이지 크리스",
+            "display_name": "업스테이지 크리스",
+            "team": "T05UGFFGL07",
+            "name": "chris",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1706505608.463009",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1706521134.856799",
+        "reply_users": [
+            "U05UWVA90H4",
+            "U05UN5DQ423",
+            "U05VAHXECP6"
+        ],
+        "replies": [
+            {
+                "user": "U05UWVA90H4",
+                "ts": "1706514336.599209"
+            },
+            {
+                "user": "U05UN5DQ423",
+                "ts": "1706518849.107079"
+            },
+            {
+                "user": "U05VAHXECP6",
+                "ts": "1706521134.856799"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1706521134.856799",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cL5yP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ML 경진대회 리더보드 재채점 결과 업데이트 안내",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "리더보드 채점 간 발생한 오류"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "public \/ private 채점 시 동일한 파일로 진행됨."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "채점 코드의 인덱싱 코드에 오류가 있어 잘못된 정답으로 채점이 진행됨."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "재채점 결과"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "offset": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "팀별 최종 제출(2건)에 대한 재채점 완료 (리더보드 업데이트) ",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "emoji",
+                                        "name": "white_check_mark",
+                                        "unicode": "2705",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "대회 진행 간 제출한 모든 건에 대한 재채점 진행 예정"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "약 400건에 달하다보니 플랫폼 내 기능 개발 후 일괄 진행 필요"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "이 부분에 대해서는 추후 완료되면 공지 예정."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 2,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "경진 대회 진행 간 불편을 겪게 해드려 다시 한 번 사과드리며, 추후에는 이러한 문제가 발생하지 않도록 더 꼼꼼히 검수하겠습니다. 감사합니다. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U05V379NETU",
+                    "U05UZLEM04V",
+                    "U05VADPQPCL",
+                    "U065TBUL5EE",
+                    "U060D1KJECR",
+                    "U05V9LP47V0",
+                    "U05V2P37518",
+                    "U0606HAGLTB",
+                    "U0600GGHJTC",
+                    "U05UN7M2GKZ",
+                    "U060BLVQYHW",
+                    "U05UT0JG4BZ",
+                    "U05UN6NTN8P"
+                ],
+                "count": 13
+            },
+            {
+                "name": "sob",
+                "users": [
+                    "U05UN5DQ423",
+                    "U05UWVA90H4",
+                    "U05UZLEM04V"
+                ],
+                "count": 3
+            },
+            {
+                "name": "joy",
+                "users": [
+                    "U05UWVA90H4",
+                    "U05UZLEM04V"
+                ],
+                "count": 2
+            },
+            {
+                "name": "sweat_smile",
+                "users": [
+                    "U05UWVA90H4",
+                    "U05UZLEM04V",
+                    "U060C67EYQ5"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "user": "U05UWVA90H4",
+        "type": "message",
+        "ts": "1706514336.599209",
+        "edited": {
+            "user": "U05UWVA90H4",
+            "ts": "1706514892.000000"
+        },
+        "client_msg_id": "9defc9e1-a881-43fb-a915-74045d6db304",
+        "text": "우선 금토일월 이렇게 주말간 확인해주시느라 고생많으셨습니다. 감사합니다. 이 얘기는 사실 크리스님께 드릴 말씀인지는 모르겠지만 관련 쓰레드라서 여기에 남겨보겠습니다!\n\n\n뒤늦게라도 이런 문제가 해결되어서 정말 다행이네요. 안그랬다면 2,3기 이후 기수분들도 똑같이 이런 어려움을 겪으셨을거라서요.\n\n\n이 대회의 교육 목적은 특정 도메인에 대해서 여러 가설을 세우고 그게 오픈 리더보드에 적합하게 들어맞는지 확인하고 모델을 디벨롭하거나 가설을 기각하는 등의 과정을 하면서 *배운 것을 적용해나가는 것*이라고 생각합니다. 그런데 발표를 들어보니 몇 조는 5일 내내 거의 잠을 안자신 분들도 있었고 대부분의 조들이 끝까지 고생하면서 애초에 틀린 답을 맞추기 위해서 가설을 세우고 2주간 노력하신 걸로 알고 있습니다. 다음부터는 이런 일이 재발되지 않기를 바라며 제안드리고 싶은 부분을 적어봅니다.\n\n\n물론 실수는 당연히 있을 수 있기 때문에 저는 이런 부분은 앞으로도 100% 예방한다는 것은 불가능하다고 생각합니다. 사실 이 이슈조차도 저희가 직전에 도저히 저희 스스로는 이 현상을 설명할 수 없어서 답을 하나로 통일해서 제출하고 실제 실거래를 찾아서 넣어보고 나서 확신이 든 후에야 이슈를 말씀드려서 대회가 끝나서야 알게 되었던 문제였습니다. 만일 저희가 확신이 없이 넘어갔다면 이 이슈는 3기까지도 이어졌을 것이라고 생각합니다.\n\n\n그러면 결국 재발 방지를 위해서는 검수도 중요하지만 이런 이의 제기나,의문점에 대해 자유롭게 소통할 수 있는 창구가 있었으면 좋겠다는 생각이 들었습니다.\n\n\n사실 저 테스트데이터셋에 대해 문의를 드린 것이 처음이 아닙니다.\n1. 수강생 중 한분이 이미 커뮤니티에 이상하다는 말씀을 올리셨습니다.\n    a. 그에 대한 답변을 멘토질문방에 슬랙으로 답해주셨지만 테스트데이터셋 문제라기보다는 다른 쪽으로 접근하는 법에 대한 조언을 해주시면서 이슈가 마무리되었습니다.\n2. 저희도 멘토님 통해서 강사님에게 이상한지 여쭤봐달라고 했지만 대회가 끝날 때까지 이에 대해서 답변을 듣지 못했습니다.\n\n제가 공지를 듣지 못한 것일수도 있겠지만 이러한 케이스가 의심될 경우에는 다음대회부터는 수강생들은 어디에 문의를 드리면 좋을지 소통채널을 통일해서 알려주시면 좀 더 이런 문제를 빠르게 파악할 수도 있겠다는 생각이 들어서 쓰레드를 남겨봅니다..!\n\n운영질문방 채널은 대회 채널이라기보다는 전체 교육 관련 운영 채널 이야기도 많아서 대회용으로 별도 채널이 있어도 좋겠다는 생각이 드네요!\n\n감사합니다! :bow:\n\n\ncc  <@U060C67EYQ5>  <@U05VAHXECP6>",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "e039a582c034",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5983012631430_e039a582c03450d83dc6_72.png",
+            "first_name": "이준형",
+            "real_name": "이준형",
+            "display_name": "이준형",
+            "team": "T05UGFFGL07",
+            "name": "hewberryd8",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1706505608.463009",
+        "parent_user_id": "U0608EG7YEA",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "70nJV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "우선 금토일월 이렇게 주말간 확인해주시느라 고생많으셨습니다. 감사합니다. 이 얘기는 사실 크리스님께 드릴 말씀인지는 모르겠지만 관련 쓰레드라서 여기에 남겨보겠습니다!\n\n\n뒤늦게라도 이런 문제가 해결되어서 정말 다행이네요. 안그랬다면 2,3기 이후 기수분들도 똑같이 이런 어려움을 겪으셨을거라서요.\n\n\n이 대회의 교육 목적은 특정 도메인에 대해서 여러 가설을 세우고 그게 오픈 리더보드에 적합하게 들어맞는지 확인하고 모델을 디벨롭하거나 가설을 기각하는 등의 과정을 하면서 "
+                            },
+                            {
+                                "type": "text",
+                                "text": "배운 것을 적용해나가는 것",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "이라고 생각합니다. 그런데 발표를 들어보니 몇 조는 5일 내내 거의 잠을 안자신 분들도 있었고 대부분의 조들이 끝까지 고생하면서 애초에 틀린 답을 맞추기 위해서 가설을 세우고 2주간 노력하신 걸로 알고 있습니다. 다음부터는 이런 일이 재발되지 않기를 바라며 제안드리고 싶은 부분을 적어봅니다.\n\n\n물론 실수는 당연히 있을 수 있기 때문에 저는 이런 부분은 앞으로도 100% 예방한다는 것은 불가능하다고 생각합니다. 사실 이 이슈조차도 저희가 직전에 도저히 저희 스스로는 이 현상을 설명할 수 없어서 답을 하나로 통일해서 제출하고 실제 실거래를 찾아서 넣어보고 나서 확신이 든 후에야 이슈를 말씀드려서 대회가 끝나서야 알게 되었던 문제였습니다. 만일 저희가 확신이 없이 넘어갔다면 이 이슈는 3기까지도 이어졌을 것이라고 생각합니다.\n\n\n그러면 결국 재발 방지를 위해서는 검수도 중요하지만 이런 이의 제기나,의문점에 대해 자유롭게 소통할 수 있는 창구가 있었으면 좋겠다는 생각이 들었습니다.\n\n\n사실 저 테스트데이터셋에 대해 문의를 드린 것이 처음이 아닙니다.\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "수강생 중 한분이 이미 커뮤니티에 이상하다는 말씀을 올리셨습니다."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "그에 대한 답변을 멘토질문방에 슬랙으로 답해주셨지만 테스트데이터셋 문제라기보다는 다른 쪽으로 접근하는 법에 대한 조언을 해주시면서 이슈가 마무리되었습니다."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "저희도 멘토님 통해서 강사님에게 이상한지 여쭤봐달라고 했지만 대회가 끝날 때까지 이에 대해서 답변을 듣지 못했습니다."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "offset": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n\n제가 공지를 듣지 못한 것일수도 있겠지만 이러한 케이스가 의심될 경우에는 다음대회부터는 수강생들은 어디에 문의를 드리면 좋을지 소통채널을 통일해서 알려주시면 좀 더 이런 문제를 빠르게 파악할 수도 있겠다는 생각이 들어서 쓰레드를 남겨봅니다..!\n\n운영질문방 채널은 대회 채널이라기보다는 전체 교육 관련 운영 채널 이야기도 많아서 대회용으로 별도 채널이 있어도 좋겠다는 생각이 드네요!\n\n감사합니다! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bow",
+                                "unicode": "1f647"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n\ncc  "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U060C67EYQ5"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05VAHXECP6"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U05VAHXECP6",
+                    "U05VADPQPCL"
+                ],
+                "count": 2
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U05UN5DQ423",
+                    "U05V2P37518",
+                    "U05VADPQPCL",
+                    "U05UN6NTN8P",
+                    "U060C67EYQ5",
+                    "U05V1KVNK0E",
+                    "U0606QGQYE5",
+                    "U05VAHXECP6",
+                    "U05UZLEM04V"
+                ],
+                "count": 9
+            }
+        ]
+    }
+]

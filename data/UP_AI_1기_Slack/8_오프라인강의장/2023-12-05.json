@@ -1,0 +1,50 @@
+[
+    {
+        "user": "U05V561TXUL",
+        "type": "message",
+        "ts": "1701776974.760669",
+        "client_msg_id": "76208a6b-1184-45f8-a659-b76ccd4d10dc",
+        "text": "12\/6 강의장 이용 신청합니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "b4604568d88f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-08\/6448187852305_b4604568d88f0ae3e9b1_72.png",
+            "first_name": "최장원",
+            "real_name": "최장원",
+            "display_name": "",
+            "team": "T05UGFFGL07",
+            "name": "cjw7378",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "K39j3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "12\/6 강의장 이용 신청합니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U065TBUL5EE",
+                    "U060LG0BT89"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

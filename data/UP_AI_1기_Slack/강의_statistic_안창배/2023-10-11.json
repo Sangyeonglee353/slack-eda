@@ -1,0 +1,1556 @@
+[
+    {
+        "user": "U05V5H1T24V",
+        "type": "message",
+        "ts": "1697014963.482439",
+        "client_msg_id": "59207179-0dfe-4eb8-9572-ac969d5ffff7",
+        "text": "변환의 정규화와 표준화 과정에서 최대\/최소 값이 같거나 표준 편차가 0이 된다면 분모가 0이 될 수 있어 zero division error가 발생할 수 있다고 생각합니다. 따라서 아주 작은 값인 입실론 값을 하나 설정하여 분모에 더해준다면 문제가 해결될 것 같습니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "7c6706ce6504",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5987883585126_7c6706ce65044c7fba85_72.png",
+            "first_name": "서재현",
+            "real_name": "서재현",
+            "display_name": "서재현",
+            "team": "T05UGFFGL07",
+            "name": "jaehyeon4037",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697006729.817609",
+        "parent_user_id": "U05V87YA1CJ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dkK2B",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "변환의 정규화와 표준화 과정에서 최대\/최소 값이 같거나 표준 편차가 0이 된다면 분모가 0이 될 수 있어 zero division error가 발생할 수 있다고 생각합니다. 따라서 아주 작은 값인 입실론 값을 하나 설정하여 분모에 더해준다면 문제가 해결될 것 같습니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05V87YA1CJ",
+        "type": "message",
+        "ts": "1697023782.699789",
+        "client_msg_id": "593507cd-1c5e-4b17-bf77-f59e9c1728fd",
+        "text": "<@U05V5H1T24V> 굉장히 좋은 지적입니다!\n그런 경우는 굉장히 드물기 때문에 + 모든 경우를 고려하는 프레임 워크 개발이 아니기 때문에 현재 코드 상으로 문제가 있다고 말씀드리기는 조금 어렵습니다 ㅎㅎ\n만약 제가 오픈 소스 프레임 워크(pandas, sklearn)를 개발하는 경우라면, 말씀하신 것처럼 하는 것이 맞습니다 ㅎㅎ",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "f846e9978d52",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/6017264684624_f846e9978d52439c35d2_72.png",
+            "first_name": "dane",
+            "real_name": "dane ahn",
+            "display_name": "dane ahn",
+            "team": "T05UGFFGL07",
+            "name": "natasma13",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697006729.817609",
+        "parent_user_id": "U05V87YA1CJ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0a2Ql",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05V5H1T24V"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 굉장히 좋은 지적입니다!\n그런 경우는 굉장히 드물기 때문에 + 모든 경우를 고려하는 프레임 워크 개발이 아니기 때문에 현재 코드 상으로 문제가 있다고 말씀드리기는 조금 어렵습니다 ㅎㅎ\n만약 제가 오픈 소스 프레임 워크(pandas, sklearn)를 개발하는 경우라면, 말씀하신 것처럼 하는 것이 맞습니다 ㅎㅎ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05V87YA1CJ",
+        "type": "message",
+        "ts": "1697023797.321679",
+        "client_msg_id": "bd828921-dd33-4609-ad55-85deb73bd529",
+        "text": "힌트는 그래프입니다",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "f846e9978d52",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/6017264684624_f846e9978d52439c35d2_72.png",
+            "first_name": "dane",
+            "real_name": "dane ahn",
+            "display_name": "dane ahn",
+            "team": "T05UGFFGL07",
+            "name": "natasma13",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697006729.817609",
+        "parent_user_id": "U05V87YA1CJ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fnFbU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "힌트는 그래프입니다"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05V5H1T24V",
+        "type": "message",
+        "ts": "1697026781.828469",
+        "client_msg_id": "68d2e063-3324-4063-99ad-35ce3f5df2cc",
+        "text": "근사 부분에서 이항분포를 각각 포아송분포와 정규분포로 근사하고 있습니다. 이항분포는 n번의 시행에 대하여 각 시행이 확률 p를 가질 때의 분포인데, 해당 코드에서 시행 범위가 x_min~x_max입니다. 이때, x_min이 음수의 값을 갖게 될 수 있는데 x_min이 음수가 될 경우 시행횟수가 음수라는 말이고, 횟수가 음수가 될 수 없기 때문에 x_min 값이 0으로 수정되어야 할 것 같습니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "7c6706ce6504",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5987883585126_7c6706ce65044c7fba85_72.png",
+            "first_name": "서재현",
+            "real_name": "서재현",
+            "display_name": "서재현",
+            "team": "T05UGFFGL07",
+            "name": "jaehyeon4037",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697006729.817609",
+        "parent_user_id": "U05V87YA1CJ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QduTj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "근사 부분에서 이항분포를 각각 포아송분포와 정규분포로 근사하고 있습니다. 이항분포는 n번의 시행에 대하여 각 시행이 확률 p를 가질 때의 분포인데, 해당 코드에서 시행 범위가 x_min~x_max입니다. 이때, x_min이 음수의 값을 갖게 될 수 있는데 x_min이 음수가 될 경우 시행횟수가 음수라는 말이고, 횟수가 음수가 될 수 없기 때문에 x_min 값이 0으로 수정되어야 할 것 같습니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U05UNMQ4LP9"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05V87YA1CJ",
+        "type": "message",
+        "ts": "1697031254.715579",
+        "client_msg_id": "2d2cceda-8ccf-4f0f-a1d0-7171b0230a4b",
+        "text": "<@U05V5H1T24V> 꼼꼼하게 살펴보신 것 같습니다 ㅎㅎ 수고 많으셨어요!\n말씀하신 것처럼 이항 분포에서는 x_min이 음수가 될 수는 없습니다.\n하지만 이항 분포에서는 n이 0보다 커야 하기 때문에, 검사를 한다면 x_min을 0으로 바꾸는 것에 앞서 n이 0보다 큰 지 검사를 하는 게 더 맞아보입니다 (ex. `assert n &gt; 0`)\n또한 x_min을 굳이 0보다 작을 수 있게 둔 이유는, *정규 근사를 했을 때 정규 분포는 0이하의 값에서 양의 확률 값을 가질 수 있음을 보이기 위함*이었습니다 :slightly_smiling_face:\n이런 부분이 근사에서 오차가 나는 것이고, 이는 코드 상의 오류가 아닌 실제 발생할 수 있는 차이입니다",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "f846e9978d52",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/6017264684624_f846e9978d52439c35d2_72.png",
+            "first_name": "dane",
+            "real_name": "dane ahn",
+            "display_name": "dane ahn",
+            "team": "T05UGFFGL07",
+            "name": "natasma13",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697006729.817609",
+        "parent_user_id": "U05V87YA1CJ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WnvDX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05V5H1T24V"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 꼼꼼하게 살펴보신 것 같습니다 ㅎㅎ 수고 많으셨어요!\n말씀하신 것처럼 이항 분포에서는 x_min이 음수가 될 수는 없습니다.\n하지만 이항 분포에서는 n이 0보다 커야 하기 때문에, 검사를 한다면 x_min을 0으로 바꾸는 것에 앞서 n이 0보다 큰 지 검사를 하는 게 더 맞아보입니다 (ex. "
+                            },
+                            {
+                                "type": "text",
+                                "text": "assert n > 0",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ")\n또한 x_min을 굳이 0보다 작을 수 있게 둔 이유는, "
+                            },
+                            {
+                                "type": "text",
+                                "text": "정규 근사를 했을 때 정규 분포는 0이하의 값에서 양의 확률 값을 가질 수 있음을 보이기 위함",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "이었습니다 "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n이런 부분이 근사에서 오차가 나는 것이고, 이는 코드 상의 오류가 아닌 실제 발생할 수 있는 차이입니다"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05V5H1T24V",
+        "type": "message",
+        "ts": "1697032004.528989",
+        "client_msg_id": "3B2FDEBF-BF48-413A-B063-07D9C08E0ECD",
+        "text": "왜 오차가 발생하는지 이해했습니다! 감사합니다!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "7c6706ce6504",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5987883585126_7c6706ce65044c7fba85_72.png",
+            "first_name": "서재현",
+            "real_name": "서재현",
+            "display_name": "서재현",
+            "team": "T05UGFFGL07",
+            "name": "jaehyeon4037",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697006729.817609",
+        "parent_user_id": "U05V87YA1CJ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ozigw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "왜"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "오차가"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "발생하는지"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "이해했습니다"
+                            },
+                            {
+                                "type": "text",
+                                "text": "! "
+                            },
+                            {
+                                "type": "text",
+                                "text": "감사합니다"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05V5H1T24V",
+        "type": "message",
+        "ts": "1697032240.222409",
+        "client_msg_id": "94E339E3-A3BA-442F-AFD6-B77F1B5F3A40",
+        "text": "<@U05V87YA1CJ> 그렇다면 n이 충분히 클 경우 근사 오차가 무시할 정도가 되면 이항분포를 정규분포로 근사하는 것이 타당하고, 근사 오차가 무시하지 못할 정도면 정규분포로 근사하지 않는 것이 타당하다고 이해하면 될까요?",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "7c6706ce6504",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5987883585126_7c6706ce65044c7fba85_72.png",
+            "first_name": "서재현",
+            "real_name": "서재현",
+            "display_name": "서재현",
+            "team": "T05UGFFGL07",
+            "name": "jaehyeon4037",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697006729.817609",
+        "parent_user_id": "U05V87YA1CJ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5DvWG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05V87YA1CJ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 그렇다면 n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "이"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "충분히"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "클"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "경우"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "근사"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "오차가"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "무시할"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "정도가"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "되면"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "이항분포를"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "정규분포로"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "근사하는"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "것이"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "타당하고"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", "
+                            },
+                            {
+                                "type": "text",
+                                "text": "근사"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "오차가"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "무시하지"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "못할"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "정도면"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "정규분포로"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "근사하지"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "않는"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "것이"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "타당하다고"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "이해하면"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "될까요"
+                            },
+                            {
+                                "type": "text",
+                                "text": "?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "오늘자 강의 자료입니다~!",
+        "files": [
+            {
+                "id": "F060C9SP5FZ",
+                "created": 1697072506,
+                "timestamp": 1697072506,
+                "name": "[Stats] 2강.pdf",
+                "title": "[Stats] 2강.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U05V87YA1CJ",
+                "user_team": "T05UGFFGL07",
+                "editable": false,
+                "size": 2743213,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F060C9SP5FZ\/_stats__2_________.pdf?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F060C9SP5FZ\/download\/_stats__2_________.pdf?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "media_display_type": "unknown",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F060C9SP5FZ-279ec57cfa\/_stats__2__________thumb_pdf.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_pdf_w": 1100,
+                "thumb_pdf_h": 619,
+                "permalink": "https:\/\/fcupstageai1.slack.com\/files\/U05V87YA1CJ\/F060C9SP5FZ\/_stats__2_________.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/T05UGFFGL07-F060C9SP5FZ-25ba85fc79",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U05V87YA1CJ",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2XLsj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "오늘자 강의 자료입니다~!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1697072509.369299",
+        "client_msg_id": "7aad5a17-52c4-4b0f-adfa-8e728e483e89",
+        "thread_ts": "1697072509.369299",
+        "reply_count": 4,
+        "reply_users_count": 2,
+        "latest_reply": "1697106858.783969",
+        "reply_users": [
+            "U05V87YA1CJ",
+            "U05V2HL22M9"
+        ],
+        "replies": [
+            {
+                "user": "U05V87YA1CJ",
+                "ts": "1697081991.195109"
+            },
+            {
+                "user": "U05V87YA1CJ",
+                "ts": "1697082158.615369"
+            },
+            {
+                "user": "U05V2HL22M9",
+                "ts": "1697106078.193889"
+            },
+            {
+                "user": "U05V87YA1CJ",
+                "ts": "1697106858.783969"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U05UNMQ4LP9",
+                    "U05V868K2JE",
+                    "U05UWVA90H4",
+                    "U05UVV5CVQE",
+                    "U060LG0BT89"
+                ],
+                "count": 5
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U060D1KJECR",
+                    "U05UWVA90H4",
+                    "U05V4FX03SP",
+                    "U05V7V2AV8A",
+                    "U0600GGHJTC",
+                    "U05UVV5CVQE",
+                    "U060BLVQYHW",
+                    "U0602CFAB7B",
+                    "U05V561TXUL",
+                    "U060LG0BT89",
+                    "U05V2HL22M9",
+                    "U05VB5EHM7W"
+                ],
+                "count": 12
+            }
+        ]
+    },
+    {
+        "text": "첨도 왜도 관련 참고한 PPT입니다",
+        "files": [
+            {
+                "id": "F060CAYAURM",
+                "created": 1697073360,
+                "timestamp": 1697073360,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U05V0106JDT",
+                "user_team": "T05UGFFGL07",
+                "editable": false,
+                "size": 750330,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F060CAYAURM\/image.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F060CAYAURM\/download\/image.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F060CAYAURM-aa031a5ad6\/image_64.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F060CAYAURM-aa031a5ad6\/image_80.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F060CAYAURM-aa031a5ad6\/image_360.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_360_w": 360,
+                "thumb_360_h": 204,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F060CAYAURM-aa031a5ad6\/image_480.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_480_w": 480,
+                "thumb_480_h": 272,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F060CAYAURM-aa031a5ad6\/image_160.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F060CAYAURM-aa031a5ad6\/image_720.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_720_w": 720,
+                "thumb_720_h": 408,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F060CAYAURM-aa031a5ad6\/image_800.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_800_w": 800,
+                "thumb_800_h": 454,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F060CAYAURM-aa031a5ad6\/image_960.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_960_w": 960,
+                "thumb_960_h": 545,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F060CAYAURM-aa031a5ad6\/image_1024.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 581,
+                "original_w": 1867,
+                "original_h": 1059,
+                "thumb_tiny": "AwAbADDRJbPGMU7NNfGOajUf3SPwoAmzRmmDcOvNL9aYDs1SSNjeFwDgMcmrIZCOCMU5GDAbSCPakUpWB+hqIAmnljnrSbj60yRce36UqjHP9KbuNG40APyc+1IkiScowODimEnBqK2J+b8BQB\/\/2Q==",
+                "permalink": "https:\/\/fcupstageai1.slack.com\/files\/U05V0106JDT\/F060CAYAURM\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T05UGFFGL07-F060CAYAURM-6e858d0715",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U05V0106JDT",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+\/I8T",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "첨도 왜도 관련 참고한 PPT입니다"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1697073395.588079",
+        "client_msg_id": "9fb9c4b0-0387-428e-9d51-95f8f4ad5eed",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U05V379NETU",
+                    "U0602CFAB7B"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U05UNMQ4LP9",
+        "type": "message",
+        "ts": "1697075774.205109",
+        "client_msg_id": "49f57032-7d21-4fcd-9a08-b6f5a598680c",
+        "text": "강사님이 말씀하신 과제(?)의 오류였던 부동소수점에 대해 제가 이해한 글 입니다.\n쉽게 말해 10진수 :left_right_arrow: 2진수 변환 과정에서 1\/3 같은 0.33333....을 근사하고 이러한 과정이 쌓이다보니 오차가 생긴 것으로 보면 될 것 같습니다.\n<https:\/\/suyeon96.tistory.com\/9>",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "eef278e1672b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5974738227319_eef278e1672b038da8b1_72.jpg",
+            "first_name": "김윤겸",
+            "real_name": "김윤겸",
+            "display_name": "김윤겸",
+            "team": "T05UGFFGL07",
+            "name": "dbsrua110525",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/img1.daumcdn.net\/thumb\/R800x0\/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FZqdvR%2FbtqFBe5sHME%2FzY2SEoAgrk0lEeWSuxvZR0%2Fimg.png",
+                "image_width": 800,
+                "image_height": 299,
+                "image_bytes": 25767,
+                "from_url": "https:\/\/suyeon96.tistory.com\/9",
+                "ts": 1593886556,
+                "id": 1,
+                "original_url": "https:\/\/suyeon96.tistory.com\/9",
+                "fallback": "Suyeon's Blog: 부동 소수점 (Floating Point) 이해하기",
+                "text": "실수 연산의 오류 Java에서 아래와 같은 code를 작성해 보자. public static void main(String []args){ \/\/ #1. 0.3 - 0.1 System.out.println(0.3 - 0.1); \/\/ #2. 0.1 1000번 더하기 double sum = 0; for(int i=0; i",
+                "title": "부동 소수점 (Floating Point) 이해하기",
+                "title_link": "https:\/\/suyeon96.tistory.com\/9",
+                "service_name": "Suyeon's Blog"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FbSWP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "강사님이 말씀하신 과제(?)의 오류였던 부동소수점에 대해 제가 이해한 글 입니다.\n쉽게 말해 10진수 "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "left_right_arrow",
+                                "unicode": "2194-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 2진수 변환 과정에서 1\/3 같은 0.33333....을 근사하고 이러한 과정이 쌓이다보니 오차가 생긴 것으로 보면 될 것 같습니다.\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/suyeon96.tistory.com\/9"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U05UWVA90H4",
+                    "U05V379NETU",
+                    "U0602CFAB7B",
+                    "U05V7V2AV8A",
+                    "U05V561TXUL",
+                    "U05UN6NTN8P",
+                    "U05V7H78DUM",
+                    "U0600GGHJTC"
+                ],
+                "count": 8
+            }
+        ]
+    },
+    {
+        "user": "U05V87YA1CJ",
+        "type": "message",
+        "ts": "1697081991.195109",
+        "client_msg_id": "48ad568b-56dc-4ec9-9b2f-69ba827cc20e",
+        "text": "<@U060LG0BT89>\n<https:\/\/wikidocs.net\/165662|참고>하시면 좋을 것 같아요!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "f846e9978d52",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/6017264684624_f846e9978d52439c35d2_72.png",
+            "first_name": "dane",
+            "real_name": "dane ahn",
+            "display_name": "dane ahn",
+            "team": "T05UGFFGL07",
+            "name": "natasma13",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697072509.369299",
+        "parent_user_id": "U05V87YA1CJ",
+        "attachments": [
+            {
+                "from_url": "https:\/\/wikidocs.net\/165662",
+                "thumb_url": "https:\/\/wikidocs.net\/images\/book\/KakaoTalk_Photo_2022-11-11-16-50-48.png",
+                "thumb_width": 100,
+                "thumb_height": 130,
+                "service_icon": "https:\/\/wikidocs.net\/static\/img\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/wikidocs.net\/165662",
+                "fallback": "위키독스: 4.3. P-value &amp; Confidence Interval",
+                "text": "### 문제 $n$의 크기에 따라 신뢰 구간의 길이가 달라지는 것을 시뮬레이션을 통해 확인해보세요. `베이스라인`의 `code here` 을 채우세요. ### 베이스라…",
+                "title": "4.3. P-value &amp; Confidence Interval",
+                "title_link": "https:\/\/wikidocs.net\/165662",
+                "service_name": "위키독스"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "a2Lzc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U060LG0BT89"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/wikidocs.net\/165662",
+                                "text": "참고"
+                            },
+                            {
+                                "type": "text",
+                                "text": "하시면 좋을 것 같아요!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U060LG0BT89"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05V87YA1CJ",
+        "type": "message",
+        "ts": "1697082158.615369",
+        "client_msg_id": "7d5b3d6f-48e8-438c-a5fd-12b87073d141",
+        "text": "<@U05UZLEM04V> 님 아메리카노 드리겠습니다",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "f846e9978d52",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/6017264684624_f846e9978d52439c35d2_72.png",
+            "first_name": "dane",
+            "real_name": "dane ahn",
+            "display_name": "dane ahn",
+            "team": "T05UGFFGL07",
+            "name": "natasma13",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697072509.369299",
+        "parent_user_id": "U05V87YA1CJ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OEDVi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05UZLEM04V"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 님 아메리카노 드리겠습니다"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U05UZLEM04V"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05V87YA1CJ",
+        "type": "message",
+        "ts": "1697083929.475779",
+        "client_msg_id": "f5f02401-670d-4c17-b72c-0cd06ddb124f",
+        "text": "추천 책 목록\n• 머신러닝 삼신기(난이도 순)\n    ◦ <https:\/\/hastie.su.domains\/Papers\/ESLII.pdf|ESL>: 이거 쓰고 어렵다는 피드백에 난이도 낮춘 책이 <https:\/\/www.statlearning.com\/|islr>(OT 때 추천). 같은 저자이며, islr은 먼저 마스터하고 보시길 바람. 그나마 쉽지만 islr보다 훨씬 어려움\n    ◦ <https:\/\/probml.github.io\/pml-book\/book1.html|Murphy ML>: 그나마 조금 쉬운 베이지안 머신러닝. 저도 보다 말았어요\n    ◦ <https:\/\/www.microsoft.com\/en-us\/research\/uploads\/prod\/2006\/01\/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf|Bishop ML>: 끝판왕. 이거 봤으면 ML 이론 쪽에서 기본기는 절대 부족함이 없으며, 국내에 완독한 사람은 손에 꼽힘\n• 통계 관련 책 추천\n    ◦ <https:\/\/product.kyobobook.co.kr\/detail\/S000001680346|통계학 원론(김동욱)>: 제일 좋다는 아닌데, 한국어 책 중에 그래도 좋은 편. 모교 교수님 저서입니다. 전반적으로 통계 원론은 외국 책 &amp; 통계학 전공 교수님 책이 좋습니다\n    ◦ <https:\/\/minerva.it.manchester.ac.uk\/~saralees\/statbook2.pdf|수리통계학(호그)>: 이 외에도 추천되는 책은 많은데, 무난하게 좋습니다. 함의를 이해하려면 해석학을 조금 보고 오시면 좋습니다.\n    ◦ <https:\/\/www.google.com\/search?q=kunter+linear+model&amp;rlz=1C5CHFA_enKR1070KR1070&amp;oq=kunter+linear+model&amp;aqs=chrome..69i57j33i160l3.3539j0j4&amp;sourceid=chrome&amp;ie=UTF-8|선형 모델(Kunter) >: 1000페이지 넘고 무척 빡셉니다. 앞에 2챕터 정도만 맛보셔도 선형 회귀의 이론적 배경을 조금 이해할 수 있습니다. 특히 왜 beta를 검정하는데 t분포가 쓰이냐 등\n    ◦ <https:\/\/www.yes24.com\/Product\/Goods\/62076680|확률론(Saeed)>: 확률은 기초같지만, 책은 끔찍한 난이도입니다. 통계학과 4학년 정도에 배우며, stochastic process를 이해하면 좋습니다. 교수님들도 끔찍하다고 표현하는 과목입니다\n        ▪︎ 예를 들어 동전이 연속 2번 나올 확률을 행렬로 풉니다. 비서 문제도 이쪽 결입니다\n    ◦ <https:\/\/doingbayesiandataanalysis.blogspot.com\/2012\/02\/why-puppies.html|Bayesian puppy book(Kruschke)>: 베이지안 관련 기초 책입니다. 베이지안 중에 제일 난이도가 낮고, 재밌고, 유익합니다.\n        ▪︎ 분량이 미쳐있다는 게 흠이고, 학부 2~3학년 수준이면 봅니다. 수리 통계 없이 볼 수 있는 유일한 책이 아닐까합니다\n        ▪︎ 저자가 유머러스한데, 영어로 유머러스합니다. 아재 개그가 많지만 문장 자체는 좋습니다\n        ▪︎ 특이하게도 저자가 심리학 교수입니다. 심리학 쪽에서 통계가 많이 쓰이긴 하는데, 이렇게 심도있게 덕질하시는 분은 이상치라고 봅니다\n        ▪︎ 저도 한 10개 챕터 정도 본 것 같네요 보다가 너무 길어서 ..\n• 수학 책 추천\n    ◦ <https:\/\/product.kyobobook.co.kr\/detail\/S000001784608|Calculus(Stewart)>: 저는 처음 이걸로 미적분을 공부했습니다. 처음이자 마지막으로 순수 수학이 진짜 재밌다고 느꼈던 교재입니다.\n    ◦ <https:\/\/math.mit.edu\/~gs\/linearalgebra\/|Linear Algebra(Gilbert strang)>: 선대 책을 4권 이상 봤는데 제일 좋습니다. 다만 무조건 유튜브 강의를 같이 보셔야 합니다\n    ◦ <https:\/\/product.kyobobook.co.kr\/detail\/S000001795280|실해석학(정동명)>: 딱히 의도를 갖고 고른 책은 아닌데, 지나보니 괜찮았습니다. 다른 책 좋은 것 많기 때문에 이거는 걸러보세용\n        ▪︎ 군대에 있을 때 반년 정도 투자해서 1\/3정도 마스터했고, 그게 나중에 큰 도움이 됐습니다\n        ▪︎ 수학 공부하는데 처음 암기가 도움이 됐던 책입니다. 명제와 예제들을 달달 외우니 그제야 좀 이해가 갔습니다\n        ▪︎ 특정 개념보다는, 수학의 원리(공리, 명제, 선언 등)와 흐름을 감잡는데 큰 도움이 되었습니다",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "f846e9978d52",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/6017264684624_f846e9978d52439c35d2_72.png",
+            "first_name": "dane",
+            "real_name": "dane ahn",
+            "display_name": "dane ahn",
+            "team": "T05UGFFGL07",
+            "name": "natasma13",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697083929.475779",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1697092220.112439",
+        "reply_users": [
+            "U05V87YA1CJ",
+            "U060LG0BT89"
+        ],
+        "replies": [
+            {
+                "user": "U05V87YA1CJ",
+                "ts": "1697084101.635099"
+            },
+            {
+                "user": "U060LG0BT89",
+                "ts": "1697092220.112439"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pZtYo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "추천 책 목록\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "머신러닝 삼신기(난이도 순)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/hastie.su.domains\/Papers\/ESLII.pdf",
+                                        "text": "ESL"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ": 이거 쓰고 어렵다는 피드백에 난이도 낮춘 책이 "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/www.statlearning.com\/",
+                                        "text": "islr"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "(OT 때 추천). 같은 저자이며, islr은 먼저 마스터하고 보시길 바람. 그나마 쉽지만 islr보다 훨씬 어려움"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/probml.github.io\/pml-book\/book1.html",
+                                        "text": "Murphy ML"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ": 그나마 조금 쉬운 베이지안 머신러닝. 저도 보다 말았어요"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/www.microsoft.com\/en-us\/research\/uploads\/prod\/2006\/01\/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf",
+                                        "text": "Bishop ML"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ": 끝판왕. 이거 봤으면 ML 이론 쪽에서 기본기는 절대 부족함이 없으며, 국내에 완독한 사람은 손에 꼽힘"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "통계 관련 책 추천"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/product.kyobobook.co.kr\/detail\/S000001680346",
+                                        "text": "통계학 원론(김동욱)"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ": 제일 좋다는 아닌데, 한국어 책 중에 그래도 좋은 편. 모교 교수님 저서입니다. 전반적으로 통계 원론은 외국 책 & 통계학 전공 교수님 책이 좋습니다"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/minerva.it.manchester.ac.uk\/~saralees\/statbook2.pdf",
+                                        "text": "수리통계학(호그)"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ": 이 외에도 추천되는 책은 많은데, 무난하게 좋습니다. 함의를 이해하려면 해석학을 조금 보고 오시면 좋습니다."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/www.google.com\/search?q=kunter+linear+model&rlz=1C5CHFA_enKR1070KR1070&oq=kunter+linear+model&aqs=chrome..69i57j33i160l3.3539j0j4&sourceid=chrome&ie=UTF-8",
+                                        "text": "선형 모델(Kunter) "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ": 1000페이지 넘고 무척 빡셉니다. 앞에 2챕터 정도만 맛보셔도 선형 회귀의 이론적 배경을 조금 이해할 수 있습니다. 특히 왜 beta를 검정하는데 t분포가 쓰이냐 등"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/www.yes24.com\/Product\/Goods\/62076680",
+                                        "text": "확률론(Saeed)"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ": 확률은 기초같지만, 책은 끔찍한 난이도입니다. 통계학과 4학년 정도에 배우며, stochastic process를 이해하면 좋습니다. 교수님들도 끔찍하다고 표현하는 과목입니다"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "예를 들어 동전이 연속 2번 나올 확률을 행렬로 풉니다. 비서 문제도 이쪽 결입니다"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 2,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/doingbayesiandataanalysis.blogspot.com\/2012\/02\/why-puppies.html",
+                                        "text": "Bayesian puppy book(Kruschke)"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ": 베이지안 관련 기초 책입니다. 베이지안 중에 제일 난이도가 낮고, 재밌고, 유익합니다."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "분량이 미쳐있다는 게 흠이고, 학부 2~3학년 수준이면 봅니다. 수리 통계 없이 볼 수 있는 유일한 책이 아닐까합니다"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "저자가 유머러스한데, 영어로 유머러스합니다. 아재 개그가 많지만 문장 자체는 좋습니다"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "특이하게도 저자가 심리학 교수입니다. 심리학 쪽에서 통계가 많이 쓰이긴 하는데, 이렇게 심도있게 덕질하시는 분은 이상치라고 봅니다"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "저도 한 10개 챕터 정도 본 것 같네요 보다가 너무 길어서 .."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 2,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "수학 책 추천"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/product.kyobobook.co.kr\/detail\/S000001784608",
+                                        "text": "Calculus(Stewart)"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ": 저는 처음 이걸로 미적분을 공부했습니다. 처음이자 마지막으로 순수 수학이 진짜 재밌다고 느꼈던 교재입니다."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/math.mit.edu\/~gs\/linearalgebra\/",
+                                        "text": "Linear Algebra(Gilbert strang)"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ": 선대 책을 4권 이상 봤는데 제일 좋습니다. 다만 무조건 유튜브 강의를 같이 보셔야 합니다"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/product.kyobobook.co.kr\/detail\/S000001795280",
+                                        "text": "실해석학(정동명)"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ": 딱히 의도를 갖고 고른 책은 아닌데, 지나보니 괜찮았습니다. 다른 책 좋은 것 많기 때문에 이거는 걸러보세용"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "군대에 있을 때 반년 정도 투자해서 1\/3정도 마스터했고, 그게 나중에 큰 도움이 됐습니다"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "수학 공부하는데 처음 암기가 도움이 됐던 책입니다. 명제와 예제들을 달달 외우니 그제야 좀 이해가 갔습니다"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "특정 개념보다는, 수학의 원리(공리, 명제, 선언 등)와 흐름을 감잡는데 큰 도움이 되었습니다"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 2,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1::skin-tone-2",
+                "users": [
+                    "U05V2HL22M9"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U060TBSJ7DF",
+                    "U0606QGQYE5",
+                    "U0602CFAB7B",
+                    "U05UZLEM04V",
+                    "U05UWVA90H4",
+                    "U05UT0JG4BZ",
+                    "U05V4FX03SP",
+                    "U05VB9FA6MS",
+                    "U0606HAGLTB",
+                    "U05VDDP88BW",
+                    "U05UNMQ4LP9",
+                    "U0600C60ZK4",
+                    "U05V5B27DK7",
+                    "U0600GGHJTC",
+                    "U05V561TXUL",
+                    "U05UVV5CVQE",
+                    "U05V9N22ZUK",
+                    "U060D1KJECR",
+                    "U05VB5EHM7W",
+                    "U060LG0BT89",
+                    "U05VC7EEY5Q",
+                    "U0600BP2J9H",
+                    "U05UUSA6G5V",
+                    "U05V2PMAVNE",
+                    "U05V1KVNK0E"
+                ],
+                "count": 25
+            },
+            {
+                "name": "pray",
+                "users": [
+                    "U05V7H78DUM"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05V87YA1CJ",
+        "type": "message",
+        "ts": "1697084101.635099",
+        "client_msg_id": "3e58cc6b-ec6c-4f41-b44e-396c73e607a1",
+        "text": "참고로 저 실해석학 C+입니다 .. 딱히 잘하는 건 아닌데 그냥 한 번 본 게 많이 도움된 것일 뿐입니다 ..\n~그때부터 수학이 싫었어요~",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "f846e9978d52",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/6017264684624_f846e9978d52439c35d2_72.png",
+            "first_name": "dane",
+            "real_name": "dane ahn",
+            "display_name": "dane ahn",
+            "team": "T05UGFFGL07",
+            "name": "natasma13",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697083929.475779",
+        "parent_user_id": "U05V87YA1CJ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SBi8Z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "참고로 저 실해석학 C+입니다 .. 딱히 잘하는 건 아닌데 그냥 한 번 본 게 많이 도움된 것일 뿐입니다 ..\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "그때부터 수학이 싫었어요",
+                                "style": {
+                                    "strike": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U05V7H78DUM",
+                    "U05UWVA90H4"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U060LG0BT89",
+        "type": "message",
+        "ts": "1697092220.112439",
+        "client_msg_id": "d0879b60-9035-43e6-b152-f90182d9c4f5",
+        "text": "벌써부터 보기 싫어지네요",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "g273c76b80b5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/273c76b80b5c013cab6c608d10041dd4.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "김준호",
+            "real_name": "김준호",
+            "display_name": "",
+            "team": "T05UGFFGL07",
+            "name": "demyank88",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697083929.475779",
+        "parent_user_id": "U05V87YA1CJ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "um6P2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "벌써부터 보기 싫어지네요"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "shushing_face",
+                "users": [
+                    "U05V87YA1CJ"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

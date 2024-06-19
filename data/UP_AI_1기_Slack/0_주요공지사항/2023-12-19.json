@@ -1,0 +1,317 @@
+[
+    {
+        "user": "U05VADPQPCL",
+        "type": "message",
+        "ts": "1702973351.407489",
+        "client_msg_id": "b73718b1-f231-40ca-bd31-181092adf2ce",
+        "text": "<!channel>\n*김용담 강사님 스터디 그룹 멘토링 안내 공지*\n\n&gt;  *일정*\n    ◦ 12월 22일 금요일 10:00 ~ 13:00\n&gt;  *멘토링 진행 방식*\n    ◦ 각 소회의실에서 강사님 그룹 스터디 및 온라인 강의 학습 진행 방향 등 이야기 나누시면 됩니다.\n    ◦ 부트 캠프를 진행하며 생긴 고민 등 자유롭게 다양한 이야기를 나누셔도 됩니다!!\n    ◦ 첫 번재 그룹 스터디 멘토링 시간이기 때문에, 가볍게 대화를 나누는 시간이라 생각해주세요.\n&gt; *멘토링 시간표*\n    ◦ 10:00 ~ 10:15 - 5조\n    ◦ 10:15 ~ 10:30 - 9조\n    ◦ 10:30 ~ 10:45 - 10조\n    ◦ 10:45 ~ 11:00 - 쉬는 시간\n    ◦ 11:00 ~ 11:15 - 6조\n    ◦ 11:15 ~ 11:30 - 7조\n    ◦ 11:30 ~ 11:45 - 8조\n    ◦ 11:45 ~ 12:00 - 쉬는 시간\n    ◦ 12:00~ 12:15 - 1조\n    ◦ 12:15~ 12:30 - 2조\n    ◦ 12:30 ~ 12:45 - 3조\n    ◦ 12:45 ~ 13:00 - 4조\n",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "07e7ca00b8f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5991092857253_07e7ca00b8f0d0b13ba1_72.png",
+            "first_name": "패스트캠퍼스박기준",
+            "real_name": "패스트캠퍼스박기준",
+            "display_name": "LM 박기준",
+            "team": "T05UGFFGL07",
+            "name": "pgj.fc.career",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1702973351.407489",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1703217589.332529",
+        "reply_users": [
+            "U05V7H78DUM"
+        ],
+        "replies": [
+            {
+                "user": "U05V7H78DUM",
+                "ts": "1703217589.332529"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UrUc\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "김용담 강사님 스터디 그룹 멘토링 안내 공지",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "일정",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "12월 22일 금요일 10:00 ~ 13:00"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": " 멘토링 진행 방식",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "각 소회의실에서 강사님 그룹 스터디 및 온라인 강의 학습 진행 방향 등 이야기 나누시면 됩니다."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "부트 캠프를 진행하며 생긴 고민 등 자유롭게 다양한 이야기를 나누셔도 됩니다!!"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "첫 번재 그룹 스터디 멘토링 시간이기 때문에, 가볍게 대화를 나누는 시간이라 생각해주세요."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "멘토링 시간표",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "10:00 ~ 10:15 - 5조"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "10:15 ~ 10:30 - 9조"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "10:30 ~ 10:45 - 10조"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "10:45 ~ 11:00 - 쉬는 시간"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "11:00 ~ 11:15 - 6조"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "11:15 ~ 11:30 - 7조"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "11:30 ~ 11:45 - 8조"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "11:45 ~ 12:00 - 쉬는 시간"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "12:00~ 12:15 - 1조"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "12:15~ 12:30 - 2조"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "12:30 ~ 12:45 - 3조"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "12:45 ~ 13:00 - 4조"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U065TBUL5EE",
+                    "U05V379NETU"
+                ],
+                "count": 2
+            },
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U065TBUL5EE"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

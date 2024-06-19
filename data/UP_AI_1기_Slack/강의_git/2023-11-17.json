@@ -1,0 +1,956 @@
+[
+    {
+        "user": "U066JCHMX1P",
+        "type": "message",
+        "ts": "1700208043.561019",
+        "client_msg_id": "f4c8a7ed-927b-4e1a-87a2-74e5764ca9fa",
+        "text": "<https:\/\/youtu.be\/lATUeAYJygc?si=DLtxXQXCHqZWynz7>",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "e9986a8f8625",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-11-16\/6203151884182_e9986a8f86252296f2e2_72.jpg",
+            "first_name": "Clifford",
+            "real_name": "Clifford Choi",
+            "display_name": "Clifford Choi",
+            "team": "T05UGFFGL07",
+            "name": "ulgoon89",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1700208043.561019",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1700208060.819129",
+        "reply_users": [
+            "U066JCHMX1P"
+        ],
+        "replies": [
+            {
+                "user": "U066JCHMX1P",
+                "ts": "1700208060.819129"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "attachments": [
+            {
+                "from_url": "https:\/\/youtu.be\/lATUeAYJygc?si=DLtxXQXCHqZWynz7",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/lATUeAYJygc\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/lATUeAYJygc?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen title=\"hexo\"><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "id": 1,
+                "original_url": "https:\/\/youtu.be\/lATUeAYJygc?si=DLtxXQXCHqZWynz7",
+                "fallback": "YouTube Video: hexo",
+                "title": "hexo",
+                "title_link": "https:\/\/youtu.be\/lATUeAYJygc?si=DLtxXQXCHqZWynz7",
+                "author_name": "개발n회차",
+                "author_link": "https:\/\/www.youtube.com\/@user-px6cj2li9u",
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AaO58",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/youtu.be\/lATUeAYJygc?si=DLtxXQXCHqZWynz7"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U05UWVA90H4",
+                    "U05V5H1T24V",
+                    "U05V5B27DK7",
+                    "U05UZLEM04V",
+                    "U060BLVQYHW",
+                    "U05V2T62KUJ",
+                    "U05V7H78DUM",
+                    "U0600GGHJTC",
+                    "U05V9LP47V0",
+                    "U060LG0BT89",
+                    "U05VCCSHKHR",
+                    "U05UN7M2GKZ",
+                    "U0600BP2J9H"
+                ],
+                "count": 13
+            }
+        ]
+    },
+    {
+        "user": "U066JCHMX1P",
+        "type": "message",
+        "ts": "1700208060.819129",
+        "client_msg_id": "86ab7266-c24b-467f-a65a-92bdad28ce6e",
+        "text": "아까 요청하신 hexo github blog 사용법 영상입니다:)",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "e9986a8f8625",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-11-16\/6203151884182_e9986a8f86252296f2e2_72.jpg",
+            "first_name": "Clifford",
+            "real_name": "Clifford Choi",
+            "display_name": "Clifford Choi",
+            "team": "T05UGFFGL07",
+            "name": "ulgoon89",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1700208043.561019",
+        "parent_user_id": "U066JCHMX1P",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PBF3S",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "아까 요청하신 hexo github blog 사용법 영상입니다:)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05UN7M2GKZ",
+        "type": "message",
+        "ts": "1700210859.044079",
+        "client_msg_id": "5014474c-e274-4957-98db-81d7ff45818f",
+        "text": "강사님 팀원들에게 issue를 여러 개 받을 때 하나만 확인이 되는데 확인 부탁드립니다",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "g898587e4152",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/898587e41523b6c4bc631e8e0c827f5b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "장호준",
+            "real_name": "장호준",
+            "display_name": "장호준",
+            "team": "T05UGFFGL07",
+            "name": "jhh6650",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1700210859.044079",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1700210957.363399",
+        "reply_users": [
+            "U05UN7M2GKZ"
+        ],
+        "replies": [
+            {
+                "user": "U05UN7M2GKZ",
+                "ts": "1700210957.363399"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EPnxH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "강사님 팀원들에게 issue를 여러 개 받을 때 하나만 확인이 되는데 확인 부탁드립니다"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U066JCHMX1P"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05UN7M2GKZ",
+        "type": "message",
+        "ts": "1700210957.363399",
+        "client_msg_id": "78e3223e-0c34-435f-abac-d1e7ead71ce2",
+        "text": "해결되었습니다",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "g898587e4152",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/898587e41523b6c4bc631e8e0c827f5b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "장호준",
+            "real_name": "장호준",
+            "display_name": "장호준",
+            "team": "T05UGFFGL07",
+            "name": "jhh6650",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1700210859.044079",
+        "parent_user_id": "U05UN7M2GKZ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1vInT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "해결되었습니다"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "이런 에러 뜨신 분 계신가요?",
+        "files": [
+            {
+                "id": "F06676GPTNX",
+                "created": 1700211718,
+                "timestamp": 1700211718,
+                "name": "error1.png",
+                "title": "error1.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U05UN7M2GKZ",
+                "user_team": "T05UGFFGL07",
+                "editable": false,
+                "size": 11797,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F06676GPTNX\/error1.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F06676GPTNX\/download\/error1.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06676GPTNX-400b7206af\/error1_64.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06676GPTNX-400b7206af\/error1_80.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06676GPTNX-400b7206af\/error1_360.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_360_w": 360,
+                "thumb_360_h": 66,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06676GPTNX-400b7206af\/error1_480.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_480_w": 480,
+                "thumb_480_h": 87,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06676GPTNX-400b7206af\/error1_160.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "original_w": 708,
+                "original_h": 129,
+                "thumb_tiny": "AwAIADDPoxRS0rjG8f5FHH+RQfvUUCEOKSlbrSUwP\/\/Z",
+                "permalink": "https:\/\/fcupstageai1.slack.com\/files\/U05UN7M2GKZ\/F06676GPTNX\/error1.png",
+                "permalink_public": "https:\/\/slack-files.com\/T05UGFFGL07-F06676GPTNX-d3bb0ee93e",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U05UN7M2GKZ",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ruASo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "이런 에러 뜨신 분 계신가요?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1700211728.272979",
+        "client_msg_id": "37e814b1-3fd8-4c5d-9d6c-762177d673e4",
+        "thread_ts": "1700211728.272979",
+        "reply_count": 7,
+        "reply_users_count": 2,
+        "latest_reply": "1700212189.182609",
+        "reply_users": [
+            "U066JCHMX1P",
+            "U05UN7M2GKZ"
+        ],
+        "replies": [
+            {
+                "user": "U066JCHMX1P",
+                "ts": "1700212004.603029"
+            },
+            {
+                "user": "U05UN7M2GKZ",
+                "ts": "1700212043.797569"
+            },
+            {
+                "user": "U066JCHMX1P",
+                "ts": "1700212070.813789"
+            },
+            {
+                "user": "U05UN7M2GKZ",
+                "ts": "1700212076.095329"
+            },
+            {
+                "user": "U066JCHMX1P",
+                "ts": "1700212087.914109"
+            },
+            {
+                "user": "U05UN7M2GKZ",
+                "ts": "1700212095.268819"
+            },
+            {
+                "user": "U05UN7M2GKZ",
+                "ts": "1700212189.182609"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "user": "U066JCHMX1P",
+        "type": "message",
+        "ts": "1700212004.603029",
+        "client_msg_id": "e1c96157-e79c-4d5b-8eca-9313fed2d5e9",
+        "text": "팀 계정으로 push 하려고 해서 생긴 문제 같습니다:)",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "e9986a8f8625",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-11-16\/6203151884182_e9986a8f86252296f2e2_72.jpg",
+            "first_name": "Clifford",
+            "real_name": "Clifford Choi",
+            "display_name": "Clifford Choi",
+            "team": "T05UGFFGL07",
+            "name": "ulgoon89",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1700211728.272979",
+        "parent_user_id": "U05UN7M2GKZ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eDqjT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "팀 계정으로 push 하려고 해서 생긴 문제 같습니다:)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05UN7M2GKZ",
+        "type": "message",
+        "ts": "1700212043.797569",
+        "client_msg_id": "13c0cf87-79fa-4023-90f6-23c132f6a418",
+        "text": "관리자 계정으로  포크없이 작성한 내용을 업데이트 하려고 할 때에는 어떻게 해야하나요?",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "g898587e4152",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/898587e41523b6c4bc631e8e0c827f5b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "장호준",
+            "real_name": "장호준",
+            "display_name": "장호준",
+            "team": "T05UGFFGL07",
+            "name": "jhh6650",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1700211728.272979",
+        "parent_user_id": "U05UN7M2GKZ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "y9z+c",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "관리자 계정으로  포크없이 작성한 내용을 업데이트 하려고 할 때에는 어떻게 해야하나요?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U066JCHMX1P",
+        "type": "message",
+        "ts": "1700212070.813789",
+        "client_msg_id": "9d01f065-1321-429f-8f68-bc6bff3d953a",
+        "text": "ㅈ\\\\\\]\\",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "e9986a8f8625",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-11-16\/6203151884182_e9986a8f86252296f2e2_72.jpg",
+            "first_name": "Clifford",
+            "real_name": "Clifford Choi",
+            "display_name": "Clifford Choi",
+            "team": "T05UGFFGL07",
+            "name": "ulgoon89",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1700211728.272979",
+        "parent_user_id": "U05UN7M2GKZ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FgSN2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ㅈ\\\\\\]\\"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05UN7M2GKZ",
+        "type": "message",
+        "ts": "1700212076.095329",
+        "client_msg_id": "28875c66-e582-4cf0-a362-21a71abf813b",
+        "text": "main에 샘플 파일들을 업로드하려고 합니다",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "g898587e4152",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/898587e41523b6c4bc631e8e0c827f5b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "장호준",
+            "real_name": "장호준",
+            "display_name": "장호준",
+            "team": "T05UGFFGL07",
+            "name": "jhh6650",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1700211728.272979",
+        "parent_user_id": "U05UN7M2GKZ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KK3du",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "main에 샘플 파일들을 업로드하려고 합니다"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U066JCHMX1P",
+        "type": "message",
+        "ts": "1700212087.914109",
+        "client_msg_id": "90a4e055-1ed5-4b05-b04f-47aa77290365",
+        "text": "아아 그럼 git pull을 먼저 진행하고 push를 다시 해보세요 ㅎ",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "e9986a8f8625",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-11-16\/6203151884182_e9986a8f86252296f2e2_72.jpg",
+            "first_name": "Clifford",
+            "real_name": "Clifford Choi",
+            "display_name": "Clifford Choi",
+            "team": "T05UGFFGL07",
+            "name": "ulgoon89",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1700211728.272979",
+        "parent_user_id": "U05UN7M2GKZ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jbg3q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "아아 그럼 git pull을 먼저 진행하고 push를 다시 해보세요 ㅎ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05UN7M2GKZ",
+        "type": "message",
+        "ts": "1700212095.268819",
+        "client_msg_id": "eef5e41d-7767-4e29-be32-50f43a1dda5a",
+        "text": "넵 알겠습니다",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "g898587e4152",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/898587e41523b6c4bc631e8e0c827f5b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "장호준",
+            "real_name": "장호준",
+            "display_name": "장호준",
+            "team": "T05UGFFGL07",
+            "name": "jhh6650",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1700211728.272979",
+        "parent_user_id": "U05UN7M2GKZ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MGLp5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "넵 알겠습니다"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05UN7M2GKZ",
+        "type": "message",
+        "ts": "1700212189.182609",
+        "client_msg_id": "73d2e6c6-9d83-4109-a6d2-656220ca6bf9",
+        "text": "해결되었습니다 감사합니다",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "g898587e4152",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/898587e41523b6c4bc631e8e0c827f5b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "장호준",
+            "real_name": "장호준",
+            "display_name": "장호준",
+            "team": "T05UGFFGL07",
+            "name": "jhh6650",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1700211728.272979",
+        "parent_user_id": "U05UN7M2GKZ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZuVDI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "해결되었습니다 감사합니다"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05UW1S4KQE",
+        "type": "message",
+        "ts": "1700212927.171829",
+        "client_msg_id": "0fbf5a65-a74e-4b78-83d8-9cf9433c1fc6",
+        "text": "강사님 2소회의실 방문좀 부탁드려도 될까요..",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "8e2a5064517a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5982083144710_8e2a5064517a40846596_72.jpg",
+            "first_name": "이재민",
+            "real_name": "이재민",
+            "display_name": "이재민",
+            "team": "T05UGFFGL07",
+            "name": "jaeminstar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1700212927.171829",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1700213940.134979",
+        "reply_users": [
+            "U066JCHMX1P"
+        ],
+        "replies": [
+            {
+                "user": "U066JCHMX1P",
+                "ts": "1700213940.134979"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MotWE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "강사님 2소회의실 방문좀 부탁드려도 될까요.."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U066JCHMX1P",
+        "type": "message",
+        "ts": "1700213940.134979",
+        "client_msg_id": "5aed9d0f-5d04-42a6-a0cc-3a409360390e",
+        "text": "지금 조금 시간이 걸려서 혹시 무슨 문제인지 먼저 여쭤봐도 될까요?",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "e9986a8f8625",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-11-16\/6203151884182_e9986a8f86252296f2e2_72.jpg",
+            "first_name": "Clifford",
+            "real_name": "Clifford Choi",
+            "display_name": "Clifford Choi",
+            "team": "T05UGFFGL07",
+            "name": "ulgoon89",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1700212927.171829",
+        "parent_user_id": "U05UW1S4KQE",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cDQcM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "지금 조금 시간이 걸려서 혹시 무슨 문제인지 먼저 여쭤봐도 될까요?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05V0106JDT",
+        "type": "message",
+        "ts": "1700214636.036259",
+        "client_msg_id": "312eaa52-32b6-405f-8f09-c97eb74b5ce3",
+        "text": "2조 분들 제가 방금 튕겼는데 같이 해주셔서 감사합니다~~",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "gd7b44870731",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d7b448707312b1f05516b12cfcdc5b63.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "김승호",
+            "real_name": "김승호",
+            "display_name": "",
+            "team": "T05UGFFGL07",
+            "name": "shkim0925",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8KwEv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "2조 분들 제가 방금 튕겼는데 같이 해주셔서 감사합니다~~"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "meow_noddies",
+                "users": [
+                    "U05V7H78DUM",
+                    "U066JCHMX1P",
+                    "U05UW1S4KQE"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "user": "U066JCHMX1P",
+        "type": "message",
+        "ts": "1700214896.202669",
+        "client_msg_id": "b18990a8-5f11-498b-8037-1e40178d6ce8",
+        "text": "하루동안 수업 들으시느라 정말 수고 많으셨습니다:) 앞으로도 git 관련해서 궁금하신 점은 여기로 질문주세요:)",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "e9986a8f8625",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-11-16\/6203151884182_e9986a8f86252296f2e2_72.jpg",
+            "first_name": "Clifford",
+            "real_name": "Clifford Choi",
+            "display_name": "Clifford Choi",
+            "team": "T05UGFFGL07",
+            "name": "ulgoon89",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1700214896.202669",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1700214957.773409",
+        "reply_users": [
+            "U05UWVA90H4",
+            "U066JCHMX1P"
+        ],
+        "replies": [
+            {
+                "user": "U05UWVA90H4",
+                "ts": "1700214921.438779"
+            },
+            {
+                "user": "U066JCHMX1P",
+                "ts": "1700214957.773409"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3ahd0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "하루동안 수업 들으시느라 정말 수고 많으셨습니다:) 앞으로도 git 관련해서 궁금하신 점은 여기로 질문주세요:)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U05V5B27DK7",
+                    "U05UN7M2GKZ",
+                    "U05UWVA90H4",
+                    "U05UN5DQ423",
+                    "U05V9N22ZUK",
+                    "U0600BP2J9H",
+                    "U05V0106JDT",
+                    "U05VB5EHM7W",
+                    "U05VDDP88BW",
+                    "U060D1KJECR",
+                    "U05V5H1T24V",
+                    "U05UUUNAE5D",
+                    "U0606QGQYE5",
+                    "U05V2T62KUJ",
+                    "U05UW1S4KQE"
+                ],
+                "count": 15
+            },
+            {
+                "name": "raised_hands::skin-tone-2",
+                "users": [
+                    "U05UT0JG4BZ",
+                    "U05UVV5CVQE",
+                    "U05V2HL22M9"
+                ],
+                "count": 3
+            },
+            {
+                "name": "meow_noddies",
+                "users": [
+                    "U05V2PMAVNE"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05UWVA90H4",
+        "type": "message",
+        "ts": "1700214921.438779",
+        "client_msg_id": "2ea0522a-ff37-43fd-8d46-f9aba38a1a3f",
+        "text": "너무 재밌는 수업이었습니다!!! 감사합니다",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "e039a582c034",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5983012631430_e039a582c03450d83dc6_72.png",
+            "first_name": "이준형",
+            "real_name": "이준형",
+            "display_name": "이준형",
+            "team": "T05UGFFGL07",
+            "name": "hewberryd8",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1700214896.202669",
+        "parent_user_id": "U066JCHMX1P",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "usr8t",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "너무 재밌는 수업이었습니다!!! 감사합니다"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U066JCHMX1P"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U066JCHMX1P",
+        "type": "message",
+        "ts": "1700214957.773409",
+        "client_msg_id": "6a2b2ed2-cd7a-49a0-ab54-46ef200c7a32",
+        "text": "감사합니다 ㅎㅎ",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "e9986a8f8625",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-11-16\/6203151884182_e9986a8f86252296f2e2_72.jpg",
+            "first_name": "Clifford",
+            "real_name": "Clifford Choi",
+            "display_name": "Clifford Choi",
+            "team": "T05UGFFGL07",
+            "name": "ulgoon89",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1700214896.202669",
+        "parent_user_id": "U066JCHMX1P",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hXJUo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "감사합니다 ㅎㅎ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

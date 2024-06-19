@@ -1,0 +1,153 @@
+[
+    {
+        "user": "U05VAHXECP6",
+        "type": "message",
+        "ts": "1702887029.492739",
+        "edited": {
+            "user": "U05VAHXECP6",
+            "ts": "1703725420.000000"
+        },
+        "client_msg_id": "f3d60d7e-600e-4c98-bb09-1a1501f1c40b",
+        "text": "<!here>\n안녕하세요. Upstage AI Lab 수강생 여러분~!\n어느 덧 오늘 하루도 저물어 가네요. :귀여운박수:\n금주 Deep Learning 멘토링 진행해 주실 `성예닮 멘토`님께서 채널에 들어와 계십니다.\n> *Deep Learning 멘토링*\n• 멘토링 기간: 23.12.18(월) ~ 23.12.22(금)\n[업스테이지] 온라인 강의를 학습하면서 궁금한 사항이 있다면 편히 이 곳에 질문해주세요! :muscle::muscle:\n(질문하실 땐 멘토님이 바로 확인하실 수 있도록 `@성예닮 멘토` 태깅해주는 센스를 발휘해주세요.)",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "50abee101814",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-11\/6044824153712_50abee1018149e21919b_72.jpg",
+            "first_name": "이상영",
+            "real_name": "이상영",
+            "display_name": "FC 이상영 매니저",
+            "team": "T05UGFFGL07",
+            "name": "sangyeong.lee",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hcvv4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n안녕하세요. Upstage AI Lab 수강생 여러분~!\n어느 덧 오늘 하루도 저물어 가네요. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "귀여운박수"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n금주 Deep Learning 멘토링 진행해 주실 "
+                            },
+                            {
+                                "type": "text",
+                                "text": "성예닮 멘토",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "님께서 채널에 들어와 계십니다.\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Deep Learning 멘토링",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "멘토링 기간: 23.12.18(월) ~ 23.12.22(금)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n[업스테이지] 온라인 강의를 학습하면서 궁금한 사항이 있다면 편히 이 곳에 질문해주세요! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "muscle",
+                                "unicode": "1f4aa"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "muscle",
+                                "unicode": "1f4aa"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n(질문하실 땐 멘토님이 바로 확인하실 수 있도록 "
+                            },
+                            {
+                                "type": "text",
+                                "text": "@성예닮 멘토",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " 태깅해주는 센스를 발휘해주세요.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U05V7H78DUM",
+                    "U060C67EYQ5",
+                    "U05UVV5CVQE",
+                    "U05VC7EEY5Q",
+                    "U06A5A0Q4PM",
+                    "U05V9LP47V0",
+                    "U05V5B27DK7",
+                    "U05V2T62KUJ"
+                ],
+                "count": 8
+            },
+            {
+                "name": "muscle",
+                "users": [
+                    "U05V4KZR3NW"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

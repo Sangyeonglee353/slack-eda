@@ -1,0 +1,226 @@
+[
+    {
+        "user": "U06P0H0V3UY",
+        "type": "message",
+        "ts": "1710407996.548649",
+        "client_msg_id": "A5CADB64-C272-4689-837A-1FC6B2324F65",
+        "text": "안녕하세요 영진님! <@U05V4KZR3NW> \n해당 에러는 코드를 좀 더 살펴봐야알것 같습니다! \n내일부터 대회관련 멘토링을 진행하는데 그때 실시간으로 코드 공유하고 질문주시면 어떨까 싶습니다! ",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "f953974a59ed",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-07\/6762308887044_f953974a59edb3df3dc4_72.png",
+            "first_name": "이종혁",
+            "real_name": "이종혁 멘토",
+            "display_name": "이종혁 멘토",
+            "team": "T05UGFFGL07",
+            "name": "jonhyuk0922",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1710397390.178389",
+        "parent_user_id": "U05V4KZR3NW",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uPgIP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "안녕하세요 영진님! "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05V4KZR3NW"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n해당 "
+                            },
+                            {
+                                "type": "text",
+                                "text": "에러는"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "코드를"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "좀"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "더"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "살펴봐야알것"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "같습니다"
+                            },
+                            {
+                                "type": "text",
+                                "text": "! \n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "내일부터"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "대회관련"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "멘토링을"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "진행하는데"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "그때"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "실시간으로"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "코드"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "공유하고"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "질문주시면"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "어떨까"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "싶습니다"
+                            },
+                            {
+                                "type": "text",
+                                "text": "! "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05V4KZR3NW",
+        "type": "message",
+        "ts": "1710420920.366119",
+        "client_msg_id": "b145610c-9a5e-4c75-b6de-57852d109e5f",
+        "text": "네 감사합니다!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "8c77944bd304",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-20\/6082246066801_8c77944bd304e2d01432_72.jpg",
+            "first_name": "남영진",
+            "real_name": "남영진",
+            "display_name": "남영진",
+            "team": "T05UGFFGL07",
+            "name": "studyingnam",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1710397390.178389",
+        "parent_user_id": "U05V4KZR3NW",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "be+yM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "네 감사합니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

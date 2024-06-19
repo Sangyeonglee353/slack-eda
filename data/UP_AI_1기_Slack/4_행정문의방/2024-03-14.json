@@ -1,0 +1,623 @@
+[
+    {
+        "user": "U05V9LP47V0",
+        "type": "message",
+        "ts": "1710461809.995789",
+        "client_msg_id": "e39473eb-7876-421e-83fd-45d5d2d9d5d1",
+        "text": "<@U05UNC6FNK1> <@U05V81G5ZDY>\n\n대상 : 온라인 실업인정\n필요한 기간 : 3월 6일 ~ 3월 15일\n필요 서류 : 수강 증명서 및 출석부\n이메일 : <mailto:axa123@hanmail.net|axa123@hanmail.net>\n연락처 : 01067343487\n감사합니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "54d9ef7119e7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-06\/5993912366662_54d9ef7119e784b29212_72.jpg",
+            "first_name": "문정의",
+            "real_name": "문정의",
+            "display_name": "문정의",
+            "team": "T05UGFFGL07",
+            "name": "axa301",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1710461809.995789",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1710467911.167839",
+        "reply_users": [
+            "U05V81G5ZDY",
+            "U05UNC6FNK1"
+        ],
+        "replies": [
+            {
+                "user": "U05V81G5ZDY",
+                "ts": "1710465859.733209"
+            },
+            {
+                "user": "U05UNC6FNK1",
+                "ts": "1710467911.167839"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nhni4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05UNC6FNK1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05V81G5ZDY"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n대상 : 온라인 실업인정\n필요한 기간 : 3월 6일 ~ 3월 15일\n필요 서류 : 수강 증명서 및 출석부\n이메일 : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:axa123@hanmail.net",
+                                "text": "axa123@hanmail.net"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n연락처 : 01067343487\n감사합니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "U05UNC6FNK1",
+                    "U05V81G5ZDY"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U060D1KJECR",
+        "type": "message",
+        "ts": "1710465135.708259",
+        "client_msg_id": "2d49190d-47d2-4477-abd9-86148c0a5f93",
+        "text": "<@U05UNC6FNK1> <@U05V81G5ZDY>\n안녕하세요 매니저님. 11일부터 14일까지의 출석대장을 작성할 때 파일을 각각 만들어야할까요?",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "d024d71b810e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-06\/5993779835878_d024d71b810e837e9532_72.jpg",
+            "first_name": "이현진",
+            "real_name": "이현진",
+            "display_name": "이현진",
+            "team": "T05UGFFGL07",
+            "name": "jinintg",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1709884448.590609",
+        "parent_user_id": "U060D1KJECR",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZSyRs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05UNC6FNK1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05V81G5ZDY"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n안녕하세요 매니저님. 11일부터 14일까지의 출석대장을 작성할 때 파일을 각각 만들어야할까요?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05V81G5ZDY",
+        "type": "message",
+        "ts": "1710465196.601509",
+        "client_msg_id": "b07d3daa-6006-4d11-81e2-384485b81a47",
+        "text": "<@U060D1KJECR> 안녕하세요 현진님!\n동일한 사유라면 하나의 대장으로 전달 주시면 됩니다!\n\n감사합니다",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "db1aceeb0d90",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5994058472162_db1aceeb0d9030c57e69_72.jpg",
+            "first_name": "김현우",
+            "real_name": "김현우",
+            "display_name": "FC 김현우 매니저",
+            "team": "T05UGFFGL07",
+            "name": "hyunwoo.kim",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1709884448.590609",
+        "parent_user_id": "U060D1KJECR",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "74GXH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U060D1KJECR"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 안녕하세요 현진님!\n동일한 사유라면 하나의 대장으로 전달 주시면 됩니다!\n\n감사합니다"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U060D1KJECR"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U060D1KJECR",
+        "type": "message",
+        "ts": "1710465584.050579",
+        "client_msg_id": "ef88ab89-6c28-4c3b-ad16-1fc8105bc0a0",
+        "text": "<@U05UNC6FNK1> <@U05V81G5ZDY>\n안녕하세요 매니저님. 구글폼 휴가 인정 일자도 하루만 지정이 가능해서 그런데, 구글폼도 첫날 일자로 한번만 내면 되는걸까요?",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "d024d71b810e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-06\/5993779835878_d024d71b810e837e9532_72.jpg",
+            "first_name": "이현진",
+            "real_name": "이현진",
+            "display_name": "이현진",
+            "team": "T05UGFFGL07",
+            "name": "jinintg",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1709884448.590609",
+        "parent_user_id": "U060D1KJECR",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2zUsE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05UNC6FNK1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05V81G5ZDY"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n안녕하세요 매니저님. 구글폼 휴가 인정 일자도 하루만 지정이 가능해서 그런데, 구글폼도 첫날 일자로 한번만 내면 되는걸까요?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05V81G5ZDY",
+        "type": "message",
+        "ts": "1710465617.313229",
+        "client_msg_id": "135ac09a-1608-431c-ab70-f7e519211ae9",
+        "text": "넵 첫날 하나로 전달 주시면 됩니다!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "db1aceeb0d90",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5994058472162_db1aceeb0d9030c57e69_72.jpg",
+            "first_name": "김현우",
+            "real_name": "김현우",
+            "display_name": "FC 김현우 매니저",
+            "team": "T05UGFFGL07",
+            "name": "hyunwoo.kim",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1709884448.590609",
+        "parent_user_id": "U060D1KJECR",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uFbHU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "넵 첫날 하나로 전달 주시면 됩니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U060D1KJECR",
+        "type": "message",
+        "ts": "1710465720.876889",
+        "client_msg_id": "96dcaf82-e024-4215-a889-ff8b53316d24",
+        "text": "<@U05UNC6FNK1> <@U05V81G5ZDY>\n안녕하세요 매니저님, 구글폼으로 3월 11일 ~ 3월 14일 예비군으로 인한 출석대장 및 증빙서류 제출했습니다. 확인해주시면 감사하겠습니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "d024d71b810e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-06\/5993779835878_d024d71b810e837e9532_72.jpg",
+            "first_name": "이현진",
+            "real_name": "이현진",
+            "display_name": "이현진",
+            "team": "T05UGFFGL07",
+            "name": "jinintg",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1709884448.590609",
+        "parent_user_id": "U060D1KJECR",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vEx8h",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05UNC6FNK1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05V81G5ZDY"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n안녕하세요 매니저님, 구글폼으로 3월 11일 ~ 3월 14일 예비군으로 인한 출석대장 및 증빙서류 제출했습니다. 확인해주시면 감사하겠습니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "military_helmet",
+                "users": [
+                    "U05V81G5ZDY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "text": "출석부 전달 드립니다\n\n수강증명서 양식 표시된 부분 작성하여 서명란에 서명 후 워드파일로 저장하여\n*저에게 DM으로 전달 해주세요(개인정보때문)*",
+        "files": [
+            {
+                "id": "F06PG7YT00N",
+                "created": 1710465799,
+                "timestamp": 1710465799,
+                "name": "AI Lab_홍길동(수강증명서).docx",
+                "title": "AI Lab_홍길동(수강증명서).docx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "filetype": "docx",
+                "pretty_type": "Word Document",
+                "user": "U05V81G5ZDY",
+                "user_team": "T05UGFFGL07",
+                "editable": false,
+                "size": 24190,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F06PG7YT00N\/ai_lab___________________________.docx?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F06PG7YT00N\/download\/ai_lab___________________________.docx?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "media_display_type": "unknown",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06PG7YT00N-54bffa7a14\/ai_lab____________________________converted.pdf?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06PG7YT00N-54bffa7a14\/ai_lab____________________________thumb_pdf.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_pdf_w": 909,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/fcupstageai1.slack.com\/files\/U05V81G5ZDY\/F06PG7YT00N\/ai_lab___________________________.docx",
+                "permalink_public": "https:\/\/slack-files.com\/T05UGFFGL07-F06PG7YT00N-ea9d616edd",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            },
+            {
+                "id": "F06PG809E0N",
+                "created": 1710465829,
+                "timestamp": 1710465829,
+                "name": "20240315102339835.pdf",
+                "title": "20240315102339835.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U05V81G5ZDY",
+                "user_team": "T05UGFFGL07",
+                "editable": false,
+                "size": 78025,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F06PG809E0N\/20240315102339835.pdf?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F06PG809E0N\/download\/20240315102339835.pdf?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "media_display_type": "unknown",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06PG809E0N-52ff42de85\/20240315102339835_thumb_pdf.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_pdf_w": 1286,
+                "thumb_pdf_h": 909,
+                "permalink": "https:\/\/fcupstageai1.slack.com\/files\/U05V81G5ZDY\/F06PG809E0N\/20240315102339835.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/T05UGFFGL07-F06PG809E0N-602fd9f970",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U05V81G5ZDY",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qBpAC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "출석부 전달 드립니다\n\n수강증명서 양식 표시된 부분 작성하여 서명란에 서명 후 워드파일로 저장하여\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "저에게 DM으로 전달 해주세요(개인정보때문)",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1710465859.733209",
+        "client_msg_id": "e7c2d09e-a4c3-4cc3-9359-e7c85d1c8dba",
+        "thread_ts": "1710461809.995789",
+        "parent_user_id": "U05V9LP47V0"
+    },
+    {
+        "user": "U05UNC6FNK1",
+        "type": "message",
+        "ts": "1710467911.167839",
+        "client_msg_id": "3f39712f-e4d2-4402-bd43-2217cc07dd0d",
+        "text": "수강증명서 전달 드렸습니다",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "260d154ea1e2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5979526758263_260d154ea1e2177fd001_72.jpg",
+            "first_name": "FC",
+            "real_name": "FC 하시안 매니저",
+            "display_name": "FC 하시안 매니저",
+            "team": "T05UGFFGL07",
+            "name": "xianha",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1710461809.995789",
+        "parent_user_id": "U05V9LP47V0",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+mWfD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "수강증명서 전달 드렸습니다"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray::skin-tone-2",
+                "users": [
+                    "U05V81G5ZDY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05UNC6FNK1",
+        "type": "message",
+        "ts": "1710482401.521109",
+        "client_msg_id": "53e2b8df-7890-407b-8a4c-88c893c05626",
+        "text": "<!channel>  훈련장려금 신청완료 안내 :moneybag:\n• *단위기간 :* 2024-01-11~2024-02-10\n• *예상지급시기 : 3월중*\n훈련비 지연이 없게 앞으로도 출결QR 잘 챙겨주시고 서류는 빠르게 제출*(7일이내 미제출시 결석)* 해주세요~\n관련한 문의는 본 스레드 태깅 아닌 <#C05V0H8H3GC|4_행정문의방> 채널 저를 태깅하시어 문의해주세요~",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "260d154ea1e2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5979526758263_260d154ea1e2177fd001_72.jpg",
+            "first_name": "FC",
+            "real_name": "FC 하시안 매니저",
+            "display_name": "FC 하시안 매니저",
+            "team": "T05UGFFGL07",
+            "name": "xianha",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nRiMi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  훈련장려금 신청완료 안내 "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "moneybag",
+                                "unicode": "1f4b0"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "단위기간 : ",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "2024-01-11~2024-02-10"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "예상지급시기 : 3월중",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "훈련비 지연이 없게 앞으로도 출결QR 잘 챙겨주시고 서류는 빠르게 제출"
+                            },
+                            {
+                                "type": "text",
+                                "text": "(7일이내 미제출시 결석) ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "해주세요~\n관련한 문의는 본 스레드 태깅 아닌 "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C05V0H8H3GC"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 채널 저를 태깅하시어 문의해주세요~"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U05V9N22ZUK"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

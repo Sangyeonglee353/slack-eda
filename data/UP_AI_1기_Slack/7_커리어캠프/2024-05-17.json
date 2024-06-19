@@ -1,0 +1,220 @@
+[
+    {
+        "user": "U05V4KZR3NW",
+        "type": "message",
+        "ts": "1715930126.953959",
+        "client_msg_id": "14e084be-d7a7-4640-ae18-9547dbd6d0e5",
+        "text": "안녕하세요! 혹시 멘토님 중 소재우 멘토님, COOK 멘토님에 대한 정보에 대해 설명해주셨던 것 같은데, 혹시 정보를 다시 안내 받을 수 있을까요?",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "8c77944bd304",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-20\/6082246066801_8c77944bd304e2d01432_72.jpg",
+            "first_name": "남영진",
+            "real_name": "남영진",
+            "display_name": "남영진",
+            "team": "T05UGFFGL07",
+            "name": "studyingnam",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1715558939.528989",
+        "parent_user_id": "U071V329LVD",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BsaE8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "안녕하세요! 혹시 멘토님 중 소재우 멘토님, COOK 멘토님에 대한 정보에 대해 설명해주셨던 것 같은데, 혹시 정보를 다시 안내 받을 수 있을까요?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U071V329LVD",
+        "type": "message",
+        "ts": "1715930320.061779",
+        "client_msg_id": "2d4be66e-d6aa-456a-a850-23e3071f2911",
+        "text": "영진님, 안녕하세요!\n수료식 당시 소개드렸던 내용 다시 한번 전달드립니다!\n• 멘토님 소개\n    ◦ COOK님 : MLS Devops Saas, AI 모델링 전문\n        ▪︎ 8년차 AI Researcher\n    ◦ 소재우님 : 데이터 사이언스, LLM 모델 연구 개발 전문\n        ▪︎ 8년차 데이터사이언티스트",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "7126b09d12fa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-13\/7098347063462_7126b09d12fa60e1a30d_72.png",
+            "first_name": "유정미",
+            "real_name": "유정미 매니저",
+            "display_name": "유정미 매니저",
+            "team": "T05UGFFGL07",
+            "name": "jeongmi.yoo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1715558939.528989",
+        "parent_user_id": "U071V329LVD",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1CU3R",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "영진님, 안녕하세요!\n수료식 당시 소개드렸던 내용 다시 한번 전달드립니다!\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "멘토님 소개"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "COOK님 : MLS Devops Saas, AI 모델링 전문"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "8년차 AI Researcher"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 2,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "소재우님 : 데이터 사이언스, LLM 모델 연구 개발 전문"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "8년차 데이터사이언티스트"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 2,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "bow",
+                "users": [
+                    "U05V4KZR3NW"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U060BLVQYHW",
+        "type": "message",
+        "ts": "1715947863.093799",
+        "client_msg_id": "5d8025fc-c837-4dbb-8b4b-e43d551e6657",
+        "text": "<@U071V329LVD>\n안녕하세요! 매니저님\n사람인 우수 수료생은 언제쯤 발표가 될까요?",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "g6cb970458b5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6cb970458b5672091fa231bd078f93da.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+            "first_name": "Sang",
+            "real_name": "Sang Hyuk SEO",
+            "display_name": "서상혁",
+            "team": "T05UGFFGL07",
+            "name": "happer96",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1715337000.095219",
+        "parent_user_id": "U071V329LVD",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/rIqx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U071V329LVD"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n안녕하세요! 매니저님\n사람인 우수 수료생은 언제쯤 발표가 될까요?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

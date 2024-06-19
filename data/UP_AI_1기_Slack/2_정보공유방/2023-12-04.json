@@ -1,0 +1,228 @@
+[
+    {
+        "user": "U05UWVA90H4",
+        "type": "message",
+        "ts": "1701706548.213529",
+        "client_msg_id": "3a5d4be2-7467-4580-b11e-baca970e9520",
+        "text": "데이터야놀자라고, 데이터 관련 컨퍼런스가 11월 쯤에 진행되었는데 이번에 유튜브 다시보기로 올라왔더라구요!\n저희 첫번째 강의해주셨던 안창배 강사님도 한 세션 진행해주셨으니 관심있으신 분들 한번 보세요~!\n\n<https:\/\/www.youtube.com\/@datayanolja>",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "e039a582c034",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5983012631430_e039a582c03450d83dc6_72.png",
+            "first_name": "이준형",
+            "real_name": "이준형",
+            "display_name": "이준형",
+            "team": "T05UGFFGL07",
+            "name": "hewberryd8",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.youtube.com\/@datayanolja",
+                "service_icon": "https:\/\/www.youtube.com\/s\/desktop\/2a835f78\/img\/favicon.ico",
+                "thumb_url": "https:\/\/yt3.googleusercontent.com\/zY4uN0GHGH46QpBjsvALmgfWtksbBNqaVntBLMGqK3Fjk59AtcgKy8ZVObjVkfhzLGUrtK9VGg",
+                "thumb_width": 280,
+                "thumb_height": 280,
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/@datayanolja",
+                "fallback": "YouTube: 데이터야놀자",
+                "text": "데이터를 다루는 모든사람들의 축제, 데이터야놀자 공식 계정입니다.",
+                "title": "데이터야놀자",
+                "title_link": "https:\/\/www.youtube.com\/@datayanolja",
+                "service_name": "YouTube"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rVm+n",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "데이터야놀자라고, 데이터 관련 컨퍼런스가 11월 쯤에 진행되었는데 이번에 유튜브 다시보기로 올라왔더라구요!\n저희 첫번째 강의해주셨던 안창배 강사님도 한 세션 진행해주셨으니 관심있으신 분들 한번 보세요~!\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/@datayanolja"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1::skin-tone-2",
+                "users": [
+                    "U05V2HL22M9"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U05V9N22ZUK",
+                    "U05V5B27DK7",
+                    "U05UUUNAE5D",
+                    "U05VB9FA6MS",
+                    "U05V4KZR3NW",
+                    "U05UVE9DFSB",
+                    "U05VADPQPCL",
+                    "U0600GGHJTC"
+                ],
+                "count": 8
+            }
+        ]
+    },
+    {
+        "user": "U065TBUL5EE",
+        "type": "message",
+        "ts": "1701759701.344169",
+        "client_msg_id": "091eeb44-2f32-4eca-96b8-9ea740a6c630",
+        "text": "LLM에 관심있는 분들을 위해서 재밌는 정보 하나 공유드립니다.\n\n<https:\/\/bbycroft.net\/llm>",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "34f110a5edc4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-11-14\/6197301711475_34f110a5edc435398e63_72.png",
+            "first_name": "김용담",
+            "real_name": "김용담",
+            "display_name": "김용담 강사",
+            "team": "T05UGFFGL07",
+            "name": "codingiscoffee",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/bbycroft.net\/llm",
+                "service_icon": "https:\/\/bbycroft.net\/icon.png?9d3d9b98e68d2d0d",
+                "id": 1,
+                "original_url": "https:\/\/bbycroft.net\/llm",
+                "fallback": "LLM Visualization",
+                "text": "A 3D animated visualization of an LLM with a walkthrough.",
+                "title": "LLM Visualization",
+                "title_link": "https:\/\/bbycroft.net\/llm",
+                "service_name": "bbycroft.net"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "n+61t",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "LLM에 관심있는 분들을 위해서 재밌는 정보 하나 공유드립니다.\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/bbycroft.net\/llm"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U05V379NETU",
+                    "U05UWVA90H4",
+                    "U05V2T62KUJ",
+                    "U05V9N22ZUK",
+                    "U05V0106JDT",
+                    "U060C67EYQ5",
+                    "U05UVE9DFSB",
+                    "U0600GGHJTC"
+                ],
+                "count": 8
+            },
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U05UWVA90H4",
+                    "U060C67EYQ5"
+                ],
+                "count": 2
+            },
+            {
+                "name": "fb-like",
+                "users": [
+                    "U05UWVA90H4",
+                    "U060C67EYQ5"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U065TBUL5EE",
+        "type": "message",
+        "ts": "1701762030.859119",
+        "client_msg_id": "a35e6101-cbda-4066-b6bb-410b77d3fc02",
+        "text": "Kaggle에서 대회하시는 분들이 참고하시면 좋은 과거 대회들의 우승 solution들을 모아놓은 곳입니다.\n하시는 대회와 비슷한 대회를 찾아서 공부해보시면 좋습니다!\n\n<https:\/\/www.kaggle.com\/code\/sudalairajkumar\/winning-solutions-of-kaggle-competitions>",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "34f110a5edc4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-11-14\/6197301711475_34f110a5edc435398e63_72.png",
+            "first_name": "김용담",
+            "real_name": "김용담",
+            "display_name": "김용담 강사",
+            "team": "T05UGFFGL07",
+            "name": "codingiscoffee",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FxDbK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Kaggle에서 대회하시는 분들이 참고하시면 좋은 과거 대회들의 우승 solution들을 모아놓은 곳입니다.\n하시는 대회와 비슷한 대회를 찾아서 공부해보시면 좋습니다!\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.kaggle.com\/code\/sudalairajkumar\/winning-solutions-of-kaggle-competitions"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U05V9N22ZUK",
+                    "U05V0106JDT",
+                    "U060C67EYQ5",
+                    "U05V5H1T24V",
+                    "U05V9LP47V0",
+                    "U05UVE9DFSB",
+                    "U0600GGHJTC",
+                    "U05V4KZR3NW"
+                ],
+                "count": 8
+            }
+        ]
+    }
+]

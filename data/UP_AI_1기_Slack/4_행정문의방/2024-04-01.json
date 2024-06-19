@@ -1,0 +1,283 @@
+[
+    {
+        "user": "U061N4T7L8G",
+        "type": "message",
+        "ts": "1712019023.310719",
+        "client_msg_id": "260880dc-f318-42fb-978a-e14e37fabe47",
+        "text": "<@U05V81G5ZDY> <@U05UNC6FNK1>\n대상 : 실업인정\n필요한 기간 : 3월 11일 ~ 3월 29일\n필요 서류 : 수강 증명서 및 출석부\n이메일 : <mailto:azilang2@gmail.com|azilang2@gmail.com>\n연락처 : 01041378078\n감사합니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "7e78e3eb3b0f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-17\/6050758972500_7e78e3eb3b0f4a3a1efd_72.png",
+            "first_name": "최기훈",
+            "real_name": "최기훈",
+            "display_name": "최기훈",
+            "team": "T05UGFFGL07",
+            "name": "azilang2",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712019023.310719",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1712021908.192249",
+        "reply_users": [
+            "U05V81G5ZDY"
+        ],
+        "replies": [
+            {
+                "user": "U05V81G5ZDY",
+                "ts": "1712021908.192249"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YKKQq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05V81G5ZDY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05UNC6FNK1"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n대상 : 실업인정\n필요한 기간 : 3월 11일 ~ 3월 29일\n필요 서류 : 수강 증명서 및 출석부\n이메일 : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:azilang2@gmail.com",
+                                "text": "azilang2@gmail.com"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n연락처 : 01041378078\n감사합니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "U05V81G5ZDY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05V9LP47V0",
+        "type": "message",
+        "ts": "1712019441.187139",
+        "client_msg_id": "6d4bb248-2387-452f-bf98-7525b2918e8d",
+        "text": "<@U05V81G5ZDY>\n3\/15일에 실업수당이 종료되었으면 N으로 표시하면 되는지요?\n감사합니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "54d9ef7119e7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-06\/5993912366662_54d9ef7119e784b29212_72.jpg",
+            "first_name": "문정의",
+            "real_name": "문정의",
+            "display_name": "문정의",
+            "team": "T05UGFFGL07",
+            "name": "axa301",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1711942269.846289",
+        "parent_user_id": "U05V81G5ZDY",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FIA6V",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05V81G5ZDY"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n3\/15일에 실업수당이 종료되었으면 N으로 표시하면 되는지요?\n감사합니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U05UW1S4KQE"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05V81G5ZDY",
+        "type": "message",
+        "ts": "1712021830.926659",
+        "client_msg_id": "d29a511a-f77f-473e-869c-b4d2a33b26ad",
+        "text": "<@U05V9LP47V0> 안녕하세요 정의님!\n고용보험 가입여부 없으시면 N으로 표기하여 서명하시면 됩니다!\n\n감사합니다",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "db1aceeb0d90",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5994058472162_db1aceeb0d9030c57e69_72.jpg",
+            "first_name": "김현우",
+            "real_name": "김현우",
+            "display_name": "FC 김현우 매니저",
+            "team": "T05UGFFGL07",
+            "name": "hyunwoo.kim",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1711942269.846289",
+        "parent_user_id": "U05V81G5ZDY",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Pbd1Y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05V9LP47V0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 안녕하세요 정의님!\n고용보험 가입여부 없으시면 N으로 표기하여 서명하시면 됩니다!\n\n감사합니다"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "출석부 전달 드립니다\n\n수강증명서 양식 표시된 부분 작성하여 서명란에 자필서명 후 워드파일로 저장하여\n*저에게 DM으로 전달 해주세요(개인정보 때문)*",
+        "files": [
+            {
+                "id": "F06SPFDQXHP",
+                "created": 1712021875,
+                "timestamp": 1712021875,
+                "name": "20240402103747943.pdf",
+                "title": "20240402103747943.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U05V81G5ZDY",
+                "user_team": "T05UGFFGL07",
+                "editable": false,
+                "size": 78489,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F06SPFDQXHP\/20240402103747943.pdf?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F06SPFDQXHP\/download\/20240402103747943.pdf?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "media_display_type": "unknown",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06SPFDQXHP-2a09680429\/20240402103747943_thumb_pdf.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_pdf_w": 1286,
+                "thumb_pdf_h": 909,
+                "permalink": "https:\/\/fcupstageai1.slack.com\/files\/U05V81G5ZDY\/F06SPFDQXHP\/20240402103747943.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/T05UGFFGL07-F06SPFDQXHP-4329520448",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            },
+            {
+                "id": "F06SZK60H0Q",
+                "created": 1712021880,
+                "timestamp": 1712021880,
+                "name": "AI Lab_홍길동(수강증명서).docx",
+                "title": "AI Lab_홍길동(수강증명서).docx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "filetype": "docx",
+                "pretty_type": "Word Document",
+                "user": "U05V81G5ZDY",
+                "user_team": "T05UGFFGL07",
+                "editable": false,
+                "size": 24190,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F06SZK60H0Q\/ai_lab___________________________.docx?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F06SZK60H0Q\/download\/ai_lab___________________________.docx?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "media_display_type": "unknown",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06SZK60H0Q-b00cc4e74a\/ai_lab____________________________converted.pdf?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06SZK60H0Q-b00cc4e74a\/ai_lab____________________________thumb_pdf.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_pdf_w": 909,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/fcupstageai1.slack.com\/files\/U05V81G5ZDY\/F06SZK60H0Q\/ai_lab___________________________.docx",
+                "permalink_public": "https:\/\/slack-files.com\/T05UGFFGL07-F06SZK60H0Q-0e9dcc3e62",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U05V81G5ZDY",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4o\/r2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "출석부 전달 드립니다\n\n수강증명서 양식 표시된 부분 작성하여 서명란에 자필서명 후 워드파일로 저장하여\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "저에게 DM으로 전달 해주세요(개인정보 때문)",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1712021908.192249",
+        "client_msg_id": "1ed26d0c-de88-4926-96d3-f9f366512a8d",
+        "thread_ts": "1712019023.310719",
+        "parent_user_id": "U061N4T7L8G"
+    }
+]

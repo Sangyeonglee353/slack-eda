@@ -1,0 +1,303 @@
+[
+    {
+        "user": "U05V7H78DUM",
+        "type": "message",
+        "ts": "1704961753.588779",
+        "client_msg_id": "504a7d5f-4b65-49b4-8acf-32e08c1f7611",
+        "text": "<@U05UNC6FNK1> 매니저님 안녕하세요, 저도 입금내역이 없어서 확인해봤는데 8일에 신청이 된거고 1월 말 중으로 입금될 예정이라고 답변받아 해당 내용 전달드립니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "5ea65e4bfd4e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-12\/6024317246501_5ea65e4bfd4e925e65f9_72.png",
+            "first_name": "조예람",
+            "real_name": "조예람",
+            "display_name": "",
+            "team": "T05UGFFGL07",
+            "name": "dpfka4616",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1704959076.745579",
+        "parent_user_id": "U05V9N22ZUK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0LO7+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05UNC6FNK1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 매니저님 안녕하세요, 저도 입금내역이 없어서 확인해봤는데 8일에 신청이 된거고 1월 말 중으로 입금될 예정이라고 답변받아 해당 내용 전달드립니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U05UWVA90H4",
+                    "U060D1KJECR",
+                    "U05V5H1T24V"
+                ],
+                "count": 3
+            },
+            {
+                "name": "muscle::skin-tone-2",
+                "users": [
+                    "U05UNC6FNK1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05UWVA90H4",
+        "type": "message",
+        "ts": "1704961772.931569",
+        "client_msg_id": "ec4c6e15-ac35-4667-9fbe-87aaa64d4f56",
+        "text": "지급 신청만 접수되었고, 아무도 지급이 안되었다고 하네요!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "e039a582c034",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5983012631430_e039a582c03450d83dc6_72.png",
+            "first_name": "이준형",
+            "real_name": "이준형",
+            "display_name": "이준형",
+            "team": "T05UGFFGL07",
+            "name": "hewberryd8",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1704959076.745579",
+        "parent_user_id": "U05V9N22ZUK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kl348",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "지급 신청만 접수되었고, 아무도 지급이 안되었다고 하네요!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "muscle::skin-tone-2",
+                "users": [
+                    "U05UNC6FNK1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U060D1KJECR",
+        "type": "message",
+        "ts": "1704961775.698089",
+        "client_msg_id": "a180bd74-b480-46c9-8e24-b668876bdce0",
+        "text": "저도 동일 내용으로 안내 받았습니다",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "d024d71b810e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-06\/5993779835878_d024d71b810e837e9532_72.jpg",
+            "first_name": "이현진",
+            "real_name": "이현진",
+            "display_name": "이현진",
+            "team": "T05UGFFGL07",
+            "name": "jinintg",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1704959076.745579",
+        "parent_user_id": "U05V9N22ZUK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UPvA7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "저도 동일 내용으로 안내 받았습니다"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "muscle::skin-tone-2",
+                "users": [
+                    "U05UNC6FNK1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "text": "<!channel> 안녕하세요 수강생여러분~ 훈련장려금 관련 안타까운:melting_face: 소식 전달드립니다.\n지난 12월 지출시스템 변경이 현재에도 진행중이며, 2024년도 예산 미편성으로 인해 훈련장려금 지급이 지연되었음으로 전달받았습니다.\n입금관련하여 대략적 시기에 대해 재문의드렸습니다.\n위 입금 관련하여 문의사항이 있다면 서울강남고용복지센터로 연락해주시길 바랍니다.",
+        "files": [
+            {
+                "id": "F06DY4TMGE5",
+                "created": 1705018611,
+                "timestamp": 1705018611,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U05UNC6FNK1",
+                "user_team": "T05UGFFGL07",
+                "editable": false,
+                "size": 20568,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F06DY4TMGE5\/image.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F06DY4TMGE5\/download\/image.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06DY4TMGE5-72f82530f2\/image_64.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06DY4TMGE5-72f82530f2\/image_80.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06DY4TMGE5-72f82530f2\/image_360.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_360_w": 360,
+                "thumb_360_h": 114,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06DY4TMGE5-72f82530f2\/image_480.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_480_w": 480,
+                "thumb_480_h": 152,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06DY4TMGE5-72f82530f2\/image_160.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06DY4TMGE5-72f82530f2\/image_720.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_720_w": 720,
+                "thumb_720_h": 228,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06DY4TMGE5-72f82530f2\/image_800.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_800_w": 800,
+                "thumb_800_h": 253,
+                "original_w": 875,
+                "original_h": 277,
+                "thumb_tiny": "AwAPADDS496OPekP0ox7fpQAvHvRn2NJ+H6Ude36UALn2NLTce36UoA9KAP\/2Q==",
+                "permalink": "https:\/\/fcupstageai1.slack.com\/files\/U05UNC6FNK1\/F06DY4TMGE5\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T05UGFFGL07-F06DY4TMGE5-5cb67758ff",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U05UNC6FNK1",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nKkJ1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 안녕하세요 수강생여러분~ 훈련장려금 관련 안타까운"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "melting_face",
+                                "unicode": "1fae0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 소식 전달드립니다.\n지난 12월 지출시스템 변경이 현재에도 진행중이며, 2024년도 예산 미편성으로 인해 훈련장려금 지급이 지연되었음으로 전달받았습니다.\n입금관련하여 대략적 시기에 대해 재문의드렸습니다.\n위 입금 관련하여 문의사항이 있다면 서울강남고용복지센터로 연락해주시길 바랍니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1705018614.154369",
+        "client_msg_id": "2d4aa71c-32a5-458c-95ae-72484f13e8fa",
+        "thread_ts": "1705018614.154369",
+        "reply_count": 4,
+        "reply_users_count": 2,
+        "latest_reply": "1705885256.519699",
+        "reply_users": [
+            "U05UN5DQ423",
+            "U05UNC6FNK1"
+        ],
+        "replies": [
+            {
+                "user": "U05UN5DQ423",
+                "ts": "1705638130.260889"
+            },
+            {
+                "user": "U05UNC6FNK1",
+                "ts": "1705638214.998879"
+            },
+            {
+                "user": "U05UN5DQ423",
+                "ts": "1705641388.832099"
+            },
+            {
+                "user": "U05UNC6FNK1",
+                "ts": "1705885256.519699"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "대답",
+                "users": [
+                    "U05V5B27DK7",
+                    "U05V561TXUL"
+                ],
+                "count": 2
+            },
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U05V9N22ZUK"
+                ],
+                "count": 1
+            },
+            {
+                "name": "smiling_face_with_tear",
+                "users": [
+                    "U065TBUL5EE",
+                    "U05UN5DQ423"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

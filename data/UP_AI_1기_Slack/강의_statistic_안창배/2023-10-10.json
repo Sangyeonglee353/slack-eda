@@ -1,0 +1,423 @@
+[
+    {
+        "user": "U05V87YA1CJ",
+        "type": "message",
+        "ts": "1696949027.140809",
+        "edited": {
+            "user": "U05V87YA1CJ",
+            "ts": "1696949237.000000"
+        },
+        "client_msg_id": "6afff0c9-78ce-4e17-b091-26022650d306",
+        "text": "안녕하세요~ 내일 :fire::fire:첫 강의:fire::fire:가 시작되겠네요\n오늘 OT 리액션\/질문 잘 해주시면서 들어주셔서 감사합니다 내일도 잘 부탁드려요:heart_hands:\n<https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLSfV5U9jw60nGFTsJod6yD3C6H9lpz-LVLgpAnzRgSNYj_Xz4A\/viewform|설문조사> 결과가 생각 외인데, 아직 모두가 하진 않으신 것 같아요 (결과는 내일 공개 됩니다)\n혹시 안한 분이 있다면 내일 시작 전까지 해주시면 감사하겠습니다~! :pray::pray:\n그럼 좋은 밤 되세요!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "f846e9978d52",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/6017264684624_f846e9978d52439c35d2_72.png",
+            "first_name": "dane",
+            "real_name": "dane ahn",
+            "display_name": "dane ahn",
+            "team": "T05UGFFGL07",
+            "name": "natasma13",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tbXbR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "안녕하세요~ 내일 "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fire",
+                                "unicode": "1f525"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fire",
+                                "unicode": "1f525"
+                            },
+                            {
+                                "type": "text",
+                                "text": "첫 강의"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fire",
+                                "unicode": "1f525"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fire",
+                                "unicode": "1f525"
+                            },
+                            {
+                                "type": "text",
+                                "text": "가 시작되겠네요\n오늘 OT 리액션\/질문 잘 해주시면서 들어주셔서 감사합니다 내일도 잘 부탁드려요"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "heart_hands",
+                                "unicode": "1faf6"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLSfV5U9jw60nGFTsJod6yD3C6H9lpz-LVLgpAnzRgSNYj_Xz4A\/viewform",
+                                "text": "설문조사"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 결과가 생각 외인데, 아직 모두가 하진 않으신 것 같아요 (결과는 내일 공개 됩니다)\n혹시 안한 분이 있다면 내일 시작 전까지 해주시면 감사하겠습니다~! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n그럼 좋은 밤 되세요!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U05V2PMAVNE",
+                    "U060LG0BT89",
+                    "U05V9LP47V0",
+                    "U05UNMQ4LP9",
+                    "U05V845G3SN",
+                    "U05UVV5CVQE",
+                    "U05UWVA90H4",
+                    "U0600GGHJTC",
+                    "U05UZLEM04V",
+                    "U05V4FX03SP",
+                    "U060TBSJ7DF",
+                    "U0600C60ZK4",
+                    "U05UVE9DFSB",
+                    "U05V561TXUL",
+                    "U0602CFAB7B",
+                    "U05V1KVNK0E"
+                ],
+                "count": 16
+            }
+        ]
+    },
+    {
+        "user": "U05V87YA1CJ",
+        "type": "message",
+        "ts": "1697006729.817609",
+        "client_msg_id": "36ca38b2-19dc-45bc-aa83-bf2e700081bb",
+        "text": "오늘자 강의 자료 공유드립니다 (스레드 참조)\n강의 끝나고 전체 자료도 한 번 공유 드릴 예정이니 미리 모으고 정리 안하셔도 괜찮습니다\n코드에서 하나 에러로 보이는 게 있는데, 에러는 아니고 발생가능한 문제입니다\n어떤 문제인지 찾으시는 분께는 아메리카노 기프티콘 선물을 드리도록 하겠습니다 :coffee:\n문제가 왜인지 밝히고 해결:bulb:하시는 분께는 치킨을 드리도록 하겠습니다 :chicken:",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "f846e9978d52",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/6017264684624_f846e9978d52439c35d2_72.png",
+            "first_name": "dane",
+            "real_name": "dane ahn",
+            "display_name": "dane ahn",
+            "team": "T05UGFFGL07",
+            "name": "natasma13",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697006729.817609",
+        "reply_count": 9,
+        "reply_users_count": 2,
+        "latest_reply": "1697032240.222409",
+        "reply_users": [
+            "U05V87YA1CJ",
+            "U05V5H1T24V"
+        ],
+        "replies": [
+            {
+                "user": "U05V87YA1CJ",
+                "ts": "1697006742.031309"
+            },
+            {
+                "user": "U05V87YA1CJ",
+                "ts": "1697006760.219959"
+            },
+            {
+                "user": "U05V5H1T24V",
+                "ts": "1697014963.482439"
+            },
+            {
+                "user": "U05V87YA1CJ",
+                "ts": "1697023782.699789"
+            },
+            {
+                "user": "U05V87YA1CJ",
+                "ts": "1697023797.321679"
+            },
+            {
+                "user": "U05V5H1T24V",
+                "ts": "1697026781.828469"
+            },
+            {
+                "user": "U05V87YA1CJ",
+                "ts": "1697031254.715579"
+            },
+            {
+                "user": "U05V5H1T24V",
+                "ts": "1697032004.528989"
+            },
+            {
+                "user": "U05V5H1T24V",
+                "ts": "1697032240.222409"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8AeWX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "오늘자 강의 자료 공유드립니다 (스레드 참조)\n강의 끝나고 전체 자료도 한 번 공유 드릴 예정이니 미리 모으고 정리 안하셔도 괜찮습니다\n코드에서 하나 에러로 보이는 게 있는데, 에러는 아니고 발생가능한 문제입니다\n어떤 문제인지 찾으시는 분께는 아메리카노 기프티콘 선물을 드리도록 하겠습니다 "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "coffee",
+                                "unicode": "2615"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n문제가 왜인지 밝히고 해결"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bulb",
+                                "unicode": "1f4a1"
+                            },
+                            {
+                                "type": "text",
+                                "text": "하시는 분께는 치킨을 드리도록 하겠습니다 "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "chicken",
+                                "unicode": "1f414"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U05V379NETU",
+                    "U05V2PMAVNE",
+                    "U05UVV5CVQE",
+                    "U0606QGQYE5",
+                    "U05UNMQ4LP9",
+                    "U05V561TXUL",
+                    "U05V2T62KUJ",
+                    "U060LG0BT89",
+                    "U05V4FX03SP",
+                    "U060BLVQYHW",
+                    "U05V7H78DUM",
+                    "U05UN6NTN8P",
+                    "U0602CFAB7B",
+                    "U05VB5EHM7W",
+                    "U0600GGHJTC"
+                ],
+                "count": 15
+            },
+            {
+                "name": "bow",
+                "users": [
+                    "U05UVV5CVQE",
+                    "U060LG0BT89"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "text": "",
+        "files": [
+            {
+                "id": "F060EKT716J",
+                "created": 1697006734,
+                "timestamp": 1697006734,
+                "name": "패스트캠퍼스X업스테이지 AI Lab Stats 1일차 Answer.html",
+                "title": "패스트캠퍼스X업스테이지 AI Lab Stats 1일차 Answer.html",
+                "mimetype": "text\/plain",
+                "filetype": "html",
+                "pretty_type": "HTML",
+                "user": "U05V87YA1CJ",
+                "user_team": "T05UGFFGL07",
+                "editable": true,
+                "size": 929669,
+                "mode": "snippet",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F060EKT716J\/_______________________________________x__________________________________ai_lab_stats_1________________answer.html?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F060EKT716J\/download\/_______________________________________x__________________________________ai_lab_stats_1________________answer.html?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "permalink": "https:\/\/fcupstageai1.slack.com\/files\/U05V87YA1CJ\/F060EKT716J\/_______________________________________x__________________________________ai_lab_stats_1________________answer.html",
+                "permalink_public": "https:\/\/slack-files.com\/T05UGFFGL07-F060EKT716J-46687681da",
+                "edit_link": "https:\/\/fcupstageai1.slack.com\/files\/U05V87YA1CJ\/F060EKT716J\/_______________________________________x__________________________________ai_lab_stats_1________________answer.html\/edit",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            },
+            {
+                "id": "F060M6EL3GB",
+                "created": 1697006738,
+                "timestamp": 1697006738,
+                "name": "[Stats] 1강.pdf",
+                "title": "[Stats] 1강.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U05V87YA1CJ",
+                "user_team": "T05UGFFGL07",
+                "editable": false,
+                "size": 4024767,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F060M6EL3GB\/_stats__1_________.pdf?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F060M6EL3GB\/download\/_stats__1_________.pdf?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "media_display_type": "unknown",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F060M6EL3GB-20bd34f6c3\/_stats__1__________thumb_pdf.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_pdf_w": 1100,
+                "thumb_pdf_h": 619,
+                "permalink": "https:\/\/fcupstageai1.slack.com\/files\/U05V87YA1CJ\/F060M6EL3GB\/_stats__1_________.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/T05UGFFGL07-F060M6EL3GB-ea6e75dee8",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U05V87YA1CJ",
+        "type": "message",
+        "ts": "1697006742.031309",
+        "client_msg_id": "3e811ad5-65e3-4cb0-9f87-3fef37e0bc08",
+        "thread_ts": "1697006729.817609",
+        "parent_user_id": "U05V87YA1CJ"
+    },
+    {
+        "user": "U05V87YA1CJ",
+        "type": "message",
+        "ts": "1697006760.219959",
+        "client_msg_id": "53e227b9-5f5a-45b5-ad97-8c75e6569bd0",
+        "text": "강의에 사용한 <https:\/\/wikidocs.net\/book\/7982|참고 자료>입니다\n~빨리 더 써야 하는데~",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "f846e9978d52",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/6017264684624_f846e9978d52439c35d2_72.png",
+            "first_name": "dane",
+            "real_name": "dane ahn",
+            "display_name": "dane ahn",
+            "team": "T05UGFFGL07",
+            "name": "natasma13",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697006729.817609",
+        "parent_user_id": "U05V87YA1CJ",
+        "attachments": [
+            {
+                "from_url": "https:\/\/wikidocs.net\/book\/7982",
+                "service_icon": "https:\/\/wikidocs.net\/static\/img\/favicon.ico",
+                "thumb_url": "https:\/\/wikidocs.net\/images\/book\/KakaoTalk_Photo_2022-11-11-16-50-48.png",
+                "thumb_width": 100,
+                "thumb_height": 130,
+                "id": 1,
+                "original_url": "https:\/\/wikidocs.net\/book\/7982",
+                "fallback": "위키독스: Introduction to Basic Statistics in Python",
+                "text": "*5월 2일 현재 4챕터까지 업데이트 되었습니다. 5챕터는 제작 중이며 2023년 1분기 예정입니다. 데이터가 각광받는 시대가 오면서, 더 많은 곳에서 통계학이 사용되고 있…",
+                "title": "Introduction to Basic Statistics in Python",
+                "title_link": "https:\/\/wikidocs.net\/book\/7982",
+                "service_name": "위키독스"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "L\/7QL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "강의에 사용한 "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/wikidocs.net\/book\/7982",
+                                "text": "참고 자료"
+                            },
+                            {
+                                "type": "text",
+                                "text": "입니다\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "빨리 더 써야 하는데",
+                                "style": {
+                                    "strike": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U05V7H78DUM",
+                    "U05V379NETU"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

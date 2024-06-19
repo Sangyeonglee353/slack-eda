@@ -1,0 +1,85 @@
+[
+    {
+        "text": "금일 수업 시간에 진행한\n1.winequality\n2.nba\n실습 교안입니다 :)",
+        "files": [
+            {
+                "id": "F063Y4EMG0K",
+                "created": 1698918726,
+                "timestamp": 1698918726,
+                "name": "pandas-practice.ipynb",
+                "title": "pandas-practice.ipynb",
+                "mimetype": "application\/octet-stream",
+                "filetype": "binary",
+                "pretty_type": "Binary",
+                "user": "U060VSK7ELC",
+                "user_team": "T05UGFFGL07",
+                "editable": false,
+                "size": 131131,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F063Y4EMG0K\/pandas-practice.ipynb?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F063Y4EMG0K\/download\/pandas-practice.ipynb?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "media_display_type": "unknown",
+                "permalink": "https:\/\/fcupstageai1.slack.com\/files\/U060VSK7ELC\/F063Y4EMG0K\/pandas-practice.ipynb",
+                "permalink_public": "https:\/\/slack-files.com\/T05UGFFGL07-F063Y4EMG0K-10d77b4728",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U060VSK7ELC",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "V7PC+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "금일 수업 시간에 진행한\n1.winequality\n2.nba\n실습 교안입니다 :)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1698918755.463279",
+        "client_msg_id": "7f09f1f7-53c1-4a1b-941d-0d5a37168437",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U05V9N22ZUK",
+                    "U05VB9FA6MS",
+                    "U05UN6NTN8P",
+                    "U05V561TXUL",
+                    "U05UNMQ4LP9",
+                    "U05UUUNAE5D",
+                    "U05V379NETU",
+                    "U060TBSJ7DF",
+                    "U060LG0BT89",
+                    "U05UW74NJ0N"
+                ],
+                "count": 10
+            },
+            {
+                "name": "smiling_face_with_3_hearts",
+                "users": [
+                    "U0600GGHJTC",
+                    "U05V379NETU"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

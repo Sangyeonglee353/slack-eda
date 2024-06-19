@@ -1,0 +1,141 @@
+[
+    {
+        "user": "U05V9N22ZUK",
+        "type": "message",
+        "ts": "1704358567.640969",
+        "client_msg_id": "7870db29-4e2e-4c91-b203-b21c352719d8",
+        "text": "*나머지 (모듈러) 연산 분배 법칙 증명*\n\n<https:\/\/velog.io\/@sw801733\/%EB%82%98%EB%A8%B8%EC%A7%80-%EC%97%B0%EC%82%B0-%EB%B6%84%EB%B0%B0%EB%B2%95%EC%B9%99-%EB%AA%A8%EB%93%88%EB%9F%AC-%EC%97%B0%EC%82%B0|https:\/\/velog.io\/@sw801733\/%EB%82%98%EB%A8%B8%EC%A7%80-%EC%97%B0%EC%82%B0-%EB%B6%[…]EB%B2%95%EC%B9%99-%EB%AA%A8%EB%93%88%EB%9F%AC-%EC%97%B0%EC%82%B0>",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "0698995c863f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5998310079844_0698995c863fed7643f0_72.png",
+            "first_name": "TaeHan",
+            "real_name": "TaeHan Kim",
+            "display_name": "김태한",
+            "team": "T05UGFFGL07",
+            "name": "kthnineone",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NGBhS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "나머지 (모듈러) 연산 분배 법칙 증명",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/velog.io\/@sw801733\/%EB%82%98%EB%A8%B8%EC%A7%80-%EC%97%B0%EC%82%B0-%EB%B6%84%EB%B0%B0%EB%B2%95%EC%B9%99-%EB%AA%A8%EB%93%88%EB%9F%AC-%EC%97%B0%EC%82%B0",
+                                "text": "https:\/\/velog.io\/@sw801733\/%EB%82%98%EB%A8%B8%EC%A7%80-%EC%97%B0%EC%82%B0-%EB%B6%[…]EB%B2%95%EC%B9%99-%EB%AA%A8%EB%93%88%EB%9F%AC-%EC%97%B0%EC%82%B0"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U05V1KVNK0E",
+                    "U05V7H78DUM",
+                    "U05UWVA90H4"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "user": "U06CWJMJFPA",
+        "type": "message",
+        "ts": "1704362311.131429",
+        "client_msg_id": "35fa744a-26e3-4375-a16c-c1bda716fc2d",
+        "text": "[ANSWER] 노트북 동일 드라이브에 올려드렸습니다. 한번 확인해보시면 좋을 것 같습니다. <!channel>",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "2463f473aa1f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-02\/6401313352503_2463f473aa1f457d385d_72.png",
+            "first_name": "Dave",
+            "real_name": "Dave Lee",
+            "display_name": "Dave Lee",
+            "team": "T05UGFFGL07",
+            "name": "jhleeroot",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YjUIZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "[ANSWER] 노트북 동일 드라이브에 올려드렸습니다. 한번 확인해보시면 좋을 것 같습니다. "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U05V7H78DUM",
+                    "U05UNMQ4LP9",
+                    "U05V9LP47V0",
+                    "U05UWVA90H4",
+                    "U05V379NETU",
+                    "U05V2HL22M9"
+                ],
+                "count": 6
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U05V9N22ZUK",
+                    "U05V7H78DUM",
+                    "U05UN6NTN8P",
+                    "U05UWVA90H4",
+                    "U060D1KJECR"
+                ],
+                "count": 5
+            },
+            {
+                "name": "대답",
+                "users": [
+                    "U05V5B27DK7",
+                    "U05V2T62KUJ",
+                    "U05UWVA90H4",
+                    "U05V2HL22M9",
+                    "U05UVE9DFSB"
+                ],
+                "count": 5
+            }
+        ]
+    }
+]

@@ -1,0 +1,188 @@
+[
+    {
+        "user": "U05UWVA90H4",
+        "type": "message",
+        "ts": "1706776222.769989",
+        "edited": {
+            "user": "U05UWVA90H4",
+            "ts": "1706776369.000000"
+        },
+        "client_msg_id": "d0ef7109-adde-43db-9a1c-26c3277f05a8",
+        "text": "오.. 말씀주시고 좀 더 공부해보니 이해되었는데요.\n\n그렇다면 이렇게 진행이 되는걸까요?\n\n1. CNN을 통해서 나온 feature map에 대해서 3x3 conv로 sliding을 하는 동시에 9개의 anchor box를 만든다.\n2. 그렇게 만들어진 anchor box를 다시 원본이미지에 투사해서 라벨링 데이터를 만든다.(객체가 있는지, 객체의바운딩박스와 얼마만큼 차이가 있는지)\n3. 라벨링 데이터 기반으로 RPN은 anchor box 중에서 가장 실제 ground truth와 유사한 box를 제안해서 넘긴다.\n\n설명 보면 라벨링도 있고 해서 원본에서 박스를 만들고 피쳐맵 통해서 박스를 resizing하나 했는데 정반대 프로세스였네요..",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "e039a582c034",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5983012631430_e039a582c03450d83dc6_72.png",
+            "first_name": "이준형",
+            "real_name": "이준형",
+            "display_name": "이준형",
+            "team": "T05UGFFGL07",
+            "name": "hewberryd8",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1706768252.176969",
+        "parent_user_id": "U05UWVA90H4",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sBNMp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "오.. 말씀주시고 좀 더 공부해보니 이해되었는데요.\n\n그렇다면 이렇게 진행이 되는걸까요?\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "CNN을 통해서 나온 feature map에 대해서 3x3 conv로 sliding을 하는 동시에 9개의 anchor box를 만든다."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "그렇게 만들어진 anchor box를 다시 원본이미지에 투사해서 라벨링 데이터를 만든다.(객체가 있는지, 객체의바운딩박스와 얼마만큼 차이가 있는지)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "라벨링 데이터 기반으로 RPN은 anchor box 중에서 가장 실제 ground truth와 유사한 box를 제안해서 넘긴다."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n\n설명 보면 라벨링도 있고 해서 원본에서 박스를 만들고 피쳐맵 통해서 박스를 resizing하나 했는데 정반대 프로세스였네요.."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06FFSA059B",
+        "type": "message",
+        "ts": "1706778644.128149",
+        "client_msg_id": "9facec68-c876-4722-a8cb-42f7a0ad3c84",
+        "text": "넵 맞습니다 RPN 네트워크를 통해서 앵커 박스마다 object 존재 유무와 box regressor 결과에 따라서 최적의 RoI만을 반환하게 됩니다. (둘 다 feature map 상에서 정의되는 것임)\n그 후 Faster R-CNN의 RoI Pooling 단에서 모든 anchor box들과 RPN 네트워크의 결과를 입력으로 받아 최종적으로 사용할 region proposal들을 추출하게 됩니다!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "5fcbb3a9dd8b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-25\/6541455753969_5fcbb3a9dd8b24fd9a37_72.jpg",
+            "first_name": "강인하",
+            "real_name": "강인하",
+            "display_name": "강인하 멘토",
+            "team": "T05UGFFGL07",
+            "name": "rkswlsj97",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1706768252.176969",
+        "parent_user_id": "U05UWVA90H4",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rzeBb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "넵 맞습니다 RPN 네트워크를 통해서 앵커 박스마다 object 존재 유무와 box regressor 결과에 따라서 최적의 RoI만을 반환하게 됩니다. (둘 다 feature map 상에서 정의되는 것임)\n그 후 Faster R-CNN의 RoI Pooling 단에서 모든 anchor box들과 RPN 네트워크의 결과를 입력으로 받아 최종적으로 사용할 region proposal들을 추출하게 됩니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "bow",
+                "users": [
+                    "U05UWVA90H4"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05UWVA90H4",
+        "type": "message",
+        "ts": "1706778696.153819",
+        "client_msg_id": "2c28b606-5a52-4278-b1ec-ae64ae4c8748",
+        "text": "오 해결되었습니다 감사합니다~!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "e039a582c034",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5983012631430_e039a582c03450d83dc6_72.png",
+            "first_name": "이준형",
+            "real_name": "이준형",
+            "display_name": "이준형",
+            "team": "T05UGFFGL07",
+            "name": "hewberryd8",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1706768252.176969",
+        "parent_user_id": "U05UWVA90H4",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zs2E\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "오 해결되었습니다 감사합니다~!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U06FFSA059B"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

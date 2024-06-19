@@ -1,0 +1,121 @@
+[
+    {
+        "text": "<!channel>\n안녕하세요, 여러분! 내일 오후 5시부터 머신러닝 실시간 강의가 진행됩니다 :slightly_smiling_face:\n특별히 요청주신 사항이 없어서, 제가 직접.. 내일 QnA를 진행하면서 해당 강의자료를 부분부분 진행할 예정입니다.\n이후 강의가 어떻게 진행될지는 내일 같이 논의해보도록 하겠습니다.\n\n내일 오후 5시에 뵙겠습니다!\n\n++ 해당 강의자료는 제가 아이패드로 필기를 하면서 진행하니, 아이패드가 없으신 분들은 미리 프린트해오시면 감사하겠습니다!",
+        "files": [
+            {
+                "id": "F06735TBS3A",
+                "created": 1700396697,
+                "timestamp": 1700396697,
+                "name": "[UPSTAGE AI LAB-01]Machine Learning Workflow.pdf",
+                "title": "[UPSTAGE AI LAB-01]Machine Learning Workflow.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U065TBUL5EE",
+                "user_team": "T05UGFFGL07",
+                "editable": false,
+                "size": 12588239,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F06735TBS3A\/_upstage_ai_lab-01_machine_learning_workflow.pdf?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F06735TBS3A\/download\/_upstage_ai_lab-01_machine_learning_workflow.pdf?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "media_display_type": "unknown",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06735TBS3A-c6ff929067\/_upstage_ai_lab-01_machine_learning_workflow_thumb_pdf.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_pdf_w": 2933,
+                "thumb_pdf_h": 1650,
+                "permalink": "https:\/\/fcupstageai1.slack.com\/files\/U065TBUL5EE\/F06735TBS3A\/_upstage_ai_lab-01_machine_learning_workflow.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/T05UGFFGL07-F06735TBS3A-4a4e4cce05",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U065TBUL5EE",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CVvxP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n안녕하세요, 여러분! 내일 오후 5시부터 머신러닝 실시간 강의가 진행됩니다 "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n특별히 요청주신 사항이 없어서, 제가 직접.. 내일 QnA를 진행하면서 해당 강의자료를 부분부분 진행할 예정입니다.\n이후 강의가 어떻게 진행될지는 내일 같이 논의해보도록 하겠습니다.\n\n내일 오후 5시에 뵙겠습니다!\n\n++ 해당 강의자료는 제가 아이패드로 필기를 하면서 진행하니, 아이패드가 없으신 분들은 미리 프린트해오시면 감사하겠습니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1700396771.829219",
+        "client_msg_id": "3b6695df-6360-4890-a45a-aff03a4d8d71",
+        "reactions": [
+            {
+                "name": "대답",
+                "users": [
+                    "U05V379NETU",
+                    "U05V4KZR3NW",
+                    "U060D1KJECR",
+                    "U0606QGQYE5",
+                    "U060TBSJ7DF",
+                    "U060BLVQYHW",
+                    "U05V2HL22M9"
+                ],
+                "count": 7
+            },
+            {
+                "name": "ne",
+                "users": [
+                    "U05V5B27DK7"
+                ],
+                "count": 1
+            },
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U05UNMQ4LP9",
+                    "U05UWAPP5CN",
+                    "U0600GGHJTC"
+                ],
+                "count": 3
+            },
+            {
+                "name": "meow_noddies",
+                "users": [
+                    "U05V2PMAVNE",
+                    "U05V0106JDT"
+                ],
+                "count": 2
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U05VAHXECP6"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,761 @@
+[
+    {
+        "user": "U05VADPQPCL",
+        "type": "message",
+        "ts": "1702370383.873599",
+        "edited": {
+            "user": "U05VADPQPCL",
+            "ts": "1702608176.000000"
+        },
+        "client_msg_id": "ebe3b475-f467-4856-a51f-95a9f9911e5f",
+        "text": "<!channel> 안녕하세요 수강생 여러분!\nML 프로젝트 발표회 일정 변경에 대해 공지 드리겠습니다.\n*기존 발표회 일정은 차주 12월 18일 예정이었으나 강사님 출강 일정이 조정됨에 따라 12월 15일 14시로 변경되었습니다.* 이번 주 ML 프로젝트를 마치고, 가벼운 마음으로 차주를 시작하실 수 있게 되었어요. :muscle:\n\n이미 대회가 끝나 프로젝트 마무리하고 계신 분들도 있으시고, 계속 좋은 결과를 위해 달려가시는 분들도 계실겁니다!\n마지막까지 화이팅 하시고 좋은 결과 있으시면 좋겠습니다!!\n\n> *ML 프로젝트 발표회 일정 변경 안내 공지*\n• (기존) 프로젝트 발표회 일정 : 12\/18(월) 14시~19시\n• (변경) 프로젝트 발표회 일정 : 12\/15(금) 14시~19시\n• 결과물 제출 : 12\/14(목) 23시 59분까지\n    ◦ 결과물 : 개인 코드 자료(.ipynb), 팀 별 발표자료(.ppt)\n    ◦ <https:\/\/drive.google.com\/drive\/folders\/1SyeHo6BgpOJedebx7Uj8jJbJR-ason35?usp=sharing|결과물 제출 드라이브 바로가기>\n> *ML 프로젝트 발표회*\n• 발표 순서 : 4 - 7 - 8 - 3 - 5 - 6 - 2 - 1 - 10 - 9\n• 발표 시간 : 각 팀 당 최대 20분\n    ◦ *발표 시간은 강사님의 피드백 시간까지 포함된 시간이며 시간 잘 지켜주시길 바랍니다.*\n• 시상\n    ◦ 우수 발표 조는 추가 인터뷰 및 기프티콘 제공 예정\n• *개인 프로젝트 참여자 중 발표를 희망하시는 분은 스레드 및 DM 등으로 연락 남겨주시면 반영해드리겠습니다*\n> *스터디 공유의 날 (취소)*\n• ~(기존) 12\/15(금) 14:00~15:00~\n• 다들 ML 프로젝트를 진행하시느라 참여율이 매우 저조하여 금번 스터디 공유의 날은 진행하지 않도록 하겠습니다.\n> *시간표 변경*\nML 프로젝트 발표회에 더 집중하실 수 있게, 해당 시간표도 ML 프로젝트로 변경되었으니 참고하시기 바랍니다.\n• 12\/15(금) 10:00~13:00\n    ◦ (기존) Deep Learning\n    ◦ (변경) ML 프로젝트",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "07e7ca00b8f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5991092857253_07e7ca00b8f0d0b13ba1_72.png",
+            "first_name": "패스트캠퍼스박기준",
+            "real_name": "패스트캠퍼스박기준",
+            "display_name": "LM 박기준",
+            "team": "T05UGFFGL07",
+            "name": "pgj.fc.career",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Dk7GQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 안녕하세요 수강생 여러분!\nML 프로젝트 발표회 일정 변경에 대해 공지 드리겠습니다.\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "기존 발표회 일정은 차주 12월 18일 예정이었으나 강사님 출강 일정이 조정됨에 따라 12월 15일 14시로 변경되었습니다. ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "이번 주 ML 프로젝트를 마치고, 가벼운 마음으로 차주를 시작하실 수 있게 되었어요. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "muscle",
+                                "unicode": "1f4aa"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n이미 대회가 끝나 프로젝트 마무리하고 계신 분들도 있으시고, 계속 좋은 결과를 위해 달려가시는 분들도 계실겁니다!\n마지막까지 화이팅 하시고 좋은 결과 있으시면 좋겠습니다!!\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ML 프로젝트 발표회 일정 변경 안내 공지",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "(기존) 프로젝트 발표회 일정 : 12\/18(월) 14시~19시"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "(변경) 프로젝트 발표회 일정 : 12\/15(금) 14시~19시"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "결과물 제출 : 12\/14(목) 23시 59분까지"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "결과물 : 개인 코드 자료(.ipynb), 팀 별 발표자료(.ppt)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/drive.google.com\/drive\/folders\/1SyeHo6BgpOJedebx7Uj8jJbJR-ason35?usp=sharing",
+                                        "text": "결과물 제출 드라이브 바로가기"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ML 프로젝트 발표회",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "발표 순서 : 4 - 7 - 8 - 3 - 5 - 6 - 2 - 1 - 10 - 9"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "발표 시간 : 각 팀 당 최대 20분"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "발표 시간은 강사님의 피드백 시간까지 포함된 시간이며 시간 잘 지켜주시길 바랍니다.",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "시상"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "우수 발표 조는 추가 인터뷰 및 기프티콘 제공 예정"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "개인 프로젝트 참여자 중 발표를 희망하시는 분은 스레드 및 DM 등으로 연락 남겨주시면 반영해드리겠습니다",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "스터디 공유의 날 (취소)",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "(기존) 12\/15(금) 14:00~15:00",
+                                        "style": {
+                                            "strike": true
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "다들 ML 프로젝트를 진행하시느라 참여율이 매우 저조하여 금번 스터디 공유의 날은 진행하지 않도록 하겠습니다."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "시간표 변경",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ML 프로젝트 발표회에 더 집중하실 수 있게, 해당 시간표도 ML 프로젝트로 변경되었으니 참고하시기 바랍니다.\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "12\/15(금) 10:00~13:00"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "(기존) Deep Learning"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "(변경) ML 프로젝트"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U065TBUL5EE",
+                    "U05V7H78DUM",
+                    "U05V9N22ZUK",
+                    "U05V5B27DK7",
+                    "U05V2T62KUJ",
+                    "U060TBSJ7DF"
+                ],
+                "count": 6
+            },
+            {
+                "name": "fire",
+                "users": [
+                    "U065TBUL5EE",
+                    "U05V7H78DUM"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U05VADPQPCL",
+        "type": "message",
+        "ts": "1702437984.466769",
+        "edited": {
+            "user": "U05VADPQPCL",
+            "ts": "1702440033.000000"
+        },
+        "client_msg_id": "330e734e-2448-4861-9802-90a854486663",
+        "text": "*개인 프로젝트 참여자 제출물 안내*\n*개인 프로젝트 참여자분들 중 발표를 진행하지 않으시는 분들은 프로젝트 서면 평가를 위해 Notion, Blog, PPT 등 다양한 형식으로 프로젝트 보고서 제출 부탁 드립니다.*\n\n• 개인 프로젝트 참여자 제출물 : 코드 파일(.ipynb), 보고서(.pptx , blog, notion 등)\n• *<https:\/\/forms.gle\/NSCEku2Skqr6BCCv6|개인 프로젝트 참여자 결과물 제출 구글 폼 바로가기>*\n• <@U05UWAPP5CN> <@U05V7V2AV8A> <@U0600BP2J9H> <@U05UW74NJ0N> <@U060TBSJ7DF> <@U05V2PMAVNE> <@U05UZPKCGBZ> <@U05UUUNAE5D> <@U05V2P37518> <@U061N4T7L8G> <@U0600C60ZK4>\n> *보고서 포함 내용(예시)*\n• 주제 개요\n• 프로젝트 내용\n    ◦ 데이터 셋 소개\n    ◦ 전처리 과정\n    ◦ 모델링 과정\n    ◦ 결과물 사진 必\n• 느낀점\n\n*위 사항은 개인 프로젝트 참여자에 대한 공지이며 팀 프로젝트의 경우 <https:\/\/drive.google.com\/drive\/folders\/1SyeHo6BgpOJedebx7Uj8jJbJR-ason35?usp=sharing|프로젝트 결과물 제출 공유 드라이브>에 팀 별 폴더 생성 후 제출 부탁 드립니다.*",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "07e7ca00b8f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5991092857253_07e7ca00b8f0d0b13ba1_72.png",
+            "first_name": "패스트캠퍼스박기준",
+            "real_name": "패스트캠퍼스박기준",
+            "display_name": "LM 박기준",
+            "team": "T05UGFFGL07",
+            "name": "pgj.fc.career",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zvK8s",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "개인 프로젝트 참여자 제출물 안내",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "개인 프로젝트 참여자분들 중 발표를 진행하지 않으시는 분들은 프로젝트 서면 평가를 위해 Notion, Blog, PPT 등 다양한 형식으로 프로젝트 보고서 제출 부탁 드립니다.",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "개인 프로젝트 참여자 제출물 : 코드 파일(.ipynb), 보고서(.pptx , blog, notion 등)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/forms.gle\/NSCEku2Skqr6BCCv6",
+                                        "text": "개인 프로젝트 참여자 결과물 제출 구글 폼 바로가기",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "user",
+                                        "user_id": "U05UWAPP5CN"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U05V7V2AV8A"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U0600BP2J9H"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U05UW74NJ0N"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U060TBSJ7DF"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U05V2PMAVNE"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U05UZPKCGBZ"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U05UUUNAE5D"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U05V2P37518"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U061N4T7L8G"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U0600C60ZK4"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "보고서 포함 내용(예시)",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "주제 개요"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "프로젝트 내용"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "데이터 셋 소개"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "전처리 과정"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "모델링 과정"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "결과물 사진 必"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "느낀점"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "위 사항은 개인 프로젝트 참여자에 대한 공지이며 팀 프로젝트의 경우 ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/drive.google.com\/drive\/folders\/1SyeHo6BgpOJedebx7Uj8jJbJR-ason35?usp=sharing",
+                                "text": "프로젝트 결과물 제출 공유 드라이브",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "에 팀 별 폴더 생성 후 제출 부탁 드립니다.",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "대답",
+                "users": [
+                    "U060TBSJ7DF",
+                    "U065TBUL5EE",
+                    "U05V2PMAVNE",
+                    "U05V5B27DK7",
+                    "U05UW74NJ0N"
+                ],
+                "count": 5
+            },
+            {
+                "name": "meow_noddies",
+                "users": [
+                    "U05UT0JG4BZ",
+                    "U05UUUNAE5D"
+                ],
+                "count": 2
+            },
+            {
+                "name": "fire",
+                "users": [
+                    "U065TBUL5EE"
+                ],
+                "count": 1
+            },
+            {
+                "name": "muscle",
+                "users": [
+                    "U05VAHXECP6"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

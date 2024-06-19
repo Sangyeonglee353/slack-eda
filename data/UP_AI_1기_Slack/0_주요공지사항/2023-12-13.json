@@ -1,0 +1,184 @@
+[
+    {
+        "user": "U05VAHXECP6",
+        "type": "message",
+        "ts": "1702457542.399619",
+        "client_msg_id": "6fac18cd-e9d4-417a-ae92-51ca247d1ca9",
+        "text": "<!channel>\n안녕하세요. Upstage AI Lab 수강생 여러분~!\n차주 업스테이지 강의 수강을 위해 `[업스테이지] AI 기초 학습 : 딥러닝` 입과가 진행 되었는데요.\n정상적으로 로그인 및 입과가 되셨는지 확인 후 :white_check_mark: 이모지 남겨주시기 바랍니다.\n\n&gt; *[업스테이지] AI 기초 학습: 딥러닝 입과 확인 요청*\n• (기존) 온라인 강의장\n• 확인 기한: 12\/14(목) 오전 11시까지 남겨주시기 바래요.\n    ◦ 오류가 있으신 분은 빠르게 말씀해주셔야 해결해드릴 수 있습니다.\n• 온라인 강의 수강 안내는 금주 중으로 업데이트 하여 추후 공지 드리겠습니다.\n감사합니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "50abee101814",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-11\/6044824153712_50abee1018149e21919b_72.jpg",
+            "first_name": "이상영",
+            "real_name": "이상영",
+            "display_name": "FC 이상영 매니저",
+            "team": "T05UGFFGL07",
+            "name": "sangyeong.lee",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "P+0Fu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n안녕하세요. Upstage AI Lab 수강생 여러분~!\n차주 업스테이지 강의 수강을 위해 "
+                            },
+                            {
+                                "type": "text",
+                                "text": "[업스테이지] AI 기초 학습 : 딥러닝",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " 입과가 진행 되었는데요.\n정상적으로 로그인 및 입과가 되셨는지 확인 후 "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "white_check_mark",
+                                "unicode": "2705"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 이모지 남겨주시기 바랍니다.\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "[업스테이지] AI 기초 학습: 딥러닝 입과 확인 요청",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "(기존) 온라인 강의장"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "확인 기한: 12\/14(목) 오전 11시까지 남겨주시기 바래요."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "오류가 있으신 분은 빠르게 말씀해주셔야 해결해드릴 수 있습니다."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "온라인 강의 수강 안내는 금주 중으로 업데이트 하여 추후 공지 드리겠습니다."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n감사합니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U05VAHXECP6",
+                    "U05UW1S4KQE",
+                    "U05UUUNAE5D",
+                    "U05UN5DQ423",
+                    "U05UN6NTN8P",
+                    "U05V2T62KUJ",
+                    "U05V9N22ZUK",
+                    "U0606QGQYE5",
+                    "U05V9LP47V0",
+                    "U060JMX5FK2",
+                    "U05V5H1T24V",
+                    "U06022Z2TED",
+                    "U060J3NGX08",
+                    "U060D1KJECR",
+                    "U05V5B88ULD",
+                    "U0600BP2J9H",
+                    "U05UNMQ4LP9",
+                    "U065TBUL5EE",
+                    "U0600GGHJTC",
+                    "U05V1KVNK0E",
+                    "U05VCCSHKHR",
+                    "U05V2PMAVNE",
+                    "U05V5B27DK7",
+                    "U061N4T7L8G",
+                    "U05V561TXUL",
+                    "U060H4V0Q5S",
+                    "U060BLVQYHW",
+                    "U05V2HL22M9",
+                    "U05UZLEM04V",
+                    "U05V2P37518",
+                    "U05V4KZR3NW"
+                ],
+                "count": 31
+            }
+        ]
+    }
+]

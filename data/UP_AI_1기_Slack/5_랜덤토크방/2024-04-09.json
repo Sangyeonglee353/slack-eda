@@ -1,0 +1,143 @@
+[
+    {
+        "user": "U065TBUL5EE",
+        "type": "message",
+        "ts": "1712658168.645689",
+        "client_msg_id": "1F9B90B3-FDF1-4D0A-8936-E8A693C89997",
+        "text": "효범님 멋지십니다!! 역시 최고 :raised_hands: :raised_hands: ",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "34f110a5edc4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-11-14\/6197301711475_34f110a5edc435398e63_72.png",
+            "first_name": "김용담",
+            "real_name": "김용담",
+            "display_name": "김용담 강사",
+            "team": "T05UGFFGL07",
+            "name": "codingiscoffee",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712634455.309089",
+        "parent_user_id": "U05VBQMH3D3",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rE\/NL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "효범님"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "멋지십니다"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!! "
+                            },
+                            {
+                                "type": "text",
+                                "text": "역시"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "최고"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "raised_hands",
+                                "unicode": "1f64c"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "raised_hands",
+                                "unicode": "1f64c"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05VBQMH3D3",
+        "type": "message",
+        "ts": "1712660790.831139",
+        "client_msg_id": "44a06931-adeb-419f-b329-c3b7b59e6597",
+        "text": "감사합니다 다 강사님 멘토링 덕분입니다!!:smile_cat:",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "16da4e28d6c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/6003210685524_16da4e28d6c4ea33bae5_72.png",
+            "first_name": "HB",
+            "real_name": "HB",
+            "display_name": "엄효범",
+            "team": "T05UGFFGL07",
+            "name": "swema86",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712634455.309089",
+        "parent_user_id": "U05VBQMH3D3",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CPU0n",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "감사합니다 다 강사님 멘토링 덕분입니다!!"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile_cat",
+                                "unicode": "1f638"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U065TBUL5EE",
+                    "U0600GGHJTC"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

@@ -1,0 +1,318 @@
+[
+    {
+        "user": "U05VADPQPCL",
+        "type": "message",
+        "ts": "1702516149.622019",
+        "client_msg_id": "70a3b8c1-9367-4e3f-ae8c-e05ecc4450ad",
+        "text": "*<!channel> 3차 아이데이션 작성 및 프로젝트 제출물 공지*\n\n&gt; *3차 아이데이션 작성*\n금일 팀 별 각 노션 페이지에 있는 2차 아이데이션 작성일 입니다!\n*개인 참여자 분들도 필수*로 꼭 작성 부탁 드리며 *금일 18시*까지 작성 부탁 드리겠습니다.\n• *각 팀 별 노션 페이지 2차 아이데이션 작성*\n• *기한 : 12\/15 ~12시*\n&gt;  *팀 프로젝트 참여자*\n• *<https:\/\/drive.google.com\/drive\/folders\/1SyeHo6BgpOJedebx7Uj8jJbJR-ason35?usp=sharing|프로젝트 결과물 제출 공유 드라이브 바로가기>*\n    ◦ 각 조 별로 폴더 생성 (예. 1조) - 생성 폴더에 발표 자료 업로드 및 개인 폴더 생성 후 개인 자료 업로드\n    ◦ *제출 기한 : ~12월 14일 23시 59분*\n    ◦ 제출 물 : 개인 코드 파일(.ipynb), 팀 발표자료(.ppt)\n    ◦ *참여 대회에서 수상하셨다면 리더보드 스크린샷도 업로드 부탁 드립니다.*\n&gt; *개인 프로젝트 참여자*\n• 개인 프로젝트 참여자 제출물 : 코드 파일(.ipynb), 보고서(.pptx , blog, notion 등)\n• *<https:\/\/forms.gle\/NSCEku2Skqr6BCCv6|개인 프로젝트 참여자 결과물 제출 구글 폼 바로가기>*\n    ◦ *제출 기한 : ~12월 14일 23시 59분*\n    ◦ *참여 대회에서 수상하셨다면 리더보드 스크린샷도 업로드 부탁 드립니다.*\n",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "07e7ca00b8f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5991092857253_07e7ca00b8f0d0b13ba1_72.png",
+            "first_name": "패스트캠퍼스박기준",
+            "real_name": "패스트캠퍼스박기준",
+            "display_name": "LM 박기준",
+            "team": "T05UGFFGL07",
+            "name": "pgj.fc.career",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MkW1u",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " 3차 아이데이션 작성 및 프로젝트 제출물 공지",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "3차 아이데이션 작성",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "금일 팀 별 각 노션 페이지에 있는 2차 아이데이션 작성일 입니다!\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "개인 참여자 분들도 필수",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "로 꼭 작성 부탁 드리며"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 금일 18시",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "까지 작성 부탁 드리겠습니다.\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "각 팀 별 노션 페이지 2차 아이데이션 작성",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "기한 : 12\/15 ~12시",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": " 팀 프로젝트 참여자",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/drive.google.com\/drive\/folders\/1SyeHo6BgpOJedebx7Uj8jJbJR-ason35?usp=sharing",
+                                        "text": "프로젝트 결과물 제출 공유 드라이브 바로가기",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "각 조 별로 폴더 생성 (예. 1조) - 생성 폴더에 발표 자료 업로드 및 개인 폴더 생성 후 개인 자료 업로드"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "제출 기한 : ~12월 14일 23시 59분",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "제출 물 : 개인 코드 파일(.ipynb), 팀 발표자료(.ppt)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "참여 대회에서 수상하셨다면 리더보드 스크린샷도 업로드 부탁 드립니다.",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "개인 프로젝트 참여자",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "개인 프로젝트 참여자 제출물 : 코드 파일(.ipynb), 보고서(.pptx , blog, notion 등)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/forms.gle\/NSCEku2Skqr6BCCv6",
+                                        "text": "개인 프로젝트 참여자 결과물 제출 구글 폼 바로가기",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "제출 기한 : ~12월 14일 23시 59분",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "참여 대회에서 수상하셨다면 리더보드 스크린샷도 업로드 부탁 드립니다.",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U065TBUL5EE",
+                    "U05V7H78DUM"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

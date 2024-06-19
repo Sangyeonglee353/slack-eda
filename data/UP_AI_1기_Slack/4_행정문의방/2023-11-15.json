@@ -1,0 +1,63 @@
+[
+    {
+        "user": "U060TBSJ7DF",
+        "type": "message",
+        "ts": "1700113944.862059",
+        "client_msg_id": "27d1117f-0f5f-404e-9cea-a9ea6961bc19",
+        "text": "<@U05UNC6FNK1> <@U05V81G5ZDY> 안녕하세요 매니저님!\n11월 14일 - 11월 15일 전시발표회참가로 인한 결석 처리 관련해서 구글폼 제출 완료하였습니다. 확인 부탁드리겠습니다!\n\n추가적으로 제출해야 할 서류나 수정사항이 필요하면 말씀주세요! 감사합니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "c265f80d1cf6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-10\/6000233533575_c265f80d1cf6a20e4d32_72.jpg",
+            "first_name": "조성운",
+            "real_name": "조성운",
+            "display_name": "",
+            "team": "T05UGFFGL07",
+            "name": "jodory9524",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1699871614.576999",
+        "parent_user_id": "U060TBSJ7DF",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Mryjo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05UNC6FNK1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05V81G5ZDY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 안녕하세요 매니저님!\n11월 14일 - 11월 15일 전시발표회참가로 인한 결석 처리 관련해서 구글폼 제출 완료하였습니다. 확인 부탁드리겠습니다!\n\n추가적으로 제출해야 할 서류나 수정사항이 필요하면 말씀주세요! 감사합니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "U05V81G5ZDY"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

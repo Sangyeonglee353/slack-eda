@@ -1,0 +1,167 @@
+[
+    {
+        "text": "<@U0608EG7YEA>\n\n기존 학습용 노트북 메인보드가 고장이 나서 신규 노트북으로 사용하려고 합니다.\n새서버를 생성하고 싶은데, 서버 최대 생성 개수를 초과하였습니다. 라는 팝업창이 나옵니다.\n기존 서버를 삭제하려고 하여도 서버 목록이 존재하지 않습니다.\n어떻게 조치를 해야되는지요?\n\n사용자 : 문정의\nemail : <mailto:axa301@gmail.com|axa301@gmail.com> (편집됨)",
+        "files": [
+            {
+                "id": "F06JPTHBM7V",
+                "created": 1707891615,
+                "timestamp": 1707891615,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U05V9LP47V0",
+                "user_team": "T05UGFFGL07",
+                "editable": false,
+                "size": 31071,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F06JPTHBM7V\/image.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F06JPTHBM7V\/download\/image.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06JPTHBM7V-7b314eb2e9\/image_64.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06JPTHBM7V-7b314eb2e9\/image_80.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06JPTHBM7V-7b314eb2e9\/image_360.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_360_w": 360,
+                "thumb_360_h": 131,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06JPTHBM7V-7b314eb2e9\/image_480.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_480_w": 480,
+                "thumb_480_h": 174,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06JPTHBM7V-7b314eb2e9\/image_160.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06JPTHBM7V-7b314eb2e9\/image_720.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_720_w": 720,
+                "thumb_720_h": 261,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06JPTHBM7V-7b314eb2e9\/image_800.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_800_w": 800,
+                "thumb_800_h": 290,
+                "original_w": 865,
+                "original_h": 314,
+                "thumb_tiny": "AwARADDSzg0bhQRk0mPpQAuaM0mMf\/qoHP8A+qgB2aKSigBaKKKACiiigAooooA\/\/9k=",
+                "permalink": "https:\/\/fcupstageai1.slack.com\/files\/U05V9LP47V0\/F06JPTHBM7V\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T05UGFFGL07-F06JPTHBM7V-2d937bf4d7",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U05V9LP47V0",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oVCiy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0608EG7YEA"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n기존 학습용 노트북 메인보드가 고장이 나서 신규 노트북으로 사용하려고 합니다.\n새서버를 생성하고 싶은데, 서버 최대 생성 개수를 초과하였습니다. 라는 팝업창이 나옵니다.\n기존 서버를 삭제하려고 하여도 서버 목록이 존재하지 않습니다.\n어떻게 조치를 해야되는지요?\n\n사용자 : 문정의\nemail : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:axa301@gmail.com",
+                                "text": "axa301@gmail.com"
+                            },
+                            {
+                                "type": "text",
+                                "text": " (편집됨)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1707891650.064789",
+        "client_msg_id": "6f10df2c-c017-4f61-a021-94e43fe64bda",
+        "thread_ts": "1707891650.064789",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1707891664.310889",
+        "reply_users": [
+            "U0608EG7YEA"
+        ],
+        "replies": [
+            {
+                "user": "U0608EG7YEA",
+                "ts": "1707891664.310889"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "user": "U0608EG7YEA",
+        "type": "message",
+        "ts": "1707891664.310889",
+        "client_msg_id": "183eeced-e281-4037-b794-562e4d1a1159",
+        "text": "안녕하세요 :slightly_smiling_face:\n요청주신 내용 아래 게시판에 글로 남겨주시면 담당자가 대응해주실 예정입니다. :pray:\n<https:\/\/next.stages.ai\/competitions\/284\/discussion\/378>",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "542e7e1dec67",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-12\/6028220315186_542e7e1dec6721784df9_72.png",
+            "first_name": "업스테이지",
+            "real_name": "업스테이지 크리스",
+            "display_name": "업스테이지 크리스",
+            "team": "T05UGFFGL07",
+            "name": "chris",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1707891650.064789",
+        "parent_user_id": "U05V9LP47V0",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3RO\/\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "안녕하세요 "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n요청주신 내용 아래 게시판에 글로 남겨주시면 담당자가 대응해주실 예정입니다. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/next.stages.ai\/competitions\/284\/discussion\/378"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

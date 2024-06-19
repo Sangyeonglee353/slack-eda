@@ -1,0 +1,105 @@
+[
+    {
+        "user": "U05UYAVRTSR",
+        "type": "message",
+        "ts": "1698372867.266219",
+        "client_msg_id": "552ee846-9963-4653-9699-72a7a3245de4",
+        "text": "<!here> 여러분 그거 아시나요? 슬랙에 원하는 이모지 추가할 수 있는거요 ㅎㅎ!\n\n재미있는 이모지를 추가하는 것도 좋지만, 추후에 스터디나 팀 프로젝트 진행 시에 팀원들과 원활한 소통을 위해 사용할 수도 있는데요.\n확인완료, 진행중 등 진행 상황을 표시할 수 있는 이모지를 생성하여 추가해두면 매우 유용할 것 같아서 한 번 쓱 안내드립니다 ~!\n&gt; &lt;https:\/\/emoji-gen.ninja\/ko\/result?text=%EC%95%88%EB%85%95&amp;color=A754FFFF&amp;back_color=00000000&amp;font=notosans-mono-bold&amp;size_fixed=false&amp;align=center&amp;stretch=true&amp;public_fg=false&amp;locale=ko\n&gt; |슬랙 이모티콘 생성 사이트&gt;\n그럼 :안녕: !",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "g6e6ee900c48",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e6ee900c48c19701d150f52a69af64a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "김수현",
+            "real_name": "김수현",
+            "display_name": "FC 김수현 매니저",
+            "team": "T05UGFFGL07",
+            "name": "suhyunkim",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ix3f9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 여러분 그거 아시나요? 슬랙에 원하는 이모지 추가할 수 있는거요 ㅎㅎ!\n\n재미있는 이모지를 추가하는 것도 좋지만, 추후에 스터디나 팀 프로젝트 진행 시에 팀원들과 원활한 소통을 위해 사용할 수도 있는데요.\n확인완료, 진행중 등 진행 상황을 표시할 수 있는 이모지를 생성하여 추가해두면 매우 유용할 것 같아서 한 번 쓱 안내드립니다 ~!\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/emoji-gen.ninja\/ko\/result?text=%EC%95%88%EB%85%95&color=A754FFFF&back_color=00000000&font=notosans-mono-bold&size_fixed=false&align=center&stretch=true&public_fg=false&locale=ko\n",
+                                "text": "슬랙 이모티콘 생성 사이트"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n그럼 "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "안녕"
+                            },
+                            {
+                                "type": "text",
+                                "text": " !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "안녕",
+                "users": [
+                    "U05UYAVRTSR",
+                    "U06061L4S64",
+                    "U05V379NETU",
+                    "U0600GGHJTC"
+                ],
+                "count": 4
+            },
+            {
+                "name": "50a65c177640f62b",
+                "users": [
+                    "U05UW1S4KQE",
+                    "U05V2HL22M9"
+                ],
+                "count": 2
+            },
+            {
+                "name": "party-blob",
+                "users": [
+                    "U06061L4S64"
+                ],
+                "count": 1
+            },
+            {
+                "name": "ne",
+                "users": [
+                    "U05V7H78DUM"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

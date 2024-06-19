@@ -1,0 +1,180 @@
+[
+    {
+        "user": "U0606HAGLTB",
+        "type": "message",
+        "ts": "1701178967.739239",
+        "client_msg_id": "54749378-6978-464e-a417-f2e67a5770e4",
+        "text": "참여하고 싶습니다",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "461e225fff0b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5991028764501_461e225fff0b7fa69542_72.png",
+            "first_name": "Hyeongsoo",
+            "real_name": "Hyeongsoo Kim",
+            "display_name": "김형수",
+            "team": "T05UGFFGL07",
+            "name": "oony97",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1701151077.500659",
+        "parent_user_id": "U05V4KZR3NW",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oruxt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "참여하고 싶습니다"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U05V4KZR3NW",
+                    "U05V561TXUL"
+                ],
+                "count": 2
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U05V561TXUL"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05V561TXUL",
+        "type": "message",
+        "ts": "1701180586.991639",
+        "client_msg_id": "1e4cf791-557d-4794-aa05-42416e77b3ea",
+        "text": "와 정말 재밌겠는데요??",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "b4604568d88f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-08\/6448187852305_b4604568d88f0ae3e9b1_72.png",
+            "first_name": "최장원",
+            "real_name": "최장원",
+            "display_name": "",
+            "team": "T05UGFFGL07",
+            "name": "cjw7378",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1701151077.500659",
+        "parent_user_id": "U05V4KZR3NW",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Xk\/r6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "와 정말 재밌겠는데요??"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U05V4KZR3NW"
+                ],
+                "count": 1
+            },
+            {
+                "name": "grinning",
+                "users": [
+                    "U05V561TXUL"
+                ],
+                "count": 1
+            },
+            {
+                "name": "eyes",
+                "users": [
+                    "U05V5B27DK7"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05V4KZR3NW",
+        "type": "message",
+        "ts": "1701180651.895489",
+        "edited": {
+            "user": "U05V4KZR3NW",
+            "ts": "1701181626.000000"
+        },
+        "client_msg_id": "184caf5f-8d82-4dc5-a754-49726e1db554",
+        "text": "오호 어서들 오세요!! 현재  저까지 세 명 입니다 :slightly_smiling_face:",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "8c77944bd304",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-20\/6082246066801_8c77944bd304e2d01432_72.jpg",
+            "first_name": "남영진",
+            "real_name": "남영진",
+            "display_name": "남영진",
+            "team": "T05UGFFGL07",
+            "name": "studyingnam",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1701151077.500659",
+        "parent_user_id": "U05V4KZR3NW",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MfSVH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "오호 어서들 오세요!! 현재  저까지 세 명 입니다 "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "grinning",
+                "users": [
+                    "U05V561TXUL"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

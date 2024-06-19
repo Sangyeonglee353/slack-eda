@@ -1,0 +1,773 @@
+[
+    {
+        "user": "U05V1KVNK0E",
+        "type": "message",
+        "ts": "1704936066.432369",
+        "client_msg_id": "f36f84c2-51ae-4503-808f-389c59f415bf",
+        "text": "<@U05UNC6FNK1> <@U05V81G5ZDY>\n\n안녕하세요 매니저님 요즘 제 hrd 어플 출석 반영이 잘 안되는 것 같습니다.  4,5,8,10,11 모두 정상적으로 qr 체크 및 스크린샷 찍었는데도 불구하고 결석 처리되어 있어 문의드립니다. 출결 정정 프로세스에 따라 정정 요청 하면 될까요?",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "fb5019db4a38",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5979783895559_fb5019db4a38b752a187_72.jpg",
+            "first_name": "명왕",
+            "real_name": "명왕 (명왕)",
+            "display_name": "이명진",
+            "team": "T05UGFFGL07",
+            "name": "jinlee1997",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1704936066.432369",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1704937599.671539",
+        "reply_users": [
+            "U05V81G5ZDY",
+            "U05V1KVNK0E"
+        ],
+        "replies": [
+            {
+                "user": "U05V81G5ZDY",
+                "ts": "1704936607.921769"
+            },
+            {
+                "user": "U05V1KVNK0E",
+                "ts": "1704937599.671539"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GcD4K",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05UNC6FNK1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05V81G5ZDY"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n안녕하세요 매니저님 요즘 제 hrd 어플 출석 반영이 잘 안되는 것 같습니다.  4,5,8,10,11 모두 정상적으로 qr 체크 및 스크린샷 찍었는데도 불구하고 결석 처리되어 있어 문의드립니다. 출결 정정 프로세스에 따라 정정 요청 하면 될까요?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "x",
+                "users": [
+                    "U05V81G5ZDY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05V81G5ZDY",
+        "type": "message",
+        "ts": "1704936607.921769",
+        "client_msg_id": "2517a4f4-dda3-45a5-8eda-e685fe18b5bb",
+        "text": "<@U05V1KVNK0E> 안녕하세요 행정 매니저입니다.\n\n아마 해당 건 급하게 QR체크하면서 체크가 안된 것으로 확인됩니다!\n1\/4 1\/5 1\/8 1\/10 일자 모두 퇴실 QR 미체크로 결석 된 것으로 보이며 입실과 퇴실 시 HRD-net(또는 모바일HRD)를 통해 체크된 시간이 나타나면 확인 된 것으로 시간이 나타나지 않으면 한번 더 시도 부탁드립니다!!\n\n1\/11일자는 입실 QR 체크 된 것으로 확인되며 퇴실 QR 체크 완료 하시면 출석으로 표기 됩니다!\n\n훈련 초기 익숙치 않은 QR체크로 정정을 도와 드렸으나 현재는 다음과 같은 상황은 수강생 본인 실수로 파악하여 정정 불가로 안내하고 있습니다.\n그래서 매번 매니저님들께서 스샷과 함께 QR체크 안내도 말씀 드리고 있습니다.\nQR체크 또한 꼭꼭 한번 더 확인 부탁드립니다.\n\n혹여나 특이사항이 발생하여 부득이하게 QR체크가 안된 상황을 <@U05VADPQPCL> 매니저님과 소통하여 확인받은 내용을 토대로 정정 프로세스 진행해주시면 정정 신청 올리겠습니다.\n\n감사합니다!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "db1aceeb0d90",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5994058472162_db1aceeb0d9030c57e69_72.jpg",
+            "first_name": "김현우",
+            "real_name": "김현우",
+            "display_name": "FC 김현우 매니저",
+            "team": "T05UGFFGL07",
+            "name": "hyunwoo.kim",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1704936066.432369",
+        "parent_user_id": "U05V1KVNK0E",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "V5JOn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05V1KVNK0E"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 안녕하세요 행정 매니저입니다.\n\n아마 해당 건 급하게 QR체크하면서 체크가 안된 것으로 확인됩니다!\n1\/4 1\/5 1\/8 1\/10 일자 모두 퇴실 QR 미체크로 결석 된 것으로 보이며 입실과 퇴실 시 HRD-net(또는 모바일HRD)를 통해 체크된 시간이 나타나면 확인 된 것으로 시간이 나타나지 않으면 한번 더 시도 부탁드립니다!!\n\n1\/11일자는 입실 QR 체크 된 것으로 확인되며 퇴실 QR 체크 완료 하시면 출석으로 표기 됩니다!\n\n훈련 초기 익숙치 않은 QR체크로 정정을 도와 드렸으나 현재는 다음과 같은 상황은 수강생 본인 실수로 파악하여 정정 불가로 안내하고 있습니다.\n그래서 매번 매니저님들께서 스샷과 함께 QR체크 안내도 말씀 드리고 있습니다.\nQR체크 또한 꼭꼭 한번 더 확인 부탁드립니다.\n\n혹여나 특이사항이 발생하여 부득이하게 QR체크가 안된 상황을 "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05VADPQPCL"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 매니저님과 소통하여 확인받은 내용을 토대로 정정 프로세스 진행해주시면 정정 신청 올리겠습니다.\n\n감사합니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05V1KVNK0E",
+        "type": "message",
+        "ts": "1704937599.671539",
+        "client_msg_id": "32749cfd-60c6-4019-9bd3-d20c1eb9ba5c",
+        "text": "세심한 답변 감사합니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "fb5019db4a38",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5979783895559_fb5019db4a38b752a187_72.jpg",
+            "first_name": "명왕",
+            "real_name": "명왕 (명왕)",
+            "display_name": "이명진",
+            "team": "T05UGFFGL07",
+            "name": "jinlee1997",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1704936066.432369",
+        "parent_user_id": "U05V1KVNK0E",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "U+Dt7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "세심한 답변 감사합니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05V9N22ZUK",
+        "type": "message",
+        "ts": "1704959076.745579",
+        "client_msg_id": "eed7f6d1-d076-444e-8ee8-52b41bf0a759",
+        "text": "<@U05UNC6FNK1> 혹시 2023-10-10~2023-11-09 분 지급 다음주 이후일까요?",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "0698995c863f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5998310079844_0698995c863fed7643f0_72.png",
+            "first_name": "TaeHan",
+            "real_name": "TaeHan Kim",
+            "display_name": "김태한",
+            "team": "T05UGFFGL07",
+            "name": "kthnineone",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1704959076.745579",
+        "reply_count": 14,
+        "reply_users_count": 5,
+        "latest_reply": "1704961775.698089",
+        "reply_users": [
+            "U05UNC6FNK1",
+            "U05V9N22ZUK",
+            "U060D1KJECR",
+            "U05V7H78DUM",
+            "U05UWVA90H4"
+        ],
+        "replies": [
+            {
+                "user": "U05UNC6FNK1",
+                "ts": "1704959387.021009"
+            },
+            {
+                "user": "U05UNC6FNK1",
+                "ts": "1704959424.781729"
+            },
+            {
+                "user": "U05V9N22ZUK",
+                "ts": "1704959559.422559"
+            },
+            {
+                "user": "U060D1KJECR",
+                "ts": "1704959586.904029"
+            },
+            {
+                "user": "U05UNC6FNK1",
+                "ts": "1704959690.201519"
+            },
+            {
+                "user": "U05UNC6FNK1",
+                "ts": "1704959730.060259"
+            },
+            {
+                "user": "U05UNC6FNK1",
+                "ts": "1704959741.999629"
+            },
+            {
+                "user": "U05V9N22ZUK",
+                "ts": "1704959763.072719"
+            },
+            {
+                "user": "U05UNC6FNK1",
+                "ts": "1704959773.430619"
+            },
+            {
+                "user": "U05UNC6FNK1",
+                "ts": "1704959790.282699"
+            },
+            {
+                "user": "U05V9N22ZUK",
+                "ts": "1704959814.758729"
+            },
+            {
+                "user": "U05V7H78DUM",
+                "ts": "1704961753.588779"
+            },
+            {
+                "user": "U05UWVA90H4",
+                "ts": "1704961772.931569"
+            },
+            {
+                "user": "U060D1KJECR",
+                "ts": "1704961775.698089"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "w6sku",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05UNC6FNK1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 혹시 2023-10-10~2023-11-09 분 지급 다음주 이후일까요?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "U05UNC6FNK1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05UNC6FNK1",
+        "type": "message",
+        "ts": "1704959387.021009",
+        "client_msg_id": "45dabc4f-4acd-474c-ac67-ff4d0c514567",
+        "text": "1\/8 지급되었습니다!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "260d154ea1e2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5979526758263_260d154ea1e2177fd001_72.jpg",
+            "first_name": "FC",
+            "real_name": "FC 하시안 매니저",
+            "display_name": "FC 하시안 매니저",
+            "team": "T05UGFFGL07",
+            "name": "xianha",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1704959076.745579",
+        "parent_user_id": "U05V9N22ZUK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cJ8jE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "1\/8 지급되었습니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05UNC6FNK1",
+        "type": "message",
+        "ts": "1704959424.781729",
+        "client_msg_id": "c919dbdf-40f5-4915-a5a6-c1ccab557649",
+        "text": "김태한님  하나은행계좌에서 확인해보세요`",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "260d154ea1e2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5979526758263_260d154ea1e2177fd001_72.jpg",
+            "first_name": "FC",
+            "real_name": "FC 하시안 매니저",
+            "display_name": "FC 하시안 매니저",
+            "team": "T05UGFFGL07",
+            "name": "xianha",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1704959076.745579",
+        "parent_user_id": "U05V9N22ZUK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cXkt4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "김태한님  하나은행계좌에서 확인해보세요`"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05V9N22ZUK",
+        "type": "message",
+        "ts": "1704959559.422559",
+        "client_msg_id": "2ce8f86f-a164-4a90-aba4-2449cf059066",
+        "text": "<@U05UNC6FNK1> 방금 확인했는데 입금내역이 없습니다. 어떻게 하면 될까요?",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "0698995c863f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5998310079844_0698995c863fed7643f0_72.png",
+            "first_name": "TaeHan",
+            "real_name": "TaeHan Kim",
+            "display_name": "김태한",
+            "team": "T05UGFFGL07",
+            "name": "kthnineone",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1704959076.745579",
+        "parent_user_id": "U05V9N22ZUK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eBVoq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05UNC6FNK1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 방금 확인했는데 입금내역이 없습니다. 어떻게 하면 될까요?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U060D1KJECR",
+        "type": "message",
+        "ts": "1704959586.904029",
+        "client_msg_id": "0f5261a0-bc1c-474c-b61b-380a8b789733",
+        "text": "<@U05UNC6FNK1> 안녕하세요 혹시 저도 제출한 계좌에서 장려금을 확인하지 못했는데 확인해주시면 감사하겠습니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "d024d71b810e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-06\/5993779835878_d024d71b810e837e9532_72.jpg",
+            "first_name": "이현진",
+            "real_name": "이현진",
+            "display_name": "이현진",
+            "team": "T05UGFFGL07",
+            "name": "jinintg",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1704959076.745579",
+        "parent_user_id": "U05V9N22ZUK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fBV8L",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05UNC6FNK1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 안녕하세요 혹시 저도 제출한 계좌에서 장려금을 확인하지 못했는데 확인해주시면 감사하겠습니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05UNC6FNK1",
+        "type": "message",
+        "ts": "1704959690.201519",
+        "client_msg_id": "528554fe-6f31-48b4-b74d-06cdad0d7c41",
+        "text": "태한님 저희 시스템에서 금액지급으로 나오는데 실제는 미지급으로 확인됩니다 - 강남고용센터 전화하시어 확인해주셔야해요",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "260d154ea1e2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5979526758263_260d154ea1e2177fd001_72.jpg",
+            "first_name": "FC",
+            "real_name": "FC 하시안 매니저",
+            "display_name": "FC 하시안 매니저",
+            "team": "T05UGFFGL07",
+            "name": "xianha",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1704959076.745579",
+        "parent_user_id": "U05V9N22ZUK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Hes5F",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "태한님 저희 시스템에서 금액지급으로 나오는데 실제는 미지급으로 확인됩니다 - 강남고용센터 전화하시어 확인해주셔야해요"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05UNC6FNK1",
+        "type": "message",
+        "ts": "1704959730.060259",
+        "client_msg_id": "75b2f15c-f269-4f77-813a-ca28dc6df140",
+        "text": "<@U060D1KJECR> 현진님 태한님과 동일한 사유로 확인됩니다. 고용센터로 전화하시어 확인해주세요",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "260d154ea1e2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5979526758263_260d154ea1e2177fd001_72.jpg",
+            "first_name": "FC",
+            "real_name": "FC 하시안 매니저",
+            "display_name": "FC 하시안 매니저",
+            "team": "T05UGFFGL07",
+            "name": "xianha",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1704959076.745579",
+        "parent_user_id": "U05V9N22ZUK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bs0Wg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U060D1KJECR"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 현진님 태한님과 동일한 사유로 확인됩니다. 고용센터로 전화하시어 확인해주세요"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U060D1KJECR"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05UNC6FNK1",
+        "type": "message",
+        "ts": "1704959741.999629",
+        "client_msg_id": "1889e677-095c-442e-9f8e-7813e1b6995f",
+        "text": "아마도 청년수당이나 기타 서울시 지급 수당받는게 있다면 미지급 될 수 있어요ㅜ",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "260d154ea1e2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5979526758263_260d154ea1e2177fd001_72.jpg",
+            "first_name": "FC",
+            "real_name": "FC 하시안 매니저",
+            "display_name": "FC 하시안 매니저",
+            "team": "T05UGFFGL07",
+            "name": "xianha",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1704959076.745579",
+        "parent_user_id": "U05V9N22ZUK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3CJVt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "아마도 청년수당이나 기타 서울시 지급 수당받는게 있다면 미지급 될 수 있어요ㅜ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05V9N22ZUK",
+        "type": "message",
+        "ts": "1704959763.072719",
+        "client_msg_id": "6d7f7857-51a6-40bd-918f-fb0810d3a821",
+        "text": "<@U05UNC6FNK1> 고용노동부 서울강남지청 말씀이신거죠?",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "0698995c863f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5998310079844_0698995c863fed7643f0_72.png",
+            "first_name": "TaeHan",
+            "real_name": "TaeHan Kim",
+            "display_name": "김태한",
+            "team": "T05UGFFGL07",
+            "name": "kthnineone",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1704959076.745579",
+        "parent_user_id": "U05V9N22ZUK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zJGCy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05UNC6FNK1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 고용노동부 서울강남지청 말씀이신거죠?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05UNC6FNK1",
+        "type": "message",
+        "ts": "1704959773.430619",
+        "client_msg_id": "283ff1dc-78a7-4436-97a7-6b000f4cb66f",
+        "text": "아니요 강남고용센터요",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "260d154ea1e2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5979526758263_260d154ea1e2177fd001_72.jpg",
+            "first_name": "FC",
+            "real_name": "FC 하시안 매니저",
+            "display_name": "FC 하시안 매니저",
+            "team": "T05UGFFGL07",
+            "name": "xianha",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1704959076.745579",
+        "parent_user_id": "U05V9N22ZUK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cw11m",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "아니요 강남고용센터요"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05UNC6FNK1",
+        "type": "message",
+        "ts": "1704959790.282699",
+        "client_msg_id": "29adf63c-0bb4-459e-a5f5-ed28bbe73b77",
+        "text": "서울강남고용복지센터입니다!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "260d154ea1e2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5979526758263_260d154ea1e2177fd001_72.jpg",
+            "first_name": "FC",
+            "real_name": "FC 하시안 매니저",
+            "display_name": "FC 하시안 매니저",
+            "team": "T05UGFFGL07",
+            "name": "xianha",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1704959076.745579",
+        "parent_user_id": "U05V9N22ZUK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cdnoc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "서울강남고용복지센터입니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05V9N22ZUK",
+        "type": "message",
+        "ts": "1704959814.758729",
+        "client_msg_id": "fd8f0dd5-e89b-4240-a738-6cc49fbd625c",
+        "text": "<@U05UNC6FNK1> 네 알겠습니다. 답변 감사합니다. 문의해보겠습니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "0698995c863f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5998310079844_0698995c863fed7643f0_72.png",
+            "first_name": "TaeHan",
+            "real_name": "TaeHan Kim",
+            "display_name": "김태한",
+            "team": "T05UGFFGL07",
+            "name": "kthnineone",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1704959076.745579",
+        "parent_user_id": "U05V9N22ZUK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wwz0g",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05UNC6FNK1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 네 알겠습니다. 답변 감사합니다. 문의해보겠습니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands::skin-tone-2",
+                "users": [
+                    "U05UNC6FNK1"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

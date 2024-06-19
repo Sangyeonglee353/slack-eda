@@ -1,0 +1,181 @@
+[
+    {
+        "user": "U05V81G5ZDY",
+        "type": "message",
+        "ts": "1701312266.904589",
+        "client_msg_id": "b5446434-d8a1-40c7-b32e-7bfcf6586352",
+        "text": "<@U061N4T7L8G> 11\/1일자 공가 신청 서류제출 스레드",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "db1aceeb0d90",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5994058472162_db1aceeb0d9030c57e69_72.jpg",
+            "first_name": "김현우",
+            "real_name": "김현우",
+            "display_name": "FC 김현우 매니저",
+            "team": "T05UGFFGL07",
+            "name": "hyunwoo.kim",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1701312266.904589",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1701315644.868829",
+        "reply_users": [
+            "U05V81G5ZDY",
+            "U061N4T7L8G"
+        ],
+        "replies": [
+            {
+                "user": "U05V81G5ZDY",
+                "ts": "1701312283.530819"
+            },
+            {
+                "user": "U061N4T7L8G",
+                "ts": "1701315644.868829"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "imrd\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U061N4T7L8G"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 11\/1일자 공가 신청 서류제출 스레드"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "U05V81G5ZDY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05V81G5ZDY",
+        "type": "message",
+        "ts": "1701312283.530819",
+        "client_msg_id": "0361487e-22f5-411f-8661-f5849aa8549f",
+        "text": "훈련비 지급 지연으로 금주까지 미제출시 결석으로 처리됩니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "db1aceeb0d90",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5994058472162_db1aceeb0d9030c57e69_72.jpg",
+            "first_name": "김현우",
+            "real_name": "김현우",
+            "display_name": "FC 김현우 매니저",
+            "team": "T05UGFFGL07",
+            "name": "hyunwoo.kim",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1701312266.904589",
+        "parent_user_id": "U05V81G5ZDY",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DfTad",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "훈련비 지급 지연으로 금주까지 미제출시 결석으로 처리됩니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U061N4T7L8G",
+        "type": "message",
+        "ts": "1701315644.868829",
+        "client_msg_id": "4f4f3799-70f3-4de5-b0b0-1e02c78c1a35",
+        "text": "<@U05UNC6FNK1> <@U05V81G5ZDY> 제출했습니다. 늦어서 죄송합니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "7e78e3eb3b0f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-17\/6050758972500_7e78e3eb3b0f4a3a1efd_72.png",
+            "first_name": "최기훈",
+            "real_name": "최기훈",
+            "display_name": "최기훈",
+            "team": "T05UGFFGL07",
+            "name": "azilang2",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1701312266.904589",
+        "parent_user_id": "U05V81G5ZDY",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oH++S",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05UNC6FNK1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05V81G5ZDY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 제출했습니다. 늦어서 죄송합니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1::skin-tone-2",
+                "users": [
+                    "U05V81G5ZDY"
+                ],
+                "count": 1
+            },
+            {
+                "name": "pray::skin-tone-2",
+                "users": [
+                    "U05V81G5ZDY"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

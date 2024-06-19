@@ -1,0 +1,364 @@
+[
+    {
+        "text": "`[Data-Centric AI] (3-3) 데이터 수집 2 _ 크롤링 (실습)` 에서 에러가 발생합니다",
+        "files": [
+            {
+                "id": "F06TG0DC336",
+                "created": 1712628808,
+                "timestamp": 1712628808,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U05V7V2AV8A",
+                "user_team": "T05UGFFGL07",
+                "editable": false,
+                "size": 207443,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F06TG0DC336\/image.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F06TG0DC336\/download\/image.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06TG0DC336-d16912ac69\/image_64.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06TG0DC336-d16912ac69\/image_80.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06TG0DC336-d16912ac69\/image_360.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_360_w": 360,
+                "thumb_360_h": 255,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06TG0DC336-d16912ac69\/image_480.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_480_w": 480,
+                "thumb_480_h": 340,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06TG0DC336-d16912ac69\/image_160.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06TG0DC336-d16912ac69\/image_720.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_720_w": 720,
+                "thumb_720_h": 511,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06TG0DC336-d16912ac69\/image_800.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_800_w": 800,
+                "thumb_800_h": 567,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06TG0DC336-d16912ac69\/image_960.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_960_w": 960,
+                "thumb_960_h": 681,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06TG0DC336-d16912ac69\/image_1024.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 726,
+                "original_w": 1588,
+                "original_h": 1126,
+                "thumb_tiny": "AwAiADDQIxn60mfpTjntQM+tACZ9MUuaXn1ooAKKMUYoAGGabt+v504\/WkOc8GgAxmjBpPm9aXn1oAdRSc0c0AI3akwKVu1FABgelOptOoAKKKKAP\/\/Z",
+                "permalink": "https:\/\/fcupstageai1.slack.com\/files\/U05V7V2AV8A\/F06TG0DC336\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T05UGFFGL07-F06TG0DC336-f5f32ddf85",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U05V7V2AV8A",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1ImS8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "[Data-Centric AI] (3-3) 데이터 수집 2 _ 크롤링 (실습)",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " 에서 에러가 발생합니다"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1712628887.758139",
+        "edited": {
+            "user": "U05V7V2AV8A",
+            "ts": "1712628907.000000"
+        },
+        "client_msg_id": "7edc8cdf-fc40-44ee-b7bc-8e78e14fdb7b",
+        "thread_ts": "1712628887.758139",
+        "reply_count": 10,
+        "reply_users_count": 3,
+        "latest_reply": "1712799892.655229",
+        "reply_users": [
+            "U060C67EYQ5",
+            "U0600HN24UX",
+            "U05V7V2AV8A"
+        ],
+        "replies": [
+            {
+                "user": "U060C67EYQ5",
+                "ts": "1712629003.717459"
+            },
+            {
+                "user": "U0600HN24UX",
+                "ts": "1712637243.007879"
+            },
+            {
+                "user": "U05V7V2AV8A",
+                "ts": "1712641865.257479"
+            },
+            {
+                "user": "U0600HN24UX",
+                "ts": "1712643695.646159"
+            },
+            {
+                "user": "U05V7V2AV8A",
+                "ts": "1712647441.622039"
+            },
+            {
+                "user": "U0600HN24UX",
+                "ts": "1712647533.170969"
+            },
+            {
+                "user": "U05V7V2AV8A",
+                "ts": "1712647558.398319"
+            },
+            {
+                "user": "U0600HN24UX",
+                "ts": "1712658020.722349"
+            },
+            {
+                "user": "U0600HN24UX",
+                "ts": "1712737971.370469"
+            },
+            {
+                "user": "U05V7V2AV8A",
+                "ts": "1712799892.655229"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "user": "U060C67EYQ5",
+        "type": "message",
+        "ts": "1712629003.717459",
+        "client_msg_id": "55801da8-ac20-4920-b216-a6cebe03336c",
+        "text": "<@U0600HN24UX> 확인 부탁드립니다!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "831ed525b276",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-11-14\/6192884585138_831ed525b276222009d0_72.png",
+            "first_name": "업스테이지",
+            "real_name": "업스테이지 김의겸(Dave)",
+            "display_name": "UP 김의겸(Dave) 매니저",
+            "team": "T05UGFFGL07",
+            "name": "euigyum",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712628887.758139",
+        "parent_user_id": "U05V7V2AV8A",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PbM50",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0600HN24UX"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 확인 부탁드립니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0600HN24UX",
+        "type": "message",
+        "ts": "1712637243.007879",
+        "client_msg_id": "a4d90243-436b-44c1-8c65-37e715495582",
+        "text": "<@U05V7V2AV8A> 안녕하세요 준규님 :slightly_smiling_face:\n해당 에러는 Python Element가 클릭이 되지 않을 때 발생하는 에러로 보여지는데요,\n<https:\/\/workauto.tistory.com\/entry\/%ED%8C%8C%EC%9D%B4%EC%8D%AC-Selenium-ElementNotInteractableException-%EC%98%A4%EB%A5%98|링크> 와 같은 방법을 시도해보시면 좋을 것 같습니다!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "870936fe2b80",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-10\/6008807848774_870936fe2b80088211c2_72.jpg",
+            "first_name": "업스테이지",
+            "real_name": "업스테이지 완다",
+            "display_name": "업스테이지 완다",
+            "team": "T05UGFFGL07",
+            "name": "suwankim",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712628887.758139",
+        "parent_user_id": "U05V7V2AV8A",
+        "attachments": [
+            {
+                "image_url": "https:\/\/img1.daumcdn.net\/thumb\/R800x0\/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png",
+                "image_width": 800,
+                "image_height": 800,
+                "image_bytes": 4110,
+                "from_url": "https:\/\/workauto.tistory.com\/entry\/%ED%8C%8C%EC%9D%B4%EC%8D%AC-Selenium-ElementNotInteractableException-%EC%98%A4%EB%A5%98",
+                "service_icon": "https:\/\/t1.daumcdn.net\/tistory_admin\/top_v2\/tistory-apple-touch-favicon.png",
+                "ts": 1691924432,
+                "id": 1,
+                "original_url": "https:\/\/workauto.tistory.com\/entry\/%ED%8C%8C%EC%9D%B4%EC%8D%AC-Selenium-ElementNotInteractableException-%EC%98%A4%EB%A5%98",
+                "fallback": "업무 자동화: 파이썬 Selenium ElementNotInteractableException 오류",
+                "text": "ElementNotInteractableException은 요소를 상호작용할 수 없는 상태일 때 발생하는 오류로, 보통 인터랙티브하지 않은 요소에 클릭 또는 입력을 시도할 때 발생합니다. 예시 코드와 해결 방법에 대해 설명하겠습니다. 예시 코드: 아래 예시 코드는 인터랙티브하지 않은 요소(예: 비활성화된 버튼)를 클릭하려고 할 때 ElementNotInteractableException이 발생할 수 있습니다. from selenium import webdriver driver = webdriver.Chrome('path\/to\/chromedriver') # 비활성화된 버튼이 있는 페이지 접속 driver.get('<https:\/\/www.example.com>') # 비활성화된 버튼 클릭 시도 try: disa..",
+                "title": "파이썬 Selenium ElementNotInteractableException 오류",
+                "title_link": "https:\/\/workauto.tistory.com\/entry\/%ED%8C%8C%EC%9D%B4%EC%8D%AC-Selenium-ElementNotInteractableException-%EC%98%A4%EB%A5%98",
+                "service_name": "업무 자동화"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "P3trC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05V7V2AV8A"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 안녕하세요 준규님 "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n해당 에러는 Python Element가 클릭이 되지 않을 때 발생하는 에러로 보여지는데요,\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/workauto.tistory.com\/entry\/%ED%8C%8C%EC%9D%B4%EC%8D%AC-Selenium-ElementNotInteractableException-%EC%98%A4%EB%A5%98",
+                                "text": "링크"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 와 같은 방법을 시도해보시면 좋을 것 같습니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05V7V2AV8A",
+        "type": "message",
+        "ts": "1712641865.257479",
+        "client_msg_id": "8262d237-f3b8-473e-b67d-7536853b3949",
+        "text": "<@U0600HN24UX> 이렇게 되면 고칠 곳이 한 두군데가 아닌 거 같네요. 노트북 자체를 업데이트 부탁드립니다. 그리고 강사님은 time.sleep으로 알려주셨는데 효과가 없는 걸까요?",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "28368614e02a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5987346071766_28368614e02abbfb71bd_72.png",
+            "first_name": "andrew",
+            "real_name": "andrew jang",
+            "display_name": "장준규",
+            "team": "T05UGFFGL07",
+            "name": "goldenbeluga",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712628887.758139",
+        "parent_user_id": "U05V7V2AV8A",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SUkkU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0600HN24UX"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 이렇게 되면 고칠 곳이 한 두군데가 아닌 거 같네요. 노트북 자체를 업데이트 부탁드립니다. 그리고 강사님은 time.sleep으로 알려주셨는데 효과가 없는 걸까요?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0600HN24UX",
+        "type": "message",
+        "ts": "1712643695.646159",
+        "client_msg_id": "48fc264d-7ad9-4025-8775-bdbff224dc00",
+        "text": "<@U05V7V2AV8A> time.sleep으로 일단 시도해보시겠어요~? 강좌 제작해주신 강사님께 여쭈어보고 오겠습니다 :slightly_smiling_face:",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "870936fe2b80",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-10\/6008807848774_870936fe2b80088211c2_72.jpg",
+            "first_name": "업스테이지",
+            "real_name": "업스테이지 완다",
+            "display_name": "업스테이지 완다",
+            "team": "T05UGFFGL07",
+            "name": "suwankim",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712628887.758139",
+        "parent_user_id": "U05V7V2AV8A",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QazEk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05V7V2AV8A"
+                            },
+                            {
+                                "type": "text",
+                                "text": " time.sleep으로 일단 시도해보시겠어요~? 강좌 제작해주신 강사님께 여쭈어보고 오겠습니다 "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

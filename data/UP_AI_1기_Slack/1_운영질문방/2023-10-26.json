@@ -1,0 +1,55 @@
+[
+    {
+        "user": "U05V4KZR3NW",
+        "type": "message",
+        "ts": "1698368780.057239",
+        "client_msg_id": "e73578ec-79d7-47eb-a127-4f403e004109",
+        "text": "<@U05UYAVRTSR> 매니저님 혹시 스터디그룹 관련 안내는 금일 공지되나요???",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "8c77944bd304",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-20\/6082246066801_8c77944bd304e2d01432_72.jpg",
+            "first_name": "남영진",
+            "real_name": "남영진",
+            "display_name": "남영진",
+            "team": "T05UGFFGL07",
+            "name": "studyingnam",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697777516.642409",
+        "parent_user_id": "U05V4KZR3NW",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oA8mm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05UYAVRTSR"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 매니저님 혹시 스터디그룹 관련 안내는 금일 공지되나요???"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "대답",
+                "users": [
+                    "U05UYAVRTSR"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

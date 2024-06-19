@@ -1,0 +1,87 @@
+[
+    {
+        "text": "버전변경 + 확실히 임포트로 저는 해결했습니다\n+ 재실행 필수입니다 !",
+        "files": [
+            {
+                "id": "F0619E85RMG",
+                "created": 1697448593,
+                "timestamp": 1697448593,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U05UUSA6G5V",
+                "user_team": "T05UGFFGL07",
+                "editable": false,
+                "size": 7742,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F0619E85RMG\/image.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F0619E85RMG\/download\/image.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F0619E85RMG-5a798f3737\/image_64.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F0619E85RMG-5a798f3737\/image_80.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F0619E85RMG-5a798f3737\/image_360.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_360_w": 360,
+                "thumb_360_h": 219,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F0619E85RMG-5a798f3737\/image_160.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "original_w": 416,
+                "original_h": 253,
+                "thumb_tiny": "AwAdADDR4PrSYXrz+tKcZxjNN4x92gBfl9\/1pcD3pBjH3aDg8laAF2j3\/OjA9\/zpBx0FLn2oARyA2SQKYHTGNwpVclFJxyAaUsQe1ACb0\/vCjemPvClLEdhSqc9cUANEi\/3hRvT+8KkooA\/\/2Q==",
+                "permalink": "https:\/\/fcupstageai1.slack.com\/files\/U05UUSA6G5V\/F0619E85RMG\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T05UGFFGL07-F0619E85RMG-b1ee99beff",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U05UUSA6G5V",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "03sPi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "버전변경 + 확실히 임포트로 저는 해결했습니다\n+ 재실행 필수입니다 !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1697448616.457019",
+        "client_msg_id": "ad696c94-4c77-4b80-b073-5e597bafb7bd",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U06061L4S64"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U05V0106JDT",
+                    "U0600GGHJTC",
+                    "U05UWVA90H4",
+                    "U05VAHXECP6"
+                ],
+                "count": 4
+            }
+        ]
+    }
+]

@@ -1,0 +1,794 @@
+[
+    {
+        "user": "U05VBQMH3D3",
+        "type": "message",
+        "ts": "1705265215.976279",
+        "client_msg_id": "8a3a9e43-69a5-4317-83e1-da7e921f5b17",
+        "text": "안녕하세요! 딥러닝에서 정답을 넣어서 학습하는 경우에 대해 질문하려고 합니다. \n\n분류에서 특히 까다로운 부분(클래스)이 있다면, 아에 정답을 넣고 학습을 해서 다른 부분(클래스)에 대한 예측도가 떨어지더라도 까다로운 부분에 대한 정답률을 올리도록 학습시켜보고 싶습니다.\n\n상황마다 달라서 정답은 없겠지만\n1. 효과를 볼려면 학습시에 정답을 넣고 추론시에도 수도라벨링으로 정답을 넣어야만 하는지\n2. 정답을 넣고 학습한뒤 정답없이 추가학습, 정답없이 학습후 정답을 넣고 파인튜닝 어느 쪽이 좋을지\n3. 층을 하나 더 생성하는게 좋을지, 아님 입력층을 삭제하고 채널을 1개 늘려서 새로 만드는게 좋을지. 정답을 넣고 먼저 학습하는 경우엔 입력층 삭제 후 채널을 줄이기. 그리고 동결은 하는게 좋을지. \n4. 모델을 일정하게 유지시, 정답없이 학습, 추론할 경우에 정답입력을 평균값 혹은 0으로해서 입력하는건 의미가 있을지\n정답을 그대로 넣는건 아니고 적절하게 변형해서 넣으려고 합니다만 좋은 방법이 떠오르지 않아 이런 식의 고민이 이어지네요. 리크 + 과적합 + 불균형 피하는게 쉽진 않겠지만 조언주시면 감사하겠습니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "16da4e28d6c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/6003210685524_16da4e28d6c4ea33bae5_72.png",
+            "first_name": "HB",
+            "real_name": "HB",
+            "display_name": "엄효범",
+            "team": "T05UGFFGL07",
+            "name": "swema86",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1705265215.976279",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1705305182.428589",
+        "reply_users": [
+            "U05VADPQPCL",
+            "U06D18V7FNX"
+        ],
+        "replies": [
+            {
+                "user": "U05VADPQPCL",
+                "ts": "1705296531.003849"
+            },
+            {
+                "user": "U06D18V7FNX",
+                "ts": "1705305182.428589"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0gCza",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "안녕하세요! 딥러닝에서 정답을 넣어서 학습하는 경우에 대해 질문하려고 합니다. \n\n분류에서 특히 까다로운 부분(클래스)이 있다면, 아에 정답을 넣고 학습을 해서 다른 부분(클래스)에 대한 예측도가 떨어지더라도 까다로운 부분에 대한 정답률을 올리도록 학습시켜보고 싶습니다.\n\n상황마다 달라서 정답은 없겠지만\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "효과를 볼려면 학습시에 정답을 넣고 추론시에도 수도라벨링으로 정답을 넣어야만 하는지"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "정답을 넣고 학습한뒤 정답없이 추가학습, 정답없이 학습후 정답을 넣고 파인튜닝 어느 쪽이 좋을지"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "층을 하나 더 생성하는게 좋을지, 아님 입력층을 삭제하고 채널을 1개 늘려서 새로 만드는게 좋을지. 정답을 넣고 먼저 학습하는 경우엔 입력층 삭제 후 채널을 줄이기. 그리고 동결은 하는게 좋을지. "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "모델을 일정하게 유지시, 정답없이 학습, 추론할 경우에 정답입력을 평균값 혹은 0으로해서 입력하는건 의미가 있을지"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "offset": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "정답을 그대로 넣는건 아니고 적절하게 변형해서 넣으려고 합니다만 좋은 방법이 떠오르지 않아 이런 식의 고민이 이어지네요. 리크 + 과적합 + 불균형 피하는게 쉽진 않겠지만 조언주시면 감사하겠습니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U06D18V7FNX"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05VADPQPCL",
+        "type": "message",
+        "ts": "1705283306.925359",
+        "edited": {
+            "user": "U05VADPQPCL",
+            "ts": "1705303873.000000"
+        },
+        "client_msg_id": "4312db17-a1e8-4b77-b19f-4d5084f5292d",
+        "text": "*<!here>*\n안녕하세요. Upstage AI Lab 수강생 여러분~!\n금주 Machine Learning Advanced 멘토링 진행해 주실 *`김재인 멘토`*님께서 채널에 들어와 계십니다.\nUpstage 온라인 강의를 학습하면서 궁금한 사항이 있다면 편히 이 곳에 질문해주세요! :muscle::muscle:\n\n> *Machine Learning Advanced 멘토링 일정*\n• 멘토링 기간: 24.1.15(월) ~ 24.1.19(금)\n> *멘토링 안내*\n• 멘토님께 질문을 드릴 땐 가장 먼저 *인사*로 시작해주세요!!\n• 멘토님께서 질문을 빨리 확인하실 수 있도록 멘토님을 *태깅*해주시길 바랍니다!\n    ◦ *금주의 멘토님 : `@김재인 멘토`*\n• 주차별 멘토님이 다르시니 태깅 하실 때 꼭 안내 공지 확인 후 태깅 해주시길 바랍니다.\n• Upstage 온라인 강의 및 경진대회 외의 질문은 답변이 늦어지거나 어려울 수 있는 점 확인 부탁 드립니다.\n• 해당 질문에 대해 모든 수강생분들에게 공유가 될 수 있도록 멘토님께 DM이 아닌 `#3_멘토질문방` 채널을 이용하여 질문해주시길 바랍니다!\n",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "07e7ca00b8f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5991092857253_07e7ca00b8f0d0b13ba1_72.png",
+            "first_name": "패스트캠퍼스박기준",
+            "real_name": "패스트캠퍼스박기준",
+            "display_name": "LM 박기준",
+            "team": "T05UGFFGL07",
+            "name": "pgj.fc.career",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LvkU6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "here",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n안녕하세요. Upstage AI Lab 수강생 여러분~!\n금주 Machine Learning Advanced 멘토링 진행해 주실 "
+                            },
+                            {
+                                "type": "text",
+                                "text": "김재인 멘토",
+                                "style": {
+                                    "bold": true,
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "님께서 채널에 들어와 계십니다.\nUpstage 온라인 강의를 학습하면서 궁금한 사항이 있다면 편히 이 곳에 질문해주세요! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "muscle",
+                                "unicode": "1f4aa"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "muscle",
+                                "unicode": "1f4aa"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Machine Learning Advanced 멘토링 일정",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "멘토링 기간: 24.1.15(월) ~ 24.1.19(금)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "멘토링 안내",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "멘토님께 질문을 드릴 땐 가장 먼저 "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "인사",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "로 시작해주세요!!"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "멘토님께서 질문을 빨리 확인하실 수 있도록 멘토님을 "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "태깅",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "해주시길 바랍니다!"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "금주의 멘토님 : ",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "@김재인 멘토",
+                                        "style": {
+                                            "bold": true,
+                                            "code": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "주차별 멘토님이 다르시니 태깅 하실 때 꼭 안내 공지 확인 후 태깅 해주시길 바랍니다."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Upstage 온라인 강의 및 경진대회 외의 질문은 답변이 늦어지거나 어려울 수 있는 점 확인 부탁 드립니다."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "해당 질문에 대해 모든 수강생분들에게 공유가 될 수 있도록 멘토님께 DM이 아닌 "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "#3_멘토질문방",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " 채널을 이용하여 질문해주시길 바랍니다!"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "대답",
+                "users": [
+                    "U05V7H78DUM",
+                    "U060C67EYQ5"
+                ],
+                "count": 2
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U06D18V7FNX",
+                    "U060C67EYQ5"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "text": "<@U0608EG7YEA>\n\n안녕하세요?\n저는 아래와 같이 화면이 보입니다.\n왜 이런지 확인을 부탁드립니다.\n\n초기 이름을 늦가을감으로 해두었었습니다.\n감사합니다.",
+        "files": [
+            {
+                "id": "F06DNJ2PN3Y",
+                "created": 1705283485,
+                "timestamp": 1705283485,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U05V9LP47V0",
+                "user_team": "T05UGFFGL07",
+                "editable": false,
+                "size": 71452,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F06DNJ2PN3Y\/image.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F06DNJ2PN3Y\/download\/image.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06DNJ2PN3Y-5714795a2d\/image_64.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06DNJ2PN3Y-5714795a2d\/image_80.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06DNJ2PN3Y-5714795a2d\/image_360.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_360_w": 360,
+                "thumb_360_h": 98,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06DNJ2PN3Y-5714795a2d\/image_480.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_480_w": 480,
+                "thumb_480_h": 131,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06DNJ2PN3Y-5714795a2d\/image_160.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06DNJ2PN3Y-5714795a2d\/image_720.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_720_w": 720,
+                "thumb_720_h": 196,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06DNJ2PN3Y-5714795a2d\/image_800.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_800_w": 800,
+                "thumb_800_h": 218,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06DNJ2PN3Y-5714795a2d\/image_960.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_960_w": 960,
+                "thumb_960_h": 262,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06DNJ2PN3Y-5714795a2d\/image_1024.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 279,
+                "original_w": 1215,
+                "original_h": 331,
+                "thumb_tiny": "AwANADDSwM5pcUwqCTwPyoAx0wPwoAfiikGc9aWgCOORnByhGDT8DOcc0MoYYNLQB\/\/Z",
+                "permalink": "https:\/\/fcupstageai1.slack.com\/files\/U05V9LP47V0\/F06DNJ2PN3Y\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T05UGFFGL07-F06DNJ2PN3Y-0aa2d25b67",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U05V9LP47V0",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "USloA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0608EG7YEA"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n안녕하세요?\n저는 아래와 같이 화면이 보입니다.\n왜 이런지 확인을 부탁드립니다.\n\n초기 이름을 늦가을감으로 해두었었습니다.\n감사합니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1705283495.835079",
+        "client_msg_id": "8015faef-750c-4988-9193-623302b8c8dd",
+        "thread_ts": "1705283495.835079",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1705283588.083919",
+        "reply_users": [
+            "U0608EG7YEA",
+            "U05V9LP47V0"
+        ],
+        "replies": [
+            {
+                "user": "U0608EG7YEA",
+                "ts": "1705283538.037009"
+            },
+            {
+                "user": "U0608EG7YEA",
+                "ts": "1705283559.687279"
+            },
+            {
+                "user": "U05V9LP47V0",
+                "ts": "1705283588.083919"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "대답",
+                "users": [
+                    "U060C67EYQ5"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U0608EG7YEA",
+        "type": "message",
+        "ts": "1705283538.037009",
+        "client_msg_id": "888969b6-679f-4dfc-b44d-e76b7d61d826",
+        "text": "지금은 대회 접속이 가능하실텐데 확인 부탁드립니다",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "542e7e1dec67",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-12\/6028220315186_542e7e1dec6721784df9_72.png",
+            "first_name": "업스테이지",
+            "real_name": "업스테이지 크리스",
+            "display_name": "업스테이지 크리스",
+            "team": "T05UGFFGL07",
+            "name": "chris",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1705283495.835079",
+        "parent_user_id": "U05V9LP47V0",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PJppy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "지금은 대회 접속이 가능하실텐데 확인 부탁드립니다"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0608EG7YEA",
+        "type": "message",
+        "ts": "1705283559.687279",
+        "client_msg_id": "9a38d1b2-64f8-4aa7-977c-546e27a88cd8",
+        "text": "<https:\/\/next.stages.ai\/competitions\/276\/overview\/description>",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "542e7e1dec67",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-12\/6028220315186_542e7e1dec6721784df9_72.png",
+            "first_name": "업스테이지",
+            "real_name": "업스테이지 크리스",
+            "display_name": "업스테이지 크리스",
+            "team": "T05UGFFGL07",
+            "name": "chris",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1705283495.835079",
+        "parent_user_id": "U05V9LP47V0",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7jcOv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/next.stages.ai\/competitions\/276\/overview\/description"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05V9LP47V0",
+        "type": "message",
+        "ts": "1705283588.083919",
+        "client_msg_id": "67c712a7-b795-4596-ac7d-c76471073599",
+        "text": "네, 정상적으로 화면이 보입니다.\n감사합니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "54d9ef7119e7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-06\/5993912366662_54d9ef7119e784b29212_72.jpg",
+            "first_name": "문정의",
+            "real_name": "문정의",
+            "display_name": "문정의",
+            "team": "T05UGFFGL07",
+            "name": "axa301",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1705283495.835079",
+        "parent_user_id": "U05V9LP47V0",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AWGg1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "네, 정상적으로 화면이 보입니다.\n감사합니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0608EG7YEA"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05VADPQPCL",
+        "type": "message",
+        "ts": "1705296531.003849",
+        "client_msg_id": "4c2124b1-6252-4d5b-854d-497351b47cd9",
+        "text": "<@U06D18V7FNX> 멘토님 확인 부탁 드립니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "07e7ca00b8f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5991092857253_07e7ca00b8f0d0b13ba1_72.png",
+            "first_name": "패스트캠퍼스박기준",
+            "real_name": "패스트캠퍼스박기준",
+            "display_name": "LM 박기준",
+            "team": "T05UGFFGL07",
+            "name": "pgj.fc.career",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1705265215.976279",
+        "parent_user_id": "U05VBQMH3D3",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "16ijz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06D18V7FNX"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 멘토님 확인 부탁 드립니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U06D18V7FNX"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06D18V7FNX",
+        "type": "message",
+        "ts": "1705305182.428589",
+        "client_msg_id": "7669cb59-2a63-4161-8541-8dc6a551a792",
+        "text": "안녕하세요 효범님! 데이터의 종류와 사이즈, 그리고 태스크에 따라 적용시켜볼 수 있는 방법이 매우 상이할 것 같아, 먼저 조금 더 정보를 제공해주시면 좋을 것 같습니다.\n• “정답을 넣고 학습을 한다” = supervised learning 을 말씀하시는 것이겠죠? label 별로 데이터가 불균형하다면, data augmentation을 통해 균형을 맞춰주시거나, 데이터셋 키우는 것 자체가 학습 성능에 도움이 될 것 같습니다.\n• 질문 1에 대해: 추론 시에는 모델이 내뱉는 output이 곧 label 이기 때문에 정답을 같이 넣을 필요는 없습니다. 그런데 수도라벨링을 떠올리신 이유가 궁금하긴 합니다.\n• 질문 2에 대해: “정답을 넣고 학습한 뒤 정답없이 추가학습” 이라는 말은 잘 이해가 되지 않는데요, 모델 구조가 바뀌는 것이 아니라면 input과 output은 같아야 합니다. Pre-trainig 후 fine-tuning 하는 방식이라면 가능합니다.\n• 질문 3에 대해: 모델, 데이터, 태스크에 따라 결과가 매우 상이한 부분입니다.\n• 질문 4에 대해: “정답없이 학습, 추론할 경우” 가 어떤 경우인지 추가로 설명 부탁드립니다. \n구체적인 추가 질문이 있으시면 편히 작성해 주세요.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "9629c53873da",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-15\/6465589074966_9629c53873da699b1d6f_72.jpg",
+            "first_name": "Jaein",
+            "real_name": "Jaein Kim",
+            "display_name": "김재인 멘토",
+            "team": "T05UGFFGL07",
+            "name": "jaeink.seoul",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1705265215.976279",
+        "parent_user_id": "U05VBQMH3D3",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0qMaG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "안녕하세요 효범님! 데이터의 종류와 사이즈, 그리고 태스크에 따라 적용시켜볼 수 있는 방법이 매우 상이할 것 같아, 먼저 조금 더 정보를 제공해주시면 좋을 것 같습니다.\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "“정답을 넣고 학습을 한다” = supervised learning 을 말씀하시는 것이겠죠? label 별로 데이터가 불균형하다면, data augmentation을 통해 균형을 맞춰주시거나, 데이터셋 키우는 것 자체가 학습 성능에 도움이 될 것 같습니다."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "질문 1에 대해: 추론 시에는 모델이 내뱉는 output이 곧 label 이기 때문에 정답을 같이 넣을 필요는 없습니다. 그런데 수도라벨링을 떠올리신 이유가 궁금하긴 합니다."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "질문 2에 대해: “정답을 넣고 학습한 뒤 정답없이 추가학습” 이라는 말은 잘 이해가 되지 않는데요, 모델 구조가 바뀌는 것이 아니라면 input과 output은 같아야 합니다. Pre-trainig 후 fine-tuning 하는 방식이라면 가능합니다."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "질문 3에 대해: 모델, 데이터, 태스크에 따라 결과가 매우 상이한 부분입니다."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "질문 4에 대해: “정답없이 학습, 추론할 경우” 가 어떤 경우인지 추가로 설명 부탁드립니다. "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "구체적인 추가 질문이 있으시면 편히 작성해 주세요."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

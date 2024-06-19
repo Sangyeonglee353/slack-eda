@@ -1,0 +1,750 @@
+[
+    {
+        "user": "U05UYAVRTSR",
+        "type": "message",
+        "ts": "1698372233.292999",
+        "edited": {
+            "user": "U05UYAVRTSR",
+            "ts": "1698372290.000000"
+        },
+        "client_msg_id": "1fabe6ad-849e-422c-aae1-a35e77dd471a",
+        "text": "<!channel>\n\n안녕하세요 수강생분들! 우선 스터디그룹 및 향후 학습 지원에 대한 안내가 늦어진 점 양해 부탁드립니다.\n관련 내용 안내드리니, 모두 확인 및 설문 참여 후 :white_check_mark: 이모지 부탁드려요 :)\n\n> *[1] 스터디 그룹 (> <https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLSeCTXBOIN9sr5YFAVsymGeWZsH1IHKt2LxOJU3Nbg7qyAdDQg\/viewform\n> |설문 링크>)*\n>     ◦ 모든 분들께서 필수적으로 참여해주셔야 합니다.\n>     ◦ 최대한 학습을 희망하는 분야 + 수준 등을 고려하여 팀을 배정할 예정이며, 해당 팀은 *과정이 종료될 때 까지 지속*될 예정입니다. 다만, 추후에 딥러닝 학습이 시작되게 되면 학습 희망 분야가 변경될 수 있으므로, 그 때에 수요 조사 진행 후, 변경 희망하시는 분들에 대하여 재배치를 계획하고 있는 점 참고 부탁드립니다.\n>     ◦ 스터디 그룹을 편성한 후, 각 그룹마다 운영진을 포함하여 비공개 채널을 생성할 예정입니다. 모든 소통은 운영진이 포함되어 있는 비공개 채널에서 진행 부탁드립니다. 멘토링 진행 현황 \/ 학습 진행 상황 \/ 도움이 필요한 부분이 있을지 모니터링하기 위함이니 꼭 지켜주시길 바랍니다.\n>     ◦ 스터디 그룹이 편성된 이후, 추가 설문을 진행하여, *필요한 패스트캠퍼스 온라인 강의*와 *멘토링 필요 여부*에 대한 응답을 받을 예정입니다. \n>     ◦ 일정\n>         ▪︎ 10\/27 금 ~ 10\/31 화 : 스터디 그룹 수요 조사 설문 진행\n>         ▪︎ 11\/1 수 ~ 11\/2 목 : 스터디 그룹 팀 편성\n>         ▪︎ 11\/2 목 : 팀 편성 안내\n>         ▪︎ 11\/3 금 : 추가 설문 진행 (추가 강의 및 멘토링)\n> *[2] 랜덤 피어세션*\n>     ◦ 12월 18일 전까지 2주마다 랜덤으로 조를 구성하여 피어세션을 진행할 예정입니다.\n>     ◦ 더 많은 수강생들과 소통할 수 있는 기회를 마련하고자 진행하는 세션입니다.\n>     ◦ 추후에는 OT 때와 같이 모든 수강생들과 소통할 수 있는 네트워킹 데이 등의 진행도 논의 중에 있다는 점 참고 부탁드려요 :)\n> *[3] 모듈 스터디 조 데일리스크럼*\n>     ◦ 해당 스터디는 _*정규 교과*_와 관련된 내용으로, 정규 교과 외 진행되는 스터디 그룹과는 다릅니다.\n>     ◦ 업스테이지의 강의가 본격적으로 시작되는 12월 18일부터는 매일 아침 10시부터 10시 30분간, 모듈 스터디 조원들과 학습 진행 상황, 학습에 어려움을 겪는 부분, 오늘 학습 게획 등을 서로 공유하고 점검하는 시간을 갖고자 합니다. 데일리스크럼은 각 조별로 ZOOM 소회의실에서 진행될 예정입니다.\n>     ◦ 아래 학습 모듈을 기준으로 조가 변경될 예정이며, 해당 모듈이 진행되는 동안에는 같은 조원들과 계속 데일리스크럼을 진행할 예정입니다.\n>         ▪︎ Deep Learning ~ Pytorch\n>         ▪︎ *Machine Learning* Basic ~ *Machine Learning* [대회] Regression\n>         ▪︎ *Computer Vision* Basic ~ *Computer Vision* Generation\n>         ▪︎ *Natural Language Processing* Basic ~ *Natural Language Processing* LM to LLM\n>         ▪︎ Data Centric AI\n>     ◦ 모듈 스터디로 함께 배정된 조원들과 함께 학습 후, 그 조원들과 함께 경진대회를 진행하는 것으로 예정하고 있습니다. 다만, 해당 내용은 추후 변동될 수 있어 다시 한 번 안내드리도록 하겠습니다.\n그럼 한 주의 마지막인 금요일! 모두 힘내서 잘 마무리하시길 바랍니다 :sparkles:",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "g6e6ee900c48",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e6ee900c48c19701d150f52a69af64a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "김수현",
+            "real_name": "김수현",
+            "display_name": "FC 김수현 매니저",
+            "team": "T05UGFFGL07",
+            "name": "suhyunkim",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698372233.292999",
+        "reply_count": 4,
+        "reply_users_count": 2,
+        "latest_reply": "1698385898.386699",
+        "reply_users": [
+            "U05UYAVRTSR",
+            "U060LG0BT89"
+        ],
+        "replies": [
+            {
+                "user": "U05UYAVRTSR",
+                "ts": "1698372624.768289"
+            },
+            {
+                "user": "U060LG0BT89",
+                "ts": "1698375274.755279"
+            },
+            {
+                "user": "U05UYAVRTSR",
+                "ts": "1698385859.055609"
+            },
+            {
+                "user": "U060LG0BT89",
+                "ts": "1698385898.386699"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "K+cG6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n안녕하세요 수강생분들! 우선 스터디그룹 및 향후 학습 지원에 대한 안내가 늦어진 점 양해 부탁드립니다.\n관련 내용 안내드리니, 모두 확인 및 설문 참여 후 "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "white_check_mark",
+                                "unicode": "2705"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 이모지 부탁드려요 :)\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "[1] 스터디 그룹 (> ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLSeCTXBOIN9sr5YFAVsymGeWZsH1IHKt2LxOJU3Nbg7qyAdDQg\/viewform\n",
+                                "text": "설문 링크",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ")",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "모든 분들께서 필수적으로 참여해주셔야 합니다."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "최대한 학습을 희망하는 분야 + 수준 등을 고려하여 팀을 배정할 예정이며, 해당 팀은 "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "과정이 종료될 때 까지 지속",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "될 예정입니다. 다만, 추후에 딥러닝 학습이 시작되게 되면 학습 희망 분야가 변경될 수 있으므로, 그 때에 수요 조사 진행 후, 변경 희망하시는 분들에 대하여 재배치를 계획하고 있는 점 참고 부탁드립니다."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "스터디 그룹을 편성한 후, 각 그룹마다 운영진을 포함하여 비공개 채널을 생성할 예정입니다. 모든 소통은 운영진이 포함되어 있는 비공개 채널에서 진행 부탁드립니다. 멘토링 진행 현황 \/ 학습 진행 상황 \/ 도움이 필요한 부분이 있을지 모니터링하기 위함이니 꼭 지켜주시길 바랍니다."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "스터디 그룹이 편성된 이후, 추가 설문을 진행하여, "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "필요한 패스트캠퍼스 온라인 강의",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "와 "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "멘토링 필요 여부",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "에 대한 응답을 받을 예정입니다. "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "일정"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 1
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "10\/27 금 ~ 10\/31 화 : 스터디 그룹 수요 조사 설문 진행"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "11\/1 수 ~ 11\/2 목 : 스터디 그룹 팀 편성"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "11\/2 목 : 팀 편성 안내"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "11\/3 금 : 추가 설문 진행 (추가 강의 및 멘토링)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 2,
+                        "border": 1
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "[2] 랜덤 피어세션",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "12월 18일 전까지 2주마다 랜덤으로 조를 구성하여 피어세션을 진행할 예정입니다."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "더 많은 수강생들과 소통할 수 있는 기회를 마련하고자 진행하는 세션입니다."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "추후에는 OT 때와 같이 모든 수강생들과 소통할 수 있는 네트워킹 데이 등의 진행도 논의 중에 있다는 점 참고 부탁드려요 :)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 1
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "[3] 모듈 스터디 조 데일리스크럼",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "해당 스터디는 "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "정규 교과",
+                                        "style": {
+                                            "bold": true,
+                                            "italic": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "와 관련된 내용으로, 정규 교과 외 진행되는 스터디 그룹과는 다릅니다."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "업스테이지의 강의가 본격적으로 시작되는 12월 18일부터는 매일 아침 10시부터 10시 30분간, 모듈 스터디 조원들과 학습 진행 상황, 학습에 어려움을 겪는 부분, 오늘 학습 게획 등을 서로 공유하고 점검하는 시간을 갖고자 합니다. 데일리스크럼은 각 조별로 ZOOM 소회의실에서 진행될 예정입니다."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "아래 학습 모듈을 기준으로 조가 변경될 예정이며, 해당 모듈이 진행되는 동안에는 같은 조원들과 계속 데일리스크럼을 진행할 예정입니다."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 1
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Deep Learning ~ Pytorch"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Machine Learning ",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "Basic ~ "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "Machine Learning ",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "[대회] Regression"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Computer Vision ",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "Basic ~ "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "Computer Vision ",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "Generation"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Natural Language Processing ",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "Basic ~ "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "Natural Language Processing ",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "LM to LLM"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Data Centric AI"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 2,
+                        "border": 1
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "모듈 스터디로 함께 배정된 조원들과 함께 학습 후, 그 조원들과 함께 경진대회를 진행하는 것으로 예정하고 있습니다. 다만, 해당 내용은 추후 변동될 수 있어 다시 한 번 안내드리도록 하겠습니다."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 1
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n그럼 한 주의 마지막인 금요일! 모두 힘내서 잘 마무리하시길 바랍니다 "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sparkles",
+                                "unicode": "2728"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U05UYAVRTSR",
+                    "U05UT0JG4BZ",
+                    "U060LG0BT89",
+                    "U05V5B27DK7",
+                    "U05UNMQ4LP9",
+                    "U05UW1S4KQE",
+                    "U05UN5DQ423",
+                    "U0606QGQYE5",
+                    "U05V2PMAVNE",
+                    "U0606HAGLTB",
+                    "U05V2T62KUJ",
+                    "U05V0106JDT",
+                    "U05V9LP47V0",
+                    "U05V4KZR3NW",
+                    "U05V5B88ULD",
+                    "U05UVV5CVQE",
+                    "U0600GGHJTC",
+                    "U05UN6NTN8P",
+                    "U060JMX5FK2",
+                    "U05V561TXUL",
+                    "U05UWAPP5CN",
+                    "U061N4T7L8G",
+                    "U05UVE9DFSB",
+                    "U05VAU596PP",
+                    "U06022Z2TED",
+                    "U0600BP2J9H",
+                    "U060BLVQYHW",
+                    "U05UUUNAE5D",
+                    "U05VDDP88BW"
+                ],
+                "count": 29
+            },
+            {
+                "name": "설문완료",
+                "users": [
+                    "U05V0106JDT",
+                    "U0606HAGLTB",
+                    "U05V2HL22M9",
+                    "U05VB5EHM7W",
+                    "U05UVV5CVQE",
+                    "U05VBQMH3D3",
+                    "U05V4KZR3NW",
+                    "U060D1KJECR",
+                    "U05V9N22ZUK",
+                    "U05UT0JG4BZ",
+                    "U0600GGHJTC",
+                    "U05V868K2JE",
+                    "U0600PYS0G3",
+                    "U05V1KVNK0E",
+                    "U060JMX5FK2",
+                    "U05V561TXUL",
+                    "U0602CFAB7B",
+                    "U05V379NETU",
+                    "U061N4T7L8G",
+                    "U05VB9FA6MS",
+                    "U05VAU596PP",
+                    "U060TBSJ7DF",
+                    "U060LG0BT89",
+                    "U06022Z2TED",
+                    "U0600BP2J9H",
+                    "U05UW1S4KQE"
+                ],
+                "count": 26
+            }
+        ]
+    },
+    {
+        "user": "U05UYAVRTSR",
+        "type": "message",
+        "ts": "1698372624.768289",
+        "client_msg_id": "11b8c9fd-9493-4340-85df-56c3aff95f22",
+        "text": "설문 꼭 기간 내에 완료해주시고, 완료하신 분들은 :설문완료: 이모지 표시도 해주세요 ~!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "g6e6ee900c48",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e6ee900c48c19701d150f52a69af64a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "김수현",
+            "real_name": "김수현",
+            "display_name": "FC 김수현 매니저",
+            "team": "T05UGFFGL07",
+            "name": "suhyunkim",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698372233.292999",
+        "parent_user_id": "U05UYAVRTSR",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "I61IE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "설문 꼭 기간 내에 완료해주시고, 완료하신 분들은 "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "설문완료"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 이모지 표시도 해주세요 ~!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U060LG0BT89",
+        "type": "message",
+        "ts": "1698375274.755279",
+        "client_msg_id": "13ff8df9-ead2-447a-b538-d5b8beecdeba",
+        "text": "개인적으로 이미 EDA하고 있는 데이터와 모델링해야하는 Task가 있을 경우, 참작 가능한가요?",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "g273c76b80b5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/273c76b80b5c013cab6c608d10041dd4.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "김준호",
+            "real_name": "김준호",
+            "display_name": "",
+            "team": "T05UGFFGL07",
+            "name": "demyank88",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698372233.292999",
+        "parent_user_id": "U05UYAVRTSR",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KIx4\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "개인적으로 이미 EDA하고 있는 데이터와 모델링해야하는 Task가 있을 경우, 참작 가능한가요?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05UYAVRTSR",
+        "type": "message",
+        "ts": "1698385859.055609",
+        "client_msg_id": "f1377445-b391-4df9-9d89-bcea39a45c2d",
+        "text": "준호님 우선 설문 작성해주시면, 해당 내용 토대로 함께 안내드리도록 할게요!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "g6e6ee900c48",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e6ee900c48c19701d150f52a69af64a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "김수현",
+            "real_name": "김수현",
+            "display_name": "FC 김수현 매니저",
+            "team": "T05UGFFGL07",
+            "name": "suhyunkim",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698372233.292999",
+        "parent_user_id": "U05UYAVRTSR",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oXJIF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "준호님 우선 설문 작성해주시면, 해당 내용 토대로 함께 안내드리도록 할게요!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U060LG0BT89",
+        "type": "message",
+        "ts": "1698385898.386699",
+        "client_msg_id": "86e2cb8e-2439-4c79-ab28-b43fb07c5846",
+        "text": "네 이미 완료했습니다",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "g273c76b80b5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/273c76b80b5c013cab6c608d10041dd4.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "김준호",
+            "real_name": "김준호",
+            "display_name": "",
+            "team": "T05UGFFGL07",
+            "name": "demyank88",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698372233.292999",
+        "parent_user_id": "U05UYAVRTSR",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Xy65G",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "네 이미 완료했습니다"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "thumbsup_all",
+                "users": [
+                    "U05UYAVRTSR"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,1123 @@
+[
+    {
+        "user": "U05V2PMAVNE",
+        "type": "message",
+        "ts": "1699347859.727659",
+        "client_msg_id": "18e33e15-1aa5-4898-9f3e-2d491fc8b961",
+        "text": "• *스터디그룹 번호 :* 4조\n• *강의명*: *<https:\/\/fastcampus.co.kr\/data_online_msignature|초격차 패키지 : 50개 프로젝트로 완벽하게 끝내는 머신러닝 SIGNATURE | 패스트캠퍼스>*\n• *강의 URL*: <https:\/\/fastcampus.co.kr\/data_online_msignature>\n• *사유*: 현재 진도를 복습하며 여러 프로젝트를 통해 현업 환경 실습 스터디를 위해서 신청합니다. 열심히 수강 하겠습니다!\n",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "0b76558dc601",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5991261451140_0b76558dc60118dba6df_72.png",
+            "first_name": "윤수인",
+            "real_name": "윤수인",
+            "display_name": "",
+            "team": "T05UGFFGL07",
+            "name": "dbsdev98",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/storage.googleapis.com\/static.fastcampus.co.kr\/prod\/uploads\/202301\/140044-199\/활성화-이미지-2.png",
+                "image_width": 600,
+                "image_height": 315,
+                "image_bytes": 269948,
+                "from_url": "https:\/\/fastcampus.co.kr\/data_online_msignature",
+                "id": 1,
+                "original_url": "https:\/\/fastcampus.co.kr\/data_online_msignature",
+                "fallback": "초격차 패키지 : 50개 프로젝트로 완벽하게 끝내는 머신러닝 SIGNATURE | 패스트캠퍼스",
+                "text": "머신러닝 현업 관점에서 중요한 포인트부터 머신러닝 상품화를 위한 MLOPS까지",
+                "title": "초격차 패키지 : 50개 프로젝트로 완벽하게 끝내는 머신러닝 SIGNATURE | 패스트캠퍼스",
+                "title_link": "https:\/\/fastcampus.co.kr\/data_online_msignature",
+                "service_name": "fastcampus.co.kr"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WrkhB",
+                "elements": [
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "스터디그룹 번호 :",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " 4조"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "강의명",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ": "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/fastcampus.co.kr\/data_online_msignature",
+                                        "text": "초격차 패키지 : 50개 프로젝트로 완벽하게 끝내는 머신러닝 SIGNATURE | 패스트캠퍼스",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "강의 URL",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ": "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/fastcampus.co.kr\/data_online_msignature"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "사유",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ": 현재 진도를 복습하며 여러 프로젝트를 통해 현업 환경 실습 스터디를 위해서 신청합니다. 열심히 수강 하겠습니다!"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "입과_완료",
+                "users": [
+                    "U05VAHXECP6"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05UNMQ4LP9",
+        "type": "message",
+        "ts": "1699407831.573609",
+        "client_msg_id": "511a47e5-7645-47f6-adde-31a7edf95bb5",
+        "text": "• *스터디그룹 번호 :* 5조\n• *강의명*: *비용을 줄이는 LLM(대규모 언어 모델) Prompt Tuning*\n• *강의 URL*: <https:\/\/fastcampus.co.kr\/data_online_prompt>\n• *사유*: 정규과정 외에 개인 흥미(팀원 일치)에 따른 LLM Prompt Tuing 학습",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "eef278e1672b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5974738227319_eef278e1672b038da8b1_72.jpg",
+            "first_name": "김윤겸",
+            "real_name": "김윤겸",
+            "display_name": "김윤겸",
+            "team": "T05UGFFGL07",
+            "name": "dbsrua110525",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/storage.googleapis.com\/static.fastcampus.co.kr\/prod\/uploads\/202305\/030022-924\/light-active-thumb.jpg",
+                "image_width": 1200,
+                "image_height": 630,
+                "image_bytes": 193935,
+                "from_url": "https:\/\/fastcampus.co.kr\/data_online_prompt",
+                "id": 1,
+                "original_url": "https:\/\/fastcampus.co.kr\/data_online_prompt",
+                "fallback": "비용을 줄이는 LLM(대규모 언어 모델) Prompt Tuning | 패스트캠퍼스",
+                "text": "소수의 추가된 모델 파라미터만 Fine Tuning하는 Prompt Tuning, Fine Tuning 대비 400% 이상 저렴한 학습비용",
+                "title": "비용을 줄이는 LLM(대규모 언어 모델) Prompt Tuning | 패스트캠퍼스",
+                "title_link": "https:\/\/fastcampus.co.kr\/data_online_prompt",
+                "service_name": "fastcampus.co.kr"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Wo\/rX",
+                "elements": [
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "스터디그룹 번호 :",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " 5조"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "강의명",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ": "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "비용을 줄이는 LLM(대규모 언어 모델) Prompt Tuning",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "강의 URL",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ": "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/fastcampus.co.kr\/data_online_prompt"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "사유",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ": 정규과정 외에 개인 흥미(팀원 일치)에 따른 LLM Prompt Tuing 학습"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "입과_완료",
+                "users": [
+                    "U05VAHXECP6"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05UN5DQ423",
+        "type": "message",
+        "ts": "1699408077.346529",
+        "client_msg_id": "60dc1cd6-3908-4618-a946-ff2e6daabb12",
+        "text": "• 스터디그룹 번호: 6조\n• 강의명: 딥러닝을 활용한 추천시스템 구현 올인원 패키지 online\n• 강의 URL: <https:\/\/fastcampus.co.kr\/data_online_rs>\n• 사유: 추천 시스템 분야 스터디를 진행하기 위해서 위와 같이 신청합니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "602bc2a55d5c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5994828351843_602bc2a55d5c461d5b24_72.png",
+            "first_name": "박성우",
+            "real_name": "박성우",
+            "display_name": "박성우",
+            "team": "T05UGFFGL07",
+            "name": "tjddn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/storage.googleapis.com\/static.fastcampus.co.kr\/prod\/uploads\/202010\/151755-81\/thumb-active-img-token--1-.png",
+                "image_width": 1200,
+                "image_height": 630,
+                "image_bytes": 153561,
+                "from_url": "https:\/\/fastcampus.co.kr\/data_online_rs",
+                "id": 1,
+                "original_url": "https:\/\/fastcampus.co.kr\/data_online_rs",
+                "fallback": "딥러닝을 활용한 추천시스템 구현 | 패스트캠퍼스",
+                "text": "추천 알고리즘, 머신러닝\/딥러닝, 최신 논문리뷰, 다양한 데이터 실습, 성능평가까지 현장 프로세스에 필요한 추천시스템의 A to Z 다 모았다!\n내 서비스에 추천시스템 적용하고 눈에 보이는 매출 성과 대박 낼 수 있는 올인원 패키지로 공부하자!",
+                "title": "딥러닝을 활용한 추천시스템 구현 | 패스트캠퍼스",
+                "title_link": "https:\/\/fastcampus.co.kr\/data_online_rs",
+                "service_name": "fastcampus.co.kr"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "m7f2k",
+                "elements": [
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "스터디그룹 번호: 6조"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "강의명: 딥러닝을 활용한 추천시스템 구현 올인원 패키지 online"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "강의 URL: "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/fastcampus.co.kr\/data_online_rs"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "사유: 추천 시스템 분야 스터디를 진행하기 위해서 위와 같이 신청합니다."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "입과_완료",
+                "users": [
+                    "U05VAHXECP6"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05UT0JG4BZ",
+        "type": "message",
+        "ts": "1699408325.213029",
+        "edited": {
+            "user": "U05UT0JG4BZ",
+            "ts": "1699408382.000000"
+        },
+        "client_msg_id": "0b1d96c0-b436-483e-aa9c-fbd89ede6f84",
+        "text": "<@U05VAHXECP6>\n스터디그룹 번호 : 1조\n강의명 : 컴퓨터 비전 정주행 Kit\n강의 URL : <https:\/\/fastcampus.co.kr\/data_online_cptvision>\n사유 : 컴퓨터 비전 분야 스터디를 진행하기 위해서 신청합니다. 기초부터 진행하기 위해 강의 수정 신청하겠습니다.\n*<http:\/\/fastcampus.co.kr|fastcampus.co.kr>*\n*<https:\/\/fastcampus.co.kr\/data_online_cptvision|컴퓨터 비전 정주행 Kit | 패스트캠퍼스>*\n파이썬, 딥러닝 기초부터 컴퓨터비전 분야의 모든 이론뿐만 아니라 최신, 심화 프로젝트까지 한 번에!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "g9153b403f05",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/9153b403f05c51f82cac8dec3d6d8e3a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "김다운",
+            "real_name": "김다운",
+            "display_name": "김다운",
+            "team": "T05UGFFGL07",
+            "name": "ekdns7500",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1699336854.414799",
+        "parent_user_id": "U060H4V0Q5S",
+        "attachments": [
+            {
+                "image_url": "https:\/\/storage.googleapis.com\/static.fastcampus.co.kr\/prod\/uploads\/202207\/050346-816\/활성화이미지.png",
+                "image_width": 600,
+                "image_height": 315,
+                "image_bytes": 163217,
+                "from_url": "https:\/\/fastcampus.co.kr\/data_online_cptvision",
+                "id": 1,
+                "original_url": "https:\/\/fastcampus.co.kr\/data_online_cptvision",
+                "fallback": "컴퓨터 비전 정주행 Kit | 패스트캠퍼스",
+                "text": "파이썬, 딥러닝 기초부터 컴퓨터비전 분야의 모든 이론뿐만 아니라 최신, 심화 프로젝트까지 한 번에!",
+                "title": "컴퓨터 비전 정주행 Kit | 패스트캠퍼스",
+                "title_link": "https:\/\/fastcampus.co.kr\/data_online_cptvision",
+                "service_name": "fastcampus.co.kr"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pUA+I",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05VAHXECP6"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n스터디그룹 번호 : 1조\n강의명 : 컴퓨터 비전 정주행 Kit\n강의 URL : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/fastcampus.co.kr\/data_online_cptvision"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n사유 : 컴퓨터 비전 분야 스터디를 진행하기 위해서 신청합니다. 기초부터 진행하기 위해 강의 수정 신청하겠습니다.\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/fastcampus.co.kr",
+                                "text": "fastcampus.co.kr",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/fastcampus.co.kr\/data_online_cptvision",
+                                "text": "컴퓨터 비전 정주행 Kit | 패스트캠퍼스",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n파이썬, 딥러닝 기초부터 컴퓨터비전 분야의 모든 이론뿐만 아니라 최신, 심화 프로젝트까지 한 번에!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "입과_완료",
+                "users": [
+                    "U05VAHXECP6"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05VBQMH3D3",
+        "type": "message",
+        "ts": "1699409831.084709",
+        "client_msg_id": "2b1b89e6-cbb6-4e84-91c0-30c1a4fc46c1",
+        "text": "스터디그룹 번호 : 2조\n강의명 : *20개 실습으로 익히는 Transformer*\n*: 시퀀스 데이터 딥러닝*\n강의 URL : <https:\/\/fastcampus.co.kr\/data_online_transformer>\n사유 : 기본내용과 더불어 실질적인 활용이 포함된 강의라 스터디 및 대회참여에 아주 큰 도움이 될거 같습니다\n강의명 : *<https:\/\/fastcampus.co.kr\/data_online_nlpall|한 번에 끝내는 자연어 처리 초격차 패키지 Online.>*\n강의 URL : <https:\/\/fastcampus.co.kr\/data_online_nlpall>\n사유 : 기초부터 상세하게 자연어처리에 대해 구석구석까지 설명해주는 강의로 마찬가지로 스터디원들에게 도움이 될거 같습니다",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "16da4e28d6c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/6003210685524_16da4e28d6c4ea33bae5_72.png",
+            "first_name": "HB",
+            "real_name": "HB",
+            "display_name": "엄효범",
+            "team": "T05UGFFGL07",
+            "name": "swema86",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XOpJy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "스터디그룹 번호 : 2조\n강의명 : "
+                            },
+                            {
+                                "type": "text",
+                                "text": "20개 실습으로 익히는 Transformer",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": ": 시퀀스 데이터 딥러닝",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n강의 URL : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/fastcampus.co.kr\/data_online_transformer"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n사유 : 기본내용과 더불어 실질적인 활용이 포함된 강의라 스터디 및 대회참여에 아주 큰 도움이 될거 같습니다\n강의명 : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/fastcampus.co.kr\/data_online_nlpall",
+                                "text": "한 번에 끝내는 자연어 처리 초격차 패키지 Online.",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n강의 URL : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/fastcampus.co.kr\/data_online_nlpall"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n사유 : 기초부터 상세하게 자연어처리에 대해 구석구석까지 설명해주는 강의로 마찬가지로 스터디원들에게 도움이 될거 같습니다"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "입과_완료",
+                "users": [
+                    "U05VAHXECP6"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "subtype": "tombstone",
+        "text": "This message was deleted.",
+        "user": "USLACKBOT",
+        "hidden": true,
+        "type": "message",
+        "ts": "1699415396.794039",
+        "thread_ts": "1699415396.794039",
+        "parent_user_id": "USLACKBOT",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1699416944.923809",
+        "reply_users": [
+            "U05VAHXECP6",
+            "U05V379NETU"
+        ],
+        "replies": [
+            {
+                "user": "U05VAHXECP6",
+                "ts": "1699416875.430299"
+            },
+            {
+                "user": "U05V379NETU",
+                "ts": "1699416944.923809"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1699416944.923809"
+    },
+    {
+        "user": "U05VAHXECP6",
+        "type": "message",
+        "ts": "1699416875.430299",
+        "client_msg_id": "cb1c809f-d796-40a2-9568-ab0f55077d9e",
+        "text": "안녕하세요. 주용님!\n스터디그룹 번호 확인 부탁 드립니다.\n(현재 기입하신 조는 프로젝트_eda이신 것 같아요.)",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "50abee101814",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-11\/6044824153712_50abee1018149e21919b_72.jpg",
+            "first_name": "이상영",
+            "real_name": "이상영",
+            "display_name": "FC 이상영 매니저",
+            "team": "T05UGFFGL07",
+            "name": "sangyeong.lee",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1699415396.794039",
+        "parent_user_id": "USLACKBOT",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rvfCG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "안녕하세요. 주용님!\n스터디그룹 번호 확인 부탁 드립니다.\n(현재 기입하신 조는 프로젝트_eda이신 것 같아요.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05V379NETU",
+        "type": "message",
+        "ts": "1699416944.923809",
+        "client_msg_id": "8dfd0b6c-675a-4ab9-a4cc-21ec37266a95",
+        "text": "앗 잘못 기입했네요 수정하겠습니다!!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "ffacc530c1ba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/6012256954656_ffacc530c1baefd9bc1c_72.jpg",
+            "first_name": "신주용",
+            "real_name": "신주용",
+            "display_name": "신주용",
+            "team": "T05UGFFGL07",
+            "name": "robotshin1608",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1699415396.794039",
+        "parent_user_id": "USLACKBOT",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jCgK3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "앗 잘못 기입했네요 수정하겠습니다!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U05VAHXECP6"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05V9N22ZUK",
+        "type": "message",
+        "ts": "1699419431.852009",
+        "client_msg_id": "690af8ac-d3ac-4a41-ad3d-1b97d8913686",
+        "text": "• *스터디그룹 번호 :* 3조\n• *강의명*: 실무 사례로 배우는 컴퓨터 비전 논문 구현과 알고리즘 성능 최적화 With SOTA 모델\n• *강의 URL*: <https:\/\/fastcampus.co.kr\/data_online_sota>\n• *사유*: 팀원들의 의견을 모은 결과 컴퓨터 비전 분야의 최신 논문들을 공부하고 싶습니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "0698995c863f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5998310079844_0698995c863fed7643f0_72.png",
+            "first_name": "TaeHan",
+            "real_name": "TaeHan Kim",
+            "display_name": "김태한",
+            "team": "T05UGFFGL07",
+            "name": "kthnineone",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6Cjgz",
+                "elements": [
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "스터디그룹 번호 :",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " 3조"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "강의명",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ": 실무 사례로 배우는 컴퓨터 비전 논문 구현과 알고리즘 성능 최적화 With SOTA 모델"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "강의 URL",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ": "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/fastcampus.co.kr\/data_online_sota"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "사유",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ": 팀원들의 의견을 모은 결과 컴퓨터 비전 분야의 최신 논문들을 공부하고 싶습니다."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "입과_완료",
+                "users": [
+                    "U05VAHXECP6"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U060JMX5FK2",
+        "type": "message",
+        "ts": "1699421461.143979",
+        "client_msg_id": "1171f4b6-d0e8-471f-b8ef-6c1f477376c5",
+        "text": "스터디그룹 번호 : 1조\n강의명 : 컴퓨터 비전 정주행 Kit\n강의 URL : <https:\/\/fastcampus.co.kr\/data_online_cptvision>\n사유 : 컴퓨터 비전 분야 스터디를 진행하기 위해서 신청합니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "gfc7ecc6b1da",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fc7ecc6b1da3c3f7a37c07a405aa9e6a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "노균호",
+            "real_name": "노균호",
+            "display_name": "노균호",
+            "team": "T05UGFFGL07",
+            "name": "guno2633",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/storage.googleapis.com\/static.fastcampus.co.kr\/prod\/uploads\/202207\/050346-816\/활성화이미지.png",
+                "image_width": 600,
+                "image_height": 315,
+                "image_bytes": 163217,
+                "from_url": "https:\/\/fastcampus.co.kr\/data_online_cptvision",
+                "id": 1,
+                "original_url": "https:\/\/fastcampus.co.kr\/data_online_cptvision",
+                "fallback": "컴퓨터 비전 정주행 Kit | 패스트캠퍼스",
+                "text": "파이썬, 딥러닝 기초부터 컴퓨터비전 분야의 모든 이론뿐만 아니라 최신, 심화 프로젝트까지 한 번에!",
+                "title": "컴퓨터 비전 정주행 Kit | 패스트캠퍼스",
+                "title_link": "https:\/\/fastcampus.co.kr\/data_online_cptvision",
+                "service_name": "fastcampus.co.kr"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ngvM8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "스터디그룹 번호 : 1조\n강의명 : 컴퓨터 비전 정주행 Kit\n강의 URL : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/fastcampus.co.kr\/data_online_cptvision"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n사유 : 컴퓨터 비전 분야 스터디를 진행하기 위해서 신청합니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "입과_완료",
+                "users": [
+                    "U05VAHXECP6"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05V2T62KUJ",
+        "type": "message",
+        "ts": "1699424752.909109",
+        "edited": {
+            "user": "U05V2T62KUJ",
+            "ts": "1699595320.000000"
+        },
+        "client_msg_id": "4015b034-4737-48e1-a526-6b2c28381b6c",
+        "text": "스터디그룹 번호 : 12조\n강의명: 초격차 패키지 : 한 번에 끝내는 자연어 처리 초격차 패키지 Online.\n강의 URL: <https:\/\/fastcampus.co.kr\/data_online_nlpall>\n사유: 저희 조원 모두 NLP에 관심이 많으셔서 NLP 관련 스터디를 진행해 보려고 합니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "ae24066f5a1a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5989305080675_ae24066f5a1a2d78e521_72.jpg",
+            "first_name": "김영천",
+            "real_name": "김영천",
+            "display_name": "김영천",
+            "team": "T05UGFFGL07",
+            "name": "dudcjs2779",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1699424752.909109",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1699595340.607249",
+        "reply_users": [
+            "U05VAHXECP6",
+            "U05V2T62KUJ"
+        ],
+        "replies": [
+            {
+                "user": "U05VAHXECP6",
+                "ts": "1699595269.114839"
+            },
+            {
+                "user": "U05V2T62KUJ",
+                "ts": "1699595340.607249"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1699595340.607249",
+        "attachments": [
+            {
+                "image_url": "https:\/\/storage.googleapis.com\/static.fastcampus.co.kr\/prod\/uploads\/202212\/043812-199\/light-active-thumb.png",
+                "image_width": 1200,
+                "image_height": 630,
+                "image_bytes": 300350,
+                "from_url": "https:\/\/fastcampus.co.kr\/data_online_nlpall",
+                "id": 1,
+                "original_url": "https:\/\/fastcampus.co.kr\/data_online_nlpall",
+                "fallback": "한 번에 끝내는 자연어 처리 초격차 패키지 Online. | 패스트캠퍼스",
+                "text": "자연어 처리 기본기부터 최신 Transformer 알고리즘까지 이론과 실습 모두 다루는 80시간 커리큘럼! 한국어 자연어 처리를 위한 KLUE 강의 포함!",
+                "title": "한 번에 끝내는 자연어 처리 초격차 패키지 Online. | 패스트캠퍼스",
+                "title_link": "https:\/\/fastcampus.co.kr\/data_online_nlpall",
+                "service_name": "fastcampus.co.kr"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bhkQb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "스터디그룹 번호 : 12조\n강의명: 초격차 패키지 : 한 번에 끝내는 자연어 처리 초격차 패키지 Online.\n강의 URL: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/fastcampus.co.kr\/data_online_nlpall"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n사유: 저희 조원 모두 NLP에 관심이 많으셔서 NLP 관련 스터디를 진행해 보려고 합니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "입과_완료",
+                "users": [
+                    "U05VAHXECP6"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05UVV5CVQE",
+        "type": "message",
+        "ts": "1699427087.944329",
+        "client_msg_id": "9de11741-2887-4f55-96a0-938ddf0bffec",
+        "text": "• *스터디그룹 번호 :* 10조\n• *강의명*: *<https:\/\/fastcampus.co.kr\/data_online_msignature|초격차 패키지 : 50개 프로젝트로 완벽하게 끝내는 머신러닝 SIGNATURE | 패스트캠퍼스>*\n• *강의 URL*: <https:\/\/fastcampus.co.kr\/data_online_msignature>\n• *사유*: 현재 과정에서 모델링까지 해보며 더 기초를 다지기 위해 신청하였습니다!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "30ac2d3237e9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5988633954770_30ac2d3237e9b742adc2_72.jpg",
+            "first_name": "장은혁",
+            "real_name": "장은혁",
+            "display_name": "장은혁",
+            "team": "T05UGFFGL07",
+            "name": "jaydenhyuk830",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/storage.googleapis.com\/static.fastcampus.co.kr\/prod\/uploads\/202301\/140044-199\/활성화-이미지-2.png",
+                "image_width": 600,
+                "image_height": 315,
+                "image_bytes": 269948,
+                "from_url": "https:\/\/fastcampus.co.kr\/data_online_msignature",
+                "id": 1,
+                "original_url": "https:\/\/fastcampus.co.kr\/data_online_msignature",
+                "fallback": "초격차 패키지 : 50개 프로젝트로 완벽하게 끝내는 머신러닝 SIGNATURE | 패스트캠퍼스",
+                "text": "머신러닝 현업 관점에서 중요한 포인트부터 머신러닝 상품화를 위한 MLOPS까지",
+                "title": "초격차 패키지 : 50개 프로젝트로 완벽하게 끝내는 머신러닝 SIGNATURE | 패스트캠퍼스",
+                "title_link": "https:\/\/fastcampus.co.kr\/data_online_msignature",
+                "service_name": "fastcampus.co.kr"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "es4EL",
+                "elements": [
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "스터디그룹 번호 :",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " 10조"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "강의명",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ": "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/fastcampus.co.kr\/data_online_msignature",
+                                        "text": "초격차 패키지 : 50개 프로젝트로 완벽하게 끝내는 머신러닝 SIGNATURE | 패스트캠퍼스",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "강의 URL",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ": "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/fastcampus.co.kr\/data_online_msignature"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "사유",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ": 현재 과정에서 모델링까지 해보며 더 기초를 다지기 위해 신청하였습니다!"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "입과_완료",
+                "users": [
+                    "U05VAHXECP6"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

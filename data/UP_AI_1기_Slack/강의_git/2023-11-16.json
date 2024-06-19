@@ -1,0 +1,747 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U06061L4S64",
+        "text": "<@U06061L4S64> 님이 채널에 참여함",
+        "type": "message",
+        "ts": "1700182491.184859"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U061N4T7L8G",
+        "text": "<@U061N4T7L8G> 님이 채널에 참여함",
+        "inviter": "U06061L4S64",
+        "type": "message",
+        "ts": "1700182622.601879"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U05V868K2JE",
+        "text": "<@U05V868K2JE> 님이 채널에 참여함",
+        "inviter": "U06061L4S64",
+        "type": "message",
+        "ts": "1700182622.714489"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U05V7V2AV8A",
+        "text": "<@U05V7V2AV8A> 님이 채널에 참여함",
+        "inviter": "U06061L4S64",
+        "type": "message",
+        "ts": "1700182622.826499"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U0600C60ZK4",
+        "text": "<@U0600C60ZK4> 님이 채널에 참여함",
+        "inviter": "U06061L4S64",
+        "type": "message",
+        "ts": "1700182622.924799"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U05UVE9DFSB",
+        "text": "<@U05UVE9DFSB> 님이 채널에 참여함",
+        "inviter": "U06061L4S64",
+        "type": "message",
+        "ts": "1700182623.090259"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U05UZPKCGBZ",
+        "text": "<@U05UZPKCGBZ> 님이 채널에 참여함",
+        "inviter": "U06061L4S64",
+        "type": "message",
+        "ts": "1700182623.192409"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U05VADPQPCL",
+        "text": "<@U05VADPQPCL> 님이 채널에 참여함",
+        "inviter": "U06061L4S64",
+        "type": "message",
+        "ts": "1700182623.288359"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U05VCCSHKHR",
+        "text": "<@U05VCCSHKHR> 님이 채널에 참여함",
+        "inviter": "U06061L4S64",
+        "type": "message",
+        "ts": "1700182623.431109"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U05UUUNAE5D",
+        "text": "<@U05UUUNAE5D> 님이 채널에 참여함",
+        "inviter": "U06061L4S64",
+        "type": "message",
+        "ts": "1700182623.535199"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U05V2GDNNLT",
+        "text": "<@U05V2GDNNLT> 님이 채널에 참여함",
+        "inviter": "U06061L4S64",
+        "type": "message",
+        "ts": "1700182623.776159"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U05UN7M2GKZ",
+        "text": "<@U05UN7M2GKZ> 님이 채널에 참여함",
+        "inviter": "U06061L4S64",
+        "type": "message",
+        "ts": "1700182623.882209"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U05UW1S4KQE",
+        "text": "<@U05UW1S4KQE> 님이 채널에 참여함",
+        "inviter": "U06061L4S64",
+        "type": "message",
+        "ts": "1700182623.971189"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U05VAHXECP6",
+        "text": "<@U05VAHXECP6> 님이 채널에 참여함",
+        "inviter": "U06061L4S64",
+        "type": "message",
+        "ts": "1700182624.080849"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U05VB9FA6MS",
+        "text": "<@U05VB9FA6MS> 님이 채널에 참여함",
+        "inviter": "U06061L4S64",
+        "type": "message",
+        "ts": "1700182624.206179"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U0600PYS0G3",
+        "text": "<@U0600PYS0G3> 님이 채널에 참여함",
+        "inviter": "U06061L4S64",
+        "type": "message",
+        "ts": "1700182624.310249"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U05UT0JG4BZ",
+        "text": "<@U05UT0JG4BZ> 님이 채널에 참여함",
+        "inviter": "U06061L4S64",
+        "type": "message",
+        "ts": "1700182624.391359"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U05UNMQ4LP9",
+        "text": "<@U05UNMQ4LP9> 님이 채널에 참여함",
+        "inviter": "U06061L4S64",
+        "type": "message",
+        "ts": "1700182624.485529"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U0602CFAB7B",
+        "text": "<@U0602CFAB7B> 님이 채널에 참여함",
+        "inviter": "U06061L4S64",
+        "type": "message",
+        "ts": "1700182624.573439"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U05V2P37518",
+        "text": "<@U05V2P37518> 님이 채널에 참여함",
+        "inviter": "U06061L4S64",
+        "type": "message",
+        "ts": "1700182624.658569"
+    },
+    {
+        "text": "<!here>\n오늘 git 강의 자료 업로드해드려요!",
+        "files": [
+            {
+                "id": "F066JC2HKDX",
+                "created": 1700182634,
+                "timestamp": 1700182634,
+                "name": "231117-git.pdf",
+                "title": "231117-git.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U06061L4S64",
+                "user_team": "T05UGFFGL07",
+                "editable": false,
+                "size": 3562853,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F066JC2HKDX\/231117-git.pdf?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F066JC2HKDX\/download\/231117-git.pdf?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "media_display_type": "unknown",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F066JC2HKDX-faa49ca18f\/231117-git_thumb_pdf.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_pdf_w": 2933,
+                "thumb_pdf_h": 1650,
+                "permalink": "https:\/\/fcupstageai1.slack.com\/files\/U06061L4S64\/F066JC2HKDX\/231117-git.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/T05UGFFGL07-F066JC2HKDX-1aa544ffe1",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U06061L4S64",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JHJOq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n오늘 git 강의 자료 업로드해드려요!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1700182657.998269",
+        "client_msg_id": "1ea1231d-feaa-42be-956b-555d48e4e673",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U05V5B27DK7",
+                    "U05UT0JG4BZ"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U060BLVQYHW",
+        "type": "message",
+        "ts": "1700188594.452139",
+        "client_msg_id": "04fe36fd-2e23-4304-8c80-9b537931c0c0",
+        "text": "<https:\/\/hexo.io\/ko\/index.html|github 블로그>",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "g6cb970458b5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6cb970458b5672091fa231bd078f93da.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+            "first_name": "Sang",
+            "real_name": "Sang Hyuk SEO",
+            "display_name": "서상혁",
+            "team": "T05UGFFGL07",
+            "name": "happer96",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "l8aDc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/hexo.io\/ko\/index.html",
+                                "text": "github 블로그"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U060BLVQYHW",
+        "type": "message",
+        "ts": "1700188648.440809",
+        "client_msg_id": "aa818302-2ca7-4bcb-82fa-2b476a106822",
+        "text": "<https:\/\/www.toptal.com\/developers\/gitignore|gitignore>",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "g6cb970458b5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6cb970458b5672091fa231bd078f93da.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+            "first_name": "Sang",
+            "real_name": "Sang Hyuk SEO",
+            "display_name": "서상혁",
+            "team": "T05UGFFGL07",
+            "name": "happer96",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZRNHX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.toptal.com\/developers\/gitignore",
+                                "text": "gitignore"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U05VAHXECP6"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05VCCSHKHR",
+        "type": "message",
+        "ts": "1700193094.272429",
+        "client_msg_id": "8bf490bb-4558-4622-aaf1-a2a4c5105b4e",
+        "text": "오늘 팀프로젝트는 몇시부터 몇시까지인가요?",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "680561218468",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5998434715235_680561218468939005d6_72.png",
+            "first_name": "송현지",
+            "real_name": "송현지",
+            "display_name": "송현지",
+            "team": "T05UGFFGL07",
+            "name": "hyunjeesong95",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1700193094.272429",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1700195160.551019",
+        "reply_users": [
+            "U05VAHXECP6"
+        ],
+        "replies": [
+            {
+                "user": "U05VAHXECP6",
+                "ts": "1700195160.551019"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1700195160.551019",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dZDsR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "오늘 팀프로젝트는 몇시부터 몇시까지인가요?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U05VAHXECP6"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05VAHXECP6",
+        "type": "message",
+        "ts": "1700195160.551019",
+        "client_msg_id": "e3c19f89-15dd-4dd5-93e1-43888eb289bb",
+        "text": "안녕하세요. 현지님!\n금일 팀 활동은 마지막 3시간(16:00~19:00)로 예정되어 있는데요.\n해당 일정은 현재 강의 진도를 보고, 강사님께서 변경하실 수 있음을 참고 부탁 드립니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "50abee101814",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-11\/6044824153712_50abee1018149e21919b_72.jpg",
+            "first_name": "이상영",
+            "real_name": "이상영",
+            "display_name": "FC 이상영 매니저",
+            "team": "T05UGFFGL07",
+            "name": "sangyeong.lee",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1700193094.272429",
+        "parent_user_id": "U05VCCSHKHR",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "z4gww",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "안녕하세요. 현지님!\n금일 팀 활동은 마지막 3시간(16:00~19:00)로 예정되어 있는데요.\n해당 일정은 현재 강의 진도를 보고, 강사님께서 변경하실 수 있음을 참고 부탁 드립니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U05VCCSHKHR"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05VAHXECP6",
+        "type": "message",
+        "ts": "1700201414.506239",
+        "client_msg_id": "a242c8d9-69ee-4c25-afb3-d1b656225123",
+        "text": "&gt; *Git 실시간 강의 내용 정리(최우영 강사님_업데이트)*\n<https:\/\/github.com\/kingwangzzang1234\/conventional-repo\/blob\/main\/how-to.md>",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "50abee101814",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-11\/6044824153712_50abee1018149e21919b_72.jpg",
+            "first_name": "이상영",
+            "real_name": "이상영",
+            "display_name": "FC 이상영 매니저",
+            "team": "T05UGFFGL07",
+            "name": "sangyeong.lee",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "color": "24292f",
+                "bot_id": "B064NLR870C",
+                "app_unfurl_url": "https:\/\/github.com\/kingwangzzang1234\/conventional-repo\/blob\/main\/how-to.md",
+                "is_app_unfurl": true,
+                "app_id": "A01BP7R4KNY",
+                "fallback": "<https:\/\/github.com\/kingwangzzang1234\/conventional-repo\/blob\/main\/how-to.md | how-to.md>",
+                "text": "*git 사용법을 알아봅시다.*\n*repo clone하기*\n\n• github에서 repo를 생성한다.\n• repo url을 복사한다.\n• `$ git clone repo-url` 하여 로컬에 복제한다.\n\n*add, commit, push*\n\n• 새 파일을 생성한다 or 이미 존재하는 파일에 작업을 실시한다.\n• `$ git status` 로 현재 상황을 파악한다.\n• `$ git add filename`으로 대상 파일을 staging한다.\n• `$ git commit` 으로 메타데이터를 작성한다.(`$ git commit -m \"message\"`도 사용가능)\n• `$ git push origin main`으로 원격저장소(github)에 push 한다.\n\n*branch*\n\n• `$ git branch branchname`으로 새 브랜치를 생성한다.\n• `$ git switch branchname`으로 새 브랜치로 이동한다.\n• 작업하여 add, commit을 실시한다.\n• 작업이 끝나면, `$ git switch main` 으로 기본 브랜치로 돌아온다.\n• `$ git merge branchname`으로 새 브랜치의 작업사항을 기본 브랜치로 합친다.\n• 만약, merge conflict가 발생한다면, 해당 상황을 해결한 뒤 add, commit(-m 사용 금지) 하여 merge를 완료한다.\n\n*github flow*\n\n• `$ git branch branchname`으로 새 브랜치를 생성 후 `$ git switch branchname` 으로 이동한다.\n• github 에서 issue를 작성한 뒤, 작성한 작업의 순서에 따라 작업을 실시한다.\n• 최종적으로 모든 작업을 commit 한 뒤, 해당 브랜치 위에서 `$ git push -u origin branchname` 하여 github에 전달한다.\n• github 에서 pull request를 open 하여 code review 등 필요한 일을 수행하고, 이상없을 경우 merge 한다.\n• github 에서 merge 된 branchname 브랜치를 삭제한다.\n• local에서 `$ git fetch origin main`, `$ git merge FETCH_HEAD`를 하여, github의 업데이트된 내용을 pull 한다.\n• 다음 작업 시작 의 반복",
+                "title": "<https:\/\/github.com\/kingwangzzang1234\/conventional-repo\/blob\/main\/how-to.md | how-to.md>",
+                "footer": "<https:\/\/github.com\/kingwangzzang1234\/conventional-repo|kingwangzzang1234\/conventional-repo>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gjGlw",
+                "elements": [
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Git 실시간 강의 내용 정리(최우영 강사님_업데이트)",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/kingwangzzang1234\/conventional-repo\/blob\/main\/how-to.md"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U05UWVA90H4",
+                    "U060TBSJ7DF"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "text": "&gt; *팀 프로젝트*\n• 쉬는 시간 이후 랜덤으로 배정된 조에서 진행 부탁드립니다.",
+        "files": [
+            {
+                "id": "F0669CVP2NQ",
+                "created": 1700207215,
+                "timestamp": 1700207215,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U05VAHXECP6",
+                "user_team": "T05UGFFGL07",
+                "editable": false,
+                "size": 154129,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F0669CVP2NQ\/image.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F0669CVP2NQ\/download\/image.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F0669CVP2NQ-4bb3869cf7\/image_64.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F0669CVP2NQ-4bb3869cf7\/image_80.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F0669CVP2NQ-4bb3869cf7\/image_360.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_360_w": 360,
+                "thumb_360_h": 201,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F0669CVP2NQ-4bb3869cf7\/image_480.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_480_w": 480,
+                "thumb_480_h": 267,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F0669CVP2NQ-4bb3869cf7\/image_160.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F0669CVP2NQ-4bb3869cf7\/image_720.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_720_w": 720,
+                "thumb_720_h": 401,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F0669CVP2NQ-4bb3869cf7\/image_800.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_800_w": 800,
+                "thumb_800_h": 446,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F0669CVP2NQ-4bb3869cf7\/image_960.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_960_w": 960,
+                "thumb_960_h": 535,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F0669CVP2NQ-4bb3869cf7\/image_1024.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 571,
+                "original_w": 1249,
+                "original_h": 696,
+                "thumb_tiny": "AwAaADDTopjdqbx7f5\/GgB7ByeHAH0oUODywI+lIH9efypQ4PoPxoAdRR1ooAY\/bNM4\/z\/8ArqaigCE\/T9P\/AK9HTnb\/AOO\/\/XqaigBg359Pw\/8Ar07n1paKAP\/Z",
+                "permalink": "https:\/\/fcupstageai1.slack.com\/files\/U05VAHXECP6\/F0669CVP2NQ\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T05UGFFGL07-F0669CVP2NQ-f780d45017",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U05VAHXECP6",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9aACy",
+                "elements": [
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "팀 프로젝트",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "쉬는 시간 이후 랜덤으로 배정된 조에서 진행 부탁드립니다."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1700207237.229739",
+        "client_msg_id": "0063f029-8243-4bf5-a632-3c3ff38f1f64"
+    },
+    {
+        "user": "U066JCHMX1P",
+        "type": "message",
+        "ts": "1700207938.232399",
+        "client_msg_id": "d1557bc2-744c-4b63-a7b5-40d1e27f9935",
+        "text": "<https:\/\/youtu.be\/aJOJFZvdL10>",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "e9986a8f8625",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-11-16\/6203151884182_e9986a8f86252296f2e2_72.jpg",
+            "first_name": "Clifford",
+            "real_name": "Clifford Choi",
+            "display_name": "Clifford Choi",
+            "team": "T05UGFFGL07",
+            "name": "ulgoon89",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1700207938.232399",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1700207962.244129",
+        "reply_users": [
+            "U066JCHMX1P"
+        ],
+        "replies": [
+            {
+                "user": "U066JCHMX1P",
+                "ts": "1700207962.244129"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "attachments": [
+            {
+                "from_url": "https:\/\/youtu.be\/aJOJFZvdL10",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/aJOJFZvdL10\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/aJOJFZvdL10?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen title=\"231117 github flow\"><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "id": 1,
+                "original_url": "https:\/\/youtu.be\/aJOJFZvdL10",
+                "fallback": "YouTube Video: 231117 github flow",
+                "title": "231117 github flow",
+                "title_link": "https:\/\/youtu.be\/aJOJFZvdL10",
+                "author_name": "개발n회차",
+                "author_link": "https:\/\/www.youtube.com\/@user-px6cj2li9u",
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iPO41",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/youtu.be\/aJOJFZvdL10"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U05V7H78DUM",
+                    "U05UWVA90H4",
+                    "U05V5H1T24V",
+                    "U05UZLEM04V",
+                    "U05V2T62KUJ",
+                    "U05V5B27DK7",
+                    "U0600GGHJTC",
+                    "U060BLVQYHW",
+                    "U05V9LP47V0",
+                    "U060LG0BT89",
+                    "U05VB5EHM7W",
+                    "U0600BP2J9H"
+                ],
+                "count": 12
+            }
+        ]
+    },
+    {
+        "user": "U066JCHMX1P",
+        "type": "message",
+        "ts": "1700207962.244129",
+        "client_msg_id": "2cffe5f0-4baf-4d56-957e-c8bd5c6d0214",
+        "text": "곧 FHD로 렌더링 될 예정입니다:)",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "e9986a8f8625",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-11-16\/6203151884182_e9986a8f86252296f2e2_72.jpg",
+            "first_name": "Clifford",
+            "real_name": "Clifford Choi",
+            "display_name": "Clifford Choi",
+            "team": "T05UGFFGL07",
+            "name": "ulgoon89",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1700207938.232399",
+        "parent_user_id": "U066JCHMX1P",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cq3Ir",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "곧 FHD로 렌더링 될 예정입니다:)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

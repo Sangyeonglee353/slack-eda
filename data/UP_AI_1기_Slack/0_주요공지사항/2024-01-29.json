@@ -1,0 +1,1137 @@
+[
+    {
+        "user": "U05UN5DQ423",
+        "type": "message",
+        "ts": "1706518849.107079",
+        "edited": {
+            "user": "U05UN5DQ423",
+            "ts": "1706519086.000000"
+        },
+        "client_msg_id": "1a958d0a-b15f-4b41-a94c-59c76e229a4a",
+        "text": "안녕하세요 :slightly_smiling_face:\n\n먼저 양질의 수업과 대회를 위해 힘써주셔서 감사드립니다. 세심한 지도와 지원에 힘입어 열심히 배우고 있습니다:bow: 특히 대회가 마무리된 이후에도 여러 이슈에 대해 신속하게 대응해주셔서 감사드립니다.\n\n이번에 발생한 문제의 원인이 늦게나마 밝혀져서 다행입니다. 그러나 잘못된 정답을 맞추기 위해서 투자한  2주간의 시간들이 아깝고 큰 허탈감을 느끼고 있습니다. 또한, 그 과정에서 나타난 문제에 대한 미흡한 대응과 문제의 원인을 알게 된 뒤에 이어진 주최 측의 미온적인 사과는 참가자들의 불편함을 해소하기에 적절하지 않다고 생각합니다.\n\n보다 구체적인 사과와 함께 400건에 대한 재채점이 완료된 이후 제출 파일을 다시 선택할 수 있는 등 후속 처리에 대한 논의가 이어지길 바랍니다. 혹여 이미 관련된 조치를 생각중이셨다면 저의 성급한 발언에 사과드리겠습니다. 참가자들이 투자한 시간과 노력을 존중하는 조치를 통해 모두가 만족할 수 있는 마무리가 되었으면 좋겠습니다.\n\n다음 대회에서는 이러한 불편함과 허탈함을 최소화하기 위해 노력해주시면 감사하겠습니다 :muscle:",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "602bc2a55d5c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5994828351843_602bc2a55d5c461d5b24_72.png",
+            "first_name": "박성우",
+            "real_name": "박성우",
+            "display_name": "박성우",
+            "team": "T05UGFFGL07",
+            "name": "tjddn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1706505608.463009",
+        "parent_user_id": "U0608EG7YEA",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pl0cY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "안녕하세요 "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n먼저 양질의 수업과 대회를 위해 힘써주셔서 감사드립니다. 세심한 지도와 지원에 힘입어 열심히 배우고 있습니다"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bow",
+                                "unicode": "1f647"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 특히 대회가 마무리된 이후에도 여러 이슈에 대해 신속하게 대응해주셔서 감사드립니다.\n\n이번에 발생한 문제의 원인이 늦게나마 밝혀져서 다행입니다. 그러나 잘못된 정답을 맞추기 위해서 투자한  2주간의 시간들이 아깝고 큰 허탈감을 느끼고 있습니다. 또한, 그 과정에서 나타난 문제에 대한 미흡한 대응과 문제의 원인을 알게 된 뒤에 이어진 주최 측의 미온적인 사과는 참가자들의 불편함을 해소하기에 적절하지 않다고 생각합니다.\n\n보다 구체적인 사과와 함께 400건에 대한 재채점이 완료된 이후 제출 파일을 다시 선택할 수 있는 등 후속 처리에 대한 논의가 이어지길 바랍니다. 혹여 이미 관련된 조치를 생각중이셨다면 저의 성급한 발언에 사과드리겠습니다. 참가자들이 투자한 시간과 노력을 존중하는 조치를 통해 모두가 만족할 수 있는 마무리가 되었으면 좋겠습니다.\n\n다음 대회에서는 이러한 불편함과 허탈함을 최소화하기 위해 노력해주시면 감사하겠습니다 "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "muscle",
+                                "unicode": "1f4aa"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U05V2P37518",
+                    "U060C67EYQ5",
+                    "U05V1KVNK0E",
+                    "U05UZLEM04V",
+                    "U060BLVQYHW",
+                    "U05UN5DQ423"
+                ],
+                "count": 6
+            }
+        ]
+    },
+    {
+        "subtype": "thread_broadcast",
+        "user": "U05VAHXECP6",
+        "thread_ts": "1706505608.463009",
+        "root": {
+            "user": "U0608EG7YEA",
+            "type": "message",
+            "ts": "1706505608.463009",
+            "client_msg_id": "8745d6e4-18f3-418e-b17c-a61c62513ee6",
+            "text": "<!channel>\n*ML 경진대회 리더보드 재채점 결과 업데이트 안내*\n1. 리더보드 채점 간 발생한 오류\n    ◦ public \/ private 채점 시 동일한 파일로 진행됨.\n    ◦ 채점 코드의 인덱싱 코드에 오류가 있어 잘못된 정답으로 채점이 진행됨.\n2. 재채점 결과\n    ◦ *팀별 최종 제출(2건)에 대한 재채점 완료 (리더보드 업데이트)* :white_check_mark:\n    ◦ 대회 진행 간 제출한 모든 건에 대한 재채점 진행 예정\n        ▪︎ 약 400건에 달하다보니 플랫폼 내 기능 개발 후 일괄 진행 필요\n        ▪︎ 이 부분에 대해서는 추후 완료되면 공지 예정.\n경진 대회 진행 간 불편을 겪게 해드려 다시 한 번 사과드리며, 추후에는 이러한 문제가 발생하지 않도록 더 꼼꼼히 검수하겠습니다. 감사합니다. :pray:",
+            "team": "T05UGFFGL07",
+            "thread_ts": "1706505608.463009",
+            "reply_count": 3,
+            "reply_users_count": 3,
+            "latest_reply": "1706521134.856799",
+            "reply_users": [
+                "U05UWVA90H4",
+                "U05UN5DQ423",
+                "U05VAHXECP6"
+            ],
+            "replies": [
+                {
+                    "user": "U05UWVA90H4",
+                    "ts": "1706514336.599209"
+                },
+                {
+                    "user": "U05UN5DQ423",
+                    "ts": "1706518849.107079"
+                },
+                {
+                    "user": "U05VAHXECP6",
+                    "ts": "1706521134.856799"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": true,
+            "last_read": "1706521134.856799",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "cL5yP",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "broadcast",
+                                    "range": "channel"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "ML 경진대회 리더보드 재채점 결과 업데이트 안내",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "리더보드 채점 간 발생한 오류"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "ordered",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "public \/ private 채점 시 동일한 파일로 진행됨."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "채점 코드의 인덱싱 코드에 오류가 있어 잘못된 정답으로 채점이 진행됨."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 1,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "재채점 결과"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "ordered",
+                            "indent": 0,
+                            "offset": 1,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "팀별 최종 제출(2건)에 대한 재채점 완료 (리더보드 업데이트) ",
+                                            "style": {
+                                                "bold": true
+                                            }
+                                        },
+                                        {
+                                            "type": "emoji",
+                                            "name": "white_check_mark",
+                                            "unicode": "2705",
+                                            "style": {
+                                                "bold": true
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "대회 진행 간 제출한 모든 건에 대한 재채점 진행 예정"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 1,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "약 400건에 달하다보니 플랫폼 내 기능 개발 후 일괄 진행 필요"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "이 부분에 대해서는 추후 완료되면 공지 예정."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 2,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "경진 대회 진행 간 불편을 겪게 해드려 다시 한 번 사과드리며, 추후에는 이러한 문제가 발생하지 않도록 더 꼼꼼히 검수하겠습니다. 감사합니다. "
+                                },
+                                {
+                                    "type": "emoji",
+                                    "name": "pray",
+                                    "unicode": "1f64f"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "type": "message",
+        "ts": "1706521134.856799",
+        "edited": {
+            "user": "U05VAHXECP6",
+            "ts": "1706521206.000000"
+        },
+        "client_msg_id": "610fdd8f-a05b-43a1-b1cf-b2ce4a2a6c43",
+        "text": "네. 준형님! 먼저 문제 발견 사항에 대해 공유주셔서 감사 드리구요.\n이번에 주신 의견에 대해서는 저희 운영진 측도 공감합니다.\n현재 소통 채널은 4가지로 운영이 되고 있었습니다.\n이에 대한 구두 안내는 드린 바 있지만, 서면 안내가 부족했던 것 같습니다.\n\n> *(기존) 대회 소통 채널 운영 방식*\n1. 이론 강의 질문 \/ 멘토질문방\n2. *<https:\/\/fcupstageai1.slack.com\/archives\/C05UU79AD4M\/p1705283915842729|대회 데이터셋, 룰 등의 관련 질문(관련 공지 스레드)>*\n    ◦ 운영질문방 or 프로젝트 문의 게시판\n3. 인사이트 공유 \/ 커뮤니티 게시판\n4. AI Stages 플랫폼 질문 \/ 플랫폼 이슈 문의 게시판\n*기존에는 수강생분들의 채널이 너무 많이 늘어나는 것을 염려하여,* \n*채널을 최대한 추가하지 않고, 기존에 채널을 통해 운영하는 방식을 취했습니다.*\n\n하지만, 이로인해 위에 공유주신 것처럼 대회 관련 내용이 명확히 공유되지 못하는 등\n이슈가 있어 아래와 같이 채널을 추가하여 운영하도록 하겠습니다.\n\n> *(변경) 대회 소통 채널 운영 방식*\n1. 이론 강의 질문 \/ 멘토질문방\n2. *일반적인 운영 관련 질문 \/ 운영질문방 (변경)*\n3. *대회 데이터셋, 룰 등의 관련 질문 \/ 대회질문방 (추가)*\n    ◦ 프로젝트 문의 게시판 대신 여기로 통일하겠습니다.\n    ◦ 플랫폼 내용을 제외한 대회 관련 이상한 점, 의구심이 드는 점은 여기로 질문 주세요. \n    ◦ 질문 시 <@U0608EG7YEA> <@U0600HN24UX> <@U06AY7UPXFT> 님을 태깅해주세요.\n4. 인사이트 공유 \/ 커뮤니티 게시판\n5. AI Stages 플랫폼 질문 \/ 플랫폼 이슈 문의 게시판\n소중한 의견 감사합니다. :pray:",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "x3I\/H",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "네. 준형님! 먼저 문제 발견 사항에 대해 공유주셔서 감사 드리구요.\n이번에 주신 의견에 대해서는 저희 운영진 측도 공감합니다.\n현재 소통 채널은 4가지로 운영이 되고 있었습니다.\n이에 대한 구두 안내는 드린 바 있지만, 서면 안내가 부족했던 것 같습니다.\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "(기존) 대회 소통 채널 운영 방식",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "이론 강의 질문 \/ 멘토질문방"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/fcupstageai1.slack.com\/archives\/C05UU79AD4M\/p1705283915842729",
+                                        "text": "대회 데이터셋, 룰 등의 관련 질문(관련 공지 스레드)",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "운영질문방 or 프로젝트 문의 게시판"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "인사이트 공유 \/ 커뮤니티 게시판"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "AI Stages 플랫폼 질문 \/ 플랫폼 이슈 문의 게시판"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "offset": 2,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "기존에는 수강생분들의 채널이 너무 많이 늘어나는 것을 염려하여, ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "채널을 최대한 추가하지 않고, 기존에 채널을 통해 운영하는 방식을 취했습니다.",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n하지만, 이로인해 위에 공유주신 것처럼 대회 관련 내용이 명확히 공유되지 못하는 등\n이슈가 있어 아래와 같이 채널을 추가하여 운영하도록 하겠습니다.\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "(변경) 대회 소통 채널 운영 방식",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "이론 강의 질문 \/ 멘토질문방"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "일반적인 운영 관련 질문 \/ 운영질문방 (변경)",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "대회 데이터셋, 룰 등의 관련 질문 \/ 대회질문방 (추가)",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "프로젝트 문의 게시판 대신 여기로 통일하겠습니다."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "플랫폼 내용을 제외한 대회 관련 이상한 점, 의구심이 드는 점은 여기로 질문 주세요. "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "질문 시 "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U0608EG7YEA"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U0600HN24UX"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U06AY7UPXFT"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " 님을 태깅해주세요."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "인사이트 공유 \/ 커뮤니티 게시판"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "AI Stages 플랫폼 질문 \/ 플랫폼 이슈 문의 게시판"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "offset": 3,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n소중한 의견 감사합니다. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U05UWVA90H4",
+                    "U060C67EYQ5",
+                    "U060BLVQYHW",
+                    "U0608EG7YEA",
+                    "U05V2T62KUJ"
+                ],
+                "count": 5
+            },
+            {
+                "name": "pray",
+                "users": [
+                    "U05UWVA90H4"
+                ],
+                "count": 1
+            },
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U05V9N22ZUK",
+                    "U05UN5DQ423",
+                    "U0600GGHJTC"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "user": "U05VADPQPCL",
+        "type": "message",
+        "ts": "1706598353.610499",
+        "client_msg_id": "7fe880b9-e987-4159-a042-771c79241298",
+        "text": "<!channel>\n:book: *경진대회 및 스터디 그룹 진행 가이드 안내* :book:\n\n안녕하세요 Upstage AI Lab 1기 수강생 여러분!\n금일부터 새로운 팀이 편성되어 그 다음 모듈은 NLP까지 유지된다고 안내 드렸습니다.\n긴 시간 동안 함께하는 팀이다 보니 기본적인 규칙과 적극적인 참여를 위해 가이드를 드리고자 합니다.\n아래 내용 참고하셔서 더 좋은 결과 얻어가시길 바랍니다.\n\n&gt; *진행 가이드*\n• *기본 규칙*\n    ◦ 데일리 스크럼, 회의 등 팀 일정 미참여시 사전에 공유 필수 (당일 공유 금지)\n    ◦ 팀 채널 멘션 및 디엠 연락 시 가능한 빠르게 확인 및 답장\n• *스터디*\n    ◦ 데일리 스크럼(주 2회 이상)\n        ▪︎ 이전에 공부한 내용 공유 및 질문\n    ◦ 팀 별로 규칙 정하여 노션에 공부 내용 공유\n        ▪︎ 매일, 주 N회 작성\n        ▪︎ 팀 노션에 *주차별 학습 현황* 표에 기입\n• *경진 대회*\n    ◦ 데일리 스크럼 (매일, 슬랙 or 줌)\n        ▪︎ 금일 각자 진행 할 내용 서로에게 공유\n        ▪︎ 혹은 팀원 협조 요청 및 인사이트 공유 등 진행\n    ◦ 데일리 진행 상황 및 디스커션 공유 (슬랙)\n        ▪︎ 팀원 별로 1일 1스레드 이상 생성\n            • 디스커션 공유 : EDA 분석 결과, 분석 방법, 데이터 등 다양한 주제\n            • 진행상황 공유 : 파일, 코드, 이미지 등 확실한 내용 공유 (단순히 ~~ 했습니다 가 아닌 확실한 내용 첨부)\n&gt; *가이드 유의 사항*\n• *가이드는 기존 팀 규칙 보다 하위 개념이며 기존 규칙이 있을 시 겹치는 부분은 그대로 진행하시면 됩니다.*\n    ◦ 기존 규칙 : 경진대회 기간 중 데일리 스크럼 주 3회 진행   *--&gt;* *(현행 유지)*\n    ◦ 가이드 : 경진대회 기간 중 데일리 스크럼 매일 진행\n• 해당 가이드는 기본적인 가이드이며 팀원들과 협의 하여 수정하셔도 괜찮습니다.\n• 각 팀 팀장 분들은 특이사항 발생 시 <#C06G7EATS75|> 채널에 공유 부탁 드리겠습니다.\n이외에도 궁금하신 내용이 있으시다면 <#C0606642LHW|1_운영질문방> 채널에 질문 주시길 바랍니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "07e7ca00b8f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5991092857253_07e7ca00b8f0d0b13ba1_72.png",
+            "first_name": "패스트캠퍼스박기준",
+            "real_name": "패스트캠퍼스박기준",
+            "display_name": "LM 박기준",
+            "team": "T05UGFFGL07",
+            "name": "pgj.fc.career",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RBRUr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "open_book",
+                                "unicode": "1f4d6",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " 경진대회 및 스터디 그룹 진행 가이드 안내 ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "open_book",
+                                "unicode": "1f4d6",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n안녕하세요 Upstage AI Lab 1기 수강생 여러분!\n금일부터 새로운 팀이 편성되어 그 다음 모듈은 NLP까지 유지된다고 안내 드렸습니다.\n긴 시간 동안 함께하는 팀이다 보니 기본적인 규칙과 적극적인 참여를 위해 가이드를 드리고자 합니다.\n아래 내용 참고하셔서 더 좋은 결과 얻어가시길 바랍니다.\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "진행 가이드",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "기본 규칙",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "데일리 스크럼, 회의 등 팀 일정 미참여시 사전에 공유 필수 (당일 공유 금지)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "팀 채널 멘션 및 디엠 연락 시 가능한 빠르게 확인 및 답장"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "스터디",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "데일리 스크럼(주 2회 이상)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "이전에 공부한 내용 공유 및 질문"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 2,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "팀 별로 규칙 정하여 노션에 공부 내용 공유"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "매일, 주 N회 작성"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "팀 노션에 "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "주차별 학습 현황",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " 표에 기입"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 2,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "경진 대회",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "데일리 스크럼 (매일, 슬랙 or 줌)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "금일 각자 진행 할 내용 서로에게 공유"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "혹은 팀원 협조 요청 및 인사이트 공유 등 진행"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 2,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "데일리 진행 상황 및 디스커션 공유 (슬랙)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "팀원 별로 1일 1스레드 이상 생성"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 2,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "디스커션 공유 : EDA 분석 결과, 분석 방법, 데이터 등 다양한 주제"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "진행상황 공유 : 파일, 코드, 이미지 등 확실한 내용 공유 (단순히 ~~ 했습니다 가 아닌 확실한 내용 첨부)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 3,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "가이드 유의 사항",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "가이드는 기존 팀 규칙 보다 하위 개념이며 기존 규칙이 있을 시 겹치는 부분은 그대로 진행하시면 됩니다.",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "기존 규칙 : 경진대회 기간 중 데일리 스크럼 주 3회 진행   "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "-->",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "(현행 유지)",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "가이드 : 경진대회 기간 중 데일리 스크럼 매일 진행"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "해당 가이드는 기본적인 가이드이며 팀원들과 협의 하여 수정하셔도 괜찮습니다."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "각 팀 팀장 분들은 특이사항 발생 시 "
+                                    },
+                                    {
+                                        "type": "channel",
+                                        "channel_id": "C06G7EATS75"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " 채널에 공유 부탁 드리겠습니다."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n이외에도 궁금하신 내용이 있으시다면 "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C0606642LHW"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 채널에 질문 주시길 바랍니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U05V5B27DK7"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

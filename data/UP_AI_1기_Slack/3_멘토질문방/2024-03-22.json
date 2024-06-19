@@ -1,0 +1,87 @@
+[
+    {
+        "user": "U06RBLW1JD6",
+        "type": "message",
+        "ts": "1711091811.203749",
+        "client_msg_id": "8be8f0c0-da7e-4abe-8db5-51b8102474d7",
+        "text": "안녕하세요!\n이번 LM to LLM 과정의 멘토를 맡게 된 이정섭이라고 합니다.\n저는 현재 자연어처리 분야에서 박사학위 과정을 진행 중이며, 대규모 언어 모델에 관심을 가지고 연구하고 있습니다.\n\n여러분이 이 과정을 통해 많은 것을 배우고 성장하는 모습을 보는 것이 저에게도 큰 기쁨이 될 것 같습니다! 공부하는 과정에서 어려움이나 궁금증이 많이 생길 수 있을 것 같습니다. 그럴 때마다 주저하지 말고 질문해주세요. 사소한 것도 괜찮습니다! 여러분의 질문을 통해 함께 성장할 수 있으니까요! 저도 많이 모자라지만, 열심히 찾아서 답변 드리도록 하겠습니다!\n\n여러분과 함께 이번 과정을 통해 많은 것을 나누고, 함께 성장해 나갈 수 있기를 기대합니다:muscle::mechanical_arm:",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "6c5b7174238b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-21\/6861710165808_6c5b7174238b265283cb_72.png",
+            "first_name": "JS",
+            "real_name": "JS Lee",
+            "display_name": "이정섭 멘토",
+            "team": "T05UGFFGL07",
+            "name": "cy951011",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "W12uz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "안녕하세요!\n이번 LM to LLM 과정의 멘토를 맡게 된 이정섭이라고 합니다.\n저는 현재 자연어처리 분야에서 박사학위 과정을 진행 중이며, 대규모 언어 모델에 관심을 가지고 연구하고 있습니다.\n\n여러분이 이 과정을 통해 많은 것을 배우고 성장하는 모습을 보는 것이 저에게도 큰 기쁨이 될 것 같습니다! 공부하는 과정에서 어려움이나 궁금증이 많이 생길 수 있을 것 같습니다. 그럴 때마다 주저하지 말고 질문해주세요. 사소한 것도 괜찮습니다! 여러분의 질문을 통해 함께 성장할 수 있으니까요! 저도 많이 모자라지만, 열심히 찾아서 답변 드리도록 하겠습니다!\n\n여러분과 함께 이번 과정을 통해 많은 것을 나누고, 함께 성장해 나갈 수 있기를 기대합니다"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "muscle",
+                                "unicode": "1f4aa"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "mechanical_arm",
+                                "unicode": "1f9be"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U05VADPQPCL",
+                    "U05V2T62KUJ",
+                    "U060D1KJECR",
+                    "U05V5B27DK7",
+                    "U05V7H78DUM",
+                    "U0606HAGLTB",
+                    "U05UN7M2GKZ",
+                    "U05UWVA90H4",
+                    "U05V9LP47V0",
+                    "U05V4KZR3NW"
+                ],
+                "count": 10
+            },
+            {
+                "name": "귀여운박수",
+                "users": [
+                    "U05VADPQPCL",
+                    "U05V2T62KUJ",
+                    "U05V2HL22M9",
+                    "U05V7H78DUM",
+                    "U05UNMQ4LP9",
+                    "U05UN7M2GKZ"
+                ],
+                "count": 6
+            },
+            {
+                "name": "+1::skin-tone-2",
+                "users": [
+                    "U05V2HL22M9"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

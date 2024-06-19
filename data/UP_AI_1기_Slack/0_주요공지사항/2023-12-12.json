@@ -1,0 +1,42 @@
+[
+    {
+        "user": "U060LG0BT89",
+        "type": "message",
+        "ts": "1702372358.254319",
+        "client_msg_id": "c3cf232b-f193-4964-90fc-9423f2d8799f",
+        "text": "많이 아쉽네요. 패캠 입과 강의 너무 만족스러웠는데...",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "g273c76b80b5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/273c76b80b5c013cab6c608d10041dd4.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "김준호",
+            "real_name": "김준호",
+            "display_name": "",
+            "team": "T05UGFFGL07",
+            "name": "demyank88",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1702348195.136159",
+        "parent_user_id": "U05VAHXECP6",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JDiUs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "많이 아쉽네요. 패캠 입과 강의 너무 만족스러웠는데..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

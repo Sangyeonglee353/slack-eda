@@ -1,0 +1,304 @@
+[
+    {
+        "user": "U05VADPQPCL",
+        "type": "message",
+        "ts": "1708680601.442249",
+        "client_msg_id": "32bbaaa6-531b-4db8-9175-337bed195fd5",
+        "text": "*<!channel>*\n:pushpin: *CV Review 세션 및 현직자 특강 사전 질문 조사 안내*\n\n안녕하세요 Upstage AI Lab 1기 수강생 여러분!\n다가오는 *2월 28일 수요일에는 CV Review 세션이 진행될 예정인데요.*\n\n&gt; *CV Review 세션*\n• 목적: NLP(자연어 처리)로 넘어가기 전 CV 모듈에 대한 정리하는 날입니다.\n• 타임 라인\n    ◦ (오전) 개인별 CV 모듈 회고 시간\n        ▪︎ Fast-Up Report 정리와 함께 그동안 경진대회를 진행하시면서 못 들었던 강의들을 보충해주세요.\n    ◦ (오후) 랜덤 조별 CV 모듈 회고 시간\n        ▪︎ 피어세션과 비슷하게 진행될 예정이며, 운영진이 돌아보면서 여러 이야기를 나눠보고자 합니다.\n    ◦ (마지막) 송원호 강사님_현직자 특강\n마지막에는 업스테이지 송원호 강사님의 현직자 특강이 진행될 예정입니다.\n\n*CV Advanced 강좌 및 Document Classification 대회 Wrap Up* 이라는 주제로\n여러분이 CV 경진대회에서 문제 풀이를 위해 접근했던 방식에 대한 전체 리뷰 및 해당 문제를 만든 제작자의 입장에서의 접근법 1차로 다뤄보고, 2차로 CV 모듈에 대한 전반적인 회고 시간을 갖고자 합니다.\n\n이를 위해 사전 질문을 취합하여 강사님께 전달 드리고자 하니,\n수강생분들의 많은 참여 바랍니다.\n\n&gt; *현직자 특강 및 사전 질문 조사 안내*\n• 특강 연사: 송원호 강사님\n• 특강 일시: 2\/28(수) 18:00 ~ 19:00\n• 특강 주제: CV Advanced 강좌 및 Document Classification 대회 Wrap Up\n• <https:\/\/forms.gle\/rwsnmGQ28ZbpwGf76|사전 질문 조사 구글 폼 바로가기>\n    ◦ 2\/26 (월) 19시 마감\n",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "07e7ca00b8f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5991092857253_07e7ca00b8f0d0b13ba1_72.png",
+            "first_name": "패스트캠퍼스박기준",
+            "real_name": "패스트캠퍼스박기준",
+            "display_name": "LM 박기준",
+            "team": "T05UGFFGL07",
+            "name": "pgj.fc.career",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "P+wFT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pushpin",
+                                "unicode": "1f4cc"
+                            },
+                            {
+                                "type": "text",
+                                "text": " CV Review 세션 및 현직자 특강 사전 질문 조사 안내",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n안녕하세요 Upstage AI Lab 1기 수강생 여러분!\n다가오는"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 2월 28일 수요일에는 CV Review 세션이 진행될 예정인데요.",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "CV Review 세션",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "목적: NLP(자연어 처리)로 넘어가기 전 CV 모듈에 대한 정리하는 날입니다."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "타임 라인"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "(오전) 개인별 CV 모듈 회고 시간"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Fast-Up Report 정리와 함께 그동안 경진대회를 진행하시면서 못 들었던 강의들을 보충해주세요."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 2,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "(오후) 랜덤 조별 CV 모듈 회고 시간"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "피어세션과 비슷하게 진행될 예정이며, 운영진이 돌아보면서 여러 이야기를 나눠보고자 합니다."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 2,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "(마지막) 송원호 강사님_현직자 특강"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n마지막에는 업스테이지 송원호 강사님의 현직자 특강이 진행될 예정입니다.\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "CV Advanced 강좌 및 Document Classification 대회 Wrap Up ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "이라는 주제로\n여러분이 CV 경진대회에서 문제 풀이를 위해 접근했던 방식에 대한 전체 리뷰 및 해당 문제를 만든 제작자의 입장에서의 접근법 1차로 다뤄보고, 2차로 CV 모듈에 대한 전반적인 회고 시간을 갖고자 합니다.\n\n이를 위해 사전 질문을 취합하여 강사님께 전달 드리고자 하니,\n수강생분들의 많은 참여 바랍니다.\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "현직자 특강 및 사전 질문 조사 안내",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "특강 연사: 송원호 강사님"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "특강 일시: 2\/28(수) 18:00 ~ 19:00"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "특강 주제: CV Advanced 강좌 및 Document Classification 대회 Wrap Up"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/forms.gle\/rwsnmGQ28ZbpwGf76",
+                                        "text": "사전 질문 조사 구글 폼 바로가기"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "2\/26 (월) 19시 마감"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U05V5B27DK7"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

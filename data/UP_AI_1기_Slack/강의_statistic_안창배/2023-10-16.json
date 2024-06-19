@@ -1,0 +1,889 @@
+[
+    {
+        "user": "U0606HAGLTB",
+        "type": "message",
+        "ts": "1697452763.810729",
+        "client_msg_id": "8ca891a3-abe9-4e04-a138-782893525679",
+        "text": "안녕하세요:grinning: 혹시 안창배 강사님이 추천해주신 책을 스터디 형식으로 같이 공부하는 것에 관심있으신 분 계신가요? 아무래도 혼자 공부하는 것 보다 같이 공부하면 동기부여도 되고 서로 도움도 주고 받을 수 있을 것 같아 혹시 관심있으신 분이 계신가 해서요. 책은 추천해주신 책 중에 머신러닝 _*islr*_을 생각하고 있는데 만약 관심있으신 분 계신다면 댓글이나 dm 주시면 책이나 일정에 대해서 더 자세한 이야기 나누어보면 좋을 것 같아요. :man-bowing:",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "461e225fff0b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5991028764501_461e225fff0b7fa69542_72.png",
+            "first_name": "Hyeongsoo",
+            "real_name": "Hyeongsoo Kim",
+            "display_name": "김형수",
+            "team": "T05UGFFGL07",
+            "name": "oony97",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697452763.810729",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1697504784.032599",
+        "reply_users": [
+            "U060BLVQYHW"
+        ],
+        "replies": [
+            {
+                "user": "U060BLVQYHW",
+                "ts": "1697504784.032599"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rabwk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "안녕하세요"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "grinning",
+                                "unicode": "1f600"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 혹시 안창배 강사님이 추천해주신 책을 스터디 형식으로 같이 공부하는 것에 관심있으신 분 계신가요? 아무래도 혼자 공부하는 것 보다 같이 공부하면 동기부여도 되고 서로 도움도 주고 받을 수 있을 것 같아 혹시 관심있으신 분이 계신가 해서요. 책은 추천해주신 책 중에 머신러닝 "
+                            },
+                            {
+                                "type": "text",
+                                "text": "islr",
+                                "style": {
+                                    "bold": true,
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "을 생각하고 있는데 만약 관심있으신 분 계신다면 댓글이나 dm 주시면 책이나 일정에 대해서 더 자세한 이야기 나누어보면 좋을 것 같아요. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-bowing",
+                                "unicode": "1f647-200d-2642-fe0f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "muscle",
+                "users": [
+                    "U05V87YA1CJ",
+                    "U060C67EYQ5",
+                    "U0602CFAB7B",
+                    "U05VC7EEY5Q",
+                    "U060BLVQYHW",
+                    "U060D1KJECR",
+                    "U05V561TXUL",
+                    "U05V379NETU",
+                    "U05V4KZR3NW"
+                ],
+                "count": 9
+            },
+            {
+                "name": "muscle::skin-tone-2",
+                "users": [
+                    "U05V2HL22M9"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "text": "오늘자 자료 올려드립니다! 뒷부분은 조금 더 수정 예정이라 이따 다시 올려드릴게요",
+        "files": [
+            {
+                "id": "F060ZKZD14P",
+                "created": 1697504671,
+                "timestamp": 1697504671,
+                "name": "[Stats] 5강.pdf",
+                "title": "[Stats] 5강.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U05V87YA1CJ",
+                "user_team": "T05UGFFGL07",
+                "editable": false,
+                "size": 3664559,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F060ZKZD14P\/_stats__5_________.pdf?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F060ZKZD14P\/download\/_stats__5_________.pdf?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "media_display_type": "unknown",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F060ZKZD14P-4b81bf5f0a\/_stats__5__________thumb_pdf.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_pdf_w": 1100,
+                "thumb_pdf_h": 619,
+                "permalink": "https:\/\/fcupstageai1.slack.com\/files\/U05V87YA1CJ\/F060ZKZD14P\/_stats__5_________.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/T05UGFFGL07-F060ZKZD14P-47e4528e53",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U05V87YA1CJ",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xFEvo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "오늘자 자료 올려드립니다! 뒷부분은 조금 더 수정 예정이라 이따 다시 올려드릴게요"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1697504680.094769",
+        "client_msg_id": "19e1b7b2-b569-4f44-a7d5-00dd3a042beb",
+        "thread_ts": "1697504680.094769",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1697522746.790169",
+        "reply_users": [
+            "U05V87YA1CJ"
+        ],
+        "replies": [
+            {
+                "user": "U05V87YA1CJ",
+                "ts": "1697522746.790169"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "user": "U060BLVQYHW",
+        "type": "message",
+        "ts": "1697504784.032599",
+        "client_msg_id": "1b050539-8cd5-4f94-a555-daa371a96ea8",
+        "text": "안녕하세요! 저도 관심 있어서 말씀드립니다. 혹시 스터디 관련해서 이야기된 부분들 있을까요?",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "g6cb970458b5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6cb970458b5672091fa231bd078f93da.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+            "first_name": "Sang",
+            "real_name": "Sang Hyuk SEO",
+            "display_name": "서상혁",
+            "team": "T05UGFFGL07",
+            "name": "happer96",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697452763.810729",
+        "parent_user_id": "U0606HAGLTB",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZCz0a",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "안녕하세요! 저도 관심 있어서 말씀드립니다. 혹시 스터디 관련해서 이야기된 부분들 있을까요?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0606HAGLTB"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05V87YA1CJ",
+        "type": "message",
+        "ts": "1697511118.488349",
+        "client_msg_id": "000fed6e-3eb0-4d98-928e-c0f561b28ed0",
+        "text": "1. 12시에 먹자\n2. 1시에 먹자",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "f846e9978d52",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/6017264684624_f846e9978d52439c35d2_72.png",
+            "first_name": "dane",
+            "real_name": "dane ahn",
+            "display_name": "dane ahn",
+            "team": "T05UGFFGL07",
+            "name": "natasma13",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zU27I",
+                "elements": [
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "12시에 먹자"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "1시에 먹자"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "one",
+                "users": [
+                    "U05V87YA1CJ",
+                    "U05UWVA90H4",
+                    "U060BLVQYHW",
+                    "U060LG0BT89",
+                    "U0607T1SK6D",
+                    "U05V7H78DUM",
+                    "U061N4T7L8G",
+                    "U05UZLEM04V",
+                    "U05V1KVNK0E",
+                    "U05V561TXUL",
+                    "U05V2P37518",
+                    "U05V9LP47V0",
+                    "U05VAU596PP",
+                    "U05V5H1T24V",
+                    "U0600GGHJTC",
+                    "U060JMX5FK2",
+                    "U05UN5DQ423",
+                    "U05V379NETU",
+                    "U05VB5EHM7W",
+                    "U05VC7EEY5Q",
+                    "U05UT0JG4BZ",
+                    "U05V5CQ9XAQ",
+                    "U05UN7M2GKZ",
+                    "U060EH6HA9Z",
+                    "U05V9N22ZUK",
+                    "U05UVV5CVQE",
+                    "U05UNMQ4LP9",
+                    "U0606QGQYE5",
+                    "U05UUUNAE5D",
+                    "U05UVE9DFSB"
+                ],
+                "count": 30
+            },
+            {
+                "name": "two",
+                "users": [
+                    "U05V87YA1CJ",
+                    "U05V2HL22M9",
+                    "U05V868K2JE",
+                    "U060D1KJECR",
+                    "U05UN6NTN8P",
+                    "U0600C60ZK4",
+                    "U05UWAPP5CN",
+                    "U05V2T62KUJ",
+                    "U05UW1S4KQE"
+                ],
+                "count": 9
+            }
+        ]
+    },
+    {
+        "user": "U05V87YA1CJ",
+        "type": "message",
+        "ts": "1697513021.649299",
+        "client_msg_id": "6dfa245b-a071-4ebd-8173-661559fdd9fa",
+        "text": "<@U05V87YA1CJ> 나중에 ISLR 추천 챕터 정리",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "f846e9978d52",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/6017264684624_f846e9978d52439c35d2_72.png",
+            "first_name": "dane",
+            "real_name": "dane ahn",
+            "display_name": "dane ahn",
+            "team": "T05UGFFGL07",
+            "name": "natasma13",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697513021.649299",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1697528417.006549",
+        "reply_users": [
+            "U05V87YA1CJ",
+            "U0600GGHJTC"
+        ],
+        "replies": [
+            {
+                "user": "U05V87YA1CJ",
+                "ts": "1697514024.685389"
+            },
+            {
+                "user": "U0600GGHJTC",
+                "ts": "1697528038.924289"
+            },
+            {
+                "user": "U05V87YA1CJ",
+                "ts": "1697528417.006549"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DOpHx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05V87YA1CJ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 나중에 ISLR 추천 챕터 정리"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05UN7M2GKZ",
+        "type": "message",
+        "ts": "1697513645.821729",
+        "client_msg_id": "75fa81fa-5f7e-4793-961e-16d6ecce3218",
+        "text": "혹시 강사님 추천해주신 Bayesian puppy book이 <https:\/\/nyu-cdsc.github.io\/learningr\/assets\/kruschke_bayesian_in_R.pdf|이 책> 인가요?",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "g898587e4152",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/898587e41523b6c4bc631e8e0c827f5b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "장호준",
+            "real_name": "장호준",
+            "display_name": "장호준",
+            "team": "T05UGFFGL07",
+            "name": "jhh6650",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697513645.821729",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1697513664.788459",
+        "reply_users": [
+            "U05V87YA1CJ",
+            "U05UN7M2GKZ"
+        ],
+        "replies": [
+            {
+                "user": "U05V87YA1CJ",
+                "ts": "1697513656.922749"
+            },
+            {
+                "user": "U05UN7M2GKZ",
+                "ts": "1697513664.788459"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Lst3f",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "혹시 강사님 추천해주신 Bayesian puppy book이 "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/nyu-cdsc.github.io\/learningr\/assets\/kruschke_bayesian_in_R.pdf",
+                                "text": "이 책"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 인가요?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05V87YA1CJ",
+        "type": "message",
+        "ts": "1697513656.922749",
+        "client_msg_id": "7f8de7f1-5235-4abf-adbd-69f0311c4660",
+        "text": "네 맞습니다!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "f846e9978d52",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/6017264684624_f846e9978d52439c35d2_72.png",
+            "first_name": "dane",
+            "real_name": "dane ahn",
+            "display_name": "dane ahn",
+            "team": "T05UGFFGL07",
+            "name": "natasma13",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697513645.821729",
+        "parent_user_id": "U05UN7M2GKZ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "D9hcH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "네 맞습니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05UN7M2GKZ",
+        "type": "message",
+        "ts": "1697513664.788459",
+        "client_msg_id": "6d075103-408a-4682-a3c5-173001395209",
+        "text": "넵 감사합니다",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "g898587e4152",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/898587e41523b6c4bc631e8e0c827f5b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "장호준",
+            "real_name": "장호준",
+            "display_name": "장호준",
+            "team": "T05UGFFGL07",
+            "name": "jhh6650",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697513645.821729",
+        "parent_user_id": "U05UN7M2GKZ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rglha",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "넵 감사합니다"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05V87YA1CJ",
+        "type": "message",
+        "ts": "1697514024.685389",
+        "client_msg_id": "c98a9488-0750-41a2-b25f-df87f024ab24",
+        "text": "설명이 없는 챕터는 당연히 꼭 봐야 하는 겁니당\n• 2챕터: 큰 그림 그리기 제일 좋으니 꼭 읽으세요 5번 보세요\n• 6, 7챕터: 당장 쓸 일은 적을 수 있는데, 통계적 방법론에 대한 이해도를 높이는데 굉장히 좋습니다. 난이도는 좀 있지만 시간이 있으면 꼭 봐보셔요\n• 9챕터: 많이 안씁니다 ... 시간 많으면 보세요\n• 10챕터: 데이터 분석을 희망하시면 공부 안하셔도 큰 지장은 없을 확률이 ... 딥러닝은 그리고 어차피 다른 책들 더 보실 것이기 때문에 시간 있으면 보세용\n• 11챕터: 연구쪽 아니면 볼 일 별로 없을 것 같아요  저는 한 번도 니즈를 느낀 적은 없습니다\n• 13챕터: 한 번 보면 좋긴 한데, 관련 지식은 <https:\/\/www.amazon.com\/Trustworthy-Online-Controlled-Experiments-Practical\/dp\/1108724264|이걸> 보시는 게 더 좋습니다",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "f846e9978d52",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/6017264684624_f846e9978d52439c35d2_72.png",
+            "first_name": "dane",
+            "real_name": "dane ahn",
+            "display_name": "dane ahn",
+            "team": "T05UGFFGL07",
+            "name": "natasma13",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697513021.649299",
+        "parent_user_id": "U05V87YA1CJ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "auUZ5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "설명이 없는 챕터는 당연히 꼭 봐야 하는 겁니당\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "2챕터: 큰 그림 그리기 제일 좋으니 꼭 읽으세요 5번 보세요"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "6, 7챕터: 당장 쓸 일은 적을 수 있는데, 통계적 방법론에 대한 이해도를 높이는데 굉장히 좋습니다. 난이도는 좀 있지만 시간이 있으면 꼭 봐보셔요"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "9챕터: 많이 안씁니다 ... 시간 많으면 보세요"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "10챕터: 데이터 분석을 희망하시면 공부 안하셔도 큰 지장은 없을 확률이 ... 딥러닝은 그리고 어차피 다른 책들 더 보실 것이기 때문에 시간 있으면 보세용"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "11챕터: 연구쪽 아니면 볼 일 별로 없을 것 같아요  저는 한 번도 니즈를 느낀 적은 없습니다"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "13챕터: 한 번 보면 좋긴 한데, 관련 지식은 "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/www.amazon.com\/Trustworthy-Online-Controlled-Experiments-Practical\/dp\/1108724264",
+                                        "text": "이걸"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " 보시는 게 더 좋습니다"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "오늘자 노트북입니다\n주말까지 다시 정리해서, 그리고 GMM 추가해서 드리도록 할게요\n지난 5일간 수고 많으셨습니다!!",
+        "files": [
+            {
+                "id": "F06240SARUY",
+                "created": 1697522717,
+                "timestamp": 1697522717,
+                "name": "패스트캠퍼스X업스테이지 AI Lab Stats 5일차 (1) Logistic Regression.ipynb",
+                "title": "패스트캠퍼스X업스테이지 AI Lab Stats 5일차 (1) Logistic Regression.ipynb",
+                "mimetype": "application\/octet-stream",
+                "filetype": "binary",
+                "pretty_type": "Binary",
+                "user": "U05V87YA1CJ",
+                "user_team": "T05UGFFGL07",
+                "editable": false,
+                "size": 77829,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F06240SARUY\/_______________________________________x__________________________________ai_lab_stats_5_________________1__logistic_regression.ipynb?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F06240SARUY\/download\/_______________________________________x__________________________________ai_lab_stats_5_________________1__logistic_regression.ipynb?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "media_display_type": "unknown",
+                "permalink": "https:\/\/fcupstageai1.slack.com\/files\/U05V87YA1CJ\/F06240SARUY\/_______________________________________x__________________________________ai_lab_stats_5_________________1__logistic_regression.ipynb",
+                "permalink_public": "https:\/\/slack-files.com\/T05UGFFGL07-F06240SARUY-62f2d2b725",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            },
+            {
+                "id": "F061HE55RB6",
+                "created": 1697522719,
+                "timestamp": 1697522719,
+                "name": "패스트캠퍼스X업스테이지 AI Lab Stats 5일차 (2) K-means.ipynb",
+                "title": "패스트캠퍼스X업스테이지 AI Lab Stats 5일차 (2) K-means.ipynb",
+                "mimetype": "application\/octet-stream",
+                "filetype": "binary",
+                "pretty_type": "Binary",
+                "user": "U05V87YA1CJ",
+                "user_team": "T05UGFFGL07",
+                "editable": false,
+                "size": 177537,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F061HE55RB6\/_______________________________________x__________________________________ai_lab_stats_5_________________2__k-means.ipynb?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F061HE55RB6\/download\/_______________________________________x__________________________________ai_lab_stats_5_________________2__k-means.ipynb?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "media_display_type": "unknown",
+                "permalink": "https:\/\/fcupstageai1.slack.com\/files\/U05V87YA1CJ\/F061HE55RB6\/_______________________________________x__________________________________ai_lab_stats_5_________________2__k-means.ipynb",
+                "permalink_public": "https:\/\/slack-files.com\/T05UGFFGL07-F061HE55RB6-7e503a0558",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U05V87YA1CJ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WwOzS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "오늘자 노트북입니다\n주말까지 다시 정리해서, 그리고 GMM 추가해서 드리도록 할게요\n지난 5일간 수고 많으셨습니다!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "subtype": "thread_broadcast",
+        "root": {
+            "text": "오늘자 자료 올려드립니다! 뒷부분은 조금 더 수정 예정이라 이따 다시 올려드릴게요",
+            "files": [
+                {
+                    "id": "F060ZKZD14P",
+                    "created": 1697504671,
+                    "timestamp": 1697504671,
+                    "name": "[Stats] 5강.pdf",
+                    "title": "[Stats] 5강.pdf",
+                    "mimetype": "application\/pdf",
+                    "filetype": "pdf",
+                    "pretty_type": "PDF",
+                    "user": "U05V87YA1CJ",
+                    "user_team": "T05UGFFGL07",
+                    "editable": false,
+                    "size": 3664559,
+                    "mode": "hosted",
+                    "is_external": false,
+                    "external_type": "",
+                    "is_public": true,
+                    "public_url_shared": false,
+                    "display_as_bot": false,
+                    "username": "",
+                    "url_private": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F060ZKZD14P\/_stats__5_________.pdf?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                    "url_private_download": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F060ZKZD14P\/download\/_stats__5_________.pdf?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                    "media_display_type": "unknown",
+                    "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F060ZKZD14P-4b81bf5f0a\/_stats__5__________thumb_pdf.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                    "thumb_pdf_w": 1100,
+                    "thumb_pdf_h": 619,
+                    "permalink": "https:\/\/fcupstageai1.slack.com\/files\/U05V87YA1CJ\/F060ZKZD14P\/_stats__5_________.pdf",
+                    "permalink_public": "https:\/\/slack-files.com\/T05UGFFGL07-F060ZKZD14P-47e4528e53",
+                    "is_starred": false,
+                    "has_rich_preview": false,
+                    "file_access": "visible"
+                }
+            ],
+            "upload": false,
+            "user": "U05V87YA1CJ",
+            "display_as_bot": false,
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "xFEvo",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "오늘자 자료 올려드립니다! 뒷부분은 조금 더 수정 예정이라 이따 다시 올려드릴게요"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "type": "message",
+            "ts": "1697504680.094769",
+            "client_msg_id": "19e1b7b2-b569-4f44-a7d5-00dd3a042beb",
+            "thread_ts": "1697504680.094769",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1697522746.790169",
+            "reply_users": [
+                "U05V87YA1CJ"
+            ],
+            "replies": [
+                {
+                    "user": "U05V87YA1CJ",
+                    "ts": "1697522746.790169"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false
+        },
+        "type": "message",
+        "ts": "1697522746.790169",
+        "client_msg_id": "cc7c15c7-4d29-404a-8300-4fb792061255",
+        "thread_ts": "1697504680.094769",
+        "parent_user_id": "U05V87YA1CJ",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U060JMX5FK2",
+                    "U05VDDP88BW",
+                    "U0607T1SK6D",
+                    "U05UW1S4KQE",
+                    "U06022Z2TED",
+                    "U05UVV5CVQE",
+                    "U05VC7EEY5Q",
+                    "U05UN6NTN8P",
+                    "U060H4V0Q5S",
+                    "U05UT0JG4BZ",
+                    "U05V7H78DUM",
+                    "U060LG0BT89",
+                    "U05V5B27DK7",
+                    "U05V379NETU",
+                    "U0602CFAB7B",
+                    "U05V868K2JE",
+                    "U05V4KZR3NW",
+                    "U05UNMQ4LP9",
+                    "U05VCCSHKHR",
+                    "U05UUSA6G5V",
+                    "U05UVE9DFSB",
+                    "U0606HAGLTB",
+                    "U0600C60ZK4",
+                    "U05UZLEM04V",
+                    "U0600BP2J9H",
+                    "U05V2T62KUJ",
+                    "U061N4T7L8G",
+                    "U0600GGHJTC",
+                    "U05V561TXUL"
+                ],
+                "count": 29
+            },
+            {
+                "name": "fb-wow",
+                "users": [
+                    "U06061L4S64",
+                    "U05V7H78DUM",
+                    "U060LG0BT89",
+                    "U060D1KJECR",
+                    "U0600BP2J9H"
+                ],
+                "count": 5
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U05V2PMAVNE",
+                    "U05V9N22ZUK",
+                    "U060LG0BT89",
+                    "U0600BP2J9H"
+                ],
+                "count": 4
+            },
+            {
+                "name": "raised_hands::skin-tone-2",
+                "users": [
+                    "U05V2HL22M9"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

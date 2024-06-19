@@ -1,0 +1,857 @@
+[
+    {
+        "user": "U05V5CQ9XAQ",
+        "type": "message",
+        "ts": "1696489451.105929",
+        "client_msg_id": "115fcdf0-fdfb-4239-9b15-011c5284f622",
+        "text": "안녕하세요~ 혹시 병원을 이유로도 출석인정이 될까요? 제가 이번달에 오티날 포함 2번을 병원에 좀 오래 있어야하는데ㅜㅜ 반년전에 수업들을줄 모르고 한 예약이라.. 예약변경이 안되는 상황이라서요",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "bccbcba92a35",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5974460904823_bccbcba92a35de38d39a_72.jpg",
+            "first_name": "손인수",
+            "real_name": "손인수",
+            "display_name": "손인수",
+            "team": "T05UGFFGL07",
+            "name": "insu940528",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696489451.105929",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1696492282.176369",
+        "reply_users": [
+            "U05UNC6FNK1",
+            "U05V5CQ9XAQ"
+        ],
+        "replies": [
+            {
+                "user": "U05UNC6FNK1",
+                "ts": "1696492236.689769"
+            },
+            {
+                "user": "U05V5CQ9XAQ",
+                "ts": "1696492282.176369"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "20\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "안녕하세요~ 혹시 병원을 이유로도 출석인정이 될까요? 제가 이번달에 오티날 포함 2번을 병원에 좀 오래 있어야하는데ㅜㅜ 반년전에 수업들을줄 모르고 한 예약이라.. 예약변경이 안되는 상황이라서요"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "U05UNC6FNK1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05UNC6FNK1",
+        "type": "message",
+        "ts": "1696492236.689769",
+        "client_msg_id": "284b817a-4421-4486-ba52-0cba62bd4202",
+        "text": "병원 도 가능합니다!\n병원 가기전일자까지 행정매니저님 태깅하시어 일자 먼저 공유\n이후, 병원 진료 확인서 OR 입원확인서 + 출석대장 제출하시면 됩니다",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "260d154ea1e2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5979526758263_260d154ea1e2177fd001_72.jpg",
+            "first_name": "FC",
+            "real_name": "FC 하시안 매니저",
+            "display_name": "FC 하시안 매니저",
+            "team": "T05UGFFGL07",
+            "name": "xianha",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696489451.105929",
+        "parent_user_id": "U05V5CQ9XAQ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2=n",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "병원 도 가능합니다!\n병원 가기전일자까지 행정매니저님 태깅하시어 일자 먼저 공유\n이후, 병원 진료 확인서 OR 입원확인서 + 출석대장 제출하시면 됩니다"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05V5CQ9XAQ",
+        "type": "message",
+        "ts": "1696492282.176369",
+        "client_msg_id": "0502be5a-713d-4a5c-9fc9-760ce2438d4f",
+        "text": "넵 감사합니다!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "bccbcba92a35",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5974460904823_bccbcba92a35de38d39a_72.jpg",
+            "first_name": "손인수",
+            "real_name": "손인수",
+            "display_name": "손인수",
+            "team": "T05UGFFGL07",
+            "name": "insu940528",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696489451.105929",
+        "parent_user_id": "U05V5CQ9XAQ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aze",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "넵 감사합니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands::skin-tone-2",
+                "users": [
+                    "U05UNC6FNK1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05UYAVRTSR",
+        "type": "message",
+        "ts": "1696492783.489739",
+        "edited": {
+            "user": "U05UYAVRTSR",
+            "ts": "1696492854.000000"
+        },
+        "client_msg_id": "fcf9474d-7c36-478e-805e-243e156cb244",
+        "text": "취업 역량 향상 목적에 따라 사용처가 명확할 경우, 상황에 따라 제공을 검토해볼 수 있습니다. 현재로서는 목적\/사용기간 등이 명확하지 않아 확답을 드릴 수 없는 점 양해부탁드립니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "g6e6ee900c48",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e6ee900c48c19701d150f52a69af64a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "김수현",
+            "real_name": "김수현",
+            "display_name": "FC 김수현 매니저",
+            "team": "T05UGFFGL07",
+            "name": "suhyunkim",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696485931.951979",
+        "parent_user_id": "U05V7V2AV8A",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cWo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "취업 역량 향상 목적에 따라 사용처가 명확할 경우, 상황에 따라 제공을 검토해볼 수 있습니다. 현재로서는 목적\/사용기간 등이 명확하지 않아 확답을 드릴 수 없는 점 양해부탁드립니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05V0106JDT",
+        "type": "message",
+        "ts": "1696554128.564819",
+        "edited": {
+            "user": "U05V0106JDT",
+            "ts": "1696554137.000000"
+        },
+        "client_msg_id": "a77ce31a-4cdd-4e0c-b4dc-40a8a1596e97",
+        "text": "해당 노트북이 수업과 프로젝트에 적합한지 확실하지 않아 문의드리고 싶습니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "gd7b44870731",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d7b448707312b1f05516b12cfcdc5b63.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "김승호",
+            "real_name": "김승호",
+            "display_name": "",
+            "team": "T05UGFFGL07",
+            "name": "shkim0925",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696554128.564819",
+        "reply_count": 7,
+        "reply_users_count": 3,
+        "latest_reply": "1696566867.890479",
+        "reply_users": [
+            "U05V0106JDT",
+            "U06061L4S64",
+            "U05VAHXECP6"
+        ],
+        "replies": [
+            {
+                "user": "U05V0106JDT",
+                "ts": "1696554160.925029"
+            },
+            {
+                "user": "U06061L4S64",
+                "ts": "1696566310.437469"
+            },
+            {
+                "user": "U06061L4S64",
+                "ts": "1696566361.327159"
+            },
+            {
+                "user": "U06061L4S64",
+                "ts": "1696566489.573899"
+            },
+            {
+                "user": "U06061L4S64",
+                "ts": "1696566526.789789"
+            },
+            {
+                "user": "U05V0106JDT",
+                "ts": "1696566641.808179"
+            },
+            {
+                "user": "U05VAHXECP6",
+                "ts": "1696566867.890479"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1696566867.890479",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "waTxB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "해당 노트북이 수업과 프로젝트에 적합한지 확실하지 않아 문의드리고 싶습니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05V0106JDT",
+        "type": "message",
+        "ts": "1696554160.925029",
+        "client_msg_id": "0c08ab04-80d5-463a-800a-896f169152f0",
+        "text": "프로세서 13th Gen Intel(R) Core(TM) i5-1340P   1.90 GHz\nRAM 16.0GB\n그래픽 Intel® Iris® Xe Graphics",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "gd7b44870731",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d7b448707312b1f05516b12cfcdc5b63.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "김승호",
+            "real_name": "김승호",
+            "display_name": "",
+            "team": "T05UGFFGL07",
+            "name": "shkim0925",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696554128.564819",
+        "parent_user_id": "U05V0106JDT",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+aB7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "프로세서 13th Gen Intel(R) Core(TM) i5-1340P   1.90 GHz\nRAM 16.0GB\n그래픽 Intel® Iris® Xe Graphics"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "프로젝트 기간이 언제부터 시작인가요? 시간표 상으로 프로젝트가 중간중간에 있고 이론수업도 중간중간에 있어서요",
+        "files": [
+            {
+                "id": "F0600AYRM7D",
+                "created": 1696562785,
+                "timestamp": 1696562785,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U05V7V2AV8A",
+                "user_team": "T05UGFFGL07",
+                "editable": false,
+                "size": 54524,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F0600AYRM7D\/image.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F0600AYRM7D\/download\/image.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F0600AYRM7D-a258782871\/image_64.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F0600AYRM7D-a258782871\/image_80.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F0600AYRM7D-a258782871\/image_360.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_360_w": 360,
+                "thumb_360_h": 84,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F0600AYRM7D-a258782871\/image_480.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_480_w": 480,
+                "thumb_480_h": 112,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F0600AYRM7D-a258782871\/image_160.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F0600AYRM7D-a258782871\/image_720.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_720_w": 720,
+                "thumb_720_h": 168,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F0600AYRM7D-a258782871\/image_800.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_800_w": 800,
+                "thumb_800_h": 187,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F0600AYRM7D-a258782871\/image_960.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_960_w": 960,
+                "thumb_960_h": 224,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F0600AYRM7D-a258782871\/image_1024.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 239,
+                "original_w": 1189,
+                "original_h": 278,
+                "thumb_tiny": "AwALADDROc96TDe9O2ilAxQAzB96MN70+igBoHrupce5paKAP\/\/Z",
+                "permalink": "https:\/\/fcupstageai1.slack.com\/files\/U05V7V2AV8A\/F0600AYRM7D\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T05UGFFGL07-F0600AYRM7D-ef36d18220",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U05V7V2AV8A",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+rhtX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "프로젝트 기간이 언제부터 시작인가요? 시간표 상으로 프로젝트가 중간중간에 있고 이론수업도 중간중간에 있어서요"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1696562794.078329",
+        "edited": {
+            "user": "U05V7V2AV8A",
+            "ts": "1696563248.000000"
+        },
+        "client_msg_id": "41051a97-c590-49af-b22b-5944c43c589e",
+        "thread_ts": "1696562794.078329",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1696566299.069249",
+        "reply_users": [
+            "U05UYAVRTSR"
+        ],
+        "replies": [
+            {
+                "user": "U05UYAVRTSR",
+                "ts": "1696566299.069249"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "user": "U0600GGHJTC",
+        "type": "message",
+        "ts": "1696565293.691219",
+        "client_msg_id": "08957516-879d-445a-9686-f07e08cae36a",
+        "text": "혹시 Mac OS로 수업 진행시 수업에 차질이 있는 점이 있을까요?",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "561da967acdc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/6000560676530_561da967acdc677d2136_72.png",
+            "first_name": "신동혁",
+            "real_name": "신동혁",
+            "display_name": "신동혁",
+            "team": "T05UGFFGL07",
+            "name": "kn7137",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696565293.691219",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1696569837.014399",
+        "reply_users": [
+            "U06061L4S64",
+            "U0600GGHJTC"
+        ],
+        "replies": [
+            {
+                "user": "U06061L4S64",
+                "ts": "1696566547.558579"
+            },
+            {
+                "user": "U0600GGHJTC",
+                "ts": "1696569837.014399"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zucG9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "혹시 Mac OS로 수업 진행시 수업에 차질이 있는 점이 있을까요?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05UYAVRTSR",
+        "type": "message",
+        "ts": "1696566299.069249",
+        "client_msg_id": "658b1f21-c8d4-4434-9202-900126ac7b58",
+        "text": "시간표는 OT날 안내 예정입니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "g6e6ee900c48",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6e6ee900c48c19701d150f52a69af64a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "김수현",
+            "real_name": "김수현",
+            "display_name": "FC 김수현 매니저",
+            "team": "T05UGFFGL07",
+            "name": "suhyunkim",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696562794.078329",
+        "parent_user_id": "U05V7V2AV8A",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+q3H",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "시간표는 OT날 안내 예정입니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06061L4S64",
+        "type": "message",
+        "ts": "1696566310.437469",
+        "client_msg_id": "27079ac3-cae6-42c0-ae5a-69274441143a",
+        "text": "승호님 혹시 노트북 모델명 좀 부탁드릴게요",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "9958a6e7ea98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5988755251283_9958a6e7ea98545615ca_72.png",
+            "first_name": "LM",
+            "real_name": "LM 박진영",
+            "display_name": "LM 박진영",
+            "team": "T05UGFFGL07",
+            "name": "pjy.fc.career",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696554128.564819",
+        "parent_user_id": "U05V0106JDT",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zV7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "승호님 혹시 노트북 모델명 좀 부탁드릴게요"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06061L4S64",
+        "type": "message",
+        "ts": "1696566361.327159",
+        "client_msg_id": "93ddfd9c-6540-4504-af3e-6b129af07df3",
+        "text": "그램이신가요?",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "9958a6e7ea98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5988755251283_9958a6e7ea98545615ca_72.png",
+            "first_name": "LM",
+            "real_name": "LM 박진영",
+            "display_name": "LM 박진영",
+            "team": "T05UGFFGL07",
+            "name": "pjy.fc.career",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696554128.564819",
+        "parent_user_id": "U05V0106JDT",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "l0QIr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "그램이신가요?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06061L4S64",
+        "type": "message",
+        "ts": "1696566489.573899",
+        "client_msg_id": "f4052aa2-bdc3-483c-9f46-0e7ff150ec46",
+        "text": "제가 보기에 괜찮을것 같습니다",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "9958a6e7ea98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5988755251283_9958a6e7ea98545615ca_72.png",
+            "first_name": "LM",
+            "real_name": "LM 박진영",
+            "display_name": "LM 박진영",
+            "team": "T05UGFFGL07",
+            "name": "pjy.fc.career",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696554128.564819",
+        "parent_user_id": "U05V0106JDT",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xKi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "제가 보기에 괜찮을것 같습니다"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06061L4S64",
+        "type": "message",
+        "ts": "1696566526.789789",
+        "client_msg_id": "a5d33cd1-cc89-4859-b51c-1dca768fbbc0",
+        "text": "<@U05VAHXECP6> 같이 확인 한번 부탁드릴게요!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "9958a6e7ea98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5988755251283_9958a6e7ea98545615ca_72.png",
+            "first_name": "LM",
+            "real_name": "LM 박진영",
+            "display_name": "LM 박진영",
+            "team": "T05UGFFGL07",
+            "name": "pjy.fc.career",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696554128.564819",
+        "parent_user_id": "U05V0106JDT",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "t3RsY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05VAHXECP6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 같이 확인 한번 부탁드릴게요!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06061L4S64",
+        "type": "message",
+        "ts": "1696566547.558579",
+        "client_msg_id": "f803f0ce-13b9-47fd-adb0-c0aa9447bf04",
+        "text": "상관없습니다!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "9958a6e7ea98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5988755251283_9958a6e7ea98545615ca_72.png",
+            "first_name": "LM",
+            "real_name": "LM 박진영",
+            "display_name": "LM 박진영",
+            "team": "T05UGFFGL07",
+            "name": "pjy.fc.career",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696565293.691219",
+        "parent_user_id": "U0600GGHJTC",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GJE2\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "상관없습니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05V0106JDT",
+        "type": "message",
+        "ts": "1696566641.808179",
+        "client_msg_id": "f9f610fe-62dd-40d4-a877-f3e70fb78916",
+        "text": "NT960QFG-KC52E 삼성북3 Pro입니다",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "gd7b44870731",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d7b448707312b1f05516b12cfcdc5b63.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "김승호",
+            "real_name": "김승호",
+            "display_name": "",
+            "team": "T05UGFFGL07",
+            "name": "shkim0925",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696554128.564819",
+        "parent_user_id": "U05V0106JDT",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "f\/8K",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "NT960QFG-KC52E 삼성북3 Pro입니다"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05VAHXECP6",
+        "type": "message",
+        "ts": "1696566867.890479",
+        "client_msg_id": "aaf9be07-56b8-40fe-8bf8-ac81365fc6da",
+        "text": "안녕하세요. 승호님!\n해당 모델 확인해보았는데요.\n수업과 프로젝트를 진행하시는 데에는 무리가 없어 보입니다.\n고성능이 필요한 모델링 작업의 경우, Google-colab과 업스테이지  GPU를 사용할 예정이어서 크게 걱정하지 않으셔도 되겠습니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "50abee101814",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-11\/6044824153712_50abee1018149e21919b_72.jpg",
+            "first_name": "이상영",
+            "real_name": "이상영",
+            "display_name": "FC 이상영 매니저",
+            "team": "T05UGFFGL07",
+            "name": "sangyeong.lee",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696554128.564819",
+        "parent_user_id": "U05V0106JDT",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZDm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "안녕하세요. 승호님!\n해당 모델 확인해보았는데요.\n수업과 프로젝트를 진행하시는 데에는 무리가 없어 보입니다.\n고성능이 필요한 모델링 작업의 경우, Google-colab과 업스테이지  GPU를 사용할 예정이어서 크게 걱정하지 않으셔도 되겠습니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "party-blob",
+                "users": [
+                    "U06061L4S64"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U0600GGHJTC",
+        "type": "message",
+        "ts": "1696569837.014399",
+        "client_msg_id": "522b5d50-01ad-4fd7-ae4c-a2fb1e6ce127",
+        "text": "감사합니다! :)",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "561da967acdc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/6000560676530_561da967acdc677d2136_72.png",
+            "first_name": "신동혁",
+            "real_name": "신동혁",
+            "display_name": "신동혁",
+            "team": "T05UGFFGL07",
+            "name": "kn7137",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696565293.691219",
+        "parent_user_id": "U0600GGHJTC",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vBpf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "감사합니다! :)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

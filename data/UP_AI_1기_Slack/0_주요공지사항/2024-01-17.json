@@ -1,0 +1,575 @@
+[
+    {
+        "user": "U05VADPQPCL",
+        "type": "message",
+        "ts": "1705539651.172889",
+        "client_msg_id": "9e44338b-e109-453b-b3e5-b00b7e4a50ae",
+        "text": "<!channel>\n&gt; :crown: *Upstage ML 경진 대회 인사이트 공유 이벤트* :crown:\n안녕하세요 수강생 여러분들! 경진대회는 잘 참여하고 계신가요?!\n경진대회와 공유 문화를 활성화하기 위해서 이벤트를 진행하려고 합니다.\n상품도 있으니 아래 내용 참고하셔 적극적인 참여 부탁 드립니다!\n• *이벤트 목적*\n    ◦ 코드, EDA, 인사이트, 디스커션 등 경진 대회 공유 문화 활성화\n    ◦ 개발자 글쓰기 능력 촉진\n    ◦ 공유를 통한 동료 학습 촉진\n• *이벤트 참여 방법*\n    ◦  <https:\/\/next.stages.ai\/competitions\/276\/discussion\/373?selectedSort=0&amp;page=1|AI Stages ML 경진대회 커뮤니티 게시판>에 코드, EDA, 인사이트 등 게시글 작성하여 공유\n    ◦ 게시글 작성 후 #5_랜덤토크방에 해당 게시글 공유\n    ◦ 아래 이미지 참고 부탁 드립니다.\n• *이벤트 기간*\n    ◦ 1월 25일 목요일 19시 대회 마감까지\n• *수상*\n    ◦ *공유왕 (1명)*\n        ▪︎  <https:\/\/next.stages.ai\/competitions\/276\/discussion\/373?selectedSort=0&amp;page=1|AI Stages ML 경진대회 커뮤니티 게시판>에 가장 많은 게시글을 공유한 1인\n    ◦ *인사이트왕 (2명)*\n        ▪︎ <https:\/\/next.stages.ai\/competitions\/276\/discussion\/373?selectedSort=0&amp;page=1|AI Stages ML 경진대회 커뮤니티 게시판>에 쓴 게시글 중 가장 많은 하트(Up)를 받은 2인\n• *상품*\n    ◦ *캐글 메달리스트가 알려주는 캐글 노하우(<https:\/\/www.yes24.com\/Product\/Goods\/120528346|도서 링크>)*\n        ▪︎ 1\/16 현직자 특강 진행해주신 김현우 강사님이 저자 중 한 분이십니다.\n        ▪︎ 김용담 강사님의 추천 도서입니다.\n• *참고 문헌*\n    ◦ <https:\/\/next.stages.ai\/competitions\/276\/discussion\/373\/post\/2474|캐글의 공유 문화(Feat. 업스테이지 캐글 그랜드마스터 김상훈)>",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "07e7ca00b8f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5991092857253_07e7ca00b8f0d0b13ba1_72.png",
+            "first_name": "패스트캠퍼스박기준",
+            "real_name": "패스트캠퍼스박기준",
+            "display_name": "LM 박기준",
+            "team": "T05UGFFGL07",
+            "name": "pgj.fc.career",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Z4niE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "crown",
+                                "unicode": "1f451",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " Upstage ML 경진 대회 인사이트 공유 이벤트 ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "crown",
+                                "unicode": "1f451",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "안녕하세요 수강생 여러분들! 경진대회는 잘 참여하고 계신가요?!\n경진대회와 공유 문화를 활성화하기 위해서 이벤트를 진행하려고 합니다.\n상품도 있으니 아래 내용 참고하셔 적극적인 참여 부탁 드립니다!\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "이벤트 목적",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "코드, EDA, 인사이트, 디스커션 등 경진 대회 공유 문화 활성화"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "개발자 글쓰기 능력 촉진"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "공유를 통한 동료 학습 촉진"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "이벤트 참여 방법",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/next.stages.ai\/competitions\/276\/discussion\/373?selectedSort=0&page=1",
+                                        "text": "AI Stages ML 경진대회 커뮤니티 게시판"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "에 코드, EDA, 인사이트 등 게시글 작성하여 공유"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "게시글 작성 후 #5_랜덤토크방에 해당 게시글 공유"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "아래 이미지 참고 부탁 드립니다."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "이벤트 기간",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "1월 25일 목요일 19시 대회 마감까지"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "수상",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "공유왕 (1명)",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/next.stages.ai\/competitions\/276\/discussion\/373?selectedSort=0&page=1",
+                                        "text": "AI Stages ML 경진대회 커뮤니티 게시판"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "에 가장 많은 게시글을 공유한 1인"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 2,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "인사이트왕 (2명)",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/next.stages.ai\/competitions\/276\/discussion\/373?selectedSort=0&page=1",
+                                        "text": "AI Stages ML 경진대회 커뮤니티 게시판"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "에 쓴 게시글 중 가장 많은 하트(Up)를 받은 2인"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 2,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "상품",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "캐글 메달리스트가 알려주는 캐글 노하우(",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/www.yes24.com\/Product\/Goods\/120528346",
+                                        "text": "도서 링크",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ")",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "1\/16 현직자 특강 진행해주신 김현우 강사님이 저자 중 한 분이십니다."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "김용담 강사님의 추천 도서입니다."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 2,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "참고 문헌",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/next.stages.ai\/competitions\/276\/discussion\/373\/post\/2474",
+                                        "text": "캐글의 공유 문화(Feat. 업스테이지 캐글 그랜드마스터 김상훈)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "대답",
+                "users": [
+                    "U060C67EYQ5"
+                ],
+                "count": 1
+            },
+            {
+                "name": "fire",
+                "users": [
+                    "U060C67EYQ5"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "text": "",
+        "files": [
+            {
+                "id": "F06EDTLQLSW",
+                "created": 1705539987,
+                "timestamp": 1705539987,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U05VADPQPCL",
+                "user_team": "T05UGFFGL07",
+                "editable": false,
+                "size": 141409,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F06EDTLQLSW\/image.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F06EDTLQLSW\/download\/image.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06EDTLQLSW-af694d6054\/image_64.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06EDTLQLSW-af694d6054\/image_80.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06EDTLQLSW-af694d6054\/image_360.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_360_w": 360,
+                "thumb_360_h": 261,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06EDTLQLSW-af694d6054\/image_480.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_480_w": 480,
+                "thumb_480_h": 347,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06EDTLQLSW-af694d6054\/image_160.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06EDTLQLSW-af694d6054\/image_720.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_720_w": 720,
+                "thumb_720_h": 521,
+                "original_w": 720,
+                "original_h": 521,
+                "thumb_tiny": "AwAiADCwzNuPzHrSbn\/vGrHlJk8frR5Sen61d0IgDN3Y0bj6n86n8pfT9aPKT\/Jo5kBBub+8aVS24fMetTeSnofzo8tFYdB6c0cyAfjmmscPjdjjpin0xjiTG\/HGcY\/WoGKMn+L9KUD3zSZ\/2j+VOBzQAUxsblycc+lPprHBHzY59OtA0OooooEFFFFABRRRQB\/\/2Q==",
+                "permalink": "https:\/\/fcupstageai1.slack.com\/files\/U05VADPQPCL\/F06EDTLQLSW\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T05UGFFGL07-F06EDTLQLSW-3b3a459b2e",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            },
+            {
+                "id": "F06EDTM5L3C",
+                "created": 1705539993,
+                "timestamp": 1705539993,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U05VADPQPCL",
+                "user_team": "T05UGFFGL07",
+                "editable": false,
+                "size": 47386,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F06EDTM5L3C\/image.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F06EDTM5L3C\/download\/image.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06EDTM5L3C-2b0f2113d3\/image_64.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06EDTM5L3C-2b0f2113d3\/image_80.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06EDTM5L3C-2b0f2113d3\/image_360.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_360_w": 360,
+                "thumb_360_h": 119,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06EDTM5L3C-2b0f2113d3\/image_480.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_480_w": 480,
+                "thumb_480_h": 158,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06EDTM5L3C-2b0f2113d3\/image_160.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "original_w": 719,
+                "original_h": 237,
+                "thumb_tiny": "AwAPADC+oIL5lLZbp\/d9qcOf4jRzz8o6\/nRz6CgB1FN+b2pefagBaYT86\/Pj29afTTncPlGPX0oGj\/\/Z",
+                "permalink": "https:\/\/fcupstageai1.slack.com\/files\/U05VADPQPCL\/F06EDTM5L3C\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T05UGFFGL07-F06EDTM5L3C-725e324fe7",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U05VADPQPCL",
+        "type": "message",
+        "ts": "1705539996.815069",
+        "client_msg_id": "3a175e23-e845-4855-94aa-b6ccfe406d9c"
+    }
+]

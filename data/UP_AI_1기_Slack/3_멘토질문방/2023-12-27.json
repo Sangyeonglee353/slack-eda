@@ -1,0 +1,460 @@
+[
+    {
+        "user": "U05VBQMH3D3",
+        "type": "message",
+        "ts": "1703723745.600349",
+        "client_msg_id": "6dc68732-9394-479a-a841-aab8d593882d",
+        "text": "<@U06BGDUL2LD>\n안녕하세요! CV공부하고 있는데 질문드립니다\nCV이미지분류에서 소수클래스는 보통 가중치 조정을 많이 사용하는 걸로 알고 있는데요.\n1. flip, 회전, 블러 등의 증강을 소수클래스에만 조금 더 부여해서 소수클래스의 학습데이터를 늘리는 것도 의미가 있을까요?\n2. 평가지표를 바꿔서 학습시켜본다면 어떤게 있는지도 궁금합니다\n3. 분류클래스가 1,2,3,4,5로 5개있고 1번이 소수클래스인데, 1번, 2~5번은 others로 이진분류로 모델을 짜서 앙상블 혹은 후처리하는 것도 의미가 있을까요?\n4. 소수클래스에 국한된 얘기는 아니고, 아웃라이어등 학습이 잘 안되서 테스트를 할때마다 5개클래스의 예측이 [0.05, 0.05, 0.4, 0.4, 0.1] [0.02, 0.7, 0.2, 0.05, 0.03] 이런 식으로 일관성이 없다면, 단순히 추론을 10~20회돌려서 평균내는 것 외에 방법이 있을까요? 이런 데이터들만, (소수클래스도) 따로 몇 에포크 더 학습을 시키는건 의미가 있는지 궁금합니다",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "16da4e28d6c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/6003210685524_16da4e28d6c4ea33bae5_72.png",
+            "first_name": "HB",
+            "real_name": "HB",
+            "display_name": "엄효범",
+            "team": "T05UGFFGL07",
+            "name": "swema86",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1703723745.600349",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1703725023.865969",
+        "reply_users": [
+            "U06BGDUL2LD",
+            "U05VBQMH3D3"
+        ],
+        "replies": [
+            {
+                "user": "U06BGDUL2LD",
+                "ts": "1703724053.217949"
+            },
+            {
+                "user": "U05VBQMH3D3",
+                "ts": "1703725023.865969"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6\/OLJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06BGDUL2LD"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n안녕하세요! CV공부하고 있는데 질문드립니다\nCV이미지분류에서 소수클래스는 보통 가중치 조정을 많이 사용하는 걸로 알고 있는데요.\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "flip, 회전, 블러 등의 증강을 소수클래스에만 조금 더 부여해서 소수클래스의 학습데이터를 늘리는 것도 의미가 있을까요?"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "평가지표를 바꿔서 학습시켜본다면 어떤게 있는지도 궁금합니다"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "분류클래스가 1,2,3,4,5로 5개있고 1번이 소수클래스인데, 1번, 2~5번은 others로 이진분류로 모델을 짜서 앙상블 혹은 후처리하는 것도 의미가 있을까요?"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "소수클래스에 국한된 얘기는 아니고, 아웃라이어등 학습이 잘 안되서 테스트를 할때마다 5개클래스의 예측이 [0.05, 0.05, 0.4, 0.4, 0.1] [0.02, 0.7, 0.2, 0.05, 0.03] 이런 식으로 일관성이 없다면, 단순히 추론을 10~20회돌려서 평균내는 것 외에 방법이 있을까요? 이런 데이터들만, (소수클래스도) 따로 몇 에포크 더 학습을 시키는건 의미가 있는지 궁금합니다"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U06BGDUL2LD"
+                ],
+                "count": 1
+            },
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U06BGDUL2LD"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06BGDUL2LD",
+        "type": "message",
+        "ts": "1703724053.217949",
+        "client_msg_id": "0a86796e-16cd-40c9-bd5b-6563fc265b90",
+        "text": "<@U05VBQMH3D3> 님, 흥미로운 질문을 주셨군요!\n1. 소수 클래스에 대한 데이터 증강(Data Augmentation):\n    ◦ 소수 클래스의 이미지에 대해 플립(flip), 회전(rotation), 블러(blur) 등의 데이터 증강을 더 많이 적용하는 것은 유용한 전략입니다만, 그런 식으로의 증강에도 feature의 한계가 있다보니, 아주 강력한 해결책이라고 보기에는 어려울 거 같습니다.\n2. 평가 지표 변경:\n    ◦ 불균형 데이터셋에서는 정확도(accuracy)만으로는 충분하지 않을 수 있습니다. F1 점수, 정밀도(precision), 재현율(recall), AUC-ROC 같은 지표들을 고려할 수 있습니다. 아래 링크를 보시면 더 도움되실 듯 합니다. <https:\/\/www.kaggle.com\/code\/marcinrutecki\/best-techniques-and-metrics-for-imbalanced-dataset>\n3. 이진 분류와 앙상블\/후처리:\n    ◦ 1번 클래스를 대상으로 이진 분류를 수행하고, 나머지 클래스(2~5)를 'others'로 묶는 것은 유용한 전략일 수 있습니다. 이 방법은 특히 소수 클래스가 다른 클래스와 매우 다를 때 효과적일 수 있습니다.\n4. 예측 일관성 부족 해결:\n        ▪︎ 예측 결과가 일관성이 없는 경우, 모델의 안정성을 개선할 필요가 있습니다. 여러 추론을 진행하여 결과를 평균내는 방법 외에도, 아래와 같은 전략을 고려할 수 있습니다.\n            • 데이터셋의 품질 개선: 노이즈가 많거나 불균형한 데이터를 정제합니다.\n            • 모델 복잡도 조정: 너무 단순하거나 복잡한 모델은 일관성 없는 예측을 초래할 수 있습니다.\n            • 하이퍼파라미터 튜닝: 학습률, 배치 크기 등의 하이퍼파라미터를 조정합니다.\n            • 앙상블 기법: 서로 다른 모델을 조합하여 일관성을 높일 수 있습니다.\n5. 소수 클래스만 별도로 추가 학습:\n    ◦ 소수 클래스 데이터만을 대상으로 몇 에포크 추가 학습을 하는 것은 모델이 해당 클래스를 더 잘 이해하도록 도울 수 있습니다. 하지만, 이 방법은 모델이 소수 클래스에 과적합될 위험이 있으므로, 이 부분은 주의하시면 좋을 거 같습니다.\n추가로 궁금한 부분이 있으면 이야기 해주세요~",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "0fe69307f52f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-04-04\/6895510068391_0fe69307f52f0e0417ac_72.jpg",
+            "first_name": "한서우",
+            "real_name": "한서우 멘토",
+            "display_name": "한서우 멘토",
+            "team": "T05UGFFGL07",
+            "name": "swhan0329",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1703723745.600349",
+        "parent_user_id": "U05VBQMH3D3",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "un\/7X",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05VBQMH3D3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 님, 흥미로운 질문을 주셨군요!\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "소수 클래스에 대한 데이터 증강(Data Augmentation):"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "소수 클래스의 이미지에 대해 플립(flip), 회전(rotation), 블러(blur) 등의 데이터 증강을 더 많이 적용하는 것은 유용한 전략입니다만, 그런 식으로의 증강에도 feature의 한계가 있다보니, 아주 강력한 해결책이라고 보기에는 어려울 거 같습니다."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "평가 지표 변경:"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "offset": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "불균형 데이터셋에서는 정확도(accuracy)만으로는 충분하지 않을 수 있습니다. F1 점수, 정밀도(precision), 재현율(recall), AUC-ROC 같은 지표들을 고려할 수 있습니다. 아래 링크를 보시면 더 도움되실 듯 합니다. "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/www.kaggle.com\/code\/marcinrutecki\/best-techniques-and-metrics-for-imbalanced-dataset"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "이진 분류와 앙상블\/후처리:"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "offset": 2,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "1번 클래스를 대상으로 이진 분류를 수행하고, 나머지 클래스(2~5)를 'others'로 묶는 것은 유용한 전략일 수 있습니다. 이 방법은 특히 소수 클래스가 다른 클래스와 매우 다를 때 효과적일 수 있습니다."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "예측 일관성 부족 해결:"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "offset": 3,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "예측 결과가 일관성이 없는 경우, 모델의 안정성을 개선할 필요가 있습니다. 여러 추론을 진행하여 결과를 평균내는 방법 외에도, 아래와 같은 전략을 고려할 수 있습니다."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 2,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "데이터셋의 품질 개선: 노이즈가 많거나 불균형한 데이터를 정제합니다."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "모델 복잡도 조정: 너무 단순하거나 복잡한 모델은 일관성 없는 예측을 초래할 수 있습니다."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "하이퍼파라미터 튜닝: 학습률, 배치 크기 등의 하이퍼파라미터를 조정합니다."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "앙상블 기법: 서로 다른 모델을 조합하여 일관성을 높일 수 있습니다."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 3,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "소수 클래스만 별도로 추가 학습:"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "offset": 4,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "소수 클래스 데이터만을 대상으로 몇 에포크 추가 학습을 하는 것은 모델이 해당 클래스를 더 잘 이해하도록 도울 수 있습니다. 하지만, 이 방법은 모델이 소수 클래스에 과적합될 위험이 있으므로, 이 부분은 주의하시면 좋을 거 같습니다."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n추가로 궁금한 부분이 있으면 이야기 해주세요~"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U05VADPQPCL",
+                    "U05VAHXECP6",
+                    "U060C67EYQ5",
+                    "U05V5H1T24V"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "user": "U05VBQMH3D3",
+        "type": "message",
+        "ts": "1703725023.865969",
+        "client_msg_id": "46149772-3973-4f7b-bec2-2a623dc058e9",
+        "text": "빠른 답변 감사합니다~",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "16da4e28d6c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/6003210685524_16da4e28d6c4ea33bae5_72.png",
+            "first_name": "HB",
+            "real_name": "HB",
+            "display_name": "엄효범",
+            "team": "T05UGFFGL07",
+            "name": "swema86",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1703723745.600349",
+        "parent_user_id": "U05VBQMH3D3",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mVcaQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "빠른 답변 감사합니다~"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U06BGDUL2LD"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

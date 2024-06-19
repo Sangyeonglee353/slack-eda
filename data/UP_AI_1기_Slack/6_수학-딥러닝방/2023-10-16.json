@@ -1,0 +1,67 @@
+[
+    {
+        "user": "U060LG0BT89",
+        "type": "message",
+        "ts": "1697507773.084169",
+        "client_msg_id": "94998382-725d-470f-ba0e-9995f7962371",
+        "text": "<https:\/\/www.khanacademy.org\/math\/algebra-home\/alg-functions\/alg-finding-inverse-functions\/a\/finding-inverse-functions|Description of Inverse Function's Notation in Khan's>",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "g273c76b80b5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/273c76b80b5c013cab6c608d10041dd4.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "김준호",
+            "real_name": "김준호",
+            "display_name": "",
+            "team": "T05UGFFGL07",
+            "name": "demyank88",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/cdn.kastatic.org\/images\/khan-logo-dark-background-2.png",
+                "image_width": 1200,
+                "image_height": 630,
+                "image_bytes": 4675,
+                "from_url": "https:\/\/www.khanacademy.org\/math\/algebra-home\/alg-functions\/alg-finding-inverse-functions\/a\/finding-inverse-functions",
+                "service_icon": "https:\/\/cdn.kastatic.org\/images\/apple-touch-icon-57x57-precomposed.new.png",
+                "id": 1,
+                "original_url": "https:\/\/www.khanacademy.org\/math\/algebra-home\/alg-functions\/alg-finding-inverse-functions\/a\/finding-inverse-functions",
+                "fallback": "Khan Academy: Finding inverse functions (article) | Khan Academy",
+                "text": "Learn for free about math, art, computer programming, economics, physics, chemistry, biology, medicine, finance, history, and more. Khan Academy is a nonprofit with the mission of providing a free, world-class education for anyone, anywhere.",
+                "title": "Finding inverse functions (article) | Khan Academy",
+                "title_link": "https:\/\/www.khanacademy.org\/math\/algebra-home\/alg-functions\/alg-finding-inverse-functions\/a\/finding-inverse-functions",
+                "service_name": "Khan Academy"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+tuZt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.khanacademy.org\/math\/algebra-home\/alg-functions\/alg-finding-inverse-functions\/a\/finding-inverse-functions",
+                                "text": "Description of Inverse Function's Notation in Khan's"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U05V4KZR3NW"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

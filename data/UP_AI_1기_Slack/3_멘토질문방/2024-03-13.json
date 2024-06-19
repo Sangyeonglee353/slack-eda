@@ -1,0 +1,566 @@
+[
+    {
+        "user": "U06P0H0V3UY",
+        "type": "message",
+        "ts": "1710315197.101969",
+        "client_msg_id": "63236a65-109f-4e04-9f67-a911c27c1b99",
+        "text": "<@U0606QGQYE5>\n\n안녕하세요 영훈님 :smile:\n우선 람다식을 사용한 부분에 대해서 설명드리면, 보통은 lambda 를 쓰지 않고Seq2SeqTrainer 에서 compute_metrics 인자를 전달하면 알아서 pred 를 받아와서 계산되게됩니다. (compute_metrics = compute_metrics 로 함수명을 전달)\n\n다만 이번 경우 compute_metrics 함수에 tokenizer 를 입력하고 싶어 lambda 식을 사용한 케이스입니다.\n\n추가 질문으로 주신 pred 이 Tensor 객체인데 어떻게 prediction 과 label_ids 를 가질 수 있냐는 질문에 대해서 답변드리겠습니다.\n\n우선 pred 로 뱉어주는 값이 단순한 torch.tensor 가 아닌 Seq2SeqTrainer  내에서 구현되어 뱉어지는 형태이므로 사용이 가능합니다!\n궁금하시다면 model 에서 inference 하여 output 자료형을 찍어보시고 거기서 0 번째 index 로 출력된 pred 에 대해서 type 과 print 를 찍어보시면 확인하실 수 있습니다!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "f953974a59ed",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-03-07\/6762308887044_f953974a59edb3df3dc4_72.png",
+            "first_name": "이종혁",
+            "real_name": "이종혁 멘토",
+            "display_name": "이종혁 멘토",
+            "team": "T05UGFFGL07",
+            "name": "jonhyuk0922",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1710312860.047099",
+        "parent_user_id": "U0606QGQYE5",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4ZkwG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0606QGQYE5"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n안녕하세요 영훈님 "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile",
+                                "unicode": "1f604"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n우선 람다식을 사용한 부분에 대해서 설명드리면, 보통은 lambda 를 쓰지 않고Seq2SeqTrainer 에서 compute_metrics 인자를 전달하면 알아서 pred 를 받아와서 계산되게됩니다. (compute_metrics = compute_metrics 로 함수명을 전달)\n\n다만 이번 경우 compute_metrics 함수에 tokenizer 를 입력하고 싶어 lambda 식을 사용한 케이스입니다.\n\n추가 질문으로 주신 pred 이 Tensor 객체인데 어떻게 prediction 과 label_ids 를 가질 수 있냐는 질문에 대해서 답변드리겠습니다.\n\n우선 pred 로 뱉어주는 값이 단순한 torch.tensor 가 아닌 Seq2SeqTrainer  내에서 구현되어 뱉어지는 형태이므로 사용이 가능합니다!\n궁금하시다면 model 에서 inference 하여 output 자료형을 찍어보시고 거기서 0 번째 index 로 출력된 pred 에 대해서 type 과 print 를 찍어보시면 확인하실 수 있습니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0606QGQYE5",
+        "type": "message",
+        "ts": "1710317587.191919",
+        "client_msg_id": "8ed97490-9144-4c36-a8c6-502d0e0f5102",
+        "text": "설명 감사합니다 멘토님!\ncompute_metrics 함수에 tokenizer를 입력하고 싶어 람다 함수를 사용하셨다는 말이 어떤 말씀이신지 이해가 잘 안가서 해당 부분 설명 부탁드려도 될까요:pleading_face:",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "fb29f448e9a8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5979692591367_fb29f448e9a843cfbd44_72.jpg",
+            "first_name": "이영훈",
+            "real_name": "이영훈",
+            "display_name": "이영훈",
+            "team": "T05UGFFGL07",
+            "name": "leeanghoo2",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1710312860.047099",
+        "parent_user_id": "U0606QGQYE5",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "s9Lfs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "설명 감사합니다 멘토님!\ncompute_metrics 함수에 tokenizer를 입력하고 싶어 람다 함수를 사용하셨다는 말이 어떤 말씀이신지 이해가 잘 안가서 해당 부분 설명 부탁드려도 될까요"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pleading_face",
+                                "unicode": "1f97a"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U06P0H0V3UY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "subtype": "thread_broadcast",
+        "user": "U06P0H0V3UY",
+        "thread_ts": "1710312860.047099",
+        "root": {
+            "text": "<@U06P0H0V3UY> 안녕하세요 멘토님!\nbaseline code에서 모르는 부분이 있어 질문 드립니다.\ncompute_metrics 함수의 인자로 pred를 받아서 pred.prediction, pred.label_ids를 predictions 변수와 labels 변수에 할당하는 것으로 보입니다.\npred 인자는 Seq2SeqTrainer 함수 내부에서 람다 함수를 통해 전달이 되는 것 같은데 해당 부분이 잘 이해가 가지 않아서 설명 부탁드려도 될까요?? 또한 pred가 모델의 예측값이라면 Tensor 객체 형태로 반환되는것 아닌가요? .prediction과 .label_ids 속성을 어떻게 사용할 수 있는지 궁금합니다!",
+            "files": [
+                {
+                    "id": "F06P63U995K",
+                    "created": 1710312107,
+                    "timestamp": 1710312107,
+                    "name": "image.png",
+                    "title": "image.png",
+                    "mimetype": "image\/png",
+                    "filetype": "png",
+                    "pretty_type": "PNG",
+                    "user": "U0606QGQYE5",
+                    "user_team": "T05UGFFGL07",
+                    "editable": false,
+                    "size": 55676,
+                    "mode": "hosted",
+                    "is_external": false,
+                    "external_type": "",
+                    "is_public": true,
+                    "public_url_shared": false,
+                    "display_as_bot": false,
+                    "username": "",
+                    "url_private": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F06P63U995K\/image.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                    "url_private_download": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F06P63U995K\/download\/image.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                    "media_display_type": "unknown",
+                    "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06P63U995K-f1d866fade\/image_64.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                    "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06P63U995K-f1d866fade\/image_80.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                    "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06P63U995K-f1d866fade\/image_360.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                    "thumb_360_w": 360,
+                    "thumb_360_h": 90,
+                    "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06P63U995K-f1d866fade\/image_480.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                    "thumb_480_w": 480,
+                    "thumb_480_h": 119,
+                    "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06P63U995K-f1d866fade\/image_160.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                    "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06P63U995K-f1d866fade\/image_720.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                    "thumb_720_w": 720,
+                    "thumb_720_h": 179,
+                    "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06P63U995K-f1d866fade\/image_800.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                    "thumb_800_w": 800,
+                    "thumb_800_h": 199,
+                    "original_w": 956,
+                    "original_h": 238,
+                    "thumb_tiny": "AwALADCmMHtRgUlGaAF\/D9KOnakyaSgBc+1GfYUlFAH\/2Q==",
+                    "permalink": "https:\/\/fcupstageai1.slack.com\/files\/U0606QGQYE5\/F06P63U995K\/image.png",
+                    "permalink_public": "https:\/\/slack-files.com\/T05UGFFGL07-F06P63U995K-8f0e4f1529",
+                    "is_starred": false,
+                    "has_rich_preview": false,
+                    "file_access": "visible"
+                },
+                {
+                    "id": "F06NUEPPA23",
+                    "created": 1710312286,
+                    "timestamp": 1710312286,
+                    "name": "image.png",
+                    "title": "image.png",
+                    "mimetype": "image\/png",
+                    "filetype": "png",
+                    "pretty_type": "PNG",
+                    "user": "U0606QGQYE5",
+                    "user_team": "T05UGFFGL07",
+                    "editable": false,
+                    "size": 90678,
+                    "mode": "hosted",
+                    "is_external": false,
+                    "external_type": "",
+                    "is_public": true,
+                    "public_url_shared": false,
+                    "display_as_bot": false,
+                    "username": "",
+                    "url_private": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F06NUEPPA23\/image.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                    "url_private_download": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F06NUEPPA23\/download\/image.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                    "media_display_type": "unknown",
+                    "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06NUEPPA23-17718a8e05\/image_64.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                    "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06NUEPPA23-17718a8e05\/image_80.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                    "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06NUEPPA23-17718a8e05\/image_360.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                    "thumb_360_w": 360,
+                    "thumb_360_h": 118,
+                    "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06NUEPPA23-17718a8e05\/image_480.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                    "thumb_480_w": 480,
+                    "thumb_480_h": 158,
+                    "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06NUEPPA23-17718a8e05\/image_160.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                    "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06NUEPPA23-17718a8e05\/image_720.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                    "thumb_720_w": 720,
+                    "thumb_720_h": 237,
+                    "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06NUEPPA23-17718a8e05\/image_800.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                    "thumb_800_w": 800,
+                    "thumb_800_h": 263,
+                    "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06NUEPPA23-17718a8e05\/image_960.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                    "thumb_960_w": 960,
+                    "thumb_960_h": 316,
+                    "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06NUEPPA23-17718a8e05\/image_1024.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                    "thumb_1024_w": 1024,
+                    "thumb_1024_h": 337,
+                    "original_w": 1186,
+                    "original_h": 390,
+                    "thumb_tiny": "AwAPADCmKOPSkBxS5oATFFGaOPSgA49aSl\/Cj8KAP\/\/Z",
+                    "permalink": "https:\/\/fcupstageai1.slack.com\/files\/U0606QGQYE5\/F06NUEPPA23\/image.png",
+                    "permalink_public": "https:\/\/slack-files.com\/T05UGFFGL07-F06NUEPPA23-27ada65d44",
+                    "is_starred": false,
+                    "has_rich_preview": false,
+                    "file_access": "visible"
+                }
+            ],
+            "upload": false,
+            "user": "U0606QGQYE5",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "XCMl1",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "user",
+                                    "user_id": "U06P0H0V3UY"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " 안녕하세요 멘토님!\nbaseline code에서 모르는 부분이 있어 질문 드립니다.\ncompute_metrics 함수의 인자로 pred를 받아서 pred.prediction, pred.label_ids를 predictions 변수와 labels 변수에 할당하는 것으로 보입니다.\npred 인자는 Seq2SeqTrainer 함수 내부에서 람다 함수를 통해 전달이 되는 것 같은데 해당 부분이 잘 이해가 가지 않아서 설명 부탁드려도 될까요?? 또한 pred가 모델의 예측값이라면 Tensor 객체 형태로 반환되는것 아닌가요? .prediction과 .label_ids 속성을 어떻게 사용할 수 있는지 궁금합니다!"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "type": "message",
+            "ts": "1710312860.047099",
+            "client_msg_id": "c1efd1d2-2db1-44a2-b966-58cb0c089b3f",
+            "thread_ts": "1710312860.047099",
+            "reply_count": 4,
+            "reply_users_count": 2,
+            "latest_reply": "1710320482.079549",
+            "reply_users": [
+                "U06P0H0V3UY",
+                "U0606QGQYE5"
+            ],
+            "replies": [
+                {
+                    "user": "U06P0H0V3UY",
+                    "ts": "1710315197.101969"
+                },
+                {
+                    "user": "U0606QGQYE5",
+                    "ts": "1710317587.191919"
+                },
+                {
+                    "user": "U06P0H0V3UY",
+                    "ts": "1710318303.825529"
+                },
+                {
+                    "user": "U0606QGQYE5",
+                    "ts": "1710320482.079549"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false
+        },
+        "type": "message",
+        "ts": "1710318303.825529",
+        "edited": {
+            "user": "U06P0H0V3UY",
+            "ts": "1710318323.000000"
+        },
+        "client_msg_id": "d5d9b2ef-2a9c-44b6-b375-940862234b0a",
+        "text": "넵! 답변드리겠습니다. <@U0606QGQYE5>\n이미 구현되어있는 Seq2SeqTrainer 를 저희는 사용하고 있습니다.\n이때, Seq2SeqTrainer 의 입력하는 파라미터 중 \"compute_metrics\"는 스코어를 계산하는 def compute_metrics 를 저희가 구현해서 구현한 함수의 이름을 입력값으로 주면, 그 함수에 맞게 스코어 계산이 이루어지게 되어있습니다.\n\n그런데 이미 구현된 프로세스대로 함수이름만 입력하게되면, 이미 내부에 구현된대로 스코어 계산이 동작하므로 tokenizer 를 입력받는 부분이 없게됩니다. 그러나 제가 구현한 compute_metrics 함수에서는 tokenizer 를 입력으로 받아와야 원활한 계산이 가능합니다.\n\n그래서 lambda 임의함수를 사용하는 방식으로 기존에 Seq2SeqTrainer가 함수명만 입력으로 받던 것을 tokenizer 인자도 같이 받도록 변경했다고 봐주시면 됩니다!!\n\n이해가 안되신다면 <https:\/\/github.com\/huggingface\/transformers\/blob\/092f1fdaa4224fdd88c616dc9678e6fcb37bfffd\/src\/transformers\/trainer_seq2seq.py#L41|소스코드>에 어떻게 구현되어있는 지 살펴보시면 도움이 되실거에요!\n\n처음엔 타인이 짠 코드를 읽고 이해하시는게 다소 낯서실수 있지만 포기하지않고 하나하나씩 읽어나가시길 응원드려요!! 질문은 언제든 환영입니다!!",
+        "attachments": [
+            {
+                "id": 1,
+                "footer_icon": "https:\/\/slack.github.com\/static\/img\/favicon-neutral.png",
+                "color": "24292f",
+                "bot_id": "B064NLR870C",
+                "app_unfurl_url": "https:\/\/github.com\/huggingface\/transformers\/blob\/092f1fdaa4224fdd88c616dc9678e6fcb37bfffd\/src\/transformers\/trainer_seq2seq.py#L41",
+                "is_app_unfurl": true,
+                "app_id": "A01BP7R4KNY",
+                "fallback": "<https:\/\/github.com\/huggingface\/transformers\/blob\/092f1fdaa4224fdd88c616dc9678e6fcb37bfffd\/src\/transformers\/trainer_seq2seq.py | trainer_seq2seq.py>",
+                "text": "```\nclass Seq2SeqTrainer(Trainer):\n```",
+                "title": "<https:\/\/github.com\/huggingface\/transformers\/blob\/092f1fdaa4224fdd88c616dc9678e6fcb37bfffd\/src\/transformers\/trainer_seq2seq.py | trainer_seq2seq.py>",
+                "footer": "<https:\/\/github.com\/huggingface\/transformers|huggingface\/transformers>",
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OCRTq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "넵! 답변드리겠습니다. "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0606QGQYE5"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n이미 구현되어있는 Seq2SeqTrainer 를 저희는 사용하고 있습니다.\n이때, Seq2SeqTrainer 의 입력하는 파라미터 중 \"compute_metrics\"는 스코어를 계산하는 def compute_metrics 를 저희가 구현해서 구현한 함수의 이름을 입력값으로 주면, 그 함수에 맞게 스코어 계산이 이루어지게 되어있습니다.\n\n그런데 이미 구현된 프로세스대로 함수이름만 입력하게되면, 이미 내부에 구현된대로 스코어 계산이 동작하므로 tokenizer 를 입력받는 부분이 없게됩니다. 그러나 제가 구현한 compute_metrics 함수에서는 tokenizer 를 입력으로 받아와야 원활한 계산이 가능합니다.\n\n그래서 lambda 임의함수를 사용하는 방식으로 기존에 Seq2SeqTrainer가 함수명만 입력으로 받던 것을 tokenizer 인자도 같이 받도록 변경했다고 봐주시면 됩니다!!\n\n이해가 안되신다면 "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/huggingface\/transformers\/blob\/092f1fdaa4224fdd88c616dc9678e6fcb37bfffd\/src\/transformers\/trainer_seq2seq.py#L41",
+                                "text": "소스코드"
+                            },
+                            {
+                                "type": "text",
+                                "text": "에 어떻게 구현되어있는 지 살펴보시면 도움이 되실거에요!\n\n처음엔 타인이 짠 코드를 읽고 이해하시는게 다소 낯서실수 있지만 포기하지않고 하나하나씩 읽어나가시길 응원드려요!! 질문은 언제든 환영입니다!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0606QGQYE5",
+        "type": "message",
+        "ts": "1710320482.079549",
+        "client_msg_id": "00e1ad15-f36a-4f49-ab59-389a7298f0cf",
+        "text": "자세한 설명 감사합니다!!:귀여운박수:",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "fb29f448e9a8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5979692591367_fb29f448e9a843cfbd44_72.jpg",
+            "first_name": "이영훈",
+            "real_name": "이영훈",
+            "display_name": "이영훈",
+            "team": "T05UGFFGL07",
+            "name": "leeanghoo2",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1710312860.047099",
+        "parent_user_id": "U0606QGQYE5",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eZ2nN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "자세한 설명 감사합니다!!"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "귀여운박수"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "sparkles",
+                "users": [
+                    "U06P0H0V3UY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "text": "<@U06P0H0V3UY> 안녕하세요 멘토님!\nbaseline 모델인 `digit82\/Kobart-summarization` 대신, hugging face에 있는 모델 중 하나인 `psyche\/KoT-summarization` 모델을 사용해 학습을 돌려보려고합니다. 다만 default batch size 설정으로는 OOM 이슈가 발생하여, batch size를 `\"per_device_train_batch_size\": 25`, `\"per_device_eval_batch_size\": 16` 으로 설정하고 학습을 돌렸는데요!\nBatch size 관련 오류가 발생했습니다.\n첫번째 epoch의 train까지는 진행되고, evaluation 과정에서 아래와 같은 메시지가 발생하며 학습이 중단되었습니다. `Expected input batch_size (1504) to match target batch_size (1488).`\n이런 입출력 dimension 관련 문제는 해결하기 위해 어떻게 접근하는 것이 좋을까요? 추가적인 정보가 필요하다면 전달드리겠습니다! 감사합니다",
+        "files": [
+            {
+                "id": "F06P1R1U3KR",
+                "created": 1710397192,
+                "timestamp": 1710397192,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U05V4KZR3NW",
+                "user_team": "T05UGFFGL07",
+                "editable": false,
+                "size": 348957,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F06P1R1U3KR\/image.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F06P1R1U3KR\/download\/image.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06P1R1U3KR-3c16f4d6a2\/image_64.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06P1R1U3KR-3c16f4d6a2\/image_80.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06P1R1U3KR-3c16f4d6a2\/image_360.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_360_w": 360,
+                "thumb_360_h": 275,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06P1R1U3KR-3c16f4d6a2\/image_480.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_480_w": 480,
+                "thumb_480_h": 367,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06P1R1U3KR-3c16f4d6a2\/image_160.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06P1R1U3KR-3c16f4d6a2\/image_720.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_720_w": 720,
+                "thumb_720_h": 550,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06P1R1U3KR-3c16f4d6a2\/image_800.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_800_w": 800,
+                "thumb_800_h": 611,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06P1R1U3KR-3c16f4d6a2\/image_960.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_960_w": 960,
+                "thumb_960_h": 734,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06P1R1U3KR-3c16f4d6a2\/image_1024.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 783,
+                "original_w": 1816,
+                "original_h": 1388,
+                "thumb_tiny": "AwAkADCmGAHKA0bx\/cWkUfWlKn1\/SgBMn0FGT6CkK46kUY9xQAlFLj3FH40AL2FKQO4FIBwOtLj60AJ+A\/Ok\/CnEH3puPY0AFFFFADgKMUdqKACg9KKD0oAbmjNJRQB\/\/9k=",
+                "permalink": "https:\/\/fcupstageai1.slack.com\/files\/U05V4KZR3NW\/F06P1R1U3KR\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T05UGFFGL07-F06P1R1U3KR-7fb73d9717",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U05V4KZR3NW",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SOKIZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06P0H0V3UY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 안녕하세요 멘토님!\nbaseline 모델인 "
+                            },
+                            {
+                                "type": "text",
+                                "text": "digit82\/Kobart-summarization",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " 대신, hugging face에 있는 모델 중 하나인 "
+                            },
+                            {
+                                "type": "text",
+                                "text": "psyche\/KoT-summarization",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " 모델을 사용해 학습을 돌려보려고합니다. 다만 default batch size 설정으로는 OOM 이슈가 발생하여, batch size를 "
+                            },
+                            {
+                                "type": "text",
+                                "text": "\"per_device_train_batch_size\": 25",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ", "
+                            },
+                            {
+                                "type": "text",
+                                "text": "\"per_device_eval_batch_size\": 16",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " 으로 설정하고 학습을 돌렸는데요!\nBatch size 관련 오류가 발생했습니다.\n첫번째 epoch의 train까지는 진행되고, evaluation 과정에서 아래와 같은 메시지가 발생하며 학습이 중단되었습니다. "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Expected input batch_size (1504) to match target batch_size (1488).",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n이런 입출력 dimension 관련 문제는 해결하기 위해 어떻게 접근하는 것이 좋을까요? 추가적인 정보가 필요하다면 전달드리겠습니다! 감사합니다"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1710397390.178389",
+        "edited": {
+            "user": "U05V4KZR3NW",
+            "ts": "1710397398.000000"
+        },
+        "client_msg_id": "a9e5ed11-6e44-4e8f-85a5-2bc577880f1b",
+        "thread_ts": "1710397390.178389",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1710420920.366119",
+        "reply_users": [
+            "U06P0H0V3UY",
+            "U05V4KZR3NW"
+        ],
+        "replies": [
+            {
+                "user": "U06P0H0V3UY",
+                "ts": "1710407996.548649"
+            },
+            {
+                "user": "U05V4KZR3NW",
+                "ts": "1710420920.366119"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U06P0H0V3UY"
+                ],
+                "count": 1
+            },
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U06P0H0V3UY"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

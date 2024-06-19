@@ -1,0 +1,560 @@
+[
+    {
+        "user": "U05UNC6FNK1",
+        "type": "message",
+        "ts": "1708907862.463439",
+        "client_msg_id": "7d74ef43-1e5e-4ca8-bbc7-a74da5a4d5ec",
+        "text": "*<!channel>* 훈련장려금 지급 지연안내\n안녕하세요! 훈련생 여러분~ 훈련장려금이 약속된 기한내 지급되지 못하는 상태가 계속되고 있어 안내말씀드립니다.\n\n*지급 지연 사유*\n• 고용센터 예산편성 지연\n• 일부 수강생의 실업자로 공유된 상태 - 숨겨진 고용보험이 발견되어, 추적중\n• 일부 수강생의 고용보험 상실에도 불구 하고 고용보험이 잡히는 시스템 오류 - 진위여부 파악중\n지급 지연 사유로 최대한 빠르게 지급하겠다는 센터의 약속이 계속 지연되는 점 양해 부탁드리며, (이미 늦었지만...:smiling_face_with_tear:) 지급이 빨라질 수 있도록 신속 확인하여 센터로 전달드릴 예정입니다\n지연에 대해 조금만 더 양해부탁드립니다.:pray::skin-tone-2:",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "260d154ea1e2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5979526758263_260d154ea1e2177fd001_72.jpg",
+            "first_name": "FC",
+            "real_name": "FC 하시안 매니저",
+            "display_name": "FC 하시안 매니저",
+            "team": "T05UGFFGL07",
+            "name": "xianha",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WEISj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " 훈련장려금 지급 지연안내\n안녕하세요! 훈련생 여러분~ 훈련장려금이 약속된 기한내 지급되지 못하는 상태가 계속되고 있어 안내말씀드립니다.\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "지급 지연 사유",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "고용센터 예산편성 지연"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "일부 수강생의 실업자로 공유된 상태 - 숨겨진 고용보험이 발견되어, 추적중"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "일부 수강생의 고용보험 상실에도 불구 하고 고용보험이 잡히는 시스템 오류 - 진위여부 파악중"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n지급 지연 사유로 최대한 빠르게 지급하겠다는 센터의 약속이 계속 지연되는 점 양해 부탁드리며, (이미 늦었지만..."
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smiling_face_with_tear",
+                                "unicode": "1f972"
+                            },
+                            {
+                                "type": "text",
+                                "text": ") 지급이 빨라질 수 있도록 신속 확인하여 센터로 전달드릴 예정입니다\n지연에 대해 조금만 더 양해부탁드립니다."
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f-1f3fb",
+                                "skin_tone": 2
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05V2GDNNLT",
+        "type": "message",
+        "ts": "1708908759.175539",
+        "client_msg_id": "f3bf1b78-6a1e-4077-a0e8-cab2dda4b6ab",
+        "text": "<@U05UNC6FNK1> <@U05V81G5ZDY>\n대상 : 국민취업지원 서류\n필요한 기간 : 1월 27일 ~ 2월 26일\n필요 서류 : 출석부\n이메일 : <mailto:peinguin77@gmail.com|peinguin77@gmail.com>\n연락처 : 01085814779\n\n요청드립니다. 감사합니다!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "ea660e2b5663",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5988655146706_ea660e2b566324290d7b_72.png",
+            "first_name": "장성준",
+            "real_name": "장성준 (Jun)",
+            "display_name": "장성준 (Jun)",
+            "team": "T05UGFFGL07",
+            "name": "peinguin77",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1708908759.175539",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1708909493.447509",
+        "reply_users": [
+            "U05VADPQPCL",
+            "U05V81G5ZDY"
+        ],
+        "replies": [
+            {
+                "user": "U05VADPQPCL",
+                "ts": "1708908785.122359"
+            },
+            {
+                "user": "U05V81G5ZDY",
+                "ts": "1708909493.447509"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "H\/FnO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05UNC6FNK1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05V81G5ZDY"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n대상 : 국민취업지원 서류\n필요한 기간 : 1월 27일 ~ 2월 26일\n필요 서류 : 출석부\n이메일 : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:peinguin77@gmail.com",
+                                "text": "peinguin77@gmail.com"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n연락처 : 01085814779\n\n요청드립니다. 감사합니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "U05V81G5ZDY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05VADPQPCL",
+        "type": "message",
+        "ts": "1708908785.122359",
+        "client_msg_id": "74b5c87e-3409-4008-96f2-df869b19e39e",
+        "text": "성준님 안녕하세요 DM 확인 부탁 드립니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "07e7ca00b8f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5991092857253_07e7ca00b8f0d0b13ba1_72.png",
+            "first_name": "패스트캠퍼스박기준",
+            "real_name": "패스트캠퍼스박기준",
+            "display_name": "LM 박기준",
+            "team": "T05UGFFGL07",
+            "name": "pgj.fc.career",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1708908759.175539",
+        "parent_user_id": "U05V2GDNNLT",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "svnB9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "성준님 안녕하세요 DM 확인 부탁 드립니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U060BLVQYHW",
+        "type": "message",
+        "ts": "1708908978.613469",
+        "client_msg_id": "8b0ce373-ee16-4339-a9ec-0a3ddcaa2480",
+        "text": "<@U05V81G5ZDY> <@U05UNC6FNK1>\n대상 : 국민취업지원 서류\n필요한 기간 : 24년 01월 25일 ~ 24년 02월 24일\n필요 서류 : 출석부\n이메일 : <mailto:happer96@gmail.com|happer96@gmail.com>\n연락처 : 01062273648\n\n안녕하세요 요청드립니다.\n감사합니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "g6cb970458b5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6cb970458b5672091fa231bd078f93da.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+            "first_name": "Sang",
+            "real_name": "Sang Hyuk SEO",
+            "display_name": "서상혁",
+            "team": "T05UGFFGL07",
+            "name": "happer96",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1708908978.613469",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1708910485.103299",
+        "reply_users": [
+            "U05V81G5ZDY",
+            "U060BLVQYHW"
+        ],
+        "replies": [
+            {
+                "user": "U05V81G5ZDY",
+                "ts": "1708909443.487329"
+            },
+            {
+                "user": "U060BLVQYHW",
+                "ts": "1708910485.103299"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yfoRt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05V81G5ZDY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05UNC6FNK1"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n대상 : 국민취업지원 서류\n필요한 기간 : 24년 01월 25일 ~ 24년 02월 24일\n필요 서류 : 출석부\n이메일 : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:happer96@gmail.com",
+                                "text": "happer96@gmail.com"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n연락처 : 01062273648\n\n안녕하세요 요청드립니다.\n감사합니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "U05V81G5ZDY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "text": "출석부 전달 드립니다",
+        "files": [
+            {
+                "id": "F06L3RHNUEB",
+                "created": 1708909441,
+                "timestamp": 1708909441,
+                "name": "20240226100327902.pdf",
+                "title": "20240226100327902.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U05V81G5ZDY",
+                "user_team": "T05UGFFGL07",
+                "editable": false,
+                "size": 78922,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F06L3RHNUEB\/20240226100327902.pdf?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F06L3RHNUEB\/download\/20240226100327902.pdf?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "media_display_type": "unknown",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06L3RHNUEB-39124f7809\/20240226100327902_thumb_pdf.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_pdf_w": 1286,
+                "thumb_pdf_h": 909,
+                "permalink": "https:\/\/fcupstageai1.slack.com\/files\/U05V81G5ZDY\/F06L3RHNUEB\/20240226100327902.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/T05UGFFGL07-F06L3RHNUEB-e9b5509678",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U05V81G5ZDY",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pOBIy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "출석부 전달 드립니다"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1708909443.487329",
+        "client_msg_id": "2acecd4d-246b-4cac-9be6-e873b0a2c543",
+        "thread_ts": "1708908978.613469",
+        "parent_user_id": "U060BLVQYHW"
+    },
+    {
+        "text": "출석부 전달 드립니다\n\n금일(2\/26)자 출결은 익일 반영되어 현재 결석으로 나타납니다",
+        "files": [
+            {
+                "id": "F06LFF21K37",
+                "created": 1708909475,
+                "timestamp": 1708909475,
+                "name": "20240226100426020.pdf",
+                "title": "20240226100426020.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U05V81G5ZDY",
+                "user_team": "T05UGFFGL07",
+                "editable": false,
+                "size": 78849,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F06LFF21K37\/20240226100426020.pdf?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F06LFF21K37\/download\/20240226100426020.pdf?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "media_display_type": "unknown",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06LFF21K37-60c6143d6f\/20240226100426020_thumb_pdf.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_pdf_w": 1286,
+                "thumb_pdf_h": 909,
+                "permalink": "https:\/\/fcupstageai1.slack.com\/files\/U05V81G5ZDY\/F06LFF21K37\/20240226100426020.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/T05UGFFGL07-F06LFF21K37-c629cfcbc3",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U05V81G5ZDY",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MSx6b",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "출석부 전달 드립니다\n\n금일(2\/26)자 출결은 익일 반영되어 현재 결석으로 나타납니다"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1708909493.447509",
+        "client_msg_id": "374834a3-4d1d-4ddd-be6e-2011104cb701",
+        "thread_ts": "1708908759.175539",
+        "parent_user_id": "U05V2GDNNLT"
+    },
+    {
+        "user": "U060BLVQYHW",
+        "type": "message",
+        "ts": "1708910485.103299",
+        "client_msg_id": "ab22b97f-8766-429c-86a7-7325ae2301fe",
+        "text": "<@U05V81G5ZDY> 감사합니다!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "g6cb970458b5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6cb970458b5672091fa231bd078f93da.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+            "first_name": "Sang",
+            "real_name": "Sang Hyuk SEO",
+            "display_name": "서상혁",
+            "team": "T05UGFFGL07",
+            "name": "happer96",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1708908978.613469",
+        "parent_user_id": "U060BLVQYHW",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sdfMI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05V81G5ZDY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 감사합니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06022Z2TED",
+        "type": "message",
+        "ts": "1708925021.966049",
+        "client_msg_id": "89e123ee-d4f5-4d13-9391-2d7ebd62f534",
+        "text": "<@U05UNC6FNK1> <@U05V81G5ZDY> 안녕하세요 매니저님! LM님과 상담 후 3월 4일(월요일) 휴가 구글폼 제출하였습니다. 확인 부탁드립니다. 감사합니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "d62be7ca993c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5991921924404_d62be7ca993c5be99966_72.png",
+            "first_name": "ha",
+            "real_name": "ha ha",
+            "display_name": "김하연",
+            "team": "T05UGFFGL07",
+            "name": "leah8735",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lnecz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05UNC6FNK1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05V81G5ZDY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 안녕하세요 매니저님! LM님과 상담 후 3월 4일(월요일) 휴가 구글폼 제출하였습니다. 확인 부탁드립니다. 감사합니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "beach_with_umbrella",
+                "users": [
+                    "U05V81G5ZDY"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

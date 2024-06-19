@@ -1,0 +1,240 @@
+[
+    {
+        "user": "U060C67EYQ5",
+        "type": "message",
+        "ts": "1708299240.927199",
+        "client_msg_id": "3f98d4e4-30fe-4917-aef6-8f851f1afcde",
+        "text": "지난주 OpenAI에서 ChatGPT, DALL-E에 이어 Text-to-Video 모델, SORA를 공개했네요.\n\n아직 테스트 기간 중인 것 같은데 공개된 예시 영상만 보더라도 정말 퀄리티가 괜찮은 것 같아요.\n머지않아 시나리오 프롬프트로 영화 생성까지도 정말 가능할 것 같네요.\n\n다만, deep fake 등 부정 사용 이슈 등을 방지하기 위해서 이용에 제한을 두는 방향으로 일단 법률 검토를 하고 있다는데요.\n앞으로 어떻게 발전되고 ChatGPT에 이은 또 다른 쇼크를 줄지.. 지켜봐야겠네요..!!!\n\n• 링크: <https:\/\/openai.com\/sora>\n",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "831ed525b276",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-11-14\/6192884585138_831ed525b276222009d0_72.png",
+            "first_name": "업스테이지",
+            "real_name": "업스테이지 김의겸(Dave)",
+            "display_name": "UP 김의겸(Dave) 매니저",
+            "team": "T05UGFFGL07",
+            "name": "euigyum",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1708299240.927199",
+        "reply_count": 2,
+        "reply_users_count": 1,
+        "latest_reply": "1708602116.865749",
+        "reply_users": [
+            "U060C67EYQ5"
+        ],
+        "replies": [
+            {
+                "user": "U060C67EYQ5",
+                "ts": "1708602052.447439"
+            },
+            {
+                "user": "U060C67EYQ5",
+                "ts": "1708602116.865749"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "attachments": [
+            {
+                "image_url": "https:\/\/images.openai.com\/blob\/8264d3d7-922c-4343-b43d-6665e44bcb91\/paper-airplanes.jpg?trim=0%2C0%2C0%2C0&width=1000&quality=80",
+                "image_width": 1000,
+                "image_height": 562,
+                "image_bytes": 98157,
+                "from_url": "https:\/\/openai.com\/sora",
+                "service_icon": "https:\/\/openai.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/openai.com\/sora",
+                "fallback": "Sora: Creating video from text",
+                "title": "Sora: Creating video from text",
+                "title_link": "https:\/\/openai.com\/sora",
+                "service_name": "openai.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UkwYW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "지난주 OpenAI에서 ChatGPT, DALL-E에 이어 Text-to-Video 모델, SORA를 공개했네요.\n\n아직 테스트 기간 중인 것 같은데 공개된 예시 영상만 보더라도 정말 퀄리티가 괜찮은 것 같아요.\n머지않아 시나리오 프롬프트로 영화 생성까지도 정말 가능할 것 같네요.\n\n다만, deep fake 등 부정 사용 이슈 등을 방지하기 위해서 이용에 제한을 두는 방향으로 일단 법률 검토를 하고 있다는데요.\n앞으로 어떻게 발전되고 ChatGPT에 이은 또 다른 쇼크를 줄지.. 지켜봐야겠네요..!!!\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "링크: "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/openai.com\/sora"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "귀여운박수",
+                "users": [
+                    "U05UNMQ4LP9",
+                    "U05V4KZR3NW",
+                    "U05V2T62KUJ"
+                ],
+                "count": 3
+            },
+            {
+                "name": "meow_noddies",
+                "users": [
+                    "U05V5B27DK7"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U060C67EYQ5",
+        "type": "message",
+        "ts": "1708306828.339599",
+        "client_msg_id": "beb139b7-f913-4328-912b-43b3598cc1b1",
+        "text": "&gt; *[디지털데일리]‘어벤저스’라 불린 그들...왜 AI OCR+프라이빗 LLM을 택했나 [스토리팩-업스테이지①]*\n&gt; <https:\/\/n.news.naver.com\/mnews\/article\/138\/0002166986?sid=105>\n업스테이지의 기업 스토리를 담은 기사가 있어서 공유합니다!\n업계 최고 문서 자동화 수준을 달성한 Document AI 그리고 세계 최고 Private LLM 솔라를 개발한 기술력에 대한 소개도 포함되어 있어요.\n\n업스테이지의 AI 기술 리더십에 대해 궁금하신 분, 실제 AI 프로덕트의 개발에 있어서 어떤 고민들이 필요한지 궁금하신 분들에게 도움이 될 것 같아요!\n\n앞으로 연재 형식으로 ‘인재편‘과 ‘조직편‘은 게재될 예정이라 보도되는대로 제가 공유드리도록 하겠습니다!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "831ed525b276",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-11-14\/6192884585138_831ed525b276222009d0_72.png",
+            "first_name": "업스테이지",
+            "real_name": "업스테이지 김의겸(Dave)",
+            "display_name": "UP 김의겸(Dave) 매니저",
+            "team": "T05UGFFGL07",
+            "name": "euigyum",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1708306828.339599",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1708422757.578779",
+        "reply_users": [
+            "U060C67EYQ5"
+        ],
+        "replies": [
+            {
+                "user": "U060C67EYQ5",
+                "ts": "1708422757.578779"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "attachments": [
+            {
+                "image_url": "https:\/\/imgnews.pstatic.net\/image\/138\/2024\/02\/16\/0002166986_001_20240216174401248.jpg?type=w800",
+                "image_width": 640,
+                "image_height": 360,
+                "image_bytes": 39076,
+                "from_url": "https:\/\/n.news.naver.com\/mnews\/article\/138\/0002166986?sid=105",
+                "service_icon": "https:\/\/ssl.pstatic.net\/static.news\/image\/news\/m\/2018\/favicon\/06\/android_legacy_xxxhpdi_192x192.png",
+                "id": 1,
+                "original_url": "https:\/\/n.news.naver.com\/mnews\/article\/138\/0002166986?sid=105",
+                "fallback": "'어벤저스'라 불린 그들...왜 AI OCR+프라이빗 LLM을 택했나 [스토리팩-업스테이지①]",
+                "text": "사람의 뇌는 단순 정보보다 ‘이야기’를 좋아하고 감정과 기억도 더 오래 각인한다고 합니다. 디지털데일리 테크콘텐츠랩의 ‘스토리팩’은 혁신기업의 기술, 인재, 조직 관련 소재들을 책 한쪽 읽는 듯한 재미와 통찰로 풀어",
+                "title": "'어벤저스'라 불린 그들...왜 AI OCR+프라이빗 LLM을 택했나 [스토리팩-업스테이지①]",
+                "title_link": "https:\/\/n.news.naver.com\/mnews\/article\/138\/0002166986?sid=105",
+                "service_name": "n.news.naver.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TQ0ye",
+                "elements": [
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "[디지털데일리]‘어벤저스’라 불린 그들...왜 AI OCR+프라이빗 LLM을 택했나 [스토리팩-업스테이지①]",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/n.news.naver.com\/mnews\/article\/138\/0002166986?sid=105"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n업스테이지의 기업 스토리를 담은 기사가 있어서 공유합니다!\n업계 최고 문서 자동화 수준을 달성한 Document AI 그리고 세계 최고 Private LLM 솔라를 개발한 기술력에 대한 소개도 포함되어 있어요.\n\n업스테이지의 AI 기술 리더십에 대해 궁금하신 분, 실제 AI 프로덕트의 개발에 있어서 어떤 고민들이 필요한지 궁금하신 분들에게 도움이 될 것 같아요!\n\n앞으로 연재 형식으로 ‘인재편‘과 ‘조직편‘은 게재될 예정이라 보도되는대로 제가 공유드리도록 하겠습니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U05V9N22ZUK",
+                    "U05V2T62KUJ",
+                    "U05V2P37518"
+                ],
+                "count": 3
+            },
+            {
+                "name": "eyes",
+                "users": [
+                    "U05V7H78DUM"
+                ],
+                "count": 1
+            },
+            {
+                "name": "party_blob-1",
+                "users": [
+                    "U05V5B27DK7"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U05UVE9DFSB"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

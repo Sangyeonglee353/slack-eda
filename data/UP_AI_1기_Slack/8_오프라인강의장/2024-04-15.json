@@ -1,0 +1,158 @@
+[
+    {
+        "user": "U05VAHXECP6",
+        "type": "message",
+        "ts": "1713167732.147739",
+        "client_msg_id": "88400dc9-c50a-4e9f-87e5-23e3a4ff9875",
+        "text": "<!channel>\n안녕하세요. Upstage AI Lab 1기 수강생 여러분!\nAI 실전 학습 공부는 잘되어 가시는지요?\n\n여러분이 더 쾌적한 환경에서 학습을 하실 수 있도록 현재 일부 미왕 강의장이 공사를 진행 중에 있습니다.\n이로인해 특정 기간 소음이 발생할 수 있어, 양해의 말씀 드립니다. :pray:\n\n&gt; :office: *미왕강의장 공사로 인한 소음 발생 안내* :loud_sound:\n• 공사 기간 : 4\/6(토)~5\/5(일)\n• 협조 사항\n    ◦ 평일 저녁 6시 이후, 주말 내 10층 C+D 강의장 병합 공사로 인한 소음 발생 양해 요청\n• 참고 사항\n    ◦ 10층 진입과 해당 강의장 근처에 안내문이 부착될 예정이니, 인근 강의장 이용 예정이시라면 안내문도 한 번 확인 부탁 드립니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "50abee101814",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-11\/6044824153712_50abee1018149e21919b_72.jpg",
+            "first_name": "이상영",
+            "real_name": "이상영",
+            "display_name": "FC 이상영 매니저",
+            "team": "T05UGFFGL07",
+            "name": "sangyeong.lee",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JzXXF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n안녕하세요. Upstage AI Lab 1기 수강생 여러분!\nAI 실전 학습 공부는 잘되어 가시는지요?\n\n여러분이 더 쾌적한 환경에서 학습을 하실 수 있도록 현재 일부 미왕 강의장이 공사를 진행 중에 있습니다.\n이로인해 특정 기간 소음이 발생할 수 있어, 양해의 말씀 드립니다. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "office",
+                                "unicode": "1f3e2",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " 미왕강의장 공사로 인한 소음 발생 안내 ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "loud_sound",
+                                "unicode": "1f50a",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "공사 기간 : 4\/6(토)~5\/5(일)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "협조 사항"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "평일 저녁 6시 이후, 주말 내 10층 C+D 강의장 병합 공사로 인한 소음 발생 양해 요청"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "참고 사항"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "10층 진입과 해당 강의장 근처에 안내문이 부착될 예정이니, 인근 강의장 이용 예정이시라면 안내문도 한 번 확인 부탁 드립니다."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,2259 @@
+[
+    {
+        "user": "U05UN5DQ423",
+        "type": "message",
+        "ts": "1698045672.119199",
+        "client_msg_id": "6fcd11b2-2de2-4623-915e-87ea28277b83",
+        "text": "네 감사합니다 :)",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "602bc2a55d5c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5994828351843_602bc2a55d5c461d5b24_72.png",
+            "first_name": "박성우",
+            "real_name": "박성우",
+            "display_name": "박성우",
+            "team": "T05UGFFGL07",
+            "name": "tjddn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697796487.124049",
+        "parent_user_id": "U05UN5DQ423",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xbgUz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "네 감사합니다 :)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0600BP2J9H",
+        "type": "message",
+        "ts": "1698055173.274529",
+        "client_msg_id": "a3832536-1a7f-461e-863b-fde1249ffa0a",
+        "text": "아침에 깜빡 QR을 10:22에 찍어서 지각처리 되었는데, 스크린샷을 찍었거든요, 정정할 수 있을까요?",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "fcb358591e54",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-06\/6000539940914_fcb358591e54bc9cb951_72.png",
+            "first_name": "기원선",
+            "real_name": "기원선",
+            "display_name": "기원선",
+            "team": "T05UGFFGL07",
+            "name": "erondite",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698055173.274529",
+        "reply_count": 13,
+        "reply_users_count": 4,
+        "latest_reply": "1698298305.047849",
+        "reply_users": [
+            "U060LG0BT89",
+            "U05VAHXECP6",
+            "U05V81G5ZDY",
+            "U0600BP2J9H"
+        ],
+        "replies": [
+            {
+                "user": "U060LG0BT89",
+                "ts": "1698063930.432469"
+            },
+            {
+                "user": "U05VAHXECP6",
+                "ts": "1698107517.349229"
+            },
+            {
+                "user": "U05V81G5ZDY",
+                "ts": "1698109845.855069"
+            },
+            {
+                "user": "U060LG0BT89",
+                "ts": "1698117011.207619"
+            },
+            {
+                "user": "U05V81G5ZDY",
+                "ts": "1698120644.874199"
+            },
+            {
+                "user": "U05V81G5ZDY",
+                "ts": "1698120719.762589"
+            },
+            {
+                "user": "U060LG0BT89",
+                "ts": "1698123467.699109"
+            },
+            {
+                "user": "U05V81G5ZDY",
+                "ts": "1698123705.622049"
+            },
+            {
+                "user": "U05V81G5ZDY",
+                "ts": "1698123722.505089"
+            },
+            {
+                "user": "U0600BP2J9H",
+                "ts": "1698123830.546039"
+            },
+            {
+                "user": "U0600BP2J9H",
+                "ts": "1698124325.566269"
+            },
+            {
+                "user": "U060LG0BT89",
+                "ts": "1698296474.463009"
+            },
+            {
+                "user": "U05V81G5ZDY",
+                "ts": "1698298305.047849"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1698298305.047849",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nLBXL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "아침에 깜빡 QR을 10:22에 찍어서 지각처리 되었는데, 스크린샷을 찍었거든요, 정정할 수 있을까요?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U05VAHXECP6"
+                ],
+                "count": 1
+            },
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "U05V81G5ZDY"
+                ],
+                "count": 1
+            },
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U060LG0BT89"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05UT0JG4BZ",
+        "type": "message",
+        "ts": "1698056496.087309",
+        "client_msg_id": "2403e58c-0aa9-4202-8c26-c3b86641df7d",
+        "text": "<@U05V81G5ZDY>\n\n10월 23일 면접 공가로 구글 폼 제출하였습니다.\n\n확인 부탁 드리겠습니다. 감사합니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "g9153b403f05",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/9153b403f05c51f82cac8dec3d6d8e3a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "김다운",
+            "real_name": "김다운",
+            "display_name": "김다운",
+            "team": "T05UGFFGL07",
+            "name": "ekdns7500",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697717141.951849",
+        "parent_user_id": "U05UT0JG4BZ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AxGY8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05V81G5ZDY"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n10월 23일 면접 공가로 구글 폼 제출하였습니다.\n\n확인 부탁 드리겠습니다. 감사합니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "U05V81G5ZDY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U060LG0BT89",
+        "type": "message",
+        "ts": "1698063930.432469",
+        "client_msg_id": "0c63aa23-0218-407e-80b3-4c402fb68535",
+        "text": "저도 마찬가지고 전 11분 찍었습니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "g273c76b80b5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/273c76b80b5c013cab6c608d10041dd4.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "김준호",
+            "real_name": "김준호",
+            "display_name": "",
+            "team": "T05UGFFGL07",
+            "name": "demyank88",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698055173.274529",
+        "parent_user_id": "U0600BP2J9H",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3sGb7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "저도 마찬가지고 전 11분 찍었습니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U05V81G5ZDY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05UUUNAE5D",
+        "type": "message",
+        "ts": "1698107189.266179",
+        "client_msg_id": "b05c8ec7-d6a7-468e-91ef-b756f9733768",
+        "text": "어제 저녁에 비주얼스튜디오 설치 중 버그가 나서 그거 해결에 골몰하느라 퇴실 QR을 깜박했습니다. 출석 정정신청 가능할까요?",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "32899ebdb4c2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5995423014227_32899ebdb4c26d670b69_72.png",
+            "first_name": "감성필SungFeelCalm",
+            "real_name": "감성필SungFeelCalm",
+            "display_name": "감성필",
+            "team": "T05UGFFGL07",
+            "name": "betterthingsarecoming",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698107189.266179",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1698109950.179579",
+        "reply_users": [
+            "U05UUUNAE5D",
+            "U05V81G5ZDY"
+        ],
+        "replies": [
+            {
+                "user": "U05UUUNAE5D",
+                "ts": "1698109441.156499"
+            },
+            {
+                "user": "U05V81G5ZDY",
+                "ts": "1698109874.869909"
+            },
+            {
+                "user": "U05UUUNAE5D",
+                "ts": "1698109950.179579"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "J+uLd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "어제 저녁에 비주얼스튜디오 설치 중 버그가 나서 그거 해결에 골몰하느라 퇴실 QR을 깜박했습니다. 출석 정정신청 가능할까요?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "U05V81G5ZDY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05VAHXECP6",
+        "type": "message",
+        "ts": "1698107517.349229",
+        "client_msg_id": "dc602b96-e784-4d54-94c9-f70a271d45e0",
+        "text": "<@U05V81G5ZDY> 매니저님 이 부분 정정 가능한지 확인 부탁드립니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "50abee101814",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-11\/6044824153712_50abee1018149e21919b_72.jpg",
+            "first_name": "이상영",
+            "real_name": "이상영",
+            "display_name": "FC 이상영 매니저",
+            "team": "T05UGFFGL07",
+            "name": "sangyeong.lee",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698055173.274529",
+        "parent_user_id": "U0600BP2J9H",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "btUQL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05V81G5ZDY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 매니저님 이 부분 정정 가능한지 확인 부탁드립니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "안녕하세요 행정 매니저 입니다.\n\n출석대장 *⑫학습근로자 서명 부분*을 *타이핑이 아닌 자필서명*으로 부탁드립니다.\n펜툴 또는 모바일 캡쳐를 통해 진행할 수 있습니다.\n\n해당 사항 확인하여 출석대장 + 면접확인서 압축파일로 구글폼 설문 작성 다시 부탁드립니다.",
+        "files": [
+            {
+                "id": "F062FKLDDV1",
+                "created": 1698108396,
+                "timestamp": 1698108396,
+                "name": "출석대장 작성방법.png",
+                "title": "출석대장 작성방법.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U05V81G5ZDY",
+                "user_team": "T05UGFFGL07",
+                "editable": false,
+                "size": 85316,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F062FKLDDV1\/_________________________.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F062FKLDDV1\/download\/_________________________.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F062FKLDDV1-2bf11d48e3\/__________________________64.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F062FKLDDV1-2bf11d48e3\/__________________________80.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F062FKLDDV1-2bf11d48e3\/__________________________360.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_360_w": 360,
+                "thumb_360_h": 335,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F062FKLDDV1-2bf11d48e3\/__________________________480.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_480_w": 480,
+                "thumb_480_h": 447,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F062FKLDDV1-2bf11d48e3\/__________________________160.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "original_w": 480,
+                "original_h": 447,
+                "thumb_tiny": "AwAsADDQC5BJOeTScejflTgcL+Jpd3tQO40YzjDU7aP8mmktnggD6UAtnkjHpigLi7R7\/nSYHBGetOzSN0H1FAXEKkDg0nP979BUhpu0elAXEw3dv0pOeCGyD9KVzjA4waRU+VV7AY4pDELY6uB9cU4Anqaa9vHIcuCeMdaeFx0NMVxWOBmmeaMcint0qMZPc0AloHmISOcVIB3qLJB61IGOKQ2mOopM0DnNMR\/\/2Q==",
+                "permalink": "https:\/\/fcupstageai1.slack.com\/files\/U05V81G5ZDY\/F062FKLDDV1\/_________________________.png",
+                "permalink_public": "https:\/\/slack-files.com\/T05UGFFGL07-F062FKLDDV1-0cdd69cf67",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            },
+            {
+                "id": "F06293K6MK8",
+                "created": 1698108399,
+                "timestamp": 1698108399,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U05V81G5ZDY",
+                "user_team": "T05UGFFGL07",
+                "editable": false,
+                "size": 8670,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F06293K6MK8\/image.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F06293K6MK8\/download\/image.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06293K6MK8-0045a4b50d\/image_64.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06293K6MK8-0045a4b50d\/image_80.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06293K6MK8-0045a4b50d\/image_360.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_360_w": 194,
+                "thumb_360_h": 249,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06293K6MK8-0045a4b50d\/image_160.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "original_w": 194,
+                "original_h": 249,
+                "thumb_tiny": "AwAwACXQPmHOCB6UfPn8af2puAG37uKAEGRy59aPMX3p3BI7gik6MAF49aAHA5GRRRRQA1iAvzdKaWTaV5xTyPl6Zpm4lgCnB70APxggD0obdj5cUfxCkK\/OGz+FADqKKKAE4A5oyvr+tBUMuDSeWuaAA8c+gNN81cA4PNP7ilxxigBFOQD60tHTpRQB\/9k=",
+                "permalink": "https:\/\/fcupstageai1.slack.com\/files\/U05V81G5ZDY\/F06293K6MK8\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T05UGFFGL07-F06293K6MK8-2d736076a3",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U05V81G5ZDY",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OwdBD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "안녕하세요 행정 매니저 입니다.\n\n출석대장 "
+                            },
+                            {
+                                "type": "text",
+                                "text": "⑫학습근로자 서명 부분",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "을 "
+                            },
+                            {
+                                "type": "text",
+                                "text": "타이핑이 아닌 자필서명",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "으로 부탁드립니다.\n펜툴 또는 모바일 캡쳐를 통해 진행할 수 있습니다.\n\n해당 사항 확인하여 출석대장 + 면접확인서 압축파일로 구글폼 설문 작성 다시 부탁드립니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1698108489.946999",
+        "client_msg_id": "f11a5b01-5560-4a04-95e9-93749a008103",
+        "thread_ts": "1697717141.951849",
+        "parent_user_id": "U05UT0JG4BZ"
+    },
+    {
+        "user": "U05V81G5ZDY",
+        "type": "message",
+        "ts": "1698108715.319269",
+        "client_msg_id": "4f6b90dc-4491-40af-9506-94580121c04b",
+        "text": "<@U05UT0JG4BZ> 태깅 드립니다!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "db1aceeb0d90",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5994058472162_db1aceeb0d9030c57e69_72.jpg",
+            "first_name": "김현우",
+            "real_name": "김현우",
+            "display_name": "FC 김현우 매니저",
+            "team": "T05UGFFGL07",
+            "name": "hyunwoo.kim",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697717141.951849",
+        "parent_user_id": "U05UT0JG4BZ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8V2N+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05UT0JG4BZ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 태깅 드립니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05UT0JG4BZ",
+        "type": "message",
+        "ts": "1698108969.701269",
+        "client_msg_id": "1373d5c6-4ebf-4d5c-b95a-436439a32a8e",
+        "text": "<@U05V81G5ZDY>\n수정해서 구글폼 작성 다시 했습니다.\n\n확인 부탁 드리겠습니다",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "g9153b403f05",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/9153b403f05c51f82cac8dec3d6d8e3a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "김다운",
+            "real_name": "김다운",
+            "display_name": "김다운",
+            "team": "T05UGFFGL07",
+            "name": "ekdns7500",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697717141.951849",
+        "parent_user_id": "U05UT0JG4BZ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8Lcd2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05V81G5ZDY"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n수정해서 구글폼 작성 다시 했습니다.\n\n확인 부탁 드리겠습니다"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1::skin-tone-2",
+                "users": [
+                    "U05V81G5ZDY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05UVE9DFSB",
+        "type": "message",
+        "ts": "1698109258.398079",
+        "client_msg_id": "c1020e45-7ba8-4567-8eb3-e635153cada0",
+        "text": "어제 제 기억에 분명 퇴실QR을 찍었는데... 제대로 찍히지 않은 것 같습니다.. 스크린샷에는 참여했는데... 출석 정정이 가능할까요?",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "9c70723d095f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5981485524487_9c70723d095f99e86fcc_72.png",
+            "first_name": "김채원",
+            "real_name": "김채원",
+            "display_name": "김채원",
+            "team": "T05UGFFGL07",
+            "name": "kcw050608",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698109258.398079",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1698110960.073099",
+        "reply_users": [
+            "U05V81G5ZDY",
+            "U05UVE9DFSB"
+        ],
+        "replies": [
+            {
+                "user": "U05V81G5ZDY",
+                "ts": "1698109942.889159"
+            },
+            {
+                "user": "U05UVE9DFSB",
+                "ts": "1698110960.073099"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1eNlk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "어제 제 기억에 분명 퇴실QR을 찍었는데... 제대로 찍히지 않은 것 같습니다.. 스크린샷에는 참여했는데... 출석 정정이 가능할까요?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "U05V81G5ZDY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05UUUNAE5D",
+        "type": "message",
+        "ts": "1698109441.156499",
+        "client_msg_id": "13caf3a5-240a-4c1e-9441-69a4364d1229",
+        "text": "스크린 샷은 찍었습니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "32899ebdb4c2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5995423014227_32899ebdb4c26d670b69_72.png",
+            "first_name": "감성필SungFeelCalm",
+            "real_name": "감성필SungFeelCalm",
+            "display_name": "감성필",
+            "team": "T05UGFFGL07",
+            "name": "betterthingsarecoming",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698107189.266179",
+        "parent_user_id": "U05UUUNAE5D",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "s\/XPe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "스크린 샷은 찍었습니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05V81G5ZDY",
+        "type": "message",
+        "ts": "1698109570.590009",
+        "client_msg_id": "b3e39384-3ced-4710-a13e-9a8037cf5760",
+        "text": "<!channel> 단순 실수 또는 단순 지각으로 인한 출결 정정 관련 스레드",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "db1aceeb0d90",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5994058472162_db1aceeb0d9030c57e69_72.jpg",
+            "first_name": "김현우",
+            "real_name": "김현우",
+            "display_name": "FC 김현우 매니저",
+            "team": "T05UGFFGL07",
+            "name": "hyunwoo.kim",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698109570.590009",
+        "reply_count": 3,
+        "reply_users_count": 1,
+        "latest_reply": "1698112261.660759",
+        "reply_users": [
+            "U05V81G5ZDY"
+        ],
+        "replies": [
+            {
+                "user": "U05V81G5ZDY",
+                "ts": "1698109769.460509"
+            },
+            {
+                "user": "U05V81G5ZDY",
+                "ts": "1698109930.637559"
+            },
+            {
+                "user": "U05V81G5ZDY",
+                "ts": "1698112261.660759"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AALkR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 단순 실수 또는 단순 지각으로 인한 출결 정정 관련 스레드"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05V81G5ZDY",
+        "type": "message",
+        "ts": "1698109769.460509",
+        "client_msg_id": "7cf76f14-422a-4a53-8e55-be3b42ef3ce6",
+        "text": "안녕하세요 행정 매니저 입니다.\n\n금일 출결 QR 신청이 많아 전달 드립니다.:loudspeaker:\n\n&gt; *앞으로 단순 지각 또는 단순 실수로 인한 QR 정정 신청은 받지 않겠습니다.*\n해당 과정이 인원이 많아 매니저님들이 많은 노력 하고 있습니다. 수강생 분들도 그런 노력에 힘입어 많은 도움 부탁드립니다.\n그런 의미에서 수강생분들도 *출결 체크를 꼭 한번 더 확인* 부탁드립니다.\n\n`금일 QR 정정 신청 건 까지만 받는 것`으로 하고 익일 부터는 본인의 책임감 있는 모습으로 찾아뵙겠습니다.\n혹여나 정당한 QR 정정 사유가 있으시면 편하게 말씀 해주셔서 정정 절차를 받으시면 됩니다.\n\n&gt; 다만, \n&gt; 1. 입.퇴실 스샷에 본인 이목구비가 잘린 스샷\n&gt; 2. 모바일 스샷으로 이동중임을 의심할 수 있는 스샷\n&gt; 정정 불가하다는 점 인지해주세요\n그리고 *입.퇴실 스샷 없이 QR 체크만 하시는 분들도 결석 처리로 진행*되니 QR만 체크하기 보다 스샷에도 참여하여 열심히 과정에 임하는 모습으로 좋은 결과 얻어 가셨으면 좋겠습니다!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "db1aceeb0d90",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5994058472162_db1aceeb0d9030c57e69_72.jpg",
+            "first_name": "김현우",
+            "real_name": "김현우",
+            "display_name": "FC 김현우 매니저",
+            "team": "T05UGFFGL07",
+            "name": "hyunwoo.kim",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698109570.590009",
+        "parent_user_id": "U05V81G5ZDY",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5RyDu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "안녕하세요 행정 매니저 입니다.\n\n금일 출결 QR 신청이 많아 전달 드립니다."
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "loudspeaker",
+                                "unicode": "1f4e2"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "앞으로 단순 지각 또는 단순 실수로 인한 QR 정정 신청은 받지 않겠습니다.",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "해당 과정이 인원이 많아 매니저님들이 많은 노력 하고 있습니다. 수강생 분들도 그런 노력에 힘입어 많은 도움 부탁드립니다.\n그런 의미에서 수강생분들도 "
+                            },
+                            {
+                                "type": "text",
+                                "text": "출결 체크를 꼭 한번 더 확인",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " 부탁드립니다.\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "금일 QR 정정 신청 건 까지만 받는 것",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "으로 하고 익일 부터는 본인의 책임감 있는 모습으로 찾아뵙겠습니다.\n혹여나 정당한 QR 정정 사유가 있으시면 편하게 말씀 해주셔서 정정 절차를 받으시면 됩니다.\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "다만, "
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "입.퇴실 스샷에 본인 이목구비가 잘린 스샷"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "모바일 스샷으로 이동중임을 의심할 수 있는 스샷"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 1
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "정정 불가하다는 점 인지해주세요"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n그리고 "
+                            },
+                            {
+                                "type": "text",
+                                "text": "입.퇴실 스샷 없이 QR 체크만 하시는 분들도 결석 처리로 진행",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "되니 QR만 체크하기 보다 스샷에도 참여하여 열심히 과정에 임하는 모습으로 좋은 결과 얻어 가셨으면 좋겠습니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05V81G5ZDY",
+        "type": "message",
+        "ts": "1698109845.855069",
+        "client_msg_id": "1c624d4b-3a2d-4e9e-a8a8-48f05cdcbad4",
+        "text": "<@U0600BP2J9H> <@U060LG0BT89> 매니저 님께 스샷 전달 받아 구글폼 설문 작성해주세요\n\n&gt; *<https:\/\/fcupstageai1.slack.com\/archives\/C05V0H8H3GC\/p1698109570590009|[단순 실수 또는 단순 지각으로 인한 출결 정정 관련 스레드]>*\n&gt; 내용도 확인 해주세요",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "db1aceeb0d90",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5994058472162_db1aceeb0d9030c57e69_72.jpg",
+            "first_name": "김현우",
+            "real_name": "김현우",
+            "display_name": "FC 김현우 매니저",
+            "team": "T05UGFFGL07",
+            "name": "hyunwoo.kim",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698055173.274529",
+        "parent_user_id": "U0600BP2J9H",
+        "attachments": [
+            {
+                "from_url": "https:\/\/fcupstageai1.slack.com\/archives\/C05V0H8H3GC\/p1698109570590009",
+                "ts": "1698109570.590009",
+                "author_id": "U05V81G5ZDY",
+                "channel_id": "C05V0H8H3GC",
+                "channel_team": "T05UGFFGL07",
+                "is_msg_unfurl": true,
+                "is_thread_root_unfurl": true,
+                "message_blocks": [
+                    {
+                        "team": "T05UGFFGL07",
+                        "channel": "C05V0H8H3GC",
+                        "ts": "1698109570.590009",
+                        "message": {
+                            "blocks": [
+                                {
+                                    "type": "rich_text",
+                                    "block_id": "AALkR",
+                                    "elements": [
+                                        {
+                                            "type": "rich_text_section",
+                                            "elements": [
+                                                {
+                                                    "type": "broadcast",
+                                                    "range": "channel"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": " 단순 실수 또는 단순 지각으로 인한 출결 정정 관련 스레드"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "id": 1,
+                "original_url": "https:\/\/fcupstageai1.slack.com\/archives\/C05V0H8H3GC\/p1698109570590009",
+                "fallback": "[October 23rd, 2023 6:06 PM] hyunwoo.kim: <!channel> 단순 실수 또는 단순 지각으로 인한 출결 정정 관련 스레드",
+                "text": "<!channel> 단순 실수 또는 단순 지각으로 인한 출결 정정 관련 스레드",
+                "author_name": "김현우",
+                "author_link": "https:\/\/fcupstageai1.slack.com\/team\/U05V81G5ZDY",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5994058472162_db1aceeb0d9030c57e69_48.jpg",
+                "author_subname": "김현우",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "footer": "Slack 대화의 스레드"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GGOQf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0600BP2J9H"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U060LG0BT89"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 매니저 님께 스샷 전달 받아 구글폼 설문 작성해주세요\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/fcupstageai1.slack.com\/archives\/C05V0H8H3GC\/p1698109570590009",
+                                "text": "[단순 실수 또는 단순 지각으로 인한 출결 정정 관련 스레드]",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n내용도 확인 해주세요"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U060LG0BT89"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05V81G5ZDY",
+        "type": "message",
+        "ts": "1698109874.869909",
+        "client_msg_id": "ec3721f9-35c6-4b43-872f-6fed197a5da6",
+        "text": "<@U05UUUNAE5D> 매니저 님께 스샷 전달 받아 구글폼 설문 작성해주세요\n\n&gt; *<https:\/\/fcupstageai1.slack.com\/archives\/C05V0H8H3GC\/p1698109570590009|[단순 실수 또는 단순 지각으로 인한 출결 정정 관련 스레드]>*\n&gt; 내용도 확인 해주세요\n",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "db1aceeb0d90",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5994058472162_db1aceeb0d9030c57e69_72.jpg",
+            "first_name": "김현우",
+            "real_name": "김현우",
+            "display_name": "FC 김현우 매니저",
+            "team": "T05UGFFGL07",
+            "name": "hyunwoo.kim",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698107189.266179",
+        "parent_user_id": "U05UUUNAE5D",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0Xo2j",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05UUUNAE5D"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 매니저 님께 스샷 전달 받아 구글폼 설문 작성해주세요\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/fcupstageai1.slack.com\/archives\/C05V0H8H3GC\/p1698109570590009",
+                                "text": "[단순 실수 또는 단순 지각으로 인한 출결 정정 관련 스레드]",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n내용도 확인 해주세요"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05V81G5ZDY",
+        "type": "message",
+        "ts": "1698109930.637559",
+        "client_msg_id": "01ef629c-76da-40b5-9162-53632076b737",
+        "text": "요청 혹은 질문 주실때 *매니저 태깅!! 꼭 부탁드립니다.*\n태깅하여 전달 주실 경우 확인이 용이합니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "db1aceeb0d90",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5994058472162_db1aceeb0d9030c57e69_72.jpg",
+            "first_name": "김현우",
+            "real_name": "김현우",
+            "display_name": "FC 김현우 매니저",
+            "team": "T05UGFFGL07",
+            "name": "hyunwoo.kim",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698109570.590009",
+        "parent_user_id": "U05V81G5ZDY",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HdzZI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "요청 혹은 질문 주실때 "
+                            },
+                            {
+                                "type": "text",
+                                "text": "매니저 태깅!! 꼭 부탁드립니다.",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n태깅하여 전달 주실 경우 확인이 용이합니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05V81G5ZDY",
+        "type": "message",
+        "ts": "1698109942.889159",
+        "client_msg_id": "db76be7c-0e65-4ef1-8b00-1f9e44bc8d51",
+        "text": "<@U05UVE9DFSB> 매니저 님께 스샷 전달 받아 구글폼 설문 작성해주세요\n\n&gt; *<https:\/\/fcupstageai1.slack.com\/archives\/C05V0H8H3GC\/p1698109570590009|[단순 실수 또는 단순 지각으로 인한 출결 정정 관련 스레드]>*\n&gt; 내용도 확인 해주세요\n",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "db1aceeb0d90",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5994058472162_db1aceeb0d9030c57e69_72.jpg",
+            "first_name": "김현우",
+            "real_name": "김현우",
+            "display_name": "FC 김현우 매니저",
+            "team": "T05UGFFGL07",
+            "name": "hyunwoo.kim",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698109258.398079",
+        "parent_user_id": "U05UVE9DFSB",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "38cv4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05UVE9DFSB"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 매니저 님께 스샷 전달 받아 구글폼 설문 작성해주세요\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/fcupstageai1.slack.com\/archives\/C05V0H8H3GC\/p1698109570590009",
+                                "text": "[단순 실수 또는 단순 지각으로 인한 출결 정정 관련 스레드]",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n내용도 확인 해주세요"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05UUUNAE5D",
+        "type": "message",
+        "ts": "1698109950.179579",
+        "client_msg_id": "d346beeb-0fcc-43b4-b1f2-94eb1f9fa37c",
+        "text": "네 잘 확인했고 감사합니다! 큐알과 스크린샷 출결에 정신 바짝 차리겠습니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "32899ebdb4c2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5995423014227_32899ebdb4c26d670b69_72.png",
+            "first_name": "감성필SungFeelCalm",
+            "real_name": "감성필SungFeelCalm",
+            "display_name": "감성필",
+            "team": "T05UGFFGL07",
+            "name": "betterthingsarecoming",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698107189.266179",
+        "parent_user_id": "U05UUUNAE5D",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dOKBQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "네 잘 확인했고 감사합니다! 큐알과 스크린샷 출결에 정신 바짝 차리겠습니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1::skin-tone-2",
+                "users": [
+                    "U05V81G5ZDY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05UVE9DFSB",
+        "type": "message",
+        "ts": "1698110960.073099",
+        "client_msg_id": "27ffcd2d-1dfd-416f-aba6-02da92140f15",
+        "text": "<@U05V81G5ZDY> 넵 앞으로 출결관리에 더욱 신경쓰겠습니다!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "9c70723d095f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5981485524487_9c70723d095f99e86fcc_72.png",
+            "first_name": "김채원",
+            "real_name": "김채원",
+            "display_name": "김채원",
+            "team": "T05UGFFGL07",
+            "name": "kcw050608",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698109258.398079",
+        "parent_user_id": "U05UVE9DFSB",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "W8EE4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05V81G5ZDY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 넵 앞으로 출결관리에 더욱 신경쓰겠습니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1::skin-tone-2",
+                "users": [
+                    "U05V81G5ZDY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "text": "",
+        "files": [
+            {
+                "id": "F062UH30QQZ",
+                "created": 1698112245,
+                "timestamp": 1698112245,
+                "name": "정정 요청 예시.png",
+                "title": "정정 요청 예시.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U05V81G5ZDY",
+                "user_team": "T05UGFFGL07",
+                "editable": false,
+                "size": 24812,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F062UH30QQZ\/____________________.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F062UH30QQZ\/download\/____________________.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F062UH30QQZ-6178a387f3\/_____________________64.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F062UH30QQZ-6178a387f3\/_____________________80.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F062UH30QQZ-6178a387f3\/_____________________360.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_360_w": 360,
+                "thumb_360_h": 51,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F062UH30QQZ-6178a387f3\/_____________________480.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_480_w": 480,
+                "thumb_480_h": 68,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F062UH30QQZ-6178a387f3\/_____________________160.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F062UH30QQZ-6178a387f3\/_____________________720.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_720_w": 720,
+                "thumb_720_h": 101,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F062UH30QQZ-6178a387f3\/_____________________800.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_800_w": 800,
+                "thumb_800_h": 113,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F062UH30QQZ-6178a387f3\/_____________________960.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_960_w": 960,
+                "thumb_960_h": 135,
+                "original_w": 966,
+                "original_h": 136,
+                "thumb_tiny": "AwAGADC+FwcDp9adg\/5NL3ooAMe5ox7mlooATHuaMe5paKAP\/9k=",
+                "permalink": "https:\/\/fcupstageai1.slack.com\/files\/U05V81G5ZDY\/F062UH30QQZ\/____________________.png",
+                "permalink_public": "https:\/\/slack-files.com\/T05UGFFGL07-F062UH30QQZ-7d2acf5c76",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            },
+            {
+                "id": "F0634TGN8E4",
+                "created": 1698112250,
+                "timestamp": 1698112250,
+                "name": "공가 휴가 예시.png",
+                "title": "공가 휴가 예시.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U05V81G5ZDY",
+                "user_team": "T05UGFFGL07",
+                "editable": false,
+                "size": 22628,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F0634TGN8E4\/____________________.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F0634TGN8E4\/download\/____________________.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F0634TGN8E4-8908f17e0b\/_____________________64.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F0634TGN8E4-8908f17e0b\/_____________________80.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F0634TGN8E4-8908f17e0b\/_____________________360.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_360_w": 360,
+                "thumb_360_h": 81,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F0634TGN8E4-8908f17e0b\/_____________________480.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_480_w": 480,
+                "thumb_480_h": 108,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F0634TGN8E4-8908f17e0b\/_____________________160.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "original_w": 594,
+                "original_h": 134,
+                "thumb_tiny": "AwAKADC+6+hPJz1pBu9T+VSGigBg3nv+lLh\/WnUUANw\/rSjd3xS0UAf\/2Q==",
+                "permalink": "https:\/\/fcupstageai1.slack.com\/files\/U05V81G5ZDY\/F0634TGN8E4\/____________________.png",
+                "permalink_public": "https:\/\/slack-files.com\/T05UGFFGL07-F0634TGN8E4-d815d56c9f",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            },
+            {
+                "id": "F0621BZ2VFZ",
+                "created": 1698112259,
+                "timestamp": 1698112259,
+                "name": "공가 신청 태깅 예시2.png",
+                "title": "공가 신청 태깅 예시2.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U05V81G5ZDY",
+                "user_team": "T05UGFFGL07",
+                "editable": false,
+                "size": 20806,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F0621BZ2VFZ\/___________________________2.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F0621BZ2VFZ\/download\/___________________________2.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F0621BZ2VFZ-ba2137b586\/___________________________2_64.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F0621BZ2VFZ-ba2137b586\/___________________________2_80.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F0621BZ2VFZ-ba2137b586\/___________________________2_360.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_360_w": 360,
+                "thumb_360_h": 47,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F0621BZ2VFZ-ba2137b586\/___________________________2_480.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_480_w": 480,
+                "thumb_480_h": 63,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F0621BZ2VFZ-ba2137b586\/___________________________2_160.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F0621BZ2VFZ-ba2137b586\/___________________________2_720.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_720_w": 720,
+                "thumb_720_h": 94,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F0621BZ2VFZ-ba2137b586\/___________________________2_800.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_800_w": 800,
+                "thumb_800_h": 105,
+                "original_w": 878,
+                "original_h": 115,
+                "thumb_tiny": "AwAGADC\/gKcCngZ7mmt96nLQAY9zRj3NLRQAmPc0uPc0UUAf\/9k=",
+                "permalink": "https:\/\/fcupstageai1.slack.com\/files\/U05V81G5ZDY\/F0621BZ2VFZ\/___________________________2.png",
+                "permalink_public": "https:\/\/slack-files.com\/T05UGFFGL07-F0621BZ2VFZ-8b0c28e9bb",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U05V81G5ZDY",
+        "type": "message",
+        "ts": "1698112261.660759",
+        "client_msg_id": "6e6d3ab6-3e1a-4132-9cea-367fcb2de2b3",
+        "thread_ts": "1698109570.590009",
+        "parent_user_id": "U05V81G5ZDY"
+    },
+    {
+        "user": "U060LG0BT89",
+        "type": "message",
+        "ts": "1698117011.207619",
+        "client_msg_id": "9d5b550c-960c-4f35-8e83-8dd0e9b28d25",
+        "text": "<@U05V81G5ZDY> <@U05UNC6FNK1> 스샷과 구글폼 링크 DM으로 전달 받는다는 건가요? 아직 아무런 소식이 없어서 문의드립니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "g273c76b80b5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/273c76b80b5c013cab6c608d10041dd4.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "김준호",
+            "real_name": "김준호",
+            "display_name": "",
+            "team": "T05UGFFGL07",
+            "name": "demyank88",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698055173.274529",
+        "parent_user_id": "U0600BP2J9H",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "B1MTM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05V81G5ZDY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05UNC6FNK1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 스샷과 구글폼 링크 DM으로 전달 받는다는 건가요? 아직 아무런 소식이 없어서 문의드립니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05UUUNAE5D",
+        "type": "message",
+        "ts": "1698117732.286809",
+        "client_msg_id": "68c4976d-154d-4c66-b828-c1bb5e95ae84",
+        "text": "<@U05UNC6FNK1>, <@U05V81G5ZDY> 어제 퇴실 QR 미체크로 인한 출석정정 서류 구글폼으로 제출했습니다. 확인부탁드립니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "32899ebdb4c2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5995423014227_32899ebdb4c26d670b69_72.png",
+            "first_name": "감성필SungFeelCalm",
+            "real_name": "감성필SungFeelCalm",
+            "display_name": "감성필",
+            "team": "T05UGFFGL07",
+            "name": "betterthingsarecoming",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698117732.286809",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1698201344.764149",
+        "reply_users": [
+            "U05UUUNAE5D",
+            "U05V81G5ZDY"
+        ],
+        "replies": [
+            {
+                "user": "U05UUUNAE5D",
+                "ts": "1698143852.470229"
+            },
+            {
+                "user": "U05V81G5ZDY",
+                "ts": "1698190788.208469"
+            },
+            {
+                "user": "U05UUUNAE5D",
+                "ts": "1698201344.764149"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xH7py",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05UNC6FNK1"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05V81G5ZDY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 어제 퇴실 QR 미체크로 인한 출석정정 서류 구글폼으로 제출했습니다. 확인부탁드립니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "U05V81G5ZDY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05V81G5ZDY",
+        "type": "message",
+        "ts": "1698120644.874199",
+        "client_msg_id": "db23a53e-2710-4953-b937-805fbd232712",
+        "text": "<@U06061L4S64> 매니저님 확인 부탁드립니다!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "db1aceeb0d90",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5994058472162_db1aceeb0d9030c57e69_72.jpg",
+            "first_name": "김현우",
+            "real_name": "김현우",
+            "display_name": "FC 김현우 매니저",
+            "team": "T05UGFFGL07",
+            "name": "hyunwoo.kim",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698055173.274529",
+        "parent_user_id": "U0600BP2J9H",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ttUSB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06061L4S64"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 매니저님 확인 부탁드립니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05V81G5ZDY",
+        "type": "message",
+        "ts": "1698120719.762589",
+        "client_msg_id": "b6c2368b-a63f-42b1-b5d6-baac7066f845",
+        "text": "*<https:\/\/fcupstageai1.slack.com\/archives\/C05V0H8H3GC\/p1696994982594879|[QR 정정 절차]>* 소식을 전달 주기 보다는 본인이 신청하는 방법입니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "db1aceeb0d90",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5994058472162_db1aceeb0d9030c57e69_72.jpg",
+            "first_name": "김현우",
+            "real_name": "김현우",
+            "display_name": "FC 김현우 매니저",
+            "team": "T05UGFFGL07",
+            "name": "hyunwoo.kim",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698055173.274529",
+        "parent_user_id": "U0600BP2J9H",
+        "attachments": [
+            {
+                "from_url": "https:\/\/fcupstageai1.slack.com\/archives\/C05V0H8H3GC\/p1696994982594879",
+                "ts": "1696994982.594879",
+                "author_id": "U05V81G5ZDY",
+                "channel_id": "C05V0H8H3GC",
+                "channel_team": "T05UGFFGL07",
+                "is_msg_unfurl": true,
+                "is_thread_root_unfurl": true,
+                "message_blocks": [
+                    {
+                        "team": "T05UGFFGL07",
+                        "channel": "C05V0H8H3GC",
+                        "ts": "1696994982.594879",
+                        "message": {
+                            "blocks": [
+                                {
+                                    "type": "rich_text",
+                                    "block_id": "4R1Ik",
+                                    "elements": [
+                                        {
+                                            "type": "rich_text_section",
+                                            "elements": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "QR 정정 요청 안내 스레드"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "id": 1,
+                "original_url": "https:\/\/fcupstageai1.slack.com\/archives\/C05V0H8H3GC\/p1696994982594879",
+                "fallback": "[October 10th, 2023 8:29 PM] hyunwoo.kim: QR 정정 요청 안내 스레드",
+                "text": "QR 정정 요청 안내 스레드",
+                "author_name": "김현우",
+                "author_link": "https:\/\/fcupstageai1.slack.com\/team\/U05V81G5ZDY",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5994058472162_db1aceeb0d9030c57e69_48.jpg",
+                "author_subname": "김현우",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "footer": "Slack 대화의 스레드"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/Mq21",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/fcupstageai1.slack.com\/archives\/C05V0H8H3GC\/p1696994982594879",
+                                "text": "[QR 정정 절차]",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "소식을 전달 주기 보다는 본인이 신청하는 방법입니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "ne",
+                "users": [
+                    "U060LG0BT89"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "subtype": "thread_broadcast",
+        "user": "U060LG0BT89",
+        "thread_ts": "1698055173.274529",
+        "root": {
+            "user": "U0600BP2J9H",
+            "type": "message",
+            "ts": "1698055173.274529",
+            "client_msg_id": "a3832536-1a7f-461e-863b-fde1249ffa0a",
+            "text": "아침에 깜빡 QR을 10:22에 찍어서 지각처리 되었는데, 스크린샷을 찍었거든요, 정정할 수 있을까요?",
+            "team": "T05UGFFGL07",
+            "thread_ts": "1698055173.274529",
+            "reply_count": 13,
+            "reply_users_count": 4,
+            "latest_reply": "1698298305.047849",
+            "reply_users": [
+                "U060LG0BT89",
+                "U05VAHXECP6",
+                "U05V81G5ZDY",
+                "U0600BP2J9H"
+            ],
+            "replies": [
+                {
+                    "user": "U060LG0BT89",
+                    "ts": "1698063930.432469"
+                },
+                {
+                    "user": "U05VAHXECP6",
+                    "ts": "1698107517.349229"
+                },
+                {
+                    "user": "U05V81G5ZDY",
+                    "ts": "1698109845.855069"
+                },
+                {
+                    "user": "U060LG0BT89",
+                    "ts": "1698117011.207619"
+                },
+                {
+                    "user": "U05V81G5ZDY",
+                    "ts": "1698120644.874199"
+                },
+                {
+                    "user": "U05V81G5ZDY",
+                    "ts": "1698120719.762589"
+                },
+                {
+                    "user": "U060LG0BT89",
+                    "ts": "1698123467.699109"
+                },
+                {
+                    "user": "U05V81G5ZDY",
+                    "ts": "1698123705.622049"
+                },
+                {
+                    "user": "U05V81G5ZDY",
+                    "ts": "1698123722.505089"
+                },
+                {
+                    "user": "U0600BP2J9H",
+                    "ts": "1698123830.546039"
+                },
+                {
+                    "user": "U0600BP2J9H",
+                    "ts": "1698124325.566269"
+                },
+                {
+                    "user": "U060LG0BT89",
+                    "ts": "1698296474.463009"
+                },
+                {
+                    "user": "U05V81G5ZDY",
+                    "ts": "1698298305.047849"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": true,
+            "last_read": "1698298305.047849",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "nLBXL",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "아침에 깜빡 QR을 10:22에 찍어서 지각처리 되었는데, 스크린샷을 찍었거든요, 정정할 수 있을까요?"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "type": "message",
+        "ts": "1698123467.699109",
+        "client_msg_id": "3ef316a3-1f85-49fb-89cd-9d026602cff3",
+        "text": "<@U05V81G5ZDY> <@U05UNC6FNK1> 20231024 입실 QR 깜빡하고 지연한 건에 대한 출석정정 서류 구글폼으로 제출했습니다. 확인 부탁드립니다.",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "c+xFp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05V81G5ZDY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05UNC6FNK1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 20231024 입실 QR 깜빡하고 지연한 건에 대한 출석정정 서류 구글폼으로 제출했습니다. 확인 부탁드립니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "U05V81G5ZDY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05V81G5ZDY",
+        "type": "message",
+        "ts": "1698123705.622049",
+        "client_msg_id": "eb2e0471-4d04-4f7e-b956-fbfd0c5b91f1",
+        "text": "<@U060LG0BT89> 확인했습니다!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "db1aceeb0d90",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5994058472162_db1aceeb0d9030c57e69_72.jpg",
+            "first_name": "김현우",
+            "real_name": "김현우",
+            "display_name": "FC 김현우 매니저",
+            "team": "T05UGFFGL07",
+            "name": "hyunwoo.kim",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698055173.274529",
+        "parent_user_id": "U0600BP2J9H",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GpqFd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U060LG0BT89"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 확인했습니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "bow",
+                "users": [
+                    "U060LG0BT89"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05V81G5ZDY",
+        "type": "message",
+        "ts": "1698123722.505089",
+        "edited": {
+            "user": "U05V81G5ZDY",
+            "ts": "1698123767.000000"
+        },
+        "client_msg_id": "03ae0b81-e4c0-4e0c-b236-cc8b2f4eb1b5",
+        "text": "<@U0600BP2J9H> 매니저님께 스샷 전달 받아서 같이 압축파일로 구글폼 설문 작성 전달주세요!\n16시 이전 정정 요청만 승인됩니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "db1aceeb0d90",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5994058472162_db1aceeb0d9030c57e69_72.jpg",
+            "first_name": "김현우",
+            "real_name": "김현우",
+            "display_name": "FC 김현우 매니저",
+            "team": "T05UGFFGL07",
+            "name": "hyunwoo.kim",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698055173.274529",
+        "parent_user_id": "U0600BP2J9H",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8nH7y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0600BP2J9H"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 매니저님께 스샷 전달 받아서 같이 압축파일로 구글폼 설문 작성 전달주세요!\n16시 이전 정정 요청만 승인됩니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0600BP2J9H",
+        "type": "message",
+        "ts": "1698123830.546039",
+        "edited": {
+            "user": "U0600BP2J9H",
+            "ts": "1698123941.000000"
+        },
+        "client_msg_id": "28091aeb-02ba-4243-b29c-34e20af21568",
+        "text": "<@U05V81G5ZDY> 스샷 요청은 <@U06061L4S64> 매니저님에게 하는 것이 맞죠? 매니저님들에게 DM으로 뭐 보내지 말라 했던 것 같은데 스샷 보내달라는 쓰레드는 없어서 고민하고 있었어요 ^^",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "fcb358591e54",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-06\/6000539940914_fcb358591e54bc9cb951_72.png",
+            "first_name": "기원선",
+            "real_name": "기원선",
+            "display_name": "기원선",
+            "team": "T05UGFFGL07",
+            "name": "erondite",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698055173.274529",
+        "parent_user_id": "U0600BP2J9H",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "F1gZX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05V81G5ZDY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 스샷 요청은 "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06061L4S64"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 매니저님에게 하는 것이 맞죠? 매니저님들에게 DM으로 뭐 보내지 말라 했던 것 같은데 스샷 보내달라는 쓰레드는 없어서 고민하고 있었어요 ^^"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "U05V81G5ZDY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U0600BP2J9H",
+        "type": "message",
+        "ts": "1698124325.566269",
+        "client_msg_id": "08edc844-cd00-4f6f-a402-43b01ab4cbcb",
+        "text": "<@U05V81G5ZDY> <@U05UNC6FNK1> 23.10.23 입실 QR 체크오류로 인한 출석정정 요청 구글폼 업로드 하였습니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "fcb358591e54",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-06\/6000539940914_fcb358591e54bc9cb951_72.png",
+            "first_name": "기원선",
+            "real_name": "기원선",
+            "display_name": "기원선",
+            "team": "T05UGFFGL07",
+            "name": "erondite",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698055173.274529",
+        "parent_user_id": "U0600BP2J9H",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Cl\/w0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05V81G5ZDY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05UNC6FNK1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 23.10.23 입실 QR 체크오류로 인한 출석정정 요청 구글폼 업로드 하였습니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1::skin-tone-2",
+                "users": [
+                    "U05V81G5ZDY"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U0600PYS0G3"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "subtype": "tombstone",
+        "text": "This message was deleted.",
+        "user": "USLACKBOT",
+        "hidden": true,
+        "type": "message",
+        "ts": "1698124953.978979",
+        "thread_ts": "1698124953.978979",
+        "parent_user_id": "USLACKBOT",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1698142459.051249",
+        "reply_users": [
+            "U05V4KZR3NW",
+            "U06061L4S64"
+        ],
+        "replies": [
+            {
+                "user": "U05V4KZR3NW",
+                "ts": "1698141873.340899"
+            },
+            {
+                "user": "U06061L4S64",
+                "ts": "1698142459.051249"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "user": "U0600BP2J9H",
+        "type": "message",
+        "ts": "1698125038.593429",
+        "client_msg_id": "04526456-4a53-437f-b977-6c2549666851",
+        "text": "<@U05V81G5ZDY> <@U05UNC6FNK1> 23.10.23 입실 QR 체크오류로 인한 출석정정 요청 구글폼 업로드 하였습니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "fcb358591e54",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-06\/6000539940914_fcb358591e54bc9cb951_72.png",
+            "first_name": "기원선",
+            "real_name": "기원선",
+            "display_name": "기원선",
+            "team": "T05UGFFGL07",
+            "name": "erondite",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Cl\/w0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05V81G5ZDY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05UNC6FNK1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 23.10.23 입실 QR 체크오류로 인한 출석정정 요청 구글폼 업로드 하였습니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "U05V81G5ZDY"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

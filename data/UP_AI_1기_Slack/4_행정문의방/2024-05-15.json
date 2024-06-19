@@ -1,0 +1,221 @@
+[
+    {
+        "user": "U05VC7EEY5Q",
+        "type": "message",
+        "ts": "1715820607.859379",
+        "client_msg_id": "4f85f533-4d21-4264-a21f-5d79a7bcd78a",
+        "text": "<@U05UNC6FNK1> <@U05V81G5ZDY>\n대상 : 국민취업지원 서류\n필요한 기간 : 4월 23일 ~ 5월 10일\n필요 서류 : 출석부\n이메일 : <mailto:kangs7777@naver.com|kangs7777@naver.com>\n연락처 : 01053546438\n\n안녕하세요 출석부 요청드립니다. 감사합니다!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "41b3eab94662",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-06\/6000541892291_41b3eab946625ecd1c69_72.jpg",
+            "first_name": "강승현",
+            "real_name": "강승현",
+            "display_name": "강승현",
+            "team": "T05UGFFGL07",
+            "name": "kangs7777",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1715820607.859379",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1715824625.644509",
+        "reply_users": [
+            "U05UNC6FNK1"
+        ],
+        "replies": [
+            {
+                "user": "U05UNC6FNK1",
+                "ts": "1715824625.644509"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gJv\/6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05UNC6FNK1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05V81G5ZDY"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n대상 : 국민취업지원 서류\n필요한 기간 : 4월 23일 ~ 5월 10일\n필요 서류 : 출석부\n이메일 : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:kangs7777@naver.com",
+                                "text": "kangs7777@naver.com"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n연락처 : 01053546438\n\n안녕하세요 출석부 요청드립니다. 감사합니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "U05UNC6FNK1",
+                    "U05VC7EEY5Q"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "text": "",
+        "files": [
+            {
+                "id": "F0741N5ARJ5",
+                "created": 1715824561,
+                "timestamp": 1715824561,
+                "name": "20240516105552203.pdf",
+                "title": "20240516105552203.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U05UNC6FNK1",
+                "user_team": "T05UGFFGL07",
+                "editable": false,
+                "size": 78101,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F0741N5ARJ5\/20240516105552203.pdf?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F0741N5ARJ5\/download\/20240516105552203.pdf?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "media_display_type": "unknown",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F0741N5ARJ5-0d098d7d42\/20240516105552203_thumb_pdf.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_pdf_w": 1286,
+                "thumb_pdf_h": 909,
+                "permalink": "https:\/\/fcupstageai1.slack.com\/files\/U05UNC6FNK1\/F0741N5ARJ5\/20240516105552203.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/T05UGFFGL07-F0741N5ARJ5-dfdcd8739e",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U05UNC6FNK1",
+        "display_as_bot": false,
+        "type": "message",
+        "ts": "1715824566.086139",
+        "client_msg_id": "621aeef0-0297-415a-b1d8-c9c36c349ff8",
+        "thread_ts": "1715667623.151519",
+        "parent_user_id": "U05V2GDNNLT"
+    },
+    {
+        "text": "",
+        "files": [
+            {
+                "id": "F073GDF608N",
+                "created": 1715824590,
+                "timestamp": 1715824590,
+                "name": "20240516105622274.pdf",
+                "title": "20240516105622274.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U05UNC6FNK1",
+                "user_team": "T05UGFFGL07",
+                "editable": false,
+                "size": 78137,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F073GDF608N\/20240516105622274.pdf?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F073GDF608N\/download\/20240516105622274.pdf?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "media_display_type": "unknown",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F073GDF608N-d7573fc2b0\/20240516105622274_thumb_pdf.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_pdf_w": 1286,
+                "thumb_pdf_h": 909,
+                "permalink": "https:\/\/fcupstageai1.slack.com\/files\/U05UNC6FNK1\/F073GDF608N\/20240516105622274.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/T05UGFFGL07-F073GDF608N-f78e3f7a41",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U05UNC6FNK1",
+        "display_as_bot": false,
+        "type": "message",
+        "ts": "1715824594.740269",
+        "client_msg_id": "a80d28d0-ce42-4cbc-905d-a899e48657aa",
+        "thread_ts": "1715669474.083489",
+        "parent_user_id": "U05V4KZR3NW"
+    },
+    {
+        "text": "",
+        "files": [
+            {
+                "id": "F073NUPE35H",
+                "created": 1715824622,
+                "timestamp": 1715824622,
+                "name": "20240516105652494.pdf",
+                "title": "20240516105652494.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U05UNC6FNK1",
+                "user_team": "T05UGFFGL07",
+                "editable": false,
+                "size": 78390,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F073NUPE35H\/20240516105652494.pdf?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F073NUPE35H\/download\/20240516105652494.pdf?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "media_display_type": "unknown",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F073NUPE35H-bd7072a12c\/20240516105652494_thumb_pdf.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_pdf_w": 1286,
+                "thumb_pdf_h": 909,
+                "permalink": "https:\/\/fcupstageai1.slack.com\/files\/U05UNC6FNK1\/F073NUPE35H\/20240516105652494.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/T05UGFFGL07-F073NUPE35H-263f701cf6",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U05UNC6FNK1",
+        "display_as_bot": false,
+        "type": "message",
+        "ts": "1715824625.644509",
+        "client_msg_id": "2a4088cc-08ef-437f-8011-35a45cc1a3e3",
+        "thread_ts": "1715820607.859379",
+        "parent_user_id": "U05VC7EEY5Q"
+    }
+]

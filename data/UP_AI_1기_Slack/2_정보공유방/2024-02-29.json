@@ -1,0 +1,67 @@
+[
+    {
+        "user": "U065TBUL5EE",
+        "type": "message",
+        "ts": "1709261925.921789",
+        "client_msg_id": "9B601E32-3B84-4831-BED2-40A2C3FA0392",
+        "text": "HBR에서 연구한 High Performing team VS Low Performing Team\n\n<https:\/\/www.facebook.com\/share\/p\/wzAEPkRGCjJK7gW7\/?mibextid=WC7FNe|https:\/\/www.facebook.com\/share\/p\/wzAEPkRGCjJK7gW7\/?mibextid=WC7FNe>",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "34f110a5edc4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-11-14\/6197301711475_34f110a5edc435398e63_72.png",
+            "first_name": "김용담",
+            "real_name": "김용담",
+            "display_name": "김용담 강사",
+            "team": "T05UGFFGL07",
+            "name": "codingiscoffee",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.facebook.com\/share\/p\/wzAEPkRGCjJK7gW7\/?mibextid=WC7FNe",
+                "service_icon": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/yv\/r\/B8BxsscfVBr.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.facebook.com\/share\/p\/wzAEPkRGCjJK7gW7\/?mibextid=WC7FNe",
+                "fallback": "Facebook: Log into Facebook",
+                "text": "Log into Facebook to start sharing and connecting with your friends, family, and people you know.",
+                "title": "Log into Facebook",
+                "title_link": "https:\/\/www.facebook.com\/share\/p\/wzAEPkRGCjJK7gW7\/?mibextid=WC7FNe",
+                "service_name": "Facebook"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UN\/vA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "HBR에서 연구한 High Performing team VS Low Performing Team\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.facebook.com\/share\/p\/wzAEPkRGCjJK7gW7\/?mibextid=WC7FNe",
+                                "text": "https:\/\/www.facebook.com\/share\/p\/wzAEPkRGCjJK7gW7\/?mibextid=WC7FNe"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U05V5B27DK7"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

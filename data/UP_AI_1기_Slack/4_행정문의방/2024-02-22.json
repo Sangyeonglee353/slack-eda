@@ -1,0 +1,408 @@
+[
+    {
+        "user": "U05V4KZR3NW",
+        "type": "message",
+        "ts": "1708666652.861169",
+        "client_msg_id": "39cc25c6-d6b0-48dc-b077-c493f62975d4",
+        "text": "<@U05UNC6FNK1> <@U05V81G5ZDY>\n\n대상 : 국민 취업 지원 서류\n필요한 기간 : 1월 26일 ~ 2월 25일\n필요 서류 : 출석부\n이메일 : <mailto:nam_ing@kakao.com|nam_ing@kakao.com>\n연락처 : 01086842658\n\n요청드립니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "8c77944bd304",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-20\/6082246066801_8c77944bd304e2d01432_72.jpg",
+            "first_name": "남영진",
+            "real_name": "남영진",
+            "display_name": "남영진",
+            "team": "T05UGFFGL07",
+            "name": "studyingnam",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1708666652.861169",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1708670472.956939",
+        "reply_users": [
+            "U05V81G5ZDY",
+            "U05V4KZR3NW"
+        ],
+        "replies": [
+            {
+                "user": "U05V81G5ZDY",
+                "ts": "1708667402.846029"
+            },
+            {
+                "user": "U05V4KZR3NW",
+                "ts": "1708670472.956939"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0k0iO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05UNC6FNK1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05V81G5ZDY"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n대상 : 국민 취업 지원 서류\n필요한 기간 : 1월 26일 ~ 2월 25일\n필요 서류 : 출석부\n이메일 : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:nam_ing@kakao.com",
+                                "text": "nam_ing@kakao.com"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n연락처 : 01086842658\n\n요청드립니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "U05V81G5ZDY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05UN5DQ423",
+        "type": "message",
+        "ts": "1708666824.269579",
+        "client_msg_id": "743136b3-2277-4b4e-81a2-fda48063a06d",
+        "text": "<@U05UNC6FNK1> <@U05V81G5ZDY>\n\n대상 : 국민취업지원 서류\n필요한 기간 : 1월 23일 ~ 2월 22일\n필요 서류 : 출석부\n이메일 : <mailto:sungwoo012477@gmail.com|sungwoo012477@gmail.com>\n연락처 : 01075800427\n\n안녕하세요 매니저님 :slightly_smiling_face: 출석부 신청합니다. 감사합니다!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "602bc2a55d5c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5994828351843_602bc2a55d5c461d5b24_72.png",
+            "first_name": "박성우",
+            "real_name": "박성우",
+            "display_name": "박성우",
+            "team": "T05UGFFGL07",
+            "name": "tjddn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1708666824.269579",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1708667456.713589",
+        "reply_users": [
+            "U05V81G5ZDY",
+            "U05UN5DQ423"
+        ],
+        "replies": [
+            {
+                "user": "U05V81G5ZDY",
+                "ts": "1708667439.356719"
+            },
+            {
+                "user": "U05UN5DQ423",
+                "ts": "1708667456.713589"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yO36S",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05UNC6FNK1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05V81G5ZDY"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n대상 : 국민취업지원 서류\n필요한 기간 : 1월 23일 ~ 2월 22일\n필요 서류 : 출석부\n이메일 : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:sungwoo012477@gmail.com",
+                                "text": "sungwoo012477@gmail.com"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n연락처 : 01075800427\n\n안녕하세요 매니저님 "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 출석부 신청합니다. 감사합니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "U05V81G5ZDY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "text": "출석부 전달 드립니다!\n\n미래일자의 경우 발부 불가하여 2\/23일자 까지로 전달 드립니다\n• 2\/24, 2\/25일자는 주말이기 때문",
+        "files": [
+            {
+                "id": "F06KUSENS5V",
+                "created": 1708667380,
+                "timestamp": 1708667380,
+                "name": "20240223144933053.pdf",
+                "title": "20240223144933053.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U05V81G5ZDY",
+                "user_team": "T05UGFFGL07",
+                "editable": false,
+                "size": 78794,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F06KUSENS5V\/20240223144933053.pdf?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F06KUSENS5V\/download\/20240223144933053.pdf?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "media_display_type": "unknown",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06KUSENS5V-61af007cb3\/20240223144933053_thumb_pdf.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_pdf_w": 1286,
+                "thumb_pdf_h": 909,
+                "permalink": "https:\/\/fcupstageai1.slack.com\/files\/U05V81G5ZDY\/F06KUSENS5V\/20240223144933053.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/T05UGFFGL07-F06KUSENS5V-53c12e96bc",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U05V81G5ZDY",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6Y6nx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "출석부 전달 드립니다!\n\n미래일자의 경우 발부 불가하여 2\/23일자 까지로 전달 드립니다\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "2\/24, 2\/25일자는 주말이기 때문"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1708667402.846029",
+        "client_msg_id": "a3d9006b-d135-4c97-9b23-1b400cb8a29c",
+        "thread_ts": "1708666652.861169",
+        "parent_user_id": "U05V4KZR3NW"
+    },
+    {
+        "text": "출석부 전달 드립니다",
+        "files": [
+            {
+                "id": "F06L9ACKNKV",
+                "created": 1708667435,
+                "timestamp": 1708667435,
+                "name": "20240223145023175.pdf",
+                "title": "20240223145023175.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U05V81G5ZDY",
+                "user_team": "T05UGFFGL07",
+                "editable": false,
+                "size": 78848,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F06L9ACKNKV\/20240223145023175.pdf?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F06L9ACKNKV\/download\/20240223145023175.pdf?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "media_display_type": "unknown",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06L9ACKNKV-2bf30781aa\/20240223145023175_thumb_pdf.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_pdf_w": 1286,
+                "thumb_pdf_h": 909,
+                "permalink": "https:\/\/fcupstageai1.slack.com\/files\/U05V81G5ZDY\/F06L9ACKNKV\/20240223145023175.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/T05UGFFGL07-F06L9ACKNKV-7de62c1eb0",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U05V81G5ZDY",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pOBIy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "출석부 전달 드립니다"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1708667439.356719",
+        "client_msg_id": "0faf88bf-de16-4074-bbbe-7e9ee41836f3",
+        "thread_ts": "1708666824.269579",
+        "parent_user_id": "U05UN5DQ423"
+    },
+    {
+        "user": "U05UN5DQ423",
+        "type": "message",
+        "ts": "1708667456.713589",
+        "client_msg_id": "081a8133-052c-4918-a211-9e2acba2cc1d",
+        "text": "감사합니다!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "602bc2a55d5c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5994828351843_602bc2a55d5c461d5b24_72.png",
+            "first_name": "박성우",
+            "real_name": "박성우",
+            "display_name": "박성우",
+            "team": "T05UGFFGL07",
+            "name": "tjddn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1708666824.269579",
+        "parent_user_id": "U05UN5DQ423",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4sMmL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "감사합니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05V4KZR3NW",
+        "type": "message",
+        "ts": "1708670472.956939",
+        "client_msg_id": "6e904455-8193-4b3c-b0c4-127c0f1ba54e",
+        "text": "감사합니다!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "8c77944bd304",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-20\/6082246066801_8c77944bd304e2d01432_72.jpg",
+            "first_name": "남영진",
+            "real_name": "남영진",
+            "display_name": "남영진",
+            "team": "T05UGFFGL07",
+            "name": "studyingnam",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1708666652.861169",
+        "parent_user_id": "U05V4KZR3NW",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4sMmL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "감사합니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

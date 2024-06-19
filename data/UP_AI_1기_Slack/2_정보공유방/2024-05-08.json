@@ -1,0 +1,139 @@
+[
+    {
+        "user": "U05UN5DQ423",
+        "type": "message",
+        "ts": "1715158662.010829",
+        "edited": {
+            "user": "U05UN5DQ423",
+            "ts": "1715158684.000000"
+        },
+        "client_msg_id": "df10f181-af8c-46de-a2be-f0c4304fa338",
+        "text": "공지해주신 날 신청하긴 했었는데, 혹시 대학원 수료 신분도 학생으로 신청이 가능한걸까요?",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "602bc2a55d5c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5994828351843_602bc2a55d5c461d5b24_72.png",
+            "first_name": "박성우",
+            "real_name": "박성우",
+            "display_name": "박성우",
+            "team": "T05UGFFGL07",
+            "name": "tjddn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1713936352.376039",
+        "parent_user_id": "U060C67EYQ5",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vsnl\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "공지해주신 날 신청하긴 했었는데, 혹시 대학원 수료 신분도 학생으로 신청이 가능한걸까요?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U060C67EYQ5",
+        "type": "message",
+        "ts": "1715159148.644199",
+        "client_msg_id": "4708d75b-66c9-4bba-be79-91706b6f9f81",
+        "text": "<@U05UN5DQ423> 성우님, 일단 학생 100명 모집은 마감되었는데요. 문의처(<mailto:ai-edu@upstage.ai|ai-edu@upstage.ai>)로 위 문의사항 포함하여 연락 남겨주시면 안내 도와드리겠습니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "831ed525b276",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-11-14\/6192884585138_831ed525b276222009d0_72.png",
+            "first_name": "업스테이지",
+            "real_name": "업스테이지 김의겸(Dave)",
+            "display_name": "UP 김의겸(Dave) 매니저",
+            "team": "T05UGFFGL07",
+            "name": "euigyum",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1713936352.376039",
+        "parent_user_id": "U060C67EYQ5",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RzPls",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05UN5DQ423"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 성우님, 일단 학생 100명 모집은 마감되었는데요. 문의처("
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:ai-edu@upstage.ai",
+                                "text": "ai-edu@upstage.ai"
+                            },
+                            {
+                                "type": "text",
+                                "text": ")로 위 문의사항 포함하여 연락 남겨주시면 안내 도와드리겠습니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05UN5DQ423",
+        "type": "message",
+        "ts": "1715159215.518829",
+        "client_msg_id": "c5be50f3-9795-4a7d-8066-37b56fc8b12c",
+        "text": "네 감사합니다",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "602bc2a55d5c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5994828351843_602bc2a55d5c461d5b24_72.png",
+            "first_name": "박성우",
+            "real_name": "박성우",
+            "display_name": "박성우",
+            "team": "T05UGFFGL07",
+            "name": "tjddn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1713936352.376039",
+        "parent_user_id": "U060C67EYQ5",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bfN+1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "네 감사합니다"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,488 @@
+[
+    {
+        "user": "U06061L4S64",
+        "type": "message",
+        "ts": "1698139788.355429",
+        "client_msg_id": "36426436-b8cb-4d94-bace-a7c353b68380",
+        "text": "import sys\nfrom PyQt5.QtWidgets import QApplication, QWidget, QPushButton\n\nclass TestGUI(QWidget):\n    def __init__(self):\n        super().__init__()\n        self.initUI()\n\n    def initUI(self):\n        self.setWindowTitle(\"Python GUI Program\")\n\n        btn = QPushButton(\"버튼1\", self)\n        btn.move(80, 13)\n        btn.clicked.connect(self.btn_clicked)\n\n        self.move(500,500)\n        self.resize(1000, 500)\n        self.show()\n\n    def btn_clicked(self):\n        print(\"버튼이 클릭되었습니다.\")\n\nif __name__ == \"__main__\":\n    app = QApplication(sys.argv)\n    ex = TestGUI()\n    sys.exit(app.exec_())\n\n\n# pip install pyqt5==5.15.2",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "9958a6e7ea98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5988755251283_9958a6e7ea98545615ca_72.png",
+            "first_name": "LM",
+            "real_name": "LM 박진영",
+            "display_name": "LM 박진영",
+            "team": "T05UGFFGL07",
+            "name": "pjy.fc.career",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UJCZg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "import sys\nfrom PyQt5.QtWidgets import QApplication, QWidget, QPushButton\n\nclass TestGUI(QWidget):\n    def __init__(self):\n        super().__init__()\n        self.initUI()\n\n    def initUI(self):\n        self.setWindowTitle(\"Python GUI Program\")\n\n        btn = QPushButton(\"버튼1\", self)\n        btn.move(80, 13)\n        btn.clicked.connect(self.btn_clicked)\n\n        self.move(500,500)\n        self.resize(1000, 500)\n        self.show()\n\n    def btn_clicked(self):\n        print(\"버튼이 클릭되었습니다.\")\n\nif __name__ == \"__main__\":\n    app = QApplication(sys.argv)\n    ex = TestGUI()\n    sys.exit(app.exec_())\n\n\n# pip install pyqt5==5.15.2"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "PyQt5 설치 및 간단실습\n(pyqt5-tools가 그 역할을 하는 것으로 생각)\n(참고로 그냥 PyQt5는 설치 중 오류가 나서 필자는 이렇게 함)\n<https:\/\/m.blog.naver.com\/jdkim2004\/222031487176>",
+        "files": [
+            {
+                "id": "F062W49B2CR",
+                "created": 1698140114,
+                "timestamp": 1698140114,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U05UNMQ4LP9",
+                "user_team": "T05UGFFGL07",
+                "editable": false,
+                "size": 7708,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F062W49B2CR\/image.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F062W49B2CR\/download\/image.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F062W49B2CR-d2e74e0ed1\/image_64.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F062W49B2CR-d2e74e0ed1\/image_80.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F062W49B2CR-d2e74e0ed1\/image_360.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_360_w": 287,
+                "thumb_360_h": 160,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F062W49B2CR-d2e74e0ed1\/image_160.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "original_w": 287,
+                "original_h": 160,
+                "thumb_tiny": "AwAaADDS7005z\/F+Ypw+8ajxknG38VoAdg9cmjBLdSB9RRwOgx+FAGT0HB9KAFC8ffNOAwOuaAABgUUAIPvH\/GmbWz\/F1\/vVJRQAwA56H\/vqlIJ9fzp1FADMH0P504ZpaKAP\/9k=",
+                "permalink": "https:\/\/fcupstageai1.slack.com\/files\/U05UNMQ4LP9\/F062W49B2CR\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T05UGFFGL07-F062W49B2CR-d1dba886cc",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U05UNMQ4LP9",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "a+hfB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "PyQt5 설치 및 간단실습\n(pyqt5-tools가 그 역할을 하는 것으로 생각)\n(참고로 그냥 PyQt5는 설치 중 오류가 나서 필자는 이렇게 함)\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/m.blog.naver.com\/jdkim2004\/222031487176"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1698140303.734699",
+        "client_msg_id": "694a31f1-32a3-4d5d-82dc-007dcc1acc5b",
+        "attachments": [
+            {
+                "image_url": "https:\/\/blogimgs.pstatic.net\/nblog\/mylog\/post\/og_default_image_160610.png",
+                "image_width": 270,
+                "image_height": 270,
+                "image_bytes": 3605,
+                "from_url": "https:\/\/m.blog.naver.com\/jdkim2004\/222031487176",
+                "service_icon": "https:\/\/m.blog.naver.com\/blog_96x96.png",
+                "id": 1,
+                "original_url": "https:\/\/m.blog.naver.com\/jdkim2004\/222031487176",
+                "fallback": "네이버 블로그 | Notebook: PyQt5 설치하고 사용하기",
+                "text": "윈도우 10에 Python 3.8.2 가 이미 설치되어 있음. 참고: pyqt 개발하는 회사 <https:\/\/www.riverbankcompu>...",
+                "title": "PyQt5 설치하고 사용하기",
+                "title_link": "https:\/\/m.blog.naver.com\/jdkim2004\/222031487176",
+                "service_name": "네이버 블로그 | Notebook"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U05V2T62KUJ",
+                    "U05V9N22ZUK"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U06061L4S64",
+        "type": "message",
+        "ts": "1698140501.701549",
+        "client_msg_id": "f22f88db-8b77-495f-a5f0-ea65c9e3efee",
+        "text": "<https:\/\/visioneer.notion.site\/55ee72d8daf844719c778c5376f52c20> -프로젝트 관련 notion 입니다",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "9958a6e7ea98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5988755251283_9958a6e7ea98545615ca_72.png",
+            "first_name": "LM",
+            "real_name": "LM 박진영",
+            "display_name": "LM 박진영",
+            "team": "T05UGFFGL07",
+            "name": "pjy.fc.career",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/visioneer.notion.site\/55ee72d8daf844719c778c5376f52c20",
+                "service_icon": "https:\/\/visioneer.notion.site\/images\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/visioneer.notion.site\/55ee72d8daf844719c778c5376f52c20",
+                "fallback": "SeopE on Notion: 프로젝트: 나만의 음성인식 비서 만들기",
+                "text": "1. stt, tts 라이브러리를 활용한 음성인식 비서 개발",
+                "title": "프로젝트: 나만의 음성인식 비서 만들기",
+                "title_link": "https:\/\/visioneer.notion.site\/55ee72d8daf844719c778c5376f52c20",
+                "service_name": "SeopE on Notion"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iDJbA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/visioneer.notion.site\/55ee72d8daf844719c778c5376f52c20"
+                            },
+                            {
+                                "type": "text",
+                                "text": " -프로젝트 관련 notion 입니다"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06061L4S64",
+        "type": "message",
+        "ts": "1698141966.698979",
+        "client_msg_id": "2695037b-e2fc-444d-8f76-888284cef93f",
+        "text": "오늘 질의 응답 링크남겨드립니다.\n\n<https:\/\/amazingguni.medium.com\/python-poetry%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%A5%BC-vscode%EC%97%90%EC%84%9C-%EA%B0%9C%EB%B0%9C%ED%95%A0-%EB%95%8C-interpreter%EB%A5%BC-%EC%9E%A1%EB%8A%94-%EB%B0%A9%EB%B2%95-e1806f093e6d|https:\/\/amazingguni.medium.com\/python-poetry%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%[…]%A5%BC-%EC%9E%A1%EB%8A%94-%EB%B0%A9%EB%B2%95-e1806f093e6d>",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "9958a6e7ea98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5988755251283_9958a6e7ea98545615ca_72.png",
+            "first_name": "LM",
+            "real_name": "LM 박진영",
+            "display_name": "LM 박진영",
+            "team": "T05UGFFGL07",
+            "name": "pjy.fc.career",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/amazingguni.medium.com\/python-poetry%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%A5%BC-vscode%EC%97%90%EC%84%9C-%EA%B0%9C%EB%B0%9C%ED%95%A0-%EB%95%8C-interpreter%EB%A5%BC-%EC%9E%A1%EB%8A%94-%EB%B0%A9%EB%B2%95-e1806f093e6d",
+                "service_icon": "https:\/\/miro.medium.com\/v2\/resize:fill:152:152\/1*sHhtYhaCe2Uc3IU0IgKwIQ.png",
+                "ts": 1580887689,
+                "id": 1,
+                "original_url": "https:\/\/amazingguni.medium.com\/python-poetry%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%A5%BC-vscode%EC%97%90%EC%84%9C-%EA%B0%9C%EB%B0%9C%ED%95%A0-%EB%95%8C-interpreter%EB%A5%BC-%EC%9E%A1%EB%8A%94-%EB%B0%A9%EB%B2%95-e1806f093e6d",
+                "fallback": "Medium: [Python] poetry를 사용하는 프로젝트를 vscode에서 개발할 때 interpreter를 잡는 방법",
+                "text": "poetry를 사용하는 경우에 vscode에서 python interpreter를 잘 잡지 못한다. 이로 인해 내가 겪은 문제는 linter 나 formatter를 vscode에서 제공하는 방법으로 쓸 수 없는 것이다.",
+                "title": "[Python] poetry를 사용하는 프로젝트를 vscode에서 개발할 때 interpreter를 잡는 방법",
+                "title_link": "https:\/\/amazingguni.medium.com\/python-poetry%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%A5%BC-vscode%EC%97%90%EC%84%9C-%EA%B0%9C%EB%B0%9C%ED%95%A0-%EB%95%8C-interpreter%EB%A5%BC-%EC%9E%A1%EB%8A%94-%EB%B0%A9%EB%B2%95-e1806f093e6d",
+                "service_name": "Medium",
+                "fields": [
+                    {
+                        "value": "1 min read",
+                        "title": "Reading time",
+                        "short": true
+                    }
+                ]
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fb8r3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "오늘 질의 응답 링크남겨드립니다.\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/amazingguni.medium.com\/python-poetry%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%A5%BC-vscode%EC%97%90%EC%84%9C-%EA%B0%9C%EB%B0%9C%ED%95%A0-%EB%95%8C-interpreter%EB%A5%BC-%EC%9E%A1%EB%8A%94-%EB%B0%A9%EB%B2%95-e1806f093e6d",
+                                "text": "https:\/\/amazingguni.medium.com\/python-poetry%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%[…]%A5%BC-%EC%9E%A1%EB%8A%94-%EB%B0%A9%EB%B2%95-e1806f093e6d"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U05V9N22ZUK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05V4KZR3NW",
+        "type": "message",
+        "ts": "1698142097.398729",
+        "client_msg_id": "937265b0-0c91-4054-9b2e-9d65259f97c3",
+        "text": "<https:\/\/amazingguni.medium.com\/python-poetry%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%A5%BC-vscode%EC%97%90%EC%84%9C-%EA%B0%9C%EB%B0%9C%ED%95%A0-%EB%95%8C-interpreter%EB%A5%BC-%EC%9E%A1%EB%8A%94-%EB%B0%A9%EB%B2%95-e1806f093e6d|https:\/\/amazingguni.medium.com\/python-poetry%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%[…]%A5%BC-%EC%9E%A1%EB%8A%94-%EB%B0%A9%EB%B2%95-e1806f093e6d>\n<@U060D1KJECR> 님께서 해결법으로 제시해주신 링크 공유드립니다! 감사합니다 :)\n\nMac에서 .venv위치 관련 문제 생기신 분들 참고하시면 좋을 것 같습니다!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "8c77944bd304",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-20\/6082246066801_8c77944bd304e2d01432_72.jpg",
+            "first_name": "남영진",
+            "real_name": "남영진",
+            "display_name": "남영진",
+            "team": "T05UGFFGL07",
+            "name": "studyingnam",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CspTJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/amazingguni.medium.com\/python-poetry%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%A5%BC-vscode%EC%97%90%EC%84%9C-%EA%B0%9C%EB%B0%9C%ED%95%A0-%EB%95%8C-interpreter%EB%A5%BC-%EC%9E%A1%EB%8A%94-%EB%B0%A9%EB%B2%95-e1806f093e6d",
+                                "text": "https:\/\/amazingguni.medium.com\/python-poetry%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%[…]%A5%BC-%EC%9E%A1%EB%8A%94-%EB%B0%A9%EB%B2%95-e1806f093e6d"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U060D1KJECR"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 님께서 해결법으로 제시해주신 링크 공유드립니다! 감사합니다 :)\n\nMac에서 .venv위치 관련 문제 생기신 분들 참고하시면 좋을 것 같습니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U060VSK7ELC",
+                    "U05V7H78DUM",
+                    "U05V5B88ULD"
+                ],
+                "count": 3
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U05V9N22ZUK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "text": "프로젝트 폴더안에 가상환경 구성하는 방법 공유드립니다!\npoetry 설정을 사진처럼 바꾸고나서 프로젝트를 새로 만들어서 poetry init 하고 poetry shell 로 가상환경에 접근하니까 프로젝트 root에 .venv가 설치됐네요.\n\n기존 프로젝트에서 설정을 바꾸면 꼬이는 것 같으니까 주의해주세요!\n\n참고한 링크\n<https:\/\/python-poetry.org\/docs\/configuration\/>\n<https:\/\/github.com\/python-poetry\/poetry\/issues\/108>",
+        "files": [
+            {
+                "id": "F0630SMD2QH",
+                "created": 1698195374,
+                "timestamp": 1698195374,
+                "name": "poetry venv.png",
+                "title": "poetry venv.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U05V2T62KUJ",
+                "user_team": "T05UGFFGL07",
+                "editable": false,
+                "size": 198729,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F0630SMD2QH\/poetry_venv.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F0630SMD2QH\/download\/poetry_venv.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F0630SMD2QH-a1a475acfb\/poetry_venv_64.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F0630SMD2QH-a1a475acfb\/poetry_venv_80.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F0630SMD2QH-a1a475acfb\/poetry_venv_360.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_360_w": 360,
+                "thumb_360_h": 230,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F0630SMD2QH-a1a475acfb\/poetry_venv_480.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_480_w": 480,
+                "thumb_480_h": 307,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F0630SMD2QH-a1a475acfb\/poetry_venv_160.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F0630SMD2QH-a1a475acfb\/poetry_venv_720.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_720_w": 720,
+                "thumb_720_h": 460,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F0630SMD2QH-a1a475acfb\/poetry_venv_800.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_800_w": 800,
+                "thumb_800_h": 511,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F0630SMD2QH-a1a475acfb\/poetry_venv_960.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_960_w": 960,
+                "thumb_960_h": 613,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F0630SMD2QH-a1a475acfb\/poetry_venv_1024.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 654,
+                "original_w": 1536,
+                "original_h": 981,
+                "thumb_tiny": "AwAeADC1akvAhbknPJ+tTYFQWf8Ax7J+P86nJx1oAXap6CjYPSm59KfmgA2j0pNq+lLmlHSgCtZf8eqfj\/Opm7cVWtpVjgVSDxnp9ak+0p6N+VOzFzIkHXkU\/AqD7RH6N+QoFyno35CizDmRYoqD7Qno35UouU9Gosw5kf\/Z",
+                "permalink": "https:\/\/fcupstageai1.slack.com\/files\/U05V2T62KUJ\/F0630SMD2QH\/poetry_venv.png",
+                "permalink_public": "https:\/\/slack-files.com\/T05UGFFGL07-F0630SMD2QH-d0ead6ac4e",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U05V2T62KUJ",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JmWaH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "프로젝트 폴더안에 가상환경 구성하는 방법 공유드립니다!\npoetry 설정을 사진처럼 바꾸고나서 프로젝트를 새로 만들어서 poetry init 하고 poetry shell 로 가상환경에 접근하니까 프로젝트 root에 .venv가 설치됐네요.\n\n기존 프로젝트에서 설정을 바꾸면 꼬이는 것 같으니까 주의해주세요!\n\n참고한 링크\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/python-poetry.org\/docs\/configuration\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/python-poetry\/poetry\/issues\/108"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1698195427.927199",
+        "client_msg_id": "66620939-20f0-4a04-86d9-3b73a2a80c7d",
+        "thread_ts": "1698195427.927199",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1698225892.212789",
+        "reply_users": [
+            "U05V379NETU"
+        ],
+        "replies": [
+            {
+                "user": "U05V379NETU",
+                "ts": "1698225892.212789"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "attachments": [
+            {
+                "from_url": "https:\/\/python-poetry.org\/docs\/configuration\/",
+                "service_icon": "https:\/\/python-poetry.org\/images\/favicon-origami-32.png",
+                "id": 1,
+                "original_url": "https:\/\/python-poetry.org\/docs\/configuration\/",
+                "fallback": "Configuration | Documentation | Poetry - Python dependency management and packaging made easy",
+                "text": "Configuration Poetry can be configured via the config command (see more about its usage here) or directly in the config.toml file that will be automatically created when you first run that command. This file can typically be found in one of the following directories:\n macOS: ~\/Library\/Application Support\/pypoetry Windows: %APPDATA%\\pypoetry For Unix, we follow the XDG spec and support $XDG_CONFIG_HOME. That means, by default ~\/.config\/pypoetry.\nLocal configuration Poetry also provides the ability to have settings that are specific to a project by passing the --local option to the config command.",
+                "title": "Configuration | Documentation | Poetry - Python dependency management and packaging made easy",
+                "title_link": "https:\/\/python-poetry.org\/docs\/configuration\/",
+                "service_name": "python-poetry.org"
+            },
+            {
+                "image_url": "https:\/\/opengraph.githubassets.com\/150bdd692a4df349441ae047ddcc1292b46e9fda86d0a1e2aeba3375e7b9d856\/python-poetry\/poetry\/issues\/108",
+                "image_width": 1200,
+                "image_height": 600,
+                "image_bytes": 116046,
+                "from_url": "https:\/\/github.com\/python-poetry\/poetry\/issues\/108",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/github.png",
+                "id": 2,
+                "original_url": "https:\/\/github.com\/python-poetry\/poetry\/issues\/108",
+                "fallback": "GitHub: Option to create virtual environments in the project root (.venv) · Issue #108 · python-poetry\/poetry",
+                "text": "I'm considering migrating some of my projects from pipenv to poetry. I would like to be able to tell poetry to create virtual environments at .\/.venv\/ to support Makefile target dependencies, CI bu...",
+                "title": "Option to create virtual environments in the project root (.venv) · Issue #108 · python-poetry\/poetry",
+                "title_link": "https:\/\/github.com\/python-poetry\/poetry\/issues\/108",
+                "service_name": "GitHub"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1::skin-tone-2",
+                "users": [
+                    "U05UT0JG4BZ"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U05UUUNAE5D",
+                    "U05V379NETU",
+                    "U05V9N22ZUK"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

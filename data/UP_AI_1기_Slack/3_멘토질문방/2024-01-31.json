@@ -1,0 +1,930 @@
+[
+    {
+        "user": "U05VBQMH3D3",
+        "type": "message",
+        "ts": "1706741942.877489",
+        "edited": {
+            "user": "U05VBQMH3D3",
+            "ts": "1706742258.000000"
+        },
+        "client_msg_id": "895b6735-10d6-4586-bfc8-dfc479dec5ce",
+        "text": "<@U06FFSA059B> 안녕하세요. valid_func으로 metric측정하는데요. 이미지 양이 많아서 1에포크 안에서 몇번 valid_func를 수행하도록 했습니다.\n1. valid_func으로 바로 측정했을떄는 0.9정도로 문제없습니다.\n2. train_func안에서 valid_func를 불러와서 측정했을때는 0.6정도로 값이 상당히 낮은데요. \n학습 시작시에는 당연히 낮고 학습을 할수록 점점 올라갑니다만, 완성된 모델을 불러와서 학습을 하지 않고 바로 측정했음에도 train_func를 거치면 검증데이터셋의 metric이 낮은건 무언가 초기화되어서?그런건가 싶은데 이유가 궁금합니다",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "16da4e28d6c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/6003210685524_16da4e28d6c4ea33bae5_72.png",
+            "first_name": "HB",
+            "real_name": "HB",
+            "display_name": "엄효범",
+            "team": "T05UGFFGL07",
+            "name": "swema86",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1706741942.877489",
+        "reply_count": 6,
+        "reply_users_count": 2,
+        "latest_reply": "1706759386.198809",
+        "reply_users": [
+            "U05VBQMH3D3",
+            "U06FFSA059B"
+        ],
+        "replies": [
+            {
+                "user": "U05VBQMH3D3",
+                "ts": "1706741995.077239"
+            },
+            {
+                "user": "U06FFSA059B",
+                "ts": "1706757581.439249"
+            },
+            {
+                "user": "U05VBQMH3D3",
+                "ts": "1706758543.896349"
+            },
+            {
+                "user": "U06FFSA059B",
+                "ts": "1706758938.209709"
+            },
+            {
+                "user": "U05VBQMH3D3",
+                "ts": "1706759168.811779"
+            },
+            {
+                "user": "U06FFSA059B",
+                "ts": "1706759386.198809"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yx\/Sx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06FFSA059B"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 안녕하세요. valid_func으로 metric측정하는데요. 이미지 양이 많아서 1에포크 안에서 몇번 valid_func를 수행하도록 했습니다.\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "valid_func으로 바로 측정했을떄는 0.9정도로 문제없습니다."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "train_func안에서 valid_func를 불러와서 측정했을때는 0.6정도로 값이 상당히 낮은데요. "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "학습 시작시에는 당연히 낮고 학습을 할수록 점점 올라갑니다만, 완성된 모델을 불러와서 학습을 하지 않고 바로 측정했음에도 train_func를 거치면 검증데이터셋의 metric이 낮은건 무언가 초기화되어서?그런건가 싶은데 이유가 궁금합니다"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U06FFSA059B"
+                ],
+                "count": 1
+            },
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U06FFSA059B"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05VBQMH3D3",
+        "type": "message",
+        "ts": "1706741995.077239",
+        "client_msg_id": "9cffbee2-608e-4e36-b769-211327891e32",
+        "text": "```def train_func(dataloader, model, optimizer, scheduler, loss_fc, scaler):\n    model.train()\n    tra_loss=0\n    tra_dice=0\n    for i, (x, y) in tqdm(enumerate(dataloader), total=len(dataloader), leave=False, ncols=80):\n        if finetune or epoch &gt; start_epoch_val:\n            if epoch_val:\n                if i==0 or (i+1) % cnt == 0:\n                    c = (i+1)\/\/cnt\n                    if i == 0:\n                        c = 98\n                    cur_time = current_date_time()\n                    cur_time_abb = cur_time.replace(\"-\", \"\").replace(\":\", \"\").replace(\" \", \"\")[4:12]\n                    day = cur_time_abb[:4]\n                    time = cur_time_abb[4:]\n                    time = int(time) + 900\n                    if int(time) &gt; 2360:\n                        time = str(int(time) - 2400).zfill(4)\n                        day = str(int(day)+1).zfill(4)\n                        time = int(time)\n                    cur_time_abb = f'{day}_{time:04d}'\n                    val_loss, val_dice, best_thr, val_lb_score, val_hit, val_fp = valid_func(val_dl, model, loss_fc)\n                    model_path = f\"{output_dir}\/{cur_time_abb}_{CFG.model_name}_{pt_bonename}_{epoch}-{c}_td{tra_dice:.3f}_vd{val_dice:.3f}_{val_lb_score:.3f}.pt\"\n                    if CFG.gpu_parallel:\n                        torch.save(model.module.state_dict(), model_path)\n                    else:\n                        torch.save(model.state_dict(), model_path)\n                model.train()\n\n\n        x = x.cuda().to(torch.float32) # (bs, C, img_sz, img_sz) 0.0-1.0   float32 \/ 0-255\n        y = y.cuda().to(torch.float32) # (bs, img_sz, img_sz)    0.0or1.0  float32\n        if CFG.norm_and_clip:\n            x_3dim = x.reshape(-1, x.shape[2], x.shape[3]) # (bs*C, img_sz, img_sz)\n            x = norm_with_clip(x_3dim).reshape(x.shape)    # (bs, C, img_sz, img_sz) zscore torch.float32\n\n        if CFG.add_noise:\n            x = add_noise(x, max_randn_rate=0.5, x_already_normed=True) # (bs, C, img_sz, img_sz)\n\n        with autocast():\n            pred = model(x) # (bs, img_sz, img_sz) torch.float16\n            loss = loss_fc(pred, y)\n        scaler.scale(loss).backward()\n        scaler.step(optimizer)\n        scaler.update()\n        optimizer.zero_grad()\n        scheduler.step()\n\n        tra_loss = (tra_loss*i+loss.item())\/(i+1) # epoch平均loss\n        dice = dice_coef(pred.detach(), y, thr=0.5)\n        tra_dice = (tra_dice*i+dice)\/(i+1) # epoch平均dice\n\n        if finetune or epoch &gt; start_epoch_val:\n            if epoch_val:\n                if i==0 or (i+1) % cnt == 0:\n                    c = (i+1)\/\/cnt\n                    if i == 0:\n                        c = 99\n                    cur_time = current_date_time()\n                    cur_time_abb = cur_time.replace(\"-\", \"\").replace(\":\", \"\").replace(\" \", \"\")[4:12]\n                    day = cur_time_abb[:4]\n                    time = cur_time_abb[4:]\n                    time = int(time) + 900\n                    if int(time) &gt; 2360:\n                        time = str(int(time) - 2400).zfill(4)\n                        day = str(int(day)+1).zfill(4)\n                        time = int(time)\n                    cur_time_abb = f'{day}_{time:04d}'\n                    val_loss, val_dice, best_thr, val_lb_score, val_hit, val_fp = valid_func(val_dl, model, loss_fc)\n                    model_path = f\"{output_dir}\/{cur_time_abb}_{CFG.model_name}_{pt_bonename}_{epoch}-{c}_td{tra_dice:.3f}_vd{val_dice:.3f}_{val_lb_score:.3f}.pt\"\n                    if CFG.gpu_parallel:\n                        torch.save(model.module.state_dict(), model_path)\n                    else:\n                        torch.save(model.state_dict(), model_path)\n                model.train()\n        del loss, pred, x, y\n        gc.collect()\n    return tra_loss, tra_dice\n\n\ndef valid_func(dataloader, model, loss_fc):\n    model.eval()\n    val_loss=0\n    val_dice=0\n    preds = []; truths = []\n#     for i, (x, y) in tqdm(enumerate(dataloader), total=len(dataloader), leave=False, ncols=80):\n    for i, (x, y) in enumerate(dataloader):\n        x = x.cuda().to(torch.float32) # (bs, C, img_sz, img_sz)\n        y = y.cuda().to(torch.float32) # (bs, img_sz, img_sz)\n        if CFG.norm_and_clip:\n            x_3dim = x.reshape(-1, x.shape[2], x.shape[3]) # (bs*C, img_sz, img_sz)\n            x = norm_with_clip(x_3dim).reshape(x.shape)    # (bs, C, img_sz, img_sz) zscore torch.float32\n\n        with autocast():\n            with torch.no_grad():\n                pred = model(x) # (bs, img_sz, img_sz) torch.float16\n                loss = loss_fc(pred, y)\n\n        preds.append(pred.detach().cpu().numpy())\n        truths.append(y.detach().cpu().numpy())\n\n        val_loss = (val_loss*i+loss.item())\/(i+1) \n        dice = dice_coef(pred.detach(), y, thr=0.5)\n\n        val_dice = (val_dice*i+dice)\/(i+1) \n\n    preds = np.concatenate(preds, axis=0) # (D, H, W)\n    truths = np.concatenate(truths, axis=0).astype(np.uint8) # (D, H, W)\n\n    preds_bool = (preds &gt; mask_thr).astype(np.uint8) # (D, H, W) 0or1\n    val_lb_score = fast_compute_surface_dice_score_from_tensor(preds_bool, truths)\n    print(val_dice, val_lb_score)```",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "16da4e28d6c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/6003210685524_16da4e28d6c4ea33bae5_72.png",
+            "first_name": "HB",
+            "real_name": "HB",
+            "display_name": "엄효범",
+            "team": "T05UGFFGL07",
+            "name": "swema86",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1706741942.877489",
+        "parent_user_id": "U05VBQMH3D3",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "S74t8",
+                "elements": [
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "def train_func(dataloader, model, optimizer, scheduler, loss_fc, scaler):\n    model.train()\n    tra_loss=0\n    tra_dice=0\n    for i, (x, y) in tqdm(enumerate(dataloader), total=len(dataloader), leave=False, ncols=80):\n        if finetune or epoch > start_epoch_val:\n            if epoch_val:\n                if i==0 or (i+1) % cnt == 0:\n                    c = (i+1)\/\/cnt\n                    if i == 0:\n                        c = 98\n                    cur_time = current_date_time()\n                    cur_time_abb = cur_time.replace(\"-\", \"\").replace(\":\", \"\").replace(\" \", \"\")[4:12]\n                    day = cur_time_abb[:4]\n                    time = cur_time_abb[4:]\n                    time = int(time) + 900\n                    if int(time) > 2360:\n                        time = str(int(time) - 2400).zfill(4)\n                        day = str(int(day)+1).zfill(4)\n                        time = int(time)\n                    cur_time_abb = f'{day}_{time:04d}'\n                    val_loss, val_dice, best_thr, val_lb_score, val_hit, val_fp = valid_func(val_dl, model, loss_fc)\n                    model_path = f\"{output_dir}\/{cur_time_abb}_{CFG.model_name}_{pt_bonename}_{epoch}-{c}_td{tra_dice:.3f}_vd{val_dice:.3f}_{val_lb_score:.3f}.pt\"\n                    if CFG.gpu_parallel:\n                        torch.save(model.module.state_dict(), model_path)\n                    else:\n                        torch.save(model.state_dict(), model_path)\n                model.train()\n\n\n        x = x.cuda().to(torch.float32) # (bs, C, img_sz, img_sz) 0.0-1.0   float32 \/ 0-255\n        y = y.cuda().to(torch.float32) # (bs, img_sz, img_sz)    0.0or1.0  float32\n        if CFG.norm_and_clip:\n            x_3dim = x.reshape(-1, x.shape[2], x.shape[3]) # (bs*C, img_sz, img_sz)\n            x = norm_with_clip(x_3dim).reshape(x.shape)    # (bs, C, img_sz, img_sz) zscore torch.float32\n\n        if CFG.add_noise:\n            x = add_noise(x, max_randn_rate=0.5, x_already_normed=True) # (bs, C, img_sz, img_sz)\n\n        with autocast():\n            pred = model(x) # (bs, img_sz, img_sz) torch.float16\n            loss = loss_fc(pred, y)\n        scaler.scale(loss).backward()\n        scaler.step(optimizer)\n        scaler.update()\n        optimizer.zero_grad()\n        scheduler.step()\n\n        tra_loss = (tra_loss*i+loss.item())\/(i+1) # epoch平均loss\n        dice = dice_coef(pred.detach(), y, thr=0.5)\n        tra_dice = (tra_dice*i+dice)\/(i+1) # epoch平均dice\n\n        if finetune or epoch > start_epoch_val:\n            if epoch_val:\n                if i==0 or (i+1) % cnt == 0:\n                    c = (i+1)\/\/cnt\n                    if i == 0:\n                        c = 99\n                    cur_time = current_date_time()\n                    cur_time_abb = cur_time.replace(\"-\", \"\").replace(\":\", \"\").replace(\" \", \"\")[4:12]\n                    day = cur_time_abb[:4]\n                    time = cur_time_abb[4:]\n                    time = int(time) + 900\n                    if int(time) > 2360:\n                        time = str(int(time) - 2400).zfill(4)\n                        day = str(int(day)+1).zfill(4)\n                        time = int(time)\n                    cur_time_abb = f'{day}_{time:04d}'\n                    val_loss, val_dice, best_thr, val_lb_score, val_hit, val_fp = valid_func(val_dl, model, loss_fc)\n                    model_path = f\"{output_dir}\/{cur_time_abb}_{CFG.model_name}_{pt_bonename}_{epoch}-{c}_td{tra_dice:.3f}_vd{val_dice:.3f}_{val_lb_score:.3f}.pt\"\n                    if CFG.gpu_parallel:\n                        torch.save(model.module.state_dict(), model_path)\n                    else:\n                        torch.save(model.state_dict(), model_path)\n                model.train()\n        del loss, pred, x, y\n        gc.collect()\n    return tra_loss, tra_dice\n\n\ndef valid_func(dataloader, model, loss_fc):\n    model.eval()\n    val_loss=0\n    val_dice=0\n    preds = []; truths = []\n#     for i, (x, y) in tqdm(enumerate(dataloader), total=len(dataloader), leave=False, ncols=80):\n    for i, (x, y) in enumerate(dataloader):\n        x = x.cuda().to(torch.float32) # (bs, C, img_sz, img_sz)\n        y = y.cuda().to(torch.float32) # (bs, img_sz, img_sz)\n        if CFG.norm_and_clip:\n            x_3dim = x.reshape(-1, x.shape[2], x.shape[3]) # (bs*C, img_sz, img_sz)\n            x = norm_with_clip(x_3dim).reshape(x.shape)    # (bs, C, img_sz, img_sz) zscore torch.float32\n\n        with autocast():\n            with torch.no_grad():\n                pred = model(x) # (bs, img_sz, img_sz) torch.float16\n                loss = loss_fc(pred, y)\n\n        preds.append(pred.detach().cpu().numpy())\n        truths.append(y.detach().cpu().numpy())\n\n        val_loss = (val_loss*i+loss.item())\/(i+1) \n        dice = dice_coef(pred.detach(), y, thr=0.5)\n\n        val_dice = (val_dice*i+dice)\/(i+1) \n\n    preds = np.concatenate(preds, axis=0) # (D, H, W)\n    truths = np.concatenate(truths, axis=0).astype(np.uint8) # (D, H, W)\n\n    preds_bool = (preds > mask_thr).astype(np.uint8) # (D, H, W) 0or1\n    val_lb_score = fast_compute_surface_dice_score_from_tensor(preds_bool, truths)\n    print(val_dice, val_lb_score)"
+                            }
+                        ],
+                        "border": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "<@U06FFSA059B> 안녕하세요 멘토님 ! 질문 있습니다.\nfaster R-CNN에서 각 앵커에 대해 Positive Anchor와 Negative Anchor를 판단하고, 각각에 대해 loss를 계산한다고 되어 있습니다. 여기서 negative anchor에 대해서는 물체가 없다고 판단했기 때문에 bbox에 대한 regression loss를 계산하지 않는다고 했는데, 그렇다면 물체가 없다고 판단되는 앵커에 대해서 객체가 없는지 여부를 분류하기 위한 classification loss도 굳이 구할 필요가 없다고 생각합니다. 이미 객체가 없다고 판단했으면, negative anchor가 아닌 positive anchor에 대해서만 classification 및 regression loss를 통해 학습만 하면되고, negative anchor에 대해서는 아무런 학습을 하지 않아도 된다고 생각하는 이유가 anchor와 ground truth의 IOU 비교에서 0.3이상 0.7미만의 앵커에 대해서는 아무런 학습에 영향을 미치지 않는다고 했는데, 굳이 negative anchor에 대해서도 classification loss를 진행하는 이유에 대해 궁금합니다 !",
+        "files": [
+            {
+                "id": "F06GMB9QMA7",
+                "created": 1706754826,
+                "timestamp": 1706754826,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U05V5H1T24V",
+                "user_team": "T05UGFFGL07",
+                "editable": false,
+                "size": 134051,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F06GMB9QMA7\/image.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F06GMB9QMA7\/download\/image.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06GMB9QMA7-a88afff954\/image_64.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06GMB9QMA7-a88afff954\/image_80.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06GMB9QMA7-a88afff954\/image_360.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_360_w": 360,
+                "thumb_360_h": 193,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06GMB9QMA7-a88afff954\/image_480.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_480_w": 480,
+                "thumb_480_h": 258,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06GMB9QMA7-a88afff954\/image_160.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06GMB9QMA7-a88afff954\/image_720.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_720_w": 720,
+                "thumb_720_h": 387,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06GMB9QMA7-a88afff954\/image_800.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_800_w": 800,
+                "thumb_800_h": 430,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06GMB9QMA7-a88afff954\/image_960.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_960_w": 960,
+                "thumb_960_h": 516,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06GMB9QMA7-a88afff954\/image_1024.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 550,
+                "original_w": 1199,
+                "original_h": 644,
+                "thumb_tiny": "AwAZADDQYjfjeAT0Bpef7w\/KkZU3hiBuHej5fQUwH8UU0YPQdKUtjrSAWkKg4z2pA4pwOelACEDPTNIQP7tDdacOlACAY6Cg89qWigBoUelO6UUUAf\/Z",
+                "permalink": "https:\/\/fcupstageai1.slack.com\/files\/U05V5H1T24V\/F06GMB9QMA7\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T05UGFFGL07-F06GMB9QMA7-fc1f6f0612",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U05V5H1T24V",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dBAWZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06FFSA059B"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 안녕하세요 멘토님 ! 질문 있습니다.\nfaster R-CNN에서 각 앵커에 대해 Positive Anchor와 Negative Anchor를 판단하고, 각각에 대해 loss를 계산한다고 되어 있습니다. 여기서 negative anchor에 대해서는 물체가 없다고 판단했기 때문에 bbox에 대한 regression loss를 계산하지 않는다고 했는데, 그렇다면 물체가 없다고 판단되는 앵커에 대해서 객체가 없는지 여부를 분류하기 위한 classification loss도 굳이 구할 필요가 없다고 생각합니다. 이미 객체가 없다고 판단했으면, negative anchor가 아닌 positive anchor에 대해서만 classification 및 regression loss를 통해 학습만 하면되고, negative anchor에 대해서는 아무런 학습을 하지 않아도 된다고 생각하는 이유가 anchor와 ground truth의 IOU 비교에서 0.3이상 0.7미만의 앵커에 대해서는 아무런 학습에 영향을 미치지 않는다고 했는데, 굳이 negative anchor에 대해서도 classification loss를 진행하는 이유에 대해 궁금합니다 !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1706755195.579009",
+        "client_msg_id": "3e37cd92-9cdc-4a92-ab15-58d9e7e496c1",
+        "thread_ts": "1706755195.579009",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1706758528.757349",
+        "reply_users": [
+            "U06FFSA059B",
+            "U05V5H1T24V"
+        ],
+        "replies": [
+            {
+                "user": "U06FFSA059B",
+                "ts": "1706758430.935489"
+            },
+            {
+                "user": "U05V5H1T24V",
+                "ts": "1706758528.757349"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U06FFSA059B"
+                ],
+                "count": 1
+            },
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U06FFSA059B"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06FFSA059B",
+        "type": "message",
+        "ts": "1706757581.439249",
+        "client_msg_id": "db6830c6-2ce6-4be1-8578-979b1317cf0f",
+        "text": "안녕하세요, 효범님!\n제가 질문의 취지를 잘 파악한 것인지는 모르겠으나 위 코드는 강의 중 실습 코드가 아니라 직접 돌려보시다가 의문이 생겨 질문하신 것이 맞을까요?\n강의 중 내용을 질문한 것인데 제가 놓친 것이 있을까 싶어 여쭤봅니다!\n\n우선, valid_func과 train_func의 가장 큰 차이점은 모델의 파라미터 (weight 값)을 고정시켰느냐 아니냐 입니다.\nvalid_func의 경우 가장 처음에 `model.eval()` 을 시키고 이후 모델 inference 시에는 `with <http:\/\/torch.no|torch.no>_grad()` 를 통해서 모델의 파라미터가 고정되도록 만들어 줍니다.\n따라서 valid_func의 결과는 pretrained weight의 값을 그대로 사용한 결과를 얻을 수 있게 되는 것입니다.\n\n반면에 train_func의 경우 `model.train()` 을 시키고 model 추론 결과를 얻게 되는데요,\n이 경우 model의 파라미터 값은 기존 pretrained weight에서 바뀌게 될 것이기 때문에 전과 같은 결과를 얻을 수 없는 것입니다.\n\n아마 질문의 경우 그렇다 하더라도 0.9에서 0.6까지 너무 큰 폭으로 성능이 떨어진 것이 궁금하셨던 것 같은데요!\n여기에는 다양한 training setting이 영향을 미칠 수 있습니다.\n예를 들어서, 학습할 때 처음에는 큰 값의 learning rate로 학습을 시키다가 점점 더 작은 learning rate로 학습을 시키는 경우가 많습니다.\n만약 pretrained weight를 학습시킬 때 1e-2의 lr에서 1e-4로 감소시키면서 학습을 시켰다고 가정해 봅시다.\n그러면 pretrianed weight가 저장된 시점 쯤에는 1e-4의 작은 lr로 학습시킨 파라미터 값들이 저장되었을 것입니다.\n하지만 해당 weight를 불러와서 다시 큰 lr로 train_func를 불러오게 되면 기존 파라미터 값에서 많은 수치 변경이 일어나게 될 것입니다.\n\n따라서 pretrained weight을 불러와서 학습하는 경우(=\"fine-tuning\"을 한다라고 말하기도 합니다) lr을 설정할 때 \"기존 weight의 값을 얼마나 보존하고 싶냐\"에 따라서 정하는 것이 좋습니다.\npretraining이 아주 잘되어서 task에 맞게 아주 조금만 수치 변경을 하고 싶을 경우 시작부터 기존에 사용하는 것보다 더 낮은 lr을 부여하여 성능 보존을 할 수도 있고,\npretraining weight를 사용하더라도 좀 더 내가 하고자 하는 task에 맞게 많은 변경을 하고 싶을 경우 기존에 사용하는 lr을 부여하면 좋을 것 같습니다.\n\n혹시 추가 질문이 있으시다면 언제든지 달아주세요!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "5fcbb3a9dd8b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-25\/6541455753969_5fcbb3a9dd8b24fd9a37_72.jpg",
+            "first_name": "강인하",
+            "real_name": "강인하",
+            "display_name": "강인하 멘토",
+            "team": "T05UGFFGL07",
+            "name": "rkswlsj97",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1706741942.877489",
+        "parent_user_id": "U05VBQMH3D3",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kDtws",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "안녕하세요, 효범님!\n제가 질문의 취지를 잘 파악한 것인지는 모르겠으나 위 코드는 강의 중 실습 코드가 아니라 직접 돌려보시다가 의문이 생겨 질문하신 것이 맞을까요?\n강의 중 내용을 질문한 것인데 제가 놓친 것이 있을까 싶어 여쭤봅니다!\n\n우선, valid_func과 train_func의 가장 큰 차이점은 모델의 파라미터 (weight 값)을 고정시켰느냐 아니냐 입니다.\nvalid_func의 경우 가장 처음에 "
+                            },
+                            {
+                                "type": "text",
+                                "text": "model.eval()",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " 을 시키고 이후 모델 inference 시에는 "
+                            },
+                            {
+                                "type": "text",
+                                "text": "with ",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/torch.no",
+                                "text": "torch.no",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "_grad()",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " 를 통해서 모델의 파라미터가 고정되도록 만들어 줍니다.\n따라서 valid_func의 결과는 pretrained weight의 값을 그대로 사용한 결과를 얻을 수 있게 되는 것입니다.\n\n반면에 train_func의 경우 "
+                            },
+                            {
+                                "type": "text",
+                                "text": "model.train()",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " 을 시키고 model 추론 결과를 얻게 되는데요,\n이 경우 model의 파라미터 값은 기존 pretrained weight에서 바뀌게 될 것이기 때문에 전과 같은 결과를 얻을 수 없는 것입니다.\n\n아마 질문의 경우 그렇다 하더라도 0.9에서 0.6까지 너무 큰 폭으로 성능이 떨어진 것이 궁금하셨던 것 같은데요!\n여기에는 다양한 training setting이 영향을 미칠 수 있습니다.\n예를 들어서, 학습할 때 처음에는 큰 값의 learning rate로 학습을 시키다가 점점 더 작은 learning rate로 학습을 시키는 경우가 많습니다.\n만약 pretrained weight를 학습시킬 때 1e-2의 lr에서 1e-4로 감소시키면서 학습을 시켰다고 가정해 봅시다.\n그러면 pretrianed weight가 저장된 시점 쯤에는 1e-4의 작은 lr로 학습시킨 파라미터 값들이 저장되었을 것입니다.\n하지만 해당 weight를 불러와서 다시 큰 lr로 train_func를 불러오게 되면 기존 파라미터 값에서 많은 수치 변경이 일어나게 될 것입니다.\n\n따라서 pretrained weight을 불러와서 학습하는 경우(=\"fine-tuning\"을 한다라고 말하기도 합니다) lr을 설정할 때 \"기존 weight의 값을 얼마나 보존하고 싶냐\"에 따라서 정하는 것이 좋습니다.\npretraining이 아주 잘되어서 task에 맞게 아주 조금만 수치 변경을 하고 싶을 경우 시작부터 기존에 사용하는 것보다 더 낮은 lr을 부여하여 성능 보존을 할 수도 있고,\npretraining weight를 사용하더라도 좀 더 내가 하고자 하는 task에 맞게 많은 변경을 하고 싶을 경우 기존에 사용하는 lr을 부여하면 좋을 것 같습니다.\n\n혹시 추가 질문이 있으시다면 언제든지 달아주세요!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "star-struck",
+                "users": [
+                    "U05VBQMH3D3"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06FFSA059B",
+        "type": "message",
+        "ts": "1706758430.935489",
+        "edited": {
+            "user": "U06FFSA059B",
+            "ts": "1706758452.000000"
+        },
+        "client_msg_id": "db25c90a-0e4d-4892-8a5b-e8f6e522ac72",
+        "text": "안녕하세요 재현님!\n\n우선 negative anchor에 대한 classification loss를 제외할 경우 가장 우려되는 점은 학습시 trivial solution에 빠지기 쉬울 수 있다는 점입니다.\npositive anchor에 대한 loss만 계산하게 되기 때문에 초반 학습에서 모두 negative anchor (전부 object가 없음)이라고 하면 loss는 줄어들기 때문에 잘못된 trivial solution으로 수렴하게 될 수 있습니다.\n이렇게 초반에 잘못 학습을 하게 되면 계속 학습하더라도 유의미한 결과를 얻을 수 없게 됩니다.\n\n또한 negative anchor에 classification loss를 추가함으로써 'object'와 'non-object' 간의 차이를 잘 학습할 수 있을 것으로 생각됩니다.\n\"물체가 없다\"라고 판단하는 것은 어떤 것들이 \"non-object\"인지를 학습할 수 있게 됩니다.\n이는 object가 다양한 크기, 모양, texture 등을 가질 수 있으므로 학습 데이터 뿐만 아니라 다양한 데이터셋에 대해서도 준수한 성능을 보일 수 있도록 모델의 robustness를 증진시켜 주는 효과를 얻을 수 있을 것 같습니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "5fcbb3a9dd8b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-25\/6541455753969_5fcbb3a9dd8b24fd9a37_72.jpg",
+            "first_name": "강인하",
+            "real_name": "강인하",
+            "display_name": "강인하 멘토",
+            "team": "T05UGFFGL07",
+            "name": "rkswlsj97",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1706755195.579009",
+        "parent_user_id": "U05V5H1T24V",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uyoeT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "안녕하세요 재현님!\n\n우선 negative anchor에 대한 classification loss를 제외할 경우 가장 우려되는 점은 학습시 trivial solution에 빠지기 쉬울 수 있다는 점입니다.\npositive anchor에 대한 loss만 계산하게 되기 때문에 초반 학습에서 모두 negative anchor (전부 object가 없음)이라고 하면 loss는 줄어들기 때문에 잘못된 trivial solution으로 수렴하게 될 수 있습니다.\n이렇게 초반에 잘못 학습을 하게 되면 계속 학습하더라도 유의미한 결과를 얻을 수 없게 됩니다.\n\n또한 negative anchor에 classification loss를 추가함으로써 'object'와 'non-object' 간의 차이를 잘 학습할 수 있을 것으로 생각됩니다.\n\"물체가 없다\"라고 판단하는 것은 어떤 것들이 \"non-object\"인지를 학습할 수 있게 됩니다.\n이는 object가 다양한 크기, 모양, texture 등을 가질 수 있으므로 학습 데이터 뿐만 아니라 다양한 데이터셋에 대해서도 준수한 성능을 보일 수 있도록 모델의 robustness를 증진시켜 주는 효과를 얻을 수 있을 것 같습니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05V5H1T24V",
+        "type": "message",
+        "ts": "1706758528.757349",
+        "client_msg_id": "c62fadf7-6d71-43be-8307-6080034ef87f",
+        "text": "네, 감사합니다 !!!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "7c6706ce6504",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5987883585126_7c6706ce65044c7fba85_72.png",
+            "first_name": "서재현",
+            "real_name": "서재현",
+            "display_name": "서재현",
+            "team": "T05UGFFGL07",
+            "name": "jaehyeon4037",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1706755195.579009",
+        "parent_user_id": "U05V5H1T24V",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GuyNu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "네, 감사합니다 !!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U06FFSA059B"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05VBQMH3D3",
+        "type": "message",
+        "ts": "1706758543.896349",
+        "edited": {
+            "user": "U05VBQMH3D3",
+            "ts": "1706758607.000000"
+        },
+        "client_msg_id": "1b7815fa-58da-4864-a3d4-9690fcd81509",
+        "text": "친절한 답변 정말 감사합니다!!!!!\n강의는 아니고 개인적으로 돌려보다가 질문드린게 맞습니다.\n\n```def train_func(dataloader, model, optimizer, scheduler, loss_fc, scaler):\n    model.train()\n    tra_loss=0\n    tra_dice=0\n    for i, (x, y) in tqdm(enumerate(dataloader), total=len(dataloader), leave=False, ncols=80):\n        if finetune or epoch > start_epoch_val:\n            if epoch_val:\n                if i==0 or (i+1) % cnt == 0:\n                    val_loss, val_dice, best_thr, val_lb_score, val_hit, val_fp = valid_func(val_dl, model, loss_fc)```\ntrain_func에서 dataloader를 돌면서 학습을 하는데요. 1개도 학습하지 않고 바로 평가하도록 했는데 낮더라구요. 물론 lr도 e-10으로 해보기도 했습니다ㅠㅠ\n\n기존학습모델에 추가로 데이터를 학습하려고 하는데 (기존데이터에 추가데이터를 넣어 파인튜닝할것인지, 비율은 어떻게 할것인지, 그냥 추가데이터만으로 파인튜닝할 것인지 등등 고민이 많은데) 일단 먼저 검증이 저렇게 나오니, 질문드렸습니다.\n말씀하신것처럼 lr을 낮게하려고 하는데 lr을 낮게하면 검증이 낮은 상태에서 계속 학습을 해도 0.7정도밖에 올라가지 않습니다. 그래서 처음 metric이 낮게 시작하는걸 해결을 해야할거 같은데 어디가 문제인지 모르겠습니다ㅠㅠ",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "16da4e28d6c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/6003210685524_16da4e28d6c4ea33bae5_72.png",
+            "first_name": "HB",
+            "real_name": "HB",
+            "display_name": "엄효범",
+            "team": "T05UGFFGL07",
+            "name": "swema86",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1706741942.877489",
+        "parent_user_id": "U05VBQMH3D3",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "f8sHR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "친절한 답변 정말 감사합니다!!!!!\n강의는 아니고 개인적으로 돌려보다가 질문드린게 맞습니다.\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "def train_func(dataloader, model, optimizer, scheduler, loss_fc, scaler):\n    model.train()\n    tra_loss=0\n    tra_dice=0\n    for i, (x, y) in tqdm(enumerate(dataloader), total=len(dataloader), leave=False, ncols=80):\n        if finetune or epoch > start_epoch_val:\n            if epoch_val:\n                if i==0 or (i+1) % cnt == 0:\n                    val_loss, val_dice, best_thr, val_lb_score, val_hit, val_fp = valid_func(val_dl, model, loss_fc)"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "train_func에서 dataloader를 돌면서 학습을 하는데요. 1개도 학습하지 않고 바로 평가하도록 했는데 낮더라구요. 물론 lr도 e-10으로 해보기도 했습니다ㅠㅠ\n\n기존학습모델에 추가로 데이터를 학습하려고 하는데 (기존데이터에 추가데이터를 넣어 파인튜닝할것인지, 비율은 어떻게 할것인지, 그냥 추가데이터만으로 파인튜닝할 것인지 등등 고민이 많은데) 일단 먼저 검증이 저렇게 나오니, 질문드렸습니다.\n말씀하신것처럼 lr을 낮게하려고 하는데 lr을 낮게하면 검증이 낮은 상태에서 계속 학습을 해도 0.7정도밖에 올라가지 않습니다. 그래서 처음 metric이 낮게 시작하는걸 해결을 해야할거 같은데 어디가 문제인지 모르겠습니다ㅠㅠ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06FFSA059B",
+        "type": "message",
+        "ts": "1706758938.209709",
+        "edited": {
+            "user": "U06FFSA059B",
+            "ts": "1706758993.000000"
+        },
+        "client_msg_id": "d972fa04-906a-4f16-81ed-fe892a2769dd",
+        "text": "그런 문제라면 다른 finetuning 방법을 사용해 보는 것이 좋을 것 같은데요,\nlr을 낮춰서 fine-tuning할 수도 있지만 아래와 같이 일부 layer의 parameter 값을 fix시키고 일부 레이어만 parameter 값을 update하는 방식을 채택해도 좋을 것 같습니다.\n(이 경우 기존 pretrained weight의 성능을 더 보존하는 방식으로 재학습할 수 있습니다)\n```model_ft = models.resnet50(pretrained=True)\nct = 0\nfor child in model_ft.children():\nct += 1\nif ct < 7:\n    for param in child.parameters():\n        param.requires_grad = False```",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "5fcbb3a9dd8b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-25\/6541455753969_5fcbb3a9dd8b24fd9a37_72.jpg",
+            "first_name": "강인하",
+            "real_name": "강인하",
+            "display_name": "강인하 멘토",
+            "team": "T05UGFFGL07",
+            "name": "rkswlsj97",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1706741942.877489",
+        "parent_user_id": "U05VBQMH3D3",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5K6c6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "그런 문제라면 다른 finetuning 방법을 사용해 보는 것이 좋을 것 같은데요,\nlr을 낮춰서 fine-tuning할 수도 있지만 아래와 같이 일부 layer의 parameter 값을 fix시키고 일부 레이어만 parameter 값을 update하는 방식을 채택해도 좋을 것 같습니다.\n(이 경우 기존 pretrained weight의 성능을 더 보존하는 방식으로 재학습할 수 있습니다)\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "model_ft = models.resnet50(pretrained=True)\nct = 0\nfor child in model_ft.children():\nct += 1\nif ct < 7:\n    for param in child.parameters():\n        param.requires_grad = False"
+                            }
+                        ],
+                        "border": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05VBQMH3D3",
+        "type": "message",
+        "ts": "1706759168.811779",
+        "client_msg_id": "f59c7d62-1105-4840-a229-4c98b9470da9",
+        "text": "감사합니다! 동결도 고려중이긴한데, 일단 어디서 문제가 발생한건지 원인을 찾아야될거같아서요...ㅠㅠ metric 0.9나오던걸 lr 1e-10으로 몇개 학습시켰다고 metric이 0.6으로 뚝 떨어지는건 말이 안되니까요...",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "16da4e28d6c4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/6003210685524_16da4e28d6c4ea33bae5_72.png",
+            "first_name": "HB",
+            "real_name": "HB",
+            "display_name": "엄효범",
+            "team": "T05UGFFGL07",
+            "name": "swema86",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1706741942.877489",
+        "parent_user_id": "U05VBQMH3D3",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hEGY7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "감사합니다! 동결도 고려중이긴한데, 일단 어디서 문제가 발생한건지 원인을 찾아야될거같아서요...ㅠㅠ metric 0.9나오던걸 lr 1e-10으로 몇개 학습시켰다고 metric이 0.6으로 뚝 떨어지는건 말이 안되니까요..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06FFSA059B",
+        "type": "message",
+        "ts": "1706759386.198809",
+        "client_msg_id": "4b7fcfba-f7a9-43e5-9d60-0b80c506a2f4",
+        "text": "넵 그래도 pretraining에 사용한 학습 데이터셋의 distribution과 fine-tuning에 사용한 학습 데이터셋의 distribution이 다를 경우 초반에 그정도 성능 하락은 있을 수 있을 것 같습니다.\n그리고 1e-10과 같이 매우 작은 lr로 학습하게 되면 초반에 학습한 데이터에 완전 overfitting되어서 더욱 성능이 낮아보이는 것일 수도 있고요..!\n어떤 task, model, dataset을 쓰느냐에 따라 다르겠지만 1e-4~1e-6 사이로 설정하는 것이 안전할 것 같습니다..!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "5fcbb3a9dd8b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-25\/6541455753969_5fcbb3a9dd8b24fd9a37_72.jpg",
+            "first_name": "강인하",
+            "real_name": "강인하",
+            "display_name": "강인하 멘토",
+            "team": "T05UGFFGL07",
+            "name": "rkswlsj97",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1706741942.877489",
+        "parent_user_id": "U05VBQMH3D3",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gWa2d",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "넵 그래도 pretraining에 사용한 학습 데이터셋의 distribution과 fine-tuning에 사용한 학습 데이터셋의 distribution이 다를 경우 초반에 그정도 성능 하락은 있을 수 있을 것 같습니다.\n그리고 1e-10과 같이 매우 작은 lr로 학습하게 되면 초반에 학습한 데이터에 완전 overfitting되어서 더욱 성능이 낮아보이는 것일 수도 있고요..!\n어떤 task, model, dataset을 쓰느냐에 따라 다르겠지만 1e-4~1e-6 사이로 설정하는 것이 안전할 것 같습니다..!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "<@U06FFSA059B>  멘토님 안녕하세요 ! 질문이 있습니다.\n\nfaster R-CNN은 fast R-CNN과 다르게 selective search 대신에 신경망이 직접 객체가 있다고 생각하는 잠재적 영역을 제안하는 RPN이 있는 것이 차이점인데요. 이를 위해 1번째 사진과 같이 원본 사진에 대해서 그리드별로 9개의 Anchor box를 만드는 것으로 이해했습니다. 여기서 질문이 있는데요.\n\n• 2번째 사진처럼 RPN은 원본 사진을 input으로 넣는게 아니라 CNN을 통해 나온 feature map이 인풋으로 들어가고 output으로는 각 “앵커박스“에 대한 객체 여부(class score), 바운딩박스(bounding box regressor)를 output으로 내놓는다고 하는데 feature map은 cnn을 통해서 생성된 것이고 anchor box는 원본 이미지에 대해서 그려진 것인데 일종의 서로 다른 space에 있는 것들을 어떻게 처리해서 학습이 진행되는 것인가요?",
+        "files": [
+            {
+                "id": "F06GMVB8PU3",
+                "created": 1706766906,
+                "timestamp": 1706766906,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U05UWVA90H4",
+                "user_team": "T05UGFFGL07",
+                "editable": false,
+                "size": 514211,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F06GMVB8PU3\/image.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F06GMVB8PU3\/download\/image.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06GMVB8PU3-f58421f3bc\/image_64.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06GMVB8PU3-f58421f3bc\/image_80.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06GMVB8PU3-f58421f3bc\/image_360.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_360_w": 360,
+                "thumb_360_h": 156,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06GMVB8PU3-f58421f3bc\/image_480.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_480_w": 480,
+                "thumb_480_h": 208,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06GMVB8PU3-f58421f3bc\/image_160.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06GMVB8PU3-f58421f3bc\/image_720.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_720_w": 720,
+                "thumb_720_h": 312,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06GMVB8PU3-f58421f3bc\/image_800.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_800_w": 800,
+                "thumb_800_h": 346,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06GMVB8PU3-f58421f3bc\/image_960.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_960_w": 960,
+                "thumb_960_h": 415,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06GMVB8PU3-f58421f3bc\/image_1024.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 443,
+                "original_w": 1530,
+                "original_h": 662,
+                "thumb_tiny": "AwAUADDTNJ260HrR2oAPxpGYKMk4oqO4OIxQAvnL605HDE4Oaokv6j8qsWhO580rgWaMUUUwDFIQCMEZ+tLRQA3y1\/uj8qUADoAKWigD\/9k=",
+                "permalink": "https:\/\/fcupstageai1.slack.com\/files\/U05UWVA90H4\/F06GMVB8PU3\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T05UGFFGL07-F06GMVB8PU3-a894d3fdca",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            },
+            {
+                "id": "F06HASF4Z3J",
+                "created": 1706767040,
+                "timestamp": 1706767040,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U05UWVA90H4",
+                "user_team": "T05UGFFGL07",
+                "editable": false,
+                "size": 111666,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F06HASF4Z3J\/image.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F06HASF4Z3J\/download\/image.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06HASF4Z3J-3da507db02\/image_64.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06HASF4Z3J-3da507db02\/image_80.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06HASF4Z3J-3da507db02\/image_360.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_360_w": 360,
+                "thumb_360_h": 164,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06HASF4Z3J-3da507db02\/image_480.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_480_w": 480,
+                "thumb_480_h": 219,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06HASF4Z3J-3da507db02\/image_160.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06HASF4Z3J-3da507db02\/image_720.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_720_w": 720,
+                "thumb_720_h": 329,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06HASF4Z3J-3da507db02\/image_800.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_800_w": 800,
+                "thumb_800_h": 365,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06HASF4Z3J-3da507db02\/image_960.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_960_w": 960,
+                "thumb_960_h": 438,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F06HASF4Z3J-3da507db02\/image_1024.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 468,
+                "original_w": 1642,
+                "original_h": 750,
+                "thumb_tiny": "AwAVADDTpHbaucE\/SmyGQK3lgE44zSruONwA45x60AISQOMfjTt3OOaQqD1pWyBkcn0oAM89KWoiT39R0qQZyemO1AC0UUUAITg0A5pG60L3oAXAzS0UUAf\/2Q==",
+                "permalink": "https:\/\/fcupstageai1.slack.com\/files\/U05UWVA90H4\/F06HASF4Z3J\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T05UGFFGL07-F06HASF4Z3J-68ce48e724",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U05UWVA90H4",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PLbf2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06FFSA059B"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  멘토님 안녕하세요 ! 질문이 있습니다.\n\nfaster R-CNN은 fast R-CNN과 다르게 selective search 대신에 신경망이 직접 객체가 있다고 생각하는 잠재적 영역을 제안하는 RPN이 있는 것이 차이점인데요. 이를 위해 1번째 사진과 같이 원본 사진에 대해서 그리드별로 9개의 Anchor box를 만드는 것으로 이해했습니다. 여기서 질문이 있는데요.\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "2번째 사진처럼 RPN은 원본 사진을 input으로 넣는게 아니라 CNN을 통해 나온 feature map이 인풋으로 들어가고 output으로는 각 “앵커박스“에 대한 객체 여부(class score), 바운딩박스(bounding box regressor)를 output으로 내놓는다고 하는데 feature map은 cnn을 통해서 생성된 것이고 anchor box는 원본 이미지에 대해서 그려진 것인데 일종의 서로 다른 space에 있는 것들을 어떻게 처리해서 학습이 진행되는 것인가요?"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1706768252.176969",
+        "edited": {
+            "user": "U05UWVA90H4",
+            "ts": "1706769357.000000"
+        },
+        "client_msg_id": "555b38ae-43c6-41e0-8799-1bdb280752a0",
+        "thread_ts": "1706768252.176969",
+        "reply_count": 4,
+        "reply_users_count": 2,
+        "latest_reply": "1706778696.153819",
+        "reply_users": [
+            "U06FFSA059B",
+            "U05UWVA90H4"
+        ],
+        "replies": [
+            {
+                "user": "U06FFSA059B",
+                "ts": "1706773311.978339"
+            },
+            {
+                "user": "U05UWVA90H4",
+                "ts": "1706776222.769989"
+            },
+            {
+                "user": "U06FFSA059B",
+                "ts": "1706778644.128149"
+            },
+            {
+                "user": "U05UWVA90H4",
+                "ts": "1706778696.153819"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U06FFSA059B"
+                ],
+                "count": 1
+            },
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U06FFSA059B"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06FFSA059B",
+        "type": "message",
+        "ts": "1706773311.978339",
+        "edited": {
+            "user": "U06FFSA059B",
+            "ts": "1706773498.000000"
+        },
+        "client_msg_id": "7ead4a42-2fe5-469c-9bcf-b13611cfe39f",
+        "text": "안녕하세요, 준형님!\n\n강의 및 참고 자료에서는 이해를 돕기 위해 이미지 상에 anchor box를 표기한 것입니다. 실제로는 말씀주신 것 처럼 feature map space 상에서 anchor box가 정의되는게 맞습니다!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "5fcbb3a9dd8b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-25\/6541455753969_5fcbb3a9dd8b24fd9a37_72.jpg",
+            "first_name": "강인하",
+            "real_name": "강인하",
+            "display_name": "강인하 멘토",
+            "team": "T05UGFFGL07",
+            "name": "rkswlsj97",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1706768252.176969",
+        "parent_user_id": "U05UWVA90H4",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "geCVH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "안녕하세요, 준형님!\n\n강의 및 참고 자료에서는 이해를 돕기 위해 이미지 상에 anchor box를 표기한 것입니다. 실제로는 말씀주신 것 처럼 feature map space 상에서 anchor box가 정의되는게 맞습니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

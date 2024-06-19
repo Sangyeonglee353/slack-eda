@@ -1,0 +1,332 @@
+[
+    {
+        "user": "U065TBUL5EE",
+        "type": "message",
+        "ts": "1701710896.978799",
+        "client_msg_id": "83a990d0-a169-4f59-8ad9-75afe042aaed",
+        "text": "(새벽이라 채널 알림 설정은 하지 않겠습니다)\n제가 무언가.. 몸살 감기에 걸린것같아서.. 혹시 몰라 화요일 &amp; 수요일 오프라인 출강은 못할 것 같습니다.\n요즘 감기 유행이라는데 다들 조심하세요..!\n그리고 오늘 오프라인에서 만난 수강생 2분은 가능하시면 한번 검사해보셔도 좋을 것 같습니다ㅠㅠ 죄송해요.. :pray:",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "34f110a5edc4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-11-14\/6197301711475_34f110a5edc435398e63_72.png",
+            "first_name": "김용담",
+            "real_name": "김용담",
+            "display_name": "김용담 강사",
+            "team": "T05UGFFGL07",
+            "name": "codingiscoffee",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Sz6ES",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "(새벽이라 채널 알림 설정은 하지 않겠습니다)\n제가 무언가.. 몸살 감기에 걸린것같아서.. 혹시 몰라 화요일 & 수요일 오프라인 출강은 못할 것 같습니다.\n요즘 감기 유행이라는데 다들 조심하세요..!\n그리고 오늘 오프라인에서 만난 수강생 2분은 가능하시면 한번 검사해보셔도 좋을 것 같습니다ㅠㅠ 죄송해요.. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "muscle",
+                "users": [
+                    "U05UWVA90H4",
+                    "U05V7H78DUM",
+                    "U05V561TXUL",
+                    "U05UW74NJ0N",
+                    "U05V9N22ZUK",
+                    "U05V2T62KUJ"
+                ],
+                "count": 6
+            },
+            {
+                "name": "pleading_face",
+                "users": [
+                    "U05V9LP47V0"
+                ],
+                "count": 1
+            },
+            {
+                "name": "대답",
+                "users": [
+                    "U05V7H78DUM"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U065TBUL5EE",
+        "type": "message",
+        "ts": "1701737962.841949",
+        "client_msg_id": "088cddad-abaa-405a-bf81-396a9007554e",
+        "text": "<!channel>\n저의 도움이 필요하신 분들은 편하게 슬랙으로 dm 주시거나, 채널에서 호출해주세요!\n개인적으로 도와드리거나, zoom 소회의실로 찾아가서 도움드리겠습니다!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "34f110a5edc4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-11-14\/6197301711475_34f110a5edc435398e63_72.png",
+            "first_name": "김용담",
+            "real_name": "김용담",
+            "display_name": "김용담 강사",
+            "team": "T05UGFFGL07",
+            "name": "codingiscoffee",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eiqNW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n저의 도움이 필요하신 분들은 편하게 슬랙으로 dm 주시거나, 채널에서 호출해주세요!\n개인적으로 도와드리거나, zoom 소회의실로 찾아가서 도움드리겠습니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U05V9N22ZUK",
+                    "U05V2T62KUJ"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U05VADPQPCL",
+        "type": "message",
+        "ts": "1701747375.506589",
+        "client_msg_id": "c054d9b5-a9ec-4ae1-96fc-a4a743c6bc4a",
+        "text": "<@U05V7V2AV8A> <@U0600BP2J9H> <@U05V2PMAVNE> <@U05VDDP88BW> <@U05UZPKCGBZ> <@U05UUUNAE5D> <@U05V2P37518> <@U0600C60ZK4> 프로젝트 노션 생성 부탁 드립니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "07e7ca00b8f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5991092857253_07e7ca00b8f0d0b13ba1_72.png",
+            "first_name": "패스트캠퍼스박기준",
+            "real_name": "패스트캠퍼스박기준",
+            "display_name": "LM 박기준",
+            "team": "T05UGFFGL07",
+            "name": "pgj.fc.career",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1701656562.182179",
+        "parent_user_id": "U05VADPQPCL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4heR1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05V7V2AV8A"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0600BP2J9H"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05V2PMAVNE"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05VDDP88BW"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05UZPKCGBZ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05UUUNAE5D"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05V2P37518"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0600C60ZK4"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 프로젝트 노션 생성 부탁 드립니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U065TBUL5EE",
+        "type": "message",
+        "ts": "1701748213.622609",
+        "client_msg_id": "70d86e70-f4bf-418b-a175-ce23c89416b3",
+        "text": "<!channel>\n모두 점심 맛있게 드시고 2시에 봬요!!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "34f110a5edc4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-11-14\/6197301711475_34f110a5edc435398e63_72.png",
+            "first_name": "김용담",
+            "real_name": "김용담",
+            "display_name": "김용담 강사",
+            "team": "T05UGFFGL07",
+            "name": "codingiscoffee",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zXQ5L",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n모두 점심 맛있게 드시고 2시에 봬요!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "대답",
+                "users": [
+                    "U05V7H78DUM",
+                    "U05V561TXUL",
+                    "U05V5B27DK7",
+                    "U05V2T62KUJ",
+                    "U05UZLEM04V",
+                    "U060JMX5FK2"
+                ],
+                "count": 6
+            }
+        ]
+    },
+    {
+        "user": "U060H4V0Q5S",
+        "type": "message",
+        "ts": "1701754095.876909",
+        "client_msg_id": "a6eff331-7971-4b00-9947-a5499b748a22",
+        "text": "<@U065TBUL5EE> 6조 누전차단기 팀 질문 있습니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "3d85b1738502",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-09\/6000180384871_3d85b1738502fdcd6aa2_72.png",
+            "first_name": "진성준",
+            "real_name": "진성준",
+            "display_name": "진성준",
+            "team": "T05UGFFGL07",
+            "name": "usniz300",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "m\/SVz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U065TBUL5EE"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 6조 누전차단기 팀 질문 있습니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U065TBUL5EE"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

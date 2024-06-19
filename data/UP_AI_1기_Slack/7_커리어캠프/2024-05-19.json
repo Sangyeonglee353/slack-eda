@@ -1,0 +1,86 @@
+[
+    {
+        "user": "U071V329LVD",
+        "type": "message",
+        "ts": "1716164021.825709",
+        "client_msg_id": "9d5cd891-6bca-4ada-a8b2-242adceb2897",
+        "text": "서상혁님 안녕하세요!\n개별 연락은 과정 수료 후 한달 내에 드리고 있습니다!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "7126b09d12fa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-05-13\/7098347063462_7126b09d12fa60e1a30d_72.png",
+            "first_name": "유정미",
+            "real_name": "유정미 매니저",
+            "display_name": "유정미 매니저",
+            "team": "T05UGFFGL07",
+            "name": "jeongmi.yoo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1715337000.095219",
+        "parent_user_id": "U071V329LVD",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ULvwq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "서상혁님 안녕하세요!\n개별 연락은 과정 수료 후 한달 내에 드리고 있습니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U060BLVQYHW",
+        "type": "message",
+        "ts": "1716168305.324889",
+        "client_msg_id": "8f9b5059-acbf-4b5a-a849-dc941e566c48",
+        "text": "<@U071V329LVD> 감사합니다!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "g6cb970458b5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6cb970458b5672091fa231bd078f93da.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+            "first_name": "Sang",
+            "real_name": "Sang Hyuk SEO",
+            "display_name": "서상혁",
+            "team": "T05UGFFGL07",
+            "name": "happer96",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1715337000.095219",
+        "parent_user_id": "U071V329LVD",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bfbBZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U071V329LVD"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 감사합니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

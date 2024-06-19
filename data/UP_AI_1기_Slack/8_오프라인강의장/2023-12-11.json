@@ -1,0 +1,152 @@
+[
+    {
+        "user": "U05V561TXUL",
+        "type": "message",
+        "ts": "1702290078.363749",
+        "client_msg_id": "1a41d1da-e3c1-45a0-9c40-d4561f545b91",
+        "text": "12\/12 강의장 이용 신청합니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "b4604568d88f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-01-08\/6448187852305_b4604568d88f0ae3e9b1_72.png",
+            "first_name": "최장원",
+            "real_name": "최장원",
+            "display_name": "",
+            "team": "T05UGFFGL07",
+            "name": "cjw7378",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "srPWW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "12\/12 강의장 이용 신청합니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U065TBUL5EE"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05V2HL22M9",
+        "type": "message",
+        "ts": "1702344693.125399",
+        "client_msg_id": "0dfd79cf-1155-4e55-9fd6-6735cedf4428",
+        "text": "12\/13\n• ML 10조 URSA  팀 전체 강의장 이용 신청합니다.\n• 김도연\/김다운\/서상혁\/신동혁 (4명)",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "1dcddf110806",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5996462649172_1dcddf110806f3a037a7_72.png",
+            "first_name": "김도연",
+            "real_name": "김도연",
+            "display_name": "김도연",
+            "team": "T05UGFFGL07",
+            "name": "lottie_eve",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1702344693.125399",
+        "reply_count": 4,
+        "reply_users_count": 3,
+        "latest_reply": "1702429637.712519",
+        "reply_users": [
+            "U065TBUL5EE",
+            "U060BLVQYHW",
+            "U05V2HL22M9"
+        ],
+        "replies": [
+            {
+                "user": "U065TBUL5EE",
+                "ts": "1702429560.004609"
+            },
+            {
+                "user": "U060BLVQYHW",
+                "ts": "1702429618.123619"
+            },
+            {
+                "user": "U05V2HL22M9",
+                "ts": "1702429625.853389"
+            },
+            {
+                "user": "U065TBUL5EE",
+                "ts": "1702429637.712519"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yJlDy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "12\/13\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "ML 10조 URSA  팀 전체 강의장 이용 신청합니다."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "김도연\/김다운\/서상혁\/신동혁 (4명)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U05VADPQPCL",
+                    "U065TBUL5EE"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

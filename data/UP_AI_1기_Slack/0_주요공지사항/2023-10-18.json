@@ -1,0 +1,352 @@
+[
+    {
+        "user": "U05UT0JG4BZ",
+        "type": "message",
+        "ts": "1697690463.835489",
+        "client_msg_id": "ce2e8348-7368-43dd-b487-8963c4bc24fd",
+        "text": "이전에 드라이브에 접근할 수 있었는데 지금 다시 들어가려 시도해보니까 엑세스 권한이 사라졌습니다. 다시한번 접근 권한 부탁드리겠습니다 구글 아이디 <mailto:ekdns7500@gamil.com|ekdns7500@gamil.com> 입니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "g9153b403f05",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/9153b403f05c51f82cac8dec3d6d8e3a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "김다운",
+            "real_name": "김다운",
+            "display_name": "김다운",
+            "team": "T05UGFFGL07",
+            "name": "ekdns7500",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696927968.949459",
+        "parent_user_id": "U06061L4S64",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bh\/5T",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "이전에 드라이브에 접근할 수 있었는데 지금 다시 들어가려 시도해보니까 엑세스 권한이 사라졌습니다. 다시한번 접근 권한 부탁드리겠습니다 구글 아이디 "
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:ekdns7500@gamil.com",
+                                "text": "ekdns7500@gamil.com"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 입니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U06061L4S64"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06061L4S64",
+        "type": "message",
+        "ts": "1697690506.029219",
+        "client_msg_id": "0b95ed2c-ffc9-460d-a6f1-c26a48776c09",
+        "text": "<@U05UT0JG4BZ> 다운님 공유 방식을 바꿔서 엑세스 요청드리면 다시 승인하겠습니다!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "9958a6e7ea98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5988755251283_9958a6e7ea98545615ca_72.png",
+            "first_name": "LM",
+            "real_name": "LM 박진영",
+            "display_name": "LM 박진영",
+            "team": "T05UGFFGL07",
+            "name": "pjy.fc.career",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696927968.949459",
+        "parent_user_id": "U06061L4S64",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fu\/eZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05UT0JG4BZ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 다운님 공유 방식을 바꿔서 엑세스 요청드리면 다시 승인하겠습니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05UT0JG4BZ",
+        "type": "message",
+        "ts": "1697690529.138799",
+        "client_msg_id": "2d836436-75c5-47a3-9314-450626ceea72",
+        "text": "<@U06061L4S64> 감사합니다",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "g9153b403f05",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/9153b403f05c51f82cac8dec3d6d8e3a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "김다운",
+            "real_name": "김다운",
+            "display_name": "김다운",
+            "team": "T05UGFFGL07",
+            "name": "ekdns7500",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696927968.949459",
+        "parent_user_id": "U06061L4S64",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "slAi6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06061L4S64"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 감사합니다"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06061L4S64",
+        "type": "message",
+        "ts": "1697690649.480609",
+        "client_msg_id": "1799b842-7837-4892-ba42-7cb27f04385d",
+        "text": "요청주셨나요?",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "9958a6e7ea98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5988755251283_9958a6e7ea98545615ca_72.png",
+            "first_name": "LM",
+            "real_name": "LM 박진영",
+            "display_name": "LM 박진영",
+            "team": "T05UGFFGL07",
+            "name": "pjy.fc.career",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696927968.949459",
+        "parent_user_id": "U06061L4S64",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "benPB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "요청주셨나요?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U060LG0BT89",
+        "type": "message",
+        "ts": "1697690658.713509",
+        "edited": {
+            "user": "U060LG0BT89",
+            "ts": "1697690684.000000"
+        },
+        "client_msg_id": "297bf80f-652e-4b05-a7f8-aa927003e51e",
+        "text": "네 (동문서답)",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "g273c76b80b5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/273c76b80b5c013cab6c608d10041dd4.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "김준호",
+            "real_name": "김준호",
+            "display_name": "",
+            "team": "T05UGFFGL07",
+            "name": "demyank88",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696927968.949459",
+        "parent_user_id": "U06061L4S64",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Af7yn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "네 (동문서답)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05UT0JG4BZ",
+        "type": "message",
+        "ts": "1697690690.100939",
+        "client_msg_id": "de801aef-49c3-4e4f-a07d-169ab0bd1aa7",
+        "text": "방금 요청 드렸습니다",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "g9153b403f05",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/9153b403f05c51f82cac8dec3d6d8e3a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "김다운",
+            "real_name": "김다운",
+            "display_name": "김다운",
+            "team": "T05UGFFGL07",
+            "name": "ekdns7500",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696927968.949459",
+        "parent_user_id": "U06061L4S64",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IdcL6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "방금 요청 드렸습니다"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06061L4S64",
+        "type": "message",
+        "ts": "1697690700.481689",
+        "client_msg_id": "e5a579db-54dd-490e-890b-5de709fca9a8",
+        "text": "두분 다 완료했습니다",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "9958a6e7ea98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5988755251283_9958a6e7ea98545615ca_72.png",
+            "first_name": "LM",
+            "real_name": "LM 박진영",
+            "display_name": "LM 박진영",
+            "team": "T05UGFFGL07",
+            "name": "pjy.fc.career",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696927968.949459",
+        "parent_user_id": "U06061L4S64",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VG99O",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "두분 다 완료했습니다"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05UT0JG4BZ",
+        "type": "message",
+        "ts": "1697690712.134919",
+        "client_msg_id": "0a0bc4cf-b060-44ff-9e77-8c5c893844da",
+        "text": "감사합니다",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "g9153b403f05",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/9153b403f05c51f82cac8dec3d6d8e3a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "김다운",
+            "real_name": "김다운",
+            "display_name": "김다운",
+            "team": "T05UGFFGL07",
+            "name": "ekdns7500",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1696927968.949459",
+        "parent_user_id": "U06061L4S64",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tYWKl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "감사합니다"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

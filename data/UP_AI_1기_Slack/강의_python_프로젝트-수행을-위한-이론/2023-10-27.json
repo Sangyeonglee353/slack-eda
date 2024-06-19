@@ -1,0 +1,124 @@
+[
+    {
+        "user": "U06061L4S64",
+        "type": "message",
+        "ts": "1698398329.745079",
+        "client_msg_id": "088c927d-aeb9-4375-877f-73dcf2d9cab0",
+        "text": "강사님 추천 간단하게 app 만들기  - Glide",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "9958a6e7ea98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5988755251283_9958a6e7ea98545615ca_72.png",
+            "first_name": "LM",
+            "real_name": "LM 박진영",
+            "display_name": "LM 박진영",
+            "team": "T05UGFFGL07",
+            "name": "pjy.fc.career",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "o\/uBe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "강사님 추천 간단하게 app 만들기  - Glide"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "금일 진행한 공공데이터 API 코드 입니다.\n한 주동안 고생많으셨습니다 여러분!! :slightly_smiling_face:",
+        "files": [
+            {
+                "id": "F063SF69W5N",
+                "created": 1698400095,
+                "timestamp": 1698400095,
+                "name": "dust_api.py",
+                "title": "dust_api.py",
+                "mimetype": "text\/plain",
+                "filetype": "python",
+                "pretty_type": "Python",
+                "user": "U060VSK7ELC",
+                "user_team": "T05UGFFGL07",
+                "editable": true,
+                "size": 1511,
+                "mode": "snippet",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F063SF69W5N\/dust_api.py?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F063SF69W5N\/download\/dust_api.py?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "permalink": "https:\/\/fcupstageai1.slack.com\/files\/U060VSK7ELC\/F063SF69W5N\/dust_api.py",
+                "permalink_public": "https:\/\/slack-files.com\/T05UGFFGL07-F063SF69W5N-affc93f3cd",
+                "edit_link": "https:\/\/fcupstageai1.slack.com\/files\/U060VSK7ELC\/F063SF69W5N\/dust_api.py\/edit",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U060VSK7ELC",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ar2MC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "금일 진행한 공공데이터 API 코드 입니다.\n한 주동안 고생많으셨습니다 여러분!! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1698400123.040859",
+        "client_msg_id": "136129ff-2c31-41f1-a878-71a4b46c708f",
+        "reactions": [
+            {
+                "name": "muscle",
+                "users": [
+                    "U05V4KZR3NW",
+                    "U05UWVA90H4",
+                    "U05V379NETU",
+                    "U0600GGHJTC",
+                    "U05V7H78DUM",
+                    "U05V9LP47V0"
+                ],
+                "count": 6
+            },
+            {
+                "name": "eevee",
+                "users": [
+                    "U06061L4S64",
+                    "U05V7H78DUM"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

@@ -1,0 +1,229 @@
+[
+    {
+        "user": "U05VADPQPCL",
+        "type": "message",
+        "ts": "1702261987.959489",
+        "client_msg_id": "7f7299ed-1e09-49b9-b0c2-9ea72a7338d4",
+        "text": "*<!channel> 12\/11 2차 아이데이션 작성 공지*\n금일 팀 별 각 노션 페이지에 있는 2차 아이데이션 작성일 입니다!\n*개인 참여자 분들도 필수*로 꼭 작성 부탁 드리며 *금일 18시*까지 작성 부탁 드리겠습니다.\n관련 문의 사항은 해당 스레드 댓글로 부탁 드리겠습니다!\n• *각 팀 별 노션 페이지 2차 아이데이션 작성*\n• *기한 : 12\/11 ~18시*\n",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "07e7ca00b8f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5991092857253_07e7ca00b8f0d0b13ba1_72.png",
+            "first_name": "패스트캠퍼스박기준",
+            "real_name": "패스트캠퍼스박기준",
+            "display_name": "LM 박기준",
+            "team": "T05UGFFGL07",
+            "name": "pgj.fc.career",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Npxva",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " 12\/11 2차 아이데이션 작성 공지",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n금일 팀 별 각 노션 페이지에 있는 2차 아이데이션 작성일 입니다!\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "개인 참여자 분들도 필수",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "로 꼭 작성 부탁 드리며"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 금일 18시",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "까지 작성 부탁 드리겠습니다.\n관련 문의 사항은 해당 스레드 댓글로 부탁 드리겠습니다!\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "각 팀 별 노션 페이지 2차 아이데이션 작성",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "기한 : 12\/11 ~18시",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U065TBUL5EE",
+                    "U05V2PMAVNE"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U060TBSJ7DF",
+        "type": "message",
+        "ts": "1702275580.364879",
+        "client_msg_id": "e91a74db-2471-4ed9-9533-aa99ca2c55e3",
+        "text": "15조는 코드 필사 위주로 진행하여 괜찮을 것 같습니다. 감사합니다.\n후에 도움이 필요하거나 모르는 점이 생기면 DM 드리겠습니다~",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "c265f80d1cf6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-10\/6000233533575_c265f80d1cf6a20e4d32_72.jpg",
+            "first_name": "조성운",
+            "real_name": "조성운",
+            "display_name": "",
+            "team": "T05UGFFGL07",
+            "name": "jodory9524",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1702023597.961209",
+        "parent_user_id": "U065TBUL5EE",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "h1QgH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "15조는 코드 필사 위주로 진행하여 괜찮을 것 같습니다. 감사합니다.\n후에 도움이 필요하거나 모르는 점이 생기면 DM 드리겠습니다~"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U065TBUL5EE"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U065TBUL5EE",
+        "type": "message",
+        "ts": "1702275606.250229",
+        "client_msg_id": "f576ba84-650b-4cdd-b402-f784d6687b90",
+        "text": "<@U060TBSJ7DF> 넵 확인했습니다! 감사합니다 :slightly_smiling_face:",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "34f110a5edc4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-11-14\/6197301711475_34f110a5edc435398e63_72.png",
+            "first_name": "김용담",
+            "real_name": "김용담",
+            "display_name": "김용담 강사",
+            "team": "T05UGFFGL07",
+            "name": "codingiscoffee",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1702023597.961209",
+        "parent_user_id": "U065TBUL5EE",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QaLwV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U060TBSJ7DF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 넵 확인했습니다! 감사합니다 "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "대답",
+                "users": [
+                    "U060TBSJ7DF"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

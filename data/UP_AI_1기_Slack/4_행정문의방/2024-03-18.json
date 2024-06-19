@@ -1,0 +1,136 @@
+[
+    {
+        "user": "U05V5H1T24V",
+        "type": "message",
+        "ts": "1710747227.095089",
+        "client_msg_id": "b2db9425-674b-4712-b3dd-2bfb52aaf5ef",
+        "text": "<@U05V81G5ZDY> <@U05UNC6FNK1>\n3\/21 목요일 사랑니 발치로 인한 병가 사용 일정 공유 드립니다.\n추후 필요 서류 제출 후 다시 말씀드리겠습니다 !",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "7c6706ce6504",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5987883585126_7c6706ce65044c7fba85_72.png",
+            "first_name": "서재현",
+            "real_name": "서재현",
+            "display_name": "서재현",
+            "team": "T05UGFFGL07",
+            "name": "jaehyeon4037",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1710747227.095089",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1711010532.571809",
+        "reply_users": [
+            "U05V5H1T24V"
+        ],
+        "replies": [
+            {
+                "user": "U05V5H1T24V",
+                "ts": "1711010532.571809"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Dh9rk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05V81G5ZDY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05UNC6FNK1"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n3\/21 목요일 사랑니 발치로 인한 병가 사용 일정 공유 드립니다.\n추후 필요 서류 제출 후 다시 말씀드리겠습니다 !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pill",
+                "users": [
+                    "U05V81G5ZDY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05V2P37518",
+        "type": "message",
+        "ts": "1710813818.521079",
+        "client_msg_id": "fecd3c9a-d518-4ace-bc6e-b80340633283",
+        "text": "<@U05UNC6FNK1> <@U05V81G5ZDY> 안녕하세요, LM님과 상담 후 24\/03\/21(목요일) 휴가 제출 폼 제출하였습니다.\n확인 부탁드립니다!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "cc6bb0a6327a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5988791489650_cc6bb0a6327a06ec59ab_72.png",
+            "first_name": "배창현",
+            "real_name": "배창현",
+            "display_name": "",
+            "team": "T05UGFFGL07",
+            "name": "bae951753",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/uxV1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05UNC6FNK1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05V81G5ZDY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 안녕하세요, LM님과 상담 후 24\/03\/21(목요일) 휴가 제출 폼 제출하였습니다.\n확인 부탁드립니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "beach_with_umbrella",
+                "users": [
+                    "U05V81G5ZDY",
+                    "U05UNC6FNK1"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

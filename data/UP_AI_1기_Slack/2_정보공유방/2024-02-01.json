@@ -1,0 +1,185 @@
+[
+    {
+        "user": "U05UWVA90H4",
+        "type": "message",
+        "ts": "1706778573.254849",
+        "client_msg_id": "43766895-bdb4-4fc0-a714-580be507ace8",
+        "text": "*자료 공유*\n\nFaster R-CNN 설명이 강의에서 엄청 빠르게 넘어가서 이해가 어려웠는데 이 영상이 찾아본 정보 중에 제일 상세하게 설명해주어서 공유드립니다.\n<https:\/\/www.youtube.com\/watch?v=ZhvU7D_qKO8>\n\nYOLO는 이 영상이 제일 이해하기 쉬워서 같이 공유드립니다.\n• <https:\/\/www.youtube.com\/watch?v=lxyCUfn_p4Q>\n• <https:\/\/www.youtube.com\/watch?v=ccnL_ODHfys>\n• 자료(<https:\/\/www.slideshare.net\/ssuser67be14\/yolo-v1-241861792>)",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "e039a582c034",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5983012631430_e039a582c03450d83dc6_72.png",
+            "first_name": "이준형",
+            "real_name": "이준형",
+            "display_name": "이준형",
+            "team": "T05UGFFGL07",
+            "name": "hewberryd8",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.youtube.com\/watch?v=ZhvU7D_qKO8",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/ZhvU7D_qKO8\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/ZhvU7D_qKO8?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen title=\"[Paper Review] Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks\"><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=ZhvU7D_qKO8",
+                "fallback": "YouTube Video: [Paper Review] Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks",
+                "title": "[Paper Review] Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=ZhvU7D_qKO8",
+                "author_name": "고려대학교 산업경영공학부 DSBA 연구실",
+                "author_link": "https:\/\/www.youtube.com\/@dsba2979",
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/"
+            },
+            {
+                "from_url": "https:\/\/www.youtube.com\/watch?v=lxyCUfn_p4Q",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/lxyCUfn_p4Q\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "video_html": "<iframe width=\"400\" height=\"300\" src=\"https:\/\/www.youtube.com\/embed\/lxyCUfn_p4Q?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen title=\"YOLO 사람처럼 한번에 파악! | AI 인공지능 이미지 객체탐지 &#39;You Only Look Once: Unified, Real-Time Object Detection&#39; 논문 리뷰\"><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 300,
+                "id": 2,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=lxyCUfn_p4Q",
+                "fallback": "YouTube Video: YOLO 사람처럼 한번에 파악! | AI 인공지능 이미지 객체탐지 'You Only Look Once: Unified, Real-Time Object Detection' 논문 리뷰",
+                "title": "YOLO 사람처럼 한번에 파악! | AI 인공지능 이미지 객체탐지 'You Only Look Once: Unified, Real-Time Object Detection' 논문 리뷰",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=lxyCUfn_p4Q",
+                "author_name": "PIEW 9",
+                "author_link": "https:\/\/www.youtube.com\/@piew97",
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/"
+            },
+            {
+                "image_url": "https:\/\/cdn.slidesharecdn.com\/ss_thumbnails\/yolo-210126144014-thumbnail.jpg?width=640&height=640&fit=bounds",
+                "image_width": 640,
+                "image_height": 360,
+                "image_bytes": 7053,
+                "from_url": "https:\/\/www.slideshare.net\/ssuser67be14\/yolo-v1-241861792",
+                "service_icon": "https:\/\/public.slidesharecdn.com\/_next\/static\/media\/favicon.7bc3d920.ico",
+                "thumb_url": "https:\/\/cdn.slidesharecdn.com\/ss_thumbnails\/yolo-210126144014-thumbnail.jpg?width=640&height=640&fit=bounds",
+                "thumb_width": 640,
+                "thumb_height": 360,
+                "id": 4,
+                "original_url": "https:\/\/www.slideshare.net\/ssuser67be14\/yolo-v1-241861792",
+                "fallback": "SlideShare: YOLO v1",
+                "text": "YOLO v1 - Download as a PDF or view online for free",
+                "title": "YOLO v1",
+                "title_link": "https:\/\/www.slideshare.net\/ssuser67be14\/yolo-v1-241861792",
+                "service_name": "SlideShare"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "J2u+0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "자료 공유",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nFaster R-CNN 설명이 강의에서 엄청 빠르게 넘어가서 이해가 어려웠는데 이 영상이 찾아본 정보 중에 제일 상세하게 설명해주어서 공유드립니다.\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=ZhvU7D_qKO8"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nYOLO는 이 영상이 제일 이해하기 쉬워서 같이 공유드립니다.\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/www.youtube.com\/watch?v=lxyCUfn_p4Q"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/www.youtube.com\/watch?v=ccnL_ODHfys"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "자료("
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/www.slideshare.net\/ssuser67be14\/yolo-v1-241861792"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ")"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "귀여운박수",
+                "users": [
+                    "U05V1KVNK0E",
+                    "U05V2P37518",
+                    "U05V7H78DUM",
+                    "U05UNMQ4LP9",
+                    "U05V5H1T24V",
+                    "U05V2T62KUJ",
+                    "U05UZLEM04V",
+                    "U05UW1S4KQE",
+                    "U05VCCSHKHR"
+                ],
+                "count": 9
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U05VAHXECP6",
+                    "U05VBQMH3D3",
+                    "U05V5B27DK7",
+                    "U060D1KJECR",
+                    "U05V2T62KUJ",
+                    "U05UZLEM04V"
+                ],
+                "count": 6
+            }
+        ]
+    }
+]

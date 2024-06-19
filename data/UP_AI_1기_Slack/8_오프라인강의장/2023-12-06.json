@@ -1,0 +1,144 @@
+[
+    {
+        "user": "U05V0106JDT",
+        "type": "message",
+        "ts": "1701856755.280189",
+        "client_msg_id": "49da70ee-e3e6-476c-96e3-787b83e8b8bb",
+        "text": "12\/8 강의장 이용 신청",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "gd7b44870731",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d7b448707312b1f05516b12cfcdc5b63.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "김승호",
+            "real_name": "김승호",
+            "display_name": "",
+            "team": "T05UGFFGL07",
+            "name": "shkim0925",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kU47b",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "12\/8 강의장 이용 신청"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U065TBUL5EE"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05V2T62KUJ",
+        "type": "message",
+        "ts": "1701856766.293819",
+        "client_msg_id": "30bca57c-2867-4733-9533-04ff7806bc45",
+        "text": "12\/8 강의창 이용 신청합니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "ae24066f5a1a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5989305080675_ae24066f5a1a2d78e521_72.jpg",
+            "first_name": "김영천",
+            "real_name": "김영천",
+            "display_name": "김영천",
+            "team": "T05UGFFGL07",
+            "name": "dudcjs2779",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ODoSD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "12\/8 강의창 이용 신청합니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U065TBUL5EE",
+                    "U05V2T62KUJ"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U060D1KJECR",
+        "type": "message",
+        "ts": "1701876138.574799",
+        "client_msg_id": "d2b68287-acaf-4483-b643-30ddfa1e6a74",
+        "text": "12\/7 강의장 이용 신청합니다",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "d024d71b810e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-06\/5993779835878_d024d71b810e837e9532_72.jpg",
+            "first_name": "이현진",
+            "real_name": "이현진",
+            "display_name": "이현진",
+            "team": "T05UGFFGL07",
+            "name": "jinintg",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zVDxz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "12\/7 강의장 이용 신청합니다"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U05VADPQPCL"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

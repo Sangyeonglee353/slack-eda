@@ -1,0 +1,46 @@
+[
+    {
+        "user": "U06022Z2TED",
+        "type": "message",
+        "ts": "1715566719.076199",
+        "client_msg_id": "8def239f-515e-4eba-8cae-2091fe85ddb5",
+        "text": "<@U05VADPQPCL> 매니저님 도착했습니다!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "d62be7ca993c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5991921924404_d62be7ca993c5be99966_72.png",
+            "first_name": "ha",
+            "real_name": "ha ha",
+            "display_name": "김하연",
+            "team": "T05UGFFGL07",
+            "name": "leah8735",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1714636713.244219",
+        "parent_user_id": "U05VADPQPCL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5Pauv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05VADPQPCL"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 매니저님 도착했습니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

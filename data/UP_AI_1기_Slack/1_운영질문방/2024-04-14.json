@@ -1,0 +1,149 @@
+[
+    {
+        "user": "U05VAHXECP6",
+        "type": "message",
+        "ts": "1713147743.931079",
+        "client_msg_id": "92f703a9-936d-459b-9318-4f704daada3e",
+        "text": "<@U05UN5DQ423> 안녕하세요. 성우님!\n해당 건 확인 후 말씀드리겠습니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "50abee101814",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-11\/6044824153712_50abee1018149e21919b_72.jpg",
+            "first_name": "이상영",
+            "real_name": "이상영",
+            "display_name": "FC 이상영 매니저",
+            "team": "T05UGFFGL07",
+            "name": "sangyeong.lee",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712993291.636059",
+        "parent_user_id": "U05UN5DQ423",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LlgYj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05UN5DQ423"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 안녕하세요. 성우님!\n해당 건 확인 후 말씀드리겠습니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05VAHXECP6",
+        "type": "message",
+        "ts": "1713149317.363179",
+        "client_msg_id": "8814f73f-2c4f-4a4f-93d7-b3e298557a92",
+        "text": "<@U05UN5DQ423> 성우님! 현재 누락된 파일 업로드 해두었습니다.\n꼼꼼한 확인 감사드려요. :pray:",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "50abee101814",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-11\/6044824153712_50abee1018149e21919b_72.jpg",
+            "first_name": "이상영",
+            "real_name": "이상영",
+            "display_name": "FC 이상영 매니저",
+            "team": "T05UGFFGL07",
+            "name": "sangyeong.lee",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712993291.636059",
+        "parent_user_id": "U05UN5DQ423",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KBXMg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05UN5DQ423"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 성우님! 현재 누락된 파일 업로드 해두었습니다.\n꼼꼼한 확인 감사드려요. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05UN5DQ423",
+        "type": "message",
+        "ts": "1713149396.235319",
+        "client_msg_id": "d1e3c263-0fc1-4b43-821e-d85c61908d2e",
+        "text": "감사합니다 매니저님 :slightly_smiling_face:",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "602bc2a55d5c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5994828351843_602bc2a55d5c461d5b24_72.png",
+            "first_name": "박성우",
+            "real_name": "박성우",
+            "display_name": "박성우",
+            "team": "T05UGFFGL07",
+            "name": "tjddn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1712993291.636059",
+        "parent_user_id": "U05UN5DQ423",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pqrTV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "감사합니다 매니저님 "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U05VAHXECP6"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,334 @@
+[
+    {
+        "user": "U05UZLEM04V",
+        "type": "message",
+        "ts": "1699318725.533939",
+        "client_msg_id": "95a6c597-37f5-4898-bff0-a8397cfa42df",
+        "text": "<@U05V81G5ZDY> 안녕하세요 11월6일 QR 2회(출근,퇴근) 및 스크린샷 3회(출근, 점심, 퇴근) 모두 다했는데 결석처리 되어 있어서 문의드립니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "25547f3149f8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5988678123971_25547f3149f87fd234ca_72.jpg",
+            "first_name": "권혁찬",
+            "real_name": "권혁찬",
+            "display_name": "권혁찬",
+            "team": "T05UGFFGL07",
+            "name": "gurcks2",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1699318725.533939",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1699331033.770969",
+        "reply_users": [
+            "U05V81G5ZDY",
+            "U05UZLEM04V"
+        ],
+        "replies": [
+            {
+                "user": "U05V81G5ZDY",
+                "ts": "1699319451.022949"
+            },
+            {
+                "user": "U05UZLEM04V",
+                "ts": "1699331033.770969"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XR1d7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05V81G5ZDY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 안녕하세요 11월6일 QR 2회(출근,퇴근) 및 스크린샷 3회(출근, 점심, 퇴근) 모두 다했는데 결석처리 되어 있어서 문의드립니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "U05V81G5ZDY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U060BLVQYHW",
+        "type": "message",
+        "ts": "1699319099.346199",
+        "client_msg_id": "366bbb87-c33a-45fa-ba98-8de6388a5d18",
+        "text": "<@U05V81G5ZDY> 안녕하세요 매너저님, 저도 11월 6일  QR 2회 (출근, 퇴근) 및 스크린샷 3회(출근, 점심, 퇴근) 모두 다했는데 결석처리 되어 있어서 문의 드립니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "g6cb970458b5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6cb970458b5672091fa231bd078f93da.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+            "first_name": "Sang",
+            "real_name": "Sang Hyuk SEO",
+            "display_name": "서상혁",
+            "team": "T05UGFFGL07",
+            "name": "happer96",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1699319099.346199",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1699323404.078859",
+        "reply_users": [
+            "U05V81G5ZDY",
+            "U060BLVQYHW"
+        ],
+        "replies": [
+            {
+                "user": "U05V81G5ZDY",
+                "ts": "1699319480.702449"
+            },
+            {
+                "user": "U060BLVQYHW",
+                "ts": "1699323404.078859"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Lc8Mt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05V81G5ZDY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 안녕하세요 매너저님, 저도 11월 6일  QR 2회 (출근, 퇴근) 및 스크린샷 3회(출근, 점심, 퇴근) 모두 다했는데 결석처리 되어 있어서 문의 드립니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "U05V81G5ZDY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05V81G5ZDY",
+        "type": "message",
+        "ts": "1699319451.022949",
+        "client_msg_id": "fd83dbe4-2249-4e0b-a2c2-cca6ffeae97e",
+        "text": "<@U05UZLEM04V> 안녕하세요 행정 매니저입니다.\n확인 결과 퇴실QR 미체크 되어 결석 된것으로 확인됩니다.\n\n다음 부터는 QR 체크 꼭꼭 한번더 확인 부탁드립니다.\nQR 체크 후 모바일 HRD 출결에서 QR체크 여부 확인 가능합니다!\nQR 체크 했는데 모바일HRD 에서 업데이트 되지 않는다면 한번더 체크 해주시면 됩니다!!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "db1aceeb0d90",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5994058472162_db1aceeb0d9030c57e69_72.jpg",
+            "first_name": "김현우",
+            "real_name": "김현우",
+            "display_name": "FC 김현우 매니저",
+            "team": "T05UGFFGL07",
+            "name": "hyunwoo.kim",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1699318725.533939",
+        "parent_user_id": "U05UZLEM04V",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nTqkj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05UZLEM04V"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 안녕하세요 행정 매니저입니다.\n확인 결과 퇴실QR 미체크 되어 결석 된것으로 확인됩니다.\n\n다음 부터는 QR 체크 꼭꼭 한번더 확인 부탁드립니다.\nQR 체크 후 모바일 HRD 출결에서 QR체크 여부 확인 가능합니다!\nQR 체크 했는데 모바일HRD 에서 업데이트 되지 않는다면 한번더 체크 해주시면 됩니다!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05V81G5ZDY",
+        "type": "message",
+        "ts": "1699319480.702449",
+        "client_msg_id": "9b3d5dce-983e-4e93-a96f-168bde33f53c",
+        "text": "<@U060BLVQYHW> 안녕하세요 행정 매니저입니다.\n확인 결과 퇴실QR 미체크 되어 결석 된것으로 확인됩니다.\n\n다음 부터는 QR 체크 꼭꼭 한번 더 확인 부탁드립니다.\nQR 체크 후 모바일 HRD 출결에서 QR체크 여부 확인 가능합니다!\nQR 체크 했는데 모바일HRD 에서 업데이트 되지 않는다면 한번 더 체크 해주시면 됩니다!!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "db1aceeb0d90",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5994058472162_db1aceeb0d9030c57e69_72.jpg",
+            "first_name": "김현우",
+            "real_name": "김현우",
+            "display_name": "FC 김현우 매니저",
+            "team": "T05UGFFGL07",
+            "name": "hyunwoo.kim",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1699319099.346199",
+        "parent_user_id": "U060BLVQYHW",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Sc8RL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U060BLVQYHW"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 안녕하세요 행정 매니저입니다.\n확인 결과 퇴실QR 미체크 되어 결석 된것으로 확인됩니다.\n\n다음 부터는 QR 체크 꼭꼭 한번 더 확인 부탁드립니다.\nQR 체크 후 모바일 HRD 출결에서 QR체크 여부 확인 가능합니다!\nQR 체크 했는데 모바일HRD 에서 업데이트 되지 않는다면 한번 더 체크 해주시면 됩니다!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U060BLVQYHW",
+        "type": "message",
+        "ts": "1699323404.078859",
+        "client_msg_id": "8c628df9-0936-4931-bac4-c1b9fbe07ee6",
+        "text": "<@U05V81G5ZDY> 넵 알겠습니다 감사합니다!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "g6cb970458b5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6cb970458b5672091fa231bd078f93da.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+            "first_name": "Sang",
+            "real_name": "Sang Hyuk SEO",
+            "display_name": "서상혁",
+            "team": "T05UGFFGL07",
+            "name": "happer96",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1699319099.346199",
+        "parent_user_id": "U060BLVQYHW",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Og2AL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05V81G5ZDY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 넵 알겠습니다 감사합니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1::skin-tone-2",
+                "users": [
+                    "U05V81G5ZDY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05UZLEM04V",
+        "type": "message",
+        "ts": "1699331033.770969",
+        "client_msg_id": "8fd9deb7-53a9-4753-aa34-47823ee58e16",
+        "text": "네 감사합니다",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "25547f3149f8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5988678123971_25547f3149f87fd234ca_72.jpg",
+            "first_name": "권혁찬",
+            "real_name": "권혁찬",
+            "display_name": "권혁찬",
+            "team": "T05UGFFGL07",
+            "name": "gurcks2",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1699318725.533939",
+        "parent_user_id": "U05UZLEM04V",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "X0mVl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "네 감사합니다"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1::skin-tone-2",
+                "users": [
+                    "U05V81G5ZDY"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

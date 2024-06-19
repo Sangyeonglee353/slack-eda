@@ -1,0 +1,683 @@
+[
+    {
+        "user": "U05VAHXECP6",
+        "type": "message",
+        "ts": "1706084157.805799",
+        "client_msg_id": "f340b8ec-003f-4bf1-b52b-6826c63ed322",
+        "text": "<!channel>\n안녕하세요. Upstage AI Lab 1기 수강생 여러분~!\n벌써 내일이면 대회가 종료된다니, 시간이 참 빠르죠.\n다들 경진대회와 함께 제출물도 준비하시느라 바쁘실텐데요.\n마지막까지 화이팅입니다. :muscle::muscle:\n\n대회 종료와 관련하여 여러분들께 안내드릴 사항이 있어 전파드립니다.\n아래 내용 확인 하시고, 대회 잘 마무리 하시길 바라겠습니다. 감사합니다. :pray:\n\n&gt; :up_ai-노션-아이콘: *ML 경진대회 종료 전 주의사항 안내*\n• 최종 제출 파일 선택 : 경진대회 종료 전까지 시간 여유를 두고 리더 권한을 가진 캠퍼가 ‘최종 제출‘을 2개 선택해 주시길 바랍니다. (‘제출’ - ‘내 제출’ 탭에서 선택 가능)\n• 최종 순위 공개 : 최종 순위는 공개되지 않았던 Private 테스트셋을 기반으로 결정되며 최종 리더보드는 프로젝트 종료와 동시에 공개됩니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "50abee101814",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-11\/6044824153712_50abee1018149e21919b_72.jpg",
+            "first_name": "이상영",
+            "real_name": "이상영",
+            "display_name": "FC 이상영 매니저",
+            "team": "T05UGFFGL07",
+            "name": "sangyeong.lee",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nDqBQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n안녕하세요. Upstage AI Lab 1기 수강생 여러분~!\n벌써 내일이면 대회가 종료된다니, 시간이 참 빠르죠.\n다들 경진대회와 함께 제출물도 준비하시느라 바쁘실텐데요.\n마지막까지 화이팅입니다. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "muscle",
+                                "unicode": "1f4aa"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "muscle",
+                                "unicode": "1f4aa"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n대회 종료와 관련하여 여러분들께 안내드릴 사항이 있어 전파드립니다.\n아래 내용 확인 하시고, 대회 잘 마무리 하시길 바라겠습니다. 감사합니다. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "up_ai-노션-아이콘",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " ML 경진대회 종료 전 주의사항 안내",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "최종 제출 파일 선택 : 경진대회 종료 전까지 시간 여유를 두고 리더 권한을 가진 캠퍼가 ‘최종 제출‘을 2개 선택해 주시길 바랍니다. (‘제출’ - ‘내 제출’ 탭에서 선택 가능)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "최종 순위 공개 : 최종 순위는 공개되지 않았던 Private 테스트셋을 기반으로 결정되며 최종 리더보드는 프로젝트 종료와 동시에 공개됩니다."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05VADPQPCL",
+        "type": "message",
+        "ts": "1706151600.913779",
+        "edited": {
+            "user": "U05VADPQPCL",
+            "ts": "1706231980.000000"
+        },
+        "client_msg_id": "bb0512e0-3872-4aed-8d70-2bf8d45a6b85",
+        "text": "<!channel>\n:confetti_ball: *ML 경진대회 세미나 안내* :confetti_ball:\n수강생 여러분들 첫 경진대회를 진행하시느라 고생이 많으십니다!\n금요일에 진행하는 세미나와 관련하여 아래와 같이 진행 예정이니, 준비에 참고하시기 바랍니다.\n\n> *세미나 정보*\n• *일시:*  1\/26(금) 14시 ~ 19시\n• *장소 :* Upstage AI Lab 1기 줌 강의장\n• *참여 대상:*\n    ◦ Upstage AI Lab 1기 수강생 전원\n    ◦ Upstage AI Lab 운영진(LM\/PM)\n    ◦ 김용담 강사님\n> *세미나 진행 방식 & 팀 결과물 제출 안내*\n• 팀 별 발표 할당 시간 : 20분\n    ◦ 팀 별 발표 시간 15분 + 질의 응답 및 피드백 시간 5분\n• 발표 자료 : PPT, PDF\n    ◦ 팀 별 발표 자료 사용\n    ◦ *<https:\/\/docs.google.com\/presentation\/d\/1AmH0S19NkmQIOdeWhrImvhfCwCqSgiHP\/edit?usp=drive_link&ouid=113696352741440851524&rtpof=true&sd=true|팀 발표 자료 템플릿 바로가기>*\n• *팀 결과물 제출 안내*\n    ◦ *<https:\/\/forms.gle\/iu5HEmrTpawmc8AF6|팀 결과물 제출 구글 폼 바로가기>*\n    ◦ ① 발표자료(.ppt or .pdf)와 ② Github Repo 주소 제출 부탁 드리겠습니다.\n    ◦ 기한 : 1\/26(금) 오후 13시 마감\n> *세미나 팀 별 진행 순서*\n• 3팀 - 7팀 - 5팀 - 1팀 - 2팀 - 9팀 - 4팀 - 6팀 - 8팀\n기타 문의 사항은 <#C0606642LHW|1_운영질문방> 에 남겨주시기 바랍니다 :smiley:",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "07e7ca00b8f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5991092857253_07e7ca00b8f0d0b13ba1_72.png",
+            "first_name": "패스트캠퍼스박기준",
+            "real_name": "패스트캠퍼스박기준",
+            "display_name": "LM 박기준",
+            "team": "T05UGFFGL07",
+            "name": "pgj.fc.career",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1706151600.913779",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1706154626.232439",
+        "reply_users": [
+            "U05V9N22ZUK",
+            "U05VADPQPCL"
+        ],
+        "replies": [
+            {
+                "user": "U05V9N22ZUK",
+                "ts": "1706153636.659079"
+            },
+            {
+                "user": "U05VADPQPCL",
+                "ts": "1706154606.793229"
+            },
+            {
+                "user": "U05V9N22ZUK",
+                "ts": "1706154626.232439"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UnHK2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "confetti_ball",
+                                "unicode": "1f38a",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " ML 경진대회 세미나 안내 ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "confetti_ball",
+                                "unicode": "1f38a",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n수강생 여러분들 첫 경진대회를 진행하시느라 고생이 많으십니다!\n금요일에 진행하는 세미나와 관련하여 아래와 같이 진행 예정이니, 준비에 참고하시기 바랍니다.\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "세미나 정보",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "일시:  ",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "1\/26(금) 14시 ~ 19시"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "장소 : ",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "Upstage AI Lab 1기 줌 강의장"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "참여 대상:",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Upstage AI Lab 1기 수강생 전원"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Upstage AI Lab 운영진(LM\/PM)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "김용담 강사님"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "세미나 진행 방식 & 팀 결과물 제출 안내",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "팀 별 발표 할당 시간 : 20분"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "팀 별 발표 시간 15분 + 질의 응답 및 피드백 시간 5분"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "발표 자료 : PPT, PDF"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "팀 별 발표 자료 사용"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/docs.google.com\/presentation\/d\/1AmH0S19NkmQIOdeWhrImvhfCwCqSgiHP\/edit?usp=drive_link&ouid=113696352741440851524&rtpof=true&sd=true",
+                                        "text": "팀 발표 자료 템플릿 바로가기",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "팀 결과물 제출 안내",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/forms.gle\/iu5HEmrTpawmc8AF6",
+                                        "text": "팀 결과물 제출 구글 폼 바로가기",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "① 발표자료(.ppt or .pdf)와 ② Github Repo 주소 제출 부탁 드리겠습니다."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "기한 : 1\/26(금) 오후 13시 마감"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "세미나 팀 별 진행 순서",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "3팀 - 7팀 - 5팀 - 1팀 - 2팀 - 9팀 - 4팀 - 6팀 - 8팀"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n기타 문의 사항은 "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C0606642LHW"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 에 남겨주시기 바랍니다 "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smiley",
+                                "unicode": "1f603"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U065TBUL5EE",
+                    "U05V9N22ZUK",
+                    "U05V7H78DUM",
+                    "U05V5B27DK7"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "user": "U05V9N22ZUK",
+        "type": "message",
+        "ts": "1706153636.659079",
+        "client_msg_id": "64dd3b07-efd9-4921-83ec-890ae8c8e437",
+        "text": "진행 순서에 4팀이 2번 들어가있고 8팀이 없습니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "0698995c863f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5998310079844_0698995c863fed7643f0_72.png",
+            "first_name": "TaeHan",
+            "real_name": "TaeHan Kim",
+            "display_name": "김태한",
+            "team": "T05UGFFGL07",
+            "name": "kthnineone",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1706151600.913779",
+        "parent_user_id": "U05VADPQPCL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gg4rR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "진행 순서에 4팀이 2번 들어가있고 8팀이 없습니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "man-bowing",
+                "users": [
+                    "U05VADPQPCL"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05VADPQPCL",
+        "type": "message",
+        "ts": "1706154606.793229",
+        "client_msg_id": "2a79a837-75bf-4d5e-8ce0-585d6da35c2a",
+        "text": "<@U05V9N22ZUK>\n제 실수로 중복기입했습니다..! 수정했으니 참고 부탁드리겠습니다",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "07e7ca00b8f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5991092857253_07e7ca00b8f0d0b13ba1_72.png",
+            "first_name": "패스트캠퍼스박기준",
+            "real_name": "패스트캠퍼스박기준",
+            "display_name": "LM 박기준",
+            "team": "T05UGFFGL07",
+            "name": "pgj.fc.career",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1706151600.913779",
+        "parent_user_id": "U05VADPQPCL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/489w",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05V9N22ZUK"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n제 실수로 중복기입했습니다..! 수정했으니 참고 부탁드리겠습니다"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05V9N22ZUK",
+        "type": "message",
+        "ts": "1706154626.232439",
+        "client_msg_id": "d8667c4c-483b-4dd7-996b-78922dba63e1",
+        "text": "확인 감사합니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "0698995c863f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5998310079844_0698995c863fed7643f0_72.png",
+            "first_name": "TaeHan",
+            "real_name": "TaeHan Kim",
+            "display_name": "김태한",
+            "team": "T05UGFFGL07",
+            "name": "kthnineone",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1706151600.913779",
+        "parent_user_id": "U05VADPQPCL",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TvBZn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "확인 감사합니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U05VADPQPCL"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

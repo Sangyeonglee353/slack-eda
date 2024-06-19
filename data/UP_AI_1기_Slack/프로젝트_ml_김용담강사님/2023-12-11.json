@@ -1,0 +1,706 @@
+[
+    {
+        "user": "U05UWVA90H4",
+        "type": "message",
+        "ts": "1702285049.599989",
+        "edited": {
+            "user": "U05UWVA90H4",
+            "ts": "1702288416.000000"
+        },
+        "client_msg_id": "91b87983-3e43-4611-b444-80c25587ac35",
+        "text": "[3조]\n안녕하세요 용담 강사님 ! 저희도 내일은 코드 정리를 좀 주로 하게 될것 같아서 괜찮을 것 같습니다.\n\n후에 도움이 필요하거나 모르는 점이 생기면 따로 요청드리겠습니다~!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "e039a582c034",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5983012631430_e039a582c03450d83dc6_72.png",
+            "first_name": "이준형",
+            "real_name": "이준형",
+            "display_name": "이준형",
+            "team": "T05UGFFGL07",
+            "name": "hewberryd8",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1702023597.961209",
+        "parent_user_id": "U065TBUL5EE",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Wa24F",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "[3조]\n안녕하세요 용담 강사님 ! 저희도 내일은 코드 정리를 좀 주로 하게 될것 같아서 괜찮을 것 같습니다.\n\n후에 도움이 필요하거나 모르는 점이 생기면 따로 요청드리겠습니다~!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U065TBUL5EE"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U065TBUL5EE",
+        "type": "message",
+        "ts": "1702306189.657579",
+        "client_msg_id": "91ffaaf2-229a-44da-904d-1a88786ef416",
+        "text": "<@U05UWVA90H4> 넵 감사합니다!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "34f110a5edc4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-11-14\/6197301711475_34f110a5edc435398e63_72.png",
+            "first_name": "김용담",
+            "real_name": "김용담",
+            "display_name": "김용담 강사",
+            "team": "T05UGFFGL07",
+            "name": "codingiscoffee",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1702023597.961209",
+        "parent_user_id": "U065TBUL5EE",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Supcj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05UWVA90H4"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 넵 감사합니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05VADPQPCL",
+        "type": "message",
+        "ts": "1702346496.058659",
+        "client_msg_id": "0f470fdd-47f6-4a5d-b554-4d13e8789ad1",
+        "text": "*각 팀 별 노션에 2차 아이데이션 작성 부탁 드립니다.*\n• 미작성 팀:  5팀 - <@U05V9LP47V0> <@U05VB5EHM7W> <@U05UZLEM04V>\n• 미작성 개인 참여자 : <@U05UWAPP5CN> <@U05V7V2AV8A> <@U05UW74NJ0N> <@U05UZPKCGBZ> <@U05V2P37518> <@U061N4T7L8G> <@U0600C60ZK4>\n",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "07e7ca00b8f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5991092857253_07e7ca00b8f0d0b13ba1_72.png",
+            "first_name": "패스트캠퍼스박기준",
+            "real_name": "패스트캠퍼스박기준",
+            "display_name": "LM 박기준",
+            "team": "T05UGFFGL07",
+            "name": "pgj.fc.career",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "38ycp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "각 팀 별 노션에 2차 아이데이션 작성 부탁 드립니다.",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "미작성 팀:  5팀 - "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U05V9LP47V0"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U05VB5EHM7W"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U05UZLEM04V"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "미작성 개인 참여자 : "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U05UWAPP5CN"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U05V7V2AV8A"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U05UW74NJ0N"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U05UZPKCGBZ"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U05V2P37518"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U061N4T7L8G"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U0600C60ZK4"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U060H4V0Q5S",
+        "type": "message",
+        "ts": "1702347196.499589",
+        "client_msg_id": "261233c2-b4a0-469a-823a-49a30be3da7a",
+        "text": "<@U05VADPQPCL> <@U065TBUL5EE> 강사님 오후부터 순회하시나요?",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "3d85b1738502",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-09\/6000180384871_3d85b1738502fdcd6aa2_72.png",
+            "first_name": "진성준",
+            "real_name": "진성준",
+            "display_name": "진성준",
+            "team": "T05UGFFGL07",
+            "name": "usniz300",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1702347196.499589",
+        "reply_count": 2,
+        "reply_users_count": 1,
+        "latest_reply": "1702347583.167729",
+        "reply_users": [
+            "U065TBUL5EE"
+        ],
+        "replies": [
+            {
+                "user": "U065TBUL5EE",
+                "ts": "1702347578.885259"
+            },
+            {
+                "user": "U065TBUL5EE",
+                "ts": "1702347583.167729"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aqlGn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05VADPQPCL"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U065TBUL5EE"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 강사님 오후부터 순회하시나요?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "muscle",
+                "users": [
+                    "U05VAHXECP6"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U065TBUL5EE",
+        "type": "message",
+        "ts": "1702347578.885259",
+        "client_msg_id": "69cb43a7-068b-4608-99fc-a33c1a548ddf",
+        "text": "네 그렇습니다!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "34f110a5edc4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-11-14\/6197301711475_34f110a5edc435398e63_72.png",
+            "first_name": "김용담",
+            "real_name": "김용담",
+            "display_name": "김용담 강사",
+            "team": "T05UGFFGL07",
+            "name": "codingiscoffee",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1702347196.499589",
+        "parent_user_id": "U060H4V0Q5S",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0heDe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "네 그렇습니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U065TBUL5EE",
+        "type": "message",
+        "ts": "1702347583.167729",
+        "client_msg_id": "563708a9-aa78-41ae-b2e1-a15b8b5b99b5",
+        "text": "제가 타임라인 달아놓을게요 잠시만요",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "34f110a5edc4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-11-14\/6197301711475_34f110a5edc435398e63_72.png",
+            "first_name": "김용담",
+            "real_name": "김용담",
+            "display_name": "김용담 강사",
+            "team": "T05UGFFGL07",
+            "name": "codingiscoffee",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1702347196.499589",
+        "parent_user_id": "U060H4V0Q5S",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aveZU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "제가 타임라인 달아놓을게요 잠시만요"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U065TBUL5EE",
+        "type": "message",
+        "ts": "1702347894.866639",
+        "client_msg_id": "d04dea26-aca8-44c6-a79f-d84ee4558bd4",
+        "text": "<!channel>\n오늘의 조별 피드백 타임라인\n\n*14:00 ~ 14:15 - 1팀*\n*14:15 ~ 14:30 - 2팀*\n*14:30 ~ 14:45 - 4팀*\n*15:00 ~ 15:15 - 5팀*\n*15:15 ~ 15:30 - 6팀*\n*15:30 ~ 15:45 - 7팀*\n*16:00 ~ 16:15 - 8팀*\n*16:30 ~ 16:45 - 9팀*\n*17:00 ~ 17:15 - 10팀*\n\n*11팀부터 22팀까지는* 개인팀인데, 현직자분들이 주로 계셔서 *필요하신분들만 소회의실에서 뵙겠습니다.*\n미팅 필요하신분들은 슬랙dm이나 스레드에 남겨주시면 제가 17시 15분 이후에 팀당 15분씩 타임라인에 올려놓겠습니다!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "34f110a5edc4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-11-14\/6197301711475_34f110a5edc435398e63_72.png",
+            "first_name": "김용담",
+            "real_name": "김용담",
+            "display_name": "김용담 강사",
+            "team": "T05UGFFGL07",
+            "name": "codingiscoffee",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5qugh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n오늘의 조별 피드백 타임라인\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "14:00 ~ 14:15 - 1팀",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "14:15 ~ 14:30 - 2팀",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "14:30 ~ 14:45 - 4팀",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "15:00 ~ 15:15 - 5팀",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "15:15 ~ 15:30 - 6팀",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "15:30 ~ 15:45 - 7팀",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "16:00 ~ 16:15 - 8팀",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "16:30 ~ 16:45 - 9팀",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "17:00 ~ 17:15 - 10팀",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "11팀부터 22팀까지는",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " 개인팀인데, 현직자분들이 주로 계셔서 "
+                            },
+                            {
+                                "type": "text",
+                                "text": "필요하신분들만 소회의실에서 뵙겠습니다.",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n미팅 필요하신분들은 슬랙dm이나 스레드에 남겨주시면 제가 17시 15분 이후에 팀당 15분씩 타임라인에 올려놓겠습니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U05VAHXECP6",
+                    "U060BLVQYHW",
+                    "U05V7H78DUM",
+                    "U05V9LP47V0",
+                    "U05V9N22ZUK",
+                    "U05VADPQPCL",
+                    "U05V2T62KUJ",
+                    "U060H4V0Q5S",
+                    "U05UN5DQ423"
+                ],
+                "count": 9
+            },
+            {
+                "name": "meow_noddies",
+                "users": [
+                    "U05UT0JG4BZ",
+                    "U05V7H78DUM",
+                    "U05VADPQPCL",
+                    "U060LG0BT89",
+                    "U060H4V0Q5S",
+                    "U05UUUNAE5D"
+                ],
+                "count": 6
+            }
+        ]
+    },
+    {
+        "user": "U065TBUL5EE",
+        "type": "message",
+        "ts": "1702348612.270179",
+        "client_msg_id": "ff31352d-c6ee-42db-9efd-d155eae9e6cd",
+        "text": "<!channel>\n해당 시간에 놓치는 팀원없게, 확인하신 팀원분들은 소회의실에서 팀원들에게도 알려주시면 감사하겠습니다 :slightly_smiling_face:",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "34f110a5edc4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-11-14\/6197301711475_34f110a5edc435398e63_72.png",
+            "first_name": "김용담",
+            "real_name": "김용담",
+            "display_name": "김용담 강사",
+            "team": "T05UGFFGL07",
+            "name": "codingiscoffee",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "B63X8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n해당 시간에 놓치는 팀원없게, 확인하신 팀원분들은 소회의실에서 팀원들에게도 알려주시면 감사하겠습니다 "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U05V2P37518",
+                    "U05V9N22ZUK",
+                    "U05V7H78DUM",
+                    "U05UN5DQ423"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "user": "U065TBUL5EE",
+        "type": "message",
+        "ts": "1702365321.689269",
+        "client_msg_id": "b6ae9d3c-3b1b-4e85-a523-d3def8fb092b",
+        "text": "<!channel>\n현재 8팀하는중입니다!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "34f110a5edc4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-11-14\/6197301711475_34f110a5edc435398e63_72.png",
+            "first_name": "김용담",
+            "real_name": "김용담",
+            "display_name": "김용담 강사",
+            "team": "T05UGFFGL07",
+            "name": "codingiscoffee",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sODo5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n현재 8팀하는중입니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U060LG0BT89"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

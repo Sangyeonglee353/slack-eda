@@ -1,0 +1,170 @@
+[
+    {
+        "user": "U05VAHXECP6",
+        "type": "message",
+        "ts": "1707357447.657019",
+        "edited": {
+            "user": "U05VAHXECP6",
+            "ts": "1707357479.000000"
+        },
+        "client_msg_id": "69942e66-e1cd-4b8b-86e5-3f62a47d8f48",
+        "text": "*<!channel>*\n안녕하세요. Upstage AI Lab 수강생 여러분!\n미래의 데이터 사이언티스트, AI Research Engineer, ML Engineer를 준비하시는 여러분도 들으시면 좋은 행사가 있어 소개 드립니다.\n우리는 결국 하나의 조직에 소속되어 일을 하시게 될텐데요. 여기서 서비스 기획을 도맡아 해주는 직무가 바로 PM\/PL입니다.\n해당 직무에 대한 인사이트도 알아두시면 향후 업무에도 도움이 될 터이니, 참고해주세요.\n\n선착순으로 모집 된다고 하니, 모두들 빠르게 신청해보세요.\n\n:sparkles:패스트캠퍼스 IT 커리어 성장 Conference, CampCON 안내:sparkles:\n안녕하세요, 패스트러너 여러분!\n2월 CampCON 얼리버드 모집이 시작 되었습니다.\n\n> 얼리버드 참가 혜택?!\n정식 오픈 전, 패캠 부트캠프 수강생\/수료생분들을 대상으로만 진행되는 모집 기간으로,\n해당 기간에 신청하는 패스트러너는 무!조!건! 참여가 가능하도록 하는 것.\n* 정규 모집 기간에도 신청은 가능하나, 선착순 모집으로 참여가 어려울 수 있습니다.\n\n다양한 IT 분야의 전문가들과 함께 커리어와 기술에 대한 고민을 나눌 수 있는,\n'캠프콘'에 여러분들을 가장! 먼저 초대합니다 :blush:\n※ 2월 강연은 프로덕트 매니저(PM) 직무 주제로 진행됩니다.\n\n:tada:2월 연사자분들을 소개합니다:tada:\n:arrow_forward: 김하나님 [우아한형제들 PM | 카카오, LINE Pay 서비스 기획자 출신]\n- 주제 : IT 대기업 3사 출신 멘토가 알려주는, 일하면서 성장하는 PM 직무의 매력\n:arrow_forward: 정대욱님 [야놀자 테크스쿨 최우수 그룹 프로젝트 리더(PL)]\n- 주제 : 야놀자 테크스쿨 최우수 프로젝트 사례 발표 및 러닝 공유\n\n:point_right: 2월 캠프콘 얼리버드 참여 신청하기 : <https:\/\/bit.ly\/3Sy9R0o>\n\n행사 일시 : 24년 02월 27일 화요일 오후 7시 (3시간 진행 예정)\n장소 : 비대면(ZOOM) *추후 안내 예정\n참석 대상자 : IT 커리어 성장을 꿈꾸는 누구나 (선착순 모집)\n응답 기한 : ~ 24년 02월 13일(화) 13시까지\n\n:arrow_forward: 캠프콘에 대해 더 궁금하시다면? <https:\/\/bit.ly\/47YsqjU>\n:arrow_forward: 2024년 매월 진행되는 캠프콘 소식을 받고 싶으시다면? <https:\/\/bit.ly\/47Ca0p4>",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "50abee101814",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-11\/6044824153712_50abee1018149e21919b_72.jpg",
+            "first_name": "이상영",
+            "real_name": "이상영",
+            "display_name": "FC 이상영 매니저",
+            "team": "T05UGFFGL07",
+            "name": "sangyeong.lee",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XMMXD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n안녕하세요. Upstage AI Lab 수강생 여러분!\n미래의 데이터 사이언티스트, AI Research Engineer, ML Engineer를 준비하시는 여러분도 들으시면 좋은 행사가 있어 소개 드립니다.\n우리는 결국 하나의 조직에 소속되어 일을 하시게 될텐데요. 여기서 서비스 기획을 도맡아 해주는 직무가 바로 PM\/PL입니다.\n해당 직무에 대한 인사이트도 알아두시면 향후 업무에도 도움이 될 터이니, 참고해주세요.\n\n선착순으로 모집 된다고 하니, 모두들 빠르게 신청해보세요.\n\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sparkles",
+                                "unicode": "2728"
+                            },
+                            {
+                                "type": "text",
+                                "text": "패스트캠퍼스 IT 커리어 성장 Conference, CampCON 안내"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sparkles",
+                                "unicode": "2728"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n안녕하세요, 패스트러너 여러분!\n2월 CampCON 얼리버드 모집이 시작 되었습니다.\n\n> 얼리버드 참가 혜택?!\n정식 오픈 전, 패캠 부트캠프 수강생\/수료생분들을 대상으로만 진행되는 모집 기간으로,\n해당 기간에 신청하는 패스트러너는 무!조!건! 참여가 가능하도록 하는 것.\n* 정규 모집 기간에도 신청은 가능하나, 선착순 모집으로 참여가 어려울 수 있습니다.\n\n다양한 IT 분야의 전문가들과 함께 커리어와 기술에 대한 고민을 나눌 수 있는,\n'캠프콘'에 여러분들을 가장! 먼저 초대합니다 "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "blush",
+                                "unicode": "1f60a"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n※ 2월 강연은 프로덕트 매니저(PM) 직무 주제로 진행됩니다.\n\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "tada",
+                                "unicode": "1f389"
+                            },
+                            {
+                                "type": "text",
+                                "text": "2월 연사자분들을 소개합니다"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "tada",
+                                "unicode": "1f389"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "arrow_forward",
+                                "unicode": "25b6-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 김하나님 [우아한형제들 PM | 카카오, LINE Pay 서비스 기획자 출신]\n- 주제 : IT 대기업 3사 출신 멘토가 알려주는, 일하면서 성장하는 PM 직무의 매력\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "arrow_forward",
+                                "unicode": "25b6-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 정대욱님 [야놀자 테크스쿨 최우수 그룹 프로젝트 리더(PL)]\n- 주제 : 야놀자 테크스쿨 최우수 프로젝트 사례 발표 및 러닝 공유\n\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "point_right",
+                                "unicode": "1f449"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 2월 캠프콘 얼리버드 참여 신청하기 : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/bit.ly\/3Sy9R0o"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n행사 일시 : 24년 02월 27일 화요일 오후 7시 (3시간 진행 예정)\n장소 : 비대면(ZOOM) *추후 안내 예정\n참석 대상자 : IT 커리어 성장을 꿈꾸는 누구나 (선착순 모집)\n응답 기한 : ~ 24년 02월 13일(화) 13시까지\n\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "arrow_forward",
+                                "unicode": "25b6-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 캠프콘에 대해 더 궁금하시다면? "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/bit.ly\/47YsqjU"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "arrow_forward",
+                                "unicode": "25b6-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 2024년 매월 진행되는 캠프콘 소식을 받고 싶으시다면? "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/bit.ly\/47Ca0p4"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U05V9N22ZUK"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

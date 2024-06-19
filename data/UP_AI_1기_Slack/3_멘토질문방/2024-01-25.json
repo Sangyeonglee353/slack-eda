@@ -1,0 +1,106 @@
+[
+    {
+        "user": "U05V7V2AV8A",
+        "type": "message",
+        "ts": "1706232092.748079",
+        "client_msg_id": "d93a3f4f-9869-454f-9654-b71d9d589b96",
+        "text": "<@U06D18V7FNX> <@U05VADPQPCL>",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "28368614e02a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5987346071766_28368614e02abbfb71bd_72.png",
+            "first_name": "andrew",
+            "real_name": "andrew jang",
+            "display_name": "장준규",
+            "team": "T05UGFFGL07",
+            "name": "goldenbeluga",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1705563012.840909",
+        "parent_user_id": "U05V7V2AV8A",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nS2Pd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06D18V7FNX"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05VADPQPCL"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05UWVA90H4",
+        "type": "message",
+        "ts": "1706255208.601329",
+        "edited": {
+            "user": "U05UWVA90H4",
+            "ts": "1706256047.000000"
+        },
+        "client_msg_id": "c43d7404-253d-4961-9ec2-64466a162672",
+        "text": "<https:\/\/fcupstageai1.slack.com\/archives\/C0606642LHW\/p1706255118390079?thread_ts=1706252477.809219&cid=C0606642LHW>\n<@U06EP4SNZ52>\n\n안녕하세요 재원멘토님..\n테스트데이터셋 분포 관련해서 이런 쓰레드를 제가 남겼는데요. 제 지식으로는 이 현상을 도저히 설명할 수 없어서 통계적으로, 데이터적으로 실제 이런 현상이 발생할 수 있을지 멘토님의 의견도 여쭙고 싶습니다..",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "e039a582c034",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5983012631430_e039a582c03450d83dc6_72.png",
+            "first_name": "이준형",
+            "real_name": "이준형",
+            "display_name": "이준형",
+            "team": "T05UGFFGL07",
+            "name": "hewberryd8",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1706159848.715669",
+        "parent_user_id": "U06EP4SNZ52",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EBAqi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/fcupstageai1.slack.com\/archives\/C0606642LHW\/p1706255118390079?thread_ts=1706252477.809219&cid=C0606642LHW"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06EP4SNZ52"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n안녕하세요 재원멘토님..\n테스트데이터셋 분포 관련해서 이런 쓰레드를 제가 남겼는데요. 제 지식으로는 이 현상을 도저히 설명할 수 없어서 통계적으로, 데이터적으로 실제 이런 현상이 발생할 수 있을지 멘토님의 의견도 여쭙고 싶습니다.."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

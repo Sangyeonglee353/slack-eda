@@ -1,0 +1,253 @@
+[
+    {
+        "user": "U05VAHXECP6",
+        "type": "message",
+        "ts": "1713147281.272609",
+        "edited": {
+            "user": "U05VAHXECP6",
+            "ts": "1713148591.000000"
+        },
+        "client_msg_id": "f58357cf-f588-42fe-a2a5-739434790135",
+        "text": "<!channel>\n안녕하세요. Upstage AI Lab 1기 수강생 여러분!\n어느 덧 과정 막바지를 향해 달려가고 있습니다. 7개월이라는 과정 정말 잘해오셨습니다. :muscle::fire:\n\n과정 중간에 말씀드렸던 커리어 서비스를 보다 효과적으로 제공하기 위해 마지막 주차에 제공하고자 합니다.\n이와 관련하여, <https:\/\/spectrum-tablecloth-454.notion.site\/Upstage-AI-Lab-1-8b8725008329486aa65b1db521821f7c|커리어 캠프(노션)>, <https:\/\/docs.google.com\/spreadsheets\/d\/1DsNsujMFQlrcBvaRFw2ILlx1X0m2FMz8tyY6YVCYSMU\/edit#gid=621384192&range=D390|커리어 서비스(커리큘럼 시트)>에도 반영해두었으니, 일정에 참고하시기 바랍니다.\n\n일자별 강의 및 실습 이후에는 커리어 컨설턴트님과 개별 질의응답을 받으실 수 있도록\nOffice Hour가 마련되어 있으니, 적극 활용하셔서 성공적인 취업에 한발짝 다가가시면 좋겠습니다.\n(추가로, 컬쳐\/기술 면접과 관련한 특강도 예정되어 있는데요. 이와 관련해서는 추후 한 번 더 공지드리겠습니다.)\n\n> :technologist: *커리어 서비스 안내* :dizzy:\n• 5\/7(화)\n    ◦ 포트폴리오 중심 강의 및 실습\n• 5\/8(수)\n    ◦ 핵심역량 강의 및 실습\n    ◦ 이력서 강의 및 실습\n• 5\/9(목)\n    ◦ 자기소개서 강의 및 실습\n• 5\/10(금)\n    ◦ 효과적인 구직활동 & 연봉협상 강의 및 실습",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "50abee101814",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-11\/6044824153712_50abee1018149e21919b_72.jpg",
+            "first_name": "이상영",
+            "real_name": "이상영",
+            "display_name": "FC 이상영 매니저",
+            "team": "T05UGFFGL07",
+            "name": "sangyeong.lee",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JA86Q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n안녕하세요. Upstage AI Lab 1기 수강생 여러분!\n어느 덧 과정 막바지를 향해 달려가고 있습니다. 7개월이라는 과정 정말 잘해오셨습니다. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "muscle",
+                                "unicode": "1f4aa"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fire",
+                                "unicode": "1f525"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n과정 중간에 말씀드렸던 커리어 서비스를 보다 효과적으로 제공하기 위해 마지막 주차에 제공하고자 합니다.\n이와 관련하여, "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/spectrum-tablecloth-454.notion.site\/Upstage-AI-Lab-1-8b8725008329486aa65b1db521821f7c",
+                                "text": "커리어 캠프(노션)"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/spreadsheets\/d\/1DsNsujMFQlrcBvaRFw2ILlx1X0m2FMz8tyY6YVCYSMU\/edit#gid=621384192&range=D390",
+                                "text": "커리어 서비스(커리큘럼 시트)"
+                            },
+                            {
+                                "type": "text",
+                                "text": "에도 반영해두었으니, 일정에 참고하시기 바랍니다.\n\n일자별 강의 및 실습 이후에는 커리어 컨설턴트님과 개별 질의응답을 받으실 수 있도록\nOffice Hour가 마련되어 있으니, 적극 활용하셔서 성공적인 취업에 한발짝 다가가시면 좋겠습니다.\n(추가로, 컬쳐\/기술 면접과 관련한 특강도 예정되어 있는데요. 이와 관련해서는 추후 한 번 더 공지드리겠습니다.)\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "technologist",
+                                "unicode": "1f9d1-200d-1f4bb",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " 커리어 서비스 안내 ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "dizzy",
+                                "unicode": "1f4ab",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "5\/7(화)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "포트폴리오 중심 강의 및 실습"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "5\/8(수)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "핵심역량 강의 및 실습"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "이력서 강의 및 실습"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "5\/9(목)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "자기소개서 강의 및 실습"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "5\/10(금)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "효과적인 구직활동 & 연봉협상 강의 및 실습"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    }
+                ]
+            }
+        ]
+    }
+]

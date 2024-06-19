@@ -1,0 +1,241 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U05V868K2JE",
+        "text": "<@U05V868K2JE> 님이 채널에 참여함",
+        "inviter": "U06061L4S64",
+        "type": "message",
+        "ts": "1700037534.925799"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U05UUUNAE5D",
+        "text": "<@U05UUUNAE5D> 님이 채널에 참여함",
+        "inviter": "U06061L4S64",
+        "type": "message",
+        "ts": "1700037535.071149"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U061N4T7L8G",
+        "text": "<@U061N4T7L8G> 님이 채널에 참여함",
+        "inviter": "U06061L4S64",
+        "type": "message",
+        "ts": "1700037535.188829"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U05UVE9DFSB",
+        "text": "<@U05UVE9DFSB> 님이 채널에 참여함",
+        "inviter": "U06061L4S64",
+        "type": "message",
+        "ts": "1700037535.277089"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U05UZPKCGBZ",
+        "text": "<@U05UZPKCGBZ> 님이 채널에 참여함",
+        "inviter": "U06061L4S64",
+        "type": "message",
+        "ts": "1700037535.363459"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U05VCCSHKHR",
+        "text": "<@U05VCCSHKHR> 님이 채널에 참여함",
+        "inviter": "U06061L4S64",
+        "type": "message",
+        "ts": "1700037535.451529"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U05V2GDNNLT",
+        "text": "<@U05V2GDNNLT> 님이 채널에 참여함",
+        "inviter": "U06061L4S64",
+        "type": "message",
+        "ts": "1700037535.548869"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U05UN7M2GKZ",
+        "text": "<@U05UN7M2GKZ> 님이 채널에 참여함",
+        "inviter": "U06061L4S64",
+        "type": "message",
+        "ts": "1700037535.647429"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U0600PYS0G3",
+        "text": "<@U0600PYS0G3> 님이 채널에 참여함",
+        "inviter": "U06061L4S64",
+        "type": "message",
+        "ts": "1700037535.748999"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U05UW1S4KQE",
+        "text": "<@U05UW1S4KQE> 님이 채널에 참여함",
+        "inviter": "U06061L4S64",
+        "type": "message",
+        "ts": "1700037535.831519"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U05V7V2AV8A",
+        "text": "<@U05V7V2AV8A> 님이 채널에 참여함",
+        "inviter": "U06061L4S64",
+        "type": "message",
+        "ts": "1700037535.922459"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U0600C60ZK4",
+        "text": "<@U0600C60ZK4> 님이 채널에 참여함",
+        "inviter": "U06061L4S64",
+        "type": "message",
+        "ts": "1700037536.034109"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U05V2GECU9Z",
+        "text": "<@U05V2GECU9Z> 님이 채널에 참여함",
+        "inviter": "U06061L4S64",
+        "type": "message",
+        "ts": "1700037536.179249"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U05UT0JG4BZ",
+        "text": "<@U05UT0JG4BZ> 님이 채널에 참여함",
+        "inviter": "U06061L4S64",
+        "type": "message",
+        "ts": "1700037536.271939"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U05UNMQ4LP9",
+        "text": "<@U05UNMQ4LP9> 님이 채널에 참여함",
+        "inviter": "U06061L4S64",
+        "type": "message",
+        "ts": "1700037536.353479"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U0602CFAB7B",
+        "text": "<@U0602CFAB7B> 님이 채널에 참여함",
+        "inviter": "U06061L4S64",
+        "type": "message",
+        "ts": "1700037536.449599"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U05V2P37518",
+        "text": "<@U05V2P37518> 님이 채널에 참여함",
+        "inviter": "U06061L4S64",
+        "type": "message",
+        "ts": "1700037536.529849"
+    },
+    {
+        "user": "U065TBUL5EE",
+        "type": "message",
+        "ts": "1700044200.967099",
+        "client_msg_id": "49cbf6ef-9cf6-4f35-ac15-cdd1cb81672f",
+        "text": "<!channel>\n안녕하세요 여러분! 다들 열심히 EDA 공부하고 계시나요! 다음주 월요일부터 한달동안 저와 함께 머신러닝 과정을 진행하게 됩니다.\n머신러닝 과정에서 배우고 싶은 내용이나 기대하는 사항 있으시면, 편하게 말씀주세요 :slightly_smiling_face:",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "34f110a5edc4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-11-14\/6197301711475_34f110a5edc435398e63_72.png",
+            "first_name": "김용담",
+            "real_name": "김용담",
+            "display_name": "김용담 강사",
+            "team": "T05UGFFGL07",
+            "name": "codingiscoffee",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "E7Sve",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n안녕하세요 여러분! 다들 열심히 EDA 공부하고 계시나요! 다음주 월요일부터 한달동안 저와 함께 머신러닝 과정을 진행하게 됩니다.\n머신러닝 과정에서 배우고 싶은 내용이나 기대하는 사항 있으시면, 편하게 말씀주세요 "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U05UWVA90H4",
+                    "U05VDDP88BW",
+                    "U05V9LP47V0",
+                    "U05V379NETU",
+                    "U05UN6NTN8P",
+                    "U060H4V0Q5S",
+                    "U05V2P37518",
+                    "U05V9N22ZUK",
+                    "U05VB5EHM7W",
+                    "U05UVE9DFSB",
+                    "U05UNMQ4LP9",
+                    "U05UN7M2GKZ",
+                    "U05UWAPP5CN",
+                    "U05V561TXUL",
+                    "U060LG0BT89",
+                    "U05UUUNAE5D",
+                    "U05V2T62KUJ",
+                    "U05V7H78DUM",
+                    "U0600GGHJTC",
+                    "U05V4KZR3NW",
+                    "U05VCCSHKHR",
+                    "U060BLVQYHW"
+                ],
+                "count": 22
+            },
+            {
+                "name": "raised_hands::skin-tone-2",
+                "users": [
+                    "U05UT0JG4BZ",
+                    "U05UVV5CVQE",
+                    "U05V2HL22M9"
+                ],
+                "count": 3
+            },
+            {
+                "name": "50a65c177640f62b",
+                "users": [
+                    "U05V5B27DK7",
+                    "U05UVV5CVQE",
+                    "U05V2P37518"
+                ],
+                "count": 3
+            },
+            {
+                "name": "meow_noddies",
+                "users": [
+                    "U05V2PMAVNE",
+                    "U05V7H78DUM"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

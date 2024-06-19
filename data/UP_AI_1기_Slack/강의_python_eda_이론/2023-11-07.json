@@ -1,0 +1,290 @@
+[
+    {
+        "user": "U060VSK7ELC",
+        "type": "message",
+        "ts": "1699348429.067279",
+        "client_msg_id": "a2d80d8a-2c10-405b-bd01-ff995edbcb0d",
+        "text": "<!here>\n오늘 질문 안하면 꿈에 나올 것 같다하는 조 계시면 지금 질문주세요~! :slightly_smiling_face:",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "4eedaa4888b6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-11\/6027355735027_4eedaa4888b662413f7b_72.jpg",
+            "first_name": "김인섭",
+            "real_name": "김인섭 강사",
+            "display_name": "김인섭 강사",
+            "team": "T05UGFFGL07",
+            "name": "inseop0813",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1699348429.067279",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1699352282.592109",
+        "reply_users": [
+            "U060LG0BT89",
+            "U060VSK7ELC"
+        ],
+        "replies": [
+            {
+                "user": "U060LG0BT89",
+                "ts": "1699351526.270449"
+            },
+            {
+                "user": "U060VSK7ELC",
+                "ts": "1699352282.592109"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PXIRr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n오늘 질문 안하면 꿈에 나올 것 같다하는 조 계시면 지금 질문주세요~! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U05VAHXECP6",
+                    "U060LG0BT89",
+                    "U05V5B27DK7",
+                    "U060TBSJ7DF",
+                    "U06061L4S64",
+                    "U05UWVA90H4",
+                    "U05V4KZR3NW",
+                    "U05UW74NJ0N"
+                ],
+                "count": 8
+            },
+            {
+                "name": "muscle",
+                "users": [
+                    "U05VAHXECP6",
+                    "U06061L4S64",
+                    "U05UWVA90H4"
+                ],
+                "count": 3
+            },
+            {
+                "name": "cool-doge",
+                "users": [
+                    "U06061L4S64",
+                    "U0600GGHJTC"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U060LG0BT89",
+        "type": "message",
+        "ts": "1699351526.270449",
+        "client_msg_id": "ec3d6f7e-fee1-4d66-8ef7-bc918998b2e0",
+        "text": "제가 어제 그랬습니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "g273c76b80b5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/273c76b80b5c013cab6c608d10041dd4.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "김준호",
+            "real_name": "김준호",
+            "display_name": "",
+            "team": "T05UGFFGL07",
+            "name": "demyank88",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1699348429.067279",
+        "parent_user_id": "U060VSK7ELC",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Nq9me",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "제가 어제 그랬습니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U060VSK7ELC",
+        "type": "message",
+        "ts": "1699352282.592109",
+        "client_msg_id": "2863d223-7cb5-4907-a757-d39ec87f723e",
+        "text": "제가 꿈에 나오면 잘하고 계신겁니다 :innocent:",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "4eedaa4888b6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-11\/6027355735027_4eedaa4888b662413f7b_72.jpg",
+            "first_name": "김인섭",
+            "real_name": "김인섭 강사",
+            "display_name": "김인섭 강사",
+            "team": "T05UGFFGL07",
+            "name": "inseop0813",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1699348429.067279",
+        "parent_user_id": "U060VSK7ELC",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1eYEf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "제가 꿈에 나오면 잘하고 계신겁니다 "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "innocent",
+                                "unicode": "1f607"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U060LG0BT89"
+                ],
+                "count": 1
+            },
+            {
+                "name": "party-blob",
+                "users": [
+                    "U060LG0BT89"
+                ],
+                "count": 1
+            },
+            {
+                "name": "cool-doge",
+                "users": [
+                    "U060LG0BT89"
+                ],
+                "count": 1
+            },
+            {
+                "name": "fb-wow",
+                "users": [
+                    "U05V7H78DUM"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U060VSK7ELC",
+        "type": "message",
+        "ts": "1699415319.283539",
+        "client_msg_id": "88afd323-20a7-46cf-b471-721da3521ad0",
+        "text": "<!here>\n여러분 금일 4조까지 피드백 완료했는데, 내일은 10시에 5조부터 바로 방문할 수 있도록 하겠습니다 :slightly_smiling_face:\n남은 오후 시간도 화이팅이구요. 궁금하신 점 생기시면 언제든 DM ㄱㄱ 해주세요!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "4eedaa4888b6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-11\/6027355735027_4eedaa4888b662413f7b_72.jpg",
+            "first_name": "김인섭",
+            "real_name": "김인섭 강사",
+            "display_name": "김인섭 강사",
+            "team": "T05UGFFGL07",
+            "name": "inseop0813",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/maKL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n여러분 금일 4조까지 피드백 완료했는데, 내일은 10시에 5조부터 바로 방문할 수 있도록 하겠습니다 "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n남은 오후 시간도 화이팅이구요. 궁금하신 점 생기시면 언제든 DM ㄱㄱ 해주세요!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "대답",
+                "users": [
+                    "U05V379NETU",
+                    "U05V2HL22M9",
+                    "U060TBSJ7DF",
+                    "U060BLVQYHW",
+                    "U05UW1S4KQE",
+                    "U05V2T62KUJ"
+                ],
+                "count": 6
+            },
+            {
+                "name": "meow_noddies",
+                "users": [
+                    "U05V7H78DUM",
+                    "U05UT0JG4BZ"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

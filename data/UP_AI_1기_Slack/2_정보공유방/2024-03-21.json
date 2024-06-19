@@ -1,0 +1,440 @@
+[
+    {
+        "user": "U065TBUL5EE",
+        "type": "message",
+        "ts": "1711005328.228899",
+        "client_msg_id": "3fdc5d8b-9abf-4290-ab0c-a14eeee26115",
+        "text": "자동으로 논문 관련 QnA 하는 프로젝트가 있어 공유드립니다!\n갓찬성님의 작품입니다 :)\n<https:\/\/huggingface.co\/spaces\/chansung\/paper_qa>",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "34f110a5edc4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-11-14\/6197301711475_34f110a5edc435398e63_72.png",
+            "first_name": "김용담",
+            "real_name": "김용담",
+            "display_name": "김용담 강사",
+            "team": "T05UGFFGL07",
+            "name": "codingiscoffee",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/cdn-thumbnails.huggingface.co\/social-thumbnails\/spaces\/chansung\/paper_qa.png",
+                "image_width": 1200,
+                "image_height": 648,
+                "image_bytes": 399925,
+                "from_url": "https:\/\/huggingface.co\/spaces\/chansung\/paper_qa",
+                "id": 1,
+                "original_url": "https:\/\/huggingface.co\/spaces\/chansung\/paper_qa",
+                "fallback": "Paper Q&amp;A - a Hugging Face Space by chansung",
+                "text": "Explore papers with auto generated Q&amp;As",
+                "title": "Paper Q&amp;A - a Hugging Face Space by chansung",
+                "title_link": "https:\/\/huggingface.co\/spaces\/chansung\/paper_qa",
+                "service_name": "huggingface.co"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "l43zB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "자동으로 논문 관련 QnA 하는 프로젝트가 있어 공유드립니다!\n갓찬성님의 작품입니다 :)\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/huggingface.co\/spaces\/chansung\/paper_qa"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U05V9N22ZUK",
+                    "U05V2T62KUJ",
+                    "U05V5B27DK7"
+                ],
+                "count": 3
+            },
+            {
+                "name": "party_blob-1",
+                "users": [
+                    "U05VAHXECP6"
+                ],
+                "count": 1
+            },
+            {
+                "name": "meow_noddies",
+                "users": [
+                    "U05VAHXECP6",
+                    "U0600HN24UX"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "text": "코드 공유를 요청해주신 분들이 있어 간략하게 정리하여 공유합니다.\n다만, 운영진분들에게 여쭈어보니 baseline 코드는 공유가 불가하다고 합니다.\nTraining 까지 가능하니 Inference 부분만 추가하셔서 이용하시면 좋을 것 같습니다.\n\n참고로 flash-attention-2, sentencepiece 등 패키지는 pip로 설치해야하며,\n저희 서버 gpu에서는 버그가 있는 conda 환경이라, `conda update -f conda`로 업데이트 해주셔야 설치가 가능합니다.",
+        "files": [
+            {
+                "id": "F06QMK93XEE",
+                "created": 1711010263,
+                "timestamp": 1711010263,
+                "name": "baseline-jun.ipynb",
+                "title": "baseline-jun.ipynb",
+                "mimetype": "application\/octet-stream",
+                "filetype": "binary",
+                "pretty_type": "Binary",
+                "user": "U05V2GDNNLT",
+                "user_team": "T05UGFFGL07",
+                "editable": false,
+                "size": 8913,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F06QMK93XEE\/baseline-jun.ipynb?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F06QMK93XEE\/download\/baseline-jun.ipynb?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "media_display_type": "unknown",
+                "permalink": "https:\/\/fcupstageai1.slack.com\/files\/U05V2GDNNLT\/F06QMK93XEE\/baseline-jun.ipynb",
+                "permalink_public": "https:\/\/slack-files.com\/T05UGFFGL07-F06QMK93XEE-b9744e913a",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U05V2GDNNLT",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sLcFE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "코드 공유를 요청해주신 분들이 있어 간략하게 정리하여 공유합니다.\n다만, 운영진분들에게 여쭈어보니 baseline 코드는 공유가 불가하다고 합니다.\nTraining 까지 가능하니 Inference 부분만 추가하셔서 이용하시면 좋을 것 같습니다.\n\n참고로 flash-attention-2, sentencepiece 등 패키지는 pip로 설치해야하며,\n저희 서버 gpu에서는 버그가 있는 conda 환경이라, "
+                            },
+                            {
+                                "type": "text",
+                                "text": "conda update -f conda",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "로 업데이트 해주셔야 설치가 가능합니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1711010613.195479",
+        "edited": {
+            "user": "U05V2GDNNLT",
+            "ts": "1711010859.000000"
+        },
+        "client_msg_id": "9b3407f4-65ac-4e2d-a22d-e0d0d27f0f2b",
+        "thread_ts": "1711010613.195479",
+        "reply_count": 4,
+        "reply_users_count": 2,
+        "latest_reply": "1711958755.444159",
+        "reply_users": [
+            "U05V7V2AV8A",
+            "U05V2GDNNLT"
+        ],
+        "replies": [
+            {
+                "user": "U05V7V2AV8A",
+                "ts": "1711069223.303999"
+            },
+            {
+                "user": "U05V2GDNNLT",
+                "ts": "1711069301.563019"
+            },
+            {
+                "user": "U05V2GDNNLT",
+                "ts": "1711958607.738549"
+            },
+            {
+                "user": "U05V2GDNNLT",
+                "ts": "1711958755.444159"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U05V2T62KUJ",
+                    "U05VAHXECP6",
+                    "U05UWVA90H4",
+                    "U05UN5DQ423",
+                    "U05V9N22ZUK",
+                    "U05VADPQPCL",
+                    "U05V561TXUL",
+                    "U05V379NETU",
+                    "U05V9LP47V0",
+                    "U05V2P37518",
+                    "U060BLVQYHW",
+                    "U065TBUL5EE",
+                    "U0600GGHJTC",
+                    "U060LG0BT89"
+                ],
+                "count": 14
+            },
+            {
+                "name": "muscle",
+                "users": [
+                    "U05VAHXECP6",
+                    "U05UWVA90H4",
+                    "U05VADPQPCL",
+                    "U060BLVQYHW"
+                ],
+                "count": 4
+            },
+            {
+                "name": "sunflower",
+                "users": [
+                    "U05VAHXECP6",
+                    "U05UWVA90H4",
+                    "U05VADPQPCL",
+                    "U060BLVQYHW"
+                ],
+                "count": 4
+            },
+            {
+                "name": "귀여운박수",
+                "users": [
+                    "U05V5B27DK7",
+                    "U05UNMQ4LP9"
+                ],
+                "count": 2
+            },
+            {
+                "name": "+1::skin-tone-2",
+                "users": [
+                    "U05UT0JG4BZ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "text": "마찬가지로 이전 CV 대회에서 1위한 코드도 공유드립니다. 기존 baseline 코드에 추가해주시면 됩니다.",
+        "files": [
+            {
+                "id": "F06RAFJAHS4",
+                "created": 1711011364,
+                "timestamp": 1711011364,
+                "name": "baseline-cv-jun.ipynb",
+                "title": "baseline-cv-jun.ipynb",
+                "mimetype": "application\/octet-stream",
+                "filetype": "binary",
+                "pretty_type": "Binary",
+                "user": "U05V2GDNNLT",
+                "user_team": "T05UGFFGL07",
+                "editable": false,
+                "size": 15487,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F06RAFJAHS4\/baseline-cv-jun.ipynb?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F06RAFJAHS4\/download\/baseline-cv-jun.ipynb?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "media_display_type": "unknown",
+                "permalink": "https:\/\/fcupstageai1.slack.com\/files\/U05V2GDNNLT\/F06RAFJAHS4\/baseline-cv-jun.ipynb",
+                "permalink_public": "https:\/\/slack-files.com\/T05UGFFGL07-F06RAFJAHS4-cf46090701",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U05V2GDNNLT",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pD4Hg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "마찬가지로 이전 CV 대회에서 1위한 코드도 공유드립니다. 기존 baseline 코드에 추가해주시면 됩니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1711011425.568909",
+        "client_msg_id": "4acbf1f6-f0aa-48ae-a814-b45542c700aa",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U05UN5DQ423",
+                    "U05V2T62KUJ",
+                    "U05V9N22ZUK",
+                    "U05VADPQPCL",
+                    "U05V561TXUL",
+                    "U05V379NETU",
+                    "U05V9LP47V0",
+                    "U060D1KJECR",
+                    "U05V2P37518",
+                    "U060BLVQYHW",
+                    "U065TBUL5EE",
+                    "U05V7H78DUM",
+                    "U0600GGHJTC",
+                    "U060C67EYQ5",
+                    "U060LG0BT89"
+                ],
+                "count": 15
+            },
+            {
+                "name": "+1::skin-tone-2",
+                "users": [
+                    "U05UT0JG4BZ"
+                ],
+                "count": 1
+            },
+            {
+                "name": "귀여운박수",
+                "users": [
+                    "U05V5B27DK7",
+                    "U060BLVQYHW",
+                    "U05UNMQ4LP9",
+                    "U060C67EYQ5"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "user": "U05V7V2AV8A",
+        "type": "message",
+        "ts": "1711069223.303999",
+        "client_msg_id": "4d910219-74e2-4100-add4-7dd8ad150f31",
+        "text": "<@U05V2GDNNLT> 성준님 공유 감사합니다! 혹시 conda 버그는 어떤 거일까요?",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "28368614e02a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5987346071766_28368614e02abbfb71bd_72.png",
+            "first_name": "andrew",
+            "real_name": "andrew jang",
+            "display_name": "장준규",
+            "team": "T05UGFFGL07",
+            "name": "goldenbeluga",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1711010613.195479",
+        "parent_user_id": "U05V2GDNNLT",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gPqhh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05V2GDNNLT"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 성준님 공유 감사합니다! 혹시 conda 버그는 어떤 거일까요?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05V2GDNNLT",
+        "type": "message",
+        "ts": "1711069301.563019",
+        "client_msg_id": "940c9488-a3fd-4b26-abc1-0bff545d4d67",
+        "text": "아마 flash-attention 설치가 안될겁니다",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "ea660e2b5663",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5988655146706_ea660e2b566324290d7b_72.png",
+            "first_name": "장성준",
+            "real_name": "장성준 (Jun)",
+            "display_name": "장성준 (Jun)",
+            "team": "T05UGFFGL07",
+            "name": "peinguin77",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1711010613.195479",
+        "parent_user_id": "U05V2GDNNLT",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QOqXJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "아마 flash-attention 설치가 안될겁니다"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "party-blob",
+                "users": [
+                    "U05V7V2AV8A"
+                ],
+                "count": 1
+            },
+            {
+                "name": "대답",
+                "users": [
+                    "U05V7V2AV8A"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,379 @@
+[
+    {
+        "user": "U05UUUNAE5D",
+        "type": "message",
+        "ts": "1700916955.233719",
+        "edited": {
+            "user": "U05UUUNAE5D",
+            "ts": "1700917288.000000"
+        },
+        "client_msg_id": "22bce725-ed6e-4473-af85-390162214929",
+        "text": "월요일 10시에 바로 강의 들어온다고 하셨는데 월요일 10시에 강의 안 들어오시고, 화요일에 들어오시는 걸로 시간표가 변경됐군요! 화,수,금 종일 실강 때 뵙겠습니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "32899ebdb4c2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5995423014227_32899ebdb4c26d670b69_72.png",
+            "first_name": "감성필SungFeelCalm",
+            "real_name": "감성필SungFeelCalm",
+            "display_name": "감성필",
+            "team": "T05UGFFGL07",
+            "name": "betterthingsarecoming",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2TILP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "월요일 10시에 바로 강의 들어온다고 하셨는데 월요일 10시에 강의 안 들어오시고, 화요일에 들어오시는 걸로 시간표가 변경됐군요! 화,수,금 종일 실강 때 뵙겠습니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U065TBUL5EE",
+                    "U0600GGHJTC"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "text": "",
+        "files": [
+            {
+                "id": "F0672P4CRD4",
+                "created": 1700917275,
+                "timestamp": 1700917275,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U05UUUNAE5D",
+                "user_team": "T05UGFFGL07",
+                "editable": false,
+                "size": 47410,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F0672P4CRD4\/image.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F0672P4CRD4\/download\/image.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F0672P4CRD4-7010002de0\/image_64.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F0672P4CRD4-7010002de0\/image_80.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F0672P4CRD4-7010002de0\/image_360.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_360_w": 360,
+                "thumb_360_h": 103,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F0672P4CRD4-7010002de0\/image_480.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_480_w": 480,
+                "thumb_480_h": 137,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F0672P4CRD4-7010002de0\/image_160.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F0672P4CRD4-7010002de0\/image_720.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_720_w": 720,
+                "thumb_720_h": 206,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F0672P4CRD4-7010002de0\/image_800.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_800_w": 800,
+                "thumb_800_h": 228,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F0672P4CRD4-7010002de0\/image_960.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_960_w": 960,
+                "thumb_960_h": 274,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F0672P4CRD4-7010002de0\/image_1024.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 292,
+                "original_w": 1184,
+                "original_h": 338,
+                "thumb_tiny": "AwANADC95jbsfLSfNn7360eTznd+lO8setACYbP3jj60YbP3jj60\/YM5pNgzmgBnzZ+9+tLhs\/eOPrS+WPWnbBnNAH\/\/2Q==",
+                "permalink": "https:\/\/fcupstageai1.slack.com\/files\/U05UUUNAE5D\/F0672P4CRD4\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T05UGFFGL07-F0672P4CRD4-b5b4e50c65",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U05UUUNAE5D",
+        "display_as_bot": false,
+        "type": "message",
+        "ts": "1700917290.768709",
+        "client_msg_id": "b11af887-5819-4acd-bd96-e663b1997d88",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U065TBUL5EE",
+                    "U0600GGHJTC"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U065TBUL5EE",
+        "type": "message",
+        "ts": "1700917384.288509",
+        "client_msg_id": "d6143a4f-ab60-4b08-8c79-af752c7f06a4",
+        "text": "네네 맞습니다! 제가 시간표를 다음주랑 헷갈려서... 월요일 10시 ~ 12시 강의가 있는줄 알았네요! 다음주는 화요일부터 출강이 예정되어있습니다 :slightly_smiling_face:",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "34f110a5edc4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-11-14\/6197301711475_34f110a5edc435398e63_72.png",
+            "first_name": "김용담",
+            "real_name": "김용담",
+            "display_name": "김용담 강사",
+            "team": "T05UGFFGL07",
+            "name": "codingiscoffee",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2U075",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "네네 맞습니다! 제가 시간표를 다음주랑 헷갈려서... 월요일 10시 ~ 12시 강의가 있는줄 알았네요! 다음주는 화요일부터 출강이 예정되어있습니다 "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "대답",
+                "users": [
+                    "U05UUUNAE5D",
+                    "U05UNMQ4LP9",
+                    "U060BLVQYHW",
+                    "U0600GGHJTC"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "user": "U05UUUNAE5D",
+        "type": "message",
+        "ts": "1700917400.972199",
+        "edited": {
+            "user": "U05UUUNAE5D",
+            "ts": "1700917509.000000"
+        },
+        "client_msg_id": "290f2246-10c4-4be3-a99a-a36fd70dd8b6",
+        "text": "<@U065TBUL5EE> 데이터 엄청 큰거랑 모델 엄청 복잡한 거 실습교안 미리 주신다고 했는데 올려주시면 살펴보려 합니다:blush: 멋진 강의 늘 감사합니다!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "32899ebdb4c2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5995423014227_32899ebdb4c26d670b69_72.png",
+            "first_name": "감성필SungFeelCalm",
+            "real_name": "감성필SungFeelCalm",
+            "display_name": "감성필",
+            "team": "T05UGFFGL07",
+            "name": "betterthingsarecoming",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3pJNi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U065TBUL5EE"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 데이터 엄청 큰거랑 모델 엄청 복잡한 거 실습교안 미리 주신다고 했는데 올려주시면 살펴보려 합니다"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "blush",
+                                "unicode": "1f60a"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 멋진 강의 늘 감사합니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U065TBUL5EE",
+        "type": "message",
+        "ts": "1700927755.965069",
+        "client_msg_id": "3e2f1e14-547b-4aa3-ad32-a69f6082b44c",
+        "text": "<!channel>\n다음주 화요일 이후에 사용할 실습 코드 2가지 모두 공유드립니다.\n코딩하는 것에 취약하신 분들은 미리 한번 보고 오시면 도움이 됩니다 :slightly_smiling_face:\n\n1. 전력사용량 예측 문제 : <https:\/\/colab.research.google.com\/drive\/1ofBUeASn-pL0aGi71Rm3FOl6wdoS8kg3?usp=sharing>\n2. Bosch Production Line Performance : <https:\/\/colab.research.google.com\/drive\/1q9iR1aUToTYXxkY8RQ5vQrJBslslwTyR?usp=sharing>",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "34f110a5edc4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-11-14\/6197301711475_34f110a5edc435398e63_72.png",
+            "first_name": "김용담",
+            "real_name": "김용담",
+            "display_name": "김용담 강사",
+            "team": "T05UGFFGL07",
+            "name": "codingiscoffee",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/colab.research.google.com\/img\/colab_favicon_256px.png",
+                "image_width": 260,
+                "image_height": 260,
+                "image_bytes": 4534,
+                "from_url": "https:\/\/colab.research.google.com\/drive\/1ofBUeASn-pL0aGi71Rm3FOl6wdoS8kg3?usp=sharing",
+                "service_icon": "https:\/\/ssl.gstatic.com\/colaboratory-static\/common\/27ed55654157d4fccaba00d81cbe557a\/img\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/colab.research.google.com\/drive\/1ofBUeASn-pL0aGi71Rm3FOl6wdoS8kg3?usp=sharing",
+                "fallback": "Google Colaboratory",
+                "title": "Google Colaboratory",
+                "title_link": "https:\/\/colab.research.google.com\/drive\/1ofBUeASn-pL0aGi71Rm3FOl6wdoS8kg3?usp=sharing",
+                "service_name": "colab.research.google.com"
+            },
+            {
+                "from_url": "https:\/\/colab.research.google.com\/drive\/1q9iR1aUToTYXxkY8RQ5vQrJBslslwTyR?usp=sharing",
+                "image_url": "https:\/\/colab.research.google.com\/img\/colab_favicon_256px.png",
+                "image_width": 260,
+                "image_height": 260,
+                "image_bytes": 4534,
+                "service_icon": "https:\/\/ssl.gstatic.com\/colaboratory-static\/common\/27ed55654157d4fccaba00d81cbe557a\/img\/favicon.ico",
+                "id": 2,
+                "original_url": "https:\/\/colab.research.google.com\/drive\/1q9iR1aUToTYXxkY8RQ5vQrJBslslwTyR?usp=sharing",
+                "fallback": "Google Colaboratory",
+                "title": "Google Colaboratory",
+                "title_link": "https:\/\/colab.research.google.com\/drive\/1q9iR1aUToTYXxkY8RQ5vQrJBslslwTyR?usp=sharing",
+                "service_name": "colab.research.google.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2CrBE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n다음주 화요일 이후에 사용할 실습 코드 2가지 모두 공유드립니다.\n코딩하는 것에 취약하신 분들은 미리 한번 보고 오시면 도움이 됩니다 "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "전력사용량 예측 문제 : "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/colab.research.google.com\/drive\/1ofBUeASn-pL0aGi71Rm3FOl6wdoS8kg3?usp=sharing"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Bosch Production Line Performance : "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/colab.research.google.com\/drive\/1q9iR1aUToTYXxkY8RQ5vQrJBslslwTyR?usp=sharing"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U060LG0BT89",
+                    "U05UNMQ4LP9",
+                    "U05UUUNAE5D"
+                ],
+                "count": 3
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U05UWVA90H4",
+                    "U060LG0BT89"
+                ],
+                "count": 2
+            },
+            {
+                "name": "대답",
+                "users": [
+                    "U05V5B27DK7"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

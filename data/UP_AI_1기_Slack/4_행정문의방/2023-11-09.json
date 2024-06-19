@@ -1,0 +1,178 @@
+[
+    {
+        "user": "U06022Z2TED",
+        "type": "message",
+        "ts": "1699520202.293389",
+        "client_msg_id": "86ea0563-c52f-4a9b-8a55-68341963d157",
+        "text": "<@U06061L4S64> 발표시간 외에는 수업참여가 가능할듯하여 qr 외출로 처리하겠습니다!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "d62be7ca993c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5991921924404_d62be7ca993c5be99966_72.png",
+            "first_name": "ha",
+            "real_name": "ha ha",
+            "display_name": "김하연",
+            "team": "T05UGFFGL07",
+            "name": "leah8735",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1699513067.495469",
+        "parent_user_id": "U06022Z2TED",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GMvD8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U06061L4S64"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 발표시간 외에는 수업참여가 가능할듯하여 qr 외출로 처리하겠습니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U06061L4S64"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05V81G5ZDY",
+        "type": "message",
+        "ts": "1699521111.177199",
+        "client_msg_id": "5d53240e-8986-4af2-91a1-4dacd0a3c971",
+        "text": "• 당일 수업시간 50% 이상 참여 후 QR체크 = *조퇴로 처리*\n• 당일 수업시간 50% 미만 참여 후 QR체크 = *외출*\n    ◦ 외출의 경우 복귀 QR체크가 있어야 퇴실 QR 체크 가능합니다.\n    ◦ 입실 - 외출 - 복귀 - 퇴실 \/ 총 4번 QR체크 하시면 됩니다.\n    ◦ 하나라도 체크 없을 시 결석으로 처리되니 꼭 확인 부탁드립니다.\n외출 할 때 먼저 <@U06061L4S64> 님께 1차로 공유주셔서 확인해 주세요",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "db1aceeb0d90",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5994058472162_db1aceeb0d9030c57e69_72.jpg",
+            "first_name": "김현우",
+            "real_name": "김현우",
+            "display_name": "FC 김현우 매니저",
+            "team": "T05UGFFGL07",
+            "name": "hyunwoo.kim",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1699513067.495469",
+        "parent_user_id": "U06022Z2TED",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hZNBw",
+                "elements": [
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "당일 수업시간 50% 이상 참여 후 QR체크 = "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "조퇴로 처리",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "당일 수업시간 50% 미만 참여 후 QR체크 = "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "외출",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "외출의 경우 복귀 QR체크가 있어야 퇴실 QR 체크 가능합니다."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "입실 - 외출 - 복귀 - 퇴실 \/ 총 4번 QR체크 하시면 됩니다."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "하나라도 체크 없을 시 결석으로 처리되니 꼭 확인 부탁드립니다."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n외출 할 때 먼저 "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06061L4S64"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 님께 1차로 공유주셔서 확인해 주세요"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

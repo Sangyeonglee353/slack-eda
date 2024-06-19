@@ -1,0 +1,446 @@
+[
+    {
+        "user": "U05VAU596PP",
+        "type": "message",
+        "ts": "1713943734.296499",
+        "client_msg_id": "b90ce2e7-d179-4071-a296-5b0449e15532",
+        "text": "<@U0608EG7YEA> 안녕하세요 제가 팀 초대 수락을 하지 못해 IR3팀 병합이 안됐습니다. 팀 초대 기한을 연장해주실 수 있으실까요?죄송합니다:pray:",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "850d40cd33f4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5996957360085_850d40cd33f433747c40_72.png",
+            "first_name": "이소영B",
+            "real_name": "이소영B",
+            "display_name": "",
+            "team": "T05UGFFGL07",
+            "name": "sheep5450",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1713943734.296499",
+        "reply_count": 7,
+        "reply_users_count": 2,
+        "latest_reply": "1714009380.050049",
+        "reply_users": [
+            "U0608EG7YEA",
+            "U05VAU596PP"
+        ],
+        "replies": [
+            {
+                "user": "U0608EG7YEA",
+                "ts": "1714007071.682069"
+            },
+            {
+                "user": "U05VAU596PP",
+                "ts": "1714007248.428459"
+            },
+            {
+                "user": "U05VAU596PP",
+                "ts": "1714008170.298919"
+            },
+            {
+                "user": "U0608EG7YEA",
+                "ts": "1714008560.772299"
+            },
+            {
+                "user": "U05VAU596PP",
+                "ts": "1714008972.619619"
+            },
+            {
+                "user": "U0608EG7YEA",
+                "ts": "1714009276.123329"
+            },
+            {
+                "user": "U05VAU596PP",
+                "ts": "1714009380.050049"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5BnGo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0608EG7YEA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 안녕하세요 제가 팀 초대 수락을 하지 못해 IR3팀 병합이 안됐습니다. 팀 초대 기한을 연장해주실 수 있으실까요?죄송합니다"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0608EG7YEA",
+        "type": "message",
+        "ts": "1714007071.682069",
+        "client_msg_id": "6bcc7ec7-7efc-4e1b-b35e-779a2bbae35e",
+        "text": "시간이 다소 많이 지났기 때문에 금일 오후 4시까지 연장했습니다. 빠르게 결성 부탁드려요 :smiling_face_with_tear:",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "542e7e1dec67",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-12\/6028220315186_542e7e1dec6721784df9_72.png",
+            "first_name": "업스테이지",
+            "real_name": "업스테이지 크리스",
+            "display_name": "업스테이지 크리스",
+            "team": "T05UGFFGL07",
+            "name": "chris",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1713943734.296499",
+        "parent_user_id": "U05VAU596PP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5leQp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "시간이 다소 많이 지났기 때문에 금일 오후 4시까지 연장했습니다. 빠르게 결성 부탁드려요 "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smiling_face_with_tear",
+                                "unicode": "1f972"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05VAU596PP",
+        "type": "message",
+        "ts": "1714007248.428459",
+        "client_msg_id": "ca776ca7-75ee-44a3-8017-a141ee26d757",
+        "text": "감사합니다!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "850d40cd33f4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5996957360085_850d40cd33f433747c40_72.png",
+            "first_name": "이소영B",
+            "real_name": "이소영B",
+            "display_name": "",
+            "team": "T05UGFFGL07",
+            "name": "sheep5450",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1713943734.296499",
+        "parent_user_id": "U05VAU596PP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4sMmL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "감사합니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "수락 버튼이 비활성화 되어 있습니다. 확인 부탁드립니다:face_holding_back_tears:",
+        "files": [
+            {
+                "id": "F0717H43J8G",
+                "created": 1714008081,
+                "timestamp": 1714008081,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U05VAU596PP",
+                "user_team": "T05UGFFGL07",
+                "editable": false,
+                "size": 22541,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F0717H43J8G\/image.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F0717H43J8G\/download\/image.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F0717H43J8G-3b8960e05a\/image_64.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F0717H43J8G-3b8960e05a\/image_80.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F0717H43J8G-3b8960e05a\/image_360.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_360_w": 360,
+                "thumb_360_h": 103,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F0717H43J8G-3b8960e05a\/image_480.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_480_w": 480,
+                "thumb_480_h": 137,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F0717H43J8G-3b8960e05a\/image_160.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F0717H43J8G-3b8960e05a\/image_720.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_720_w": 720,
+                "thumb_720_h": 206,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F0717H43J8G-3b8960e05a\/image_800.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_800_w": 800,
+                "thumb_800_h": 229,
+                "original_w": 863,
+                "original_h": 247,
+                "thumb_tiny": "AwANADDSwM5waWiigAoz04pNi88detJwuABwOlADqM89KT1paAP\/2Q==",
+                "permalink": "https:\/\/fcupstageai1.slack.com\/files\/U05VAU596PP\/F0717H43J8G\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T05UGFFGL07-F0717H43J8G-8f50c8343c",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U05VAU596PP",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eWgfl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "수락 버튼이 비활성화 되어 있습니다. 확인 부탁드립니다"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "face_holding_back_tears",
+                                "unicode": "1f979"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1714008170.298919",
+        "client_msg_id": "4197f8fd-dbb3-434f-8a48-41794e5f0fca",
+        "thread_ts": "1713943734.296499",
+        "parent_user_id": "U05VAU596PP"
+    },
+    {
+        "user": "U0608EG7YEA",
+        "type": "message",
+        "ts": "1714008560.772299",
+        "client_msg_id": "a55e9998-7907-4111-81a5-ee0b115d97f8",
+        "text": "<@U05VAU596PP> 정확히 어떤 상태인지 말씀주시면 감사하겠습니다",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "542e7e1dec67",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-12\/6028220315186_542e7e1dec6721784df9_72.png",
+            "first_name": "업스테이지",
+            "real_name": "업스테이지 크리스",
+            "display_name": "업스테이지 크리스",
+            "team": "T05UGFFGL07",
+            "name": "chris",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1713943734.296499",
+        "parent_user_id": "U05VAU596PP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BOvU\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05VAU596PP"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 정확히 어떤 상태인지 말씀주시면 감사하겠습니다"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05VAU596PP",
+        "type": "message",
+        "ts": "1714008972.619619",
+        "client_msg_id": "bb799fae-89f4-4081-9bbd-50784b300147",
+        "text": "과학 지식 질의 응답 시스템 구축 대회에서 초대 메세지에 수락하기 버튼이 비활성화 되어 있어서 팀 초대 수락을 할 수 없습니다. 초대 메세지는 22일 팀 병합 기간에 수신 받은 것입니다!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "850d40cd33f4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5996957360085_850d40cd33f433747c40_72.png",
+            "first_name": "이소영B",
+            "real_name": "이소영B",
+            "display_name": "",
+            "team": "T05UGFFGL07",
+            "name": "sheep5450",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1713943734.296499",
+        "parent_user_id": "U05VAU596PP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kyk0O",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "과학 지식 질의 응답 시스템 구축 대회에서 초대 메세지에 수락하기 버튼이 비활성화 되어 있어서 팀 초대 수락을 할 수 없습니다. 초대 메세지는 22일 팀 병합 기간에 수신 받은 것입니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U0608EG7YEA"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U0608EG7YEA",
+        "type": "message",
+        "ts": "1714009276.123329",
+        "edited": {
+            "user": "U0608EG7YEA",
+            "ts": "1714009292.000000"
+        },
+        "client_msg_id": "88e42074-bd0e-4ca7-8063-da7bf1f0930e",
+        "text": "<@U05VAU596PP> 설명 감사합니다. 혹시 동일한 내용으로 Stages ‘이슈 문의 게시판’에 글 작성해 주실 수 있을까요? 개발 담당자 분께서 확인 후 처리해주실 예정입니다. 제가 시스템에서 해보려는데 해결이 안되네요 :sweat_smile:\n위 이미지 캡쳐본 첨부와 맥락 간단하게 설명주시면 됩니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "542e7e1dec67",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-12\/6028220315186_542e7e1dec6721784df9_72.png",
+            "first_name": "업스테이지",
+            "real_name": "업스테이지 크리스",
+            "display_name": "업스테이지 크리스",
+            "team": "T05UGFFGL07",
+            "name": "chris",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1713943734.296499",
+        "parent_user_id": "U05VAU596PP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4lX8G",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05VAU596PP"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 설명 감사합니다. 혹시 동일한 내용으로 Stages ‘이슈 문의 게시판’에 글 작성해 주실 수 있을까요? 개발 담당자 분께서 확인 후 처리해주실 예정입니다. 제가 시스템에서 해보려는데 해결이 안되네요 "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_smile",
+                                "unicode": "1f605"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n위 이미지 캡쳐본 첨부와 맥락 간단하게 설명주시면 됩니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05VAU596PP",
+        "type": "message",
+        "ts": "1714009380.050049",
+        "client_msg_id": "43bdd578-004a-4304-944f-d243d13a5271",
+        "text": "넵 감사합니다!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "850d40cd33f4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5996957360085_850d40cd33f433747c40_72.png",
+            "first_name": "이소영B",
+            "real_name": "이소영B",
+            "display_name": "",
+            "team": "T05UGFFGL07",
+            "name": "sheep5450",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1713943734.296499",
+        "parent_user_id": "U05VAU596PP",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "szVyM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "넵 감사합니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

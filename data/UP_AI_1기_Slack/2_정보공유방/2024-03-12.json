@@ -1,0 +1,112 @@
+[
+    {
+        "user": "U065TBUL5EE",
+        "type": "message",
+        "ts": "1710293768.642759",
+        "client_msg_id": "1387A3A7-26C6-4238-A9D4-3BEE71416608",
+        "text": "여러분 얼른 이 분야를 탈출하ㅅ...\n\n<https:\/\/www.cognition-labs.com\/blog?fbclid=IwAR3PBDlgkf7mGhkhSav20vmoivS0gCfF1qyvIpu5IR3TfWZOXsaTQzKHBS4_aem_AaMnv_pplXrCPqEASVmlh-dwOgVnh6RrgLJ4DW9faOnBI5cts2nCR-SRYrvYUkrz2xY|https:\/\/www.cognition-labs.com\/blog?fbclid=IwAR3PBDlgkf7mGhkhSav20vmoivS0gCfF1qyvIpu5IR3TfWZOXsaTQzKHBS4_aem_AaMnv_pplXrCPqEASVmlh-dwOgVnh6RrgLJ4DW9faOnBI5cts2nCR-SRYrvYUkrz2xY>",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "34f110a5edc4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-11-14\/6197301711475_34f110a5edc435398e63_72.png",
+            "first_name": "김용담",
+            "real_name": "김용담",
+            "display_name": "김용담 강사",
+            "team": "T05UGFFGL07",
+            "name": "codingiscoffee",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9TxYL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "여러분"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "얼른"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "이"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "분야를"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "탈출하"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ㅅ...\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.cognition-labs.com\/blog?fbclid=IwAR3PBDlgkf7mGhkhSav20vmoivS0gCfF1qyvIpu5IR3TfWZOXsaTQzKHBS4_aem_AaMnv_pplXrCPqEASVmlh-dwOgVnh6RrgLJ4DW9faOnBI5cts2nCR-SRYrvYUkrz2xY",
+                                "text": "https:\/\/www.cognition-labs.com\/blog?fbclid=IwAR3PBDlgkf7mGhkhSav20vmoivS0gCfF1qyvIpu5IR3TfWZOXsaTQzKHBS4_aem_AaMnv_pplXrCPqEASVmlh-dwOgVnh6RrgLJ4DW9faOnBI5cts2nCR-SRYrvYUkrz2xY"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "face_in_clouds",
+                "users": [
+                    "U060C67EYQ5",
+                    "U05V2T62KUJ",
+                    "U05V2HL22M9",
+                    "U060BLVQYHW"
+                ],
+                "count": 4
+            },
+            {
+                "name": "meow_noddies",
+                "users": [
+                    "U05V5B27DK7",
+                    "U05V2T62KUJ",
+                    "U05UN5DQ423",
+                    "U05UWVA90H4"
+                ],
+                "count": 4
+            },
+            {
+                "name": "melting_face",
+                "users": [
+                    "U05V2T62KUJ",
+                    "U05UWVA90H4",
+                    "U0600GGHJTC"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

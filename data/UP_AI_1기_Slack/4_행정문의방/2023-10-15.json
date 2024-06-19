@@ -1,0 +1,1584 @@
+[
+    {
+        "user": "U060JMX5FK2",
+        "type": "message",
+        "ts": "1697358993.789179",
+        "client_msg_id": "e76990bf-4ea2-4710-8fdd-b25f9768ee73",
+        "text": "<@U05UNC6FNK1> <@U05V81G5ZDY> 안녕하세요 주말에 연락드려 죄송합니다 제가 조모상 중이어서 16일에 출석을 못하는데 공가 가능할까요? 장례식장 이용확인서 증빙 제출 가능합니다",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "gfc7ecc6b1da",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fc7ecc6b1da3c3f7a37c07a405aa9e6a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "노균호",
+            "real_name": "노균호",
+            "display_name": "노균호",
+            "team": "T05UGFFGL07",
+            "name": "guno2633",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697358993.789179",
+        "reply_count": 3,
+        "reply_users_count": 1,
+        "latest_reply": "1697788565.797339",
+        "reply_users": [
+            "U05V81G5ZDY"
+        ],
+        "replies": [
+            {
+                "user": "U05V81G5ZDY",
+                "ts": "1697414085.028959"
+            },
+            {
+                "user": "U05V81G5ZDY",
+                "ts": "1697414187.272149"
+            },
+            {
+                "user": "U05V81G5ZDY",
+                "ts": "1697788565.797339"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OxkXn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05UNC6FNK1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05V81G5ZDY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 안녕하세요 주말에 연락드려 죄송합니다 제가 조모상 중이어서 16일에 출석을 못하는데 공가 가능할까요? 장례식장 이용확인서 증빙 제출 가능합니다"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "U05V81G5ZDY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05UW74NJ0N",
+        "type": "message",
+        "ts": "1697362456.359989",
+        "edited": {
+            "user": "U05UW74NJ0N",
+            "ts": "1697362494.000000"
+        },
+        "client_msg_id": "6ca16453-2323-40ae-9253-df6ff04a1dbc",
+        "text": "<@U05UNC6FNK1> <@U05V81G5ZDY> <@U06061L4S64>\n\n해외 계획을 취소해 보려 했으나.. 여의치가 않아서 입국하게 됐습니다. 체류 기간 중 하루만 휴가로 대체 하고자 요청 드립니다. 양식으로 첨부 파일 전송하였습니다. 감사합니다.\n\n16일로 휴가 요청을 드렸으나 17일도 상관 없습니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "gf4e3c8b4c9e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/f4e3c8b4c9eebf87b0a9a7969b1a5c6a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+            "first_name": "우승현",
+            "real_name": "우승현",
+            "display_name": "우승현",
+            "team": "T05UGFFGL07",
+            "name": "fromwsh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697362456.359989",
+        "reply_count": 5,
+        "reply_users_count": 2,
+        "latest_reply": "1697672562.976749",
+        "reply_users": [
+            "U05V81G5ZDY",
+            "U05UW74NJ0N"
+        ],
+        "replies": [
+            {
+                "user": "U05V81G5ZDY",
+                "ts": "1697414339.298579"
+            },
+            {
+                "user": "U05UW74NJ0N",
+                "ts": "1697420587.299929"
+            },
+            {
+                "user": "U05V81G5ZDY",
+                "ts": "1697420994.898529"
+            },
+            {
+                "user": "U05UW74NJ0N",
+                "ts": "1697629788.854519"
+            },
+            {
+                "user": "U05V81G5ZDY",
+                "ts": "1697672562.976749"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/bx1r",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05UNC6FNK1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05V81G5ZDY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06061L4S64"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n해외 계획을 취소해 보려 했으나.. 여의치가 않아서 입국하게 됐습니다. 체류 기간 중 하루만 휴가로 대체 하고자 요청 드립니다. 양식으로 첨부 파일 전송하였습니다. 감사합니다.\n\n16일로 휴가 요청을 드렸으나 17일도 상관 없습니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U05V81G5ZDY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05V81G5ZDY",
+        "type": "message",
+        "ts": "1697414085.028959",
+        "client_msg_id": "362f4fa3-6c5b-47a0-adda-1631e533d20c",
+        "text": "삼가 고인의 명복을 빕니다....\n\n조심히 다녀오시고 공가 처리 가능합니다.\n해당 서류로 구글폼 설문 작성 부탁드립니다!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "db1aceeb0d90",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5994058472162_db1aceeb0d9030c57e69_72.jpg",
+            "first_name": "김현우",
+            "real_name": "김현우",
+            "display_name": "FC 김현우 매니저",
+            "team": "T05UGFFGL07",
+            "name": "hyunwoo.kim",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697358993.789179",
+        "parent_user_id": "U060JMX5FK2",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LYQKz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "삼가 고인의 명복을 빕니다....\n\n조심히 다녀오시고 공가 처리 가능합니다.\n해당 서류로 구글폼 설문 작성 부탁드립니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05V81G5ZDY",
+        "type": "message",
+        "ts": "1697414187.272149",
+        "client_msg_id": "42e9474a-80a3-4a37-96ab-a32052b39739",
+        "text": "상으로 부터 2일(주말포함) 공가 처리 가능합니다.\n\n• 사망진단서\n• 가족관계증명서\n장례식장 이용확인서 대신 위 2개 서류로 제출 부탁드립니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "db1aceeb0d90",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5994058472162_db1aceeb0d9030c57e69_72.jpg",
+            "first_name": "김현우",
+            "real_name": "김현우",
+            "display_name": "FC 김현우 매니저",
+            "team": "T05UGFFGL07",
+            "name": "hyunwoo.kim",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697358993.789179",
+        "parent_user_id": "U060JMX5FK2",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jBan4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "상으로 부터 2일(주말포함) 공가 처리 가능합니다.\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "사망진단서"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "가족관계증명서"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "장례식장 이용확인서 대신 위 2개 서류로 제출 부탁드립니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05V81G5ZDY",
+        "type": "message",
+        "ts": "1697414339.298579",
+        "client_msg_id": "751b4a80-7622-4ec0-a142-36ecc1fbbd80",
+        "text": "16일 휴가로 제출하셔서 16일로 처리하겠습니다.\n귀국은 언제 하는지도 연락 부탁드립니다.\n\n다만, 휴가계획서만 첨부되어 있어 연락드립니다.\n후에 휴가계획서 + 출석대장 압축파일로 구글폼 설문 작성 다시 부탁드립니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "db1aceeb0d90",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5994058472162_db1aceeb0d9030c57e69_72.jpg",
+            "first_name": "김현우",
+            "real_name": "김현우",
+            "display_name": "FC 김현우 매니저",
+            "team": "T05UGFFGL07",
+            "name": "hyunwoo.kim",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697362456.359989",
+        "parent_user_id": "U05UW74NJ0N",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PqVMd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "16일 휴가로 제출하셔서 16일로 처리하겠습니다.\n귀국은 언제 하는지도 연락 부탁드립니다.\n\n다만, 휴가계획서만 첨부되어 있어 연락드립니다.\n후에 휴가계획서 + 출석대장 압축파일로 구글폼 설문 작성 다시 부탁드립니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05UW74NJ0N",
+        "type": "message",
+        "ts": "1697420587.299929",
+        "client_msg_id": "26ae1b91-9afa-4aa4-b9ff-8166726f817e",
+        "text": "<@U05V81G5ZDY> 제가 어제 글 두개를 올렸는데 두 번째 글에는 파일 2개를 함께 업로드 하였습니다. 확인 부탁드리겠습니다. 18일부터 다시 참여합니다 감사합니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "gf4e3c8b4c9e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/f4e3c8b4c9eebf87b0a9a7969b1a5c6a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+            "first_name": "우승현",
+            "real_name": "우승현",
+            "display_name": "우승현",
+            "team": "T05UGFFGL07",
+            "name": "fromwsh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697362456.359989",
+        "parent_user_id": "U05UW74NJ0N",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lc2Kp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05V81G5ZDY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 제가 어제 글 두개를 올렸는데 두 번째 글에는 파일 2개를 함께 업로드 하였습니다. 확인 부탁드리겠습니다. 18일부터 다시 참여합니다 감사합니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "출석대장의 경우\n<https:\/\/www.notion.so\/1b1e38a64a4143318a84e11b4b705e6c>\n해당 노션에서 확인 가능합니다.\n\n아래 첨부파일 같이 전달 드리겠습니다. 다녀오셔서 바로 압축파일로 구글폼 설문작성 다시 부탁드립니다.",
+        "files": [
+            {
+                "id": "F061WRRL3DE",
+                "created": 1697420945,
+                "timestamp": 1697420945,
+                "name": "패스트캠퍼스 인공지능(AI) 부트캠프 7기(UP_AI) 출석대장 (1).docx",
+                "title": "패스트캠퍼스 인공지능(AI) 부트캠프 7기(UP_AI) 출석대장 (1).docx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "filetype": "docx",
+                "pretty_type": "Word Document",
+                "user": "U05V81G5ZDY",
+                "user_team": "T05UGFFGL07",
+                "editable": false,
+                "size": 25881,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F061WRRL3DE\/________________________________ai_______________7____up_ai________________1_.docx?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T05UGFFGL07-F061WRRL3DE\/download\/________________________________ai_______________7____up_ai________________1_.docx?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "media_display_type": "unknown",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F061WRRL3DE-ccc71ed8a5\/________________________________ai_______________7____up_ai________________1__converted.pdf?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T05UGFFGL07-F061WRRL3DE-ccc71ed8a5\/________________________________ai_______________7____up_ai________________1__thumb_pdf.png?t=xoxe-5968525564007-7195343712801-7176043843942-190e799901308d9af426d92381ad6c1e",
+                "thumb_pdf_w": 909,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/fcupstageai1.slack.com\/files\/U05V81G5ZDY\/F061WRRL3DE\/________________________________ai_______________7____up_ai________________1_.docx",
+                "permalink_public": "https:\/\/slack-files.com\/T05UGFFGL07-F061WRRL3DE-3cae4a7075",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U05V81G5ZDY",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nfOGg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "출석대장의 경우\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.notion.so\/1b1e38a64a4143318a84e11b4b705e6c"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n해당 노션에서 확인 가능합니다.\n\n아래 첨부파일 같이 전달 드리겠습니다. 다녀오셔서 바로 압축파일로 구글폼 설문작성 다시 부탁드립니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1697420994.898529",
+        "client_msg_id": "256d4c79-98be-4d67-bf8a-9d76492e938a",
+        "thread_ts": "1697362456.359989",
+        "parent_user_id": "U05UW74NJ0N",
+        "attachments": [
+            {
+                "image_url": "https:\/\/www.notion.so\/image\/https%3A%2F%2Fwww.notion.so%2Fimages%2Fpage-cover%2Fgradients_8.png?table=block&id=1b1e38a6-4a41-4331-8a84-e11b4b705e6c&spaceId=3ef8dbd9-414c-4cf5-813d-32ecb943cc67&width=2000&userId=&cache=v2",
+                "image_width": 2000,
+                "image_height": 2000,
+                "image_bytes": 280756,
+                "from_url": "https:\/\/www.notion.so\/1b1e38a64a4143318a84e11b4b705e6c",
+                "id": 1,
+                "original_url": "https:\/\/www.notion.so\/1b1e38a64a4143318a84e11b4b705e6c",
+                "fallback": "Fastcampus_B2B on Notion: [양식] 출석대장양식 \/ 휴가계획서 등",
+                "text": "휴가계획서 - 다운받아 작성 후 → PDF 파일로 저장 →설문시 출석대장과 함께 설문제출",
+                "title": "[양식] 출석대장양식 \/ 휴가계획서 등",
+                "title_link": "https:\/\/www.notion.so\/1b1e38a64a4143318a84e11b4b705e6c",
+                "service_name": "Fastcampus_B2B on Notion"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U05UW74NJ0N"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05UUUNAE5D",
+        "type": "message",
+        "ts": "1697428360.985079",
+        "client_msg_id": "4cf3c606-24ce-40b0-a3c2-5ba1bcbbe19a",
+        "text": "지난 주 바쁜 업무 때문에 금요일 퇴실 QR체크를 깜박 잊고 못해서 결석처리됐는데 이거 되돌릴 수 없는지 문의드립니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "32899ebdb4c2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5995423014227_32899ebdb4c26d670b69_72.png",
+            "first_name": "감성필SungFeelCalm",
+            "real_name": "감성필SungFeelCalm",
+            "display_name": "감성필",
+            "team": "T05UGFFGL07",
+            "name": "betterthingsarecoming",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697428360.985079",
+        "reply_count": 10,
+        "reply_users_count": 3,
+        "latest_reply": "1697432093.281129",
+        "reply_users": [
+            "U05VAHXECP6",
+            "U05V81G5ZDY",
+            "U05UUUNAE5D"
+        ],
+        "replies": [
+            {
+                "user": "U05VAHXECP6",
+                "ts": "1697428810.535169"
+            },
+            {
+                "user": "U05V81G5ZDY",
+                "ts": "1697429193.670739"
+            },
+            {
+                "user": "U05UUUNAE5D",
+                "ts": "1697429440.311609"
+            },
+            {
+                "user": "U05UUUNAE5D",
+                "ts": "1697429483.560629"
+            },
+            {
+                "user": "U05V81G5ZDY",
+                "ts": "1697429511.912039"
+            },
+            {
+                "user": "U05VAHXECP6",
+                "ts": "1697429837.355409"
+            },
+            {
+                "user": "U05UUUNAE5D",
+                "ts": "1697430784.445599"
+            },
+            {
+                "user": "U05UUUNAE5D",
+                "ts": "1697431003.847549"
+            },
+            {
+                "user": "U05VAHXECP6",
+                "ts": "1697431883.251199"
+            },
+            {
+                "user": "U05UUUNAE5D",
+                "ts": "1697432093.281129"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1697432093.281129",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "g7BCe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "지난 주 바쁜 업무 때문에 금요일 퇴실 QR체크를 깜박 잊고 못해서 결석처리됐는데 이거 되돌릴 수 없는지 문의드립니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U05VAHXECP6"
+                ],
+                "count": 1
+            },
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "U05V81G5ZDY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05VAHXECP6",
+        "type": "message",
+        "ts": "1697428810.535169",
+        "client_msg_id": "2dfe2a42-78fc-4eb2-8906-3e9bb47e2fc1",
+        "text": "<@U05V81G5ZDY> 현우 매니저님 확인 후 답변 부탁드릴게요!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "50abee101814",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-11\/6044824153712_50abee1018149e21919b_72.jpg",
+            "first_name": "이상영",
+            "real_name": "이상영",
+            "display_name": "FC 이상영 매니저",
+            "team": "T05UGFFGL07",
+            "name": "sangyeong.lee",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697428360.985079",
+        "parent_user_id": "U05UUUNAE5D",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "R8hxD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05V81G5ZDY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 현우 매니저님 확인 후 답변 부탁드릴게요!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1::skin-tone-2",
+                "users": [
+                    "U05V81G5ZDY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05UZPKCGBZ",
+        "type": "message",
+        "ts": "1697429086.035769",
+        "client_msg_id": "0b2b524a-c586-48f8-a9d5-021d6aceeda7",
+        "text": "<@U05UNC6FNK1> <@U05V81G5ZDY> 안녕하세요 코로나로 인하여 금일 수업 참여를 못하게 되어 해당 사유로 공가 신청 구글 폼 제출 완료하였습니다. 확인 부탁 드립니다!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "g7a29d5e361b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/7a29d5e361b7041b56d931895892ab2b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+            "first_name": "윤혜주",
+            "real_name": "윤혜주",
+            "display_name": "",
+            "team": "T05UGFFGL07",
+            "name": "megan000629",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697429086.035769",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1697429479.137419",
+        "reply_users": [
+            "U05V81G5ZDY",
+            "U05UZPKCGBZ"
+        ],
+        "replies": [
+            {
+                "user": "U05V81G5ZDY",
+                "ts": "1697429430.783439"
+            },
+            {
+                "user": "U05UZPKCGBZ",
+                "ts": "1697429479.137419"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Pdddl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05UNC6FNK1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05V81G5ZDY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 안녕하세요 코로나로 인하여 금일 수업 참여를 못하게 되어 해당 사유로 공가 신청 구글 폼 제출 완료하였습니다. 확인 부탁 드립니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pill",
+                "users": [
+                    "U05V81G5ZDY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05V81G5ZDY",
+        "type": "message",
+        "ts": "1697429193.670739",
+        "client_msg_id": "fbfaffff-1b6d-42a7-910b-19773108d71e",
+        "text": "<@U05UUUNAE5D> 운영일 기준 발생일자로부터 익일까지 QR정정 가능합니다!\n\nLM님들께 해당일자 입실, 퇴실 스크린샷 전달 받아 출석대장과 함께 구글폼 작성 해주시면 됩니다.\n출석대장 + 입.퇴실 스크린샷 압축파일로 구글폼 설문 작성 부탁드립니다.\n\n금일 16시 이전까지 전달 주셔야 정정 됩니다.\n감사합니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "db1aceeb0d90",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5994058472162_db1aceeb0d9030c57e69_72.jpg",
+            "first_name": "김현우",
+            "real_name": "김현우",
+            "display_name": "FC 김현우 매니저",
+            "team": "T05UGFFGL07",
+            "name": "hyunwoo.kim",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697428360.985079",
+        "parent_user_id": "U05UUUNAE5D",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NFYAz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05UUUNAE5D"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 운영일 기준 발생일자로부터 익일까지 QR정정 가능합니다!\n\nLM님들께 해당일자 입실, 퇴실 스크린샷 전달 받아 출석대장과 함께 구글폼 작성 해주시면 됩니다.\n출석대장 + 입.퇴실 스크린샷 압축파일로 구글폼 설문 작성 부탁드립니다.\n\n금일 16시 이전까지 전달 주셔야 정정 됩니다.\n감사합니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05V1DLE962",
+        "type": "message",
+        "ts": "1697429211.799009",
+        "client_msg_id": "E156F1AB-1100-4729-B458-122C61234B5E",
+        "text": "<@U05UNC6FNK1>  안녕하세요 이번주 카드 수령 예정이라고 합니다 그렇다면 이번달 출석 요건이 충족되지 못하는데 어떤식으로 진행해야 하나요?",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "c56423ff4fbb",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5979570600183_c56423ff4fbba4d924ee_72.png",
+            "first_name": "최강희",
+            "real_name": "최강희",
+            "display_name": "최강희",
+            "team": "T05UGFFGL07",
+            "name": "rkdgml3577",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697429211.799009",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1697430636.897139",
+        "reply_users": [
+            "U05UNC6FNK1",
+            "U05V1DLE962"
+        ],
+        "replies": [
+            {
+                "user": "U05UNC6FNK1",
+                "ts": "1697429599.480599"
+            },
+            {
+                "user": "U05V1DLE962",
+                "ts": "1697430587.325979"
+            },
+            {
+                "user": "U05UNC6FNK1",
+                "ts": "1697430636.897139"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vg4u8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05UNC6FNK1"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  안녕하세요 "
+                            },
+                            {
+                                "type": "text",
+                                "text": "이번주"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "카드 수령 예정이라고 합니다 그렇다면 이번달 출석 요건이 충족되지 못하는데 어떤식으로 진행해야 하나요"
+                            },
+                            {
+                                "type": "text",
+                                "text": "?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "U05UNC6FNK1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05V81G5ZDY",
+        "type": "message",
+        "ts": "1697429430.783439",
+        "client_msg_id": "44bbe220-07c7-49e3-9b8e-0ea33fb0919a",
+        "text": "구글폼 확인했습니다. 양성확인서 전달 주셔서 10.14일자부터 10.18일까지(주말 포함 5일간) 코로나로 인한 공가 처리 가능하십니다.\n-&gt;17,18일자 말씀 주시면 공가처리 하겠습니다.\n\n몸조리 잘하시고 빠른 쾌유를 빕니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "db1aceeb0d90",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5994058472162_db1aceeb0d9030c57e69_72.jpg",
+            "first_name": "김현우",
+            "real_name": "김현우",
+            "display_name": "FC 김현우 매니저",
+            "team": "T05UGFFGL07",
+            "name": "hyunwoo.kim",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697429086.035769",
+        "parent_user_id": "U05UZPKCGBZ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nk+L5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "구글폼 확인했습니다. 양성확인서 전달 주셔서 10.14일자부터 10.18일까지(주말 포함 5일간) 코로나로 인한 공가 처리 가능하십니다.\n->17,18일자 말씀 주시면 공가처리 하겠습니다.\n\n몸조리 잘하시고 빠른 쾌유를 빕니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05UUUNAE5D",
+        "type": "message",
+        "ts": "1697429440.311609",
+        "client_msg_id": "334ef472-704d-4030-896f-c26c5986cda6",
+        "text": "<@U05V81G5ZDY> 출석대장과 구글폼은 어디에서 확인가능 혹은 다운로드 가능한가요?",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "32899ebdb4c2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5995423014227_32899ebdb4c26d670b69_72.png",
+            "first_name": "감성필SungFeelCalm",
+            "real_name": "감성필SungFeelCalm",
+            "display_name": "감성필",
+            "team": "T05UGFFGL07",
+            "name": "betterthingsarecoming",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697428360.985079",
+        "parent_user_id": "U05UUUNAE5D",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KAPgM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05V81G5ZDY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 출석대장과 구글폼은 어디에서 확인가능 혹은 다운로드 가능한가요?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05UZPKCGBZ",
+        "type": "message",
+        "ts": "1697429479.137419",
+        "client_msg_id": "688e8559-88d2-4b03-8a34-63c217b1d831",
+        "text": "18일까지 공가처리 부탁드리겠습니다!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "g7a29d5e361b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/7a29d5e361b7041b56d931895892ab2b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+            "first_name": "윤혜주",
+            "real_name": "윤혜주",
+            "display_name": "",
+            "team": "T05UGFFGL07",
+            "name": "megan000629",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697429086.035769",
+        "parent_user_id": "U05UZPKCGBZ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zRhLM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "18일까지 공가처리 부탁드리겠습니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "U05V81G5ZDY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "subtype": "thread_broadcast",
+        "user": "U05UUUNAE5D",
+        "thread_ts": "1697428360.985079",
+        "root": {
+            "user": "U05UUUNAE5D",
+            "type": "message",
+            "ts": "1697428360.985079",
+            "client_msg_id": "4cf3c606-24ce-40b0-a3c2-5ba1bcbbe19a",
+            "text": "지난 주 바쁜 업무 때문에 금요일 퇴실 QR체크를 깜박 잊고 못해서 결석처리됐는데 이거 되돌릴 수 없는지 문의드립니다.",
+            "team": "T05UGFFGL07",
+            "thread_ts": "1697428360.985079",
+            "reply_count": 10,
+            "reply_users_count": 3,
+            "latest_reply": "1697432093.281129",
+            "reply_users": [
+                "U05VAHXECP6",
+                "U05V81G5ZDY",
+                "U05UUUNAE5D"
+            ],
+            "replies": [
+                {
+                    "user": "U05VAHXECP6",
+                    "ts": "1697428810.535169"
+                },
+                {
+                    "user": "U05V81G5ZDY",
+                    "ts": "1697429193.670739"
+                },
+                {
+                    "user": "U05UUUNAE5D",
+                    "ts": "1697429440.311609"
+                },
+                {
+                    "user": "U05UUUNAE5D",
+                    "ts": "1697429483.560629"
+                },
+                {
+                    "user": "U05V81G5ZDY",
+                    "ts": "1697429511.912039"
+                },
+                {
+                    "user": "U05VAHXECP6",
+                    "ts": "1697429837.355409"
+                },
+                {
+                    "user": "U05UUUNAE5D",
+                    "ts": "1697430784.445599"
+                },
+                {
+                    "user": "U05UUUNAE5D",
+                    "ts": "1697431003.847549"
+                },
+                {
+                    "user": "U05VAHXECP6",
+                    "ts": "1697431883.251199"
+                },
+                {
+                    "user": "U05UUUNAE5D",
+                    "ts": "1697432093.281129"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": true,
+            "last_read": "1697432093.281129",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "g7BCe",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "지난 주 바쁜 업무 때문에 금요일 퇴실 QR체크를 깜박 잊고 못해서 결석처리됐는데 이거 되돌릴 수 없는지 문의드립니다."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "type": "message",
+        "ts": "1697429483.560629",
+        "client_msg_id": "05210be0-223f-41d4-b249-06ecdb252d75",
+        "text": "<@U05VAHXECP6> 퇴실 스크린샷을 제출해야 출결정정이 가능하다고 합니다. 퇴실 스크린샷을 전달 받을 수 있을까요?",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "miAuE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05VAHXECP6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 퇴실 스크린샷을 제출해야 출결정정이 가능하다고 합니다. 퇴실 스크린샷을 전달 받을 수 있을까요?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U05VAHXECP6"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05V81G5ZDY",
+        "type": "message",
+        "ts": "1697429511.912039",
+        "client_msg_id": "4cc050a0-016d-4744-a1c2-dcc91322d796",
+        "text": "<https:\/\/www.notion.so\/c4935b3e50a2494482a7527b410edcce>\n출결 정정 관련 노션 첨부 드립니다.\n\n<https:\/\/www.notion.so\/1b1e38a64a4143318a84e11b4b705e6c>\n출석대장 양식은 여기에서 확인해주세요!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "db1aceeb0d90",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5994058472162_db1aceeb0d9030c57e69_72.jpg",
+            "first_name": "김현우",
+            "real_name": "김현우",
+            "display_name": "FC 김현우 매니저",
+            "team": "T05UGFFGL07",
+            "name": "hyunwoo.kim",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697428360.985079",
+        "parent_user_id": "U05UUUNAE5D",
+        "attachments": [
+            {
+                "image_url": "https:\/\/www.notion.so\/image\/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F3ef8dbd9-414c-4cf5-813d-32ecb943cc67%2F69fa34a9-260e-4475-bb39-c89f7f5cadad%2FUntitled.png?table=block&id=86dbde94-1c26-492a-a21b-4757f4cbe097&width=2000&userId=&cache=v2",
+                "image_width": 2000,
+                "image_height": 1043,
+                "image_bytes": 570501,
+                "from_url": "https:\/\/www.notion.so\/c4935b3e50a2494482a7527b410edcce",
+                "id": 1,
+                "original_url": "https:\/\/www.notion.so\/c4935b3e50a2494482a7527b410edcce",
+                "fallback": "Fastcampus_B2B on Notion: 출석인정 사유 및 정정 등에 관한 안내",
+                "text": ":panda_face: K-Digital Training 행정처리 가이드",
+                "title": "출석인정 사유 및 정정 등에 관한 안내",
+                "title_link": "https:\/\/www.notion.so\/c4935b3e50a2494482a7527b410edcce",
+                "service_name": "Fastcampus_B2B on Notion"
+            },
+            {
+                "image_url": "https:\/\/www.notion.so\/image\/https%3A%2F%2Fwww.notion.so%2Fimages%2Fpage-cover%2Fgradients_8.png?table=block&id=1b1e38a6-4a41-4331-8a84-e11b4b705e6c&spaceId=3ef8dbd9-414c-4cf5-813d-32ecb943cc67&width=2000&userId=&cache=v2",
+                "image_width": 2000,
+                "image_height": 2000,
+                "image_bytes": 280756,
+                "from_url": "https:\/\/www.notion.so\/1b1e38a64a4143318a84e11b4b705e6c",
+                "id": 2,
+                "original_url": "https:\/\/www.notion.so\/1b1e38a64a4143318a84e11b4b705e6c",
+                "fallback": "Fastcampus_B2B on Notion: [양식] 출석대장양식 \/ 휴가계획서 등",
+                "text": "휴가계획서 - 다운받아 작성 후 → PDF 파일로 저장 →설문시 출석대장과 함께 설문제출",
+                "title": "[양식] 출석대장양식 \/ 휴가계획서 등",
+                "title_link": "https:\/\/www.notion.so\/1b1e38a64a4143318a84e11b4b705e6c",
+                "service_name": "Fastcampus_B2B on Notion"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qTYJn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.notion.so\/c4935b3e50a2494482a7527b410edcce"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n출결 정정 관련 노션 첨부 드립니다.\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.notion.so\/1b1e38a64a4143318a84e11b4b705e6c"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n출석대장 양식은 여기에서 확인해주세요!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05UNC6FNK1",
+        "type": "message",
+        "ts": "1697429599.480599",
+        "client_msg_id": "1046990b-44e9-4826-b3a3-751c3028ccb2",
+        "text": "카드 은행방문 수령으로 진행해주셔야 하는데 괜찮을까요?&gt;",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "260d154ea1e2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5979526758263_260d154ea1e2177fd001_72.jpg",
+            "first_name": "FC",
+            "real_name": "FC 하시안 매니저",
+            "display_name": "FC 하시안 매니저",
+            "team": "T05UGFFGL07",
+            "name": "xianha",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697429211.799009",
+        "parent_user_id": "U05V1DLE962",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sxW4D",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "카드 은행방문 수령으로 진행해주셔야 하는데 괜찮을까요?>"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05VAHXECP6",
+        "type": "message",
+        "ts": "1697429837.355409",
+        "client_msg_id": "d0f9618c-7c55-4e1c-87df-2df94ebe41fe",
+        "text": "성필님! 안녕하세요.\n10\/13(금) 스크린샷 확인해보았는데요.\n입실 스크린샷에서는 확인이 되시나, 퇴실 스크린샷에서는 확인이 안되고 있습니다.\n10\/13(금) 오후 7시에 퇴실 스크린샷 참여해주신 거 맞으실까요?",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "50abee101814",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-11\/6044824153712_50abee1018149e21919b_72.jpg",
+            "first_name": "이상영",
+            "real_name": "이상영",
+            "display_name": "FC 이상영 매니저",
+            "team": "T05UGFFGL07",
+            "name": "sangyeong.lee",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697428360.985079",
+        "parent_user_id": "U05UUUNAE5D",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rmH0h",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "성필님! 안녕하세요.\n10\/13(금) 스크린샷 확인해보았는데요.\n입실 스크린샷에서는 확인이 되시나, 퇴실 스크린샷에서는 확인이 안되고 있습니다.\n10\/13(금) 오후 7시에 퇴실 스크린샷 참여해주신 거 맞으실까요?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05V1DLE962",
+        "type": "message",
+        "ts": "1697430587.325979",
+        "client_msg_id": "7E105C9C-772E-4127-86C4-71E72BFBB3DA",
+        "text": "<@U05UNC6FNK1> 네네 최대한 빠르게 수령할 예정입니다",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "c56423ff4fbb",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5979570600183_c56423ff4fbba4d924ee_72.png",
+            "first_name": "최강희",
+            "real_name": "최강희",
+            "display_name": "최강희",
+            "team": "T05UGFFGL07",
+            "name": "rkdgml3577",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697429211.799009",
+        "parent_user_id": "U05V1DLE962",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "baCYx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05UNC6FNK1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "네네"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "최대한"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "빠르게"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "수령할"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "예정입니다"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05UNC6FNK1",
+        "type": "message",
+        "ts": "1697430636.897139",
+        "client_msg_id": "3892ac9e-86ee-40dc-bd71-8e82fd18975f",
+        "text": "네 일단 등록일자 기준에 따라 안내드릴 내용이 달라서.. 지금 확정안내드리기 어렵습니다!\n수령당일 공유 부탁립니다~~",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "260d154ea1e2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5979526758263_260d154ea1e2177fd001_72.jpg",
+            "first_name": "FC",
+            "real_name": "FC 하시안 매니저",
+            "display_name": "FC 하시안 매니저",
+            "team": "T05UGFFGL07",
+            "name": "xianha",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697429211.799009",
+        "parent_user_id": "U05V1DLE962",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PlNHP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "네 일단 등록일자 기준에 따라 안내드릴 내용이 달라서.. 지금 확정안내드리기 어렵습니다!\n수령당일 공유 부탁립니다~~"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05UUUNAE5D",
+        "type": "message",
+        "ts": "1697430784.445599",
+        "client_msg_id": "6df026d1-fd32-458e-baa7-f91061369414",
+        "text": "네, 맞는데요",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "32899ebdb4c2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5995423014227_32899ebdb4c26d670b69_72.png",
+            "first_name": "감성필SungFeelCalm",
+            "real_name": "감성필SungFeelCalm",
+            "display_name": "감성필",
+            "team": "T05UGFFGL07",
+            "name": "betterthingsarecoming",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697428360.985079",
+        "parent_user_id": "U05UUUNAE5D",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EoJaO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "네, 맞는데요"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05UUUNAE5D",
+        "type": "message",
+        "ts": "1697431003.847549",
+        "client_msg_id": "309e46a6-51d5-4cf5-a508-de5d0dece19b",
+        "text": "제가 피씨에는 카메라가 없어서 스크린샷은 핸폰으로 하고 있는데 핸폰의 경우는 강성필로 이름이 나갈거고, 피씨 접속시에는 감성필(회사에서 쓰는 예명)로 나갈 거예요. 불가피하게 두 개를 쓰고 있고 수업을 들을 때는 화면이 작은 핸폰으로 볼 수 없어 피씨로만 사용 중이예요. 강성필로 확인 부탁드립니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "32899ebdb4c2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5995423014227_32899ebdb4c26d670b69_72.png",
+            "first_name": "감성필SungFeelCalm",
+            "real_name": "감성필SungFeelCalm",
+            "display_name": "감성필",
+            "team": "T05UGFFGL07",
+            "name": "betterthingsarecoming",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697428360.985079",
+        "parent_user_id": "U05UUUNAE5D",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MQXIj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "제가 피씨에는 카메라가 없어서 스크린샷은 핸폰으로 하고 있는데 핸폰의 경우는 강성필로 이름이 나갈거고, 피씨 접속시에는 감성필(회사에서 쓰는 예명)로 나갈 거예요. 불가피하게 두 개를 쓰고 있고 수업을 들을 때는 화면이 작은 핸폰으로 볼 수 없어 피씨로만 사용 중이예요. 강성필로 확인 부탁드립니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U05VAHXECP6"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05VAHXECP6",
+        "type": "message",
+        "ts": "1697431883.251199",
+        "client_msg_id": "2499f297-2cc5-4757-905a-c0af3aacdc61",
+        "text": "성필님. 말씀해주신 것처럼 `본명과 예명 모두 다른 운영진과 함께 재차 확인`해보았는데요. 해당 일자 입실 스크린샷에서는 모두 확인이 되었으나, 퇴실 스크린샷에서는 모두 확인이 안됩니다.\n\n이에 따라 업무가 바쁘셔서 스크린샷도 같이 놓치신 것 같아요. 아쉽지만 입실, 퇴실 스크린샷이 모두 증빙이 되어야 QR 정정이 가능하므로 이번 10\/13(금) QR 정정은 어려우실 것 같습니다.  :pray:",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "50abee101814",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-11\/6044824153712_50abee1018149e21919b_72.jpg",
+            "first_name": "이상영",
+            "real_name": "이상영",
+            "display_name": "FC 이상영 매니저",
+            "team": "T05UGFFGL07",
+            "name": "sangyeong.lee",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697428360.985079",
+        "parent_user_id": "U05UUUNAE5D",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "n0rNy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "성필님. 말씀해주신 것처럼 "
+                            },
+                            {
+                                "type": "text",
+                                "text": "본명과 예명 모두 다른 운영진과 함께 재차 확인",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "해보았는데요. 해당 일자 입실 스크린샷에서는 모두 확인이 되었으나, 퇴실 스크린샷에서는 모두 확인이 안됩니다.\n\n이에 따라 업무가 바쁘셔서 스크린샷도 같이 놓치신 것 같아요. 아쉽지만 입실, 퇴실 스크린샷이 모두 증빙이 되어야 QR 정정이 가능하므로 이번 10\/13(금) QR 정정은 어려우실 것 같습니다.  "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05UUUNAE5D",
+        "type": "message",
+        "ts": "1697432093.281129",
+        "client_msg_id": "efd8979a-234c-4a4f-9649-083c2e85e414",
+        "text": "정신없어서 그랬을지도 모르겠네요. 알람을 맞춰놔야겠어요. 애써주셔서 감사합니다!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "32899ebdb4c2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5995423014227_32899ebdb4c26d670b69_72.png",
+            "first_name": "감성필SungFeelCalm",
+            "real_name": "감성필SungFeelCalm",
+            "display_name": "감성필",
+            "team": "T05UGFFGL07",
+            "name": "betterthingsarecoming",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697428360.985079",
+        "parent_user_id": "U05UUUNAE5D",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "09yPP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "정신없어서 그랬을지도 모르겠네요. 알람을 맞춰놔야겠어요. 애써주셔서 감사합니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U05VAHXECP6"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

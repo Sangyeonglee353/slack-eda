@@ -1,0 +1,765 @@
+[
+    {
+        "user": "U05V2PMAVNE",
+        "type": "message",
+        "ts": "1704197202.664399",
+        "client_msg_id": "fc84ddfa-3511-4806-be32-ba60456c2c3e",
+        "text": "<@U05UNC6FNK1> <@U05V81G5ZDY> 안녕하세요! 1\/2(화) 병가 관련 서류 구글폼으로 제출 완료했습니다. 확인부탁드립니다!",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "0b76558dc601",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5991261451140_0b76558dc60118dba6df_72.png",
+            "first_name": "윤수인",
+            "real_name": "윤수인",
+            "display_name": "",
+            "team": "T05UGFFGL07",
+            "name": "dbsdev98",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1704197202.664399",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1704449057.182629",
+        "reply_users": [
+            "U05V2PMAVNE",
+            "U05UNC6FNK1"
+        ],
+        "replies": [
+            {
+                "user": "U05V2PMAVNE",
+                "ts": "1704429848.705089"
+            },
+            {
+                "user": "U05UNC6FNK1",
+                "ts": "1704429880.518489"
+            },
+            {
+                "user": "U05V2PMAVNE",
+                "ts": "1704449057.182629"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vRjvL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05UNC6FNK1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05V81G5ZDY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 안녕하세요! 1\/2(화) 병가 관련 서류 구글폼으로 제출 완료했습니다. 확인부탁드립니다!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pill",
+                "users": [
+                    "U05V81G5ZDY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05VCCSHKHR",
+        "type": "message",
+        "ts": "1704244741.561309",
+        "client_msg_id": "042d0e7f-0d7d-40ca-b42d-be47173e776c",
+        "text": "<@U05UNC6FNK1> <@U05V81G5ZDY>\n안녕하세요 매니저님!\nLM님과 상담 후 24\/01\/15 (월요일) 휴가 제출 폼 제출하였습니다.\n확인 부탁드리겠습니다. 감사합니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "680561218468",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5998434715235_680561218468939005d6_72.png",
+            "first_name": "송현지",
+            "real_name": "송현지",
+            "display_name": "송현지",
+            "team": "T05UGFFGL07",
+            "name": "hyunjeesong95",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lHqSo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05UNC6FNK1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05V81G5ZDY"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n안녕하세요 매니저님!\nLM님과 상담 후 24\/01\/15 (월요일) 휴가 제출 폼 제출하였습니다.\n확인 부탁드리겠습니다. 감사합니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "beach_with_umbrella",
+                "users": [
+                    "U05V81G5ZDY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05UNC6FNK1",
+        "type": "message",
+        "ts": "1704254876.064049",
+        "client_msg_id": "18a15c4a-016f-4aed-adc9-bee30a7dc50c",
+        "text": "<@U05V0106JDT> <@U0602CFAB7B> 응답해주세요",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "260d154ea1e2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5979526758263_260d154ea1e2177fd001_72.jpg",
+            "first_name": "FC",
+            "real_name": "FC 하시안 매니저",
+            "display_name": "FC 하시안 매니저",
+            "team": "T05UGFFGL07",
+            "name": "xianha",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1703722170.985269",
+        "parent_user_id": "U05UNC6FNK1",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iLfXl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05V0106JDT"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0602CFAB7B"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 응답해주세요"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05UNC6FNK1",
+        "type": "message",
+        "ts": "1704254885.177909",
+        "client_msg_id": "943c9bd9-55a3-4f78-a872-6b22a0d7c39e",
+        "text": "<@U05UN7M2GKZ> 호준님도 전달주세요1",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "260d154ea1e2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5979526758263_260d154ea1e2177fd001_72.jpg",
+            "first_name": "FC",
+            "real_name": "FC 하시안 매니저",
+            "display_name": "FC 하시안 매니저",
+            "team": "T05UGFFGL07",
+            "name": "xianha",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1703722170.985269",
+        "parent_user_id": "U05UNC6FNK1",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dG4Cu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05UN7M2GKZ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 호준님도 전달주세요1"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05UN7M2GKZ",
+        "type": "message",
+        "ts": "1704254942.317769",
+        "client_msg_id": "ec0d26b3-972d-4993-a18d-3c744025cb5f",
+        "text": "<@U05UNC6FNK1> 국민\/ 942902-00-120329",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "g898587e4152",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/898587e41523b6c4bc631e8e0c827f5b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "장호준",
+            "real_name": "장호준",
+            "display_name": "장호준",
+            "team": "T05UGFFGL07",
+            "name": "jhh6650",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1703722170.985269",
+        "parent_user_id": "U05UNC6FNK1",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KdUDo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05UNC6FNK1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 국민\/ 942902-00-120329"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "U05UNC6FNK1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05V0106JDT",
+        "type": "message",
+        "ts": "1704255206.976379",
+        "client_msg_id": "cbba4d46-b35d-4b56-b218-33ee42e83cbf",
+        "text": "우리은행 1002 740 736060",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "gd7b44870731",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d7b448707312b1f05516b12cfcdc5b63.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "김승호",
+            "real_name": "김승호",
+            "display_name": "",
+            "team": "T05UGFFGL07",
+            "name": "shkim0925",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1703722170.985269",
+        "parent_user_id": "U05UNC6FNK1",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rGSgZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "우리은행 1002 740 736060"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05UNC6FNK1",
+        "type": "message",
+        "ts": "1704255304.440529",
+        "client_msg_id": "c55e1147-7ab8-4670-b103-4ac75322baa6",
+        "text": "*<!channel>* 훈련장려금 신청완료 안내 :moneybag:\n• *단위기간*\n    ◦ 2023-10-10~2023-11-09\n• *예상지급시기 : 1월 둘째주 이전*\n• 훈련비 지연이 없게 앞으로도 출결QR 잘 챙겨주시고 서류는 빠르게 제출해주세요~\n    ◦ 단위기간이 2회차나 지연된 부분은 `QR만 진행하고 수강을 하지 않은 분들이 있어 지연됨`을 참고해주세요.\n• 관련한 문의는 본 스레드 태깅 아닌 <#C05V0H8H3GC|4_행정문의방> - <@U05UNC6FNK1> 태깅하시어 별도로 문의주세요!\n",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "260d154ea1e2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5979526758263_260d154ea1e2177fd001_72.jpg",
+            "first_name": "FC",
+            "real_name": "FC 하시안 매니저",
+            "display_name": "FC 하시안 매니저",
+            "team": "T05UGFFGL07",
+            "name": "xianha",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xoktG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " 훈련장려금 신청완료 안내 "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "moneybag",
+                                "unicode": "1f4b0"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "단위기간",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "2023-10-10~2023-11-09"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "예상지급시기 : 1월 둘째주 이전",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "훈련비 지연이 없게 앞으로도 출결QR 잘 챙겨주시고 서류는 빠르게 제출해주세요~"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "단위기간이 2회차나 지연된 부분은 "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "QR만 진행하고 수강을 하지 않은 분들이 있어 지연됨",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "을 참고해주세요."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "관련한 문의는 본 스레드 태깅 아닌 "
+                                    },
+                                    {
+                                        "type": "channel",
+                                        "channel_id": "C05V0H8H3GC"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " - "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U05UNC6FNK1"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " 태깅하시어 별도로 문의주세요!"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "money_mouth_face",
+                "users": [
+                    "U05V5H1T24V",
+                    "U060BLVQYHW"
+                ],
+                "count": 2
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U05V9N22ZUK",
+                    "U05V5B27DK7",
+                    "U060BLVQYHW"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "user": "U05VADPQPCL",
+        "type": "message",
+        "ts": "1704255826.907959",
+        "client_msg_id": "0bdc179b-4954-4f00-9dae-0356f57f9ffd",
+        "text": "<@U05UNC6FNK1> 박준현님께 유선 연락 후 전달 받았습니다.\n국민은행 <tel:910-4179-4999|910-4179-4999>",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "07e7ca00b8f0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-04\/5991092857253_07e7ca00b8f0d0b13ba1_72.png",
+            "first_name": "패스트캠퍼스박기준",
+            "real_name": "패스트캠퍼스박기준",
+            "display_name": "LM 박기준",
+            "team": "T05UGFFGL07",
+            "name": "pgj.fc.career",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1703722170.985269",
+        "parent_user_id": "U05UNC6FNK1",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dKkwU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05UNC6FNK1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 박준현님께 유선 연락 후 전달 받았습니다.\n국민은행 910-4179-4999"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands::skin-tone-2",
+                "users": [
+                    "U05UNC6FNK1"
+                ],
+                "count": 1
+            },
+            {
+                "name": "감",
+                "users": [
+                    "U05UNC6FNK1"
+                ],
+                "count": 1
+            },
+            {
+                "name": "sob",
+                "users": [
+                    "U05UNC6FNK1"
+                ],
+                "count": 1
+            },
+            {
+                "name": "clap::skin-tone-2",
+                "users": [
+                    "U05UNC6FNK1"
+                ],
+                "count": 1
+            },
+            {
+                "name": "thumbsup_all",
+                "users": [
+                    "U05UNC6FNK1"
+                ],
+                "count": 1
+            },
+            {
+                "name": "man-bowing::skin-tone-2",
+                "users": [
+                    "U05UNC6FNK1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05UNC6FNK1",
+        "type": "message",
+        "ts": "1704256610.405049",
+        "client_msg_id": "4da2941f-5075-4882-b48f-d6c98be358da",
+        "text": "기준LM님 감사합니다! 신청 후 개별 전화드릴예정이었는데..... 덕분에 바로 처리할 수 있었어요! (최고)",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "260d154ea1e2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5979526758263_260d154ea1e2177fd001_72.jpg",
+            "first_name": "FC",
+            "real_name": "FC 하시안 매니저",
+            "display_name": "FC 하시안 매니저",
+            "team": "T05UGFFGL07",
+            "name": "xianha",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1703722170.985269",
+        "parent_user_id": "U05UNC6FNK1",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2HreK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "기준LM님 감사합니다! 신청 후 개별 전화드릴예정이었는데..... 덕분에 바로 처리할 수 있었어요! (최고)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U05VADPQPCL"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U05VAU596PP",
+        "type": "message",
+        "ts": "1704258132.888669",
+        "client_msg_id": "072c6cf1-15d8-4509-aafe-9bfc50999120",
+        "text": "<@U05UNC6FNK1> <@U05V81G5ZDY> 안녕하세요. 1월 4일(목)에 면접 일정이 잡혀서 4일 수업 참여가 어려울 것 같습니다.\n추후에 출석 대장과 면접 확인서 제출하겠습니다.",
+        "team": "T05UGFFGL07",
+        "user_team": "T05UGFFGL07",
+        "source_team": "T05UGFFGL07",
+        "user_profile": {
+            "avatar_hash": "850d40cd33f4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-05\/5996957360085_850d40cd33f433747c40_72.png",
+            "first_name": "이소영B",
+            "real_name": "이소영B",
+            "display_name": "",
+            "team": "T05UGFFGL07",
+            "name": "sheep5450",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1704258132.888669",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1704427293.876379",
+        "reply_users": [
+            "U05VAU596PP"
+        ],
+        "replies": [
+            {
+                "user": "U05VAU596PP",
+                "ts": "1704427293.876379"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ayec3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U05UNC6FNK1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05V81G5ZDY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 안녕하세요. 1월 4일(목)에 면접 일정이 잡혀서 4일 수업 참여가 어려울 것 같습니다.\n추후에 출석 대장과 면접 확인서 제출하겠습니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "necktie",
+                "users": [
+                    "U05V81G5ZDY"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]
