@@ -11,7 +11,7 @@ import plotly.express as px
 def main():
     # Set page config
     st.set_page_config(
-        page_title="EDA Result",
+        page_title="Slack EDA Result",
         layout="wide"
     )
 
