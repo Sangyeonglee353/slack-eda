@@ -23,6 +23,7 @@ def main():
     current_dir = os.path.dirname(os.path.abspath(__file__))
     image_path = os.path.join(current_dir, '../assets/images/logo_slack_white.png')
     
+    
     if os.path.exists(image_path):
         image = Image.open(image_path)
         st.sidebar.image(image)
@@ -32,7 +33,7 @@ def main():
     # getData
     # 1. 폴더 및 채널 가져오기
     # folders > folder > channel > daily
-    folders_path = "../data/"
+    folders_path = os.path.join(current_dir, '../data')
     if os.path.exists(folders_path) and os.path.isdir(folders_path):
         folders = os.listdir(folders_path)
         selected_folder = st.sidebar.selectbox("Select a BootCamp", options=folders)
