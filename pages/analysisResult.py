@@ -213,7 +213,7 @@ def main():
                     text = " ".join(message['text'] for message in all_messages if 'text' in message)
                     
                     # 한글 깨짐 방지: font 설정
-                    font_path = "../assets/fonts/NotoSansKR-Regular.ttf"  
+                    font_path = os.path.join(current_dir, "../assets/fonts/NotoSansKR-Regular.ttf")
 
                     # 불용어 처리
                     text = re.sub(r'<@[^>]+>', '', text) # 유니코드 제거: 꺽쇠 괄호 안의 텍스트
