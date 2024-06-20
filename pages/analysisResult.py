@@ -18,11 +18,16 @@ def main():
     st.title("운영 데이터 분석 결과")
 
 ##############################################
-    # sidebar
-    # 이미지 파일 불러오기
-    image = Image.open('../assets/images/logo_slack_white.png')
-
-    st.sidebar.image(image)
+    # Sidebar
+    # 이미지 파일 절대 경로로 불러오기
+    current_dir = os.path.dirname(os.path.abspath(__file__))
+    image_path = os.path.join(current_dir, '../assets/images/logo_slack_white.png')
+    
+    if os.path.exists(image_path):
+        image = Image.open(image_path)
+        st.sidebar.image(image)
+    else:
+        st.sidebar.error(f"Image not found at path: {image_path}")
 
     # getData
     # 1. 폴더 및 채널 가져오기
