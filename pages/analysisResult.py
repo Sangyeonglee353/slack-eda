@@ -23,14 +23,13 @@ def main():
     current_dir = os.path.dirname(os.path.abspath(__file__))
     image_path = os.path.join(current_dir, '../assets/images/logo_slack_white.png')
     
-    
     if os.path.exists(image_path):
         image = Image.open(image_path)
         st.sidebar.image(image)
     else:
         st.sidebar.error(f"Image not found at path: {image_path}")
 
-    # getData
+    # getData in file
     # 1. 폴더 및 채널 가져오기
     # folders > folder > channel > daily
     folders_path = os.path.join(current_dir, '../data')
